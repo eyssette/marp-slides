@@ -65,42 +65,47 @@ La question directrice est ici la suivante :
 - N'est-ce pas grâce au progrès technique que nous sommes devenus capables de maîtriser la nature et nos conditions d'existence ?
 
 ---
-<!-- _class: i1t1 -->
+<!-- _class: i1t1 horizontal fmm -->
 
-Dans le mythe de Prométhée, dont nous avons parlé dans l'introduction
+Dans le mythe de Prométhée, dont nous avons parlé dans l'introduction, le vol du feu par Prométhée représente justement la possibilité pour l'être humain de ne plus vivre dans l'appréhension de la nature sauvage, et rend possible un début de maîtrise de ses propres conditions d'existence : grâce à la technique, l'être humain n'est plus nu, c'est-à-dire vulnérable face au monde extérieur.
 
 ![](https://mythologica.fr/grec/pic/cossiers_promethee.jpg)
 
+---
+<!-- _class: fppppppppp -->
+Mais c'est surtout avec les technologie modernes que les êtres humains vont parvenir à une véritable maîtrise de la nature, dans la mesure où la technique va se fonder sur **l'objectivation** de la nature par la science et un processus de **désenchantement du monde**. 
+
+La **maîtrise théorique** des lois de la nature va permettre la **maîtrise pratique** des forces et ressources de la nature.
 
 ---
-<!-- _class: partie -->
-# II – Il y a des raisons<br> d'avoir peur de<br> la technique <!--fit-->
-Deuxième partie
+<!-- _class: citationM1 fpp -->
+
+![](https://upload.wikimedia.org/wikipedia/commons/1/16/Max_Weber_1894.jpg)
+
+>« Faisons-nous une idée claire, tout d'abord, de ce que signifie pratiquement en fait cette rationalisation par la science et par la technique guidée par la science. […] Cela signifie le désenchantement du monde. Nous n'avons plus […] à recourir à des moyens magiques pour maîtriser les esprits et les solliciter. Bien plutôt, des moyens techniques et le calcul sont disponibles à cet effet. »
+>> Max **Weber**, _Le savant et la politique_
 
 ---
-<!-- _class: souspartie fmm-->
-## A. … parce que la <br>technique peut conduire<br> à des transformations importantes et inquiétantes
+<!-- _class: citationC  -->
+
+![bg left:40%](https://upload.wikimedia.org/wikipedia/commons/7/73/Frans_Hals_-_Portret_van_Ren%C3%A9_Descartes.jpg)
+
+>La technique permet de « nous rendre comme maîtres et possesseurs de la nature »
+>>**Descartes**, _Discours de la méthode_, VI
 
 ---
-<!-- _class: etape -->
-### 1) Une transformation de <br>l'économie et de la société ?
+
+Ce qui rend possible la maîtrise théorique de la nature, c'est plus précisément la mise en évidence de **lois de la nature** par le biais de la **mathématisation** des phénomènes physiques.
 
 ---
-<!-- _class: etape -->
-### 2) Une transformation des<br> individus eux-mêmes ?
+<!-- _class: definition fppppp-->
+
+### Définition
+- Une loi de la nature est une relation constante entre plusieurs paramètres physiques.
+- Cette relation s'exprime sous la forme d'une équation mathématique entre des grandeurs physiques.
+- Exemple : la loi d'Ohm (U = RI)
 
 ---
-<!-- _class: etape -->
-### 3) Une transformation de l'environnement naturel ?
-
----
-<!-- _class: souspartie fppp -->
-## B. … parce que la <br>technique peut échapper<br> à notre contrôle
-
----
-La question directrice est ici la suivante : 
-- Peut-on contrôler démocratiquement le développement technologique ?
-
-
----
-<!-- _class: -->
+<!-- _class: fpppppppppppp-->
+- Cependant, faut-il considérer la peur de la technique comme une simple phobie irrationnelle ?
+- Y a-t-il des craintes légitimes ?
