@@ -4,9 +4,6 @@ theme: teaching
 paginate: true
 size: 4:3
 ---
-<style>
-    blockquote {font-family:"ETBembo", "Minion Pro", "Times New Roman";}
-</style>
 
 <!-- _class: partie -->
 # II – Il y a des<br> raisons d'avoir peur<br> de la technique <!--fit-->
@@ -101,7 +98,7 @@ Ce système suppose une transmission rapide de l'information et un contrôle, id
 ---
 <!-- _class: i1t1 vertical fmmm-->
 <style scoped>
-    p:last-child{margin:10px; margin-top:-10px; text-align:center;}
+    p:last-child{margin:10px; margin-top:-10px;}
 </style>
 
 [![](images/teleperformance.png)](https://drive.google.com/file/d/0B1WGm8LGlYXzREgyaDg5enVTNU9BNWJRYUNTaHBiZw/view)
@@ -121,7 +118,7 @@ Usage de la commande vocale pour les préparateurs de commande : extrait du docu
 <style scoped>
     p:nth-of-type(1) {font-size:110%;}
     p:nth-of-type(2) {margin-top:-35px;}
-    ul{margin-top:-45px}
+    ul{margin-top:-35px}
 </style>
 ### Discussion
 
@@ -142,9 +139,6 @@ Nous nous sommes surtout focalisés sur la manière dont la technique peut trans
 
 ---
 <!-- _class: entete discussion fppp -->
-<style scoped>
-    ul {margin-top:-20px}
-</style>
 
 ### Discussion
 
@@ -199,7 +193,7 @@ C'est par exemple la thèse d'Albert Borgmann (_cf._ diapositive suivante).
 ---
 <!-- _class: entete discussion f -->
 <style scoped>
-    ul, p {margin-top:-20px; padding-top:0}
+    p {margin-top:-20px; padding-top:0}
     </style>
 
 ### Discussion
@@ -234,7 +228,6 @@ Il y a en effet des technologies contemporaines de captation de l'attention qui 
 ---
 <!-- _class: entete discussion fp -->
 <style scoped>
-    ul {margin-top:-20px}
     p {margin-top:-10px}
 </style>
 
@@ -297,9 +290,6 @@ Andrew Feenberg propose un deuxième argument important sur cette question.
 
 ---
 <!-- _class: entete discussion fppppppp-->
-<style scoped>
-    ul {margin-top:-20px}
-</style>
 ### Discussion
 
 Réfléchissons à partir d'un cas précis : le recours à des algorithmes à la place d'êtres humains pour prendre certaines décisions.
