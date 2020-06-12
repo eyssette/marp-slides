@@ -1,8 +1,55 @@
-Bilan pour la philosophie (à l'écrit pour éviter l'audio, pas très fiable) : 
-– De grosses pertes d'élèves dans certaines séries, mais pas toujours, avec quelques surprises : des élèves qui finalement se sont investis en philosophie, simplement parce que ça leur plaisait.
-– La philosophie a souvent permis aux élèves un temps de réflexion sur l'épidémie : les élèves étaient en demande de recul critique par rapport à tout ce qui se passait, d'un point de vue éthique, mais aussi épistémologique (sur la manière dont on produit de la science).
-– Une fois qu'on a su que le baccalauréat était en contrôle continu, beaucoup de professeurs en ont profité pour pouvoir proposer des débats avec les élèves qui ne rentraient pas dans le programme strict de préparation des épreuves. On a pu aussi préparer certains élèves davantage au post-bac (classes prépa notamment).
-– Beaucoup de professeurs en ont profité pour inventer des exercices, s'approprier certaines plateformes pour cela.
-– Encore plus de partage entre professeurs : le temps pour préparer des cours accessibles sans le présentiel est vraiment très important… d'où l'intérêt encore plus de l'échange de ce type de cours. Les cours ont pu s'améliorer en raison de la nécessité d'expliciter les contenus.
-– La philosophie reposant énormémement sur la discussion, il a manqué un outil institutionnel type "forum de discussion" (à l'écrit). Je pense qu'il y a là quelque chose à faire. Le chat ou les forums de l'ENT ne sont pas assez performants. Les tchats via plateformes pour la visio sont pas adaptés pour un échange écrit dont on garderait la trace. 
-– Une fois que l'ENT a fonctionné à nouveau, la fonction de récupération de travaux en ligne a été très performante et pratique.
+---
+marp: true
+theme: teaching
+paginate: true
+size: 4:3
+---
+<!-- _class: titre -->
+
+# Bilan pour la philosophie
+Cédric Eyssette
+IAN Philosophie
+
+---
+<!-- _class: partie -->
+# Du point de vue des élèves
+
+---
+
+De grosses pertes d'élèves dans certaines séries, mais pas toujours, avec quelques surprises : des élèves qui finalement se sont investis en philosophie, simplement parce que ça leur plaisait.
+
+---
+La philosophie a souvent permis aux élèves un temps de réflexion sur l'épidémie : les élèves étaient en demande de recul critique par rapport à tout ce qui se passait, d'un point de vue éthique, mais aussi épistémologique (sur la manière dont on produit de la science).
+
+---
+Une fois qu'on a su que le baccalauréat était en contrôle continu, beaucoup de professeurs en ont profité pour pouvoir proposer des débats avec les élèves qui ne rentraient pas dans le programme strict de préparation des épreuves. On a pu aussi préparer certains élèves davantage au post-bac (classes prépa notamment).
+
+---
+<!-- _class: partie -->
+# Du point de vue des enseignants
+
+---
+Beaucoup de professeurs en ont profité pour inventer des exercices, s'approprier certaines plateformes pour cela.
+
+
+---
+Encore plus de partage entre professeurs : le temps pour préparer des cours accessibles sans le présentiel est vraiment très important… d'où l'intérêt encore plus de l'échange de ce type de cours. Les cours ont pu s'améliorer en raison de la nécessité d'expliciter les contenus.
+
+
+---
+<!-- _class: partie -->
+# Du point de vue des outils
+
+---
+
+Une fois que l'ENT a fonctionné à nouveau, la fonction de récupération de travaux en ligne a été très performante et pratique.
+
+---
+
+Pour la correction des travaux, j'ai créé un outil en ligne, qui peut probablement servir dans d'autres disciplines :
+
+https://eyssette.github.io/mark-down-papers/
+
+
+---
+La philosophie reposant énormémement sur la discussion, il a manqué un outil institutionnel type "forum de discussion" (à l'écrit). Je pense qu'il y a là quelque chose à faire. Le chat ou les forums de l'ENT ne sont pas assez performants. Les tchats via plateformes pour la visio sont pas adaptés pour un échange écrit dont on garderait la trace. 
