@@ -11,17 +11,15 @@ Cédric Eyssette (2019-2020)
 http://eyssette.net
 
 ---
-
 Je vous propose ici trois débats accompagnés chacun d'un dossier de textes pour approfondir votre réflexion :
 1. La fonction de l'État est-elle de maintenir l'ordre public ?
-2. Qu'est-ce que la justice sociale ?
+2. Que faut-il faire pour parvenir à davantage de justice sociale ?
 3. La cohésion sociale repose-t-elle sur le partage d'une même culture ?
 
 ---
 <!-- _class: partie -->
 # I – La fonction <br>de l'État est-elle<br> de maintenir<br> l'ordre public ? <!-- fit -->
 Première partie
-
 
 ---
 <!-- _class: entete discussion f -->
@@ -124,7 +122,7 @@ Nous allons envisager ici quatre approches :
 
 ---
 <!-- _class: partie -->
-# II – L'État doit-il<br> intervenir dans le<br> champ économique<br> et social ? <!-- fit -->
+# II – Que faut-il faire<br> pour parvenir à <br>davantage de <br>justice sociale ? <!-- fit -->
 Deuxième partie
 
 ---
@@ -135,12 +133,79 @@ ul, ol {margin-top:-45px}
 </style>
 ### Discussion
 
-Nous allons envisager ici deux approches : 
-1. Le libéralisme économique
+Nous allons envisager ici trois approches : 
+1. Le libéralisme économique de Hayek
 2. La théorie de la justice de Rawls
+3. L'approche bidimensionnelle de Fraser
 
 - Pour chacune de ces thèses : quelle est la force de cette approche ? Quelles en sont les limites ?
 - Quelle est la thèse la plus pertinente selon vous ? Défendez votre réponse contre les objections que pourraient formuler les autres approches.
+
+---
+<!-- _class: souspartie -->
+## A. Le libéralisme économique de Hayek
+
+---
+<!-- _class: citationC fppp -->
+![bg left:42%](https://www.libertas.co/images/1/1f/Friedrich_Hayek_3.jpg)
+>« Il reste toujours la question de savoir si la réalisation d'un idéal de justice conçu par un homme déterminé n'entraînerait pas plus de mécontentement et plus d'oppression que n'en a jamais produit le libre jeu, tant décrié, des forces économiques. »
+>>Friedrich **Hayeck**, _La Route de la servitude_, chapitre VII
+
+
+---
+<!-- _class: citationL -->
+
+>« Le libéralisme veut qu'on fasse le meilleur usage possible des forces de la concurrence en tant que moyen de coordonner les efforts humains; il ne veut pas qu'on laisse les choses en l'état où elles sont. Le libéralisme est basé sur la conviction que la concurrence est le meilleur moyen de guider les efforts individuels. Il ne nie pas, mais souligne au contraire que pour que la concurrence puisse jouer un rôle bienfaisant, une armature juridique soigneusement conçue est nécessaire; il admet que les lois passées et présentes ont de graves défauts. Il ne nie pas non plus que partout où il est impossible de rendre la concurrence efficace, il nous faut recourir à d'autres méthodes pour guider l'activité économique. Toutefois le libéralisme économique est opposé au remplacement de la concurrence par des méthodes inférieures de coordination des efforts humains. Il considère la concurrence comme supérieure non seulement parce qu'elle est dans la plupart des circonstances la méthode la plus efficace qu'on connaisse, mais plus encore parce qu'elle est la seule méthode qui permette d'ajuster nos activités les unes aux autres sans intervention arbitraire ou coercitive de l'autorité. […]  La préservation de la concurrence n'est pas […] incompatible avec un vaste système de services sociaux - tant que l'organisation de ces services n'est pas conçue pour rendre la concurrence inopérante. »
+>>Friedrich **Hayeck**, _La Route de la servitude_, chapitre III
+
+---
+<!-- _class: souspartie -->
+## B. La théorie de la justice de Rawls
+
+
+---
+<!-- _class: citationC-->
+![bg left:45%](https://cdn.radiofrance.fr/s3/cruiser-production/2019/10/11989c3d-9c69-4423-86e1-51dccf3a3273/838_john_rawls.jpg)
+>« [C]eux qui ont gagné le plus doivent le faire en termes justifiables pour ceux qui ont gagné le moins »
+>>John **Rawls**, _Théorie de la justice_, §26
+
+---
+<!-- _class: citationL fmmmm -->
+>« Ceux qui ont des familles susceptibles de les soutenir financièrement et qui ont reçu une bonne éducation sont manifestement avantagés par rapport à ceux pour lesquels ce n’est pas le cas. Permettre à chacun de prendre part à la course est une bonne chose, mais si la ligne de départ n’est pas la même pour tous les coureurs, on aura du mal à prétendre que la course est juste. C’est pourquoi, selon Rawls, la répartition des revenus et de la richesse qui résulte du fonctionnement libre du marché, sur fond d’égalité formelle des opportunités, ne peut être considérée comme juste. Là où le système libertaire est particulièrement injuste, c’est en ce qu’il « permet que la répartition soit influencée de manière indue par des facteurs aussi arbitraires, d’un point de vue moral ». On peut parer à cette injustice par la correction des désavantages sociaux et économiques. Une méritocratie équitable tente de s’y employer en allant au-delà de l’égalité formelle des chances. Elle écarte les obstacles à la réussite en procurant à chacun les mêmes chances éducatives, de sorte que les familles pauvres puissent être à égalité avec les familles plus privilégiées au moment d’entrer dans la compétition. »
+>>Michael **Sandel**, _Justice_, ch. VI
+
+---
+<!-- _class: citationL fmmmmmm-->
+<style scoped>
+blockquote:first-child {padding:15px;}
+</style>
+>« Pour Rawls, cette conception méritocratique corrige certains avantages moralement arbitraires, mais reste encore en deçà des exigences de la justice. En effet, même si l’on parvient à placer tout le monde sur la même ligne de départ, on peut néanmoins prévoir, avec plus ou moins de certitude, qui remportera la course : les coureurs les plus rapides. Or être un coureur rapide n’est pas davantage de mon fait. C’est contingent, sur le plan moral, au même titre que le fait de naître dans une famille aisée. Même si cet idéal méritocratique « œuvre à la perfection, écrit Rawls, pour éliminer l’influence des contingences sociales, [il] continue de permettre que la répartition des richesses et des revenus soit déterminée par la répartition naturelle des capacités et des talents ». […] Rawls propose une […] solution […] dont l’objectif est de corriger l’inégale répartition des talents et des dispositions, sans infliger de handicap aux plus favorisés. Comment ? En encourageant les personnes ayant des talents à les développer et à les exercer, tout en s’assurant que les bénéfices que produisent ces talents sur le marché appartiennent à la communauté dans son ensemble. N’imposez pas de handicap aux coureurs les plus rapides ; laissez-les courir et aller au bout de leurs possibilités. Admettez simplement toutefois que les gains ne leur appartiennent pas exclusivement, mais devraient être partagés avec ceux qui ne disposent pas de dispositions aussi grandes. »
+>>Michael **Sandel**, _Justice_, ch. VI
+
+---
+<!-- _class: souspartie -->
+## C. L'approche bidimensionnelle de Fraser
+
+---
+<!-- _class: citationC fpp-->
+![bg left:43%](https://www.mcgill.ca/channels-contribute/files/channels-contribute/styles/medium_landscape__320/public/channels/image/nf_barcelona_1_.jpg?itok=gZWo4TxU)
+>« Ce n’est qu’en regardant du côté des approches qui s’emploient à unir redistribution et reconnaissance que les conditions nécessaires à une justice pour tous pourront être remplies. »
+>>Nancy **Fraser**, _Qu'est-ce que la justice sociale ?_, chapitre 2
+
+---
+<!-- _class: citationL fmmmm -->
+>« J’ai commencé à travailler sur [la question de la justice sociale] au milieu des années 1990. Il y avait surtout aux États-Unis un divorce […] entre ceux qui adoptaient une perspective économique ou distributive et un nouveau courant qui s’intéressait aux « politiques de reconnaissance », en focalisant l’attention sur les questions d’identité et de différence, en particulier celles des minorités. Les premiers […] s’attachaient aux aspects économiques de la domination et aux rapports de classes sociales. Les seconds, les tenants de la reconnaissance, s’intéressaient davantage aux dimensions culturelles et symboliques de la domination qui pesaient fortement sur un certain nombre de groupes, tels les Noirs, les femmes, les gays et les lesbiennes… Il y avait entre ces deux courants une forte méfiance. […] Je me suis convaincue que cette division était improductive et qu’il y avait du vrai des deux côtés. J’ai donc cherché à intégrer ces deux paradigmes : la redistribution et la reconnaissance. Mon idée était qu’aucun des deux ne pouvait saisir tous les types d’injustices de notre monde. »
+>>Nancy **Fraser**, Entretien « Les dilemmes de la justice sociale », dans _Philosophies et pensées de notre temps_
+
+---
+<!-- _class: citationL fmmmm-->
+>« Le remède à l’injustice économique passe par une forme de restructuration économique. Ceci peut comprendre la redistribution des revenus, la réorganisation de la division du travail, la soumission des décisions d’investissement à un contrôle démocratique ou la transformation des structures économiques fondamentales. Quoique ces remèdes soient très différents les uns des autres, j’y ferai référence, en bloc, sous le vocable de « redistribution ». Le remède à l’injustice culturelle, pour sa part, réside dans le changement culturel ou symbolique. Ceci peut prendre la forme d’une réévaluation des identités méprisées et des produits culturels des groupes discriminés. Il peut aussi prendre la forme de la reconnaissance et de la valorisation de la diversité culturelle. Plus radicalement encore, il peut prendre la forme d’un bouleversement général des modèles sociaux de représentation, d’interprétation et de communication dans un sens qui modifierait le sens de soi de chacun. Même si ces remèdes couvrent un large éventail de possibilités, j’y ferai désormais référence, en bloc, sous la catégorie de « reconnaissance ». »
+>>Nancy **Fraser**, _Qu'est-ce que la justice sociale ?_, chapitre 1
+
+---
+<!-- _class: citationL fmm-->
+> « [R]edistribution et reconnaissance sont de plus en plus posées comme des alternatives qui s’excluent mutuellement. […] Il s’agit néanmoins d’une fausse opposition. […] [T]ous les axes d’oppression dans la vie réelle sont mixtes. Ils impliquent tous de fait une distribution inique et un déni de reconnaissance. […] Tous les axes d’oppression ne sont évidemment pas mixtes de la même manière, ou au même niveau. Néanmoins, vaincre l’injustice requiert dans chaque cas une politique de redistribution et de reconnaissance. Cette manière de voir les choses s’impose à plus forte raison dès lors que l’on cesse de considérer les axes de l’injustice sociale séparément, et qu’on les examine simultanément, comme des axes qui se chevauchent. Après tout, le genre, la race, la sexualité et la classe ne sont pas isolés les uns des autres. Tous ces axes d’injustice se croisent en affectant les intérêts et les identités de chacun. Et qui est à la fois homosexuel et ouvrier a autant besoin de redistribution que de reconnaissance. »
+>>Nancy **Fraser**, _Qu'est-ce que la justice sociale ?_, chapitre 2
 
 
 
@@ -159,8 +224,8 @@ ul, ol {margin-top:-45px}
 ### Discussion
 
 Nous allons envisager ici trois approches : 
-1. Le nationalisme culturel
-2. L'universalisme républicain
+1. L'universalisme républicain
+2. Le nationalisme culturel
 3. Le multiculturalisme libéral
 
 - Pour chacune de ces thèses : quelle est la force de cette approche ? Quelles en sont les limites ?
