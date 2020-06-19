@@ -149,14 +149,14 @@ Nous allons envisager ici trois approches :
 <!-- _class: citationC fppp -->
 ![bg left:42%](https://www.libertas.co/images/1/1f/Friedrich_Hayek_3.jpg)
 >« Il reste toujours la question de savoir si la réalisation d'un idéal de justice conçu par un homme déterminé n'entraînerait pas plus de mécontentement et plus d'oppression que n'en a jamais produit le libre jeu, tant décrié, des forces économiques. »
->>Friedrich **Hayeck**, _La Route de la servitude_, chapitre VII
+>>Friedrich **Hayek**, _La Route de la servitude_, chapitre VII
 
 
 ---
 <!-- _class: citationL -->
 
 >« Le libéralisme veut qu'on fasse le meilleur usage possible des forces de la concurrence en tant que moyen de coordonner les efforts humains; il ne veut pas qu'on laisse les choses en l'état où elles sont. Le libéralisme est basé sur la conviction que la concurrence est le meilleur moyen de guider les efforts individuels. Il ne nie pas, mais souligne au contraire que pour que la concurrence puisse jouer un rôle bienfaisant, une armature juridique soigneusement conçue est nécessaire; il admet que les lois passées et présentes ont de graves défauts. Il ne nie pas non plus que partout où il est impossible de rendre la concurrence efficace, il nous faut recourir à d'autres méthodes pour guider l'activité économique. Toutefois le libéralisme économique est opposé au remplacement de la concurrence par des méthodes inférieures de coordination des efforts humains. Il considère la concurrence comme supérieure non seulement parce qu'elle est dans la plupart des circonstances la méthode la plus efficace qu'on connaisse, mais plus encore parce qu'elle est la seule méthode qui permette d'ajuster nos activités les unes aux autres sans intervention arbitraire ou coercitive de l'autorité. […]  La préservation de la concurrence n'est pas […] incompatible avec un vaste système de services sociaux - tant que l'organisation de ces services n'est pas conçue pour rendre la concurrence inopérante. »
->>Friedrich **Hayeck**, _La Route de la servitude_, chapitre III
+>>Friedrich **Hayek**, _La Route de la servitude_, chapitre III
 
 ---
 <!-- _class: souspartie -->
