@@ -188,7 +188,7 @@ blockquote:first-child {padding:15px;}
 
 ---
 <!-- _class: citationC fpp-->
-![bg left:43%](https://www.mcgill.ca/channels-contribute/files/channels-contribute/styles/medium_landscape__320/public/channels/image/nf_barcelona_1_.jpg?itok=gZWo4TxU)
+![bg left:43%](https://i.ibb.co/3CdsZRY/fraser.png)
 >« Ce n’est qu’en regardant du côté des approches qui s’emploient à unir redistribution et reconnaissance que les conditions nécessaires à une justice pour tous pourront être remplies. »
 >>Nancy **Fraser**, _Qu'est-ce que la justice sociale ?_, chapitre 2
 
