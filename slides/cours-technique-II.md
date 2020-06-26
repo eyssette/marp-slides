@@ -70,7 +70,7 @@ L'ouvrier est dépossédé de tout savoir-faire. Le travail se réduit à un ges
 - Comment peut-on utiliser le film de Charlie Chaplin, _Les temps modernes_ (_cf._ diapositive suivante), pour décrire le taylorisme ?
 ---
 <!-- _class: i1t0 pp-->
-![](images/modern-times.png)
+![](./images/modern-times.png)
 
 ---
 <!-- _class: exercice argumentation fp-->
