@@ -7,3 +7,5 @@ Les diaporamas sont écrits en [Markdown](https://github.com/YannHY/cours/blob/m
 Les diaporamas terminés sont dans le [dossier slides](https://github.com/eyssette/MARP-slides/tree/master/slides).
 
 - [Cours sur la technique - Partie I](https://eyssette.github.io/MARP-slides/slides/cours-technique-I.html)
+- [Cours sur la technique - Partie II](https://eyssette.github.io/MARP-slides/slides/cours-technique-II.html)
+- [Introduction à la philosophie sociale et politique](https://eyssette.github.io/MARP-slides/slides/introduction-philosophie-sociale-et-politique.html)
