@@ -70,7 +70,7 @@ L'ouvrier est dépossédé de tout savoir-faire. Le travail se réduit à un ges
 - Comment peut-on utiliser le film de Charlie Chaplin, _Les temps modernes_ (_cf._ diapositive suivante), pour décrire le taylorisme ?
 ---
 <!-- _class: i1t0 pp-->
-![](./images/modern-times.png)
+![](../images/modern-times.png)
 
 ---
 <!-- _class: exercice argumentation fp-->
@@ -101,7 +101,7 @@ Ce système suppose une transmission rapide de l'information et un contrôle, id
     p:last-child{margin:10px; margin-top:-10px;}
 </style>
 
-[![](images/teleperformance.png)](https://drive.google.com/file/d/0B1WGm8LGlYXzREgyaDg5enVTNU9BNWJRYUNTaHBiZw/view)
+[![](../images/teleperformance.png)](https://drive.google.com/file/d/0B1WGm8LGlYXzREgyaDg5enVTNU9BNWJRYUNTaHBiZw/view)
 
 Usage de l'informatique pour surveiller les performances : 
 extrait du documentaire _Attention Danger Travail_ [+](https://drive.google.com/file/d/0B1WGm8LGlYXzREgyaDg5enVTNU9BNWJRYUNTaHBiZw/view)
@@ -109,7 +109,7 @@ extrait du documentaire _Attention Danger Travail_ [+](https://drive.google.com/
 ---
 
 
-[![](images/commande-vocale.png)](https://youtu.be/s5uHC6TN2wo?t=1100)
+[![](../images/commande-vocale.png)](https://youtu.be/s5uHC6TN2wo?t=1100)
 
 Usage de la commande vocale pour les préparateurs de commande : extrait du documentaire _Travail, ton univers impitoyable_ [+](https://youtu.be/s5uHC6TN2wo?t=1100)
 
