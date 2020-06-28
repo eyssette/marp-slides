@@ -1,5 +1,5 @@
 {
-// Des snippets pour pouvoir créer plus rapidement des diaporamas en Markdown avec Marp et le thème Teaching
+	// Des snippets pour pouvoir créer plus rapidement des diaporamas en Markdown avec Marp et le thème Teaching
 
 "marp": {
 	"prefix": "marp",
