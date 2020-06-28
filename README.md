@@ -9,3 +9,5 @@ Les diaporamas terminés sont dans le [dossier slides](https://github.com/eysset
 - [Cours sur la technique - Partie I](https://eyssette.github.io/marp-slides/slides/cours-technique-I.html)
 - [Cours sur la technique - Partie II](https://eyssette.github.io/marp-slides/slides/cours-technique-II.html)
 - [Introduction à la philosophie sociale et politique](https://eyssette.github.io/marp-slides/slides/introduction-philosophie-sociale-et-politique.html)
+
+Je partage aussi les [snippets](https://eyssette.github.io/marp-slides/snippets.json) que j'utilise pour aller plus vite : 
