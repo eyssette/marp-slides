@@ -25,6 +25,10 @@ Nous allons organiser notre réflexion autour d'une question directrice :
 - Comment pouvons-nous parvenir à la vérité ?
 
 ---
+<!-- _class:  -->
+
+
+---
 <!-- _class: partie -->
 # I - Épistémologie<br> générale <!-- fit -->
 Première partie
@@ -34,9 +38,13 @@ Première partie
 
 - Comment pouvons-nous parvenir à la vérité ?
 
-La question que nous avons posée doit d'abord être examinée de manière générale.
+Nous pouvons tout d'abord examiner la question de manière générale.
 
-La question repose sur trois présupposés que nous devons interroger : 
-1. Premier présupposé : la vérité existe [<sup>+</sup>](URL "Cela n'aurait pas de sens de chercher à obtenir quelque chose qui n'existe pas : si on se pose la question de savoir comment parvenir à la vérité, on présuppose donc qu'elle existe")
-2. Deuxième présupposé : la vérité est accessible [<sup>+</sup>](URL "Si on se demande comment on peut parvenir à la vérité, c'est qu'on présuppose qu'il est possible de l'obtenir")
-3. Troisième préupposé : la vérité est désirable [<sup>+</sup>](URL "Si la vérité n'était pas désirable, on ne chercherait pas à savoir comment parvenir à la vérité")
+Cette question repose sur trois présupposés que nous devons interroger : 
+1. Premier présupposé : la vérité existe [⁺](URL "Cela n'aurait pas de sens de chercher à obtenir quelque chose qui n'existe pas : si on se pose la question de savoir comment parvenir à la vérité, on présuppose donc qu'elle existe")
+2. Deuxième présupposé : la vérité est accessible [⁺](URL "Si on se demande comment on peut parvenir à la vérité, c'est qu'on présuppose qu'il est possible de l'obtenir")
+3. Troisième préupposé : la vérité est désirable [⁺](URL "Si la vérité n'était pas désirable, on ne chercherait pas à savoir comment parvenir à la vérité")
+
+---
+<!-- _class: souspartie -->
+## Premier présupposé : la vérité existe
