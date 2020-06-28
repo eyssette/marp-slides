@@ -67,8 +67,8 @@ Nous pouvons tout d'abord examiner la question de manière générale.
 
 Cette question repose sur trois présupposés que nous devons interroger : 
 1. Premier présupposé : la vérité existe [⁺](URL "Cela n'aurait pas de sens de chercher à obtenir quelque chose qui n'existe pas : si on se pose la question de savoir comment parvenir à la vérité, on présuppose donc qu'elle existe")
-2. Deuxième présupposé : la vérité est accessible [⁺](URL "Si on se demande comment on peut parvenir à la vérité, c'est qu'on présuppose qu'il est possible de l'obtenir")
-3. Troisième préupposé : la vérité est désirable [⁺](URL "Si la vérité n'était pas désirable, on ne chercherait pas à savoir comment parvenir à la vérité")
+2. Deuxième présupposé : la vérité n'est pas inacessible [⁺](URL "Si on se demande comment on peut parvenir à la vérité, c'est qu'on présuppose qu'il est possible de l'obtenir")
+3. Troisième présupposé : la vérité est désirable [⁺](URL "Si la vérité n'était pas désirable, on ne chercherait pas à savoir comment parvenir à la vérité")
 
 ---
 <!-- _class: souspartie -->
@@ -141,8 +141,53 @@ Le relativisme de la vérité prétend souvent être le meilleur moyen de défen
  >« Le relativisme […] garantirait, dit-on, le droit des dominés et des minorités à défendre leur propre vision du monde. Et, certes, il peut arriver qu’il leur offre temporairement une protection efficace. Mais, fondamentalement, il est contradictoire avec tout projet d’émancipation, car il dépossède les dominés des armes de la critique […]. Les dominés, en effet, ne peuvent espérer s’émanciper et retourner le rapport de force en leur faveur s’ils n’ont pas la possibilité de l’emporter sur les dominants dans l’espace des raisons : celui de la connaissance du monde et de la société où la seule force est celle des analyses et des arguments. C’est ce qu’avaient compris les Lumières en nouant l’alliance de la connaissance et de la liberté. En détruisant l’espace des raisons, le relativisme dénoue cette alliance et enferme les plus faibles dans le seul espace des rapports de force où ils seront, par définition, toujours les vaincus. »
 >>Jean-Jacques **Rosat**, Préface à _La peur du savoir_ de Paul Boghossian, éd. Agone, p. XXV
 
+---
+<!-- _class: fpppp -->
  
+ 4. Croire qu'il y a des vérités n'implique pas de refuser le dialogue : on peut chercher à convaincre autrui qu'on a raison, ou bien chercher à progresser ensemble vers la vérité en dépassant la compréhension partielle qu'on en a. Le relativisme au contraire conduit chacun à rester dans sa propre opinion, sans véritable dialogue : on refuse d'envisager la possibilité qu'on se trompe et on n'écoute pas les arguments d'autrui qui pourraient nous inciter à modifier nos croyances.
 
- 
+---
+<!-- _class: etape -->
+### 3/ L'argument de la dépendance conceptuelle 
 
- 
+Cet argument est plus complexe : vous pouvez essayer de le comprendre éventuellement, mais c'est facultatif
+
+---
+<!-- _class: i1t0 pp -->
+
+[![schéma de l'argument de la dépendance conceptuelle et des critiques qu'on peut lui faire](https://raw.githubusercontent.com/eyssette/graphviz-examples/3429f84e82a91fe47b483656848af4d382f33a6c/argument/argument-dependance-conceptuelle.svg)](https://raw.githubusercontent.com/eyssette/graphviz-examples/3429f84e82a91fe47b483656848af4d382f33a6c/argument/argument-dependance-conceptuelle.svg)
+
+---
+<!-- _class: etape -->
+### 4/ Deux objections majeures contre le relativisme de la vérité
+
+---
+<!-- _class: fmm -->
+<style>
+h4 {text-align:justify}
+</style>
+
+#### (i) Le relativisme conduit à des confusions importantes à propos de la notion d'opinion
+
+Si on dit que “chacun a sa vérité”, cela revient au fond à dire que “chacun a son opinion” : on fait comme si la vérité et l'opinion étaient des notions équivalentes. On refuse alors de distinguer les opinions vraies et les opinions fausses, ce qui semble illégitime au moins pour certains cas : dire que “2+2=5”, ou affirmer qu'il pleut alors qu'il ne pleut pas, tout cela constitue manifestement des opinions fausses. 
+
+De plus, quand on exprime son opinion, on exprime un engagement envers la vérité de ce qu'on affirme. Cela n'aurait pas de sens de dire : “Je pense qu'il pleut, mais ce n'est pas vrai qu'il pleut”. 
+
+---
+<!-- _class: f -->
+#### (ii) Le relativisme conduit à une contradiction
+
+Si on affirme que la vérité n'existe pas, cela signifie qu'on affirme que c'est vrai que la vérité n'existe pas. On présuppose donc qu'il y a au moins une vérité (que la vérité n'existe pas). Par conséquent : on se contredit. On affirme à la fois qu'il n'y a pas de vérité et qu'il y en a une.
+
+Autre manière de formuler cet argument : défendre le relativisme, c'est affirmer la vérité du relativisme, mais le relativisme affirme qu'il n'y a pas de vérité, donc que le relativisme n'est pas une thèse vraie … 
+
+---
+<!-- _class: i1t1 horizontal contain -->
+
+Le relativisme de la vérité est auto-réfutant : il se réfute lui-même.
+
+![image d'un serpend qui se mord la queue](https://publicdomainvectors.org/photos/Ouroboros-simple.png)
+
+---
+<!-- _class: souspartie -->
+## B. Deuxième présupposé : la vérité n'est pas inacessible
