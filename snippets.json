@@ -1,0 +1,27 @@
+{
+// Des snippets pour pouvoir créer plus rapidement des diaporamas en Markdown avec Marp et le thème Teaching
+
+"marp": {
+	"prefix": "marp",
+	"body": [
+		"---\nmarp: true\ntheme: teaching\npaginate: true\nsize: 4:3\n---\n\n<!-- _class: titre -->\n\n# "
+	],
+	"description": "Créer une présentation MARP"
+},
+"fit" : {
+	"prefix": "fit",
+	"body": ["<!-- fit -->"],
+	"description": "Titre : fit"
+},
+"newSlide" : {
+	"prefix": "newSlide",
+	"body": "\n---\n<!-- _class: $1 -->\n$0",
+	"description": "Nouvelle diapositive"
+},
+"styleScoped" : {
+	"prefix": "styleScoped",
+	"body": "<style scoped>\n$1\n</style>",
+	"description": "styleScoped"
+}
+
+}
