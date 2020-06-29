@@ -76,7 +76,11 @@ Cette question repose sur trois présupposés que nous devons interroger :
 
 ---
 <!-- _class: etape -->
-### 1/ Le relativisme <br>de la vérité <!-- fit -->
+### 1/ Le relativisme de la vérité
+
+D'après le relativisme de la
+vérité, ce n'est pas légitime de
+présupposer que la vérité existe
 
 ---
 <!-- _class: definition -->
@@ -144,13 +148,14 @@ Le relativisme de la vérité prétend souvent être le meilleur moyen de défen
 ---
 <!-- _class: fpppp -->
  
- 4. Croire qu'il y a des vérités n'implique pas de refuser le dialogue : on peut chercher à convaincre autrui qu'on a raison, ou bien chercher à progresser ensemble vers la vérité en dépassant la compréhension partielle qu'on en a. Le relativisme au contraire conduit chacun à rester dans sa propre opinion, sans véritable dialogue : on refuse d'envisager la possibilité qu'on se trompe et on n'écoute pas les arguments d'autrui qui pourraient nous inciter à modifier nos croyances.
+ 4. _(i)_ Croire qu'il y a des vérités n'implique pas de refuser le dialogue : on peut chercher à convaincre autrui qu'on a raison, ou bien chercher à progresser ensemble vers la vérité en dépassant la compréhension partielle qu'on en a. _(ii)_ C'est plutôt le relativisme qui conduit chacun à rester dans sa propre opinion, sans véritable dialogue : on refuse d'envisager la possibilité qu'on se trompe et on n'écoute pas les arguments d'autrui qui pourraient nous inciter à modifier nos croyances.
 
 ---
 <!-- _class: etape -->
 ### 3/ L'argument de la dépendance conceptuelle 
 
-Cet argument est plus complexe : vous pouvez essayer de le comprendre éventuellement, mais c'est facultatif
+Cet argument est plus complexe : vous pouvez essayer de le comprendre,
+mais c'est facultatif
 
 ---
 <!-- _class: i1t0 pp -->
@@ -190,4 +195,69 @@ Le relativisme de la vérité est auto-réfutant : il se réfute lui-même.
 
 ---
 <!-- _class: souspartie -->
-## B. Deuxième présupposé : la vérité n'est pas inacessible
+## B. Deuxième présupposé : la vérité n'est pas inacessible
+
+---
+<!-- _class: etape -->
+### 1/ Le scepticisme
+
+D'après le scepticisme, ce n'est
+pas légitime de présupposer
+que la vérité est accessible.
+
+---
+<!-- _class: definition fp-->
+
+### Définition
+
+- Au sens large, le **scepticisme** est une attitude de doute vis-à-vis de nos croyances et de nos prétendues certitudes.
+- Le **scepticisme** d'un point de vue philosophique est la généralisation de cette attitude et consiste à défendre l'idée qu'il faut douter de tout et qu'il est impossible de prétendre savoir ce qui est vrai.
+
+---
+Le scepticisme se distingue du relativisme de la vérité : il ne rejette pas l'existence de la vérité, mais seulement la possibilité de la connaître. 
+
+- Peut-on soutenir qu'aucune connaissance n'est possible et qu'il faut toujours douter ?
+
+---
+<!-- _class: etape -->
+### 2/ Premier argument sceptique : la certitude est impossible
+
+Introduction à cet argument : _cf._ l'extrait vidéo de la diapositive suivante
+
+---
+<!-- _class: i1t1 vertical contain -->
+
+[![photogramme du film _Dark Star_ de John Carpenter : dialogue entre un homme et une bombe qui va exploser](https://i.ibb.co/PGrW6WP/dark-star-r.png)](https://safeYouTube.net/w/OcKM)
+
+John Carpenter, _Dark Star_ (1974)
+<span style="font-size:1.7rem; margin-top:-5px; display:block;">(Cliquer sur l'image pour voir la vidéo)</span>
+
+---
+<!-- _class: fpp -->
+
+L'argument sceptique de la certitude impossible peut se fonder sur plusieurs idées :
+
+1. la possibilité que nos facultés (nos sens, notre mémoire …) nous trompent ;
+2. la possibilité de rencontrer quelqu'un qui est désaccord avec nous ;
+3. la possibilité d'imaginer un “scénario sceptique” dans lequel tout ce qu'on croit vrai, est faux :
+   * on pourrait imaginer que nous sommes en fait dans un rêve, ou dans un univers virtuel (comme dans le film _Matrix_).
+
+---
+<!-- _class:  -->
+
+Si je peux imaginer la possibilité que ce soit faux, alors je dois douter de la vérité de mon affirmation et ma croyance n'est pas une connaissance.
+
+L'argument sceptique de la certitude impossible présuppose qu'il ne peut pas y avoir de connaissance sans une certitude absolue, qui doit pouvoir résister à un doute radical.
+
+---
+<!-- _class: definition -->
+
+### Définition
+
+Le doute radical consiste à douter de la vérité d'une affirmation, dès qu'il y a la moindre possibilité d'imaginer que ce soit faux, et ce, même si on ne croit pas à la vérité du scénario que l'on imagine.
+
+---
+<!-- _class:  -->
+
+D'un point de vue philosophique, il est intéressant de se demander s'il y a des croyances qui résistent au doute radical. Mais les connaissances ordinaires que nous pensons avoir sont-elles remises en cause avec un tel argument ?
+
