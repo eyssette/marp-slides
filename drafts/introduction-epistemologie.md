@@ -67,7 +67,7 @@ Nous pouvons tout d'abord examiner la question de manière générale.
 
 Cette question repose sur trois présupposés que nous devons interroger : 
 1. Premier présupposé : la vérité existe [⁺](URL "Cela n'aurait pas de sens de chercher à obtenir quelque chose qui n'existe pas : si on se pose la question de savoir comment parvenir à la vérité, on présuppose donc qu'elle existe")
-2. Deuxième présupposé : la vérité n'est pas inacessible [⁺](URL "Si on se demande comment on peut parvenir à la vérité, c'est qu'on présuppose qu'il est possible de l'obtenir")
+2. Deuxième présupposé : la vérité n'est pas inaccessible [⁺](URL "Si on se demande comment on peut parvenir à la vérité, c'est qu'on présuppose qu'il est possible de l'obtenir")
 3. Troisième présupposé : la vérité est désirable [⁺](URL "Si la vérité n'était pas désirable, on ne chercherait pas à savoir comment parvenir à la vérité")
 
 ---
@@ -191,11 +191,11 @@ Autre manière de formuler cet argument : défendre le relativisme, c'est affirm
 
 Le relativisme de la vérité est auto-réfutant : il se réfute lui-même.
 
-![image d'un serpend qui se mord la queue](https://publicdomainvectors.org/photos/Ouroboros-simple.png)
+![image d'un serpent qui se mord la queue](https://publicdomainvectors.org/photos/Ouroboros-simple.png)
 
 ---
 <!-- _class: souspartie -->
-## B. Deuxième présupposé : la vérité n'est pas inacessible
+## B. Deuxième présupposé : la vérité n'est pas inaccessible
 
 ---
 <!-- _class: etape -->
@@ -247,7 +247,7 @@ L'argument sceptique de la certitude impossible peut se fonder sur plusieurs id�
 
 Si je peux imaginer la possibilité que ce soit faux, alors je dois douter de la vérité de mon affirmation et ma croyance n'est pas une connaissance.
 
-L'argument sceptique de la certitude impossible présuppose qu'il ne peut pas y avoir de connaissance sans une certitude absolue, qui doit pouvoir résister à un doute radical.
+L'argument sceptique de la certitude impossible repose ainsi sur l'idée qu'il ne peut pas y avoir de connaissance sans une certitude absolue, qui doit pouvoir résister à un doute radical.
 
 ---
 <!-- _class: definition -->
@@ -257,7 +257,21 @@ L'argument sceptique de la certitude impossible présuppose qu'il ne peut pas y 
 Le doute radical consiste à douter de la vérité d'une affirmation, dès qu'il y a la moindre possibilité d'imaginer que ce soit faux, et ce, même si on ne croit pas à la vérité du scénario que l'on imagine.
 
 ---
-<!-- _class:  -->
+<!-- _class: fpp -->
 
-D'un point de vue philosophique, il est intéressant de se demander s'il y a des croyances qui résistent au doute radical. Mais les connaissances ordinaires que nous pensons avoir sont-elles remises en cause avec un tel argument ?
+D'un point de vue philosophique, il est intéressant de se demander s'il y a des croyances qui résistent au doute radical. Mais les connaissances ordinaires que nous pensons avoir sont-elles remises en cause avec un tel argument ? Faut-il pouvoir rejeter toutes les possibilités de scénarios sceptiques pour pouvoir prétendre qu'on a une connaissance ?
+
+Ce que nous appelons d'ordinaire une connaissance ne semble pas reposer sur la certitude absolue et la capacité de rejeter le doute radical. Une connaissance semble plutôt être une affirmation pour laquelle il n'y a pas de doute raisonnable possible.
+
+---
+<!-- _class:  fppppppp -->
+
+Il faut en effet distinguer le doute radical et le doute raisonnable.
+
+Le doute est radical quand on doute dès qu'il y a la possibilité de douter. Le doute est raisonnable seulement si on a une bonne raison de douter.
+
+Dans un contexte ordinaire, il serait déraisonnable d'adopter la démarche du doute radical : le doute n'a de sens que s'il est lui-même justifié, c'est-à-dire fondé sur de bonnes raisons.
+
+---
+<!-- _class:  -->
 
