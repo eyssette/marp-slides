@@ -2,10 +2,12 @@ import os
 
 indexTextStart = """<!DOCTYPE html>
 <html>
-<head><title>Index of {folderPath}</title></head>
+<head><title>Index des diaporamas</title>
+<link rel="stylesheet" href="../assets/css/style.css?v=55737e59e31450a18a2dbc6e8d4ff07b395949cf">
+</head>
 <body>
-    <h2>Index of {folderPath}</h2>
-    <hr>
+	<div class="container-lg px-3 my-5 markdown-body">
+    <h2>Index des diaporamas</h2>
     <ul>
 		<li>
 			<a href='../'>../</a>
@@ -13,6 +15,7 @@ indexTextStart = """<!DOCTYPE html>
 """
 indexTextEnd = """
 	</ul>
+	</div>
 </body>
 </html>
 """
