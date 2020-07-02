@@ -147,7 +147,7 @@ Autre manière de formuler cet argument : défendre le relativisme, c'est affirm
 
 Le relativisme de la vérité est auto-réfutant : il se réfute lui-même.
 
-![image d'un serpent qui se mord la queue](https://publicdomainvectors.org/photos/Ouroboros-simple.png)
+![image d'un serpent qui se mord la queue](https://i.ibb.co/M7S9bPM/Ouroboros-simple.jpg)
 
 ---
 <!-- _class: souspartie -->
