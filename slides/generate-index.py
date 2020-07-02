@@ -29,7 +29,9 @@ def index_folder(folderPath):
 	for file in files:
 		#Avoiding index.html files
 		if file != 'index.html':
-			indexText += "\t\t<li>\n\t\t\t<a href='" + file + "'>" + file + "</a>\n\t\t</li>\n"
+			exthtml = file[-4:]
+			if exthtml == 'html': 
+				indexText += "\t\t<li>\n\t\t\t<a href='" + file + "'>" + file + "</a>\n\t\t</li>\n"
 		#Recursive call to continue indexing
 		if os.path.isdir(folderPath+'/'+file):
 			index_folder(folderPath + '/' + file)
