@@ -9,5 +9,7 @@ Les diaporamas terminés sont dans le [dossier slides](https://github.com/eysset
 - [Cours sur la technique - Partie I](https://eyssette.github.io/marp-slides/slides/cours-technique-I.html)
 - [Cours sur la technique - Partie II](https://eyssette.github.io/marp-slides/slides/cours-technique-II.html)
 - [Introduction à la philosophie sociale et politique](https://eyssette.github.io/marp-slides/slides/introduction-philosophie-sociale-et-politique.html)
+- [Introduction à l'épistémologie - Introduction](https://eyssette.github.io/marp-slides/slides/introduction-epistemologie-intro.html)
+- [Introduction à l'épistémologie - Partie 1](https://eyssette.github.io/marp-slides/slides/introduction-epistemologie-partie-I.html)
 
 Je partage aussi les [snippets](https://eyssette.github.io/marp-slides/snippets.json) que j'utilise pour écrire plus vite mes diaporamas en markdown.
