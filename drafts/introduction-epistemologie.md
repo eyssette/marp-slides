@@ -421,3 +421,44 @@ Il y a certainement des situations où la vérité ne semble pas désirable. Cep
  1. Il n'y a pas de sens à dire de manière générale qu'il n'y a pas de vérité.
  2. La vérité n'est pas inaccessible : on peut progresser vers la connaissance de la vérité en cherchant à éliminer les doutes raisonnables.
  3. La vérité est désirable, hormis certains cas particuliers (les vérités sans intérêt, les vérités douloureuses dans certaines situations).
+
+ ---
+ <!-- _class: partie-->
+ 
+ # II – Philosophie des sciences
+ Deuxième partie
+
+---
+<!-- _class: souspartie -->
+## A. Philosophie des mathématiques
+
+---
+<!-- _class:  -->
+
+La question générale que nous posons semble donner lieu à une réponse spécifique dans le cas des mathématiques.
+
+- Comment peut-on parvenir à la vérité en mathématiques ?
+
+---
+<!-- _class:  -->
+
+En mathématiques, on fait en effet usage d'un type de preuve particulier : la  démonstration.
+
+- Qu'y a-t-il de particulier dans une démonstration mathématique ?
+
+---
+<!-- _class:  -->
+
+Afin de mieux comprendre la spécificité de la démonstration mathématique, il faut distinguer plusieurs sens de la notion de démonstration.
+
+---
+<!-- _class: definition fp -->
+
+### Définition
+
+- Au **sens large**, la démonstration désigne tout raisonnement qui permet de convaincre au-delà de tout doute raisonnable.
+- Au **sens formel**, la démonstration désigne un type de raisonnement particulier : la déduction.
+- Au **sens strict**, la démonstration désigne une déduction à partir de prémisses considérées comme vraies.
+
+---
+<!-- _class:  -->
