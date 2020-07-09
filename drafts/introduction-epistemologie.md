@@ -447,18 +447,11 @@ En mathématiques, on fait en effet usage d'un type de preuve particulier : la  
 - Qu'y a-t-il de particulier dans une démonstration mathématique ?
 
 ---
-<!-- _class:  -->
-
-Afin de mieux comprendre la spécificité de la démonstration mathématique, il faut distinguer plusieurs sens de la notion de démonstration.
-
----
-<!-- _class: definition fp -->
-
-### Définition
-
-- Au **sens large**, la démonstration désigne tout raisonnement qui permet de convaincre au-delà de tout doute raisonnable.
-- Au **sens formel**, la démonstration désigne un type de raisonnement particulier : la déduction.
-- Au **sens strict**, la démonstration désigne une déduction à partir de prémisses considérées comme vraies.
+<!-- _class: etape -->
+### 1/ La démonstration mathématique semble permettre de parvenir à une vérité certaine
 
 ---
 <!-- _class:  -->
+#### a) Une démonstration mathématique ne repose pas sur l'observation
+
+
