@@ -448,10 +448,86 @@ En mathématiques, on fait en effet usage d'un type de preuve particulier : la  
 
 ---
 <!-- _class: etape -->
-### 1/ La démonstration mathématique semble permettre de parvenir à une vérité certaine
+### 1/ Une démonstration mathématique semble permettre de parvenir à une vérité certaine
+
+---
+<!-- _class: fpppppppp -->
+#### a) Une démonstration mathématique ne repose pas sur l'observation
+
+Les mathématiques se distinguent des sciences empiriques (les sciences qui font appel à l'expérience, à l'observation des faits).
+
+Une démonstration en mathématique procède simplement d'idée à idée (_cf_. le texte d'Hempel et le texte de Hume  : diapositives suivantes).
+
+---
+<!-- _class: citationL fm -->
+>« On peut diviser la recherche scientifique en deux grands domaines : les sciences empiriques et celles qui ne le sont pas. Les premières tentent d’explorer, de décrire, d’expliquer et de prévoir les événements du monde dans lequel nous vivons. Leurs énoncés doivent donc être confrontés à l’expérience, et on ne les accepte que s’ils sont confirmés par une évidence empirique. Celle-ci est obtenue de bien des manières: par expérimentation, par observation systématique, par entretien ou par enquête, par des tests psychologiques ou cliniques, par l’examen attentif de documents, d’inscriptions, de monnaies, de vestiges archéologiques, etc. Cette dépendance à l’égard des faits distingue les sciences empiriques de celles qui ne le sont pas, comme la logique ou les mathématiques abstraites, dont on démontre les propositions sans qu’il soit nécessaire d’invoquer l’expérience. »
+>>Carl **Hempel**, _Éléments d’épistémologie_, chap.1.
+
+---
+<!-- _class: citationM1 -->
+
+![photo d'un tableau qui représente David Hume](https://upload.wikimedia.org/wikipedia/commons/e/ea/Painting_of_David_Hume.jpg)
+
+>« Tous les objets de la raison humaine ou de nos recherches peuvent se diviser en deux genres, à savoir les relations d’idées et les faits. Du premier genre sont les sciences de la géométrie, de l’algèbre et de l’arithmétique […].  Les propositions de ce genre, on peut les découvrir par la seule opération de la pensée, sans dépendre de rien de ce qui existe dans l’univers […] Les faits, qui sont les seconds objets de la raison humaine, on ne les établit pas de la même manière ; et l’évidence de leur vérité, aussi grande qu’elle soit, n’est pas d’une nature semblable à la précédente. »
+>>David **Hume**, _Enquête sur l’entendement humain_ (1748), section IV, partie 1.
+
+---
+<!-- _class: fpppp -->
+Pour raisonner en mathématiques, on peut éventuellement s'aider de figures, de représentations concrètes, mais ces représentations sont toujours approximatives et potentiellement trompeuses (_cf_. le paradoxe de Lewis-Carroll : diapositive suivante).
+
+Faire une démonstration, c'est justement refuser d'en rester à une simple prétendue intuition de la vérité et chercher à articuler un discours rigoureux qui permette d'établir une conclusion avec certitude.
+
+---
+<!-- _class: i1t0 pp -->
+
+[![paradoxe de Lewis-Carroll](https://i.ibb.co/2kSPYVc/lewis-carroll.png)](http://mathaulogis.wifeo.com/une-solution-du-paradoxe-de-lewis-carroll.php)
 
 ---
 <!-- _class:  -->
-#### a) Une démonstration mathématique ne repose pas sur l'observation
+
+#### b) Une démonstration mathématique repose sur un raisonnement logiquement valide
 
 
+---
+<!-- _class: fpppp -->
+<style scoped>
+h4{text-align:center; margin-bottom:60px;}
+table th{font-size:90%;}
+</style>
+#### _Modus ponens_
+
+|Forme de<br>raisonnement|Exemple|
+|:-:|:-:|
+|$\frac{\begin{matrix} p  \\ p \rightarrow q \end{matrix}}{\displaystyle ∴ q}$|_(1)_ 24 est divisible par 2<br>_(2)_ Si 24 est divisible par 2, alors 24 est un nombre pair<br>_Donc :_ 24 est un nombre pair|
+
+---
+<!-- _class: fpppp -->
+<style scoped>
+h4{text-align:center; margin-bottom:60px;}
+table th{font-size:90%;}
+</style>
+#### Raisonnement par l'absurde
+
+|Forme de<br>raisonnement|Exemple|
+|:-:|:-:|
+|$\frac{\displaystyle \neg p \rightarrow \bot}{\displaystyle \therefore p}$|_(1)_ Si l'ensemble des nombres premiers est fini, <br>_Donc :_ l'ensemble des nombres premiers est infini
+
+---
+<!-- _class: fpppp -->
+<style scoped>
+h4{text-align:center; margin-bottom:60px;}
+table th{font-size:90%;}
+</style>
+#### Raisonnement par contre-exemple
+
+|Forme de<br>raisonnement|Exemple|
+|:-:|:-:|
+|$\frac{\displaystyle \neg Pa}{\displaystyle ∴ \neg \forall x Px  }$ |_(1)_ 13 n'est pas un nombre pair<br>_Donc :_ Tous les nombres ne sont pas pairs|
+
+
+
+
+---
+<!-- _class:  -->
+
+$\frac{\displaystyle }{\displaystyle  \therefore }$
