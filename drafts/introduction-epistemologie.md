@@ -498,7 +498,7 @@ table th{font-size:90%;}
 
 |Forme de<br>raisonnement|Exemple|
 |:-:|:-:|
-|$\frac{\begin{matrix} p  \\ p \rightarrow q \end{matrix}}{\displaystyle ∴ q}$|_(1)_ 24 est divisible par 2<br>_(2)_ Si 24 est divisible par 2, alors 24 est un nombre pair<br>_Donc :_ 24 est un nombre pair|
+|$\frac{\begin{matrix} p  \\ p \rightarrow q \end{matrix}}{\displaystyle ∴ q}$|24 est divisible par 2.<br>Si 24 est divisible par 2, alors 24 est un nombre pair.<br>_Donc :_ 24 est un nombre pair.|
 
 ---
 <!-- _class: fpppp -->
@@ -510,7 +510,7 @@ table th{font-size:90%;}
 
 |Forme de<br>raisonnement|Exemple|
 |:-:|:-:|
-|$\frac{\displaystyle \neg p \rightarrow \bot}{\displaystyle \therefore p}$|_(1)_ Si l'ensemble des nombres premiers est fini, <br>_Donc :_ l'ensemble des nombres premiers est infini
+|$\frac{\displaystyle \neg p \rightarrow \bot}{\displaystyle \therefore p}$| Démonstration de l'irrationalité de $\sqrt 2$ (_cf._ diapositive suivante)
 
 ---
 <!-- _class: fpppp -->
@@ -522,12 +522,32 @@ table th{font-size:90%;}
 
 |Forme de<br>raisonnement|Exemple|
 |:-:|:-:|
-|$\frac{\displaystyle \neg Pa}{\displaystyle ∴ \neg \forall x Px  }$ |_(1)_ 13 n'est pas un nombre pair<br>_Donc :_ Tous les nombres ne sont pas pairs|
+|$\frac{\displaystyle \neg Pa}{\displaystyle ∴ \neg \forall x Px  }$ |Le carré du nombre $i$ n'est pas positif ($i^2=-1$)<br>_Donc :_ Ce n'est pas vrai que le carré d'un nombre est toujours positif|
+
+
+---
+<!-- _class: fpppp -->
+<style scoped>
+h4{text-align:center; margin-bottom:60px;}
+table th{font-size:90%;}
+</style>
+#### Raisonnement par disjonction des cas
+
+|Forme de<br>raisonnement|Exemple|
+|:-:|:-:|
+|$\frac{\displaystyle \begin{matrix} p \lor q \\ p \rightarrow r \\ q \rightarrow r \end{matrix}}{\displaystyle  \therefore r}$ |<br>t<br>t<br>t<br>t<br>t|
 
 
 
 
 ---
-<!-- _class:  -->
+<!-- _class: fpppp -->
+<style scoped>
+h4{text-align:center; margin-bottom:60px;}
+table th{font-size:90%;}
+</style>
+#### Syllogisme en Barbara
 
-$\frac{\displaystyle }{\displaystyle  \therefore }$
+|Forme de<br>raisonnement|Exemple|
+|:-:|:-:|
+|$\frac{\displaystyle \begin{matrix} \forall x (Fx \rightarrow Gx) \\ \forall x (Gx \rightarrow Hx)  \end{matrix} }{\displaystyle  \therefore \forall x (Fx \rightarrow Hx)}$ |<br>t<br>t<br>t<br>t<br>t|
