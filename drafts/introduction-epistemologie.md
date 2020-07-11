@@ -4,7 +4,6 @@ theme: teaching
 paginate: true
 size: 4:3
 ---
-
 <!-- _class: titre -->
 # Introduction à<br> l'épistémologie <!-- fit -->
 Cédric Eyssette (2019-2020)
@@ -472,82 +471,144 @@ Une démonstration en mathématique procède simplement d'idée à idée (_cf_. 
 >>David **Hume**, _Enquête sur l’entendement humain_ (1748), section IV, partie 1.
 
 ---
-<!-- _class: fpppp -->
-Pour raisonner en mathématiques, on peut éventuellement s'aider de figures, de représentations concrètes, mais ces représentations sont toujours approximatives et potentiellement trompeuses (_cf_. le paradoxe de Lewis-Carroll : diapositive suivante).
+<!-- _class: fppp -->
+Pour raisonner en mathématiques, on peut éventuellement s'aider de figures, de représentations concrètes, mais ces représentations sont toujours approximatives et potentiellement trompeuses (_cf_. la “dissection” de Sam Loyd : diapositive suivante).
 
 Faire une démonstration, c'est justement refuser d'en rester à une simple prétendue intuition de la vérité et chercher à articuler un discours rigoureux qui permette d'établir une conclusion avec certitude.
 
 ---
 <!-- _class: i1t0 pp -->
 
-[![paradoxe de Lewis-Carroll](https://i.ibb.co/2kSPYVc/lewis-carroll.png)](http://mathaulogis.wifeo.com/une-solution-du-paradoxe-de-lewis-carroll.php)
+[![La “dissection” de Sam Loyd](https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Loyd64-65-dis_b.svg/2880px-Loyd64-65-dis_b.svg.png)](http://mathaulogis.wifeo.com/une-solution-du-paradoxe-de-lewis-carroll.php)
 
 ---
-<!-- _class:  -->
+<!-- _class: fppppppppp -->
 
-#### b) Une démonstration mathématique repose sur un raisonnement logiquement valide
+#### b) Une démonstration mathématique repose sur un raisonnement logique
 
+Afin de comprendre la spécificité des démonstrations mathématiques, il faut comprendre qu'il y a plusieurs formes possibles de raisonnement.
 
 ---
-<!-- _class: fpppp -->
+<!-- _class: definition fppppp -->
+
+### Définition
+
+- De manière générale, un **raisonnement** est un enchaînement d'idées qui part d'un ensemble de **prémisses** (les idées de départ) et conduit à une conclusion.
+- On appelle **inférence** le fait de passer des prémisses à la conclusion.
+
+---
+<!-- _class: i1t0 pp -->
+
+![Schéma : forme générale d'un raisonnement](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/argument/forme-generale-d-un-argument.svg)
+
+---
+<!-- _class: fppppppp -->
 <style scoped>
-h4{text-align:center; margin-bottom:60px;}
-table th{font-size:90%;}
+ol ol {margin-left:0px; padding-right:0; margin-right:0; font-size:95%;}
 </style>
-#### _Modus ponens_
+On peut distinguer plusieurs types de raisonnement :
 
-|Forme de<br>raisonnement|Exemple|
-|:-:|:-:|
-|$\frac{\begin{matrix} p  \\ p \rightarrow q \end{matrix}}{\displaystyle ∴ q}$|24 est divisible par 2.<br>Si 24 est divisible par 2, alors 24 est un nombre pair.<br>_Donc :_ 24 est un nombre pair.|
+1. Les raisonnements qui reposent sur une inférence pas ou peu pertinente (si les prémisses sont vraies, cela ne justifie pas pour autant la conclusion)
+   1. Raisonnement irrationnel
+   2. Erreur de raisonnement
+   3. Lien trop faible entre les prémisses et la conclusion
 
 ---
-<!-- _class: fpppp -->
-<style scoped>
-h4{text-align:center; margin-bottom:60px;}
-table th{font-size:90%;}
-</style>
-#### Raisonnement par l'absurde
+<!-- _class: fmmmm -->
 
-|Forme de<br>raisonnement|Exemple|
+|Type de raisonnement|Exemple|
 |:-:|:-:|
-|$\frac{\displaystyle \neg p \rightarrow \bot}{\displaystyle \therefore p}$| Démonstration de l'irrationalité de $\sqrt 2$ (_cf._ diapositive suivante)
+|Raisonnement irrationnel|J'ai dit « elle m'aime » en enlevant le dernier pétale de la marguerite. Donc : elle m'aime|
+|Erreur de raisonnement|Les élèves du collège qui ont de plus grands pieds sont meilleurs en mathématiques. Donc : avoir de grands pieds rend meilleur en mathématiques |
+|Lien trop faible entre les prémisses et la conclusion|Il a fait froid cet hiver. Donc : il n'y a pas de réchauffement climatique|
 
 ---
-<!-- _class: fpppp -->
+<!-- _class: f -->
 <style scoped>
-h4{text-align:center; margin-bottom:60px;}
-table th{font-size:90%;}
+ol ol {margin-left:0px; padding-right:0; margin-right:0; font-size:95%;}
 </style>
-#### Raisonnement par contre-exemple
 
-|Forme de<br>raisonnement|Exemple|
+2. Les raisonnements qui reposent sur une inférence pertinente (si les prémisses sont vraies, cela justifie la conclusion)
+   1. Déduction : la conclusion est nécessairement vraie si les prémisses sont vraies
+   2. Induction forte : la conclusion est probablement vraie en raison de l'existence d'une régularité statistique
+   2. Abduction forte : la conclusion est probablement vraie parce qu'elle constitue la meilleure explication des prémisses
+
+---
+<!-- _class: fmmmm -->
+
+|Type de raisonnement|Exemple|
 |:-:|:-:|
-|$\frac{\displaystyle \neg Pa}{\displaystyle ∴ \neg \forall x Px  }$ |Le carré du nombre $i$ n'est pas positif ($i^2=-1$)<br>_Donc :_ Ce n'est pas vrai que le carré d'un nombre est toujours positif|
+|Déduction|S'il pleut, il ne fait pas beau. Or il pleut. Donc : il ne fait pas beau.|
+|Induction forte|Les prévisions de la météo indiquent qu'il ne pleuvra pas tout à l'heure.  Donc : il ne pleuvra pas tout à l'heure|
+|Abduction forte|Tous mes amis ont mis un k-way aujourd'hui. Donc : tous mes amis pensent qu'il va pleuvoir aujourd'hui|
+
+---
+<!-- _class: fppp -->
+
+Un raisonnement mathématique repose sur des déductions.
+
+Le propre de la déduction est de garantir la vérité de la conclusion si les prémisses sont vraies. Une déduction est une inférence logiquement valide.
+
+La validité logique d'un raisonnement mathématique est l'un des éléments qui permet de comprendre pourquoi une démonstration mathématique permet de parvenir à une vérité certaine, mais ce n'est pas un élément suffisant.
+
+---
+<!-- _class: fppppppp -->
+En effet, on peut faire des déductions à partir de prémisses fausses, voire absurdes. Par exemple : 
+
+(1) Tous les animaux sont des bonbons.
+(2) Tous les bonbons sont des cailloux.
+Donc : Tous les animaux sont des cailloux.
+
+Ce raisonnement est logiquement valide mais bien sûr les prémisses et la conclusion sont fausses.
+
+---
+<!-- _class: definition f-->
+
+### Définition
+
+- Un raisonnement **logiquement valide** est un raisonnement dont, nécessairement, la conclusion est vraie si les prémisses sont vraies.
+- Il faut bien distinguer la **validité** ou la non-validité d'un raisonnement d'une part, et la **vérité** ou la fausseté d'une affirmation (prémisse ou conclusion) d'autre part.
+
+---
+<!-- _class: f -->
+<style scoped>
+p:last-child{text-align:center;}
+</style>
+
+La validité d'un raisonnement ne repose que sur la forme du raisonnement et non sur le contenu des prémisses et de la conclusion.
+
+C'est la raison pour laquelle, dans la logique moderne, on écrit les raisonnements avec des variables qui font abstraction de tout contenu particulier.
+
+Le raisonnement précédent, dans la logique moderne, s'écrirait ainsi (c'est un « syllogisme en Barbara ») [⁺](URL "Pour tout x, si x est un A (animal), alors x est un B (bonbon) / Pour tout x, si x est un B (bonbon), alors x est un C (caillou) // Donc : Pour tout x, si x est un A (animal), alors x est un C (caillou)") : 
+
+$\frac{\displaystyle \begin{matrix} \forall x (Ax \to Bx) \\ \forall x (Bx \to Cx)  \end{matrix} }{\displaystyle \begin{matrix} \therefore \forall x (Ax \to Cx) \end{matrix}}$
 
 
 ---
-<!-- _class: fpppp -->
+<!-- _class: entete approfondissement fmmmmmmm -->
 <style scoped>
-h4{text-align:center; margin-bottom:60px;}
-table th{font-size:90%;}
+p:nth-of-type(1){margin-top:-25px;}
+p{margin-bottom:0;}
+table{margin-left:20px;}
+table td {width:400px;}
+h3{font-size:130%; padding-top:20px;}
 </style>
-#### Raisonnement par disjonction des cas
 
-|Forme de<br>raisonnement|Exemple|
+### Approfondissement
+
+Voici quelques formes connues de raisonnements logiquement valides :
+
+|Nom|Forme logique|
 |:-:|:-:|
-|$\frac{\displaystyle \begin{matrix} p \lor q \\ p \rightarrow r \\ q \rightarrow r \end{matrix}}{\displaystyle  \therefore r}$ |<br>t<br>t<br>t<br>t<br>t|
-
-
-
+|_Modus ponens_ [⁺](URL "Il est vrai que p / S'il est vrai que p, alors il est vrai que q // Donc : il est vrai que q") | $\frac{ \begin{matrix}  p  \\ p \to q \end{matrix}}{\begin{matrix} \therefore q \end{matrix}}$|
+|Par contre-exemple [⁺](URL "Il existe un cas particulier (a) qui n'a pas la propriété P // Donc : ce n'est pas vrai que pour tout x, x a la propriété P")|$\frac{\displaystyle \begin{matrix} \neg Pa \end{matrix}}{\displaystyle \begin{matrix}  \therefore \neg \forall x Px \end{matrix}}$|
+|Par disjonction des cas [⁺](URL "Soit il est vrai que p, soit il est vrai que q // S'il est vrai que p, alors il est vrai que r // S'il est vrai que q, alors il est vrai que r // Donc : il est vrai que r")|$\frac{\displaystyle \begin{matrix} p \lor q \\ p \to r \\ q \to r \end{matrix}}{\displaystyle \begin{matrix} \therefore r \end{matrix}}$|
+|Par l'absurde [⁺](URL "Si on veut démontrer par l'absurde une affirmation, on part de sa négation et on montre qu'elle conduit à une absurdité : S'il est faux que p, alors on a une absurdité // Donc : il est vrai que p")|$\frac{\displaystyle \begin{matrix} \neg p \to \bot \end{matrix}}{\displaystyle \begin{matrix} \therefore p \end{matrix}}$|
 
 ---
-<!-- _class: fpppp -->
-<style scoped>
-h4{text-align:center; margin-bottom:60px;}
-table th{font-size:90%;}
-</style>
-#### Syllogisme en Barbara
+<!-- _class: entete approfondissement fppp -->
 
-|Forme de<br>raisonnement|Exemple|
-|:-:|:-:|
-|$\frac{\displaystyle \begin{matrix} \forall x (Fx \rightarrow Gx) \\ \forall x (Gx \rightarrow Hx)  \end{matrix} }{\displaystyle  \therefore \forall x (Fx \rightarrow Hx)}$ |<br>t<br>t<br>t<br>t<br>t|
+### Approfondissement
+
+1. On doit à Aristote et à ses successeurs une première démarche d'analyse des formes de raisonnements valides : c'est ce qu'on appelle la syllogistique aristotélicienne. Sur ce point, vous pouvez consulter ce [cours de Marcel Crabbé](http://logoi.be/crabbe/textes/syllogismes.pdf) ou cet [article de l'encyclopédie philosophique](http://encyclo-philo.fr/syllogisme-gp/)
+2. Pour une initiation à la logique moderne, je recommande le livre de Denis Vernant _Introduction à la logique standard_.
