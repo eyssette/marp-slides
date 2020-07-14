@@ -455,7 +455,7 @@ En mathématiques, on fait en effet usage d'un type de preuve particulier : la  
 
 Les mathématiques se distinguent des sciences empiriques (les sciences qui font appel à l'expérience, à l'observation des faits).
 
-Une démonstration en mathématique procède simplement d'idée à idée (_cf_. le texte d'Hempel et le texte de Hume  : diapositives suivantes).
+Une démonstration en mathématiques procède simplement d'idée à idée (_cf_. le texte d'Hempel et le texte de Hume  : diapositives suivantes).
 
 ---
 <!-- _class: citationL fm -->
@@ -502,15 +502,15 @@ Afin de comprendre la spécificité des démonstrations mathématiques, il faut 
 ![Schéma : forme générale d'un raisonnement](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/argument/forme-generale-d-un-argument.svg)
 
 ---
-<!-- _class: fppppppp -->
+<!-- _class: fp -->
 <style scoped>
 ol ol {margin-left:0px; padding-right:0; margin-right:0; font-size:95%;}
 </style>
 On peut distinguer plusieurs types de raisonnement :
 
 1. Les raisonnements qui reposent sur une inférence pas ou peu pertinente (si les prémisses sont vraies, cela ne justifie pas pour autant la conclusion)
-   1. Raisonnement irrationnel
-   2. Erreur de raisonnement
+   1. Raisonnement irrationnel (aucun lien entre les prémisses et la conclusion)
+   2. Erreur de raisonnement (lien apparent, mais non véritable, entre les prémisses et la conclusion)
    3. Lien trop faible entre les prémisses et la conclusion
 
 ---
@@ -531,7 +531,7 @@ ol ol {margin-left:0px; padding-right:0; margin-right:0; font-size:95%;}
 2. Les raisonnements qui reposent sur une inférence pertinente (si les prémisses sont vraies, cela justifie la conclusion)
    1. Déduction : la conclusion est nécessairement vraie si les prémisses sont vraies
    2. Induction forte : la conclusion est probablement vraie en raison de l'existence d'une régularité statistique
-   2. Abduction forte : la conclusion est probablement vraie parce qu'elle constitue la meilleure explication des prémisses
+   2. Abduction forte : la conclusion est probablement vraie parce qu'elle constitue la meilleure explication des prémisses (= une inférence à la meilleure explication)
 
 ---
 <!-- _class: fmmmm -->
@@ -570,40 +570,46 @@ Ce raisonnement est logiquement valide mais bien sûr les prémisses et la concl
 - Il faut bien distinguer la **validité** ou la non-validité d'un raisonnement d'une part, et la **vérité** ou la fausseté d'une affirmation (prémisse ou conclusion) d'autre part.
 
 ---
-<!-- _class: f -->
+<!-- _class: fmm -->
 <style scoped>
 p:last-child{text-align:center;}
+table {margin-left:20px;}
+table td:nth-of-type(2){font-size:80%; padding-left:50px;}
+table th {display:none;}
 </style>
 
 La validité d'un raisonnement ne repose que sur la forme du raisonnement et non sur le contenu des prémisses et de la conclusion.
 
 C'est la raison pour laquelle, dans la logique moderne, on écrit les raisonnements avec des variables qui font abstraction de tout contenu particulier.
 
-Le raisonnement précédent, dans la logique moderne, s'écrirait ainsi (c'est un « syllogisme en Barbara ») [⁺](URL "Pour tout x, si x est un A (animal), alors x est un B (bonbon) / Pour tout x, si x est un B (bonbon), alors x est un C (caillou) // Donc : Pour tout x, si x est un A (animal), alors x est un C (caillou)") : 
+Le raisonnement précédent, dans la logique moderne, s'écrirait ainsi (c'est un « syllogisme en Barbara ») : 
 
-$\frac{\displaystyle \begin{matrix} \forall x (Ax \to Bx) \\ \forall x (Bx \to Cx)  \end{matrix} }{\displaystyle \begin{matrix} \therefore \forall x (Ax \to Cx) \end{matrix}}$
 
+
+|||
+|:-:|:-:|
+|$\frac{\displaystyle \begin{matrix} \forall x (Ax \to Bx) \\ \forall x (Bx \to Cx)  \end{matrix} }{\displaystyle \begin{matrix} \therefore \forall x (Ax \to Cx) \end{matrix}}$|Pour tout x, si x est un A (animal),<br> alors x est un B (bonbon)<br>Pour tout x, si x est un B (bonbon),<br> alors x est un C (caillou)<br> Donc : Pour tout x, si x est un A (animal),<br> alors x est un C (caillou)|
 
 ---
-<!-- _class: entete approfondissement fmmmmmmm -->
+<!-- _class: entete approfondissement fmmmmmmmmmmm -->
 <style scoped>
 p:nth-of-type(1){margin-top:-25px;}
 p{margin-bottom:0;}
 table{margin-left:20px;}
-table td {width:400px;}
-h3{font-size:130%; padding-top:20px;}
+table td {min-width:175px;}
+h3{font-size:130%; padding-top:10px;}
 </style>
 
 ### Approfondissement
 
-Voici quelques formes connues de raisonnements logiquement valides :
+Voici quelques formes connues de raisonnements logiquement valides. On peut remplacer _p_ par n'importe quelle affirmation (_idem_ pour _q_ et _r_).
 
-|Nom|Forme logique|
-|:-:|:-:|
-|_Modus ponens_ [⁺](URL "Il est vrai que p / S'il est vrai que p, alors il est vrai que q // Donc : il est vrai que q") | $\frac{ \begin{matrix}  p  \\ p \to q \end{matrix}}{\begin{matrix} \therefore q \end{matrix}}$|
-|Par contre-exemple [⁺](URL "Il existe un cas particulier (a) qui n'a pas la propriété P // Donc : ce n'est pas vrai que pour tout x, x a la propriété P")|$\frac{\displaystyle \begin{matrix} \neg Pa \end{matrix}}{\displaystyle \begin{matrix}  \therefore \neg \forall x Px \end{matrix}}$|
-|Par disjonction des cas [⁺](URL "Soit il est vrai que p, soit il est vrai que q // S'il est vrai que p, alors il est vrai que r // S'il est vrai que q, alors il est vrai que r // Donc : il est vrai que r")|$\frac{\displaystyle \begin{matrix} p \lor q \\ p \to r \\ q \to r \end{matrix}}{\displaystyle \begin{matrix} \therefore r \end{matrix}}$|
-|Par l'absurde [⁺](URL "Si on veut démontrer par l'absurde une affirmation, on part de sa négation et on montre qu'elle conduit à une absurdité : S'il est faux que p, alors on a une absurdité // Donc : il est vrai que p")|$\frac{\displaystyle \begin{matrix} \neg p \to \bot \end{matrix}}{\displaystyle \begin{matrix} \therefore p \end{matrix}}$|
+|Nom|Forme logique|Explication|
+|:-:|:-:|:-:|
+|_Modus<br/>ponens_| $\frac{ \begin{matrix}  p  \\ p \to q \end{matrix}}{\begin{matrix} \therefore q \end{matrix}}$| Pour prouver que $q$, on peut prouver<br/> que $p$ et que $p$ implique $q$ |
+|Par contre-<br/>exemple|$\frac{\displaystyle \begin{matrix} \neg Pa \end{matrix}}{\displaystyle \begin{matrix}  \therefore \neg \forall x Px \end{matrix}}$|Pour prouver que ce n'est pas vrai que pour<br/> tout $x$, $x$ a la propriété $P$, on peut trouver un<br/> cas particulier ($a$) qui n'a pas la propriété P|
+|Par disjonction<br/> des cas|$\frac{\displaystyle \begin{matrix} p \lor q \\ p \to r \\ q \to r \end{matrix}}{\displaystyle \begin{matrix} \therefore r \end{matrix}}$|Pour prouver que $r$, on peut prouver <br/>qu'on a une alternative : soit $p$ est vraie, <br/>soit $q$ est vraie, et que, quelle que soit <br/>l'alternative, cela implique que $r$ est vraie |
+|Par l'absurde|$\frac{\displaystyle \begin{matrix} \neg p \to \bot \end{matrix}}{\displaystyle \begin{matrix} \therefore p \end{matrix}}$|Pour prouver que $p$, on peut partir de sa négation (on suppose qu'il est faux que $p$) et on montre que cela conduit à une absurdité|
 
 ---
 <!-- _class: entete approfondissement fppp -->
