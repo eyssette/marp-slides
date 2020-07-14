@@ -441,7 +441,7 @@ La question générale que nous posons semble donner lieu à une réponse spéci
 ---
 <!-- _class:  -->
 
-En mathématiques, on fait en effet usage d'un type de preuve particulier : la  démonstration.
+En mathématiques, on fait en effet usage d'un type de preuve particulier : **la  démonstration**.
 
 - Qu'y a-t-il de particulier dans une démonstration mathématique ?
 
@@ -453,7 +453,7 @@ En mathématiques, on fait en effet usage d'un type de preuve particulier : la  
 <!-- _class: fpppppppp -->
 #### a) Une démonstration mathématique ne repose pas sur l'observation
 
-Les mathématiques se distinguent des sciences empiriques (les sciences qui font appel à l'expérience, à l'observation des faits).
+Les mathématiques se distinguent des **sciences empiriques** (les sciences qui font appel à l'expérience, à l'observation des faits).
 
 Une démonstration en mathématiques procède simplement d'idée à idée (_cf_. le texte d'Hempel et le texte de Hume  : diapositives suivantes).
 
@@ -508,10 +508,10 @@ ol ol {margin-left:0px; padding-right:0; margin-right:0; font-size:95%;}
 </style>
 On peut distinguer plusieurs types de raisonnement :
 
-1. Les raisonnements qui reposent sur **une inférence pas ou peu pertinente** (si les prémisses sont vraies, cela ne justifie pas pour autant la conclusion)
+1. Les raisonnements qui reposent sur une **inférence pas ou peu pertinente** (si les prémisses sont vraies, cela ne justifie pas pour autant la conclusion)
    1. **Raisonnement irrationnel** : aucun lien entre les prémisses et la conclusion
    2. **Erreur de raisonnement** : lien apparent, mais non véritable, entre les prémisses et la conclusion
-   3. Lien **trop faible** entre les prémisses et la conclusion
+   3. **Lien trop faible** entre les prémisses et la conclusion
 
 ---
 <!-- _class: fmmmm -->
@@ -528,7 +528,7 @@ On peut distinguer plusieurs types de raisonnement :
 ol ol {margin-left:0px; padding-right:0; margin-right:0; font-size:95%;}
 </style>
 
-2. Les raisonnements qui reposent sur **une inférence pertinente** (si les prémisses sont vraies, cela justifie la conclusion)
+2. Les raisonnements qui reposent sur une **inférence pertinente** (si les prémisses sont vraies, cela justifie la conclusion)
    1. **Déduction** : la conclusion est nécessairement vraie si les prémisses sont vraies
    2. **Induction forte** : la conclusion est probablement vraie en raison de l'existence d'une régularité statistique
    2. **Abduction forte** : la conclusion est probablement vraie parce qu'elle constitue la meilleure explication des prémisses (= une inférence à la meilleure explication)
@@ -547,7 +547,7 @@ ol ol {margin-left:0px; padding-right:0; margin-right:0; font-size:95%;}
 
 Un raisonnement mathématique repose sur des déductions.
 
-Le propre de la déduction est de garantir la vérité de la conclusion si les prémisses sont vraies. Une déduction est une inférence logiquement valide.
+Le propre de la déduction est de garantir la vérité de la conclusion si les prémisses sont vraies. Une déduction est une **inférence logiquement valide**.
 
 La validité logique d'un raisonnement mathématique est l'un des éléments qui permet de comprendre pourquoi une démonstration mathématique permet de parvenir à une vérité certaine, mais ce n'est pas un élément suffisant.
 
@@ -618,4 +618,27 @@ Voici quelques formes connues de raisonnements logiquement valides. On peut remp
 ### Approfondissement
 
 1. On doit à Aristote et à ses successeurs une première démarche d'analyse des formes de raisonnements valides : c'est ce qu'on appelle la syllogistique aristotélicienne. Sur ce point, vous pouvez consulter ce [cours de Marcel Crabbé](http://logoi.be/crabbe/textes/syllogismes.pdf) ou cet [article de l'encyclopédie philosophique](http://encyclo-philo.fr/syllogisme-gp/)
-2. Pour une initiation à la logique moderne, je recommande le livre de Denis Vernant _Introduction à la logique standard_.
+2. Pour une initiation à la logique moderne, je vous recommande le livre de Denis Vernant _Introduction à la logique standard_.
+
+---
+<!-- _class: fppppppp -->
+
+#### c) Une démonstration mathématique repose sur des prémisses vraies
+
+Une démonstration mathématique n'est pas simplement une déduction (si les prémisses sont vraies, la conclusion est vraie), c'est une déduction à partir de prémisses vraies. Par conséquent : la conclusion est vraie (_cf._ schéma diapositive suivante).
+
+---
+<!-- _class: pp i1t0 -->
+
+![schéma : déduction + prémisses vraies impliquent conclusion vraie](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/demonstration-deduction-premisses-vraies.svg)
+
+---
+<!-- _class:  -->
+
+La certitude de la conclusion, dans une démonstration mathématique, est donc dépendante de la certitude des prémisses dont on part pour faire cette démonstration.
+
+- Qu'est-ce qui garantit la certitude des prémisses dans une démonstration mathématique ?
+
+---
+<!-- _class:  -->
+
