@@ -472,9 +472,9 @@ Une démonstration en mathématiques procède simplement d'idée à idée (_cf_.
 
 ---
 <!-- _class: fppp -->
-Pour raisonner en mathématiques, on peut éventuellement s'aider de figures, de représentations concrètes, mais ces représentations sont toujours approximatives et potentiellement trompeuses (_cf_. la “dissection” de Sam Loyd : diapositive suivante).
+Pour raisonner en mathématiques, on peut éventuellement s'aider de figures, de représentations concrètes, mais ces représentations sont toujours **approximatives** et potentiellement **trompeuses** (_cf_. la “dissection” de Sam Loyd : diapositive suivante).
 
-Faire une démonstration, c'est justement refuser d'en rester à une simple prétendue intuition de la vérité et chercher à articuler un discours rigoureux qui permette d'établir une conclusion avec certitude.
+Faire une démonstration, c'est justement refuser d'en rester à une simple prétendue **intuition** de la vérité et chercher à articuler un **discours** rigoureux qui permette d'établir une conclusion avec certitude.
 
 ---
 <!-- _class: i1t0 pp -->
@@ -508,10 +508,10 @@ ol ol {margin-left:0px; padding-right:0; margin-right:0; font-size:95%;}
 </style>
 On peut distinguer plusieurs types de raisonnement :
 
-1. Les raisonnements qui reposent sur une inférence pas ou peu pertinente (si les prémisses sont vraies, cela ne justifie pas pour autant la conclusion)
-   1. Raisonnement irrationnel (aucun lien entre les prémisses et la conclusion)
-   2. Erreur de raisonnement (lien apparent, mais non véritable, entre les prémisses et la conclusion)
-   3. Lien trop faible entre les prémisses et la conclusion
+1. Les raisonnements qui reposent sur **une inférence pas ou peu pertinente** (si les prémisses sont vraies, cela ne justifie pas pour autant la conclusion)
+   1. **Raisonnement irrationnel** : aucun lien entre les prémisses et la conclusion
+   2. **Erreur de raisonnement** : lien apparent, mais non véritable, entre les prémisses et la conclusion
+   3. Lien **trop faible** entre les prémisses et la conclusion
 
 ---
 <!-- _class: fmmmm -->
@@ -523,15 +523,15 @@ On peut distinguer plusieurs types de raisonnement :
 |Lien trop faible entre les prémisses et la conclusion|Il a fait froid cet hiver. Donc : il n'y a pas de réchauffement climatique|
 
 ---
-<!-- _class: f -->
+<!-- _class: fm -->
 <style scoped>
 ol ol {margin-left:0px; padding-right:0; margin-right:0; font-size:95%;}
 </style>
 
-2. Les raisonnements qui reposent sur une inférence pertinente (si les prémisses sont vraies, cela justifie la conclusion)
-   1. Déduction : la conclusion est nécessairement vraie si les prémisses sont vraies
-   2. Induction forte : la conclusion est probablement vraie en raison de l'existence d'une régularité statistique
-   2. Abduction forte : la conclusion est probablement vraie parce qu'elle constitue la meilleure explication des prémisses (= une inférence à la meilleure explication)
+2. Les raisonnements qui reposent sur **une inférence pertinente** (si les prémisses sont vraies, cela justifie la conclusion)
+   1. **Déduction** : la conclusion est nécessairement vraie si les prémisses sont vraies
+   2. **Induction forte** : la conclusion est probablement vraie en raison de l'existence d'une régularité statistique
+   2. **Abduction forte** : la conclusion est probablement vraie parce qu'elle constitue la meilleure explication des prémisses (= une inférence à la meilleure explication)
 
 ---
 <!-- _class: fmmmm -->
@@ -573,14 +573,15 @@ Ce raisonnement est logiquement valide mais bien sûr les prémisses et la concl
 <!-- _class: fmm -->
 <style scoped>
 p:last-child{text-align:center;}
-table {margin-left:20px;}
-table td:nth-of-type(2){font-size:80%; padding-left:50px;}
+table {margin-left:30px;}
+table td:nth-of-type(2){font-size:80%; padding-left:60px;}
 table th {display:none;}
+table td {border:none;}
 </style>
 
-La validité d'un raisonnement ne repose que sur la forme du raisonnement et non sur le contenu des prémisses et de la conclusion.
+La validité d'un raisonnement ne repose que sur la **forme** du raisonnement et non sur le **contenu** des prémisses et de la conclusion.
 
-C'est la raison pour laquelle, dans la logique moderne, on écrit les raisonnements avec des variables qui font abstraction de tout contenu particulier.
+C'est la raison pour laquelle, dans la logique moderne, on écrit les raisonnements avec des **variables** qui font abstraction de tout contenu particulier.
 
 Le raisonnement précédent, dans la logique moderne, s'écrirait ainsi (c'est un « syllogisme en Barbara ») : 
 
@@ -588,7 +589,7 @@ Le raisonnement précédent, dans la logique moderne, s'écrirait ainsi (c'est u
 
 |||
 |:-:|:-:|
-|$\frac{\displaystyle \begin{matrix} \forall x (Ax \to Bx) \\ \forall x (Bx \to Cx)  \end{matrix} }{\displaystyle \begin{matrix} \therefore \forall x (Ax \to Cx) \end{matrix}}$|Pour tout x, si x est un A (animal),<br> alors x est un B (bonbon)<br>Pour tout x, si x est un B (bonbon),<br> alors x est un C (caillou)<br> Donc : Pour tout x, si x est un A (animal),<br> alors x est un C (caillou)|
+|$\frac{\displaystyle \begin{matrix} \forall x (Ax \to Bx) \\ \forall x (Bx \to Cx)  \end{matrix} }{\displaystyle \begin{matrix} \therefore \forall x (Ax \to Cx) \end{matrix}}$|Pour tout x, si x est un A (animal),<br/> alors x est un B (bonbon)<br/>Pour tout x, si x est un B (bonbon),<br/> alors x est un C (caillou)<br/> Donc : Pour tout x, si x est un A<br/> (animal), alors x est un C (caillou)|
 
 ---
 <!-- _class: entete approfondissement fmmmmmmmmmmm -->
@@ -602,12 +603,12 @@ h3{font-size:130%; padding-top:10px;}
 
 ### Approfondissement
 
-Voici quelques formes connues de raisonnements logiquement valides. On peut remplacer _p_ par n'importe quelle affirmation (_idem_ pour _q_ et _r_).
+Voici quelques formes connues de raisonnements logiquement valides. On peut remplacer $p$ par n'importe quelle affirmation (_idem_ pour $q$ et $r$).
 
 |Nom|Forme logique|Explication|
 |:-:|:-:|:-:|
 |_Modus<br/>ponens_| $\frac{ \begin{matrix}  p  \\ p \to q \end{matrix}}{\begin{matrix} \therefore q \end{matrix}}$| Pour prouver que $q$, on peut prouver<br/> que $p$ et que $p$ implique $q$ |
-|Par contre-<br/>exemple|$\frac{\displaystyle \begin{matrix} \neg Pa \end{matrix}}{\displaystyle \begin{matrix}  \therefore \neg \forall x Px \end{matrix}}$|Pour prouver que ce n'est pas vrai que pour<br/> tout $x$, $x$ a la propriété $P$, on peut trouver un<br/> cas particulier ($a$) qui n'a pas la propriété P|
+|Par contre-<br/>exemple|$\frac{\displaystyle \begin{matrix} \neg Pa \end{matrix}}{\displaystyle \begin{matrix}  \therefore \neg \forall x Px \end{matrix}}$|Pour prouver que ce n'est pas vrai que pour<br/> tout $x$, $x$ a la propriété $P$, il suffit de trouver un<br/> cas particulier ($a$) qui n'a pas la propriété P|
 |Par disjonction<br/> des cas|$\frac{\displaystyle \begin{matrix} p \lor q \\ p \to r \\ q \to r \end{matrix}}{\displaystyle \begin{matrix} \therefore r \end{matrix}}$|Pour prouver que $r$, on peut prouver <br/>qu'on a une alternative : soit $p$ est vraie, <br/>soit $q$ est vraie, et que, quelle que soit <br/>l'alternative, cela implique que $r$ est vraie |
 |Par l'absurde|$\frac{\displaystyle \begin{matrix} \neg p \to \bot \end{matrix}}{\displaystyle \begin{matrix} \therefore p \end{matrix}}$|Pour prouver que $p$, on peut partir de sa négation (on suppose qu'il est faux que $p$) et on montre que cela conduit à une absurdité|
 
