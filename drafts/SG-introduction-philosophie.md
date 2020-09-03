@@ -219,8 +219,95 @@ Socrate (‎470-469 avant notre ère) est un personnage fondateur pour la philos
 ---
 <!-- _class: i1t1 horizontal contain pp -->
 
-![](images/cheval_mou_taon.png)
+![Image d'un cheval mou et d'un taon](images/cheval_mou_taon.png)
 
 - Que représente le cheval un peu mou ?
 - Que représente le taon qui pique ce cheval ?
 - Pourquoi faire de la philosophie, c’est être comme un taon qui pique un cheval un peu mou ?
+
+---
+<!-- _class: entete approfondissement -->
+
+### Approfondissement
+
+Vous pouvez lire cet [article de D. Guillon-Legeay](https://iphilo.fr/2016/09/10/socrate-le-pere-de-la-philosophie/) (« Socrate : le père de la philosophie »).
+<br/>Cette [page sur le blog de Simone Manon](https://www.philolog.fr/socrate/).
+<br/>Ou un [ancien cours sur Socrate](https://eyssette.github.io/blog/assets/pdf/ancien_blog/0_Introduction_philosophie/2013-2014-Socrate-cours.pdf).
+
+---
+<!-- _class: etape -->
+### 3/Argumenter
+
+---
+<!-- _class: citationC fppppp-->
+
+![bg left:40% Représentation d'Epictète](https://upload.wikimedia.org/wikipedia/commons/0/00/Epicteti_Enchiridion_Latinis_versibus_adumbratum_%28Oxford_1715%29_frontispiece.jpg)
+
+>« Voilà le point de départ de la philosophie : la conscience du conflit des hommes entre eux, […], la condamnation de la simple opinion, la défiance à son égard, une certaine enquête sur l'opinion pour savoir si elle est droite […].
+– Quel objet se présente à notre recherche ? […]
+– Soumets-le à la règle, place-le sur la balance. »
+>>**Épictète**, _Entretiens_, II, XI 
+
+---
+<!-- _class: etape -->
+### Récapitulatif
+
+
+---
+<!-- _class: exercice tableau -->
+<style scoped>
+td:nth-child(1){color:black!important;}
+</style>
+
+|Démarche|Question clef|
+|:--:|:--:|
+|Conceptualiser|?|
+|Problématiser|?|
+|Argumenter|?|
+
+1. Est-ce si simple ?<br/>
+2. Comment peut-on défendre cette idée ?
+3. Qu'est-ce que cela veut dire ?
+
+---
+<!-- _class: exercice tableau-r -->
+<style scoped>
+td:nth-child(1){color:black!important;}
+</style>
+
+|Démarche|Question clef|
+|:--:|:--:|
+|Conceptualiser|*3* Qu'est-ce que cela veut dire ?|
+|Problématiser|*1* Est-ce si simple ?|
+|Argumenter|*2* Comment peut-on défendre cette idée ?|
+
+---
+<!-- _class: citationC  -->
+
+![bg left:42.7% Tableau qui représente le philosophe Kant](https://upload.wikimedia.org/wikipedia/commons/f/f2/Kant_gemaelde_3.jpg)
+
+>« _Sapere aude_ ! Aie le courage de te servir de ton propre entendement ! Voilà la devise des Lumières. »
+>>**Kant**, _Qu'est-ce que les Lumières ?_
+
+---
+<!-- _class:  -->
+
+En philosophie, il s'agit de penser par soi-même : il faut être capable de réfléchir de manière critique afin de parvenir à l'autonomie de son propre jugement.
+
+- Mais, penser par soi-même, cela ne veut pas dire penser tout seul. Pourquoi ?
+
+---
+<!-- _class: souspartie -->
+## C. Une exigence de contenu
+
+---
+<!-- _class: pp exercice fppp-->
+<style scoped>
+  h4{text-align:center;}
+</style>
+
+#### Exercice LearningApps
+
+<!-- Exercice sur LearningApps à propos des trois démarches essentielles en philosophie -->
+
+<iframe src="https://learningapps.org/watch?v=ps7608fcn20" style="border:0px;width:100%;height:600px" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
