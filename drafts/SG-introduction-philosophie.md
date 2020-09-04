@@ -12,6 +12,24 @@ Cédric Eyssette (2020-2021)
 https://eyssette.net/
 
 ---
+<!-- _class:  -->
+<style scoped>
+p:nth-child(2){margin-bottom:30px;}
+</style>
+
+**I – Qu'est-ce que la philosophie ?**
+
+A. Première approche
+B. Trois démarches essentielles
+C. Une quatrième démarche importante
+
+**II – Le fonctionnement du cours**
+
+A. Le cadre général
+B. Les aides pour réussir en philosophie
+
+
+---
 <!-- _class: partie -->
 # I – Qu'est-ce que<br> la philosophie ? <!-- fit -->
 Première partie
@@ -45,10 +63,6 @@ Rembrandt, _Le philosophe en méditation_ (1632)
 - En philosophie, c'est très utile de partie de ses représentations spontanées ou de lieux communs à propos d'une notion.
 - C'est un premier matériau qu'on peut analyser, avec de l'esprit critique.
 
----
-<!-- _class: i1t0 pp -->
-
-Image fiche synthèse à mettre
 
 ---
 <!-- _class: grille pp -->
@@ -120,6 +134,21 @@ ul {font-size:30px; margin-top:0;}
 <!-- _class: i1t0 pp -->
 
 ![Schéma sur la conceptualisation](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/conceptualiser2.svg)
+
+---
+<!-- _class:  -->
+<style scoped>
+h3{text-align:center; padding-top:50px;}
+p{position:absolute; margin-left:430px; margin-top:70px; font-size:40px}
+</style>
+
+### Code couleur pour la démarche « conceptualiser »
+<svg height="500" width="400">
+  <circle cx="250" cy="220" r="150" fill="blue" />
+</svg>
+
+Conceptualiser, c'est chercher à clarifier le sens des idées qu'on utilise.
+D'où le bleu, qui évoque la clarté du ciel.
 
 ---
 <!-- _class: fmmm pm -->
@@ -230,9 +259,24 @@ Socrate (‎470-469 avant notre ère) est un personnage fondateur pour la philos
 
 ### Approfondissement
 
-Vous pouvez lire cet [article de D. Guillon-Legeay](https://iphilo.fr/2016/09/10/socrate-le-pere-de-la-philosophie/) (« Socrate : le père de la philosophie »).
+Vous pouvez lire cet [article de D. Guillon-Legeay](https://iphilo.fr/2016/09/10/socrate-le-pere-de-la-philosophie/) : « Socrate : le père de la philosophie ».
 <br/>Cette [page sur le blog de Simone Manon](https://www.philolog.fr/socrate/).
 <br/>Ou un [ancien cours sur Socrate](https://eyssette.github.io/blog/assets/pdf/ancien_blog/0_Introduction_philosophie/2013-2014-Socrate-cours.pdf).
+
+---
+<!-- _class:  -->
+<style scoped>
+h3{text-align:center; padding-top:50px;}
+p{position:absolute; margin-left:410px; margin-top:70px; font-size:35px;}
+</style>
+
+### Code couleur pour la démarche « problématiser »
+<svg height="500" width="400">
+  <circle cx="230" cy="220" r="150" fill="#cf0707" />
+</svg>
+
+Problématiser, c'est dégager les tensions entre les différentes réponses possibles autour d'une question qui fait débat.
+D'où le rouge, qui évoque la vivacité de la discussion.
 
 ---
 <!-- _class: etape -->
@@ -247,6 +291,34 @@ Vous pouvez lire cet [article de D. Guillon-Legeay](https://iphilo.fr/2016/09/10
 – Quel objet se présente à notre recherche ? […]
 – Soumets-le à la règle, place-le sur la balance. »
 >>**Épictète**, _Entretiens_, II, XI 
+
+---
+<!-- _class: fpppppp -->
+<style scoped>
+ul {margin-top:0; margin-bottom:40px;}
+</style>
+
+Argumenter, c'est chercher à convaincre et non pas à persuader.
+- Quelle est la différence entre convaincre et persuader ?
+
+En philosophie, on peut argumenter, mais on peut difficilement prétendre avoir démontré la vérité de ce qu'on affirme.
+- Quelle est la différence entre argumenter et démontrer ?
+
+---
+<!-- _class:  -->
+<style scoped>
+h3{text-align:center; padding-top:50px;}
+p{position:absolute; margin-left:410px; margin-top:70px; font-size:35px;}
+</style>
+
+### Code couleur pour la démarche « argumenter »
+<svg height="500" width="400">
+  <circle cx="230" cy="220" r="150" fill="green" />
+</svg>
+
+Argumenter, c'est chercher à convaincre avec un raisonnement bien construit, fondé sur des idées solides.
+D'où le vert, qui évoque les feuilles brillantes d'un arbre bien structuré et bien ancré dans la terre.
+
 
 ---
 <!-- _class: etape -->
@@ -292,13 +364,86 @@ td:nth-child(1){color:black!important;}
 ---
 <!-- _class:  -->
 
-En philosophie, il s'agit de penser par soi-même : il faut être capable de réfléchir de manière critique afin de parvenir à l'autonomie de son propre jugement.
+En philosophie, il s'agit de _penser par soi-même_ : il faut être capable de réfléchir de manière critique afin de parvenir à l'autonomie de son propre jugement.
 
 - Mais, penser par soi-même, cela ne veut pas dire penser tout seul. Pourquoi ?
 
 ---
 <!-- _class: souspartie -->
-## C. Une exigence de contenu
+## C. Une quatrième <br>démarche importante :<br> mobiliser sa culture <!-- fit -->
+---
+<!-- _class:  -->
+Il est difficile de réfléchir tout seul. Pour aller plus loin dans sa réflexion, il va falloir s'efforcer de mobiliser : 
+<div class="puces">
+
+- des références théoriques à des auteurs qui ont déjà réfléchi à la question ;
+- des exemples concrets pour bien ancrer son propos dans la réalité.
+</div>
+
+---
+<!-- _class: fppp -->
+C'est sa culture personnelle qu'il faut mobiliser, de manière appropriée : 
+
+<div class="puces">
+
+- Il faut savoir réutiliser des éléments de cours.
+- Il faut savoir exploiter sa culture cinématographique, littéraire, historique, scientifique.
+- Il faut savoir tirer profit de ses connaissances sur le monde, la vie sociale et politique.
+</div>
+
+
+
+---
+<!-- _class: citationC fp-->
+
+![bg left:40% Représentation d'Epictète](https://upload.wikimedia.org/wikipedia/commons/0/00/Epicteti_Enchiridion_Latinis_versibus_adumbratum_%28Oxford_1715%29_frontispiece.jpg)
+
+>« Ceux qui reçoivent simplement les principes veulent les rendre immédiatement, comme les estomacs malades vomissent les aliments. Digère-les d'abord et, ensuite, ne vomis pas ainsi ; sinon il advient cette chose sale et répugnante que sont les aliments vomis. Mais les principes une fois digérés, montre-nous un changement dans [ton esprit], comme les athlètes montrent leurs épaules qu’élargissent l’exercice et la nourriture […]. »
+>>**Épictète**, _Entretiens_, III, XXI
+
+---
+<!-- _class: i2t1 -->
+<style scoped>
+ul{text-align:justify!important; padding-left:35px; padding-right:35px;}
+</style>
+
+- Que signifient l'image de la digestion et la figure de l'athlète ?
+
+![Schéma de la digestion](images/digestion.png)
+
+![Photo d'une athlète qui court](images/athlete.png)
+
+---
+<!-- _class:  -->
+<style scoped>
+h3{text-align:center; padding-top:50px;}
+p{position:absolute; margin-left:360px; margin-top:70px; font-size:35px;}
+</style>
+
+### Code couleur pour la démarche « mobiliser sa culture »
+<svg height="500" width="400">
+  <circle cx="200" cy="220" r="140" fill="#F8D748" />
+</svg>
+
+Mobiliser sa culture, c'est chercher à enrichir son propos avec des références théoriques et des exemples concrets.
+D'où le jaune, qui évoque l'or et donc l'enrichissement de sa réflexion à l'aide de connaissances précises. 
+
+
+---
+<!-- _class: etape -->
+### Récapitulatif
+
+---
+<!-- _class: fppp -->
+
+### Retour sur quelques préjugés à propos de la philosophie
+
+
+1) « La philosophie, c'est trop “perché” ! »
+2) « La philosophie, c'est une matière littéraire ! »
+3) « En philosophie, les notes sont aléatoires ! »
+4) « Il faut penser comme le prof ! »
+5) « La philosophie, ça ne sert à rien ! »
 
 ---
 <!-- _class: pp exercice fppp-->
@@ -311,3 +456,90 @@ En philosophie, il s'agit de penser par soi-même : il faut être capable de ré
 <!-- Exercice sur LearningApps à propos des trois démarches essentielles en philosophie -->
 
 <iframe src="https://learningapps.org/watch?v=ps7608fcn20" style="border:0px;width:100%;height:600px" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
+
+---
+<!-- _class: i1t0 pp -->
+
+TODO : Image fiche synthèse à mettre
+
+---
+<!-- _class: exercice application -->
+
+### Exercice à faire à la maison
+
+- Rédiger un paragraphe (150 mots minimum), dans lequel vous 
+
+TODO : choisir l'exercice à faire
+
+---
+<!-- _class: partie -->
+# II – Le <br>fonctionnement<br> du cours <!-- fit -->
+
+---
+<!-- _class: souspartie -->
+## A. Le cadre général
+
+---
+<!-- _class: i1t0 -->
+
+TODO : Image syllabus du cours
+TODO : actualiser le syllabus par rapport au nouveau programme
+TODO : mettre version générale et technologique sur la même page
+
+---
+<!-- _class: souspartie -->
+##  B. Les aides pour réussir en philosophie
+
+---
+<!-- _class: etape -->
+<style scoped>
+p{text-align:justify; font-size:90%;}
+</style>
+### 1. Votre professeur
+
+N'hésitez pas à me poser vos questions, à me partager vos réflexions, vos doutes ! 
+
+Pour discuter avec moi : en direct, ou par l'ENT, ou éventuellement par mail (cedric.eyssette@ac-lyon.fr : faites attention à l'écriture de mon nom, je risque de ne pas recevoir votre mail).
+
+
+---
+<!-- _class: etape fppppppp -->
+<style scoped>
+h3{padding-bottom:25px; font-size:130%;}
+ul{margin-top:0;}
+</style>
+### 2. Lectures
+
+<div class="puces">
+
+- **Obligatoires** : textes distribués pour chaque chapitre + une œuvre suivie.
+- **Pour approfondir** : manuels et revue [PhiloMag](https://www.philomag.com/) au CDI, conseils de lecture pour chaque chapitre, conseils de lecture sur un thème qui vous intéresse.
+- **À éviter** : les annabacs, les livres de méthode.
+</div>
+
+---
+<!-- _class: entete approfondissement -->
+### Approfondissement
+<div class="puces">
+
+- Rappel : lire les documents sur Socrate ([voir diapositive 25](#25))
+- Initiation à la philosophie : [conseils de lecture](https://eyssette.github.io/ressources-generales-enseignement-philosophie/conseils-lectures-initiation-philosophie) <!-- Document au format A4 : https://docs.google.com/document/d/119PC0h-Zic6AVT4woWzXd8lbRmQ0fOVPAJ-CBFMyMdQ/edit?usp=sharing  -->
+  - Si vous visez une prépa l'année prochaine : il faut commencer à lire quelques classiques de l'histoire de la philosophie (voir dans la liste ci-dessus).
+
+</div>
+
+---
+<!-- _class: etape -->
+<style scoped>
+h3{padding-bottom:15px; margin-bottom:0;}
+ul{font-size:34px!important;}
+ul li{margin-top:5px!important;}
+</style>
+### 3. Internet
+
+<div class="puces">
+
+- Sur l'[ENT du lycée](https://aiguerande.ent.auvergnerhonealpes.fr/sg.do?PROC=CLASSEUR_PEDA&ACTION=AFFICHER_ELEVES_ACCUEIL_CLASSEUR), dans votre classeur pédagogique, vous retrouverez les diapositives et tous les documents de cours, de la méthodologie et un choix de ressources utiles.
+- Voici une [sélection de chaînes vidéo intéressantes](https://eyssette.github.io/ressources-generales-enseignement-philosophie/chaines-video-interessantes)
+- Pour faire des recherches sur un sujet philosophique, tous les sites ne sont pas de bonne qualité, utilisez cet outil qui permet de faire une [recherche parmi des sites de philosophie de qualité](https://cse.google.com/cse?cx=005941353090358050370:-rxleq99qm0) que j'ai sélectionnés.
+</div>
