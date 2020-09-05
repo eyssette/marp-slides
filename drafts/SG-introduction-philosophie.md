@@ -255,13 +255,17 @@ Socrate (‎470-469 avant notre ère) est un personnage fondateur pour la philos
 - Pourquoi faire de la philosophie, c’est être comme un taon qui pique un cheval un peu mou ?
 
 ---
-<!-- _class: entete approfondissement -->
-
+<!-- _class: entete approfondissement fpp -->
+<style scoped>
+ol{margin-top:-40px}
+</style>
 ### Approfondissement
 
-Vous pouvez lire cet [article de D. Guillon-Legeay](https://iphilo.fr/2016/09/10/socrate-le-pere-de-la-philosophie/) : « Socrate : le père de la philosophie ».
-<br/>Cette [page sur le blog de Simone Manon](https://www.philolog.fr/socrate/).
-<br/>Ou un [ancien cours sur Socrate](https://eyssette.github.io/blog/assets/pdf/ancien_blog/0_Introduction_philosophie/2013-2014-Socrate-cours.pdf).
+Mieux comprendre le personnage de Socrate :
+
+1. Lire cet [article de D. Guillon-Legeay](https://iphilo.fr/2016/09/10/socrate-le-pere-de-la-philosophie/) : « Socrate : le père de la philosophie »
+2. Consulter cette [page sur le blog de Simone Manon](https://www.philolog.fr/socrate/)
+3. Lire ce [cours sur Socrate](https://eyssette.github.io/blog/assets/pdf/ancien_blog/0_Introduction_philosophie/2013-2014-Socrate-cours.pdf) que j'avais fait en 2013-2014.
 
 ---
 <!-- _class:  -->
@@ -458,18 +462,50 @@ D'où le jaune, qui évoque l'or et donc l'enrichissement de sa réflexion à l'
 <iframe src="https://learningapps.org/watch?v=ps7608fcn20" style="border:0px;width:100%;height:600px" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
 
 ---
-<!-- _class: i1t0 pp -->
+<!-- _class: i1t1 pp vertical fpp-->
 
-TODO : Image fiche synthèse à mettre
+#### Fiche de synthèse
+
+[![](images/synthese-introduction-philosophie.png)](images/synthese-introduction-philosophie.png)
 
 ---
-<!-- _class: exercice application -->
+<!-- _class: i1t0 pp -->
 
-### Exercice à faire à la maison
+[![](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/introduction-philosophie2.svg)](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/introduction-philosophie2.svg)
 
-- Rédiger un paragraphe (150 mots minimum), dans lequel vous 
+---
+<!-- _class: fmmmmmmmmmm pp -->
+<style scoped>
+h4{text-align:justify}
+</style>
+#### Questions de révision           (savoir son cours, c’est pouvoir répondre, précisément, aux questions ci-dessous) :
 
-TODO : choisir l'exercice à faire
+1. Quelle est l'histoire que raconte Platon à propos de Thalès ? Quel est le sens de cette histoire ?
+2. Comment Aristophane représente-t-il Socrate dans Les Nuées ? Quel est le sens de cette image ?
+3. Quelles sont les trois démarches essentielles en philosophie ? Pour chaque démarche, quelle est la question qu'il faut se poser ?
+4. On peut dire que faire de la philosophie, c'est comme regarder ses propres lunettes. Quel est le sens de cette idée ?
+5. Quel problème philosophique peut-on poser à partir de l'affaire du lancer de nain ?
+6. On peut dire, avec Socrate, que faire de la philosophie, c'est être comme un taon qui pique un cheval un peu mou. Quel est le sens de cette idée ?
+7. On peut dire, avec Épictète, que faire de la philosophie, c'est comme placer les idées sur une balance. Quel est le sens de cette idée ?
+8. Penser par soi-même, ce n’est pas penser tout seul. Quel est le sens de cette idée ?
+9. Comme le dit Épictète, il ne faut pas vomir ce qu'on a appris, mais le digérer. Quel est le sens de cette image ?
+10. Comment peut-on utiliser le cours pour montrer que penser, c'est dire non ?
+
+---
+<!-- _class: entete approfondissement f -->
+<style scoped>
+ul ul {margin-top:-5px!important;}
+</style>
+### Approfondissement
+<div class="puces">
+
+1. Mieux comprendre le personnage de Socrate ([voir diapositive 25](#25))
+2. Initiation à la philosophie : [conseils de lecture](https://eyssette.github.io/ressources-generales-enseignement-philosophie/conseils-lectures-initiation-philosophie) <!-- Document au format A4 : https://docs.google.com/document/d/119PC0h-Zic6AVT4woWzXd8lbRmQ0fOVPAJ-CBFMyMdQ/edit?usp=sharing  --> (si vous visez une prépa l'année prochaine : il faut commencer à lire quelques classiques de l'histoire de la philosophie)
+3. Lire un ensemble de [textes sur la philosophie comme réflexion critique](http://bit.ly/philoD1)
+4. Lire un texte fondamental de Platon : _[L'Apologie de Socrate](http://www.ac-grenoble.fr/PhiloSophie/old2/file/platon_apologie.pdf)_
+
+
+</div>
 
 ---
 <!-- _class: partie -->
@@ -479,12 +515,22 @@ TODO : choisir l'exercice à faire
 <!-- _class: souspartie -->
 ## A. Le cadre général
 
----
-<!-- _class: i1t0 -->
 
-TODO : Image syllabus du cours
-TODO : actualiser le syllabus par rapport au nouveau programme
-TODO : mettre version générale et technologique sur la même page
+---
+<!-- _class: i2t1 contain -->
+
+### Syllabus du cours
+
+[![Image du syllabus pour le cours de philosophie de l'année 2020-2021 en terminale technologique](images/syllabus-terminale-technologique.png)](images/syllabus-terminale-technologique.png)
+
+[![Image du syllabus pour le cours de philosophie de l'année 2020-2021 en terminale générale](images/syllabus-terminale-generale.png)](images/syllabus-terminale-generale.png)
+
+---
+<!-- _class: exercice application -->
+
+### Exercice à faire à la maison
+
+- À l'aide du cours, rédigez un paragraphe (150 mots minimum) dans lequel vous
 
 ---
 <!-- _class: souspartie -->
@@ -512,20 +558,9 @@ ul{margin-top:0;}
 
 <div class="puces">
 
-- **Obligatoires** : textes distribués pour chaque chapitre + une œuvre suivie.
-- **Pour approfondir** : manuels et revue [PhiloMag](https://www.philomag.com/) au CDI, conseils de lecture pour chaque chapitre, conseils de lecture sur un thème qui vous intéresse.
-- **À éviter** : les annabacs, les livres de méthode.
-</div>
-
----
-<!-- _class: entete approfondissement -->
-### Approfondissement
-<div class="puces">
-
-- Rappel : lire les documents sur Socrate ([voir diapositive 25](#25))
-- Initiation à la philosophie : [conseils de lecture](https://eyssette.github.io/ressources-generales-enseignement-philosophie/conseils-lectures-initiation-philosophie) <!-- Document au format A4 : https://docs.google.com/document/d/119PC0h-Zic6AVT4woWzXd8lbRmQ0fOVPAJ-CBFMyMdQ/edit?usp=sharing  -->
-  - Si vous visez une prépa l'année prochaine : il faut commencer à lire quelques classiques de l'histoire de la philosophie (voir dans la liste ci-dessus).
-
+- *Obligatoires* : textes distribués pour chaque chapitre + une œuvre suivie.
+- *Pour approfondir* : manuels et revue [PhiloMag](https://www.philomag.com/) au CDI, conseils de lecture pour chaque chapitre, conseils de lecture sur un thème qui vous intéresse.
+- *À éviter* : les annabacs, les livres de méthode.
 </div>
 
 ---
