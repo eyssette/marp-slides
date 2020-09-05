@@ -527,10 +527,16 @@ ul ul {margin-top:-5px!important;}
 
 ---
 <!-- _class: exercice application -->
+<style scoped>
+ul, h3 {font-size:42px!important;}
+ul ul {font-size:95%!important; margin-top:10px;}
+</style>
 
 ### Exercice à faire à la maison
 
-- À l'aide du cours, rédigez un paragraphe (150 mots minimum) dans lequel vous
+- Pourquoi peut-on dire que réfléchir de manière critique, comme en philosophie, c'est dire non ?
+  - Rédigez un paragraphe (150 mots minimum) sur une feuille à part.
+  - Utilisez au moins un élément de ce cours d'introduction à la philosophie.
 
 ---
 <!-- _class: souspartie -->
