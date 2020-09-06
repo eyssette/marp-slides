@@ -459,7 +459,7 @@ D'où le jaune, qui évoque l'or et donc l'enrichissement de sa réflexion à l'
 
 <!-- Exercice sur LearningApps à propos des trois démarches essentielles en philosophie -->
 
-<iframe src="https://learningapps.org/watch?v=ps7608fcn20" style="border:0px;width:100%;height:600px" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
+<iframe src="https://learningapps.org/watch?v=po35s2tyj20" style="border:0px;width:100%;height:600px" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
 
 ---
 <!-- _class: i1t1 pp vertical fpp-->
