@@ -60,7 +60,7 @@ Rembrandt, _Le philosophe en méditation_ (1632)
 ---
 <!-- _class: pointmethode fpppppppp -->
 ### Point méthode
-- En philosophie, c'est très utile de partie de ses représentations spontanées ou de lieux communs à propos d'une notion.
+- En philosophie, c'est très utile de partir de ses représentations spontanées ou de lieux communs à propos d'une notion.
 - C'est un premier matériau qu'on peut analyser, avec de l'esprit critique.
 
 
@@ -510,6 +510,7 @@ ul ul {margin-top:-5px!important;}
 ---
 <!-- _class: partie -->
 # II – Le <br>fonctionnement<br> du cours <!-- fit -->
+Deuxième partie
 
 ---
 <!-- _class: souspartie -->
