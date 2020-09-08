@@ -242,7 +242,7 @@ p {text-align:justify!important;}
 
 ![Photo d'un buste de Socrate](https://upload.wikimedia.org/wikipedia/commons/a/a4/Socrates_Louvre.jpg)
 
-Socrate (‎470-469 avant notre ère) est un personnage fondateur pour la philosophie.
+Socrate (‎470-399  avant notre ère) est un personnage fondateur pour la philosophie.
 <br/>Pour expliquer sa démarche, il se compare à un taon qui pique un cheval un peu mou.
 
 ---
@@ -455,7 +455,7 @@ D'où le jaune, qui évoque l'or et donc l'enrichissement de sa réflexion à l'
   h4{text-align:center;}
 </style>
 
-#### Exercice LearningApps
+#### Exercice LearningApps [+](https://learningapps.org/watch?v=po35s2tyj20)
 
 <!-- Exercice sur LearningApps à propos des trois démarches essentielles en philosophie -->
 
