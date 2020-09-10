@@ -330,28 +330,14 @@ p span{color:blue;}
 
 |Formalisation|Sens|
 |:-:|:-:|
-|$x_{1} , x_{2} …$|Les différents sens de la notion $x$ |
+|$x_{1} , x_{2} …$|Trouver différents sens de la notion $x$ |
 
 ---
-<!-- _class: pointmethode fmmmmm -->
-<style scoped>
-table td, table th, table  {background-color:#E9EFE1;}
-table{margin-left:38px; width:887px; padding-bottom:30px;}
-table td:nth-of-type(1){width:290px!important;}
-h3{margin-bottom:60px;}
-</style>
+<!-- _class: i1t1 pp vertical -->
 
-### Rappel 
+### Rappel
 
-Quatre stratégies pour analyser une notion $x$ :
-
-|Formalisation|Sens|
-|:-:|:-:|
-|$EC(x)$|Exemple concret de la notion $x$|
-|$x ≠ y$|Trouver l'opposé ou des distinctions|
-|$x \rightarrow a, b, c …$|Trouver les termes proches, les implications logiques, les expressions associées|
-|$x_{1} , x_{2} …$|Les différents sens de la notion $x$ |
-
+![](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/strategies-analyse-notion2.svg)
 
 ---
 <!-- _class: etape -->
@@ -386,5 +372,14 @@ Dossier de textes sur la question : « Le bonheur n'est-il qu'un idéal ? »
 
 ---
 <!-- _class: souspartie -->
-## D. Organiser ses idées
+## D. Organiser ses idées : trouver un plan
 
+---
+<!-- _class: i1t1 pp -->
+
+### Un exemple de plan
+
+![](image du plan)
+
+---
+<!-- _class:  -->
