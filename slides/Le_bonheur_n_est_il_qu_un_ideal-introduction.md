@@ -375,11 +375,28 @@ Dossier de textes sur la question : « Le bonheur n'est-il qu'un idéal ? »
 ## D. Organiser ses idées : trouver un plan
 
 ---
-<!-- _class: i1t1 pp -->
+<!-- _class: i1t1 pp pm -->
 
 ### Un exemple de plan
 
 ![](image du plan)
 
 ---
-<!-- _class:  -->
+<!-- _class: fp pointmethode -->
+<style scoped>
+h3{text-align:center; margin-bottom:50px;}
+ol {padding-bottom:0px!important; padding-top:20px}
+ol li:nth-of-type(1), ol li:nth-of-type(2){margin-bottom:15px;}
+ol ul {font-size:97%; margin-right:0!important;}
+ol ul li{margin-bottom:0!important;}
+p{text-align:center;}
+</style>
+
+### Point méthode
+
+**Trois principes pour le plan**
+1) Chaque partie est l'examen d'une réponse à la question posée.
+2) Une sous-partie est un argument.
+3) Il doit y avoir une progression logique :
+    - quand on passe à la sous-partie suivante ;
+    - quand on passe à la partie suivante.
