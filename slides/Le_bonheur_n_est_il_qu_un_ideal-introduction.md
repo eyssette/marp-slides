@@ -110,11 +110,12 @@ span{color:blue;}
 _Démarche :_ <span>&#9679;</span> Conceptualiser
 
 ---
-<!-- _class: pm fpppp -->
+<!-- _class: pm fppp -->
 
 - Quels sont les synonymes du mot “idéal” ?
 - Si un objectif n'est qu'un idéal, cela veut dire que cet objectif est ………
 - Que signifie le terme “idéal” dans les expressions suivantes : 
+  - « un homme idéal », « une femme idéale », « un lieu idéal », 
   - « un idéal utopique »
   - « idéalement, ça va marcher »
   - « être un idéaliste »
@@ -174,7 +175,7 @@ p:nth-of-type(2):first-line{line-height:2.3em;}
 « Le bonheur n'est-il qu'un idéal ? »
 
 **Sujet reformulé :**
-« L'objectif de parvenir à un état de satisfaction global et durable est-il une simple visée, inaccessible, de notre imagination ? Le désir d'être heureux est-il voué à l'échec ? »
+« L'objectif de parvenir à un état de satisfaction global et durable est-il une simple visée, inaccessible, de notre imagination ? Le désir d'être heureux est-il irréalisable et voué à l'échec ? »
 
 ---
 <!-- _class: etape -->
@@ -198,7 +199,7 @@ span{color:#9e0a0a;}
 « Le bonheur n'est-il qu'un idéal ? »
 
 **Sujet reformulé avec le “ou bien”:**
-« L'objectif de parvenir à un état de satisfaction global et durable est-il une simple visée, inaccessible, de notre imagination ? Le désir d'être heureux est-il voué à l'échec ? <span>Ou bien</span> est&#x2011;il possible de concevoir une méthode qui nous permettrait de faire du bonheur une réalité ? Y a-t-il un art d'être heureux ? »
+« L'objectif de parvenir à un état de satisfaction global et durable est-il une simple visée, inaccessible, de notre imagination ? Le désir d'être heureux est-il irréalisable et voué à l'échec ? <span>Ou bien</span> est&#x2011;il possible de concevoir une méthode qui nous permettrait de faire du bonheur une réalité ? Y a-t-il un art d'être heureux ? »
 
 ---
 <!-- _class: exercice application pm f -->
@@ -250,50 +251,107 @@ Pour trouver des idées, il faut :
 <!-- _class: etape fpppppppp -->
 <style scoped>
 h3{font-size:120%;}
+
 p:nth-of-type(1) span{color:red;}
-p:nth-of-type(3) span{color:#F8D748;}
-p{margin-bottom:2px;}
+p:nth-of-type(2) span{color:#F8D748;}
+p:nth-of-type(3) span {color:blue;}
+p{margin-bottom:10x;}
+p:nth-of-type(2)::before, p:nth-of-type(3)::before{content:"+   "; font-weight:bold;}
 </style>
 ### 1) Explorer la diversité des réponses possibles
 « Est-ce si simple ? »
 _Démarche :_ <span>&#9679;</span> Problématiser
 
-\+
-
 Références théoriques
 _Démarche :_ <span>&#9679;</span> Mobiliser sa culture
 
+« Qu'est-ce que cela veut dire ? »
+_Démarche :_ <span>&#9679;</span> Conceptualiser
+
 ---
-<!-- _class: pointmethode fppp -->
+<!-- _class: pointmethode fp -->
 <style scoped>
 h3{margin-bottom:60px;}
 p{padding-top:25px;}
 ul {padding-top:0; padding-bottom:25px;}
 ul li {font-size:95%;  margin-top:2px; }
+span{color:red;}
 </style>
 
-### Point méthode
+### Point méthode 
 
-Il ne faut pas se limiter à une seule perspective (ce n’est pas si simple) : il faut explorer le plus large éventail possible de réponses !
+**[<span>&#9679;</span> Problématiser]** Il ne faut pas se limiter à une seule perspective (ce n’est pas si simple). Il faut explorer le plus large éventail possible de réponses.
 - Du oui au non.
 - Des plus évidentes au moins intuitives.
 - Des plus ordinaires aux plus radicales.
 - Des plus proches de ce qu’on pense soi&#x2011;même aux plus éloignées.
 
 ---
-<!-- _class: pointmethode fp -->
+<!-- _class:  -->
+<style scoped>
+h4{margin-top:-40px!important;}
+p, h4{text-align:center;}
+p, h4, ul {font-size:50px;}
+ul {font-size:48px; padding-left:50px; padding-right:60px; margin-top:50px;}
+</style>
+#### Retour au sujet
+« Le bonheur n'est-il qu'un idéal ? » 
+
+- Qu'en pensez-vous ?
+- Quelles sont les différentes réponses que l'on pourrait envisager ?
+
+---
+<!-- _class: pointmethode f -->
 <style scoped>
 table td, table th, table  {background-color:#E9EFE1;}
 table{margin-left:38px; width:887px; padding-bottom:60px;}
 table td:nth-of-type(1){width:290px!important;}
+p span{color:#F8D748;}
 </style>
 ### Point Méthode
 
-Pour enrichir cette exploration du sujet, il faut chercher des références théoriques à propos des notions du sujet.
+**[<span>&#9679;</span> Mobiliser sa culture]** Afin d'ouvrir les perspectives sur la question posée, il faut chercher des références théoriques à propos des notions du sujet
 
 |Formalisation|Sens|
 |:-:|:-:|
 |$RT(x)$|Références théoriques à propos de la notion $x$ |
+
+---
+<!-- _class: pointmethode f -->
+<style scoped>
+table td, table th, table  {background-color:#E9EFE1;}
+table{margin-left:38px; width:887px; padding-bottom:60px;}
+table td:nth-of-type(1){width:290px!important;}
+p span{color:blue;}
+</style>
+### Point Méthode
+
+**[<span>&#9679;</span> Conceptualiser]** Afin d'ouvrir les perspectives sur la question posée, il faut chercher les différents sens possibles, les différentes conceptions possibles des notions du sujet
+
+|Formalisation|Sens|
+|:-:|:-:|
+|$x_{1} , x_{2} …$|Les différents sens de la notion $x$ |
+
+---
+<!-- _class: pointmethode fmmmmm -->
+<style scoped>
+table td, table th, table  {background-color:#E9EFE1;}
+table{margin-left:38px; width:887px; padding-bottom:30px;}
+table td:nth-of-type(1){width:290px!important;}
+h3{margin-bottom:60px;}
+</style>
+
+### Rappel 
+
+Quatre stratégies pour analyser une notion $x$ :
+
+|Formalisation|Sens|
+|:-:|:-:|
+|$EC(x)$|Exemple concret de la notion $x$|
+|$x ≠ y$|Trouver l'opposé ou des distinctions|
+|$x \rightarrow a, b, c …$|Trouver les termes proches, les implications logiques, les expressions associées|
+|$x_{1} , x_{2} …$|Les différents sens de la notion $x$ |
+
 
 ---
 <!-- _class: etape -->
@@ -314,5 +372,19 @@ ul { padding-top:20px;}
 </style>
 ### Point méthode
 Pour chaque idée, même si on n'est pas d'accord avec cette idée, il faut :
-- trouver au moins un argument
+- trouver des arguments
 - trouver des objections contre cette idée, et voir comment on pourrait répondre à ces critiques
+
+---
+<!-- _class: entete lecture  -->
+
+### Travail sur un dossier de textes
+
+Dossier de textes sur la question : « Le bonheur n'est-il qu'un idéal ? »
+
+- Lire les textes ([lien vers le dossier](https://docs.google.com/document/d/1MhSm4kM1dVWIDd1DY3EbM57SIYwmE1U72JrghnWFJP0/edit?usp=sharing)) et répondre aux questions sur une feuille double à part
+
+---
+<!-- _class: souspartie -->
+## D. Organiser ses idées
+
