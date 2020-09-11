@@ -375,7 +375,7 @@ Dossier de textes sur la question : « Le bonheur n'est-il qu'un idéal ? »
 ## D. Organiser ses idées : trouver un plan
 
 ---
-<!-- _class: fmm pm -->
+<!-- _class: f pm -->
 <style scoped>
 h3{text-align:center; margin-bottom:50px; font-size:140%;}
 </style>
@@ -393,28 +393,7 @@ C. Le tragique de l'existence nous condamne au malheur
 A. Nous pouvons maîtriser nos désirs
 B. Nous pouvons affronter le tragique de l'existence
 
-…… (à  suivre …)
-
----
-<!-- _class: fmmmmm pm -->
-<style scoped>
-h3{text-align:center; margin-bottom:50px; font-size:140%;}
-</style>
-
-### Exemple de plan
-
-**I - Le bonheur semble être une quête impossible**
-
-A. On ne sait pas vraiment ce qu'on recherche
-B. Le désir est insatiable
-C. Le tragique de l'existence nous condamne au malheur
-
-**II – Ne peut-on pas parvenir cependant à une certaine sagesse  et faire du bonheur une réalité ?**
-
-A. Nous pouvons maîtriser nos désirs
-B. Nous pouvons affronter le tragique de l'existence
-
-**III – L'idéal de la sagesse ne correspond pas à ce que nous attendons d'une vie heureuse : le bonheur peut **
+_…… (Troisième partie : à  suivre)_
 
 ---
 <!-- _class: fp pointmethode -->
@@ -431,7 +410,7 @@ p{text-align:center;}
 
 **Trois principes pour le plan**
 1) Chaque partie est l'examen d'une réponse à la question posée.
-2) Une sous-partie est un argument.
+2) Chaque sous-partie est un argument.
 3) Il doit y avoir une progression logique :
     - quand on passe à la sous-partie suivante ;
     - quand on passe à la partie suivante.
