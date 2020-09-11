@@ -13,7 +13,7 @@ h1{font-size:280%!important;}
 # Le bonheur<br>n'est-il qu'un<br> idéal ?
 Cédric Eyssette (2020-2021)
 http://eyssette.net
-
+<!-- Penser à donner les notions travaillées dans ce chapitre -->
 
 ---
 <!-- _class: pointmethode -->
@@ -178,11 +178,11 @@ p:nth-of-type(2):first-line{line-height:2.3em;}
 « L'objectif de parvenir à un état de satisfaction global et durable est-il une simple visée, inaccessible, de notre imagination ? Le désir d'être heureux est-il irréalisable et voué à l'échec ? »
 
 ---
-<!-- _class: etape -->
+<!-- _class: etape fpppppp -->
 <style scoped>
 span{color:red}
 </style>
-### 2) Dégager une tension dans<br>  le sujet, en introduisant<br> le “ou bien”
+### 2) Dégager une tension dans le sujet, entre deux réponses opposées, en introduisant le “ou bien”
 « Est-ce si simple ? »
 
 _Démarche :_ <span>&#9679;</span> Problématiser
@@ -375,11 +375,46 @@ Dossier de textes sur la question : « Le bonheur n'est-il qu'un idéal ? »
 ## D. Organiser ses idées : trouver un plan
 
 ---
-<!-- _class: i1t1 pp pm -->
+<!-- _class: fmm pm -->
+<style scoped>
+h3{text-align:center; margin-bottom:50px; font-size:140%;}
+</style>
 
-### Un exemple de plan
+### Exemple de plan
 
-![](image du plan)
+**I - Le bonheur semble être une quête impossible**
+
+A. On ne sait pas vraiment ce qu'on recherche.
+B. Le désir est insatiable.
+C. Le tragique de l'existence nous condamne au malheur
+
+**II – Ne peut-on pas parvenir cependant à une certaine sagesse  et faire du bonheur une réalité ?**
+
+A. Nous pouvons maîtriser nos désirs
+B. Nous pouvons affronter le tragique de l'existence
+
+…… (à  suivre …)
+
+---
+<!-- _class: fmmmmm pm -->
+<style scoped>
+h3{text-align:center; margin-bottom:50px; font-size:140%;}
+</style>
+
+### Exemple de plan
+
+**I - Le bonheur semble être une quête impossible**
+
+A. On ne sait pas vraiment ce qu'on recherche
+B. Le désir est insatiable
+C. Le tragique de l'existence nous condamne au malheur
+
+**II – Ne peut-on pas parvenir cependant à une certaine sagesse  et faire du bonheur une réalité ?**
+
+A. Nous pouvons maîtriser nos désirs
+B. Nous pouvons affronter le tragique de l'existence
+
+**III – L'idéal de la sagesse ne correspond pas à ce que nous attendons d'une vie heureuse : le bonheur peut **
 
 ---
 <!-- _class: fp pointmethode -->
