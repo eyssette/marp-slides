@@ -375,21 +375,22 @@ Dossier de textes sur la question : « Le bonheur n'est-il qu'un idéal ? »
 ## D. Organiser ses idées : trouver un plan
 
 ---
-<!-- _class: f pm -->
+<!-- _class: fm pm -->
 <style scoped>
-h3{text-align:center; margin-bottom:50px; font-size:140%;}
+h3{text-align:center; margin-bottom:30px; font-size:135%;}
 </style>
 
 ### Exemple de plan
 
 **I - Le bonheur semble être une quête impossible**
 
-A. On ne sait pas vraiment ce qu'on recherche.
-B. Le désir est insatiable.
+A. On ne sait pas vraiment ce qu'on recherche
+B. Le désir est insatiable
 C. Le tragique de l'existence nous condamne au malheur
 
-**II – Ne peut-on pas parvenir cependant à une certaine sagesse  et faire du bonheur une réalité ?**
+**II – Ne peut-on pas cependant parvenir à une certaine sagesse et faire du bonheur une réalité ?**
 
+A. Il n'y a peut-être pas de science du bonheur, mais un art d'être heureux est possible
 A. Nous pouvons maîtriser nos désirs
 B. Nous pouvons affronter le tragique de l'existence
 
@@ -412,5 +413,5 @@ p{text-align:center;}
 1) Chaque partie est l'examen d'une réponse à la question posée.
 2) Chaque sous-partie est un argument.
 3) Il doit y avoir une progression logique :
-    - quand on passe à la sous-partie suivante ;
-    - quand on passe à la partie suivante.
+    - de la première à la dernière partie ;
+    - à l'intérieur de chaque partie.
