@@ -61,12 +61,11 @@ Deux stratégies pour analyser une notion :
 - trouver ce que la notion n'est pas
 
 ---
-<!-- _class: pointmethode fpppppp -->
+<!-- _class: pointmethode  -->
 <style scoped>
 table td, table th, table  {background-color:#E9EFE1;}
 table{margin-left:38px; width:887px; padding-bottom:60px;}
 </style>
-Si la formalisation vous aide :
 
 |Formalisation|Sens|
 |:-:|:-:|
@@ -122,7 +121,7 @@ _Démarche :_ <span>&#9679;</span> Conceptualiser
   - « idéaliser »
 
 ---
-<!-- _class: pointmethode fp -->
+<!-- _class: pointmethode fpp -->
 <style scoped>
 table td, table th, table  {background-color:#E9EFE1;}
 table{margin-left:38px; width:887px; padding-bottom:60px;}
@@ -130,7 +129,7 @@ table td:nth-of-type(1){width:290px!important;}
 </style>
 ### Point Méthode
 
-Une troisième stratégie pour analyser une notion (avec la formalisation, si elle vous aide) :
+Une troisième stratégie pour analyser une notion :
 
 |Formalisation|Sens|
 |:-:|:-:|
@@ -188,7 +187,7 @@ span{color:red}
 _Démarche :_ <span>&#9679;</span> Problématiser
 
 ---
-<!-- _class: fppp-->
+<!-- _class: fppp pm-->
 <style scoped>
 p:nth-of-type(1):first-line{line-height:1.8em;}
 p:nth-of-type(2):first-line{line-height:2.3em;}
@@ -201,8 +200,19 @@ span{color:#9e0a0a;}
 **Sujet reformulé avec le “ou bien”:**
 « L'objectif de parvenir à un état de satisfaction global et durable est-il une simple visée, inaccessible, de notre imagination ? Le désir d'être heureux est-il irréalisable et voué à l'échec ? <span>Ou bien</span> est&#x2011;il possible de concevoir une méthode qui nous permettrait de faire du bonheur une réalité ? Y a-t-il un art d'être heureux ? »
 
+
 ---
-<!-- _class: exercice application pm f -->
+<!-- _class: pointmethode -->
+<style scoped>
+ol{padding-top:10px;}
+</style>
+### Point méthode
+Pour problématiser un sujet de dissertation, il faut :
+1. remplacer les termes par leur définition
+2. introduire le “ou bien”
+
+---
+<!-- _class: exercice application f -->
 <style scoped>
 p {font-size:95%; margin-top:20px;}
 .puces ul {margin-top:0px;}
@@ -221,16 +231,6 @@ Commencez par analyser l'expression « C'est une affaire privée » : qu'est-ce 
 - $x \rightarrow a, b, c …$ : les synonymes, les implications logiques
 </div>
 
-
----
-<!-- _class: pointmethode -->
-<style scoped>
-ol{padding-top:10px;}
-</style>
-### Point méthode
-Pour problématiser un sujet de dissertation, il faut :
-1. remplacer les termes par leur définition
-2. introduire le “ou bien”
 
 ---
 <!-- _class: souspartie  -->
