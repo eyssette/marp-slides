@@ -62,4 +62,21 @@ ol{font-size:95%; margin-top:-5px!important; padding-left:0!important; margin-le
 |*3* une méthode<br>infaillible|*6* une projection incertaine qui n'est pas<br> à l'abri de la déception|
 
 ---
-<!-- _class:  -->
+<!-- _class: i1t1 horizontal pp  -->
+<style scoped>
+blockquote{font-size:72%; width:360px!important;}
+</style>
+
+[![](https://fr.web.img2.acsta.net/medias/nmedia/18/65/75/28/19027674.jpg)](https://drive.google.com/file/d/11EKI6SAcNvDRsr2aBIMjQlI-vgQSYeds/view?usp=sharing)
+
+>« Au milieu des années 1950, April et Frank Wheeler forment un jeune couple américain qui, en apparence, a tout pour être heureux (enfants, maison, travail...) […] ils finissent par devenir tout ce qu'ils ne voulaient pas être : un homme coincé par son métier et dont la désinvolture peine à cacher le manque d'assurance et une femme au foyer morose rêvant d'une autre vie. » ([source](https://fr.wikipedia.org/wiki/Les_Noces_rebelles)).
+
+---
+<!-- _class: i2t0 pp contain-->
+<style scoped>
+img{height:670px!important; margin-top:-40px!important}
+</style>
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Citizen_Kane_poster%2C_1941_%28Style_B%2C_unrestored%29.jpg/1920px-Citizen_Kane_poster%2C_1941_%28Style_B%2C_unrestored%29.jpg)
+
+![](https://fr.web.img4.acsta.net/medias/nmedia/18/64/47/78/18869162.jpg)
