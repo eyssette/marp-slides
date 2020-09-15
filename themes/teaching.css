@@ -173,6 +173,27 @@ ul ul li::before, ol ul li::before{
 }
 p ~ ol, ol ~ ul {margin-top:-0.25em;}
 
+/* Utilisation des puces dans un bloc div marqué par la classe .puces */
+div.puces ul {
+    padding-left:1.8em;
+    background-color:inherit;
+}
+div.puces ul li {
+    padding-left:0.2em;
+    list-style-type: disc;
+}
+div.puces ul ul {
+}
+div.puces ul ul li {
+    list-style-type:circle;
+}
+div.puces ul li:before {
+    content:none;
+}
+
+
+
+
 /* Centrer certains éléments */
 
 section.centrertitre h3, section.centrertitre h4 {
@@ -315,6 +336,21 @@ section.pointmethode ul li {
 }
 section.pointmethode ul li:before {
     content:none;
+}
+
+/* ANNONCE DU POINT MÉTHODE */
+section.pm:before {
+    content:"[PM]";
+    font-size:25px!important;
+    color:#48742C;
+    position:absolute;
+    top:40px;
+    right:45px;
+    font-family:'Times New Roman', Times, serif;
+}
+section.pp.pm:before {
+    top:10px;
+    right:15px;
 }
 
 /* DIAPOSITIVE “DÉFINITION” */
@@ -463,11 +499,11 @@ section.entete.lecture, section.entete.approfondissement {
     font-size:3rem;
 }
 section.entete.lecture h3:before {
-    content:"📖";
+    content:"\01F4D6";
     padding-right:1em;
 }
 section.entete.approfondissement h3:before {
-    content:"🧗🏽‍♂️";
+    content:"\01F9D7 \01F3FD \0200D \02640 \0FE0F";
     padding-right:1em;
 }
 
@@ -476,11 +512,11 @@ section.entete.lecture, section.entete.approfondissement {
     font-size:2.5rem;
 }
 section.entete.discussion h3:before {
-    content:"🗣";
+    content:"\01F5E3";
     padding-right:1em;
 }
 section.entete.groupe h3:before {
-    content:"👥👥";
+    content:"\01F465 \01F465";
     padding-right:1em;
 }
 
@@ -523,7 +559,7 @@ section.qcm {
     padding-top:90px;
 }
 section.qcm::before{
-    content:"❓";
+    content:"\02753 ";
     top:40px;
     left:45%;
     position:absolute;
@@ -626,22 +662,17 @@ section.exercice.argumentation{ font-size:2.3rem;}
 section.exercice.argumentation::before{content:"Exercice d'argumentation"; margin-bottom:50px; text-align:center; font-size:120%; font-weight:bold; width:100%;}
 section.exercice.argumentation ol {border:green 3px solid; list-style-type:none; margin-left:2.3em; margin-right:2.3em;}
 section.exercice.argumentation ol li {padding:0px;padding-top:20px; padding-bottom:20px; margin-left:-1.5em;}
-section.exercice.argumentation ol li:nth-of-type(1):before{content:" A⃣"; padding-right:35px; }
-section.exercice.argumentation ol li:nth-of-type(2):before{content:"Or :   B⃣ "; padding-right:35px;}
+section.exercice.argumentation ol li:nth-of-type(1):before{content:" \024B6"; padding-right:35px; }
+section.exercice.argumentation ol li:nth-of-type(2):before{content:"Or :   \024B7 "; padding-right:35px;}
 section.exercice.rgumentation ol li:nth-of-type(2){padding-bottom:45px; border-bottom:1px grey solid;}
-section.exercice.argumentation ol li:nth-of-type(3):before{content:"Donc :   C⃣"; padding-right:35px;}
-@media only screen and (max-width:800px) {
-    section.exercice.argumentation ol li:nth-of-type(1):before{content:" 🅰 ";}
-    section.exercice.argumentation ol li:nth-of-type(2):before{content:"Or :   🅱 ";}
-    section.exercice.argumentation ol li:nth-of-type(3):before{content:"Donc :   🅲 ";}
-}
+section.exercice.argumentation ol li:nth-of-type(3):before{content:"Donc :   \024B8"; padding-right:35px;}
 section.exercice.argumentation ol li:nth-of-type(3){padding-top:30px}
 
 /* DIAPOSITIVE “EXERCICE D'APPLICATION" */
 section.exercice.application {font-size:2rem;}
 section.exercice.application h3 {text-align:center; font-size:120%;}
 section.exercice.application h3:before{
-    content:"✎  ";
+    content:"\0270E  ";
     color:#19780d;
 }
 section.exercice.application ul {margin-bottom:0em;}
