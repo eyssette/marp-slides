@@ -638,7 +638,7 @@ Une démonstration mathématique n'est pas simplement une déduction (si les pr�
 La certitude de la conclusion, dans une démonstration mathématique, est donc dépendante de la certitude des prémisses dont on part pour faire cette démonstration.
 
 - Qu'est-ce qui garantit la certitude des prémisses dans une démonstration mathématique ?
-
 ---
 <!-- _class:  -->
+
 
