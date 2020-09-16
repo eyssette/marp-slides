@@ -178,3 +178,11 @@ table td{width:455px; text-align:left!important}
 |Donc, quand on remplit le tonneau, il se vide rapidement|La satisfaction est donc temporaire : nous retombons vite dans l'insatisfaction|
 |Nous sommes ainsi condamnés à verser sans cesse, sans jamais arriver à un tonneau plein|Nous sommes condamnés à un cycle sans fin d'insatisfactions, qui ne permet pas de parvenir au bonheur (à une satisfaction globale et durable)|
 
+---
+<!-- _class: i1t1 vertical  -->
+<style scoped>
+img {height:600px}
+</style>
+Le mythe d'Aristophane
+
+[![](images/mythe-Aristophane.png)](https://www.youtube.com/watch?v=fmDpwXCyFOI)
