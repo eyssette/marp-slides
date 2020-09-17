@@ -95,6 +95,14 @@ ul {margin-top:5px!important; padding:20px!important;}
 - Aimeriez-vous qu'il y ait une personne qui s'occupe de votre bonheur, en tant que _Chief Happiness Officer_ dans votre entreprise  ? Qu'en penserait Kant ?
 
 ---
+<!-- _class: definition fppp-->
+
+### Définitions
+
+- Le **paternalisme** consiste à prétendre savoir ce qui est bon pour autrui et à vouloir faire le bien des autres, sans tenir compte de leur avis.
+- Une **conception normative du bonheur** est une conception du bonheur qui prétend qu'il y a une règle déterminée qu'il est nécessaire de suivre afin de parvenir au bonheur.
+
+---
 <!-- _class: exercice application pm -->
 <style scoped>
 ul ul {font-size:100%}
