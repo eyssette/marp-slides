@@ -21,6 +21,7 @@ Pour qu'il y ait une progression logique dans son plan, on peut partir, en premi
 <!-- _class: souspartie -->
 ## A. On ne sait pas vraiment ce qu'on recherche
 
+
 ---
 <!-- _class: citationC -->
 <style scoped>
@@ -55,7 +56,7 @@ ol{font-size:95%; margin-top:-5px!important; padding-left:0!important; margin-le
 <style scoped>
 ol{font-size:95%; margin-top:-5px!important; padding-left:0!important; margin-left:-15px!important;}
 </style>
-|Une conception du bonheur n'est jamais<br/>…|Une conception du <br>bonheur est toujours …|
+|Une conception du bonheur n'est jamais<br/>…|Une conception du <br>bonheur est toujours<br/>…|
 |:-:|:-:|
 |*1* un savoir objectif<br> et universel|*4* une représentation <br>subjective et particulière|
 |*5* un concept <br>précis et clair|*2* une image <br>vague et confuse|
@@ -100,9 +101,9 @@ ul ul {font-size:100%}
 span {font-size:90%}
 </style>
 
-### Exercice de mobilisation des connaissances
+### Exercice d'argumentation et de mobilisation de sa culture
 
-- Rédiger un paragraphe <span>(150 mots minimum)</span>, qui répond à l'un de ces sujets, avec un argument qui mobilise le cours sur Kant et le bonheur comme idéal de l'imagination :
+- Rédiger un paragraphe <span>(150 mots minimum)</span>, qui répond à l'un de ces sujets, avec un argument qui mobilise le cours sur Kant :
   - Le bonheur est-il une affaire privée ?
   - Suffit-il de réaliser ses désirs pour être heureux ?
   - Ai-je le devoir de faire le bonheur des autres ?
@@ -143,6 +144,31 @@ En fin de sous-partie, on s'efforce de faire une transition, de préférence sou
 ## B. Le désir est insatiable
 
 ---
+<!-- _class: citationC -->
+
+![bg left:45%](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Arthur_Schopenhauer_by_J_Sch%C3%A4fer%2C_1859b.jpg/1920px-Arthur_Schopenhauer_by_J_Sch%C3%A4fer%2C_1859b.jpg)
+
+>« Tout vouloir naît du besoin, donc du manque, donc de la souffrance »
+>>**Schopenhauer**, _Le Monde comme volonté et comme représentation_, Livre III, §38
+
+---
+<!-- _class: i1t1 vertical  -->
+<style scoped>
+img {height:600px}
+</style>
+Le mythe d'Aristophane
+
+[![](images/mythe-Aristophane.png)](https://www.youtube.com/watch?v=fmDpwXCyFOI)
+
+---
+<!-- _class: citationC fpppppp-->
+
+![bg left:45%](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Arthur_Schopenhauer_by_J_Sch%C3%A4fer%2C_1859b.jpg/1920px-Arthur_Schopenhauer_by_J_Sch%C3%A4fer%2C_1859b.jpg)
+
+>« [L]e sujet du vouloir […] remplit éternellement le tonneau des Danaïdes »
+>>**Schopenhauer**, _Le Monde comme volonté et comme représentation_, Livre III, §38
+
+---
 <!-- _class: i1t0 pp -->
 
 ![Tableau qui représente les Danaïdes qui remplissent un tonneau sans fond](https://upload.wikimedia.org/wikipedia/commons/3/3e/Danaides_Waterhouse_1903.jpg)
@@ -153,14 +179,14 @@ En fin de sous-partie, on s'efforce de faire une transition, de préférence sou
 h3{margin-bottom:0}
 </style>
 
-### Platon : l'image du tonneau percé
+### L'image du tonneau percé
 
-1) Nous aimerions tous avoir un tonneau plein
-2) Mais le tonneau n'est pas plein : il y a du vide dans le tonneau
-3) Nous essayons de remplir le tonneau en versant des bonnes choses dans le tonneau
-4) Le problème est que nous avons un tonneau percé
-5) Donc, quand on remplit le tonneau, il se vide rapidement
-6) Nous sommes ainsi condamnés à verser sans cesse, sans jamais arriver à un tonneau plein
+1) Nous aimerions tous avoir un **tonneau plein**
+2) Mais le tonneau n'est pas plein : il y a **du vide** dans le tonneau
+3) Nous essayons de **remplir le tonneau** en versant des bonnes choses dans le tonneau
+4) Le problème est que nous avons un **tonneau percé**
+5) Donc, quand on remplit le tonneau, il **se vide rapidement**
+6) Nous sommes ainsi condamnés à verser sans cesse, sans **jamais arriver à un tonneau plein**
 
 ---
 <!-- _class: fmmmmmmmmm pp -->
@@ -178,11 +204,60 @@ table td{width:455px; text-align:left!important}
 |Donc, quand on remplit le tonneau, il se vide rapidement|La satisfaction est donc temporaire : nous retombons vite dans l'insatisfaction|
 |Nous sommes ainsi condamnés à verser sans cesse, sans jamais arriver à un tonneau plein|Nous sommes condamnés à un cycle sans fin d'insatisfactions, qui ne permet pas de parvenir au bonheur (à une satisfaction globale et durable)|
 
----
-<!-- _class: i1t1 vertical  -->
-<style scoped>
-img {height:600px}
-</style>
-Le mythe d'Aristophane
 
-[![](images/mythe-Aristophane.png)](https://www.youtube.com/watch?v=fmDpwXCyFOI)
+---
+<!-- _class: citationL fmmm -->
+<style scoped>
+blockquote blockquote {margin-top:-10px;}
+</style>
+
+>« Je suis publicitaire: eh oui, je pollue l’univers. Je suis le type qui […] vous fait rêver de ces choses que vous n’aurez jamais. Ciel toujours bleu, nanas jamais moches, un bonheur parfait, retouché sur PhotoShop. Images léchées, musiques dans le vent. Quand, à force d’économies, vous réussirez à vous payer la bagnole de vos rêves, celle que j’ai shootée dans ma dernière campagne, je l’aurai déjà démodée. J’ai trois vogues d’avance, et m’arrange toujours pour que vous soyez frustré. Le Glamour, c’est le pays où l’on n’arrive jamais. Je vous drogue à la nouveauté, et l’avantage avec la nouveauté, c’est qu’elle ne reste jamais neuve. Il y a toujours une nouvelle nouveauté pour faire vieillir la précédente. Vous faire baver, tel est mon sacerdoce. Dans ma profession, personne ne souhaite votre bonheur, parce que les gens heureux ne consomment pas.
+Votre souffrance dope le commerce. Dans notre jargon, on l’a baptisée « la déception post-achat ». Il vous faut d’urgence un produit, mais dès que vous le possédez, il vous en faut un autre. […] Mais pour créer des besoins, il faut attiser la jalousie, la douleur, l’inassouvissement : telles sont mes munitions. Et ma cible, c’est vous. »
+>>Frédéric **Beigbeder**, _99F_
+
+---
+<!-- _class: i1t0 pp -->
+
+![](images/dior.jpg)
+
+---
+<!-- _class: i1t1 pp fpppppp-->
+<style scoped>
+img{margin-bottom:10px;}
+p{margin-bottom:5px!important; margin-left:30px; margin-right:30px!important;}
+</style>
+
+![](images/game-spectrum-fortnite.png)
+
+<div class="puces">
+
+[Extrait 1](https://youtu.be/uUlJarbHrMU?t=493) : les techniques de rétention dans Fortnite
+
+[Extrait 2](https://youtu.be/uUlJarbHrMU?t=2353) : les réseaux sociaux et l'économie de l'attention
+</div>
+
+---
+<!-- _class: exercice application -->
+<style scoped>
+ul ul {font-size:100%}
+span {font-size:90%}
+</style>
+
+### Exercice d'argumentation et de mobilisation de sa culture
+
+- Rédiger un paragraphe <span>(150 mots minimum)</span>, qui répond à l'un de ces sujets, avec un argument qui mobilise le cours sur Schopenhauer :
+  - Le progrès technique rend-il heureux ?
+  - Peut-on désirer sans souffrir ?
+  - Le bonheur n'est-il qu'une illusion ?
+  - Le désir est-il la marque de notre imperfection ?
+  - Le désir peut-il se satisfaire de la réalité ?
+
+---
+<!-- _class: souspartie fpppp-->
+<style scoped>
+h2{margin-bottom:10px;}
+</style>
+## C. Le tragique de l'existence nous condamne au malheur
+
+- Qu'est-ce que le « tragique » à votre avis ?
+- Qu'est-ce que cela veut dire quand on dit que « l'existence est tragique » ?
