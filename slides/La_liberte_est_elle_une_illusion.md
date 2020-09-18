@@ -7,10 +7,9 @@ size: 4:3
 
 <!-- _class: titre pm-->
 <style scoped>
-section:before{margin-top:390px;}
-h1{font-size:280%!important;}
+
 </style>
-# Le bonheur<br>n'est-il qu'un<br> idéal ?
+# Les choix que nous faisons sont-ils vraiment libres ?
 Cédric Eyssette (2020-2021)
 http://eyssette.net
 <!-- Penser à donner les notions travaillées dans ce chapitre -->

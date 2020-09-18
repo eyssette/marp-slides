@@ -535,7 +535,7 @@ ul ul {font-size:95%!important; margin-top:10px;}
 
 ### Exercice à faire à la maison
 
-- Pourquoi peut-on dire que réfléchir de manière critique, comme en philosophie, c'est dire non ?
+- Pourquoi peut-on dire que réfléchir, comme en philosophie, c'est dire non ?
   - Rédigez un paragraphe (150 mots minimum) sur une feuille à part.
   - Utilisez au moins un élément de ce cours d'introduction à la philosophie.
 
