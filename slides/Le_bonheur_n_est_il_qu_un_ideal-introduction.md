@@ -18,7 +18,7 @@ http://eyssette.net
 ---
 <!-- _class: pointmethode -->
 ### Point méthode
-En dissertation, le premier travail à faire au brouillon, c'est analyser le sujet.
+En dissertation, le premier travail à faire au brouillon, c'est clarifier le sens des termes du sujet (= conceptualiser).
 
 ---
 <!-- _class: souspartie -->

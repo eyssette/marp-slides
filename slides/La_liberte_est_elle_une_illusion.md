@@ -7,9 +7,9 @@ size: 4:3
 
 <!-- _class: titre pm-->
 <style scoped>
-
+h1{font-size:270%;}
 </style>
-# Les choix que nous faisons sont-ils vraiment libres ?
+# Le choix libre <br>est-il une<br> illusion ?
 Cédric Eyssette (2020-2021)
 http://eyssette.net
 <!-- Penser à donner les notions travaillées dans ce chapitre -->
@@ -17,7 +17,7 @@ http://eyssette.net
 ---
 <!-- _class: pointmethode -->
 ### Point méthode
-En dissertation, le premier travail à faire au brouillon, c'est analyser le sujet.
+En dissertation, le premier travail à faire au brouillon, c'est clarifier le sens des termes du sujet (= conceptualiser).
 
 ---
 <!-- _class: souspartie -->
@@ -29,25 +29,67 @@ En dissertation, le premier travail à faire au brouillon, c'est analyser le suj
 h3{font-size:140%;}
 span{color:blue;}
 </style>
-### 1) Analyse du sujet : <br/> « Le bonheur »
+### 1) Analyse du sujet : <br/> « une illusion »
 « Qu'est-ce que cela veut dire ? »
 
 _Démarche :_ <span>&#9679;</span> Conceptualiser
 
 ---
-<!-- _class: i1t1 horizontal pp pm  -->
+<!-- _class: i2t1 horizontal pp pm contain  -->
 <style scoped>
-ul {font-size:140%;}
-ul li {text-align:left!important;}
-p{width:600px;}
+p{margin-top:-80px!important;}
+span{display:block; margin-top:-60px; margin-left:50px;}
 </style>
 
-![](images/manger-chocolat.png)
-- Manger du chocolat, est-ce le bonheur ?
+![](images/illusion-muller-lyer.png)
+<span>Illusion de Müller Lyer</span>
 
-<!-- Quand j’ai plaisir à manger du chocolat, cela signifie-t-il que tout va bien dans mon existence ? 
-Combien de temps dure le plaisir de manger du chocolat ?
-Qu’est-ce qui me permet de dire que j'ai du plaisir à manger du chocolat ? -->
+[![](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Grey_square_optical_illusion.svg/2880px-Grey_square_optical_illusion.svg.png)](https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Grey_square_optical_illusion_proof2.svg/2880px-Grey_square_optical_illusion_proof2.svg.png)
+<span>Échiquier d’Adelson</span>
+
+---
+<!-- _class: i2t0 pp -->
+
+![](images/pingouins.png)
+
+![](images/pere-noel.png)
+
+---
+<!-- _class: entete approfondissement -->
+
+### Approfondissement
+
+D'autres illusions : [documents sur les illusions](https://docs.google.com/document/d/1k0PyEjEYlJVcNk23j-RAzZANood-5VWihYIhd9ERlJ8/edit)
+
+
+---
+<!-- _class: exercice tableau colonnes fmmmmm-->
+
+|Erreur|Illusion|
+|:-:|:-:|
+|?|?|
+|?|?|
+|?|?|
+|?|?|
+
+1. Je me trompe … 
+2. Il est possible de la rectifier
+3. … par la force de persuasion de mes sens, d'un biais cognitif, de mes désirs,  de l'environnement social
+4. C'est une croyance sans fondement véritable, à laquelle j'adhère simplement en raison de son apparence de vérité
+5. C'est une croyance fausse
+6. Je suis trompé ...
+7. … par manque de connaissance, de méthode, d'attention
+8. Elle tend à persister : la prise de conscience ne suffit pas à la rectifier
+
+---
+<!-- _class: exercice tableau-r fmmmmm-->
+
+|Erreur|Illusion|
+|:-:|:-:|
+|_1_ Je me trompe … |_6_ Je suis trompé ...|
+|_7_ … par manque de connaissance, de méthode, d'attention|_3_ … par la force de persuasion de mes sens, d'un biais cognitif, de mes désirs,  de l'environnement social|
+|_5_ C'est une croyance fausse|_4_ C'est une croyance sans fondement véritable, à laquelle j'adhère simplement en raison de son apparence de vérité|
+|_2_ Il est possible de la rectifier|_8_ Elle tend à persister : la prise de conscience ne suffit pas à la rectifier|
 
 ---
 <!-- _class: pointmethode -->
@@ -71,30 +113,6 @@ table{margin-left:38px; width:887px; padding-bottom:60px;}
 |$EC(x)$|Exemple concret de la notion $x$|
 |$x ≠ y$|Trouver l'opposé ou des distinctions|
 
----
-<!-- _class: exercice tableau -->
-
-|Le bonheur est un état de satisfaction …|Le plaisir est un état de satisfaction …|
-|:-:|:-:|
-|?|?|
-|?|?|
-|?|?|
-
-1. qui provient d’un jugement général sur la vie
-2. durable
-3. global
-4. éphémère
-5. partiel
-6. qui provient d’un fait particulier
-
----
-<!-- _class: exercice tableau-r fpppp -->
-
-|Le bonheur est un état de satisfaction …|Le plaisir est un état de satisfaction …|
-|:-:|:-:|
-|*3* global|*5* partiel|
-|*2* durable|*4* éphémère|
-|*1* qui provient d’un jugement général<br> sur la vie|*6* qui provient <br>d’un fait<br> particulier|
 
 ---
 <!-- _class: etape -->
@@ -102,7 +120,7 @@ table{margin-left:38px; width:887px; padding-bottom:60px;}
 h3{font-size:140%;}
 span{color:blue;}
 </style>
-### 2) Analyse du sujet : <br/> « n'être qu'un idéal »
+### 2) Analyse du sujet : <br/> « Le choix libre »
 « Qu'est-ce que cela veut dire ? »
 
 _Démarche :_ <span>&#9679;</span> Conceptualiser
@@ -110,14 +128,12 @@ _Démarche :_ <span>&#9679;</span> Conceptualiser
 ---
 <!-- _class: pm fppp -->
 
-- Quels sont les synonymes du mot “idéal” ?
-- Si un objectif n'est qu'un idéal, cela veut dire que cet objectif est ………
-- Que signifie le terme “idéal” dans les expressions suivantes : 
-  - « un homme idéal », « une femme idéale », « un lieu idéal », 
-  - « un idéal utopique »
-  - « idéalement, ça va marcher »
-  - « être un idéaliste »
-  - « idéaliser »
+- Quels sont les synonymes de l'expression “choix libre” ?
+- Si un choix est libre, cela veut dire que ce choix est ………
+- Que signifie le terme libre” dans les expressions suivantes : 
+  - “libre comme l'air”, “un espace libre”
+  - “j'ai besoin de liberté”
+  - …
 
 ---
 <!-- _class: pointmethode fpp -->
