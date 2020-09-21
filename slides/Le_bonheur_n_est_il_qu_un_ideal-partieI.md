@@ -21,6 +21,9 @@ Pour qu'il y ait une progression logique dans son plan, on peut partir, en premi
 <!-- _class: souspartie -->
 ## A. On ne sait pas vraiment ce qu'on recherche
 
+---
+<!-- _class: etape -->
+### 1/ Référence : Kant
 
 ---
 <!-- _class: citationC -->
@@ -61,6 +64,10 @@ ol{font-size:95%; margin-top:-5px!important; padding-left:0!important; margin-le
 |*1* un savoir objectif<br> et universel|*4* une représentation <br>subjective et particulière|
 |*5* un concept <br>précis et clair|*2* une image <br>vague et confuse|
 |*3* une méthode<br>infaillible|*6* une projection incertaine qui n'est pas<br> à l'abri de la déception|
+
+---
+<!-- _class: etape -->
+### 2/ Exemples
 
 ---
 <!-- _class: i1t1 horizontal pp  -->
@@ -152,9 +159,13 @@ En fin de sous-partie, on s'efforce de faire une transition, de préférence sou
 ## B. Le désir est insatiable
 
 ---
+<!-- _class: etape -->
+### 1/ Le désir comme manque
+
+---
 <!-- _class: citationC -->
 
-![bg left:45%](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Arthur_Schopenhauer_by_J_Sch%C3%A4fer%2C_1859b.jpg/1920px-Arthur_Schopenhauer_by_J_Sch%C3%A4fer%2C_1859b.jpg)
+![bg left:45% Photographie de Schopenhauer](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Arthur_Schopenhauer_by_J_Sch%C3%A4fer%2C_1859b.jpg/1920px-Arthur_Schopenhauer_by_J_Sch%C3%A4fer%2C_1859b.jpg)
 
 >« Tout vouloir naît du besoin, donc du manque, donc de la souffrance »
 >>**Schopenhauer**, _Le Monde comme volonté et comme représentation_, Livre III, §38
@@ -166,12 +177,16 @@ img {height:600px}
 </style>
 Le mythe d'Aristophane
 
-[![](images/mythe-Aristophane.png)](https://www.youtube.com/watch?v=fmDpwXCyFOI)
+[![Représentation du mythe d'Aristophane](images/mythe-Aristophane.png)](https://www.youtube.com/watch?v=fmDpwXCyFOI)
+
+---
+<!-- _class: etape -->
+### 2/ L'image du tonneau percé
 
 ---
 <!-- _class: citationC fpppppp-->
 
-![bg left:45%](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Arthur_Schopenhauer_by_J_Sch%C3%A4fer%2C_1859b.jpg/1920px-Arthur_Schopenhauer_by_J_Sch%C3%A4fer%2C_1859b.jpg)
+![bg left:45% Photographie de Schopenhauer](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Arthur_Schopenhauer_by_J_Sch%C3%A4fer%2C_1859b.jpg/1920px-Arthur_Schopenhauer_by_J_Sch%C3%A4fer%2C_1859b.jpg)
 
 >« [L]e sujet du vouloir […] remplit éternellement le tonneau des Danaïdes »
 >>**Schopenhauer**, _Le Monde comme volonté et comme représentation_, Livre III, §38
@@ -212,6 +227,9 @@ table td{width:455px; text-align:left!important}
 |Donc, quand on remplit le tonneau, il se vide rapidement|La satisfaction est donc temporaire : nous retombons vite dans l'insatisfaction|
 |Nous sommes ainsi condamnés à verser sans cesse, sans jamais arriver à un tonneau plein|Nous sommes condamnés à un cycle sans fin d'insatisfactions, qui ne permet pas de parvenir au bonheur (à une satisfaction globale et durable)|
 
+---
+<!-- _class: etape -->
+### 3/ Exemples
 
 ---
 <!-- _class: citationL fmmm -->
@@ -226,7 +244,7 @@ Votre souffrance dope le commerce. Dans notre jargon, on l’a baptisée « la�
 ---
 <!-- _class: i1t0 pp -->
 
-![](images/dior.jpg)
+![Image d'une publicité Dior](images/dior.jpg)
 
 ---
 <!-- _class: i1t1 pp fpppppp-->
@@ -235,7 +253,7 @@ img{margin-bottom:10px;}
 p{margin-bottom:5px!important; margin-left:30px; margin-right:30px!important;}
 </style>
 
-![](images/game-spectrum-fortnite.png)
+![Image représentant la chaîne Game Spectrum à propos de Fortnite](images/game-spectrum-fortnite.png)
 
 <div class="puces">
 
@@ -269,3 +287,58 @@ h2{margin-bottom:10px;}
 
 - Qu'est-ce que le « tragique » à votre avis ?
 - Qu'est-ce que cela veut dire quand on dit que « l'existence est tragique » ?
+
+---
+<!-- _class: etape -->
+### 1/ Première forme de tragique : le tragique de l'impuissance
+
+---
+<!-- _class: i1t1 horizontal pp -->
+<style scoped>
+p {width:600px!important;}
+ul{width:300px!important; margin-top:-50px!important;}
+</style>
+
+![Représentation de la roue de la fortune](images/roue-fortune.png)
+
+- Que représente cette image ?
+
+---
+<!-- _class: citationC -->
+
+![bg left:45% Buste de Solon](https://upload.wikimedia.org/wikipedia/commons/1/12/Ignoto%2C_c.d._solone%2C_replica_del_90_dc_ca_da_orig._greco_del_110_ac._ca%2C_6143.JPG)
+
+>« Nul ne peut être dit heureux avant sa mort »
+>>Adage grec attribué à **Solon**
+
+---
+<!-- _class: citationC -->
+
+![bg left:50% Représentation d'Héraclite](https://upload.wikimedia.org/wikipedia/commons/2/29/Sanzio_01_Heraclitus.jpg)
+
+>« Le temps est comme un enfant qui joue »
+>>**Héraclite**
+
+---
+<!-- _class: etape -->
+### 2/ Deuxième forme de tragique : le tragique de l'insignifiance
+
+---
+<!-- _class: citationC fppp -->
+
+![bg left:35%](https://upload.wikimedia.org/wikipedia/commons/c/c1/Blaise_Pascal_2.jpg)
+
+>« Rien n’est si insupportable à l’homme que d’être dans un plein repos […] Il sent alors son néant, son abandon, son insuffisance, sa dépendance, son impuissance, son vide. Incontinent il sortira du fond de son âme l’ennui, la noirceur, la tristesse, le chagrin, le dépit, le désespoir. »
+>>**Pascal**, _Pensées_, L.622 - B.131
+
+---
+<!-- _class: citationC fppp -->
+
+![bg left:35%](https://upload.wikimedia.org/wikipedia/commons/c/c1/Blaise_Pascal_2.jpg)
+
+>« [E]n regardant l’univers muet et l’homme sans lumière, abandonné à lui-même, et comme égaré dans ce recoin de l’univers, sans savoir qui l’y a mis, ce qu’il y est venu faire, ce qu’il deviendra en mourant, incapable de toute connaissance, j’entre en effroi comme un homme qu’on aurait porté endormi dans une île déserte et effroyable, et qui s’éveillerait sans connaître où il est, et sans moyen d’en sortir »
+>>**Pascal**, _Pensées_, L.198 - B.693
+
+---
+<!-- _class: etape -->
+### 3/ Un exemple : les vanités en peinture
