@@ -328,17 +328,21 @@ ul{width:300px!important; margin-top:-50px!important;}
 
 ![bg left:35%](https://upload.wikimedia.org/wikipedia/commons/c/c1/Blaise_Pascal_2.jpg)
 
->« Rien n’est si insupportable à l’homme que d’être dans un plein repos […] Il sent alors son néant, son abandon, son insuffisance, sa dépendance, son impuissance, son vide. Incontinent il sortira du fond de son âme l’ennui, la noirceur, la tristesse, le chagrin, le dépit, le désespoir. »
->>**Pascal**, _Pensées_, L.622 - B.131
-
----
-<!-- _class: citationC fppp -->
-
-![bg left:35%](https://upload.wikimedia.org/wikipedia/commons/c/c1/Blaise_Pascal_2.jpg)
-
 >« [E]n regardant l’univers muet et l’homme sans lumière, abandonné à lui-même, et comme égaré dans ce recoin de l’univers, sans savoir qui l’y a mis, ce qu’il y est venu faire, ce qu’il deviendra en mourant, incapable de toute connaissance, j’entre en effroi comme un homme qu’on aurait porté endormi dans une île déserte et effroyable, et qui s’éveillerait sans connaître où il est, et sans moyen d’en sortir »
 >>**Pascal**, _Pensées_, L.198 - B.693
 
 ---
 <!-- _class: etape -->
 ### 3/ Un exemple : les vanités en peinture
+
+
+
+
+
+---
+<!-- _class: citationC fppp -->
+
+![bg left:35%](https://upload.wikimedia.org/wikipedia/commons/c/c1/Blaise_Pascal_2.jpg)
+
+>« Rien n’est si insupportable à l’homme que d’être dans un plein repos […] Il sent alors son néant, son abandon, son insuffisance, sa dépendance, son impuissance, son vide. Incontinent il sortira du fond de son âme l’ennui, la noirceur, la tristesse, le chagrin, le dépit, le désespoir. »
+>>**Pascal**, _Pensées_, L.622 - B.131
