@@ -152,7 +152,7 @@ Pour structurer un paragraphe, on peut utiliser le modèle **ARES** :
 
 
 ---
-<!-- _class: i1t1 pm-->
+<!-- _class: pm-->
 
 #### Modèle pour une fin de sous-partie
 
@@ -406,6 +406,11 @@ James Hopkins, _Wasted Youth_
 > « Sans examiner toutes les occupations particulières, il suffit de les comprendre sous le divertissement. »
 >>**Pascal**, _Pensées_, L.478, B.137
 
+---
+<!-- _class: i1t0 pp -->
+
+![Schéma sur le divertissement selon Pascal](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/divertissement-Pascal.svg)
+
 
 ---
 <!-- _class: citationC  -->
@@ -414,3 +419,38 @@ James Hopkins, _Wasted Youth_
 
 >« ceux qui font sur cela les philosophes et qui croient que le monde est bien peu raisonnable de passer tout le jour à courir après un lièvre qu’ils ne voudraient pas avoir acheté, ne connaissent guère notre nature. »
 >>**Pascal**, _Pensées_, L.136 - B.139
+---
+<!-- _class: exercice application -->
+<style scoped>
+ul ul {font-size:100%}
+span {font-size:90%}
+</style>
+
+### Exercice d'argumentation et de mobilisation de sa culture
+
+- Rédiger un paragraphe <span>(150 mots minimum)</span>, qui répond à l'un de ces sujets, avec un argument qui mobilise le cours sur Pascal :
+  - Le progrès technique rend-il heureux ?
+  - Le bonheur n'est-il qu'une illusion ?
+  - Le désir est-il la marque de notre imperfection ?
+  - Peut-on lutter contre le temps ?
+  - L'oubli est-il une faiblesse ?
+
+---
+<!-- _class: fpppppp pm -->
+
+#### Modèle pour une fin de partie
+
+Le bonheur semble être une quête impossible en raison de la nature indéterminée du bonheur, du caractère insatiable du désir, et du tragique de l'existence. Mais, ne peut-on pas malgré tout trouver un certain art d’être heureux ? Ne pouvons-nous pas maîtriser nos désirs et affronter le tragique de l'existence ?
+
+---
+<!-- _class: pointmethode fppppppp-->
+<style scoped>
+ol {padding-top:10px!important;}
+</style>
+
+### Point méthode
+
+En fin de partie, on fait :
+1. Un bilan récapitulatif de ses arguments
+2. Une transition, sous la forme d'une question : on montre que ce n'est pas si simple
+
