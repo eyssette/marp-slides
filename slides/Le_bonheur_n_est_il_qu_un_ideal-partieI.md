@@ -129,7 +129,7 @@ span {font-size:90%}
 
 ### Exercice d'argumentation et de mobilisation de sa culture
 
-- Rédiger un paragraphe <span>(150 mots minimum)</span>, qui répond à l'un de ces sujets, avec un argument qui mobilise le cours sur Kant :
+- Rédiger un paragraphe <span>(150 mots minimum)</span>, qui répond à l'un de ces sujets, avec un argument qui mobilise le cours sur Kant, en utilisant le modèle _ARES_ :
   - Le bonheur est-il une affaire privée ?
   - Suffit-il de réaliser ses désirs pour être heureux ?
   - Ai-je le devoir de faire le bonheur des autres ?
@@ -337,27 +337,80 @@ ul{width:300px!important; margin-top:-50px!important;}
 ---
 <!-- _class: citationC fppp -->
 
-![bg left:35%](https://upload.wikimedia.org/wikipedia/commons/c/c1/Blaise_Pascal_2.jpg)
+![bg left:35% Portrait de Blaise Pascal](https://upload.wikimedia.org/wikipedia/commons/c/c1/Blaise_Pascal_2.jpg)
 
 >« [E]n regardant l’univers muet et l’homme sans lumière, abandonné à lui-même, et comme égaré dans ce recoin de l’univers, sans savoir qui l’y a mis, ce qu’il y est venu faire, ce qu’il deviendra en mourant, incapable de toute connaissance, j’entre en effroi comme un homme qu’on aurait porté endormi dans une île déserte et effroyable, et qui s’éveillerait sans connaître où il est, et sans moyen d’en sortir »
 >>**Pascal**, _Pensées_, L.198 - B.693
 
----
-<!-- _class: etape -->
-### 3/ Un exemple : les vanités en peinture
-
 
 ---
-<!-- _class: i1t0 -->
+<!-- _class: pp i1t1 vertical fpppp -->
 
+![Tableau de Philippe de Champaigne, Vanité avec un crâne humain, une fleur, un sablier](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/StillLifeWithASkull.jpg/2880px-StillLifeWithASkull.jpg)
 
+Philippe de Champaigne, _Vanité_ (1644)
 
+---
+<!-- _class: pp i1t1 vertical fpppp -->
 
+![Tableau de Pieter Claesz, Vanité au tireur d'épine : vanité du savoir (les livres), du pouvoir (l'armure), des plaisirs (le vin, la musique, l'art)](https://upload.wikimedia.org/wikipedia/commons/f/f7/Pieter_Claeszoon_-_Vanitas.JPG)
+
+Pieter Claesz, _Vanité au tireur d'épine_ (1628)
+
+---
+<!-- _class: i1t1 vertical fmm -->
+<style scoped>
+span{font-size:80%; margin-top:-5px!important; display:block;}
+</style>
+
+![Œuvre de Nicolas Rubinstein représentant Mickey en tête de mort](https://jetudielacom.com/wp-content/uploads/rubinstein_mickey_crane2006-copie.jpg)
+
+Nicolas Rubinstein, _Sans titre_ <br><span>(série : _Mickey is also a rat_)</span>
+
+---
+<!-- _class: i1t1 horizontal pp -->
+
+![œuvre de Damien Hirst : For the Love of God, un crâne humain recouvert de diamant](https://jetudielacom.com/wp-content/uploads/hirst_crane_diamant2007-copie.jpg)
+
+Damien Hirst, <br>_For the Love<br> of God_
+
+---
+<!-- _class: i1t1 horizontal pp -->
+
+![Œuvre de James Hopkins : des étagères avec des objets autour de la fête (lumières, sono, guitare, bières, boule de lumière) qui forment la figure d'un crâne](https://l.20-bal.com/pars_docs/refs/9/8336/8336_html_701503bb.jpg)
+
+James Hopkins, _Wasted Youth_
 
 ---
 <!-- _class: citationC fppp -->
 
-![bg left:35%](https://upload.wikimedia.org/wikipedia/commons/c/c1/Blaise_Pascal_2.jpg)
+![bg left:35% Portrait de Blaise Pascal](https://upload.wikimedia.org/wikipedia/commons/c/c1/Blaise_Pascal_2.jpg)
 
 >« Rien n’est si insupportable à l’homme que d’être dans un plein repos […] Il sent alors son néant, son abandon, son insuffisance, sa dépendance, son impuissance, son vide. Incontinent il sortira du fond de son âme l’ennui, la noirceur, la tristesse, le chagrin, le dépit, le désespoir. »
 >>**Pascal**, _Pensées_, L.622 - B.131
+
+---
+<!-- _class: etape -->
+### 3/ Que pouvons-nous faire face au tragique de l'existence ?
+
+
+
+---
+<!-- _class: citationC fpppp  -->
+
+![bg left:35% Portrait de Blaise Pascal](https://upload.wikimedia.org/wikipedia/commons/c/c1/Blaise_Pascal_2.jpg)
+
+>« Les hommes n’ayant pu guérir la mort, la misère, l’ignorance, ils se sont avisés, pour se rendre heureux, de n’y point penser. »
+>>**Pascal**, _Pensées_, L.133 - B.158
+
+> « Sans examiner toutes les occupations particulières, il suffit de les comprendre sous le divertissement. »
+>>**Pascal**, _Pensées_, L.478, B.137
+
+
+---
+<!-- _class: citationC  -->
+
+![bg left:35% Portrait de Blaise Pascal](https://upload.wikimedia.org/wikipedia/commons/c/c1/Blaise_Pascal_2.jpg)
+
+>« ceux qui font sur cela les philosophes et qui croient que le monde est bien peu raisonnable de passer tout le jour à courir après un lièvre qu’ils ne voudraient pas avoir acheté, ne connaissent guère notre nature. »
+>>**Pascal**, _Pensées_, L.136 - B.139

@@ -411,8 +411,8 @@ p{text-align:center;}
 ### Point méthode
 
 **Trois principes pour le plan**
-1) Chaque partie est l'examen d'une réponse à la question posée.
-2) Chaque sous-partie est un argument.
+1) On fait 2 ou 3 parties : chaque partie est l'examen d'une réponse à la question posée.
+2) On fait 2, 3 ou éventuellement 4 sous-parties : chaque sous-partie est un argument.
 3) Il doit y avoir une progression logique :
     - de la première à la dernière partie ;
     - à l'intérieur de chaque partie.
