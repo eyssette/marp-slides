@@ -417,7 +417,7 @@ James Hopkins, _Wasted Youth_
 
 ![bg left:35% Portrait de Blaise Pascal](https://upload.wikimedia.org/wikipedia/commons/c/c1/Blaise_Pascal_2.jpg)
 
->« ceux qui font sur cela les philosophes et qui croient que le monde est bien peu raisonnable de passer tout le jour à courir après un lièvre qu’ils ne voudraient pas avoir acheté, ne connaissent guère notre nature. »
+>« [C]eux qui font sur cela les philosophes et qui croient que le monde est bien peu raisonnable de passer tout le jour à courir après un lièvre qu’ils ne voudraient pas avoir acheté, ne connaissent guère notre nature. »
 >>**Pascal**, _Pensées_, L.136 - B.139
 ---
 <!-- _class: exercice application -->
