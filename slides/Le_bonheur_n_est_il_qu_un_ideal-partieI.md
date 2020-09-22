@@ -15,7 +15,7 @@ Première partie
 ---
 <!-- _class: pointmethode fpppppp -->
 ### Point méthode
-Pour qu'il y ait une progression logique dans son plan, on peut partir, en première partie, de l'idée qui nous semble la moins convaincante (la thèse adverse), pour aller ensuite vers des idées qui nous semblent plus pertinentes.
+Pour qu'il y ait une progression logique dans son plan, on peut partir de l'idée qui nous semble la moins convaincante, pour aller vers des idées qui nous semblent plus pertinentes.
 
 ---
 <!-- _class: souspartie -->
@@ -24,6 +24,7 @@ Pour qu'il y ait une progression logique dans son plan, on peut partir, en premi
 ---
 <!-- _class: etape -->
 ### 1/ Référence : Kant
+- Quelle est l'idée de Kant dans le texte que vous avez étudié ?
 
 ---
 <!-- _class: citationC -->
@@ -110,6 +111,16 @@ ul {margin-top:5px!important; padding:20px!important;}
 - Une **conception normative du bonheur** est une conception du bonheur qui prétend qu'il y a une règle déterminée qu'il est nécessaire de suivre afin de parvenir au bonheur.
 
 ---
+<!-- _class: entete approfondissement fpp-->
+
+### Approfondissement
+
+1. Lire cet [article sur l'injonction au bonheur](https://www.lemonde.fr/m-perso/article/2016/05/27/le-retour-de-la-mere-parfaite_4927830_4497916.html) que véhiculent les “mères parfaites” sur Instagram
+2. Regarder la vidéo de la chaîne _Méta_ sur [la dictature du bonheur](https://www.youtube.com/watch?v=oqq96UQAaXo)
+3. Consulter ce lien sur [le bonheur comme norme sociale et économique](https://docs.google.com/document/d/1Bo9T9oGNag4bkaGGVzyd5i-DDI19vf0smo-qq60H0_M/edit?usp=sharing)
+3. Lire le livre [Happycratie d'Eva Illouz](https://laviedesidees.fr/Bonheur-obligatoire.html), ou bien seulement des extraits sélectionnés (me les demander)
+
+---
 <!-- _class: exercice application pm -->
 <style scoped>
 ul ul {font-size:100%}
@@ -128,15 +139,15 @@ span {font-size:90%}
 <!-- _class: pointmethode fpppp -->
 <style scoped>
   h3{margin-bottom:60px!important}
-img {height:300px; float:left; margin-right:100px; margin-left:80px; margin-top:20px}
+img {height:300px; float:left; margin-right:80px; margin-left:35px; margin-top:20px}
 </style>
 ### Point méthode
 
 Pour structurer un paragraphe, on peut utiliser le modèle **ARES** :
 ![Dessin qui représente le dieu de la guerre Arès](images/ares-greek-god.jpg)
 –  A : Argument
-–  R : Référence
-–  E : Exemple
+–  R : Référence théorique
+–  E : Exemple concret
 –  S : Synthèse
 
 
@@ -334,6 +345,10 @@ ul{width:300px!important; margin-top:-50px!important;}
 ---
 <!-- _class: etape -->
 ### 3/ Un exemple : les vanités en peinture
+
+
+---
+<!-- _class: i1t0 -->
 
 
 
