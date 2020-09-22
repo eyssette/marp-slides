@@ -368,7 +368,8 @@ Pour chaque idée, même si on n'est pas d'accord avec cette idée, il faut :
 
 Dossier de textes sur la question : « Le bonheur n'est-il qu'un idéal ? »
 
-- Lire les textes ([lien vers le dossier](https://docs.google.com/document/d/1AOfjfy8-FKafXS_nNqscgNRvQkOb0iJSZdO2bjCU8RE/edit?usp=sharing)) et répondre aux questions sur une feuille double à part
+- Lire une première fois tous les textes ([lien vers le dossier](https://docs.google.com/document/d/1AOfjfy8-FKafXS_nNqscgNRvQkOb0iJSZdO2bjCU8RE/edit?usp=sharing)) en **lecture rapide**
+- Répondre par écrit aux questions 1, 2 et 3
 
 ---
 <!-- _class: souspartie -->
