@@ -19,9 +19,12 @@ http://eyssette.net
 ### Point méthode
 En dissertation, le premier travail à faire au brouillon, c'est clarifier le sens des termes du sujet (= conceptualiser).
 
+
+
 ---
 <!-- _class: souspartie -->
 ## A. Première étape du brouillon : analyser le sujet
+
 
 ---
 <!-- _class: etape -->
@@ -29,7 +32,46 @@ En dissertation, le premier travail à faire au brouillon, c'est clarifier le se
 h3{font-size:140%;}
 span{color:blue;}
 </style>
-### 1) Analyse du sujet : <br/> « une illusion »
+### 1) Analyse du sujet : <br/> « Le choix libre »
+« Qu'est-ce que cela veut dire ? »
+
+_Démarche :_ <span>&#9679;</span> Conceptualiser
+
+---
+<!-- _class: pm fp -->
+
+- Quels sont les synonymes du mot “choix” et les synonymes du mot “libre” ?
+- Si un choix est libre, cela veut dire que ce choix est ………
+- Quel est le sens de ces expressions ? 
+  - “c'est mon choix !”
+  - “je n'ai pas le choix”
+  - "c'est un choix difficile"
+  - “libre comme l'air”
+  - "une chute libre”
+  - "un magasin en libre-service"
+
+---
+<!-- _class: pointmethode fpp -->
+<style scoped>
+table td, table th, table  {background-color:#E9EFE1;}
+table{margin-left:38px; width:887px; padding-bottom:60px;}
+table td:nth-of-type(1){width:290px!important;}
+</style>
+### Point Méthode
+
+Une première stratégie pour analyser une notion :
+
+|Raccourci|Sens|
+|:-:|:-:|
+|$x \rightarrow a, b, c …$|Trouver les termes proches, les implications logiques, les expressions associées|
+
+---
+<!-- _class: etape -->
+<style scoped>
+h3{font-size:140%;}
+span{color:blue;}
+</style>
+### 2) Analyse du sujet : <br/> « une illusion »
 « Qu'est-ce que cela veut dire ? »
 
 _Démarche :_ <span>&#9679;</span> Conceptualiser
@@ -92,63 +134,23 @@ D'autres illusions : [documents sur les illusions](https://docs.google.com/docum
 |_2_ Il est possible de la rectifier|_8_ Elle tend à persister : la prise de conscience ne suffit pas à la rectifier|
 
 ---
-<!-- _class: pointmethode -->
-### Point méthode
-<style scoped>
-ul{padding-top:10px;}
-</style>
-Deux stratégies pour analyser une notion : 
-- trouver un exemple concret, une situation concrète
-- trouver ce que la notion n'est pas
-
----
-<!-- _class: pointmethode  -->
-<style scoped>
-table td, table th, table  {background-color:#E9EFE1;}
-table{margin-left:38px; width:887px; padding-bottom:60px;}
-</style>
-
-|Formalisation|Sens|
-|:-:|:-:|
-|$EC(x)$|Exemple concret de la notion $x$|
-|$x ≠ y$|Trouver l'opposé ou des distinctions|
-
-
----
-<!-- _class: etape -->
-<style scoped>
-h3{font-size:140%;}
-span{color:blue;}
-</style>
-### 2) Analyse du sujet : <br/> « Le choix libre »
-« Qu'est-ce que cela veut dire ? »
-
-_Démarche :_ <span>&#9679;</span> Conceptualiser
-
----
-<!-- _class: pm fppp -->
-
-- Quels sont les synonymes de l'expression “choix libre” ?
-- Si un choix est libre, cela veut dire que ce choix est ………
-- Que signifie le terme libre” dans les expressions suivantes : 
-  - “libre comme l'air”, “un espace libre”
-  - “j'ai besoin de liberté”
-  - …
-
----
 <!-- _class: pointmethode fpp -->
 <style scoped>
 table td, table th, table  {background-color:#E9EFE1;}
-table{margin-left:38px; width:887px; padding-bottom:60px;}
-table td:nth-of-type(1){width:290px!important;}
+table{margin-left:38px; width:887px; padding-bottom:40px; margin-top:-10px;}
+h3{margin-bottom:50px!important;}
 </style>
-### Point Méthode
 
-Une troisième stratégie pour analyser une notion :
+### Point méthode
 
-|Formalisation|Sens|
+Deux autres stratégies pour analyser une notion : 
+
+|Raccourci|Sens|
 |:-:|:-:|
-|$x \rightarrow a, b, c …$|Trouver les termes proches, les implications logiques, les expressions associées|
+|$EC(x)$|Trouver un exemple concret, une situation concrète à propos de la notion $x$|
+|$x ≠ y$|Trouver l'opposé ou des distinctions|
+
+
 
 ---
 <!-- _class: pointmethode fmm -->
@@ -165,9 +167,9 @@ Trois stratégies pour analyser une notion $x$ :
 
 |Formalisation|Sens|
 |:-:|:-:|
+|$x \rightarrow a, b, c …$|Trouver les termes proches, les implications logiques, les expressions associées|
 |$EC(x)$|Exemple concret de la notion $x$|
 |$x ≠ y$|Trouver l'opposé ou des distinctions|
-|$x \rightarrow a, b, c …$|Trouver les termes proches, les implications logiques, les expressions associées|
 
 ---
 <!-- _class: souspartie -->
@@ -176,20 +178,20 @@ Trois stratégies pour analyser une notion $x$ :
 ---
 <!-- _class: etape -->
 ### 1) Reformuler le sujet <br>en remplaçant chaque <br>terme par sa définition
-- Reformulez le sujet « Le bonheur n'est-il qu'un idéal ? » à l'aide du travail d'analyse que l'on vient de faire.
+- Reformulez le sujet « Le choix libre est-il une illusion ? » à l'aide du travail d'analyse que l'on vient de faire.
 
 ---
-<!-- _class:  -->
+<!-- _class: fppppppp -->
 <style scoped>
 p:nth-of-type(1):first-line{line-height:1.8em;}
 p:nth-of-type(2):first-line{line-height:2.3em;}
 </style>
 
 **Sujet initial :**
-« Le bonheur n'est-il qu'un idéal ? »
+« Le choix libre est-il une illusion  ? »
 
 **Sujet reformulé :**
-« L'objectif de parvenir à un état de satisfaction global et durable est-il une simple visée, inaccessible, de notre imagination ? Le désir d'être heureux est-il irréalisable et voué à l'échec ? »
+« La capacité de décider de manière autonome, de sélectionner sans contraintes parmi plusieurs possibilités celle que nous préférons est-elle une illusion ? S’agit-il simplement d’une croyance sans fondement véritable ? »
 
 ---
 <!-- _class: etape fpppppp -->
@@ -202,7 +204,7 @@ span{color:red}
 _Démarche :_ <span>&#9679;</span> Problématiser
 
 ---
-<!-- _class: fppp pm-->
+<!-- _class: fp pm-->
 <style scoped>
 p:nth-of-type(1):first-line{line-height:1.8em;}
 p:nth-of-type(2):first-line{line-height:2.3em;}
@@ -210,10 +212,10 @@ span{color:#9e0a0a;}
 </style>
 
 **Sujet initial :**
-« Le bonheur n'est-il qu'un idéal ? »
+« Le choix libre est-il une illusion ? »
 
 **Sujet reformulé avec le “ou bien”:**
-« L'objectif de parvenir à un état de satisfaction global et durable est-il une simple visée, inaccessible, de notre imagination ? Le désir d'être heureux est-il irréalisable et voué à l'échec ? <span>Ou bien</span> est&#x2011;il possible de concevoir une méthode qui nous permettrait de faire du bonheur une réalité ? Y a-t-il un art d'être heureux ? »
+« La capacité de décider de manière autonome, de sélectionner sans contraintes parmi plusieurs possibilités celle que nous préférons est-elle une illusion ? S’agit-il simplement d’une croyance sans fondement véritable ? <span>Ou bien</span> pouvons-nous affirmer que notre liberté de choisir est bien réelle et que nous ne sommes pas trompés par notre sentiment et notre désir de nous croire libres ? »
 
 
 ---
@@ -236,14 +238,15 @@ p {font-size:95%; margin-top:20px;}
 
 ### Exercice de problématisation d'un sujet de dissertation
 
-- Problématisez le sujet suivant : « Le bonheur est-il une affaire privée ? »
+- Problématisez le sujet suivant : « L'amour est-il une illusion ? »
 
-Commencez par analyser l'expression « C'est une affaire privée » : qu'est-ce que cela veut dire ? Pensez à :
+Pensez à utiliser les stratégies pour analyser ce qu'est l'amour :
 <div class="puces">
 
-- $EC(x)$ : exemple concret de situation où l'on peut dire « c'est une affaire privée »
-- $x≠y$ : l'opposé d'une affaire privée
-- $x \rightarrow a, b, c …$ : les synonymes, les implications logiques
+- $x \rightarrow a, b, c …$ : les synonymes, les implications logiques de l'amour
+- $EC(x)$ : exemple concret de situation où l'on peut dire « c'est de l'amour »
+- $x≠y$ : l'amour se distingue de quoi ?
+
 </div>
 
 
@@ -310,7 +313,7 @@ p, h4, ul {font-size:50px;}
 ul {font-size:48px; padding-left:50px; padding-right:60px; margin-top:50px;}
 </style>
 #### Retour au sujet
-« Le bonheur n'est-il qu'un idéal ? » 
+« Le choix libre est-il une illusion ? » 
 
 - Qu'en pensez-vous ?
 - Quelles sont les différentes réponses que l'on pourrait envisager ?
