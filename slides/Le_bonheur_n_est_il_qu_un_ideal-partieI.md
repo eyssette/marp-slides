@@ -454,3 +454,22 @@ En fin de partie, on fait :
 1. Un bilan récapitulatif de ses arguments
 2. Une transition, sous la forme d'une question : on montre que ce n'est pas si simple
 
+
+---
+<!-- _class: souspartie -->
+## Récapitulatif général
+
+---
+<!-- _class:  -->
+
+TODO : exercices LearningApps sur cette partie
+
+---
+<!-- _class: entete lecture  -->
+
+### Travail sur le dossier de textes
+
+Suite du travail sur le dossier de textes, afin de préparer la deuxième partie du cours.
+
+- Relire les textes 4 et 5 ([lien vers le dossier](https://docs.google.com/document/d/1AOfjfy8-FKafXS_nNqscgNRvQkOb0iJSZdO2bjCU8RE/edit?usp=sharing))
+- Répondre par écrit aux questions 4 et 5
