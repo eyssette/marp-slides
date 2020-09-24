@@ -51,7 +51,7 @@ _Démarche :_ <span>&#9679;</span> Conceptualiser
   - "un magasin en libre-service"
 
 ---
-<!-- _class: pointmethode fpp -->
+<!-- _class: pointmethode fp -->
 <style scoped>
 table td, table th, table  {background-color:#E9EFE1;}
 table{margin-left:38px; width:887px; padding-bottom:60px;}
@@ -59,7 +59,7 @@ table td:nth-of-type(1){width:290px!important;}
 </style>
 ### Point Méthode
 
-Une première stratégie pour analyser une notion :
+Une première stratégie pour analyser une notion $x$ :
 
 |Raccourci|Sens|
 |:-:|:-:|
@@ -101,7 +101,7 @@ span{display:block; margin-top:-60px; margin-left:50px;}
 
 ### Approfondissement
 
-D'autres illusions : [documents sur les illusions](https://docs.google.com/document/d/1k0PyEjEYlJVcNk23j-RAzZANood-5VWihYIhd9ERlJ8/edit)
+D'autres illusions : [document sur les illusions](https://docs.google.com/document/d/1k0PyEjEYlJVcNk23j-RAzZANood-5VWihYIhd9ERlJ8/edit)
 
 
 ---
@@ -384,9 +384,9 @@ Pour chaque idée, même si on n'est pas d'accord avec cette idée, il faut :
 
 ### Travail sur un dossier de textes
 
-Dossier de textes sur la question : « Le bonheur n'est-il qu'un idéal ? »
+Dossier de textes sur la question : « Le choix libre est-il une illusion ? »
 
-- Lire les textes ([lien vers le dossier](https://docs.google.com/document/d/1AOfjfy8-FKafXS_nNqscgNRvQkOb0iJSZdO2bjCU8RE/edit?usp=sharing)) et répondre aux questions sur une feuille double à part
+- Lire les textes ([lien vers le dossier]()) et répondre aux questions sur une feuille double à part
 
 ---
 <!-- _class: souspartie -->
@@ -400,19 +400,17 @@ h3{text-align:center; margin-bottom:30px; font-size:135%;}
 
 ### Exemple de plan
 
-**I - Le bonheur semble être une quête impossible**
+**I -** 
 
-A. On ne sait pas vraiment ce qu'on recherche
-B. Le désir est insatiable
-C. Le tragique de l'existence nous condamne au malheur
+A. 
+B. 
+C. 
 
-**II – Ne peut-on pas cependant parvenir à une certaine sagesse et faire du bonheur une réalité ?**
+**II – 
 
-A. Il n'y a peut-être pas de science du bonheur, mais un art d'être heureux est possible
-B. Nous pouvons maîtriser nos désirs
-C. Nous pouvons affronter le tragique de l'existence
-
-_…… (Troisième partie : à  suivre)_
+A. 
+B. 
+C. 
 
 ---
 <!-- _class: fp pointmethode -->
