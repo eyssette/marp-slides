@@ -255,56 +255,6 @@ Pensez à utiliser les stratégies pour analyser ce qu'est l'amour :
 ## C. Troisième étape du brouillon : trouver des idées
 
 ---
-<!-- _class: pointmethode -->
-<style scoped>
-ul {padding-top:20px;}
-</style>
-### Point méthode
-
-Pour trouver des idées, il faut :
-- explorer la diversité des réponses possibles ;
-- justifier au maximum ces différentes réponses.
-
----
-<!-- _class: etape fpppppppp -->
-<style scoped>
-h3{font-size:120%;}
-
-p:nth-of-type(1) span{color:red;}
-p:nth-of-type(2) span{color:#F8D748;}
-p:nth-of-type(3) span {color:blue;}
-p{margin-bottom:10x;}
-p:nth-of-type(2)::before, p:nth-of-type(3)::before{content:"+   "; font-weight:bold;}
-</style>
-### 1) Explorer la diversité des réponses possibles
-« Est-ce si simple ? »
-_Démarche :_ <span>&#9679;</span> Problématiser
-
-Références théoriques
-_Démarche :_ <span>&#9679;</span> Mobiliser sa culture
-
-« Qu'est-ce que cela veut dire ? »
-_Démarche :_ <span>&#9679;</span> Conceptualiser
-
----
-<!-- _class: pointmethode fp -->
-<style scoped>
-h3{margin-bottom:60px;}
-p{padding-top:25px;}
-ul {padding-top:0; padding-bottom:25px;}
-ul li {font-size:95%;  margin-top:2px; }
-span{color:red;}
-</style>
-
-### Point méthode 
-
-**[<span>&#9679;</span> Problématiser]** Il ne faut pas se limiter à une seule perspective (ce n’est pas si simple). Il faut explorer le plus large éventail possible de réponses.
-- Du oui au non.
-- Des plus évidentes au moins intuitives.
-- Des plus ordinaires aux plus radicales.
-- Des plus proches de ce qu’on pense soi&#x2011;même aux plus éloignées.
-
----
 <!-- _class:  -->
 <style scoped>
 h4{margin-top:-40px!important;}
@@ -319,36 +269,47 @@ ul {font-size:48px; padding-left:50px; padding-right:60px; margin-top:50px;}
 - Quelles sont les différentes réponses que l'on pourrait envisager ?
 
 ---
-<!-- _class: pointmethode f -->
+<!-- _class:  -->
+
+Quelques situations concrètes :
+
+– une situation ordinaire : choisir à manger
+– un film : [_Minority Report_](https://www.dailymotion.com/video/x26hp08)
+– un jeu vidéo : [_The Stanley Parable_](https://www.youtube.com/watch?v=-JY-qtST5PY&t=963s) 
+
+
+---
+<!-- _class: pointmethode fppp-->
 <style scoped>
-table td, table th, table  {background-color:#E9EFE1;}
-table{margin-left:38px; width:887px; padding-bottom:60px;}
-table td:nth-of-type(1){width:290px!important;}
-p span{color:#F8D748;}
+ul {padding-top:20px;}
 </style>
-### Point Méthode
+### Point méthode
 
-**[<span>&#9679;</span> Mobiliser sa culture]** Afin d'ouvrir les perspectives sur la question posée, il faut chercher des références théoriques à propos des notions du sujet
+Pour trouver des idées, il faut :
+- explorer la diversité des réponses possibles ;
+- justifier au maximum ces différentes réponses (trouver des arguments, des objections, des réponses aux objections …) ;
+- réfléchir à partir de situations concrètes.
 
-|Formalisation|Sens|
-|:-:|:-:|
-|$RT(x)$|Références théoriques à propos de la notion $x$ |
+
 
 ---
 <!-- _class: pointmethode f -->
 <style scoped>
 table td, table th, table  {background-color:#E9EFE1;}
-table{margin-left:38px; width:887px; padding-bottom:60px;}
+table{margin-left:38px; width:887px; padding-bottom:30px;}
 table td:nth-of-type(1){width:290px!important;}
-p span{color:blue;}
+p span{color:#F8D748;}
+h3{margin-bottom:60px!important;}
 </style>
 ### Point Méthode
 
-**[<span>&#9679;</span> Conceptualiser]** Afin d'ouvrir les perspectives sur la question posée, il faut chercher les différents sens possibles, les différentes conceptions possibles des notions du sujet
+Afin d'ouvrir les perspectives sur la question posée, deux stratégies supplémentaires :
 
 |Formalisation|Sens|
 |:-:|:-:|
+|$RT(x)$|Références théoriques à propos de la notion $x$ |
 |$x_{1} , x_{2} …$|Trouver différents sens de la notion $x$ |
+
 
 ---
 <!-- _class: i1t1 pp vertical -->
@@ -357,27 +318,7 @@ p span{color:blue;}
 
 ![](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/strategies-analyse-notion2.svg)
 
----
-<!-- _class: etape -->
-<style scoped>
-h3{font-size:120%;}
-p{font-size:90%;}
-span{color:green;}
-</style>
-### 2) Justifier au maximum ces différentes réponses
-« Comment peut-on défendre cette idée ? »
 
-_Démarche :_ <span>&#9679;</span> Argumenter
-
----
-<!-- _class: pointmethode fpppp -->
-<style scoped>
-ul { padding-top:20px;}
-</style>
-### Point méthode
-Pour chaque idée, même si on n'est pas d'accord avec cette idée, il faut :
-- trouver des arguments
-- trouver des objections contre cette idée, et voir comment on pourrait répondre à ces critiques
 
 ---
 <!-- _class: entete lecture  -->
