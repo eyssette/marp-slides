@@ -323,8 +323,12 @@ ul li{text-align:justify!important; margin-left:30px!important; margin-right:30p
 ---
 <!-- _class: souspartie -->
 <style scoped>
-h2{font-size:160%; padding:35px}
-p{text-align:justify; margin-left:60px; margin-right:60px; font-size:70%;}
+h2{font-size:150%; padding:25px}
+p{text-align:justify; margin-left:60px; margin-right:60px; font-size:65%;}
+ul{font-size:65%;}
 </style>
 ## Fin de partie
 Si nous ne faisons pas résider le bonheur dans des biens extérieurs à acquérir, mais plutôt dans un changement intérieur d'attitude, alors le bonheur semble possible et il n'est pas qu'un idéal. Mais le simple plaisir d'exister et l'acceptation de ce qui ne dépend pas de nous sont-ils vraiment suffisants ? Ne faut-il pas chercher ailleurs les conditions d'un réel bonheur ?
+
+- Quelles sont les trois grandes manières de progresser d'une partie à une autre ?
+- Quel est le type de transition utilisé ici ?
