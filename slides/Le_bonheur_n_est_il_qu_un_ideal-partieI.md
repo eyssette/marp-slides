@@ -274,7 +274,7 @@ p{margin-bottom:5px!important; margin-left:30px; margin-right:30px!important;}
 </div>
 
 ---
-<!-- _class: exercice application -->
+<!-- _class: exercice application fm -->
 <style scoped>
 ul ul {font-size:100%}
 span {font-size:90%}
@@ -282,7 +282,7 @@ span {font-size:90%}
 
 ### Exercice d'argumentation et de mobilisation de sa culture
 
-- Rédiger un paragraphe <span>(150 mots minimum)</span>, qui répond à l'un de ces sujets, avec un argument qui mobilise le cours sur Schopenhauer :
+- Rédiger un paragraphe <span>(150 mots minimum)</span>, qui répond à l'un de ces sujets, avec un argument qui mobilise le cours sur Schopenhauer, en utilisant le modèle _ARES_ :
   - Le progrès technique rend-il heureux ?
   - Peut-on désirer sans souffrir ?
   - Le bonheur n'est-il qu'une illusion ?
