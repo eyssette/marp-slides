@@ -195,7 +195,7 @@ Vous pouvez consulter ce [schéma pour comprendre ce que dit l'épicurisme à pr
 ### Récapitulatif
 
 ---
-<!-- _class: qcm fppppppp-->
+<!-- _class: qcm fpp-->
 
 D'après Épicure :
 
@@ -203,6 +203,8 @@ D'après Épicure :
 - La réflexion est-elle un obstacle au bonheur ?
 - Le bonheur dépend-il de nous ?
 - Le bonheur peut-il s’apprendre ?
+- Existe-t-il une nature humaine universelle ?
+- La nature peut-elle nous dire ce que nous devons faire ?
 
 ---
 <!-- _class: etape -->
@@ -291,7 +293,7 @@ ul li{text-align:justify!important; margin-left:30px!important; margin-right:30p
 
 ---
 <!-- _class: etape -->
-### 3/ Il faut être comme un roc face aux vagues
+### 3/ Il s'agit d'être comme un roc face aux vagues
 
 ---
 <!-- _class: cinema fmmmm-->
@@ -299,3 +301,30 @@ ul li{text-align:justify!important; margin-left:30px!important; margin-right:30p
 ![](https://fr.web.img3.acsta.net/medias/nmedia/18/72/82/16/19187639.jpg)
 
 >« _Invictus_ est un poème écrit par William Ernest Henley (1849-1903), qui témoigne de son long combat contre la douleur et la maladie. En raison d’une tuberculose osseuse déclarée à l’âge de 12 ans, Henley doit subir l’amputation de sa jambe gauche entre 1868 et 1869, puis luttera de nombreuses années pour sauver sa deuxième jambe. […] Après la fin de l’apartheid en Afrique du Sud, le poème devient indissociable de Nelson Mandela. On apprend en effet que _Invictus_ est son poème préféré, et qui l’a inspiré et soutenu et dans les moments les plus noirs de ses 27 années de captivité. » ([source](https://deniscougot.wordpress.com/le-poeme-invictus/)
+
+---
+<!-- _class: etape -->
+### Récapitulatif
+
+---
+<!-- _class: exercice argumentation -->
+
+1. Chercher à lutter contre le temps, ce serait  ………………
+2. …………………
+3. Il n'est pas raisonnable de chercher à lutter contre le temps
+
+---
+<!-- _class: exercice argumentation -->
+
+1. Réaliser tous ses désirs, ce serait agir selon ses impulsions et ses affects
+2. …………………
+3. La liberté ne consiste pas à réaliser tous ses désirs
+
+---
+<!-- _class: souspartie -->
+<style scoped>
+h2{font-size:160%; padding:35px}
+p{text-align:justify; margin-left:60px; margin-right:60px; font-size:70%;}
+</style>
+## Fin de partie
+Si nous ne faisons pas résider le bonheur dans des biens extérieurs à acquérir, mais plutôt dans un changement intérieur d'attitude, alors le bonheur semble possible et il n'est pas qu'un idéal. Mais le simple plaisir d'exister et l'acceptation de ce qui ne dépend pas de nous sont-ils vraiment suffisants ? Ne faut-il pas chercher ailleurs les conditions d'un réel bonheur ?
