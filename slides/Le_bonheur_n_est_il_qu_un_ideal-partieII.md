@@ -89,7 +89,7 @@ Attention ! Au sens commun, l'expression “être un épicurien” désigne le f
 
 ![bg left:42%](https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Epikouros_BM_1843.jpg/1920px-Epikouros_BM_1843.jpg)
 
->« Quand (…) nous disons que le plaisir est le but de la vie, nous ne parlons pas des plaisirs voluptueux et inquiets […] Le plaisir dont nous parlons est celui qui consiste, pour le corps, à ne pas souffrir et, pour l’âme, à être sans trouble. »
+>« Quand […] nous disons que le plaisir est le but de la vie, nous ne parlons pas des plaisirs voluptueux et inquiets […] Le plaisir dont nous parlons est celui qui consiste, pour le corps, à ne pas souffrir et, pour l’âme, à être sans trouble. »
 >>**Épicure**, _Lettre à Ménécée_
 
 ---
@@ -298,9 +298,9 @@ ul li{text-align:justify!important; margin-left:30px!important; margin-right:30p
 ---
 <!-- _class: cinema fmmmm-->
 
-![](https://fr.web.img3.acsta.net/medias/nmedia/18/72/82/16/19187639.jpg)
+[![](https://fr.web.img3.acsta.net/medias/nmedia/18/72/82/16/19187639.jpg)](https://drive.google.com/file/d/12mCc9CNQtZjqS9q86sBFT5gQlULTovaJ/view)
 
->« _Invictus_ est un poème écrit par William Ernest Henley (1849-1903), qui témoigne de son long combat contre la douleur et la maladie. En raison d’une tuberculose osseuse déclarée à l’âge de 12 ans, Henley doit subir l’amputation de sa jambe gauche entre 1868 et 1869, puis luttera de nombreuses années pour sauver sa deuxième jambe. […] Après la fin de l’apartheid en Afrique du Sud, le poème devient indissociable de Nelson Mandela. On apprend en effet que _Invictus_ est son poème préféré, et qui l’a inspiré et soutenu et dans les moments les plus noirs de ses 27 années de captivité. » ([source](https://deniscougot.wordpress.com/le-poeme-invictus/)
+>« _Invictus_ est un poème écrit par William Ernest Henley (1849-1903), qui témoigne de son long combat contre la douleur et la maladie. En raison d’une tuberculose osseuse déclarée à l’âge de 12 ans, Henley doit subir l’amputation de sa jambe gauche entre 1868 et 1869, puis luttera de nombreuses années pour sauver sa deuxième jambe. […] Après la fin de l’apartheid en Afrique du Sud, le poème devient indissociable de Nelson Mandela. On apprend en effet que _Invictus_ est son poème préféré, et qui l’a inspiré et soutenu dans les moments les plus noirs de ses 27 années de captivité. » ([source](https://deniscougot.wordpress.com/le-poeme-invictus/)
 
 ---
 <!-- _class: etape -->
