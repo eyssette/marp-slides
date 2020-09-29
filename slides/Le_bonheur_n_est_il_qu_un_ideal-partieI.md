@@ -260,6 +260,15 @@ Votre souffrance dope le commerce. Dans notre jargon, on l’a baptisée « la�
 ![Image d'une publicité Dior](images/dior.jpg)
 
 ---
+<!-- _class: entete approfondissement -->
+### Approfondissement
+
+1. Lire cette [analyse très précise de la publicité de Dior](https://eyssette.github.io/blog/assets/pdf/ancien_blog/1_ethique_et_philosophie_morale/2007_2008_analyse_dior.pdf)
+2. Faire l'analyse d'une image publicitaire
+3. Découvrir l'analyse que Baudrillard propose de la société de consommation sur le site Philitt : « [Baudrillard ou le triomphe du superflu](https://philitt.fr/2014/10/23/baudrillard-ou-le-triomphe-du-superflu/) »
+
+
+---
 <!-- _class: i1t1 pp fpppppp-->
 <style scoped>
 img{margin-bottom:10px;}
@@ -421,6 +430,16 @@ James Hopkins, _Wasted Youth_
 
 >« [C]eux qui font sur cela les philosophes et qui croient que le monde est bien peu raisonnable de passer tout le jour à courir après un lièvre qu’ils ne voudraient pas avoir acheté, ne connaissent guère notre nature. »
 >>**Pascal**, _Pensées_, L.136 - B.139
+
+---
+<!-- _class: entete approfondissement -->
+### Approfondissement
+
+1. Lire les passages des _Pensées_ de Pascal à propos du divertissement : [la liasse Divertissement](http://www.penseesdepascal.fr/Divertissement/Divertissement.php)
+2. Lire ce [cours de Simone Manon sur le divertissement](https://www.philolog.fr/le-divertissement-pascal/)
+3. Lire cet article de Dominique Weber, « [La fuite de soi, le masque du divertissement. Leçons pascaliennes](https://www.cairn-int.info/revue-etudes-2001-12-page-631.htm) »
+
+
 ---
 <!-- _class: exercice application -->
 <style scoped>
@@ -430,7 +449,7 @@ span {font-size:90%}
 
 ### Exercice d'argumentation et de mobilisation de sa culture
 
-- Rédiger un paragraphe <span>(150 mots minimum)</span>, qui répond à l'un de ces sujets, avec un argument qui mobilise le cours sur Pascal :
+- Rédiger un paragraphe <span>(150 mots minimum)</span>, qui répond à l'un de ces sujets, avec un argument qui mobilise le cours sur Pascal, en utilisant le modèle _ARES_ :
   - Le progrès technique rend-il heureux ?
   - Le bonheur n'est-il qu'une illusion ?
   - Le désir est-il la marque de notre imperfection ?
