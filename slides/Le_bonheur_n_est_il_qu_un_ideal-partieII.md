@@ -21,17 +21,17 @@ Pour chaque partie, on vérifie :
 2. qu'on a bien un progrès par rapport à ce qu'on a déjà fait
 
 ---
-<!-- _class: pointmethode fmm -->
+<!-- _class: pointmethode fmmm -->
 <style scoped>
 h3{margin-bottom:50px;}
-ol {margin-top:-40px!important; padding-top:30px; padding-bottom:25px}
-p{padding-top:25px}
+ol {margin-top:-40px!important; padding-top:25px; padding-bottom:22px}
+p{padding-top:22px}
 </style>
 ### Point méthode
 Il y a trois manières de progresser d'une partie à une autre :
-1. **La réfutation** : on réfute (on critique) la partie précédente (on passe du _oui_ au _non_, ou du _non_ au _oui_) de manière totale ou partielle
-2. **L'amélioration** : on va dans le même sens général (on garde le même type de réponse : _oui_ ou _non_), mais avec une meilleure idée, une meilleure argumentation
-3. **La réinterprétation** : on montre qu'il y a un autre sens possible du sujet, et on examine une autre réponse en fonction de cet autre sens
+1) **La réfutation** : on réfute (on critique) la partie précédente (on passe du _oui_ au _non_, ou du _non_ au _oui_) de manière totale ou partielle
+2) **L'amélioration** : on va dans le même sens général qu'une partie précédente (on garde le même type de réponse : _oui_ ou _non_), mais avec une meilleure idée, une meilleure argumentation
+3) **La réinterprétation** : on montre qu'il y a un autre sens possible du sujet, et on examine une autre réponse en fonction de cet autre sens
 
 
 ---
@@ -42,7 +42,7 @@ ul{margin-top:0}
 </style>
 ## A. Il n'y a peut-être pas de science du bonheur, mais un art d'être heureux est possible
 
-- Quel est à première vue le sens du mot “sagesse” ?
+- Quelles différences faites-vous intuitivement entre une science du bonheur et un art d'être heureux ?
 
 ---
 <!-- _class: citationM2 fmm -->
@@ -54,11 +54,12 @@ ul{margin-top:0}
 
 ---
 <!-- _class: souspartie -->
-##  B. Nous pouvons maîtriser nos désirs
+##  B. Le désir n'est pas nécessairement insatiable
+
 
 ---
 <!-- _class: etape -->
-### 1/ Épicure sur le plaisir
+### 1/ Épicure : il faut réfléchir aux plaisirs que nous recherchons
 
 ---
 <!-- _class: citationC -->
@@ -74,6 +75,16 @@ ul{margin-top:0}
 L'**hédonisme** est la thèse selon laquelle le plaisir est un bien qu'il faut rechercher
 
 ---
+<!-- _class: i1t1 fppp-->
+<style scoped>
+p:nth-of-type(1){margin-bottom:30px;}
+</style>
+
+Attention ! Au sens commun, l'expression “être un épicurien” désigne le fait d'être un bon vivant qui profite de tous les plaisirs, mais c'est un contresens sur la philosophie d'Épicure.
+
+![](images/epicurien-sens-commun.png)
+
+---
 <!-- _class: citationC fppppppp -->
 
 ![bg left:42%](https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Epikouros_BM_1843.jpg/1920px-Epikouros_BM_1843.jpg)
@@ -87,6 +98,7 @@ L'**hédonisme** est la thèse selon laquelle le plaisir est un bien qu'il faut 
 - **L'aponie** désigne l'absence de souffrances dans le corps
 - **L'ataraxie** désigne l'absence de troubles dans l'âme
 
+
 ---
 <!-- _class: i2t1 contain  -->
 <style scoped>
@@ -98,11 +110,11 @@ Il faut distinguer deux formes d'hédonisme
 
 [![](https://images-na.ssl-images-amazon.com/images/I/81WmjDniBuL.jpg)](https://drive.google.com/file/d/0B33DtpyVkjZFU2tXRFVRMUtkTVU/view)
 
-[![](https://media.senscritique.com/media/000019340223/source_big/Les_Ailes_du_desir.jpg)](https://www.youtube.com/watch?v=l1qjWN1mL1A)
+[![](https://media.senscritique.com/media/000019340223/source_big/Les_Ailes_du_desir.jpg)](https://drive.google.com/file/d/1uGhuf7BnnsQY4RU4E_PvokrBHe2GzEhc/view)
 
 ---
-<!-- _class: exercice tableau fmmmmmmmmm colonnes -->
-|L'hédonisme au sens commun|L'hédonisme d'Épicure|
+<!-- _class: exercice tableau colonnes -->
+|L'hédonisme radical|L'hédonisme d'Épicure|
 |:-:|:-:|
 |?|?|
 |?|?|
@@ -110,19 +122,180 @@ Il faut distinguer deux formes d'hédonisme
 |?|?|
 
 1. consiste à désirer toujours plus
-2. un état d'apaisement, de sérénité, d'absence de troubles
-3. consiste à retrouver le plaisir simple d'exister
-4. démarche soustractive : il faut supprimer ce qui trouble notre corps et notre âme
-5. un hédonisme de l'excès, qui recherche les plaisirs dans la démesure
-6. démarche additive, voire multiplicative : on veut ajouter sans cesse de nouvelles expériences de plaisir
-7. une recherche effrénée, inquiète, agitée, soumise à la peur de la mort
-8. un hédonisme mesuré, qui préfère les plaisirs stables
+2. démarche soustractive : il faut supprimer ce qui trouble notre corps et notre âme
+3. un hédonisme de l'excès, qui recherche les plaisirs dans la démesure
+4. consiste à retrouver le plaisir simple d'exister
+5. démarche additive, voire multiplicative : on veut ajouter sans cesse de nouvelles expériences de plaisir
+6. un hédonisme mesuré, qui préfère les plaisirs stables
 
+---
+<!-- _class: exercice tableau-r fmm-->
+<style scoped>
 
+</style>
+|L'hédonisme radical|L'hédonisme d'Épicure|
+|:-:|:-:|
+|_1_ consiste à désirer<br> toujours plus|_4_ consiste à retrouver le plaisir simple d'exister|
+|_3_ un hédonisme de l'excès, <br>qui recherche les plaisirs<br> dans la démesure|_6_ un hédonisme mesuré, qui préfère les plaisirs stables|
+|_5_ démarche additive, voire multiplicative : on veut ajouter sans cesse de nouvelles expériences de plaisir|_2_ démarche soustractive : il faut supprimer ce qui trouble notre corps et notre âme|
 
+- Qu'est-ce qui peut troubler notre corps et notre âme ?
 
+---
+<!-- _class: entete approfondissement -->
+### Approfondissement
+
+Parmi ce qui peut troubler notre corps et notre âme, il y a, pour Épicure, plusieurs croyances fausses, sur les Dieux et sur la mort, qui peuvent nous empêcher de retrouver le simple plaisir d'exister.
+
+Vous pouvez consulter ce [schéma pour comprendre ce que dit l'épicurisme à propos des dieux et de la mort](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/epicurisme-supprimer-croyances-fausses.svg).
+
+---
+<!-- _class: etape -->
+### 2/ Épicure : il faut savoir identifier les désirs qui nous troublent et nous éloignent du bonheur
 
 
 ---
-<!-- _class: souspartie -->
+<!-- _class: citationC -->
+
+![bg left:44%](https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Epikouros_BM_1843.jpg/1920px-Epikouros_BM_1843.jpg)
+
+>« Il faut se rendre compte que parmi nos désirs les uns sont naturels les autres vains »
+>>**Épicure**, _Lettre à Ménécée_
+
+---
+<!-- _class: i1t0 pp -->
+
+![](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/epicurisme-desirs-vains2.svg)
+
+---
+<!-- _class: cinema -->
+
+[![](images/scarface.png)](https://safeYouTube.net/w/kg3J)
+
+> « Antonio “Tony” Montana (Al Pacino) […] est un petit malfrat cubain qui migre vers Miami dans l'espoir de faire fortune. Il trouve au départ un petit boulot dans une baraque à frites de Miami. Mais travailler pour quelques dollars ne correspond pas à l'idée qu'il se fait du « rêve américain ». Il se fait alors embaucher par un malfrat local puis par Frank Lopez, son patron]. […] Tony apprend vite le métier de mafioso de la drogue : il monte en grade […] Il a les dents beaucoup plus longues que ses collègues, il est mégalomane, ambitieux et d'une intelligence plus perverse. Il prend pour adage : _The World is Yours_ (Le monde est à toi) [...] Mais il commence à faire des erreurs dans ce monde qui ne pardonne pas, où l'on est vite remplacé. Il prend conscience que d'être arrivé au sommet de la mafia ne le rend pas aussi heureux qu'il l'avait espéré, qu'il n'est pas capable de rendre heureuses les personnes qu'il aime&nbsp;» (source : [wikipedia](https://fr.wikipedia.org/wiki/American_History_X))
+
+---
+<!-- _class: citationC fpppp -->
+
+![bg left:44%](https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Epikouros_BM_1843.jpg/1920px-Epikouros_BM_1843.jpg)
+
+>« Tout plaisir, pris en lui-même et dans sa nature propre est […] un bien, et cependant tout plaisir n’est pas à rechercher pareillement […] En tout cas, chaque plaisir et chaque douleur doivent être appréciés par une comparaison des avantages et des inconvénients à attendre. »
+>>**Épicure**, _Lettre à Ménécée_
+
+---
+<!-- _class: cinema fmmm -->
+
+[![](https://fr.web.img3.acsta.net/medias/nmedia/18/81/98/98/19841064.jpg)](https://safeYouTube.net/w/kw1ib)
+
+>« Michael Fassbender se mue ici en cadre supérieur new yorkais à la vie très cloisonnée, incapable de vivre sa sexualité autrement que par le recours à la pornographie, à la prostitution, aux rencontres sans lendemain. [...] Steve McQueen dessine le portrait d’un homme perdu, esclave de ses démons. Captant un monde quadrillé à l’extrême (rues, façades de verre, bureaux, écrans…), jouant sur le paradoxe d’une infranchissable transparence, le réalisateur explore les méandres d’une solitude très contemporaine. » ([source](http://www.la-croix.com/Culture-Loisirs/Culture/Cinema/Shame-l-infranchissable-mur-de-la-vraie-rencontre-_EG_-2011-12-06-744235))
+
+
+---
+<!-- _class: etape -->
+### Récapitulatif
+
+---
+<!-- _class: qcm fppppppp-->
+
+D'après Épicure :
+
+- Satisfaire tous ses désirs, est-ce une bonne règle de vie ?
+- La réflexion est-elle un obstacle au bonheur ?
+- Le bonheur dépend-il de nous ?
+- Le bonheur peut-il s’apprendre ?
+
+---
+<!-- _class: etape -->
+<style scoped>
+p {text-align:justify;}
+</style>
+### Fin de sous-partie
+
+Il ne suffit pas de nous libérer intérieurement des désirs qui nous troublent pour parvenir au bonheur, certains événements extérieurs peuvent venir troubler notre existence : que pouvons-nous face au tragique de l’existence ?
+
+---
+<!-- _class: souspartie fp -->
 ##  C. Nous pouvons affronter le tragique de l'existence
+
+- Face au tragique de l’existence, nous pourrions chercher à “rester stoïque”.  Qu'est-ce que cela veut dire ?
+
+
+---
+<!-- _class: citationC -->
+<style scoped>
+p{font-size:110%;}
+</style>
+
+![bg left:45%](https://upload.wikimedia.org/wikipedia/commons/9/90/Epictetus.jpg)
+
+>« Parmi les choses qui existent, certaines dépendent de nous, d'autres non. »
+>>**Épictète**, _Manuel_
+
+---
+<!-- _class: etape -->
+### 1/ Épictète : il faut accepter ce qui ne dépend pas de nous
+
+---
+<!-- _class: i1t0 -->
+
+![](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/stoicisme-accepter-ce-qui-ne-depend-pas-de-nous.svg)
+
+
+---
+<!-- _class: citationC -->
+
+![bg left:45%](https://upload.wikimedia.org/wikipedia/commons/9/90/Epictetus.jpg)
+
+>« N'attends pas que les événements arrivent comme tu le souhaites ; décide de vouloir ce qui arrive comme cela arrive et tu seras heureux »
+>>**Épictète**, _Manuel_
+
+---
+<!-- _class: etape -->
+
+### 2/ Épictète : il faut maîtriser ce qui dépend de nous
+
+---
+<!-- _class: citationC fppppppp -->
+<style scoped>
+blockquote blockquote {margin-top:-10px!important;}
+</style>
+![bg left:40%](https://upload.wikimedia.org/wikipedia/commons/9/90/Epictetus.jpg)
+
+>« Pour tout objet qui t'attire, te sert ou te plaît, représente-toi bien ce qu'il est […] Quand tu te prépares à faire quoi que ce soit, représente-toi bien de quoi il s'agit. […] Ce qui tourmente les hommes, ce n'est pas la réalité mais les jugements qu'ils portent sur elle. […] »
+>>**Épictète**, _Manuel_
+
+---
+<!-- _class: i1t1 vertical fpp-->
+<style scoped>
+img {height:400px}
+ul li{text-align:justify!important; margin-left:30px!important; margin-right:30px!important;}
+</style>
+
+![](https://cdn-media.rtl.fr/cache/EasB2o0fxAGokrgvD0A5_A/880v587-0/online/image/2018/1218/7795969490_insulte.jpg)
+
+- Comment réagissons-nous face à une insulte ou une injure ?
+- Quelle attitude pourrait recommander Épictète ?
+
+---
+<!-- _class: cinema fp-->
+[![](https://i.pinimg.com/originals/a5/9e/4d/a59e4da1f5b31fdbf6238c6cebb921df.jpg)](https://drive.google.com/file/d/13HeeYKcGmw7T9hZnFranNOvxf79fsnb7/view)
+
+>« Henry Barthes est professeur remplaçant de littérature anglaise dans les lycées. […] Quand il arrive à son nouveau poste, il est immédiatement confronté à la violence environnante : le lycée est dans une zone difficile. Les enfants sont irrespectueux, agressifs. Henry ne s'émeut pas, il a une mission [à accomplir] » ([source](https://fr.wikipedia.org/wiki/Detachment))
+
+---
+<!-- _class: citationC -->
+![bg left:42%](https://upload.wikimedia.org/wikipedia/commons/9/90/Epictetus.jpg)
+
+>« Devant tout ce qui t'arrive, pense à rentrer en toi-même et cherche quelle faculté tu possèdes pour y faire face. […] En t'exerçant ainsi tu ne seras plus le jouet de tes représentations »
+>>**Épictète**, _Manuel_
+
+---
+<!-- _class: etape -->
+### 3/ Il faut être comme un roc face aux vagues
+
+---
+<!-- _class: cinema fmmmm-->
+
+![](https://fr.web.img3.acsta.net/medias/nmedia/18/72/82/16/19187639.jpg)
+
+>« _Invictus_ est un poème écrit par William Ernest Henley (1849-1903), qui témoigne de son long combat contre la douleur et la maladie. En raison d’une tuberculose osseuse déclarée à l’âge de 12 ans, Henley doit subir l’amputation de sa jambe gauche entre 1868 et 1869, puis luttera de nombreuses années pour sauver sa deuxième jambe. […] Après la fin de l’apartheid en Afrique du Sud, le poème devient indissociable de Nelson Mandela. On apprend en effet que _Invictus_ est son poème préféré, et qui l’a inspiré et soutenu et dans les moments les plus noirs de ses 27 années de captivité. » ([source](https://deniscougot.wordpress.com/le-poeme-invictus/)

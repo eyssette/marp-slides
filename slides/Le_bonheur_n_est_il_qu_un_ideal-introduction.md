@@ -392,7 +392,7 @@ C. Le tragique de l'existence nous condamne au malheur
 **II – Ne peut-on pas cependant parvenir à une certaine sagesse et faire du bonheur une réalité ?**
 
 A. Il n'y a peut-être pas de science du bonheur, mais un art d'être heureux est possible
-B. Nous pouvons maîtriser nos désirs
+B. Le désir n'est pas nécessairement insatiable
 C. Nous pouvons affronter le tragique de l'existence
 
 _…… (Troisième partie : à  suivre)_

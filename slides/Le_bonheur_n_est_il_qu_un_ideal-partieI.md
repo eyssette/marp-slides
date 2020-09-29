@@ -152,9 +152,11 @@ Pour structurer un paragraphe, on peut utiliser le modèle **ARES** :
 
 
 ---
-<!-- _class: pm-->
-
-#### Modèle pour une fin de sous-partie
+<!-- _class: etape pm fppppppppp-->
+<style scoped>
+p {text-align:justify;}
+</style>
+### Fin de sous-partie
 
 Mais est-ce seulement en raison de la nature, indéterminée, du bonheur que la quête du bonheur est une quête impossible ? N'y a-t-il pas aussi des obstacles, en nous et hors de nous, qui empêchent de parvenir au bonheur ?
 
