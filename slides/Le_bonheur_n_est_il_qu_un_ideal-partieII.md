@@ -189,6 +189,14 @@ Vous pouvez consulter ce [schéma pour comprendre ce que dit l'épicurisme à pr
 
 >« Michael Fassbender se mue ici en cadre supérieur new yorkais à la vie très cloisonnée, incapable de vivre sa sexualité autrement que par le recours à la pornographie, à la prostitution, aux rencontres sans lendemain. [...] Steve McQueen dessine le portrait d’un homme perdu, esclave de ses démons. Captant un monde quadrillé à l’extrême (rues, façades de verre, bureaux, écrans…), jouant sur le paradoxe d’une infranchissable transparence, le réalisateur explore les méandres d’une solitude très contemporaine. » ([source](http://www.la-croix.com/Culture-Loisirs/Culture/Cinema/Shame-l-infranchissable-mur-de-la-vraie-rencontre-_EG_-2011-12-06-744235))
 
+---
+<!-- _class: entete approfondissement -->
+### Approfondissement
+
+On retrouve parfois une référence à Épicure dans certains mouvements contemporains autour des thèmes de la simplicité volontaire, de la décroissance ou de la sobriété heureuse.
+
+1. Lire un [document à propos de la simplicité volontaire](https://docs.google.com/document/d/1bj-Z10wRiGp6H8erRwLmp8BmHtYTJgWaLBc3HalJT_A/edit?usp=sharing) afin de voir quelle comparaison on peut faire entre l'épicurisme et ce mouvement
+
 
 ---
 <!-- _class: etape -->
@@ -301,6 +309,17 @@ ul li{text-align:justify!important; margin-left:30px!important; margin-right:30p
 [![](https://fr.web.img3.acsta.net/medias/nmedia/18/72/82/16/19187639.jpg)](https://drive.google.com/file/d/12mCc9CNQtZjqS9q86sBFT5gQlULTovaJ/view)
 
 >« _Invictus_ est un poème écrit par William Ernest Henley (1849-1903), qui témoigne de son long combat contre la douleur et la maladie. En raison d’une tuberculose osseuse déclarée à l’âge de 12 ans, Henley doit subir l’amputation de sa jambe gauche entre 1868 et 1869, puis luttera de nombreuses années pour sauver sa deuxième jambe. […] Après la fin de l’apartheid en Afrique du Sud, le poème devient indissociable de Nelson Mandela. On apprend en effet que _Invictus_ est son poème préféré, et qui l’a inspiré et soutenu dans les moments les plus noirs de ses 27 années de captivité. » ([source](https://deniscougot.wordpress.com/le-poeme-invictus/)
+
+---
+<!-- _class: entete approfondissement fppp -->
+<style scoped>
+ol {margin-top:-5px; margin-left:20px;}
+</style>
+### Approfondissement
+
+
+1. On peut trouver une référence au stoïcisme dans certaines thérapies cognitives : vous pouvez lire cette [présentation des grands principes des thérapies cognitives](https://docs.google.com/document/d/1P-TIStOKS-7Xvvsuzg4U0OSdBglOF2Q7WBJYvxou-Uo/edit?usp=sharing), ou cet article : « [Le stoïcisme comme précurseur épistémologique de la thérapie cognitive](https://www.cairn.info/revue-psn-2014-2-page-65.htm) »
+2. Plusieurs personnes essaient de penser un stoïcisme contemporain : vous pouvez lire cette [présentation de l'association Stoa Gallica et de ses travaux](https://biospraktikos.hypotheses.org/5130)
 
 ---
 <!-- _class: etape -->

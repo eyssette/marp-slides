@@ -111,14 +111,17 @@ ul {margin-top:5px!important; padding:20px!important;}
 - Une **conception normative du bonheur** est une conception du bonheur qui prétend qu'il y a une règle déterminée qu'il est nécessaire de suivre afin de parvenir au bonheur.
 
 ---
-<!-- _class: entete approfondissement fpp-->
-
+<!-- _class: entete approfondissement f-->
+<style scoped>
+ol {margin-top:-10px}
+</style>
 ### Approfondissement
 
 1. Lire cet [article sur l'injonction au bonheur](https://www.lemonde.fr/m-perso/article/2016/05/27/le-retour-de-la-mere-parfaite_4927830_4497916.html) que véhiculent les “mères parfaites” sur Instagram
 2. Regarder la vidéo de la chaîne _Méta_ sur [la dictature du bonheur](https://www.youtube.com/watch?v=oqq96UQAaXo)
 3. Consulter ce lien sur [le bonheur comme norme sociale et économique](https://docs.google.com/document/d/1Bo9T9oGNag4bkaGGVzyd5i-DDI19vf0smo-qq60H0_M/edit?usp=sharing)
 3. Lire le livre [Happycratie d'Eva Illouz](https://laviedesidees.fr/Bonheur-obligatoire.html), ou bien seulement des extraits sélectionnés (me les demander)
+4. Découvrir l'[analyse critique du développement personnel par Julia de Funès](https://www.arte.tv/fr/videos/092170-010-A/philosophie/)
 
 ---
 <!-- _class: exercice application pm -->
