@@ -45,10 +45,9 @@ _Démarche :_ <span>&#9679;</span> Conceptualiser
 - Quel est le sens de ces expressions ? 
   - “c'est mon choix !”
   - “je n'ai pas le choix”
-  - "c'est un choix difficile"
   - “libre comme l'air”
-  - "une chute libre”
-  - "un magasin en libre-service"
+  - “une chute libre”
+  - “un magasin en libre-service”
 
 ---
 <!-- _class: pointmethode fp -->
@@ -327,31 +326,32 @@ Afin d'ouvrir les perspectives sur la question posée, deux stratégies supplém
 
 Dossier de textes sur la question : « Le choix libre est-il une illusion ? »
 
-- Lire les textes ([lien vers le dossier]()) et répondre aux questions sur une feuille double à part
+- Lire les textes ([lien vers le dossier](https://docs.google.com/document/d/1aq1ZNSFWUC6LkQMq-hnY0Wkvvi5_0N-YrQlzzAU2xtg/edit?usp=sharing)) et répondre aux questions sur une feuille double à part
 
 ---
 <!-- _class: souspartie -->
 ## D. Quatrième étape du brouillon : organiser ses idées (trouver un plan)
 
 ---
-<!-- _class: fm pm -->
+<!-- _class: fmmmm pm -->
 <style scoped>
 h3{text-align:center; margin-bottom:30px; font-size:135%;}
+span{font-size:90%;}
 </style>
 
 ### Exemple de plan
 
-**I -** 
+**I - Nous sommes à première vue capables de faire des choix libres : ce n'est pas une illusion** 
 
-A. 
-B. 
-C. 
+A. On peut distinguer les actes volontaires et les actes involontaires
+B. Notre capacité de penser nous permet d'envisager plusieurs possibilités
 
-**II – 
+**II – Mais nos choix ne sont-ils pas déterminés par des causes que nous ne maîtrisons pas ?**
 
-A. 
-B. 
-C. 
+A. Il est possible que la source de mes actes se trouve dans des facteurs dont je n'ai pas conscience
+B. Les sciences humaines semblent montrer que nos choix sont déterminés par différents types de facteurs
+
+<span>_…… (Troisième partie : à  suivre)_</span>
 
 ---
 <!-- _class: fp pointmethode -->
