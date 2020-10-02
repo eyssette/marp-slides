@@ -272,9 +272,9 @@ ul {font-size:48px; padding-left:50px; padding-right:60px; margin-top:50px;}
 
 Quelques situations concrètes :
 
-– une situation ordinaire : choisir à manger
-– un film : [_Minority Report_](https://www.dailymotion.com/video/x26hp08)
-– un jeu vidéo : [_The Stanley Parable_](https://www.youtube.com/watch?v=-JY-qtST5PY&t=963s) 
+1) Une situation ordinaire : choisir à manger
+2) Un film : [_Minority Report_](https://www.dailymotion.com/video/x26hp08)
+3) Un jeu vidéo : [_The Stanley Parable_](https://www.youtube.com/watch?v=-JY-qtST5PY&t=963s) 
 
 
 ---
@@ -285,9 +285,9 @@ ul {padding-top:20px;}
 ### Point méthode
 
 Pour trouver des idées, il faut :
-- explorer la diversité des réponses possibles ;
-- justifier au maximum ces différentes réponses (trouver des arguments, des objections, des réponses aux objections …) ;
-- réfléchir à partir de situations concrètes.
+1) explorer la diversité des réponses possibles ;
+2) justifier au maximum ces réponses : trouver des arguments, des objections, des réponses aux objections … ;
+3) réfléchir à partir de situations concrètes.
 
 
 
@@ -326,7 +326,8 @@ Afin d'ouvrir les perspectives sur la question posée, deux stratégies supplém
 
 Dossier de textes sur la question : « Le choix libre est-il une illusion ? »
 
-- Lire les textes ([lien vers le dossier](https://docs.google.com/document/d/1aq1ZNSFWUC6LkQMq-hnY0Wkvvi5_0N-YrQlzzAU2xtg/edit?usp=sharing)) et répondre aux questions sur une feuille double à part
+- Lire les textes 1 2 et 3 ([lien vers le dossier](https://docs.google.com/document/d/1aq1ZNSFWUC6LkQMq-hnY0Wkvvi5_0N-YrQlzzAU2xtg/edit?usp=sharing))
+- Répondre par écrit aux questions 1, 2 et 3 sur une feuille à part
 
 ---
 <!-- _class: souspartie -->
@@ -367,8 +368,6 @@ p{text-align:center;}
 ### Point méthode
 
 **Trois principes pour le plan**
-1) Chaque partie est l'examen d'une réponse à la question posée.
-2) Chaque sous-partie est un argument.
-3) Il doit y avoir une progression logique :
-    - de la première à la dernière partie ;
-    - à l'intérieur de chaque partie.
+1) On fait 2 (ou 3) parties : chaque partie est l'examen d'une réponse à la question posée.
+2) On fait 2 à 4 sous-parties : chaque sous-partie est un argument.
+3) Il doit y avoir une progression logique dans le devoir
