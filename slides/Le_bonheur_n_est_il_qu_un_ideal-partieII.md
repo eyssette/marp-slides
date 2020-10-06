@@ -37,34 +37,52 @@ Il y a trois manières de progresser d'une partie à une autre :
 ---
 <!-- _class: souspartie -->
 <style scoped>
-h2{font-size:119%;}
-ul{margin-top:0}
+h2{font-size:114%;}
+p {margin:0px 65px; font-size:37px; }
+ul{margin-top:25px; font-size:37px;}
 </style>
 ## A. Il n'y a peut-être pas de science du bonheur, mais un art d'être heureux est possible
 
+L'objectif ici est de répondre à l'argument de Kant
 - Quelles différences faites-vous intuitivement entre une science du bonheur et un art d'être heureux ?
 
 ---
 <!-- _class: citationM2 fmm -->
 
-![](https://journals.openedition.org/lettre-cdf/docannexe/image/864/img-2.jpg)
+![Photographie de Pierre Hadot](https://journals.openedition.org/lettre-cdf/docannexe/image/864/img-2.jpg)
 
 >« La philosophie ne consiste pas dans l'enseignement d'une théorie abstraite, encore moins dans une exégèse de textes, mais dans un art de vivre, dans une attitude concrète, dans un style de vie déterminé, qui engage toute l'existence. L'acte philosophique ne se situe pas seulement dans l'ordre de la connaissance, mais dans l'ordre du “soi” et de l'être : c'est un progrès qui nous fait plus être, qui nous rend meilleurs. C'est une conversion qui bouleverse toute la vie, qui change l'être de celui qui l'accomplit. Elle le fait passer d'un état de vie inauthentique […] à un état de vie authentique, dans lequel l'homme atteint la conscience de soi, la vision exacte du monde, la paix et la liberté intérieures »
 >>Pierre **Hadot**, _Exercices spirituels et philosophie antique_
 
 ---
 <!-- _class: souspartie -->
+<style scoped>
+h2{font-size:136%;}
+p {margin:0px 65px; font-size:47px; }
+</style>
 ##  B. Le désir n'est pas nécessairement insatiable
-
+L'objectif ici est de répondre à l'argument de Schopenhauer
 
 ---
 <!-- _class: etape -->
 ### 1/ Épicure : il faut réfléchir aux plaisirs que nous recherchons
 
 ---
+<!-- _class: definition fp-->
+<style scoped>
+p:nth-child(1){border:none; margin:0px 40px}
+h3{font-size:120%; margin-top:15px}
+</style>
+Il ne s'agit pas de faire une critique moraliste des plaisirs et de défendre un ascétisme radical.
+
+### Définition
+- **Une critique moraliste des plaisirs** consisterait à considérer les plaisirs comme des tentations mauvaises qui nous conduisent au vice.
+- **L'ascétisme** désigne le fait de renoncer à certains plaisirs, voire de s'imposer certaines souffrances en vue d'un idéal supérieur.
+
+---
 <!-- _class: citationC -->
 
-![bg left:46%](https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Epikouros_BM_1843.jpg/1920px-Epikouros_BM_1843.jpg)
+![Buste d'Épicure bg left:46%](https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Epikouros_BM_1843.jpg/1920px-Epikouros_BM_1843.jpg)
 
 >« [L]e plaisir est le commencement et la fin de la vie heureuse »
 >>**Épicure**, _Lettre à Ménécée_
@@ -72,7 +90,7 @@ ul{margin-top:0}
 ---
 <!-- _class: definition -->
 ### Définition
-L'**hédonisme** est la thèse selon laquelle le plaisir est un bien qu'il faut rechercher
+L'**hédonisme** est une défense de la valeur du plaisir, c'est la thèse selon laquelle le plaisir est un bien qu'il faut rechercher
 
 ---
 <!-- _class: i1t1 fppp-->
@@ -82,12 +100,12 @@ p:nth-of-type(1){margin-bottom:30px;}
 
 Attention ! Au sens commun, l'expression “être un épicurien” désigne le fait d'être un bon vivant qui profite de tous les plaisirs, mais c'est un contresens sur la philosophie d'Épicure.
 
-![](images/epicurien-sens-commun.png)
+![Images trouvées sur internet avec le terme "épicurien”](images/epicurien-sens-commun.png)
 
 ---
 <!-- _class: citationC fppppppp -->
 
-![bg left:42%](https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Epikouros_BM_1843.jpg/1920px-Epikouros_BM_1843.jpg)
+![Buste d'Épicure bg left:42%](https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Epikouros_BM_1843.jpg/1920px-Epikouros_BM_1843.jpg)
 
 >« Quand […] nous disons que le plaisir est le but de la vie, nous ne parlons pas des plaisirs voluptueux et inquiets […] Le plaisir dont nous parlons est celui qui consiste, pour le corps, à ne pas souffrir et, pour l’âme, à être sans trouble. »
 >>**Épicure**, _Lettre à Ménécée_
@@ -108,15 +126,14 @@ img{height:570px;}
 
 Il faut distinguer deux formes d'hédonisme
 
-[![](https://images-na.ssl-images-amazon.com/images/I/81WmjDniBuL.jpg)](https://drive.google.com/file/d/0B33DtpyVkjZFU2tXRFVRMUtkTVU/view)
+[![Couverture du livre Le Portrait de Dorian Gray](https://images-na.ssl-images-amazon.com/images/I/81WmjDniBuL.jpg)](https://drive.google.com/file/d/0B33DtpyVkjZFU2tXRFVRMUtkTVU/view)
 
-[![](https://media.senscritique.com/media/000019340223/source_big/Les_Ailes_du_desir.jpg)](https://drive.google.com/file/d/1uGhuf7BnnsQY4RU4E_PvokrBHe2GzEhc/view)
+[![Affiche du film Les Ailes du Désir](https://media.senscritique.com/media/000019340223/source_big/Les_Ailes_du_desir.jpg)](https://drive.google.com/file/d/1uGhuf7BnnsQY4RU4E_PvokrBHe2GzEhc/view)
 
 ---
-<!-- _class: exercice tableau colonnes -->
+<!-- _class: exercice tableau colonnes fmmmm-->
 |L'hédonisme radical|L'hédonisme d'Épicure|
 |:-:|:-:|
-|?|?|
 |?|?|
 |?|?|
 |?|?|
@@ -157,7 +174,7 @@ Vous pouvez consulter ce [schéma pour comprendre ce que dit l'épicurisme à pr
 ---
 <!-- _class: citationC -->
 
-![bg left:44%](https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Epikouros_BM_1843.jpg/1920px-Epikouros_BM_1843.jpg)
+![Buste d'Épicure bg left:44%](https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Epikouros_BM_1843.jpg/1920px-Epikouros_BM_1843.jpg)
 
 >« Il faut se rendre compte que parmi nos désirs les uns sont naturels les autres vains »
 >>**Épicure**, _Lettre à Ménécée_
@@ -165,19 +182,19 @@ Vous pouvez consulter ce [schéma pour comprendre ce que dit l'épicurisme à pr
 ---
 <!-- _class: i1t0 pp -->
 
-![](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/epicurisme-desirs-vains2.svg)
+![Schéma sur les désirs vains selon Épicure](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/epicurisme-desirs-vains2.svg)
 
 ---
 <!-- _class: cinema -->
 
-[![](images/scarface.png)](https://safeYouTube.net/w/kg3J)
+[![Affiche du film Scarface](images/scarface.png)](https://video.link/w/qwplb)
 
 > « Antonio “Tony” Montana (Al Pacino) […] est un petit malfrat cubain qui migre vers Miami dans l'espoir de faire fortune. Il trouve au départ un petit boulot dans une baraque à frites de Miami. Mais travailler pour quelques dollars ne correspond pas à l'idée qu'il se fait du « rêve américain ». Il se fait alors embaucher par un malfrat local puis par Frank Lopez, son patron]. […] Tony apprend vite le métier de mafioso de la drogue : il monte en grade […] Il a les dents beaucoup plus longues que ses collègues, il est mégalomane, ambitieux et d'une intelligence plus perverse. Il prend pour adage : _The World is Yours_ (Le monde est à toi) [...] Mais il commence à faire des erreurs dans ce monde qui ne pardonne pas, où l'on est vite remplacé. Il prend conscience que d'être arrivé au sommet de la mafia ne le rend pas aussi heureux qu'il l'avait espéré, qu'il n'est pas capable de rendre heureuses les personnes qu'il aime&nbsp;» (source : [wikipedia](https://fr.wikipedia.org/wiki/American_History_X))
 
 ---
 <!-- _class: citationC fpppp -->
 
-![bg left:44%](https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Epikouros_BM_1843.jpg/1920px-Epikouros_BM_1843.jpg)
+![Buste d'Épicure bg left:44%](https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Epikouros_BM_1843.jpg/1920px-Epikouros_BM_1843.jpg)
 
 >« Tout plaisir, pris en lui-même et dans sa nature propre est […] un bien, et cependant tout plaisir n’est pas à rechercher pareillement […] En tout cas, chaque plaisir et chaque douleur doivent être appréciés par une comparaison des avantages et des inconvénients à attendre. »
 >>**Épicure**, _Lettre à Ménécée_
@@ -185,7 +202,7 @@ Vous pouvez consulter ce [schéma pour comprendre ce que dit l'épicurisme à pr
 ---
 <!-- _class: cinema fmmm -->
 
-[![](https://fr.web.img3.acsta.net/medias/nmedia/18/81/98/98/19841064.jpg)](https://safeYouTube.net/w/kw1ib)
+[![Affiche du film Shame](https://fr.web.img3.acsta.net/medias/nmedia/18/81/98/98/19841064.jpg)](https://safeYouTube.net/w/kw1ib)
 
 >« Michael Fassbender se mue ici en cadre supérieur new yorkais à la vie très cloisonnée, incapable de vivre sa sexualité autrement que par le recours à la pornographie, à la prostitution, aux rencontres sans lendemain. [...] Steve McQueen dessine le portrait d’un homme perdu, esclave de ses démons. Captant un monde quadrillé à l’extrême (rues, façades de verre, bureaux, écrans…), jouant sur le paradoxe d’une infranchissable transparence, le réalisateur explore les méandres d’une solitude très contemporaine. » ([source](http://www.la-croix.com/Culture-Loisirs/Culture/Cinema/Shame-l-infranchissable-mur-de-la-vraie-rencontre-_EG_-2011-12-06-744235))
 
@@ -225,7 +242,14 @@ Il ne suffit pas de nous libérer intérieurement des désirs qui nous troublent
 
 ---
 <!-- _class: souspartie fp -->
-##  C. Nous pouvons affronter le tragique de l'existence
+<style scoped>
+h2{font-size:160%}
+p{font-size:36px;}
+ul{margin-top:30px;}
+</style>
+##  C. Nous pouvons affronter le tragique de l'existence
+
+L'objectif ici est de répondre à l'argument de Pascal
 
 - Face au tragique de l’existence, nous pourrions chercher à “rester stoïque”.  Qu'est-ce que cela veut dire ?
 
@@ -236,7 +260,7 @@ Il ne suffit pas de nous libérer intérieurement des désirs qui nous troublent
 p{font-size:110%;}
 </style>
 
-![bg left:45%](https://upload.wikimedia.org/wikipedia/commons/9/90/Epictetus.jpg)
+![Dessin représentant Épictète bg left:45%](https://upload.wikimedia.org/wikipedia/commons/9/90/Epictetus.jpg)
 
 >« Parmi les choses qui existent, certaines dépendent de nous, d'autres non. »
 >>**Épictète**, _Manuel_
@@ -248,13 +272,13 @@ p{font-size:110%;}
 ---
 <!-- _class: i1t0 -->
 
-![](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/stoicisme-accepter-ce-qui-ne-depend-pas-de-nous.svg)
+![Schéma sur l'idée qu'il faut accepter ce qui ne dépend pas de nous](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/stoicisme-accepter-ce-qui-ne-depend-pas-de-nous.svg)
 
 
 ---
 <!-- _class: citationC -->
 
-![bg left:45%](https://upload.wikimedia.org/wikipedia/commons/9/90/Epictetus.jpg)
+![Dessin représentant Épictète bg left:45%](https://upload.wikimedia.org/wikipedia/commons/9/90/Epictetus.jpg)
 
 >« N'attends pas que les événements arrivent comme tu le souhaites ; décide de vouloir ce qui arrive comme cela arrive et tu seras heureux »
 >>**Épictète**, _Manuel_
@@ -269,7 +293,7 @@ p{font-size:110%;}
 <style scoped>
 blockquote blockquote {margin-top:-10px!important;}
 </style>
-![bg left:40%](https://upload.wikimedia.org/wikipedia/commons/9/90/Epictetus.jpg)
+![Dessin représentant Épictète bg left:40%](https://upload.wikimedia.org/wikipedia/commons/9/90/Epictetus.jpg)
 
 >« Pour tout objet qui t'attire, te sert ou te plaît, représente-toi bien ce qu'il est […] Quand tu te prépares à faire quoi que ce soit, représente-toi bien de quoi il s'agit. […] Ce qui tourmente les hommes, ce n'est pas la réalité mais les jugements qu'ils portent sur elle. […] »
 >>**Épictète**, _Manuel_
@@ -281,20 +305,20 @@ img {height:400px}
 ul li{text-align:justify!important; margin-left:30px!important; margin-right:30px!important;}
 </style>
 
-![](https://cdn-media.rtl.fr/cache/EasB2o0fxAGokrgvD0A5_A/880v587-0/online/image/2018/1218/7795969490_insulte.jpg)
+![Dessin stylisé représentant une personne qui en insulte une autre](https://cdn-media.rtl.fr/cache/EasB2o0fxAGokrgvD0A5_A/880v587-0/online/image/2018/1218/7795969490_insulte.jpg)
 
 - Comment réagissons-nous face à une insulte ou une injure ?
 - Quelle attitude pourrait recommander Épictète ?
 
 ---
 <!-- _class: cinema fp-->
-[![](https://i.pinimg.com/originals/a5/9e/4d/a59e4da1f5b31fdbf6238c6cebb921df.jpg)](https://drive.google.com/file/d/13HeeYKcGmw7T9hZnFranNOvxf79fsnb7/view)
+[![Affiche du film Detachment](https://i.pinimg.com/originals/a5/9e/4d/a59e4da1f5b31fdbf6238c6cebb921df.jpg)](https://drive.google.com/file/d/13HeeYKcGmw7T9hZnFranNOvxf79fsnb7/view)
 
 >« Henry Barthes est professeur remplaçant de littérature anglaise dans les lycées. […] Quand il arrive à son nouveau poste, il est immédiatement confronté à la violence environnante : le lycée est dans une zone difficile. Les enfants sont irrespectueux, agressifs. Henry ne s'émeut pas, il a une mission [à accomplir] » ([source](https://fr.wikipedia.org/wiki/Detachment))
 
 ---
 <!-- _class: citationC -->
-![bg left:42%](https://upload.wikimedia.org/wikipedia/commons/9/90/Epictetus.jpg)
+![Dessin représentant Épictète bg left:42%](https://upload.wikimedia.org/wikipedia/commons/9/90/Epictetus.jpg)
 
 >« Devant tout ce qui t'arrive, pense à rentrer en toi-même et cherche quelle faculté tu possèdes pour y faire face. […] En t'exerçant ainsi tu ne seras plus le jouet de tes représentations »
 >>**Épictète**, _Manuel_
@@ -306,7 +330,7 @@ ul li{text-align:justify!important; margin-left:30px!important; margin-right:30p
 ---
 <!-- _class: cinema fmmmm-->
 
-[![](https://fr.web.img3.acsta.net/medias/nmedia/18/72/82/16/19187639.jpg)](https://drive.google.com/file/d/12mCc9CNQtZjqS9q86sBFT5gQlULTovaJ/view)
+[![Affiche du film Invictus](https://fr.web.img3.acsta.net/medias/nmedia/18/72/82/16/19187639.jpg)](https://drive.google.com/file/d/12mCc9CNQtZjqS9q86sBFT5gQlULTovaJ/view)
 
 >« _Invictus_ est un poème écrit par William Ernest Henley (1849-1903), qui témoigne de son long combat contre la douleur et la maladie. En raison d’une tuberculose osseuse déclarée à l’âge de 12 ans, Henley doit subir l’amputation de sa jambe gauche entre 1868 et 1869, puis luttera de nombreuses années pour sauver sa deuxième jambe. […] Après la fin de l’apartheid en Afrique du Sud, le poème devient indissociable de Nelson Mandela. On apprend en effet que _Invictus_ est son poème préféré, et qui l’a inspiré et soutenu dans les moments les plus noirs de ses 27 années de captivité. » ([source](https://deniscougot.wordpress.com/le-poeme-invictus/)
 
