@@ -79,6 +79,8 @@ Il ne s'agit pas de faire une critique moraliste des plaisirs et de défendre un
 - **Une critique moraliste des plaisirs** consisterait à considérer les plaisirs comme des tentations mauvaises qui nous conduisent au vice.
 - **L'ascétisme** désigne le fait de renoncer à certains plaisirs, voire de s'imposer certaines souffrances en vue d'un idéal supérieur.
 
+<!-- Exemples :  abstinence sexuelle, pratiques de mortification du corps, histoire d'Origène qui se serait lui-même castré -->
+
 ---
 <!-- _class: citationC -->
 
@@ -180,16 +182,31 @@ Vous pouvez consulter ce [schéma pour comprendre ce que dit l'épicurisme à pr
 >>**Épicure**, _Lettre à Ménécée_
 
 ---
-<!-- _class: i1t0 pp -->
-
-![Schéma sur les désirs vains selon Épicure](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/epicurisme-desirs-vains2.svg)
-
----
 <!-- _class: cinema -->
 
 [![Affiche du film Scarface](images/scarface.png)](https://video.link/w/qwplb)
 
 > « Antonio “Tony” Montana (Al Pacino) […] est un petit malfrat cubain qui migre vers Miami dans l'espoir de faire fortune. Il trouve au départ un petit boulot dans une baraque à frites de Miami. Mais travailler pour quelques dollars ne correspond pas à l'idée qu'il se fait du « rêve américain ». Il se fait alors embaucher par un malfrat local puis par Frank Lopez, son patron]. […] Tony apprend vite le métier de mafioso de la drogue : il monte en grade […] Il a les dents beaucoup plus longues que ses collègues, il est mégalomane, ambitieux et d'une intelligence plus perverse. Il prend pour adage : _The World is Yours_ (Le monde est à toi) [...] Mais il commence à faire des erreurs dans ce monde qui ne pardonne pas, où l'on est vite remplacé. Il prend conscience que d'être arrivé au sommet de la mafia ne le rend pas aussi heureux qu'il l'avait espéré, qu'il n'est pas capable de rendre heureuses les personnes qu'il aime&nbsp;» (source : [wikipedia](https://fr.wikipedia.org/wiki/American_History_X))
+
+---
+<!-- _class: i1t0 pp -->
+
+![Schéma sur les désirs vains selon Épicure](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/epicurisme-desirs-vains2.svg)
+
+<!-- Discuter le cas du désir de pouvoir, le cas du désir amoureux -->
+
+---
+<!-- _class:  -->
+Il faut renoncer aux désirs vains qui nous empêchent de jouir du simple plaisir d'exister.
+
+Les désirs qui ne sont pas vains, mais ancrés dans notre nature, ne doivent pas pour autant être satisfaits sans examen.
+
+---
+<!-- _class: cinema fmmm -->
+
+[![Affiche du film Shame](https://fr.web.img3.acsta.net/medias/nmedia/18/81/98/98/19841064.jpg)](https://safeYouTube.net/w/kw1ib)
+
+>« Michael Fassbender se mue ici en cadre supérieur new yorkais à la vie très cloisonnée, incapable de vivre sa sexualité autrement que par le recours à la pornographie, à la prostitution, aux rencontres sans lendemain. [...] Steve McQueen dessine le portrait d’un homme perdu, esclave de ses démons. Captant un monde quadrillé à l’extrême (rues, façades de verre, bureaux, écrans…), jouant sur le paradoxe d’une infranchissable transparence, le réalisateur explore les méandres d’une solitude très contemporaine. » ([source](http://www.la-croix.com/Culture-Loisirs/Culture/Cinema/Shame-l-infranchissable-mur-de-la-vraie-rencontre-_EG_-2011-12-06-744235))
 
 ---
 <!-- _class: citationC fpppp -->
@@ -200,11 +217,13 @@ Vous pouvez consulter ce [schéma pour comprendre ce que dit l'épicurisme à pr
 >>**Épicure**, _Lettre à Ménécée_
 
 ---
-<!-- _class: cinema fmmm -->
+<!-- _class:  -->
+L'hédonisme d'Épicure est donc bien un hédonisme de la mesure qui se méfie de ce qu'il peut y avoir d'illimité dans nos désirs.
 
-[![Affiche du film Shame](https://fr.web.img3.acsta.net/medias/nmedia/18/81/98/98/19841064.jpg)](https://safeYouTube.net/w/kw1ib)
+La nature fonctionne ici comme un modèle de cette mesure à trouver : il faudrait savoir revenir à ce qu'il y a d'essentiel pour nous, en tant qu'êtres vivants et en tant qu'êtres humains.
 
->« Michael Fassbender se mue ici en cadre supérieur new yorkais à la vie très cloisonnée, incapable de vivre sa sexualité autrement que par le recours à la pornographie, à la prostitution, aux rencontres sans lendemain. [...] Steve McQueen dessine le portrait d’un homme perdu, esclave de ses démons. Captant un monde quadrillé à l’extrême (rues, façades de verre, bureaux, écrans…), jouant sur le paradoxe d’une infranchissable transparence, le réalisateur explore les méandres d’une solitude très contemporaine. » ([source](http://www.la-croix.com/Culture-Loisirs/Culture/Cinema/Shame-l-infranchissable-mur-de-la-vraie-rencontre-_EG_-2011-12-06-744235))
+<!-- Mais : y a-t-il une nature humaine universelle ? La nature peut-elle être un modèle qui fixe des normes à notre existence ? -->
+
 
 ---
 <!-- _class: entete approfondissement -->
@@ -213,7 +232,6 @@ Vous pouvez consulter ce [schéma pour comprendre ce que dit l'épicurisme à pr
 On retrouve parfois une référence à Épicure dans certains mouvements contemporains autour des thèmes de la simplicité volontaire, de la décroissance ou de la sobriété heureuse.
 
 1. Lire un [document à propos de la simplicité volontaire](https://docs.google.com/document/d/1bj-Z10wRiGp6H8erRwLmp8BmHtYTJgWaLBc3HalJT_A/edit?usp=sharing) afin de voir quelle comparaison on peut faire entre l'épicurisme et ce mouvement
-
 
 ---
 <!-- _class: etape -->
