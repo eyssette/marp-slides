@@ -231,7 +231,7 @@ La nature fonctionne ici comme un modèle de cette mesure à trouver : il faudra
 
 On retrouve parfois une référence à Épicure dans certains mouvements contemporains autour des thèmes de la simplicité volontaire, de la décroissance ou de la sobriété heureuse.
 
-1. Lire un [document à propos de la simplicité volontaire](https://docs.google.com/document/d/1bj-Z10wRiGp6H8erRwLmp8BmHtYTJgWaLBc3HalJT_A/edit?usp=sharing) afin de voir quelle comparaison on peut faire entre l'épicurisme et ce mouvement
+Vous pouvez lire un [document à propos de la simplicité volontaire](https://docs.google.com/document/d/1bj-Z10wRiGp6H8erRwLmp8BmHtYTJgWaLBc3HalJT_A/edit?usp=sharing) afin de voir quelle comparaison on peut faire entre l'épicurisme et ce mouvement
 
 ---
 <!-- _class: etape -->

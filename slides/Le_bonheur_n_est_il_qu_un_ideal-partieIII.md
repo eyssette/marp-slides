@@ -7,10 +7,10 @@ size: 4:3
 
 <!-- _class: partie -->
 <style scoped>
-h1 {font-size:130%; padding-left:30px; padding-right:30px}
+h1 {font-size:160%; padding-left:10px; padding-right:10px}
 </style>
 
-# III – Le bonheur est possible, mais la vie heureuse ne se définit pas simplement par le plaisir d'exister et l'acceptation de ce qui ne dépend pas de nous 
+# III – Le bonheur est possible, mais ne se définit pas simplement par le plaisir d'exister et l'acceptation du réel 
 Troisième partie
 
 ---
@@ -24,6 +24,8 @@ Troisième partie
 h2{font-size:160%}
 </style>
 ## A. Le simple plaisir d'exister ne suffit pas
+
+L'objectif ici est de répondre à l'argument d'Épicure
 
 ---
 <!-- _class: definition pm -->
@@ -89,7 +91,16 @@ span{font-variant-caps: small-caps;}
 ---
 <!-- _class: i1t0 pp -->
 
-![](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/perfectionnisme-moral.svg)
+![](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/perfectionnisme.svg)
+
+
+---
+<!-- _class: fppppp -->
+
+Il y a deux interprétations possibles de l'éthique du perfectionnisme : 
+
+1. Soit on la conçoit comme une critique même de l'idéal du bonheur : le bonheur ne serait pas la seule valeur importante dans l'existence.
+2. Soit on la conçoit comme une réinterprétation de l'idéal du bonheur : le bonheur n'est pas un idéal de satisfaction, mais l'idéal d'une vie accomplie et pleine de sens.
 
 ---
 <!-- _class: qcm fpp-->
@@ -100,4 +111,62 @@ D'après l'éthique du perfectionnisme :
 - Le bonheur est-il le bien suprême ?
 - Le bonheur a-t-il un prix ?
 - Le désir est-il la marque de notre imperfection ?
-- Faut-il préférer le bonheur à la liberté ?
+- Sommes-nous condamnés à la souffrance ?
+
+---
+<!-- _class: souspartie -->
+<style scoped>
+p{font-size:130%;}
+</style>
+## B. L'acceptation du réel ne suffit pas
+L'objectif ici est de répondre à l'argument d'Épictète
+
+---
+<!-- _class: citationC fppppppp -->
+
+![bg left:42%](https://upload.wikimedia.org/wikipedia/commons/9/9d/Henri_Bergson_02.jpg)
+
+>« L’effort est pénible, mais il est aussi précieux […] parce que, grâce à lui, on a tiré de soi plus qu’il n’y avait, on s’est haussé au-dessus de soi-même. […] [P]lus riche est la création, plus profonde est la joie »
+>>Henri **Bergson**, _L’Énergie spirituelle_, « La conscience et la vie »
+
+---
+<!-- _class: citationC fpppp-->
+
+![bg left:42%](https://upload.wikimedia.org/wikipedia/commons/9/9d/Henri_Bergson_02.jpg)
+
+>« [L]a vie humaine a sa raison d’être dans […] la création de soi par soi, l’agrandissement de la personnalité par un effort qui tire beaucoup de peu, quelque chose de rien, et ajoute sans cesse à ce qu’il y avait de richesse dans le monde »
+>>Henri **Bergson**, _L’Énergie spirituelle_, « La conscience et la vie »
+
+---
+<!-- _class: exercice tableau fmmmm colonnes -->
+<style scoped>
+table {font-size:95%;}
+table td {font-size:85%;}
+</style>
+
+|L'idéal <br>d'acceptation du réel|L'idéal <br>d'inscription dans le réel|
+|:-:|:-:|
+|?|?|
+|?|?|
+|?|?|
+
+1. Repose sur une conception positive du désir : le désir est une énergie vitale, une force de transformation de soi et du monde
+2. Le but est de retrouver la joie d'une vie intense et profonde
+3. Il s'agit de se dépasser, porté par un élan créateur qui conduit à se transcender
+4. Le but est de retrouver la sérénité d'une vie contrôlée par la raison
+5. Il s'agit de ne pas se laisser dépasser par ce qui nous arrive
+6. Repose sur une conception négative du désir : le désir est un manque qui nous fait espérer ce qui n'est pas
+
+
+---
+<!-- _class: exercice tableau-r fmmmm -->
+<style scoped>
+table{padding:50px!important;}
+table td{padding:0px}
+</style>
+
+|L'idéal d'acceptation du réel|L'idéal d'inscription dans le réel|
+|:-:|:-:|
+|_6_ Repose sur une conception négative du désir : le désir est un manque qui nous fait espérer ce qui n'est pas|_1_ Repose sur une conception positive du désir : le désir est une énergie vitale, une force de transformation de soi et du monde|
+|_5_ Il s'agit de ne pas se laisser dépasser par ce qui nous arrive|_3_ Il s'agit de se dépasser, porté par un élan créateur qui conduit à se transcender|
+|_4_ Le but est de retrouver la sérénité d'une vie contrôlée par la raison|_2_ Le but est de retrouver<br/> la joie d'une vie <br/>intense et profonde|
