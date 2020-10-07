@@ -28,6 +28,10 @@ h2{font-size:160%}
 L'objectif ici est de répondre à l'argument d'Épicure
 
 ---
+<!-- _class: etape -->
+### 1/ Quelques expériences de pensée
+
+---
 <!-- _class: definition pm -->
 ### Définition
 Une **expérience de pensée** est une situation concrète (issue d'un livre, d'un film, de son imagination) dans laquelle il y a un choix à faire.
@@ -69,6 +73,9 @@ img{height:600px;}
 
 ![](https://c.pxhere.com/photos/9b/05/children_beach_playing_sand_people_person_child_happy-846021.jpg!d)
 
+---
+<!-- _class: etape -->
+### 2/ Une référence : J.S. Mill
 
 ---
 <!-- _class: citationC -->
@@ -121,13 +128,10 @@ p{font-size:130%;}
 ## B. L'acceptation du réel ne suffit pas
 L'objectif ici est de répondre à l'argument d'Épictète
 
+
 ---
-<!-- _class: citationC fppppppp -->
-
-![bg left:42%](https://upload.wikimedia.org/wikipedia/commons/9/9d/Henri_Bergson_02.jpg)
-
->« L’effort est pénible, mais il est aussi précieux […] parce que, grâce à lui, on a tiré de soi plus qu’il n’y avait, on s’est haussé au-dessus de soi-même. […] [P]lus riche est la création, plus profonde est la joie »
->>Henri **Bergson**, _L’Énergie spirituelle_, « La conscience et la vie »
+<!-- _class: etape -->
+### 1/ Bergson : Il faut chercher l'inscription dans le réel, plutôt que la simple acceptation du réel
 
 ---
 <!-- _class: citationC fpppp-->
@@ -170,3 +174,39 @@ table td{padding:0px}
 |_6_ Repose sur une conception négative du désir : le désir est un manque qui nous fait espérer ce qui n'est pas|_1_ Repose sur une conception positive du désir : le désir est une énergie vitale, une force de transformation de soi et du monde|
 |_5_ Il s'agit de ne pas se laisser dépasser par ce qui nous arrive|_3_ Il s'agit de se dépasser, porté par un élan créateur qui conduit à se transcender|
 |_4_ Le but est de retrouver la sérénité d'une vie contrôlée par la raison|_2_ Le but est de retrouver<br/> la joie d'une vie <br/>intense et profonde|
+
+
+---
+<!-- _class: etape -->
+### 2/ Bergson : l'inscription dans le réel est source de joie
+
+---
+<!-- _class: citationC fppppppp -->
+
+![bg left:42%](https://upload.wikimedia.org/wikipedia/commons/9/9d/Henri_Bergson_02.jpg)
+
+>« Je dis la joie, je ne dis pas le plaisir. […] [Le plaisir] n’indique pas la direction où la vie est lancée. Mais la joie annonce toujours que la vie a réussi […] : toute grande joie a un accent triomphal. »
+>>Henri **Bergson**, _L’Énergie spirituelle_, « La conscience et la vie »
+
+---
+<!-- _class: fpppppppp -->
+
+La joie est un sentiment plus profond que le plaisir, qui est simplement relatif à un instant particulier et à un fait isolé :
+
+<div class="puces">
+
+- La joie exprime un accord avec soi-même, une approbation de la direction que prend son existence.
+- La joie exprime aussi un accord entre soi et le monde, une confiance en la réussite des efforts dans lesquels nous sommes engagés.
+</div>
+
+---
+<!-- _class: qcm fpp-->
+
+D'après Bergson : 
+
+- Une vie heureuse n’est-elle qu’une succession de plaisirs ? 
+- Le bonheur consiste-t-il à ne plus rien désirer ? 
+- Le bonheur peut-il se trouver dans le travail ?
+- Le bonheur doit-il quelque chose à la chance ?
+- Peut-on être heureux dans la solitude ?
+- La recherche du bonheur est-elle une quête égoïste ?
