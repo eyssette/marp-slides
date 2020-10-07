@@ -69,7 +69,7 @@ h4{text-align:center; margin-left:10px; margin-right:10px}
 p{margin-left:10px; margin-right:10px}
 img{height:600px;}
 </style>
-#### Expérience de pensée n°3 : devenir un enfant<!-- fit -->
+#### Expérience de pensée n°3 : redevenir un enfant<!-- fit -->
 
 ![](https://c.pxhere.com/photos/9b/05/children_beach_playing_sand_people_person_child_happy-846021.jpg!d)
 
