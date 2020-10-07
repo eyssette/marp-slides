@@ -10,7 +10,8 @@ size: 4:3
 h1{font-size:155%!important; padding-left:15px; padding-right:15px;}
 </style>
 # I - Nous sommes à première vue capables de faire des choix libres : ce n'est pas une illusion
-
+Première partie
+    
 ---
 <!-- _class: pointmethode  -->
 ### Point méthode
@@ -124,7 +125,7 @@ ul {font-size:38px;}
 </style>
 - Une personne qui agit de manière impulsive agit&#8209;elle volontairement ?
 
-![](https://lh3.googleusercontent.com/proxy/7TL5f-SjyTOpvcO2f9Eo39i_S-mJyGQgNlMuwiFNs3gpVuaCA9Na0UWfVUUpmP5U5Fb-84jyrAKKtSkxPZdZwbobuhoeu3ck2e-g3gfmagSaOfcXPU0lRENLF_FMmQ5O21bCL74wc3S_Bf0Wqoe-eUA1Z-2qN-kUgZ0mH6hj__YVNdcYCo7tmPBzQbo)
+![](http://www.babelmed.net/media/articles/fr/old/stories/articoli/cultura-e-societa/Mediterraneo/2014/zida_545_mate.jpg)
 
 ---
 <!-- _class: exercice application fmm -->
