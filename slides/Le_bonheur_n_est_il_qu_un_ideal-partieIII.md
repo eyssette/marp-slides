@@ -210,3 +210,13 @@ D'après Bergson :
 - Le bonheur doit-il quelque chose à la chance ?
 - Peut-on être heureux dans la solitude ?
 - La recherche du bonheur est-elle une quête égoïste ?
+
+---
+<!-- _class: entete lecture  -->
+
+### Travail sur le dossier de textes
+
+Fin du travail sur le dossier de textes ([lien vers le dossier](https://docs.google.com/document/d/1AOfjfy8-FKafXS_nNqscgNRvQkOb0iJSZdO2bjCU8RE/edit?usp=sharing)).
+
+- Revoir rapidement l'ensemble des thèses envisagées dans le dossier
+- Répondre par écrit à la question générale : quelle est la position qui vous semble la plus convaincante ? Pourquoi ?

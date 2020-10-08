@@ -389,3 +389,13 @@ p{text-align:justify; margin-left:60px; margin-right:60px; font-size:80%;}
 </style>
 ## Fin de partie
 Si nous ne faisons pas résider le bonheur dans des biens extérieurs à acquérir, mais plutôt dans un changement intérieur d'attitude, alors le bonheur semble possible et il n'est pas qu'un idéal. Mais le simple plaisir d'exister et l'acceptation de ce qui ne dépend pas de nous sont-ils vraiment suffisants ? Ne faut-il pas chercher ailleurs les conditions d'un réel bonheur ?
+
+---
+<!-- _class: entete lecture  -->
+
+### Travail sur le dossier de textes
+
+Suite du travail sur le dossier de textes, afin de préparer la troisième partie du cours.
+
+- Relire les textes 6 et 7 ([lien vers le dossier](https://docs.google.com/document/d/1AOfjfy8-FKafXS_nNqscgNRvQkOb0iJSZdO2bjCU8RE/edit?usp=sharing))
+- Répondre par écrit aux questions 6 et 7
