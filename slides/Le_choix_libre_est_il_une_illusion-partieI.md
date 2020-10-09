@@ -1,5 +1,5 @@
 ---
-marp: false
+marp: true
 theme: teaching
 paginate: true
 size: 4:3
@@ -11,7 +11,7 @@ h1{font-size:155%!important; padding-left:15px; padding-right:15px;}
 </style>
 # I - Nous sommes à première vue capables de faire des choix libres : ce n'est pas une illusion
 Première partie
-    
+
 ---
 <!-- _class: pointmethode  -->
 ### Point méthode
@@ -136,7 +136,7 @@ span {font-size:90%}
 
 ### Exercice d'argumentation et de mobilisation de sa culture
 
-- Choisir un des sujets suivants, et rédiger un paragraphe <span>(150 mots minimum)</span> avec une réponse claire et un argument qui mobilise le cours sur Aristote, en utilisant le modèle _ARES_ :
+- Choisir un des sujets suivants, et défendre _une_ réponse <span>(150 mots minimum)</span> avec la structure _ARES_ et Aristote comme référence.
   - L’idée d’une liberté totale a-t-elle un sens ? 
   - Un être humain est-il responsable de tout ce qu'il fait ?
   - Suis-je l’esclave de mes désirs ?
@@ -151,7 +151,7 @@ img {height:300px; float:left; margin-right:80px; margin-left:35px; margin-top:2
 </style>
 ### Point méthode
 
-Pour structurer un paragraphe, on peut utiliser le modèle **ARES** :
+Pour structurer un paragraphe, on utilise le modèle **ARES** :
 ![Dessin qui représente le dieu de la guerre Arès](images/ares-greek-god.jpg)
 –  A : Argument
 –  R : Référence théorique
@@ -176,16 +176,113 @@ Pour structurer un paragraphe, on peut utiliser le modèle **ARES** :
 >>**Thomas d'Aquin**, _Somme théologique_, I, question 83, réponse
 
 ---
+<!-- _class: i1t1 pp vertical -->
+<style scoped>
+ul{font-size:100%; margin-top:-10px!important}
+img{height:550px}
+</style>
+- Pourquoi les procès d'animaux au Moyen-Âge nous semblent-ils absurdes ?
+
+[![](https://upload.wikimedia.org/wikipedia/commons/6/65/Trial_of_a_sow_and_pigs_at_Lavegny.png)](http://eyssette.net/docs/2007_2008/2_proces_animaux.pdf)
+
+---
 <!-- _class: etape -->
 ### 2/ Thomas d'Aquin : un être humain se distingue d'une pierre et d'un animal
 
 ---
-<!-- _class: citationC f-->
+<!-- _class: citationC fm-->
 
-![bg left:46%](https://i.ibb.co/N9YSh7P/thomas-d-aquin.png)
+![bg left:43%](https://i.ibb.co/N9YSh7P/thomas-d-aquin.png)
 
->« Pour établir la preuve de la liberté, considérons d’abord que certains êtres agissent sans aucun jugement, comme la pierre qui tombe vers le bas […] D’autres êtres agissent d’après un certain jugement, mais qui n’est pas libre. Ainsi les animaux telle la brebis qui, voyant le loup, juge qu’il faut le fuir […] par un instinct naturel »
->>**Thomas d'Aquin**, _Somme théologique_, I, question 83, réponse [+](https://docs.google.com/presentation/d/e/2PACX-1vQ5TVtg3e8YN3ekulp4bwxWFuqEkMclAVMcSRvfNbJ0Xqa0s3-au8XE2TkdN6eEvGPkkfoGYLs3Zzp0/pub?start=false&loop=false&delayms=60000&slide=id.g6c7d747ed9_0_13)
+>« Pour établir la preuve de la liberté, considérons d’abord que certains êtres agissent sans aucun jugement, comme la pierre qui tombe vers le bas […] D’autres êtres agissent d’après un certain jugement, mais qui n’est pas libre. Ainsi les animaux telle la brebis qui, voyant le loup, juge qu’il faut le fuir […] par un instinct naturel. […] Mais l’homme agit d'après […] un rapprochement de données opéré par la raison. »
+>>**Thomas d'Aquin**, _Somme théologique_, I, question 83, réponse
+
+---
+<!-- _class: i1t1 pp -->
+<style scoped>
+p:nth-child(1){font-size:80%; padding:0; margin-top:-20px!important;}
+p:nth-child(2){padding:0}
+img{height:550px; }
+</style>
+
+Exemple 1 : le roulement des œufs chez l'oie cendrée
+
+[![](http://s-f-walker.org.uk/2007intranet/1stwk/egg-rolling.jpg)](https://video.link/w/Ej9mb)
+
+---
+<!-- _class: i1t1 pp -->
+<style scoped>
+p:nth-child(1){font-size:100%; text-align:center; padding:0; margin-top:-20px!important;}
+p:nth-child(2){padding:0}
+img{height:550px; }
+</style>
+
+Exemple 2 : l'agressivité de l’épinoche
+
+[![](https://d3i71xaburhd42.cloudfront.net/d86bff1da55b229581a0c1b0f96ce8a5f86b71db/2-Figure1-1.png)](https://video.link/w/Nj9mb)
+
+---
+<!-- _class: exercice tableau colonnes fmm-->
+<style scoped>
+td {font-size:80%}
+</style>
+
+|Agir par instinct|Agir après réflexion|
+|:-:|:-:|
+|?|?|
+|?|?|
+|?|?|
+
+1. Point de départ : une situation qui est analysée et examinée
+2. Conséquence : un comportement flexible et inventif …
+3. Point de départ : un stimulus qui déclenche immédiatement une réaction
+4. Conséquence : un mécanisme rigide et automatique … 
+5. … qui est toujours le même pour tous les individus de la même espèce
+6. … qui peut être différent selon l'individu et la situation
+
+---
+<!-- _class: exercice tableau-r fm-->
+
+|Agir par instinct|Agir après réflexion|
+|:-:|:-:|
+|_3_ Point de départ : un stimulus qui déclenche immédiatement une réaction|_1_ Point de départ : une situation qui est analysée et examinée|
+|_4_ Conséquence : un mécanisme rigide et automatique … |_2_ Conséquence : un comportement flexible et inventif …|
+|_5_… qui est toujours le même pour tous les individus de la même espèce|_6_ … qui peut être différent selon l'individu et la situation|
+
+---
+<!-- _class: i1t1 pp -->
+<style scoped>
+p{margin:0; text-align:center;}
+p:nth-child(1){margin-bottom:30px}
+img{height:580px}
+</style>
+Une différence de degré et non de nature ?
+
+[![](https://upload.wikimedia.org/wikipedia/commons/3/33/Jumping-spider.jpg)](https://video.link/w/Tx9mb)
+
+---
+<!-- _class: citationC fmm-->
+
+![bg left:38%](https://i.ibb.co/N9YSh7P/thomas-d-aquin.png)
+
+>«[C]’est pourquoi l’homme agit selon un jugement libre, car il a la faculté de se porter à divers objets. En effet, dans le domaine du contingent, la raison peut suivre des directions opposées, comme on le voit dans les syllogismes dialectiques et les arguments de la rhétorique. Or, les actions particulières sont contingentes ; par suite le jugement rationnel qui porte sur elles peut aller dans un sens ou dans l’autre, et n’est pas déterminé à une seule chose. En conséquence, il est nécessaire que l’homme ait le libre arbitre, par le fait même qu’il est doué de raison. »
+>>**Thomas d'Aquin**, _Somme théologique_, I, question 83, réponse
+
+---
+<!-- _class: definition -->
+
+### Définition
+
+- Un **syllogisme dialectique** est un argument qui laisse une place au dialogue, car il n'est pas une démonstration dont la conclusion est nécessairement vraie.
+
+
+---
+<!-- _class: definition fppppppppp -->
+
+### Définition
+
+- Ce qui est **nécessaire**, c'est ce qui ne peut pas être autrement, c'est ce dont le contraire est impossible
+- Ce qui est **contingent**, c'est ce qui pourrait être autrement, c'est ce dont le contraire est possible
 
 ---
 <!-- _class: souspartie pm fppppppppp-->
