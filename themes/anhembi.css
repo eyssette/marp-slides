@@ -1,0 +1,148 @@
+/* @theme anhembi */
+@import url("https://fonts.googleapis.com/css2?family=Sora:wght@477&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,400;0,700;1,400;1,700&display=swap");
+@import url("https://unpkg.com/tailwindcss@^1.0/dist/tailwind.min.css");
+@import-theme 'default';
+section {
+  font-family: 'Montserrat',
+ sans-serif;
+}
+
+section:before {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background: #00ac8d;
+  height: 8px;
+  display: block;
+  width: 100%;
+  content: '';
+}
+
+section h1,
+section h2,
+section h3,
+section h4,
+section h5,
+section h6 {
+  font-family: 'Sora', sans-serif;
+}
+
+section h1 {
+  color: #00ac8d;
+}
+
+section header {
+  font-size: 20px;
+}
+
+section.center * {
+  text-align: center;
+}
+
+section.lead {
+  background-color: #00ac8d;
+  color: white;
+}
+
+section.lead * {
+  color: white;
+  font-weight: bold;
+  text-align: center;
+}
+
+section.lead header,
+section.lead footer {
+  display: none;
+}
+
+section.lead::after {
+  color: white;
+}
+
+section.first {
+  background-image: url(https://raw.githubusercontent.com/mcf1110/marp-themes/master/anhembi/img/big-logo.svg);
+  background-size: 525px;
+  background-repeat: no-repeat;
+  background-position: 123% center;
+}
+
+section.first h1 {
+  max-width: 85%;
+}
+
+section.first h3 {
+  margin-top: 0;
+  font-size: 1rem;
+}
+
+section.first header {
+  font-size: 0;
+  height: 70px;
+  width: 300px;
+  background-image: url(https://raw.githubusercontent.com/mcf1110/marp-themes/master/anhembi/img/logo.svg);
+  background-repeat: no-repeat;
+}
+
+section.first:after {
+  display: none;
+}
+
+section.cols ul,
+section.cols ol {
+  display: -ms-grid;
+  display: grid;
+  grid: auto / 1fr 1fr;
+  grid-gap: .25rem 3rem;
+}
+
+section.cols ul li,
+section.cols ol li {
+  margin: 0 !important;
+}
+
+section code.language-bash {
+  background: #111;
+  color: white;
+  display: block;
+  margin: -1em;
+  padding: 1em;
+  border-top: 1em solid #BBB;
+  border-radius: 1em;
+  position: relative;
+  -webkit-box-shadow: 0 0.25em 1rem rgba(0, 0, 0, 0.4);
+          box-shadow: 0 0.25em 1rem rgba(0, 0, 0, 0.4);
+}
+
+section code.language-bash:after {
+  background: red;
+  width: .75em;
+  height: .75em;
+  content: '';
+  display: block;
+  position: absolute;
+  right: .5em;
+  top: -.8em;
+  border-radius: 50%;
+}
+
+section img.emoji {
+  display: inline-block;
+}
+
+section .katex * {
+  border-color: black;
+}
+
+section ul {
+  list-style: disc;
+}
+
+section ol {
+  list-style: decimal;
+}
+
+section ol ol {
+  list-style: lower-alpha !important;
+}
+/*# sourceMappingURL=theme.css.map */
