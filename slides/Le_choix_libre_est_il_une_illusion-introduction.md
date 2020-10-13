@@ -1,5 +1,5 @@
 ---
-marp: true
+marp: false
 theme: teaching
 paginate: true
 size: 4:3
@@ -347,7 +347,7 @@ span{font-size:90%;}
 A. On peut distinguer les actes volontaires et les actes involontaires
 B. Notre capacité de penser nous permet d'envisager plusieurs possibilités
 
-**II – Mais nos choix ne sont-ils pas déterminés par des causes que nous ne maîtrisons pas ?**
+**II – Nos choix semblent en fait déterminés par des causes que nous ne maîtrisons pas**
 
 A. Il est possible que la source de mes actes se trouve dans des facteurs dont je n'ai pas conscience
 B. Les sciences humaines semblent montrer que nos choix sont déterminés par différents types de facteurs

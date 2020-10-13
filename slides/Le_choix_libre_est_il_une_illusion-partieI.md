@@ -284,15 +284,29 @@ Une différence de degré et non de nature ?
 - Ce qui est **nécessaire**, c'est ce qui ne peut pas être autrement, c'est ce dont le contraire est impossible
 - Ce qui est **contingent**, c'est ce qui pourrait être autrement, c'est ce dont le contraire est possible
 
+
+---
+<!-- _class: i1t1 pp -->
+<style scoped>
+p:nth-child(1){font-size:99%; padding:0; text-align:center; padding-bottom:30px;}
+p:nth-child(2){padding:0 ; margin:0;}
+img{width:960px;}
+</style>
+
+Vincent Bierrewaerts, _Le portefeuille_ (2003)
+
+[![](https://www.transmettrelecinema.com/wp-content/uploads/2013/06/f_309.jpg)](https://www.youtube.com/watch?v=Gyu-jbf9o-s)
+
+
 ---
 <!-- _class: souspartie pm fppppppppp-->
 <style scoped>
 p {text-align:justify; margin:0px 70px}
-h2{font-size:150%;}
 </style>
-## Fin de partie
 
-texte
+#### Modèle pour une fin de partie
+
+Le choix libre ne semble pas être une illusion, étant donné qu'il existe des actions volontaires, et que nous sommes capables d'agir autrement après réflexion. Mais, ne peut-on pas douter de notre sentiment de liberté ? N'y a-t-il pas des facteurs qui déterminent nos choix ?
 
 ---
 <!-- _class: pointmethode fppppppp-->
