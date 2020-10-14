@@ -319,3 +319,13 @@ ol {padding-top:10px!important;}
 En fin de partie, on fait :
 1. Un bilan récapitulatif de ses arguments
 2. Une transition, sous la forme d'une question : on montre que ce n'est pas si simple
+
+---
+<!-- _class: entete lecture  -->
+
+### Travail sur un dossier de textes
+
+Suite du travail sur le dossier de textes pour préparer la deuxième partie
+
+- Lire les textes 4 5 et 6 ([lien vers le dossier](https://docs.google.com/document/d/1aq1ZNSFWUC6LkQMq-hnY0Wkvvi5_0N-YrQlzzAU2xtg/edit?usp=sharing))
+- Répondre par écrit aux questions 4, 5 et 6

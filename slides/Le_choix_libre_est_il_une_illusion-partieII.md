@@ -5,13 +5,36 @@ paginate: true
 size: 4:3
 ---
 
-<!-- _class: partie -->
+<!-- _class: partie pm -->
 <style scoped>
 h1{font-size:162%!important; padding-left:20px; padding-right:20px;}
 </style>
 
 # II – Nos choix semblent en fait déterminés par des causes que nous ne maîtrisons pas
 Deuxième partie
+
+---
+<!-- _class: pointmethode -->
+<style scoped>
+ol {margin-top:-40px!important; padding-top:30px;}
+</style>
+### Point méthode
+Pour chaque partie, on vérifie : 
+1. qu'on examine bien une réponse au sujet
+2. qu'on a bien un progrès par rapport à ce qu'on a déjà fait
+
+---
+<!-- _class: pointmethode fmmm -->
+<style scoped>
+h3{margin-bottom:50px;}
+ol {margin-top:-40px!important; padding-top:25px; padding-bottom:22px}
+p{padding-top:22px}
+</style>
+### Point méthode
+Il y a trois manières de progresser d'une partie à une autre :
+1) **La réfutation** : on réfute (on critique) la partie précédente (on passe du _oui_ au _non_, ou du _non_ au _oui_) de manière totale ou partielle
+2) **L'amélioration** : on va dans le même sens général qu'une partie précédente (on garde le même type de réponse : _oui_ ou _non_), mais avec une meilleure idée, une meilleure argumentation
+3) **La réinterprétation** : on montre qu'il y a un autre sens possible du sujet, et on examine une autre réponse en fonction de cet autre sens
 
 
 
@@ -64,16 +87,33 @@ h2{font-size:130%;}
 ---
 <!-- _class: definition -->
 ### Définition
-Le **déterminisme** est l'idée que 
-
----
-<!-- _class:  -->
-- Peut-on parler de déterminisme dans le cas des choix des êtres humains ? 
-
+Le **déterminisme** est l'idée que ce qui arrive est déterminé par des causes antérieures
 
 ---
 <!-- _class: etape -->
 ### 1) Un déterminisme psychique ?
+
+---
+<!-- _class: i1t0 pp -->
+
+[![](https://images-na.ssl-images-amazon.com/images/I/71+GMwDclDL.jpg)](https://www.ted.com/talks/dan_ariely_are_we_in_control_of_our_own_decisions/transcript?language=fr#t-607233)
+
+---
+<!-- _class: i1t1 contain horizontal pp -->
+<style scoped>
+p:nth-child(1){margin-left:-20px!important; padding-left:0px;}
+p:nth-child(2){margin-right:30px; padding-right:20px!important; font-size:80%;}
+span{display:block; border:rgb(24, 33, 117) 3px solid; border-radius:40px; text-align:justify; padding:20px; margin-left:-20px!important;}
+span strong{
+    color: rgb(14, 23, 107);
+    font-weight:400;
+}
+</style>
+
+![](https://ec56229aec51f1baff1d-185c3068e22352c56024573e929788ff.ssl.cf1.rackcdn.com/attachments/large/0/9/1/000552091.jpg)
+
+**Définition**<br/>
+<span>Un **nudge** désigne une manière d'influencer les comportements qui ne fait appel ni à la violence (exercice direct de la force physique) ni à la contrainte (interdiction et menace de sanctions) mais repose sur la connaissance de la psychologie humaine. </span>
 
 ---
 <!-- _class: etape -->
