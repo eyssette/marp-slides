@@ -102,7 +102,7 @@ Le **déterminisme** est l'idée que ce qui arrive est déterminé par des cause
 <!-- _class: i1t1 contain horizontal pp -->
 <style scoped>
 p:nth-child(1){margin-left:-20px!important; padding-left:0px;}
-p:nth-child(2){margin-right:30px; padding-right:20px!important; font-size:80%;}
+p:nth-child(2){margin-right:30px; padding-right:20px!important; font-size:85%;}
 span{display:block; border:rgb(24, 33, 117) 3px solid; border-radius:40px; text-align:justify; padding:20px; margin-left:-20px!important;}
 span strong{
     color: rgb(14, 23, 107);
@@ -116,5 +116,42 @@ span strong{
 <span>Un **nudge** désigne une manière d'influencer les comportements qui ne fait appel ni à la violence (exercice direct de la force physique) ni à la contrainte (interdiction et menace de sanctions) mais repose sur la connaissance de la psychologie humaine. </span>
 
 ---
+<!-- _class: i1t0 pp -->
+
+![](images/nudges.jpg)
+
+---
 <!-- _class: etape -->
 ### 2) Un déterminisme social ?
+
+
+---
+<!-- _class: i1t1 pp vertical -->
+<style scoped>
+img{height:570px}
+p:nth-child(2){font-size:60%; padding:0; margin-top:-13px;}
+</style>
+
+[![](images/baisemains-et-mocassins.jpg)](https://www.dailymotion.com/video/x2kbvlx)
+
+Antoine Gallien, _Baisemains et mocassins_ (2005)<br/>Enquête de l'émission _Strip-tease_ sur la pratique<br/> des rallyes dans la haute bourgeoisie
+
+
+---
+<!-- _class: i1t1 pp horizontal -->
+<style scoped>
+p{text-align:justify!important; font-size:90%; }
+p:nth-child(1){margin-left:-20px!important; margin-right:20px!important;}
+p:nth-child(2){padding:0}
+</style>
+
+[![](https://fr.web.img6.acsta.net/medias/nmedia/18/35/18/16/18370240.jpg)](https://www.youtube.com/watch?v=Vl05QUPnHTc)
+
+Un groupe d'adolescents d'une cité HLM répète, pour leur cours de français, un passage de la pièce _Le Jeu de l'amour et du hasard_ de Marivaux.
+
+---
+<!-- _class: i1t0 pp -->
+
+[![](images/homogamie-sociale.png)](https://www.inegalites.fr/Couples-qui-se-ressemble-s-assemble)
+
+
