@@ -199,6 +199,8 @@ La joie est un sentiment plus profond que le plaisir, qui est simplement relatif
 - La joie exprime aussi un accord entre soi et le monde, une confiance en la réussite des efforts dans lesquels nous sommes engagés.
 </div>
 
+<!-- La joie : sentiment ancré en nous, davantage connecté à ce qui est essentiel pour nous, à ce qui a de la valeur, ce que nous jugeons important -->
+
 ---
 <!-- _class: qcm fpp-->
 
