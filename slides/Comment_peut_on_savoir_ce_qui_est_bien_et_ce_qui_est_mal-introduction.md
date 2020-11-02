@@ -218,7 +218,7 @@ Comment peut-on justifier objectivement la vérité des affirmations à propos d
 
 Dossier de textes sur la question : « Comment peut-on savoir ce qui est bien et ce qui est mal ? »
 
-- Lire une première fois tous les textes ([lien vers le dossier](https://docs.google.com/document/d/1LBKhPkUpoh9wdU4C4STyDQwv-vjxqGlgXucEFCCJi_U/edit?usp=sharing)) en lecture rapide
+- Lire une première fois tous les textes ([lien vers le dossier](https://docs.google.com/document/d/1Gjya-73UEwD8buIIFSlMX7n7vQFnjd7Vr1EoVA_nHPo/edit?usp=sharing)) en lecture rapide
 - Répondre par écrit, sur une feuille à part, aux questions 1 et 2
 
 ---
