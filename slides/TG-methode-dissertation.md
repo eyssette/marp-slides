@@ -7,12 +7,14 @@ size: 4:3
 
 <!-- _class: titre -->
 
+
 # Méthode de la dissertation en série générale
 Cédric Eyssette (2020-2021)
 http://eyssette.net
 
 ---
 <!-- _class: souspartie -->
+
 <style scoped>
 p{margin: 0 70px; text-align:justify!important}
 </style>
@@ -75,7 +77,6 @@ ol ul {font-size:97%; margin-right:0!important;}
 ol ul li{margin-bottom:0!important;}
 p{text-align:center;}
 </style>
-
 ### Trois principes pour le plan
 
 

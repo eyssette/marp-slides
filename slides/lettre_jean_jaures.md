@@ -5,19 +5,6 @@ paginate: true
 size: 4:3
 ---
 
-<!-- _class: titre -->
-
-# Hommage à <br/>Samuel Paty <!-- fit -->
-Lundi 2 novembre 2020
-
-
-
----
-<!-- _class: i1t0 pp -->
-
-[![](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/laicite-v2.svg)](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/laicite-v2.svg)
-
----
 <!-- _class: citationC fmmmmmm-->
 
 ![bg left:35% P](https://upload.wikimedia.org/wikipedia/commons/c/c3/Jean_Jaur%C3%A8s_%C3%A0_Montevideo_en_Uruguay_%281911%29.jpg)
