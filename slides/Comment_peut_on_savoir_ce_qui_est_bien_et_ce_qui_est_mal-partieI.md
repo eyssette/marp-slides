@@ -55,3 +55,10 @@ h2{font-size:130%;}
 </style>
 ## B. Le bien et le mal semblent être relatifs et varier selon chaque culture
 
+---
+<!-- _class: citationC fppppppppp-->
+
+![bg left:42% photographie de Lévi Strauss](https://lh3.googleusercontent.com/proxy/iQSg9c9zGSMW2Yt20d271aQD1ptlPkrgFHzmtejCLZ350gx2j_kYBMQXI5wJsHK0CXwFvAC1MgBLVRyS17BigJhOg7jixedTXrpqON9FN4cqiRJiphDnKacPNUI4N042wAdl)
+
+>« [D]ès notre naissance, l’entourage fait pénétrer en nous, par mille démarches conscientes et inconscientes, un système complexe de références consistant en jugements de valeur, motivations, centres d’intérêt »
+>>Claude **Lévi-Strauss**, _Race et histoire_
