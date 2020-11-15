@@ -210,6 +210,30 @@ Comment peut-on justifier objectivement la vérité des affirmations à propos d
 <!-- _class: souspartie -->
 ## C. Troisième étape du brouillon : trouver des idées
 
+---
+<!-- _class: pointmethode fppppppppp -->
+<style scoped>
+ol{padding-top:10px;}
+</style>
+### Rappel
+Pour trouver des idées :
+1. On réfléchit d'abord par soi-même au sujet et on explore la diversité des réponses possibles
+2. On utilise des connaissances philosophiques
+
+---
+<!-- _class: f -->
+<style scoped>
+h3{font-size:120%!important; text-align:center;}
+</style>
+
+### Retour au sujet : « Comment peut-on savoir ce qui est bien et ce qui est mal ? »
+
++ Qu'en pensez-vous ?
++ Comment peut-on défendre l'idée qu'il n'y a pas de vérités morales ?
++ Comment peut-on défendre l'idée qu'il y a des vérités morales ?
+   + Quelle forme de raisonnement pourrait permettre de savoir ce qui est bien et ce qui est mal ?
+   + Quelle forme d'expérience pourrait permettre de savoir ce qui est bien et ce qui est mal ?
+
 
 ---
 <!-- _class: entete lecture  -->
@@ -224,3 +248,32 @@ Dossier de textes sur la question : « Comment peut-on savoir ce qui est bien e
 ---
 <!-- _class: souspartie -->
 ## D. Quatrième étape du brouillon : organiser ses idées
+
+---
+<!-- _class: pointmethode  -->
+<style scoped>
+</style>
+### Rappel
+1. Une partie = examen d'une réponse au sujet
+2. Une sous-partie = un argument
+
+---
+<!-- _class: fmmmmmmm  -->
+
+**I – À première vue, il est impossible de savoir ce qui est bien et ce qui est mal**
+
+A. On ne peut pas prouver objectivement la vérité d'un jugement moral
+B. Le bien et le mal semblent être relatifs et varier selon chaque culture
+
+**II – Une connaissance morale est possible, fondée avant tout sur la sensibilité à la souffrance d'autrui**
+
+A. Les arguments contre la possibilité d'une connaissance morale sont critiquables
+B. La sensibilité à la souffrance d'autrui rend possible une première forme de connaissance morale
+
+**III – Pour savoir ce qui est bien et ce qui est mal, il faut réfléchir aux conséquences et aux principes de nos choix**
+
+A. Une réflexion sur les conséquences de nos choix est nécessaire
+B. Une réflexion sur les principes de nos choix est nécessaire
+
+
+
