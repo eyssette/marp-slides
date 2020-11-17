@@ -154,18 +154,27 @@ Pour masquer la réalité du meurtre d'êtres humains et écarter toute attitude
 La pratique du massacre emprunte des mots à des activités diverses  (la chasse, le travail, le nettoyage) pour banaliser l'atrocité et la faire disparaître derrière des notions positives comme la solidarité des chasseurs à la poursuite d'un gibier, le travail agricole de débroussaillage des collines, ou encore la notion de propreté lorsqu'il s'agit de « nettoyer un secteur ».
 
 ---
-<!-- _class: i2t1 fmmmmmmmmmmm pp-->
+<!-- _class: i2t1 pp-->
 <style scoped>
-p:nth-of-type(1) img {object-fit:fill;}
-p:nth-of-type(2) img {object-fit:fill; width:510px!important; margin-left:10px}
-p:nth-of-type(1) {width:380px!important; }
-p:nth-of-type(2) {width:510px!important; margin-left:10px}
+p:nth-of-type(1) img{object-fit:contain}
+p:nth-of-type(2) img{object-fit:fill}
 </style>
-
 ### L'expérience de Milgram
+
 [![Schéma de l'expérience de Milgram](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Milgram_experiment_v2.svg/1920px-Milgram_experiment_v2.svg.png)](https://drive.google.com/file/d/0B1WGm8LGlYXzVGI2aDhxaEszU1k/view)
 
-![Statistiques de l'expérience de Milgram selon les différentes variantes de l'expérience](http://labs.psychology.illinois.edu/~lyubansk/milgram9.gif)
+![Photographie de la machine utilisée pour envoyer les chocs électriques](https://i.ibb.co/bL3FLqM/milgram-buttons.jpg)
+
+
+---
+<!-- _class: pp -->
+<style scoped>
+h3 {font-size:90%; margin-bottom:20px}
+iframe {width:100%!important; margin:0!important; margin-left:30px!important; padding:0!important;}
+</style>
+### Les variantes de l'expérience de Milgram
+
+<iframe width="916" height="612" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vT64S9DrpXT_pYPP_NR3bobzG36shhSZ-kqWRJIkNVlhh2zeuf2essMPpHBd0ohomqR8786fKeunqeT/pubchart?oid=1624266486&amp;format=interactive"></iframe>
 
 ---
 <!-- _class: exercice application fmmmmm -->
