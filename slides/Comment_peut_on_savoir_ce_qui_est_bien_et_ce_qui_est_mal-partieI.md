@@ -14,6 +14,11 @@ Première partie
 
 
 ---
+<!-- _class: i1t0 pp -->
+
+![Deux arguments contre la possibilité d'une connaissance morale](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/2arguments-pas-de-connaissance-morale.svg)
+
+---
 <!-- _class: souspartie -->
 <style scoped>
 h2{font-size:135%;}
@@ -44,8 +49,8 @@ ol {margin-left:60px!important; margin-right:60px!important;}
 section:before{margin-bottom:20px!important}
 </style>
 
-1. Un jugement moral n'est que l'expression d'un sentiment que l'on ressent face à un acte ou une personne
-2. Un sentiment n'est pas l'expression d'un fait objectivement observable ou l'expression d'une vérité démontrable par un raisonnement
+1. Un jugement moral n'est que l'expression d'un sentiment que nous ressentons en nous
+2. Un sentiment n'est qu'une impression subjective, et non l'expression d'une propriété objective, observable dans le monde extérieur, ou démontrable par un raisonnement
 3. On ne peut pas prouver objectivement la vérité d'un jugement moral
 
 ---
@@ -74,6 +79,8 @@ C'est la thèse du relativisme moral culturel
 <!-- _class: i1t0 pp -->
 
 ![Schéma d'un argument](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/relativisme-moral-culturel-1.svg)
+
+<!-- Quels exemples peut-on donner de la relativité des croyances morales ?-->
 
 ---
 <!-- _class: etape -->
