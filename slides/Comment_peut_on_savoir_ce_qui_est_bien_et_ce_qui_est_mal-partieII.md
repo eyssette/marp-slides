@@ -170,7 +170,7 @@ p:nth-of-type(2) img{object-fit:fill}
 <!-- _class: pp -->
 <style scoped>
 h3 {font-size:90%; margin-bottom:20px}
-iframe {width:100%!important; margin:0!important; margin-left:30px!important; padding:0!important;}
+iframe {width:100%!important; margin:0!important; padding:0!important;}
 </style>
 ### Les variantes de l'expérience de Milgram
 
