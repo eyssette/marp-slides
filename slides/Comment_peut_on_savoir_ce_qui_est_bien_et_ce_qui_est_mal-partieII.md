@@ -174,7 +174,7 @@ iframe {width:100%!important; margin:0!important; padding:0!important;}
 </style>
 ### Les variantes de l'expérience de Milgram
 
-<iframe width="916" height="612" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vT64S9DrpXT_pYPP_NR3bobzG36shhSZ-kqWRJIkNVlhh2zeuf2essMPpHBd0ohomqR8786fKeunqeT/pubchart?oid=1624266486&amp;format=interactive"></iframe>
+<iframe width="883" height="612" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vT64S9DrpXT_pYPP_NR3bobzG36shhSZ-kqWRJIkNVlhh2zeuf2essMPpHBd0ohomqR8786fKeunqeT/pubchart?oid=1624266486&amp;format=interactive"></iframe>
 
 ---
 <!-- _class: exercice application fmmmmm -->
