@@ -169,12 +169,12 @@ p:nth-of-type(2) img{object-fit:fill}
 ---
 <!-- _class: pp -->
 <style scoped>
-h3 {font-size:90%; margin-bottom:20px}
-iframe {width:100%!important; margin:0!important; padding:0!important;}
+h3 {font-size:90%; margin-top:40px!important;}
+p {width:980px; margin:auto 0px; margin-top:-10px}
 </style>
 ### Les variantes de l'expérience de Milgram
 
-<iframe width="883" height="612" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vT64S9DrpXT_pYPP_NR3bobzG36shhSZ-kqWRJIkNVlhh2zeuf2essMPpHBd0ohomqR8786fKeunqeT/pubchart?oid=1624266486&amp;format=interactive"></iframe>
+[![](images/variantes-milgram.svg)](https://docs.google.com/spreadsheets/d/e/2PACX-1vT64S9DrpXT_pYPP_NR3bobzG36shhSZ-kqWRJIkNVlhh2zeuf2essMPpHBd0ohomqR8786fKeunqeT/pubchart?oid=1624266486&amp;format=interactive)
 
 ---
 <!-- _class: exercice application fmmmmm -->
