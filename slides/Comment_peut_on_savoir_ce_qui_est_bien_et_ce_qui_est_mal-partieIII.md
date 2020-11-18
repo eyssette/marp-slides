@@ -55,5 +55,34 @@ L'histoire du cochon Esther (_Esther the Wonder Pig_)
 [Exemples](https://docs.google.com/presentation/d/e/2PACX-1vTuUXnfd-Ty5yaZYy2zyPTdaZvew_rzX7hX9DlzVHrafDDfLrcJdMWyA4-5FMhKLtt151fPvxScEtnf/pub?start=false&loop=false&delayms=60000)
 
 ---
+<!-- _class: exercice application fmmmmm -->
+<style scoped>
+span{font-size:76%; display:block; line-height:120%; margin-top:10px; margin-bottom:10px;}
+ul ul li {margin-top:5px}
+h3{margin-bottom:10px}
+</style>
+
+### Exercice d'argumentation et de mobilisation de sa culture
+
+- Choisir un sujet et rédiger l'équivalent d'une sous-partie (250-350 mots), de préférence avec le modèle _ARES_ :<br/><span>Attention : il faut développer une seule réponse avec un seul argument, et mobiliser ses connaissances (concept, référence, exemple) sur la critique du relativisme culturel et les morales de la sensibilité</span>
+   - La conscience morale n’est-elle que le résultat de l’éducation ?
+   - Faut-il se fier à ses sentiments pour agir moralement ?
+   - Avons-nous des devoirs envers les animaux ?
+   - La morale peut-elle se passer d’un fondement religieux ?
+   - En morale, y a-t-il des certitudes ?
+   - La technique peut-elle transformer la morale ?
+
+
+
+---
 <!-- _class: souspartie -->
 ## B. Les morales des principes
+
+---
+<!-- _class: i1t0 pp -->
+
+![Schéma des deux formes de morale des principes](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/deux-formes-de-morale-des-principes.svg)
+
+---
+<!-- _class: etape -->
+### 1/ Une forme classique de morale de l'autonomie : la philosophie morale de Kant
