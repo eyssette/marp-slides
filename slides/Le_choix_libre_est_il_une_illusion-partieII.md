@@ -147,7 +147,7 @@ p:nth-child(2){padding:0}
 
 [![](https://fr.web.img6.acsta.net/medias/nmedia/18/35/18/16/18370240.jpg)](https://www.youtube.com/watch?v=Vl05QUPnHTc)
 
-Un groupe d'adolescents d'une cité HLM répète, pour leur cours de français, un passage de la pièce _Le Jeu de l'amour et du hasard_ de Marivaux.
+Dans le film _L'esquive_, d'Abdelattif Kechiche, Un groupe d'adolescents d'une cité HLM répète, pour leur cours de français, un passage de la pièce _Le Jeu de l'amour et du hasard_ de Marivaux.
 
 ---
 <!-- _class: i1t0 pp -->
@@ -155,3 +155,22 @@ Un groupe d'adolescents d'une cité HLM répète, pour leur cours de français, 
 [![](images/homogamie-sociale.png)](https://www.inegalites.fr/Couples-qui-se-ressemble-s-assemble)
 
 
+---
+<!-- _class: exercice qcm fppp-->
+
+- D'après l'hypothèse du déterminisme :
+  - Sommes-nous déterminés par notre passé ?
+  - L’idée d’une liberté totale a-t-elle un sens ? 
+  - Suis-je responsable de ce que je suis ?
+  - La spontanéité est-elle une marque de liberté ? 
+  - Les hommes sont-ils des êtres à part dans la nature ?
+
+---
+<!-- _class: entete lecture  -->
+
+### Travail sur un dossier de textes
+
+Suite du travail sur le dossier de textes pour préparer la troisième partie
+
+- Lire les textes 7 et 8 ([lien vers le dossier](https://docs.google.com/document/d/1aq1ZNSFWUC6LkQMq-hnY0Wkvvi5_0N-YrQlzzAU2xtg/edit?usp=sharing))
+- Répondre par écrit aux questions 7 et 8

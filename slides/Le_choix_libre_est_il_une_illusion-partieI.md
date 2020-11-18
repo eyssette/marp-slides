@@ -290,12 +290,12 @@ Une différence de degré et non de nature ?
 <style scoped>
 p:nth-child(1){font-size:99%; padding:0; text-align:center; padding-bottom:30px;}
 p:nth-child(2){padding:0 ; margin:0;}
-img{width:960px;}
+img {width:960px;}
 </style>
 
 Vincent Bierrewaerts, _Le portefeuille_ (2003)
 
-[![](https://www.transmettrelecinema.com/wp-content/uploads/2013/06/f_309.jpg)](https://www.youtube.com/watch?v=Gyu-jbf9o-s)
+[![](https://www.transmettrelecinema.com/wp-content/uploads/2013/06/portefeuille-le.jpg)](https://www.youtube.com/watch?v=Gyu-jbf9o-s)
 
 
 ---

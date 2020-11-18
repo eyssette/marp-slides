@@ -34,9 +34,9 @@ L'histoire du cochon Esther (_Esther the Wonder Pig_)
 ### 1/ Une forme classique de morale des conséquences : l'utilitarisme de Bentham
 
 ---
-<!-- _class: citationC fmmmmmmmmmm -->
+<!-- _class: citationC fmmmmmmmmm -->
 
-![bg left:43% Portrait de Bentham](https://upload.wikimedia.org/wikipedia/commons/c/c8/Jeremy_Bentham_by_Henry_William_Pickersgill_detail.jpg)
+![bg left:38% Portrait de Bentham](https://upload.wikimedia.org/wikipedia/commons/c/c8/Jeremy_Bentham_by_Henry_William_Pickersgill_detail.jpg)
 
 >« Additionnez toutes les valeurs de l'ensemble des plaisirs d'un côté, et celles de l'ensemble des peines de l'autre. Si la balance penche du côté du plaisir, elle indiquera la bonne tendance générale de l'acte, du point de vue des intérêts de telle personne individuelle ; si elle penche du côté de la peine, elle indiquera la mauvaise tendance générale de l'acte. Tenez compte du nombre de personnes dont les intérêts semblent en jeu ; et réitérez le procédé précédent pour chacune d'entre elles. Additionnez les nombres qui expriment les degrés de la bonne tendance qu'un acte possède du point de vue de chaque individu pour lequel sa tendance est globalement bonne ; recommencez à propos de chaque individu pour lequel sa tendance globale est mauvaise. Faites le bilan ; si la balance penche du côté du plaisir, elle indiquera la bonne tendance générale de l'acte, compte tenu du nombre total ou de la communauté des individus concernés ; si elle penche du côté de la peine, elle indiquera la mauvaise tendance générale de l'acte, compte tenu de cette même communauté. »
 >>**Bentham**, _Introduction aux principes de la morale et de la législation_, chap. IV 
