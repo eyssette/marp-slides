@@ -52,7 +52,52 @@ L'histoire du cochon Esther (_Esther the Wonder Pig_)
 <!-- _class: etape -->
 ### 2/ Les exemples
 
-[Exemples](https://docs.google.com/presentation/d/e/2PACX-1vTuUXnfd-Ty5yaZYy2zyPTdaZvew_rzX7hX9DlzVHrafDDfLrcJdMWyA4-5FMhKLtt151fPvxScEtnf/pub?start=false&loop=false&delayms=60000)
+---
+<!-- _class: i1t1 pp -->
+<style scoped>
+p:nth-of-type(1){font-size:59.9%; margin:0; margin-top:0px!important; margin-bottom:20px; text-align:center; font-weight:bold;}
+p:nth-of-type(2){overflow:hidden!important; display:inline-block!important;}
+img{transform:scale(1.5); object-position:-10px -30px}
+</style>
+La défense des politiques de réduction des risques liés aux drogues
+
+![Photographie d'une distribox de seringues à Lyon](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Lyon_-_Distribox_de_seringues_pour_les_toxicomanes_%C3%A0_Perrache_3_%28mars_2019%29.jpg/800px-Lyon_-_Distribox_de_seringues_pour_les_toxicomanes_%C3%A0_Perrache_3_%28mars_2019%29.jpg)
+
+
+---
+<!-- _class: i1t1 pp -->
+<style scoped>
+p:nth-of-type(1){font-size:85%; margin:0; margin-top:10px!important; margin-bottom:20px; text-align:center; font-weight:bold;}
+p:nth-of-type(2){overflow:hidden!important; display:inline-block!important;}
+</style>
+La défense de l'homoparentalité
+
+![Photographie d'un couple lesbien avec deux enfants](https://upload.wikimedia.org/wikipedia/commons/c/cf/Stephaniehaynes_family.jpg)
+
+---
+<!-- _class: i2t1 pp rapprocher-->
+<style scoped>
+p:nth-of-type(1){font-size:100%; margin:0; margin-top:0px!important; margin-bottom:20px; text-align:center; font-weight:bold;}
+p:nth-of-type(3) img{object-fit:contain!important;}
+</style>
+La défense d'un devoir de donner de l'argent à des associations humanitaires efficaces
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Peter_Singer_MIT_Veritas.jpg/600px-Peter_Singer_MIT_Veritas.jpg)
+
+![](https://images-na.ssl-images-amazon.com/images/I/71vQw1CfGTL.jpg)
+
+---
+<!-- _class: i1t1 pp -->
+<style scoped>
+p:nth-of-type(1){font-size:75%; margin:0; margin-top:-10px!important; margin-bottom:20px; text-align:center; font-weight:bold;}
+p:nth-of-type(2){overflow:hidden!important; display:inline-block!important; width:960px; margin:0; height:600px}
+img{height:600px}
+</style>
+La critique de la production industrielle de viande
+
+![Photographie de l'entassement de poulets industriels](https://i.ibb.co/TmP73HH/poulets-industriels.jpg)
+
+
 
 ---
 <!-- _class: exercice application fmmmmm -->
@@ -70,7 +115,7 @@ h3{margin-bottom:10px}
    - Avons-nous des devoirs envers les animaux ?
    - La morale peut-elle se passer d’un fondement religieux ?
    - En morale, y a-t-il des certitudes ?
-   - La technique peut-elle transformer la morale ?
+   - Le progrès technique peut-il conduire à de nouveaux problèmes moraux ?
 
 
 
