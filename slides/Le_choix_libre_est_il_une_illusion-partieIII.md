@@ -83,9 +83,7 @@ table td:nth-child(1){width:500px}
 h2{font-size:152%}
 </style>
 
-## B. La connaissance des déterminismes étend nos possibilités de choix
-
-
+## B. La connaissance des déterminismes est ce qui permet d'étendre notre liberté
 
 ---
 <!-- _class: citationC fmmmm-->
@@ -94,6 +92,34 @@ h2{font-size:152%}
 
 >« [D]epuis que les sciences positives de la nature se sont constituées (et elles se sont constituées, elles aussi, en prenant pour base le postulat déterministe), que de changements n'avons-nous pas introduits dans l'univers ! Il en sera de même dans le règne social. […] [C]'est la sociologie qui, en découvrant les lois de la réalité sociale, nous permettra de diriger avec plus de réflexion que par le passé l'évolution historique ; car nous ne pouvons changer la nature, morale ou physique, qu'en nous conformant à ses lois. […] Les sciences, en même temps qu'elles proclament la nécessité des choses, nous mettent entre les mains les moyens de la dominer. »
 >>Émile **Durkheim**, _Sociologie et sciences sociales_
+
+---
+<!-- _class: citationC fmmmmmmmm-->
+
+![bg left:30%](https://upload.wikimedia.org/wikipedia/commons/6/66/Joelle_photo_pour_wiki.png)
+
+>« [L]a définition de la liberté à laquelle j’aboutis est celle d’une liberté relative : cela n’a pas de sens de dire que la volonté est absolument libre. Une forme d’action peut être dite plus libre qu’une autre, dans la mesure où elle a été sélectionnée dans un répertoire plus vaste […] Pour développer la liberté relative des agents, il faut accroître leurs capacités réflexives […]. La responsabilité commence […] avec une forme de conscience de soi […]. Cette forme de conscience, qui normalement devrait émerger en cours de scolarité, peut malheureusement échouer à le faire quand les conditions sociales et politiques ne sont pas favorables à l’apprentissage, ni, par conséquent, au développement des capacités autocritiques des apprenants. […] On peut bien sûr se modifier soi-même, du fait qu’on peut, comme dit Frankfurt, vouloir vouloir, c’est-à-dire devenir sensible aux valeurs dont on souhaite qu’elles régissent sa vie et ses choix. Mais il peut être nécessaire, pour cela, de faire appel à d’autres agents. Le cerveau est construit socialement : par l’école, par toutes sortes d’outils cognitifs externes, par la famille, par les associations, par les motivations les plus saillantes que transmet l’environnement. »
+>>Joëlle **Proust**, « Entretien avec Joëlle Proust » ([lien](https://dikephilopol.wordpress.com/2013/02/18/joelle-proust-autour-de-la-nature-de-la-volonte/))
+
+---
+<!-- _class: exercice application fmmmmm -->
+<style scoped>
+span{font-size:76%; display:block; line-height:120%; margin-top:10px; margin-bottom:10px;}
+ul ul li {margin-top:5px}
+h3{margin-bottom:10px}
+</style>
+
+### Exercice d'argumentation et de mobilisation de sa culture
+
+- Choisir un sujet et rédiger l'équivalent d'une sous-partie (200 mots), de préférence avec le modèle _ARES_ :<br/><span>Attention : il faut développer une seule réponse avec un seul argument, et mobiliser ses connaissances (concept, référence, exemple) sur la critique du relativisme culturel et les morales de la sensibilité</span>
+    - Est-on plus ou moins libre ?
+    - Faut-il apprendre à être libre ?
+    - L’idée d’une liberté totale a-t-elle un sens ? 
+    - Un être humain est-il responsable de tout ce qu'il fait ?
+    - Toute contrainte est-elle un obstacle à ma liberté ?
+    - L'explication scientifique des conduites humaines est-elle incompatible avec l'affirmation de la liberté ?
+
+
 
 ---
 <!-- _class: entete lecture  -->
