@@ -129,14 +129,13 @@ h3{margin-bottom:10px}
 ![Schéma des deux formes de morale des principes](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/deux-formes-de-morale-des-principes.svg)
 
 ---
-<!-- _class: etape -->
-### 1/ La philosophie morale de Kant
-
----
 <!-- _class: i1t0 pp -->
 
 ![Schéma sur la philosophie morale de Kant](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/philosophie-morale-de-Kant.svg)
 
+---
+<!-- _class: etape -->
+### 1/ Kant : agir moralement, c'est agir d'après un impératif catégorique
 
 ---
 <!-- _class: citationC f-->
@@ -144,35 +143,80 @@ h3{margin-bottom:10px}
 ![bg left:37% Portrait de Kant](https://upload.wikimedia.org/wikipedia/commons/f/f2/Kant_gemaelde_3.jpg)
 
 >« Les impératifs hypothétiques représentent la nécessité pratique d'une action possible, considérée comme moyen d'arriver à quelque autre chose que l'on veut (ou du moins qu'il est possible qu'on veuille). […] [S]i l'action n'est bonne que comme moyen pour quelque autre chose, l'impératif est hypothétique ; si elle est représentée comme bonne en soi, […] le principe qui la détermine est alors l'impératif catégorique. » 
->>**Kant**, _Fondements de la métaphysique des mœurs_, Deuxième section
+>>**Kant**, _Fondements de la métaphysique des mœurs_ (1785), Deuxième section
 
 ---
-<!-- _class: exercice tableau colonnes pp -->
+<!-- _class: exercice tableau colonnes fmm -->
 <style scoped>
-table td{font-size:80%}
-table {margin-bottom:40px!important;}
+table td {font-size:85%;}
+table {margin-top:10px!important;margin-bottom:40px!important;}
+ol{margin-top:-15px!important}
 </style>
-|Un impératif hypothétique est un impératif …|Un impératif catégorique est un impératif …|
+|Un impératif hypothétique|Un impératif catégorique|
 |:-:|:-:|
 |?|?|
 |?|?|
 |?|?|
-|?|?|
 
-1. … de la forme « Il faut … »
-2. … de l'ordre de la rationalité des moyens : le moyen doit être cohérent avec la finalité poursuivie
-3. inconditionné (il s'impose à nous quels que soient nos désirs)
-4. … de l'ordre de la rationalité des fins : la finalité doit exprimer un devoir moral cohérent
-5. conditionné (il n'est valable que sous la condition d'un certain désir)
-6. … qui exprime une exigence pragmatique : il faut que ça marche
-7. … de la forme « Si on veut …, alors il faut … »
-8. … qui exprime une exigence morale : l'intention doit être bonne
+1. Un impératif inconditionné, qui ne dépend pas de nos désirs
+2. Formulation : « Si je veux _B_, je dois faire _A_ »
+3. Il s'agit de faire preuve d'intégrité : il faut agir en cohérence avec nos devoirs moraux
+4. Formulation : « Je dois faire _A_ » (un point c'est tout) 
+5. Il s'agit d'être pragmatique : il faut choisir le moyen le plus adapté pour pouvoir réaliser nos désirs
+6. Un impératif conditionné qui dépend d'un désir préalable
 
 ---
-<!-- _class: exercice tableau-r pp fmmmm -->
-|Un impératif hypothétique est un impératif …|Un impératif catégorique est un impératif …|
+<!-- _class: exercice tableau-r fmmm -->
+<style scoped>
+table td:nth-of-type(1){width:433px;}
+</style>
+|Un impératif hypothétique|Un impératif catégorique|
 |:-:|:-:|
-|7. … de la forme « Si on veut …, alors il faut … »|1. … de la forme « Il faut … »|
-|5. conditionné (il n'est valable que sous la condition d'un certain désir)|3. inconditionné (il s'impose à nous quels que soient nos désirs)|
-|2. … de l'ordre de la rationalité des moyens : le moyen doit être cohérent avec la finalité poursuivie|4. … de l'ordre de la rationalité des fins : la finalité doit exprimer un devoir moral cohérent|
-|6. … qui exprime une exigence pragmatique : il faut que ça marche|8. … qui exprime une exigence morale : l'intention doit être bonne|
+|_6_ Un impératif conditionné qui dépend d'un désir préalable|_1_ Un impératif inconditionné, qui ne dépend pas de nos désirs|
+|_2_ Formulation :<br/> « Si je veux $B$,<br/> je dois faire $A$ »|_4_ Formulation :<br/> « Je dois faire $A$ »<br/>(un point c'est tout)|
+|_5_ Il s'agit d'être pragmatique : il faut choisir le moyen le plus adapté pour pouvoir réaliser nos désirs|_3_ Il s'agit de faire preuve d'intégrité : il faut agir en cohérence avec nos devoirs moraux|
+
+
+---
+<!-- _class:  -->
+
+Une action peut sembler morale, mais si elle est guidée par un intérêt, elle n'est pas réellement une action morale.
+
+Pour que l'action soit morale, il faut agir _par devoir_, et non pas simplement _conformément au devoir_.
+
+
+---
+<!-- _class: fp -->
+
+Quelques exemples d'actions qui semblent morales, mais qui sont guidées par l'intérêt :
+1) Être honnête pour garder ses clients
+2) Agir par crainte du regard d'autrui, agir par crainte de la sanction 
+3) Agir par désir de reconnaissance sociale, agir pour avoir une bonne réputation
+4) Agir comme Valmont, dans _Les liaisons dangereuses_ ([lettres 21 et 22](https://docs.google.com/document/d/178hLNAjuEX5eUXoIM88Hy3RqXbbVJPJx6SDuK5Aao24/edit)), qui se donne l'apparence de la vertu pour séduire une femme sensible aux actions morales.
+
+---
+<!-- _class: etape -->
+### 2/ Kant : agir moralement, c'est agir d'après une règle universalisable
+
+---
+<!-- _class: citationC fppppppp-->
+
+![bg left:37% Portrait de Kant](https://upload.wikimedia.org/wikipedia/commons/f/f2/Kant_gemaelde_3.jpg)
+
+>« Agis uniquement d’après la maxime qui fait que tu puisses vouloir en même temps qu’elle devienne une loi universelle »
+« Agis comme si la maxime de ton action devait être érigée par ta volonté en loi universelle de la nature »
+>>**Kant**, _Fondements de la Métaphysique des mœurs_ (1785), Deuxième section
+
+---
+<!-- _class: etape -->
+### 3/ Kant : agir moralement, c'est respecter la dignité des autres
+
+
+
+---
+<!-- _class: citationC fmm-->
+![bg left:33% Portrait de Kant](https://upload.wikimedia.org/wikipedia/commons/f/f2/Kant_gemaelde_3.jpg)
+
+>« Le respect que je porte à autrui ou qu’il peut exiger de moi […] consiste à reconnaître la dignité des autres hommes, c’est-à-dire une valeur qui n’a pas de prix […]. Tout homme a le droit de prétendre au respect de ses semblables, et réciproquement il est obligé lui-même au respect à l’égard de chacun d’eux.
+L’humanité est par elle-même une dignité : l’homme ne peut être traité par l’homme (soit par un autre, soit par lui-même) comme un simple moyen, mais il doit toujours être traité comme étant aussi une fin ; c’est précisément en cela que consiste sa dignité »
+>>**Kant**, _Métaphysique des mœurs_, Doctrine de la vertu, Première partie, Livre second, Chapitre premier, §37-38
