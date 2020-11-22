@@ -205,14 +205,50 @@ Quelques exemples d'actions qui semblent morales, mais qui sont guidées par l'i
 
 >« Agis uniquement d’après la maxime qui fait que tu puisses vouloir en même temps qu’elle devienne une loi universelle »
 « Agis comme si la maxime de ton action devait être érigée par ta volonté en loi universelle de la nature »
->« Agis comme si ta maxime devait servir en même temps de loi universelle (pour tous les êtres raisonnables »
+>« Agis comme si ta maxime devait servir en même temps de loi universelle (pour tous les êtres raisonnables) »
 >>**Kant**, _Fondements de la Métaphysique des mœurs_ (1785), Deuxième section
+
+---
+<!-- _class: i1t0 pp -->
+![Schéma du test d'universalisation](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/test-universalisation.svg)
+
+---
+<!-- _class: i1t1 vertical fppppppp -->
+<style scoped>
+img{width:700px!important; object-fit:fill!important; height:500px}
+h4{margin-bottom:5px!important;}
+</style>
+
+#### Exemple 1 : le mensonge
+
+![Image de Pinocchio en train de mentir avec son nez qui a grandi](https://i.ibb.co/Ptdxh4f/pinocchio3.jpg)
+
+
+---
+<!-- _class: i1t1 vertical fppppppp -->
+<style scoped>
+img{width:700px!important; object-fit:fill!important; height:500px}
+h4{margin-bottom:5px!important;}
+</style>
+
+#### Exemple 2 : la tricherie à un examen
+
+![Image d'une tricherie à un examen](https://www.nextplz.fr/wp-content/uploads/2018/05/18993137511184466-758x502.jpg)
+
+---
+<!-- _class: i1t1 vertical fppppppp -->
+<style scoped>
+img{width:700px!important; object-fit:fill!important; height:500px}
+h4{margin-bottom:5px!important;}
+</style>
+
+#### Exemple 3 : ne jamais aider les personnes dans le besoin
+
+![Image d'une main tendue vers une autre main](https://i.ibb.co/TvfMhL8/help.jpg)
 
 ---
 <!-- _class: etape -->
 ### 3/ Kant : agir moralement, c'est respecter la dignité des autres
-
-
 
 ---
 <!-- _class: citationC fmm-->
@@ -221,3 +257,34 @@ Quelques exemples d'actions qui semblent morales, mais qui sont guidées par l'i
 >« Le respect que je porte à autrui ou qu’il peut exiger de moi […] consiste à reconnaître la dignité des autres hommes, c’est-à-dire une valeur qui n’a pas de prix […]. Tout homme a le droit de prétendre au respect de ses semblables, et réciproquement il est obligé lui-même au respect à l’égard de chacun d’eux.
 L’humanité est par elle-même une dignité : l’homme ne peut être traité par l’homme (soit par un autre, soit par lui-même) comme un simple moyen, mais il doit toujours être traité comme étant aussi une fin ; c’est précisément en cela que consiste sa dignité »
 >>**Kant**, _Métaphysique des mœurs_, Doctrine de la vertu, Première partie, Livre second, Chapitre premier, §37-38
+
+---
+<!-- _class: cinema fmmmm-->
+
+[![Couverture du film Mesure d'urgence](https://i.ibb.co/yYCc3f6/Mesure-d-urgence.jpg)](https://drive.google.com/file/d/0B33DtpyVkjZFTWJrNTBEcXZVQ0U/view?usp=sharing)
+
+>Dans le film _Mesure d'urgence_, un médecin kidnappe des personnes sans abri afin de faire des expérimentations médicales sur eux, dans le but de trouver un remède contre des maladies pour le moment incurables. Il affirme que la vie de ces individus n'a pas beaucoup de sens : leur mort était de toute façon prévisible ; autant faire en sorte qu'elle soit utile ! Un grand médecin a, selon lui, le courage d'outrepasser les règles ordinaires : il serait légitime de sacrifier quelques vies sans significations, si cela permet d'améliorer de manière importante la vie d'un grand nombre de personnes.
+
+---
+<!-- _class: cinema fmmmm-->
+
+[![Couverture du film Le Loup de Wall Street](https://fr.web.img6.acsta.net/pictures/210/604/21060483_20131125114549726.jpg)](https://drive.google.com/file/d/0B33DtpyVkjZFX0ZtUGFpaGR6UlE/edit?usp=sharing)
+
+>Dans le film _Le Loup de Wall-Street_, Jordan Belfort, un trader, téléphone à des personnes peu aisées qui veulent placer leurs maigres économies, et leur ment sur la valeur des actions qu'il leur propose (« _I was selling them shit_ »). Ces personnes ne sont pour lui qu'un simple moyen de gagner plus d'argent : il les méprise et les considére comme de vulgaires bouseux. Vers la fin du film, quand sa femme lui annonce qu'elle veut divorcer, il ne la voit plus que comme un obstacle entre lui et ses enfants qu'il veut garder avec lui. Il devient violent jusqu'à la frapper dans l'estomac.
+
+---
+<!-- _class: cinema fmmmmm-->
+<style scoped>
+img {object-fit:fill!important}
+</style>
+
+[![Couverture du film Elephant Man](https://i.ibb.co/4szfzSK/elephant-man.jpg)](https://www.youtube.com/watch?v=S28DXj2RVKo)
+
+>Dans le film _Elephant Man_, le chirurgien Frederick Treves découvre un homme complètement défiguré et difforme, devenu une attraction de foire : John Merrick, « le monstre », qui doit son nom d'_Elephant Man_ au terrible accident que subit sa mère, renversée par un éléphant alors qu'elle était enceinte de quelques mois. Impressionné par de telles difformités, le Dr. Treves achète Merrick, l'arrachant ainsi à la violence de son propriétaire, et à l'humiliation quotidienne d'être mis en spectacle. Le chirurgien découvre rapidement en  Merrick  un  homme meurtri,  intelligent  et doté  d'une  grande  sensibilité,  qui  demande à être considéré comme un être humain.
+
+---
+<!-- _class: etape -->
+### 4/ Quelques difficultés
+
+
+
