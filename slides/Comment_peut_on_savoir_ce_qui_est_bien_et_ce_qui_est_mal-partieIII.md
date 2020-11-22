@@ -199,12 +199,13 @@ Quelques exemples d'actions qui semblent morales, mais qui sont guidées par l'i
 ### 2/ Kant : agir moralement, c'est agir d'après une règle universalisable
 
 ---
-<!-- _class: citationC fppppppp-->
+<!-- _class: citationC fpp-->
 
 ![bg left:37% Portrait de Kant](https://upload.wikimedia.org/wikipedia/commons/f/f2/Kant_gemaelde_3.jpg)
 
 >« Agis uniquement d’après la maxime qui fait que tu puisses vouloir en même temps qu’elle devienne une loi universelle »
 « Agis comme si la maxime de ton action devait être érigée par ta volonté en loi universelle de la nature »
+>« Agis comme si ta maxime devait servir en même temps de loi universelle (pour tous les êtres raisonnables »
 >>**Kant**, _Fondements de la Métaphysique des mœurs_ (1785), Deuxième section
 
 ---

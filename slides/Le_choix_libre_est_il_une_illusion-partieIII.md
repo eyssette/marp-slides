@@ -61,7 +61,7 @@ table td {font-size:70%;}
 2. Une démarche rationnelle, scientifique, d’explication du réel
 3. Une nécessité inconditionnelle : « de toute façon, ce qui doit arriver arrivera »
 4. Souvent une simple croyance très présente dans les récits populaires
-5. Une nécessité conditionnelle qui s’exprime sous la forme d’une loi de la nature : si on a tel phénomène, alors on a tel phénomène
+5. Une nécessité conditionnelle qui s’exprime sous la forme d’une loi de la nature : si on a cette cause, alors on a cet effet
 6. Nous devenons davantage capables d'agir sur le réel grâce à la connaissance des lois qui régissent le réel
 
 ---
@@ -74,16 +74,9 @@ table td:nth-child(1){width:500px}
 |Déterminisme|Fatalisme|
 |:-:|:-:|
 |_2_ Une démarche rationnelle, scientifique, d’explication du réel|_4_ Souvent une simple croyance très présente dans les récits populaires|
-|_5_ Une nécessité conditionnelle qui s’exprime sous la forme d’une loi de la nature : si on a tel phénomène, alors on a tel phénomène|_3_ Une nécessité inconditionnelle : « de toute façon, ce qui doit arriver arrivera »|
+|_5_ Une nécessité conditionnelle qui s’exprime sous la forme d’une loi de la nature : si on a cette cause, alors on a cet effet|_3_ Une nécessité inconditionnelle : « de toute façon, ce qui doit arriver arrivera »|
 |_6_ Nous devenons davantage capables d'agir sur le réel grâce à la connaissance des lois qui régissent le réel|_1_ Nous sommes impuissants face<br/> au destin|
 
- ---
-<!-- _class: souspartie -->
-<style scoped>
-h2{font-size:152%}
-</style>
-
-## B. La connaissance des déterminismes est ce qui permet d'étendre notre liberté
 
 ---
 <!-- _class: citationC fmmmm-->
@@ -93,13 +86,27 @@ h2{font-size:152%}
 >« [D]epuis que les sciences positives de la nature se sont constituées (et elles se sont constituées, elles aussi, en prenant pour base le postulat déterministe), que de changements n'avons-nous pas introduits dans l'univers ! Il en sera de même dans le règne social. […] [C]'est la sociologie qui, en découvrant les lois de la réalité sociale, nous permettra de diriger avec plus de réflexion que par le passé l'évolution historique ; car nous ne pouvons changer la nature, morale ou physique, qu'en nous conformant à ses lois. […] Les sciences, en même temps qu'elles proclament la nécessité des choses, nous mettent entre les mains les moyens de la dominer. »
 >>Émile **Durkheim**, _Sociologie et sciences sociales_
 
+ ---
+<!-- _class: souspartie -->
+<style scoped>
+h2{font-size:152%}
+</style>
+
+## B. La connaissance des déterminismes augmente notre liberté
+
 ---
-<!-- _class: citationC fmmmmmmmm-->
+<!-- _class: citationC fmmmmmmmmm-->
 
-![bg left:30%](https://upload.wikimedia.org/wikipedia/commons/6/66/Joelle_photo_pour_wiki.png)
 
->« [L]a définition de la liberté à laquelle j’aboutis est celle d’une liberté relative : cela n’a pas de sens de dire que la volonté est absolument libre. Une forme d’action peut être dite plus libre qu’une autre, dans la mesure où elle a été sélectionnée dans un répertoire plus vaste […] Pour développer la liberté relative des agents, il faut accroître leurs capacités réflexives […]. La responsabilité commence […] avec une forme de conscience de soi […]. Cette forme de conscience, qui normalement devrait émerger en cours de scolarité, peut malheureusement échouer à le faire quand les conditions sociales et politiques ne sont pas favorables à l’apprentissage, ni, par conséquent, au développement des capacités autocritiques des apprenants. […] On peut bien sûr se modifier soi-même, du fait qu’on peut, comme dit Frankfurt, vouloir vouloir, c’est-à-dire devenir sensible aux valeurs dont on souhaite qu’elles régissent sa vie et ses choix. Mais il peut être nécessaire, pour cela, de faire appel à d’autres agents. Le cerveau est construit socialement : par l’école, par toutes sortes d’outils cognitifs externes, par la famille, par les associations, par les motivations les plus saillantes que transmet l’environnement. »
+![bg left:28%](https://upload.wikimedia.org/wikipedia/commons/6/66/Joelle_photo_pour_wiki.png)
+
+>« [L]a définition de la liberté à laquelle j’aboutis est celle d’une liberté relative : cela n’a pas de sens de dire que la volonté est absolument libre. Une forme d’action peut être dite plus libre qu’une autre, dans la mesure où elle a été sélectionnée dans un répertoire plus vaste […] [I]l faut [que l'individu] acquière toutes sortes de connaissances à la fois théoriques et pratiques pour commencer à se représenter des possibilités d’action, et pour les mettre en œuvre. […] Pour développer la liberté relative des agents, il faut accroître leurs capacités réflexives […]. La responsabilité commence […] avec une forme de conscience de soi […]. Cette forme de conscience, qui normalement devrait émerger en cours de scolarité, peut malheureusement échouer à le faire quand les conditions sociales et politiques ne sont pas favorables à l’apprentissage, ni, par conséquent, au développement des capacités autocritiques des apprenants. […] On peut bien sûr se modifier soi-même, du fait qu’on peut, comme dit Frankfurt, vouloir vouloir, c’est-à-dire devenir sensible aux valeurs dont on souhaite qu’elles régissent sa vie et ses choix. Mais il peut être nécessaire, pour cela, de faire appel à d’autres agents. Le cerveau est construit socialement : par l’école, par toutes sortes d’outils cognitifs externes, par la famille, par les associations, par les motivations les plus saillantes que transmet l’environnement. »
 >>Joëlle **Proust**, « Entretien avec Joëlle Proust » ([lien](https://dikephilopol.wordpress.com/2013/02/18/joelle-proust-autour-de-la-nature-de-la-volonte/))
+
+---
+<!-- _class: i1t0 pp -->
+
+![Schéma sur l'idée que la connaissance des déterminismes augmente notre liberté](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/connaissance-determinismes-liberte.svg)
 
 ---
 <!-- _class: exercice application fmmmmm -->
