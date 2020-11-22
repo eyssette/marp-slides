@@ -7,10 +7,10 @@ size: 4:3
 
 <!-- _class: partie pm -->
 <style scoped>
-h1{font-size:162%!important; padding-left:20px; padding-right:20px;}
+h1{font-size:174%!important; padding-left:20px; padding-right:20px;}
 </style>
 
-# III – Le déterminisme ne réfute pas la liberté
+# III – Le déterminisme ne réfute pas<br/> la liberté
 Troisième partie
 
 ---
