@@ -258,6 +258,41 @@ h4{margin-bottom:5px!important;}
 L’humanité est par elle-même une dignité : l’homme ne peut être traité par l’homme (soit par un autre, soit par lui-même) comme un simple moyen, mais il doit toujours être traité comme étant aussi une fin ; c’est précisément en cela que consiste sa dignité »
 >>**Kant**, _Métaphysique des mœurs_, Doctrine de la vertu, Première partie, Livre second, Chapitre premier, §37-38
 
+
+---
+<!-- _class: exercice tableau colonnes pp fm -->
+<style scoped>
+table td {font-size:90%;}
+ol {margin-top:40px!important; margin-bottom:-10px!important;}
+</style>
+
+|Un être humain doit être considéré comme …| … et non pas comme …|
+|:-:|:-:|
+|?|?|
+|?|?|
+|?|?|
+
+1. … une personne
+2. … un simple moyen, ou un simple obstacle
+3. … un sujet autonome qui a une valeur, une dignité
+4. … une “fin en soi”
+5. … une chose
+6. … un simple objet remplaçable par un autre (si le prix est équivalent), négligeable (si le prix est faible), ou qu'on a le droit d'utiliser (si on paie le prix)
+
+---
+<!-- _class: exercice tableau-r fmm -->
+<style scoped>
+table{padding:60px!important;}
+table td:nth-of-type(1){width:385px; padding-right:75px}
+table td {text-align:justify!important;}
+</style>
+
+|Un être humain doit être considéré comme …| … et non pas comme …|
+|:-:|:-:|
+|_1_ … une personne|_5_ … une chose|
+|_4_ … une “fin en soi”|_2_ … un simple moyen, ou un simple obstacle|
+|_3_ … un sujet autonome qui a une valeur, une dignité|_6_ … un simple objet remplaçable par un autre (si le prix est équivalent), négligeable (si le prix est faible), ou qu'on a le droit d'utiliser (si on paie le prix)|
+
 ---
 <!-- _class: cinema fmmmm-->
 
