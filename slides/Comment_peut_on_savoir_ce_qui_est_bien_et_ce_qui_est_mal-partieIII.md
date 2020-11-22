@@ -286,5 +286,10 @@ img {object-fit:fill!important}
 <!-- _class: etape -->
 ### 4/ Quelques difficultés
 
+---
+<!-- _class:  -->
 
+Deux difficultés de la morale kantienne :
 
+1) « Le kantisme a les mains pures, mais n'a pas de mains » (Charles Péguy)
+2) La signification de la notion de dignité : retour sur « l'affaire du lancer de nain »
