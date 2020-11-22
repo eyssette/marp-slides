@@ -266,7 +266,7 @@ table td {font-size:90%;}
 ol {margin-top:40px!important; margin-bottom:-10px!important;}
 </style>
 
-|Un être humain doit être considéré comme …| … et non pas comme …|
+|Un être humain doit être considéré comme …| … et non pas<br/> comme …|
 |:-:|:-:|
 |?|?|
 |?|?|
@@ -287,7 +287,7 @@ table td:nth-of-type(1){width:385px; padding-right:75px}
 table td {text-align:justify!important;}
 </style>
 
-|Un être humain doit être considéré comme …| … et non pas comme …|
+|Un être humain doit être considéré comme …| … et non pas<br/> comme …|
 |:-:|:-:|
 |_1_ … une personne|_5_ … une chose|
 |_4_ … une “fin en soi”|_2_ … un simple moyen, ou un simple obstacle|
