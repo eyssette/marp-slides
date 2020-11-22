@@ -23,7 +23,7 @@ indexTextEnd = """
 def index_folder(folderPath):
 	print("Indexing: " + folderPath +'/')
 	#Getting the content of the folder
-	files = os.listdir(folderPath)
+	files = sorted(os.listdir(folderPath))
 	#If Root folder, correcting folder name
 	root = folderPath
 	if folderPath == '.':
