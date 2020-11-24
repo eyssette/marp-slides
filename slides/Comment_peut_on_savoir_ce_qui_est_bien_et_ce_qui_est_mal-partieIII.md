@@ -178,12 +178,9 @@ table td:nth-of-type(1){width:433px;}
 
 
 ---
-<!-- _class:  -->
+<!-- _class: i1t0 pp -->
 
-Une action peut sembler morale, mais si elle est guidée par un intérêt, elle n'est pas réellement une action morale.
-
-Pour que l'action soit morale, il faut agir _par devoir_, et non pas simplement _conformément au devoir_.
-
+![Schéma de la distinction entre agir par devoir et agir conformément au devoir](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/kant-par-devoir-conformement-au-devoir.svg)
 
 ---
 <!-- _class: fp -->
@@ -283,15 +280,14 @@ ol {margin-top:40px!important; margin-bottom:-10px!important;}
 <!-- _class: exercice tableau-r fmm -->
 <style scoped>
 table{padding:60px!important;}
-table td:nth-of-type(1){width:385px; padding-right:75px}
-table td {text-align:justify!important;}
+table td:nth-of-type(1){width:400px;}
 </style>
 
 |Un être humain doit être considéré comme …| … et non pas<br/> comme …|
 |:-:|:-:|
 |_1_ … une personne|_5_ … une chose|
-|_4_ … une “fin en soi”|_2_ … un simple moyen, ou un simple obstacle|
-|_3_ … un sujet autonome qui a une valeur, une dignité|_6_ … un simple objet remplaçable par un autre (si le prix est équivalent), négligeable (si le prix est faible), ou qu'on a le droit d'utiliser (si on paie le prix)|
+|_4_ … une <br/>“fin en soi”|_2_ … un simple moyen, ou un simple obstacle|
+|_3_ … un sujet autonome qui a une valeur,<br/> une dignité|_6_ … un simple objet remplaçable par un autre (si le prix est équivalent), négligeable (si le prix est faible), ou qu'on a le droit d'utiliser (si on paie le prix)|
 
 ---
 <!-- _class: cinema fmmmm-->
@@ -322,9 +318,10 @@ img {object-fit:fill!important}
 ### 4/ Quelques difficultés
 
 ---
-<!-- _class:  -->
+<!-- _class: i1t0 pp -->
+<style scoped>
+p{margin-top:40px!important}
+img{object-fit:cover!important; height:613px!important;}
+</style>
 
-Deux difficultés de la morale kantienne :
-
-1) « Le kantisme a les mains pures, mais n'a pas de mains » (Charles Péguy)
-2) La signification de la notion de dignité : retour sur « l'affaire du lancer de nain »
+![Schéma de trois objections contre la morale kantienne](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/objections-morale-kantienne.svg)
