@@ -45,10 +45,10 @@ p img {height:700px;}
 >>**Alain**, _Propos sur le bonheur_, XXIV : Notre avenir, 28 août 1911
 
 ---
-<!-- _class: exercice tableau fmmmmm colonnes -->
+<!-- _class: exercice tableau fmmmmmm colonnes -->
 <style scoped>
 table{margin-top:-25px!important;}
-table td {font-size:70%;}
+table td{font-size:70%;}
 </style>
 
 |Déterminisme|Fatalisme|
