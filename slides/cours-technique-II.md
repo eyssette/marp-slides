@@ -210,7 +210,7 @@ Il y a en effet des technologies contemporaines de captation de l'attention qui 
 
 ![](https://extranet.editis.com/it-yonixweb/IMAGES/DEC/P3/9782707186621.JPG)
 
->Notre environnement technologique en pleine évolution engendre  un besoin de stimulation toujours croissant. […] Notre vie mentale est plus décousue, et plus vulnérable aux sollicitations du moments. […] Notre dispersion mentale ne peut pas simplement être attribuée à la publicité, à Internet, … […] il s’agit d’un phénomène plus global qui relève de tout un style de vie. […] Si nous ne sommes pas capables de maîtriser l'orientation de notre attention, nous sommes à la merci de ceux qui souhaitent l'orienter en fonction de leurs intérêts.
+>« Notre environnement technologique en pleine évolution engendre  un besoin de stimulation toujours croissant. […] Notre vie mentale est plus décousue, et plus vulnérable aux sollicitations du moments. […] Notre dispersion mentale ne peut pas simplement être attribuée à la publicité, à Internet, … […] il s’agit d’un phénomène plus global qui relève de tout un style de vie. […] Si nous ne sommes pas capables de maîtriser l'orientation de notre attention, nous sommes à la merci de ceux qui souhaitent l'orienter en fonction de leurs intérêts. »
 >> Matthew B. **Crawford**, _Contact_
 
 ---
@@ -250,14 +250,14 @@ Nous allons discuter ici la thèse de **l'autonomie de la technique**
 ---
 <!-- _class: definition fpppppppppp-->
 ### Définition
-- L'autonomie de la technique est l'idée que l'évolution des techniques suit une logique propre, largement autonome par rapport aux tentatives de contrôle humain
+- **L'autonomie de la technique** est l'idée que l'évolution des techniques suit une logique propre, largement autonome par rapport aux tentatives de contrôle humain
 
 ---
-<!-- _class: citationC fppppppp-->
+<!-- _class: citationC -->
 
-![bg left:38%](https://upload.wikimedia.org/wikipedia/commons/7/79/Jacques_Ellul%2C_1990_%28cropped%29.jpg)
+![bg left:44%](https://upload.wikimedia.org/wikipedia/commons/7/79/Jacques_Ellul%2C_1990_%28cropped%29.jpg)
 
->« J'entends par autoaccroissement le fait que tout se passe comme si le système technicien croissait par une force interne, intrinsèque et sans intervention décisive de l'homme. »
+>« J'entends par autoaccroissement le fait que tout se passe comme si le système technicien croissait par une force interne, intrinsèque et sans intervention décisive de l'homme. »
 >> Jacques **Ellul**, _Le système technicien_
 
 ---
