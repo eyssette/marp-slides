@@ -48,6 +48,7 @@ L'histoire du cochon Esther (_Esther the Wonder Pig_)
 ![Schéma sur l'utilitarisme](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/utilitarisme.svg)
 
 
+
 ---
 <!-- _class: etape -->
 ### 2/ Les exemples
@@ -323,3 +324,22 @@ img{object-fit:cover!important; height:613px!important;}
 </style>
 
 ![Schéma de trois objections contre la morale kantienne](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/objections-morale-kantienne.svg)
+
+
+---
+<!-- _class: exercice application fmmmmm -->
+<style scoped>
+span{font-size:76%; display:block; line-height:120%; margin-top:10px; margin-bottom:10px;}
+ul ul li {margin-top:5px}
+h3{margin-bottom:10px}
+</style>
+
+### Exercice d'argumentation et de mobilisation de sa culture
+
+- Choisir un sujet et rédiger l'équivalent d'une sous-partie (250-350 mots), de préférence avec le modèle _ARES_ :<br/><span>Attention : il faut développer une seule réponse avec un seul argument, et mobiliser ses connaissances (concept, référence, exemple) sur la critique du relativisme culturel et les morales de la sensibilité</span>
+   - La conscience morale n’est-elle que le résultat de l’éducation ?
+   - La morale peut-elle se passer d’un fondement religieux ?
+   - Peut-on fonder la morale sur la recherche du bonheur ?
+   - Faire son devoir, est-ce renoncer à sa liberté ?
+   - En politique, a-t-on le droit de sacrifier la morale à l’efficacité ?
+   - Respecter autrui, est-ce respecter sa différence ?
