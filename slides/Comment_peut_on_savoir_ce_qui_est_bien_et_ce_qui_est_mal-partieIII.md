@@ -110,7 +110,7 @@ h3{margin-bottom:10px}
 
 ### Exercice d'argumentation et de mobilisation de sa culture
 
-- Choisir un sujet et rédiger l'équivalent d'une sous-partie (250-350 mots), de préférence avec le modèle _ARES_ :<br/><span>Attention : il faut développer une seule réponse avec un seul argument, et mobiliser ses connaissances (concept, référence, exemple) sur la critique du relativisme culturel et les morales de la sensibilité</span>
+- Choisir un sujet et rédiger l'équivalent d'une sous-partie (250-350 mots), de préférence avec le modèle _ARES_ :<br/><span>Attention : il faut développer une seule réponse avec un seul argument, et mobiliser ses connaissances (concept, référence, exemple) sur les morales des conséquences et l'utilitarisme de Bentham</span>
    - La conscience morale n’est-elle que le résultat de l’éducation ?
    - Faut-il se fier à ses sentiments pour agir moralement ?
    - Avons-nous des devoirs envers les animaux ?
@@ -336,7 +336,7 @@ h3{margin-bottom:10px}
 
 ### Exercice d'argumentation et de mobilisation de sa culture
 
-- Choisir un sujet et rédiger l'équivalent d'une sous-partie (250-350 mots), de préférence avec le modèle _ARES_ :<br/><span>Attention : il faut développer une seule réponse avec un seul argument, et mobiliser ses connaissances (concept, référence, exemple) sur la critique du relativisme culturel et les morales de la sensibilité</span>
+- Choisir un sujet et rédiger l'équivalent d'une sous-partie (250-350 mots), de préférence avec le modèle _ARES_ :<br/><span>Attention : il faut développer une seule réponse avec un seul argument, et mobiliser ses connaissances (concept, référence, exemple) sur la morale kantienne</span>
    - La conscience morale n’est-elle que le résultat de l’éducation ?
    - La morale peut-elle se passer d’un fondement religieux ?
    - Peut-on fonder la morale sur la recherche du bonheur ?
