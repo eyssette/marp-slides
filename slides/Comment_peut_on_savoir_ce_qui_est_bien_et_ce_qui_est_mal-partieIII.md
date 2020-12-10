@@ -29,6 +29,19 @@ L'histoire du cochon Esther (_Esther the Wonder Pig_)
 <!-- _class: souspartie -->
 ## A. Les morales des conséquences
 
+<!--
+À reprendre : ne pas mettre le schéma en premier
+Mettre : le texte
+1/ L'utilitarisme : un calcul des conséquences
+(faire le début du schéma)
+2/ Un calcul le plus objectif possible
+suite du schéma + 2 exemples
++ petit passage du texte ? / dogmatique ?
+3/ Un calcul global
+suite schéma + 2 exemples
+
+-->
+
 ---
 <!-- _class: etape -->
 ### 1/ Une forme classique de morale des conséquences : l'utilitarisme de Bentham
@@ -133,6 +146,17 @@ h3{margin-bottom:10px}
 <!-- _class: i1t0 pp -->
 
 ![Schéma sur la philosophie morale de Kant](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/philosophie-morale-de-Kant.svg)
+
+<!--
+À rependre : ne pas mettre le schéma en premier, faire
+1/ Kant : la morale n'est pas la recherche de l'intérêt
+précisions ensuite sur imp.hyp. / cat.
+
+2/ Agir moralement, c'est agir d'après une règle universalisable
+
+3/ Agir moralement, c'est respecter la dignité des personnes
+
+-->
 
 ---
 <!-- _class: etape -->
