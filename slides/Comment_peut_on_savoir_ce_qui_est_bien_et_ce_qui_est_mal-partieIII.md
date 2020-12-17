@@ -8,6 +8,7 @@ size: 4:3
 <!-- _class: partie -->
 <style scoped>
 h1{font-size:160%!important; padding:0!important; margin-top:-20px!important;}
+
 </style>
 # III – Pour savoir ce qui est bien et ce qui est mal, il faut réfléchir aux conséquences et aux principes de nos choix
 Troisième partie
@@ -28,7 +29,6 @@ L'histoire du cochon Esther (_Esther the Wonder Pig_)
 ---
 <!-- _class: souspartie -->
 ## A. Les morales des conséquences
-
 <!--
 À reprendre : ne pas mettre le schéma en premier
 Mettre : le texte
