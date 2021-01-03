@@ -96,7 +96,7 @@ h3{font-size:140%}
 |Dire ce<br/>qui est|Dire ce qui<br/> doit être|
 
 ---
-<!-- _class:  -->
+<!-- _class: -->
 
 Quel sens peut-on alors donner à cette idée de devoir ? Pour bien comprendre cette notion, il faut distinguer la contrainte et l'obligation
 
