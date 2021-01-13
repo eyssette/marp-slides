@@ -12,15 +12,21 @@ Cédric Eyssette (2020-2021)
 http://eyssette.net
 
 ---
-<!-- _class:  -->
-## Qu'est-ce que la liberté ?
+<!-- _class: pp i1t0 -->
+![](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/liberte-action-liberte-volonte.svg)
+
+<!-- 
+« Pouvoir faire … » : Liberté d'action : pouvoir d'agir => ne pas être empêché de faire ce qu'on a choisi de faire (liberté extérieure : focalisation sur la réalisation, dans le monde extérieur, de ses choix)
+« … Ce que je veux » : Liberté de la volonté (libre arbitre) : pouvoir de choisir et de décider par soi-même => être maître de ses actes (liberté intérieure : focalisation sur la capacité intérieure de contrôler ce que l'on fait)
+– Condition des alternatives : plusieurs choix sont possibles, il y a plusieurs possibilités alternatives parmi lesquelles je peux choisir ; avoir réellement le choix entre plusieurs possibilités alternatives
+– Condition de la source : je suis vraiment la source de mes propres actes, par les choix que je fais ; être véritablement la source de ses actes -->
 
 ---
 <!-- _class: colonnes -->
 <style scoped>
-h4{margin-bottom:10px; margin-top:50px!important;}
+h4{margin-bottom:10px; margin-top:30px!important;}
 ul {
-    font-size:63%;
+    font-size:54.8%;
     display:flex;
     flex-direction:column;
     flex-wrap: wrap;
@@ -36,9 +42,10 @@ ul li {
     text-align:left;
 }
 section.pm:before{top:640px}
+span {font-size:0.90em}
 </style>
 
-#### À quel sens de la liberté peut-on rapporter ces différents cas ? <!-- fit -->
+#### Dans ces différents cas, sommes-nous libres ? En quel sens ? <!-- fit -->
 
 <div class="puces">
 
@@ -48,25 +55,36 @@ section.pm:before{top:640px}
 - La prison
 - La censure
 - La dictature
-- Faire preuve d’esprit critique
-- Être maître de soi, savoir contrôler ses désirs
-- Penser par soi-même
+- La pauvreté
+- Les discriminations
+- Les réflexes et les comportements instinctifs
 - L’enfant par rapport à l’adulte
 - Le pauvre par rapport au riche
 - L’esclave par rapport au citoyen
-- Agir de manière impulsive par rapport à agir de manière réfléchie
-- Être endoctriné, ou fortement influencé par rapport à l’exercice autonome de sa pensée
-- Une personne sous l’emprise d’une maladie mentale par rapport à une personne qui peut exercer pleinement sa réflexion
+- Penser par soi-même et faire preuve d’esprit critique
+- Être menacé par quelqu'un
+- Désirer arrêter de fumer, mais continuer à le faire
+- Agir de manière impulsive, être incapable de maîtriser ses désirs, avoir une addiction
+- Être sans cesse distrait par les réseaux sociaux
+- Avoir une phobie
+- Se comporter conformément aux stéréotypes masculins ou féminins <span>(agir ainsi parce qu'on pense que c'est son rôle d'homme ou de femme)</span>
+- Être endoctriné, ou fortement influencé
+- Être sous l’emprise d’une maladie mentale
+- Acheter quelque chose
+- Vouloir faire médecine, comme ses parents
 </div>
 
 
 ---
-<!-- _class: fpppp -->
+<!-- _class: fp -->
+<style scoped>
+span{color:#9e0a0a;}
+</style>
 
-Nous pensons avoir au moins un certain pouvoir d'agir et de faire des choix, mais cette représentation que nous avons de nous-même est-elle correcte ? Avons-nous réellement la possibilité de réaliser ce que nous voulons, et de choisir de manière autonome ? Ou bien s’agit-il simplement d’une croyance sans fondement véritable ? Ne sommes-nous pas trompés par notre sentiment et notre désir nous croire libres ? Ne sommes-nous pas plutôt empêchés d'agir et déterminés par des facteurs que nous ne maîtrisons pas ?
+Nous pensons avoir au moins un certain pouvoir d'agir et de faire des choix, mais cette représentation que nous avons de nous-même est-elle correcte ? Avons-nous réellement une liberté d'action, c'est-à-dire la possibilité de réaliser ce que nous voulons, et une liberté de la volonté, un libre arbitre, c'est-à-dire une capacité de décision qui nous permettrait d'être maître de nos propres actes ? <span>Ou bien</span> la liberté n'est-elle qu'une croyance sans fondement véritable ? Sommes-nous trompés par notre sentiment et notre désir nous croire libres ? Dans quelle mesure sommes-nous empêchés d'agir et déterminés par des facteurs que nous ne maîtrisons pas ?
 
 ---
 <!-- _class: pointmethode -->
 ### Point méthode
-Si une notion du sujet peut être comprise en deux sens bien différenciés, c'est parfois intéressant de faire une partie pour chacun de ces sens (progression par _réinterprétation_).
+Si une notion du sujet peut être comprise en deux sens bien différenciés, cela peut être pertinent, mais pas nécessairement, de faire une partie pour chacun de ces sens (= progression par _réinterprétation_).
 
