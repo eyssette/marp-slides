@@ -125,7 +125,7 @@ ul {font-size:38px;}
 </style>
 - Une personne qui agit de manière impulsive agit&#8209;elle volontairement ?
 
-![](http://www.babelmed.net/media/articles/fr/old/stories/articoli/cultura-e-societa/Mediterraneo/2014/zida_545_mate.jpg)
+![](https://i.ibb.co/DYMFbt6/coup-de-tete-zidane.jpg)
 
 ---
 <!-- _class: exercice application fmm -->

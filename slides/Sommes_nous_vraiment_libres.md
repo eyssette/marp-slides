@@ -19,7 +19,14 @@ http://eyssette.net
 « Pouvoir faire … » : Liberté d'action : pouvoir d'agir => ne pas être empêché de faire ce qu'on a choisi de faire (liberté extérieure : focalisation sur la réalisation, dans le monde extérieur, de ses choix)
 « … Ce que je veux » : Liberté de la volonté (libre arbitre) : pouvoir de choisir et de décider par soi-même => être maître de ses actes (liberté intérieure : focalisation sur la capacité intérieure de contrôler ce que l'on fait)
 – Condition des alternatives : plusieurs choix sont possibles, il y a plusieurs possibilités alternatives parmi lesquelles je peux choisir ; avoir réellement le choix entre plusieurs possibilités alternatives
-– Condition de la source : je suis vraiment la source de mes propres actes, par les choix que je fais ; être véritablement la source de ses actes -->
+– Condition de la source : je suis vraiment la source de mes propres actes, par les choix que je fais ; être véritablement la source de ses actes
+
+Meilleur cas pour l'absence de la liberté d'action : la prison
+Meilleur cas pour l'absence de liberté de la volonté : la maladie mentale
+Cas de la liberté d'expression : à la fois liberté d'action (action de s'exprimer), mais aussi condition de l'exercice de la pensée, de la réflexion critique => de la liberté de la volonté
+Ajouter  Exemple de Mandela ?
+
+ -->
 
 ---
 <!-- _class: colonnes -->
@@ -55,7 +62,6 @@ span {font-size:0.90em}
 - La prison
 - La censure
 - La dictature
-- La pauvreté
 - Les discriminations
 - Les réflexes et les comportements instinctifs
 - L’enfant par rapport à l’adulte
@@ -81,7 +87,7 @@ span {font-size:0.90em}
 span{color:#9e0a0a;}
 </style>
 
-Nous pensons avoir au moins un certain pouvoir d'agir et de faire des choix, mais cette représentation que nous avons de nous-même est-elle correcte ? Avons-nous réellement une liberté d'action, c'est-à-dire la possibilité de réaliser ce que nous voulons, et une liberté de la volonté, un libre arbitre, c'est-à-dire une capacité de décision qui nous permettrait d'être maître de nos propres actes ? <span>Ou bien</span> la liberté n'est-elle qu'une croyance sans fondement véritable ? Sommes-nous trompés par notre sentiment et notre désir nous croire libres ? Dans quelle mesure sommes-nous empêchés d'agir et déterminés par des facteurs que nous ne maîtrisons pas ?
+Nous pensons avoir au moins un certain pouvoir d'agir et de faire des choix, mais cette représentation que nous avons de nous-même est-elle correcte ? Avons-nous réellement une liberté d'action, c'est-à-dire la possibilité de réaliser ce que nous voulons, et une liberté de la volonté, un libre arbitre, c'est-à-dire une capacité de décision qui nous permettrait d'être maître de nos propres actes ? <span>Ou bien</span> la liberté n'est-elle qu'une croyance sans fondement véritable ? Sommes-nous trompés par notre sentiment et notre désir de nous croire libres ? Dans quelle mesure sommes-nous empêchés d'agir et déterminés par des facteurs que nous ne maîtrisons pas ?
 
 ---
 <!-- _class: pointmethode -->
