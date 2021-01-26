@@ -18,7 +18,7 @@ Deuxième partie
 ---
 <!-- _class: etape -->
 
-### 1. Notre volonté nous rend capables d'être la source des choix que nous faisons
+### 1. Nous avons la capacité de faire des choix qui proviennent véritablement de nous-mêmes
 
 C'est ce qu'on peut appeler la “liberté de la source”
 
