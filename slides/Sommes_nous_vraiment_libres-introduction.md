@@ -94,3 +94,14 @@ Nous pensons avoir au moins un certain pouvoir d'agir et de faire des choix, mai
 ### Point méthode
 Si une notion du sujet peut être comprise en deux sens bien différenciés, cela peut être pertinent, mais pas nécessairement, de faire une partie pour chacun de ces sens (= progression par _réinterprétation_).
 
+
+---
+<!-- _class: entete lecture -->
+
+### Dossier de textes sur la liberté
+
+Lire le dossier ([lien](https://docs.google.com/presentation/d/1j0Vo57uJ43Ud5nHJoeOLFhVxgMaE5qdMClocXaShitM/edit?usp=sharing)), et répondre aux questions suivantes pour chaque auteur :
+
+1. Est-il question de liberté d'action ou de liberté de la volonté ?
+2. D'après l'auteur, sommes-nous libres ? Pour quelle raison ?
+3. Quels sont les exemples utilisés ?
