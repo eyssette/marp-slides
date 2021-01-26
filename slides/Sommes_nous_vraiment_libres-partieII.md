@@ -52,6 +52,224 @@ blockquote blockquote{margin-top:-10px;}
 C'est ce qu'on peut appeler la “liberté des alternatives”
 
 ---
+<!-- _class: citationC fm-->
+
+![bg left:43%](https://i.ibb.co/N9YSh7P/thomas-d-aquin.png)
+
+>« Pour établir la preuve de la liberté, considérons d’abord que certains êtres agissent sans aucun jugement, comme la pierre qui tombe vers le bas […] D’autres êtres agissent d’après un certain jugement, mais qui n’est pas libre. Ainsi les animaux telle la brebis qui, voyant le loup, juge qu’il faut le fuir […] par un instinct naturel. […] Mais l’homme agit d'après […] un rapprochement de données opéré par la raison. »
+>>**Thomas d'Aquin**, _Somme théologique_, I, question 83, réponse
+
+---
+<!-- _class: i1t1 pp -->
+<style scoped>
+p:nth-child(1){font-size:80%; padding:0; margin-top:-20px!important;}
+p:nth-child(2){padding:0}
+img{height:550px; }
+</style>
+
+Exemple 1 : le roulement des œufs chez l'oie cendrée
+
+[![](https://i.ibb.co/KGcWZ88/egg-rolling.jpg)](https://video.link/w/Ej9mb)
+
+---
+<!-- _class: i1t1 pp -->
+<style scoped>
+p:nth-child(1){font-size:100%; text-align:center; padding:0; margin-top:-20px!important;}
+p:nth-child(2){padding:0}
+img{height:550px; }
+</style>
+
+Exemple 2 : l'agressivité de l’épinoche
+
+[![](https://i.ibb.co/7g2vvBq/epinoches.png)](https://video.link/w/Nj9mb)
+
+---
+<!-- _class: exercice tableau colonnes fmm-->
+<style scoped>
+td {font-size:80%}
+</style>
+
+|Agir par instinct|Agir après réflexion|
+|:-:|:-:|
+|?|?|
+|?|?|
+|?|?|
+
+1. Point de départ : une situation qui est analysée et examinée
+2. Conséquence : un comportement flexible et inventif …
+3. Point de départ : un stimulus qui déclenche immédiatement une réaction
+4. Conséquence : un mécanisme rigide et automatique … 
+5. … qui est toujours le même pour tous les individus de la même espèce
+6. … qui peut être différent selon l'individu et la situation
+
+---
+<!-- _class: exercice tableau-r fm-->
+
+|Agir par instinct|Agir après réflexion|
+|:-:|:-:|
+|_3_ Point de départ : un stimulus qui déclenche immédiatement une réaction|_1_ Point de départ : une situation qui est analysée et examinée|
+|_4_ Conséquence : un mécanisme rigide et automatique … |_2_ Conséquence : un comportement flexible et inventif …|
+|_5_… qui est toujours le même pour tous les individus de la même espèce|_6_ … qui peut être différent selon l'individu et la situation|
+
+---
+<!-- _class: i1t1 pp -->
+<style scoped>
+p{margin:0; text-align:center;}
+p:nth-child(1){margin-bottom:30px}
+img{height:580px}
+</style>
+Une différence de degré et non de nature ?
+
+[![](https://upload.wikimedia.org/wikipedia/commons/3/33/Jumping-spider.jpg)](https://video.link/w/Tx9mb)
+
+---
+<!-- _class: citationC fmm-->
+
+![bg left:38%](https://i.ibb.co/N9YSh7P/thomas-d-aquin.png)
+
+>« [C]’est pourquoi l’homme agit selon un jugement libre, car il a la faculté de se porter à divers objets. En effet, dans le domaine du contingent, la raison peut suivre des directions opposées, comme on le voit dans les syllogismes dialectiques et les arguments de la rhétorique. Or, les actions particulières sont contingentes ; par suite le jugement rationnel qui porte sur elles peut aller dans un sens ou dans l’autre, et n’est pas déterminé à une seule chose. En conséquence, il est nécessaire que l’homme ait le libre arbitre, par le fait même qu’il est doué de raison. »
+>>**Thomas d'Aquin**, _Somme théologique_, I, question 83, réponse
+
+---
+<!-- _class: definition fpppppppp-->
+
+### Définition
+
+- Un **syllogisme dialectique** est un argument qui laisse une place au dialogue : il est possible de penser autrement ; ce n'est pas une démonstration dont la conclusion est nécessairement vraie.
+
+
+---
+<!-- _class: definition fppppppppp -->
+
+### Définition
+
+- Ce qui est **nécessaire**, c'est ce qui ne peut pas être autrement, c'est ce dont le contraire est impossible
+- Ce qui est **contingent**, c'est ce qui pourrait être autrement, c'est ce dont le contraire est possible
+
+---
+<!-- _class: etape -->
+### 3. On peut cependant s'interroger sur l'étendue de notre liberté, selon la situation dans laquelle on se trouve
+
+
+---
+<!-- _class: i1t1 vertical -->
+<style scoped>
+img {height:500px;}
+ul {font-size:44px;}
+</style>
+
+- Tomber à cause d'une peau de banane, est&#8209;ce un acte libre ?
+
+![](https://cdn.pixabay.com/photo/2017/07/14/18/56/banana-peel-2504671_1280.png)
+
+<!-- Si un acte est causé par un fait extérieur, alors cet acte n'est pas libre
+Si un acte est causé par un automatisme interne (physiologique, neurologique…) alors cet acte n'est pas libre
+=> Une action volontaire est le produit d'une intention
+ -->
+
+---
+<!-- _class: i1t1 vertical -->
+<style scoped>
+img {height:500px;}
+ul {font-size:38px;}
+</style>
+- Les gestes d'une personne qui a la maladie de Huntington sont-ils des actes libres ?
+
+[![](https://www.placegrenet.fr/wp-content/uploads/2018/01/danse-de-saint-guy.jpg)](https://www.youtube.com/watch?v=hDVWTX9vpYw&feature=youtu.be&t=9)
+
+
+---
+<!-- _class: citationC fmm-->
+
+![bg left:30% Portrait de John Locke](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/JohnLocke.png/520px-JohnLocke.png)
+
+>« Le cœur d’un homme bât, le sang circule, et il n’a pas le pouvoir de l’arrêter par une pensée ou une volition. Et donc, en ce qui concerne ces mouvements dont l’arrêt ne dépend pas de son choix et ne pourrait procéder d’une directive de son esprit qui le préfèrerait, il n’est pas un agent libre. Des mouvements convulsifs agitent ses jambes ; il voudrait désespérément en arrêter le mouvement et pourtant, par aucun pouvoir de l’esprit, il ne le peut (comme dans cette vieille maladie étrange nommée *Chorea scanti Viti*), et il danse indéfiniment : dans cette action, il n’est pas libre mais il est soumis à la nécessité de bouger, comme une pierre qui tombe ou une balle de tennis lancée par une raquette. »
+>>John **Locke**, *Essai sur l'entendement*, livre II, chap. XXI, §11
+
+
+---
+<!-- _class: i1t1 vertical -->
+<style scoped>
+img {height:490px;}
+ul {font-size:38px;}
+</style>
+- Une personne qui est sous l'emprise d'un trouble psychique agit-elle librement ? [+](https://docs.google.com/presentation/d/e/2PACX-1vQ5TVtg3e8YN3ekulp4bwxWFuqEkMclAVMcSRvfNbJ0Xqa0s3-au8XE2TkdN6eEvGPkkfoGYLs3Zzp0/pub?start=false&loop=false&delayms=60000&slide=id.g6c7d747ed9_0_0)
+
+[![](https://i.ytimg.com/vi/p9R4xDF-Q6A/maxresdefault.jpg)](https://www.youtube.com/watch?v=EBq5zpSKMy4)
+
+---
+<!-- _class: i1t1 vertical -->
+<style scoped>
+img {height:390px!important; object-fit:cover!important; padding-left:1px;}
+ul {font-size:45px;}
+</style>
+- Une personne qui agit de manière impulsive agit&#8209;elle librement ?
+
+![](https://i.ibb.co/DYMFbt6/coup-de-tete-zidane.jpg)
+
+---
+<!-- _class: i1t1 vertical -->
+<style scoped>
+img {height:390px!important; object-fit:cover!important; padding-left:1px;}
+ul {font-size:45px;}
+</style>
+- Sommes-nous capables de maîtriser nos émotions ?
+
+![John Anderton face à Leo Crow dans Minority Report](https://i.ibb.co/gr8JtwV/minorityreport-anderton-crow-t.jpg)
+
+---
+<!-- _class: i1t1 vertical -->
+<style scoped>
+img {height:500px;}
+ul {font-size:38px;}
+</style>
+
+- Une personne manipulée, endoctrinée, embrigadée agit-elle librement ?
+
+![](https://upload.wikimedia.org/wikipedia/commons/4/48/Bundesarchiv_Bild_133-149%2C_Worms%2C_Jungvolk_mit_Jungbannfahne.jpg)
+
+---
+<!-- _class: i1t1 vertical -->
+<style scoped>
+img {height:455px;}
+ul {font-size:37px; padding:8px 40px!important;}
+p:nth-of-type(2) {font-size:16px; margin-top:490px; opacity:0.8}
+</style>
+- Un acte accompli sous la contrainte, la menace ou le chantage, est-il un acte libre ?
+
+![](https://live.staticflickr.com/372/32229172326_963405a18c_b.jpg)
+
+Radio Alfa - https://www.flickr.com/photos/radioalfa/32229172326
+
+
+---
+<!-- _class: citationC f -->
+<style scoped>
+blockquote blockquote {margin-top:-5px}
+</style>
+
+![bg left:29% Photographie de Sartre](https://upload.wikimedia.org/wikipedia/commons/7/77/Flickr_-_Government_Press_Office_%28GPO%29_-_Jean_Paul_Sartre_and_Simone_De_Beauvoir_welcomed_by_Avraham_Shlonsky_and_Leah_Goldberg_%28cropped%29.jpg)
+
+>« Jamais nous n’avons été plus libres que sous l’occupation allemande. Nous avions perdu tous nos droits et d’abord celui de parler ; on nous insultait en face chaque jour et il fallait nous taire […] : à cause de tout cela nous étions libres. Puisque le venin nazi se glissait jusque dans notre pensée, chaque pensée juste était une conquête ; puisqu’une police toute-puissante cherchait à nous contraindre au silence, chaque parole devenait précieuse comme une déclaration de principe ; puisque nous étions traqués, chacun de nos gestes avaient le poids d’un engagement. »
+>>**Sartre**, *Situations* III (1949), “La République du silence”
+
+---
+<!-- _class: exercice application fmm -->
+<style scoped>
+ul ul {font-size:100%}
+span {font-size:90%}
+</style>
+
+### Exercice d'argumentation et de mobilisation de sa culture
+
+- Choisir un des sujets suivants, et défendre _une_ réponse <span>(250 mots minimum)</span> avec la structure _ARES_, en mobilisant l'une des références vues en cours (Kant, Bergson, Locke ou Sartre) :
+  - L’idée d’une liberté totale a-t-elle un sens ? 
+  - Un être humain est-il responsable de tout ce qu'il fait ?
+  - Suis-je l’esclave de mes désirs ?
+  - La spontanéité est-elle une marque de liberté ? 
+  - Toute contrainte est-elle un obstacle à la liberté ?
+
+---
 <!-- _class: souspartie -->
 ## B. 
 
