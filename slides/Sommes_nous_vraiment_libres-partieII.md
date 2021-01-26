@@ -18,7 +18,7 @@ Deuxième partie
 ---
 <!-- _class: etape -->
 
-### 1. Les choix que nous faisons proviennent de notre volonté
+### 1. Nous sommes la source des choix que nous faisons
 
 C'est ce qu'on peut appeler la “liberté de la source”
 
