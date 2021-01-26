@@ -13,7 +13,7 @@ Deuxième partie
 
 ---
 <!-- _class: souspartie -->
-## A. À première vue, nous sommes maîtres des choix que nous faisons
+## A. À première vue, nous pouvons être maîtres des choix que nous faisons
 
 ---
 <!-- _class: etape -->
