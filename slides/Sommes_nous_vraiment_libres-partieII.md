@@ -270,8 +270,123 @@ span {font-size:90%}
   - Toute contrainte est-elle un obstacle à la liberté ?
 
 ---
-<!-- _class: souspartie -->
-## B. 
+<!-- _class: souspartie fmm -->
+## B. Mais nos choix ne sont-ils pas en fait déterminés par des causes que nous ne maîtrisons pas ?
+
+---
+<!-- _class: etape -->
+### 1) Le sentiment d'être libre est-il une preuve de notre liberté ?
+
+---
+<!-- _class: cinema contain fp -->
+
+[![Image à propos de la série Westworld](https://i.ibb.co/6ZWcBMS/westworld.png)](https://video.link/w/AVIKb)
+
+>« _Westworld_ est un parc d'attractions futuriste recréant l'univers de l'Ouest américain (_Far West_) du XIXe siècle. Il est peuplé d'androïdes, appelés “hôtes”, réinitialisés à la fin de chaque boucle narrative. Les visiteurs, appelés “invités” peuvent y faire ce qu'ils veulent sans aucune conséquence. » ([source](https://fr.wikipedia.org/wiki/Westworld_(s%C3%A9rie_t%C3%A9l%C3%A9vis%C3%A9e)))
+
+---
+<!-- _class: citationC -->
+
+![bg left:45%](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Spinoza.jpg/1032px-Spinoza.jpg)
+
+>« Telle est cette liberté humaine que tous les hommes se vantent d'avoir et qui consiste en cela seul que les hommes sont conscients de leurs désirs et ignorants des causes qui les déterminent ! »
+>>**Spinoza**, _Lettre 58_ à Schuller
+
+---
+<!-- _class: citationC f-->
+
+![bg left:45%](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Spinoza.jpg/1032px-Spinoza.jpg)
+
+>« La plupart de ceux qui ont parlé des sentiments et des conduites humaines paraissent traiter, non de choses naturelles qui suivent les lois ordinaires de la Nature, mais de choses qui seraient hors Nature. Mieux, on dirait qu’ils conçoivent l’homme dans la Nature comme un empire dans un empire. Car ils croient que l’homme […] a sur ses propres actions une puissance absolue et qu’il n’est déterminé que par soi. »
+>>**Spinoza**, _Éthique_, III, préface
+
+---
+<!-- _class: citationC fppppppppppp-->
+
+![bg left:45%](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Spinoza.jpg/1032px-Spinoza.jpg)
+
+>«  Ils conçoivent les hommes en effet, non tels qu’ils sont, mais tels qu’eux-mêmes voudraient qu’ils fussent. »
+>>**Spinoza**, _Traité politique_, ch.I, §1
+
+---
+<!-- _class: definition -->
+### Définition
+Le **déterminisme** est l'idée que ce qui arrive est déterminé par des causes antérieures
+
+---
+<!-- _class: etape -->
+### 1) Un déterminisme psychique ?
+
+---
+<!-- _class: citationC fmmmm-->
+
+![bg left:35% Portrait de Leibniz](https://upload.wikimedia.org/wikipedia/commons/6/6a/Gottfried_Wilhelm_von_Leibniz.jpg)
+
+>« La raison que M. Descartes a alléguée, pour prouver l’indépendance de nos actions libres par un prétendu sentiment vif interne, n’a point de force. Nous ne pouvons pas sentir proprement notre indépendance, et nous ne nous apercevons pas toujours des causes, souvent imperceptibles, dont notre résolution dépend. C’est comme si l’aiguille aimantée prenait plaisir de se tourner vers le nord ; car elle croirait tourner indépendamment de quelque autre cause, ne s’apercevant pas des mouvements insensibles de la matière magnétique. […] Nous suivons toujours, en voulant, le résultat de toutes les inclinations qui viennent, tant du côté des raisons que des passions, ce qui se fait souvent sans un jugement exprès de l’entendement. »
+>>**Leibniz**, *Essais de théodicée*, §50-51, 1710
+
+---
+<!-- _class: i1t0 pp -->
+
+[![](https://images-na.ssl-images-amazon.com/images/I/71+GMwDclDL.jpg)](https://www.ted.com/talks/dan_ariely_are_we_in_control_of_our_own_decisions/transcript?language=fr#t-607233)
+
+---
+<!-- _class: i1t1 contain horizontal pp -->
+<style scoped>
+p:nth-child(1){margin-left:-20px!important; padding-left:0px;}
+p:nth-child(2){margin-right:30px; padding-right:20px!important; font-size:85%;}
+span{display:block; border:rgb(24, 33, 117) 3px solid; border-radius:40px; text-align:justify; padding:20px; margin-left:-20px!important;}
+span strong{
+    color: rgb(14, 23, 107);
+    font-weight:400;
+}
+</style>
+
+![](https://ec56229aec51f1baff1d-185c3068e22352c56024573e929788ff.ssl.cf1.rackcdn.com/attachments/large/0/9/1/000552091.jpg)
+
+**Définition**<br/>
+<span>Un **nudge** désigne une manière d'influencer les comportements qui ne fait appel ni à la violence (exercice direct de la force physique) ni à la contrainte (interdiction et menace de sanctions) mais repose sur la connaissance de la psychologie humaine. </span>
+
+---
+<!-- _class: i1t0 pp -->
+
+![](images/nudges.jpg)
+
+---
+<!-- _class: etape -->
+### 2) Un déterminisme social ?
+
+
+---
+<!-- _class: i1t1 pp vertical -->
+<style scoped>
+img{height:570px}
+p:nth-child(2){font-size:60%; padding:0; margin-top:-13px;}
+</style>
+
+[![](images/baisemains-et-mocassins.jpg)](https://www.dailymotion.com/video/x2kbvlx)
+
+Antoine Gallien, _Baisemains et mocassins_ (2005)<br/>Enquête de l'émission _Strip-tease_ sur la pratique<br/> des rallyes dans la haute bourgeoisie
+
+
+---
+<!-- _class: i1t1 pp horizontal -->
+<style scoped>
+p{text-align:justify!important; font-size:90%; }
+p:nth-child(1){margin-left:-20px!important; margin-right:20px!important;}
+p:nth-child(2){padding:0}
+</style>
+
+[![](https://fr.web.img6.acsta.net/medias/nmedia/18/35/18/16/18370240.jpg)](https://www.youtube.com/watch?v=Vl05QUPnHTc)
+
+Dans le film _L'esquive_, d'Abdelattif Kechiche, Un groupe d'adolescents d'une cité HLM répète, pour leur cours de français, un passage de la pièce _Le Jeu de l'amour et du hasard_ de Marivaux.
+
+---
+<!-- _class: i1t0 pp -->
+
+[![](images/homogamie-sociale.png)](https://www.inegalites.fr/Couples-qui-se-ressemble-s-assemble)
+
+
 
 ---
 <!-- _class: souspartie -->

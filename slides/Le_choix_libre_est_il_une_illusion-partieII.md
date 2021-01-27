@@ -48,7 +48,7 @@ h2{font-size:130%;}
 ---
 <!-- _class: cinema fppp-->
 
-[![](https://images-na.ssl-images-amazon.com/images/I/61wpzGXwajL._AC_SY741_.jpg)](https://www.youtube.com/watch?v=t5bu_i178sk)
+[![](https://images-na.ssl-images-amazon.com/images/I/61wpzGXwajL._AC_SY741_.jpg)](https://video.link/w/AVIKb)
 
 >« _Westworld_ est un parc d'attractions futuriste recréant l'univers de l'Ouest américain (_Far West_) du XIXe siècle. Il est peuplé d'androïdes, appelés “hôtes”, réinitialisés à la fin de chaque boucle narrative. Les visiteurs, appelés “invités” peuvent y faire ce qu'ils veulent sans aucune conséquence. » ([source](https://fr.wikipedia.org/wiki/Westworld_(s%C3%A9rie_t%C3%A9l%C3%A9vis%C3%A9e)))
 
