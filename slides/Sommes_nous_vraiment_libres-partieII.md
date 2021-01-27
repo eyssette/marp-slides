@@ -271,11 +271,11 @@ span {font-size:90%}
 
 ---
 <!-- _class: souspartie fmm -->
-## B. Mais nos choix ne sont-ils pas en fait déterminés par des causes que nous ne maîtrisons pas ?
+## B. Mais sommes-nous vraiment maîtres des choix que nous faisons ?
 
 ---
 <!-- _class: etape -->
-### 1) Le sentiment d'être libre est-il une preuve de notre liberté ?
+### 1) Le sentiment d'être maîtres de nos choix est-il une preuve de notre liberté ?
 
 ---
 <!-- _class: cinema contain fp -->
@@ -307,6 +307,9 @@ span {font-size:90%}
 
 >«  Ils conçoivent les hommes en effet, non tels qu’ils sont, mais tels qu’eux-mêmes voudraient qu’ils fussent. »
 >>**Spinoza**, _Traité politique_, ch.I, §1
+---
+<!-- _class: etape -->
+### 2) Nos choix ne sont-ils pas en fait déterminés par des causes que nous ne maîtrisons pas ?
 
 ---
 <!-- _class: definition -->
@@ -315,7 +318,7 @@ Le **déterminisme** est l'idée que ce qui arrive est déterminé par des cause
 
 ---
 <!-- _class: etape -->
-### 1) Un déterminisme psychique ?
+### a/ Un déterminisme psychique ?
 
 ---
 <!-- _class: citationC fmmmm-->
@@ -354,7 +357,7 @@ span strong{
 
 ---
 <!-- _class: etape -->
-### 2) Un déterminisme social ?
+### b/ Un déterminisme social ?
 
 
 ---
