@@ -112,6 +112,16 @@ td {font-size:80%}
 |_5_… qui est toujours le même pour tous les individus de la même espèce|_6_ … qui peut être différent selon l'individu et la situation|
 
 ---
+<!-- _class: i1t1 pp vertical -->
+<style scoped>
+ul{font-size:100%; margin-top:-10px!important}
+img{height:550px}
+</style>
+- Pourquoi les procès d'animaux au Moyen-Âge nous semblent-ils absurdes ?
+
+[![](https://upload.wikimedia.org/wikipedia/commons/6/65/Trial_of_a_sow_and_pigs_at_Lavegny.png)](http://eyssette.net/docs/2007_2008/2_proces_animaux.pdf)
+
+---
 <!-- _class: i1t1 pp -->
 <style scoped>
 p{margin:0; text-align:center;}
@@ -253,6 +263,27 @@ blockquote blockquote {margin-top:-5px}
 >« Jamais nous n’avons été plus libres que sous l’occupation allemande. Nous avions perdu tous nos droits et d’abord celui de parler ; on nous insultait en face chaque jour et il fallait nous taire […] : à cause de tout cela nous étions libres. Puisque le venin nazi se glissait jusque dans notre pensée, chaque pensée juste était une conquête ; puisqu’une police toute-puissante cherchait à nous contraindre au silence, chaque parole devenait précieuse comme une déclaration de principe ; puisque nous étions traqués, chacun de nos gestes avaient le poids d’un engagement. »
 >>**Sartre**, *Situations* III (1949), “La République du silence”
 
+
+---
+<!-- _class: citationL fmmmmmmm -->
+<style scoped>
+blockquote blockquote {margin-top:-5px}
+</style>
+
+![Photographie de Sartre](https://upload.wikimedia.org/wikipedia/commons/7/77/Flickr_-_Government_Press_Office_%28GPO%29_-_Jean_Paul_Sartre_and_Simone_De_Beauvoir_welcomed_by_Avraham_Shlonsky_and_Leah_Goldberg_%28cropped%29.jpg)
+
+>« Me voilà tuberculeux par exemple. Ici apparaît la malédiction […]. Cette maladie, qui m'infecte, m'affaiblit, me change, limite brusquement mes possibilités et mes horizons. J'étais acteur ou sportif […] je ne puis plus l'être. […]  Il est vrai de dire qu'on m'ôte ces possibilités mais il est aussi vrai de dire que j'y renonce ou que je m'y cramponne ou que je ne veux pas voir qu'elles me sont ôtées ou que je me soumets à un régime systématique pour les reconquérir. En un mot ces possibilités sont non pas supprimées mais remplacées par un choix d'attitudes possibles envers la disparition de ces possibilités. Et d'autre part surgissent avec mon état nouveau des possibilités nouvelles : possibilités à l'égard de ma maladie (être un bon ou un mauvais malade), possibilités vis-à-vis de ma condition (gagner tout de même ma vie, etc.), un malade ne possède ni plus ni moins de possibilités, qu'un bien portant ; il a son éventail de possibles comme l'autre et il a à décider sur sa situation, c'est-à-dire à assumer sa condition de malade pour la dépasser (vers la guérison ou vers une vie humaine de malade avec de nouveaux horizons). Autrement dit, la maladie est une condition à l'intérieur de laquelle l'homme est de nouveau libre et sans excuses. Il a à prendre la responsabilité de sa maladie. Sa maladie est une excuse pour ne pas réaliser ses possibilités de non-malade mais elle n'en est pas une pour ses possibilités de malade qui sont aussi nombreuses... Ainsi suis-je sans repos : toujours transformé, miné, laminé, ruiné du dehors et toujours libre, toujours obligé de reprendre à mon compte, de prendre la responsabilité de ce dont je ne suis pas responsable. »
+>>**Sartre**, *Cahiers pour une morale* 
+
+
+---
+<!-- _class: i2t0 pp -->
+
+![Photographie du livre Patients de Grand corps malade](https://i.ibb.co/Bs0bM3b/gcm-patients-livre.jpg)
+
+![Affiche du film Patients](https://i.ibb.co/F4LXrVK/patients-affiche-film-t.jpg)
+
+
 ---
 <!-- _class: exercice application fmm -->
 <style scoped>
@@ -337,7 +368,8 @@ h3 {border-bottom:#88a dashed 2px ;}
 ---
 <!-- _class: citationC fmmmmm -->
 <style scoped>
-blockquote blockquote{margin-top:-10px}
+blockquote blockquote{margin-top:5px}
+blockquote{padding-top:7px; padding-bottom:7px}
 </style>
 ![bg left:30% Photographie de Freud](https://upload.wikimedia.org/wikipedia/commons/3/36/Sigmund_Freud%2C_by_Max_Halberstadt_%28cropped%29.jpg)
 
@@ -473,5 +505,82 @@ Dans le film _L'esquive_, d'Abdelattif Kechiche, Un groupe d'adolescents d'une c
 >>Karl **Marx**, *Contribution à la critique de l’économie politique*, préface
 
 ---
-<!-- _class: souspartie -->
-## C. Cependant, peut-on vraiment nier l'existence de la liberté ?
+<!-- _class: souspartie f-->
+## C. Cependant, peut-on vraiment nier l'existence de la liberté de la volonté ?
+
+---
+<!-- _class: etape fpppp-->
+### 1) Au mieux, on ne peut prouver que l'existence d'un déterminisme statistique et partiel
+
+---
+<!-- _class: fpppppppp -->
+Les hypothèses déterministes en biologie, psychologie et sociologie peuvent au mieux prédire des probabilités d'apparition d'un certain phénomène.
+Ces probabilités n'ont de sens que par rapport à un groupe d'individus : elles ne permettent pas de dire que tel individu particulier est soumis à tel destin particulier.
+Il faut distinguer le déterminisme et le fatalisme.
+
+---
+<!-- _class: i1t1 vertical -->
+<style scoped>
+h3{font-size:82%; font-weight:normal;}
+p{height:700px;}
+p img {height:700px;}
+</style>
+
+### Un exemple de fatalisme : l'histoire d'Œdipe
+
+![](https://i.ibb.co/NTLzqHF/oedipe.jpg)
+
+---
+<!-- _class: citationC fppp -->
+
+![bg left:38% Photographie du philosophe Alain](https://upload.wikimedia.org/wikipedia/commons/d/d7/%C3%89mile_Chartier_portrait.jpg)
+
+>« L'idée qui sort de ces contes, c'est la prédestination […] ; et cela s'exprime ainsi : la destinée de chacun est fixée quoi qu'il fasse. Ce qui n'est point scientifique du tout ; car ce fatalisme revient à dire : « Quelles que soient les causes, le même effet en résultera. » Or, nous savons que si la cause est autre, l'effet sera autre. »
+>>**Alain**, _Propos sur le bonheur_, XXIV : Notre avenir, 28 août 1911
+
+---
+<!-- _class: exercice tableau fmmmmmm colonnes -->
+<style scoped>
+table{margin-top:-25px!important;}
+table td{font-size:70%;}
+</style>
+
+|Fatalisme|Déterminisme|
+|:-:|:-:|
+|?|?|
+|?|?|
+|?|?|
+
+1. Une démarche rationnelle, scientifique, d’explication du réel
+2. Souvent une simple croyance très présente dans les récits populaires
+3. Une nécessité conditionnelle qui s’exprime sous la forme d’une loi de la nature : si on a cette cause, alors on a cet effet
+4. Nous devenons davantage capables d'agir sur le réel grâce à la connaissance des lois qui régissent le réel
+5. Nous sommes impuissants face au destin
+6. Une nécessité inconditionnelle : « de toute façon, ce qui doit arriver arrivera »
+
+---
+<!-- _class: exercice tableau-r fmm pp -->
+<style scoped>
+table {width:960px; padding:5px;}
+table td:nth-child(1){width:500px}
+</style>
+
+|Fatalisme|Déterminisme|
+|:-:|:-:|
+|_2_ Souvent une simple croyance très présente dans les récits populaires|_1_ Une démarche rationnelle, scientifique, d’explication du réel|
+|_6_ Une nécessité inconditionnelle : « de toute façon, ce qui doit arriver arrivera »|_3_ Une nécessité conditionnelle qui s’exprime sous la forme d’une loi de la nature : si on a cette cause, alors on a cet effet|
+|_5_ Nous sommes impuissants face<br/> au destin|_4_ Nous devenons davantage capables d'agir sur le réel grâce à la connaissance des lois qui régissent le réel|
+
+---
+<!-- _class: etape -->
+### 2) La connaissance des facteurs qui nous déterminent nous permet davantage de faire des choix libres
+
+
+---
+<!-- _class:  -->
+L'idée ici est que le libre arbitre n'est pas une propriété mystérieuse et métaphysique, mais qu'il existe des degrés réels de liberté de la volonté, qui dépendent de conditions biologiques, psychiques et sociales.
+
+---
+<!-- _class: i1t0 pp -->
+
+![Schéma sur l'idée que la connaissance des déterminismes augmente notre liberté](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/connaissance-determinismes-liberte.svg)

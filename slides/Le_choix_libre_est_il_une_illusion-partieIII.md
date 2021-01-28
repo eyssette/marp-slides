@@ -34,7 +34,7 @@ p img {height:700px;}
 
 ### L'histoire d'Œdipe
 
-![](http://users.belgacom.net/bn061744/mgoedipe2.jpg)
+![](https://i.ibb.co/NTLzqHF/oedipe.jpg)
 
 ---
 <!-- _class: citationC fppp -->
