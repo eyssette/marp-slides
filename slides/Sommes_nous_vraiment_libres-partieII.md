@@ -275,7 +275,7 @@ span {font-size:90%}
 
 ---
 <!-- _class: etape -->
-### 1) Le sentiment d'être maîtres de nos choix est-il une preuve de notre liberté ?
+### 1) Le sentiment d'être maître de ses choix n'est-il pas trompeur ?
 
 ---
 <!-- _class: cinema contain fp -->
@@ -313,12 +313,34 @@ span {font-size:90%}
 
 ---
 <!-- _class: definition -->
+<style scoped>
+ul{margin-top:-10px;}
+p{border:none; margin-top:-30px; font-size:90%;}
+</style>
 ### Définition
-Le **déterminisme** est l'idée que ce qui arrive est déterminé par des causes antérieures
+- Le **déterminisme** est l'idée que ce qui arrive est déterminé par des causes antérieures
+
+On s'interroge ici surtout sur la possibilité de l'existence de facteurs qui influenceraient de manière **inconsciente** nos choix.
 
 ---
-<!-- _class: etape -->
-### a/ Un déterminisme psychique ?
+<!-- _class: i1t0 pp -->
+
+![Schéma sur les différentes formes de déterminisme](https://raw.githubusercontent.com/eyssette/graphviz-examples/5becef073a6b721a0b9c9d5458598d5d98dbca19/diagram/formes-de-determinisme.svg)
+
+---
+<!-- _class: etape fppppppp-->
+<style scoped>
+h3 {border-bottom:#88a dashed 2px ;}
+</style>
+### a/ L'hypothèse du déterminisme psychanalytique
+
+
+---
+<!-- _class: etape fppppppp-->
+<style scoped>
+h3 {border-bottom:#88a dashed 2px ;}
+</style>
+### b/ L'hypothèse du déterminisme cognitif
 
 ---
 <!-- _class: citationC fmmmm-->
@@ -332,6 +354,8 @@ Le **déterminisme** est l'idée que ce qui arrive est déterminé par des cause
 <!-- _class: i1t0 pp -->
 
 [![](https://images-na.ssl-images-amazon.com/images/I/71+GMwDclDL.jpg)](https://www.ted.com/talks/dan_ariely_are_we_in_control_of_our_own_decisions/transcript?language=fr#t-607233)
+
+<!-- à partir de 10'54-->
 
 ---
 <!-- _class: i1t1 contain horizontal pp -->
@@ -355,9 +379,14 @@ span strong{
 
 ![](images/nudges.jpg)
 
+<!-- Mettre plutôt un ou deux exemples de nudge qui illustrent vraiment l'idée d'une exploitation des biais cognitifs humains, des heuristiques automatiques -->
+
 ---
-<!-- _class: etape -->
-### b/ Un déterminisme social ?
+<!-- _class: etape fppppppp-->
+<style scoped>
+h3 {border-bottom:#88a dashed 2px ;}
+</style>
+### c/ L'hypothèse du déterminisme de la classe sociale
 
 
 ---
@@ -390,7 +419,14 @@ Dans le film _L'esquive_, d'Abdelattif Kechiche, Un groupe d'adolescents d'une c
 [![](images/homogamie-sociale.png)](https://www.inegalites.fr/Couples-qui-se-ressemble-s-assemble)
 
 
+---
+<!-- _class: citationC fmmmmm -->
+
+![bg left:37% Photographie de Karl Marx](https://upload.wikimedia.org/wikipedia/commons/d/d4/Karl_Marx_001.jpg)
+
+>« Dans la production sociale de leur existence, les hommes nouent des rapports déterminés, nécessaires, indépendants de leur volonté ; ces rapports de production correspondent à un degré donné du développement de leurs forces productives matérielles. L’ensemble de ces rapports forme la structure économique de la société, la fondation réelle sur laquelle s’élève un édifice juridique et politique, et à quoi répondent des formes déterminées de la conscience sociale. Le mode de production de la vie matérielle domine en général le développement de la vie sociale, politique et intellectuelle. Ce n’est pas la conscience des hommes qui détermine leur existence, c’est au contraire leur existence sociale qui détermine leur conscience. »
+>>Karl **Marx**, *Contribution à la critique de l’économie politique*, préface
 
 ---
 <!-- _class: souspartie -->
-## C. 
+## C. Cependant, peut-on vraiment nier l'existence de la liberté ?
