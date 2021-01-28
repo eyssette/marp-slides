@@ -400,11 +400,21 @@ Un **biais cognitif** est une tendance à penser ou raisonner en fonction d'un s
 ---
 <!-- _class: i1t1 vertical -->
 <style scoped>
-img {width:700px!important;}
+img {width:720px!important;}
 </style>
 L'effet de leurre (*Decoy effect*)
 
 ![Decoy Effect](https://i.ibb.co/XJB4PzQ/decoy-coffee.jpg)
+
+---
+<!-- _class: i1t1 vertical -->
+<style scoped>
+img {width:720px!important;}
+</style>
+
+Le biais de *statu quo*
+
+![Deux procédures différentes pour le don d'organes](https://i.ibb.co/42cfcwy/organ-donations-t.jpg)
 
 ---
 <!-- _class: entete approfondissement -->
