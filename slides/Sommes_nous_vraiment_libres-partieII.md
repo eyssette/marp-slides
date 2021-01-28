@@ -334,6 +334,19 @@ h3 {border-bottom:#88a dashed 2px ;}
 </style>
 ### a/ L'hypothèse du déterminisme psychanalytique
 
+---
+<!-- _class: citationC fmmmmm -->
+<style scoped>
+blockquote blockquote{margin-top:-10px}
+</style>
+![bg left:30% Photographie de Freud](https://upload.wikimedia.org/wikipedia/commons/3/36/Sigmund_Freud%2C_by_Max_Halberstadt_%28cropped%29.jpg)
+
+>«  Dans le cours des siècles, la science a infligé à l’égoïsme naïf de l’humanité deux graves démentis. La première fois, ce fut lorsqu’elle a montré que la terre, loin d’être le centre de l’univers, ne forme qu’une parcelle insignifiante du système cosmique dont nous pouvons à peine nous représenter la grandeur [...]. Le second démenti fut infligé à l’humanité par la recherche biologique, lorsqu’elle a réduit à rien les prétentions de l’homme à une place privilégiée dans l’ordre de la création, en établissant sa descendance du règne animal [...]. Un troisième démenti sera infligé à la mégalomanie humaine par la recherche psychologique de nos jours qui se propose de montrer au moi qu’il n’est seulement pas maître dans sa propre maison, qu’il en est réduit à se contenter de renseignements rares et fragmentaires sur ce qui se passe, en dehors de sa conscience, dans sa vie psychique. » 
+>>**Freud**, *Introduction à la psychanalyse* (1916), II, chap. 18 
+
+---
+<!-- _class: i1t0 pp-->
+![Schéma sur la psychanalyse](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/psychanalyse.svg)
 
 ---
 <!-- _class: etape fppppppp-->
