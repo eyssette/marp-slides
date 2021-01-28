@@ -18,7 +18,7 @@ Deuxième partie
 ---
 <!-- _class: etape -->
 
-### 1. Nous avons la capacité de faire des choix qui proviennent véritablement de nous-mêmes
+### 1) Nous avons la capacité de faire des choix qui proviennent véritablement de nous-mêmes
 
 C'est ce qu'on peut appeler la “liberté de la source”
 
@@ -47,7 +47,7 @@ blockquote blockquote{margin-top:-10px;}
 ---
 <!-- _class: etape -->
 
-### 2. Nous avons la capacité de faire un autre choix
+### 2) Nous avons la capacité de faire un autre choix
 
 C'est ce qu'on peut appeler la “liberté des alternatives”
 
@@ -158,7 +158,7 @@ Une différence de degré et non de nature ?
 
 ---
 <!-- _class: etape -->
-### 3. On peut cependant s'interroger sur l'étendue de notre liberté, selon la situation dans laquelle on se trouve
+### 3) On peut cependant s'interroger sur l'étendue de notre liberté, selon la situation dans laquelle on se trouve
 
 
 ---
