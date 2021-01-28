@@ -348,6 +348,11 @@ blockquote blockquote{margin-top:-10px}
 <!-- _class: i1t0 pp-->
 ![Schéma sur la psychanalyse](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/psychanalyse.svg)
 
+
+---
+<!-- _class: i1t0 pp-->
+![Schéma sur l'évalution critique de la psychanalyse](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/evaluation-psychanalyse.svg)
+
 ---
 <!-- _class: etape fppppppp-->
 <style scoped>
@@ -388,11 +393,28 @@ span strong{
 <span>Un **nudge** désigne une manière d'influencer les comportements qui ne fait appel ni à la violence (exercice direct de la force physique) ni à la contrainte (interdiction et menace de sanctions) mais repose sur la connaissance de la psychologie humaine. </span>
 
 ---
-<!-- _class: i1t0 pp -->
+<!-- _class: definition -->
+### Définition
+Un **biais cognitif** est une tendance à penser ou raisonner en fonction d'un schéma automatique qui ne prend pas en compte certaines informations importantes
 
-![](images/nudges.jpg)
+---
+<!-- _class: i1t1 vertical -->
+<style scoped>
+img {width:700px!important;}
+</style>
+L'effet de leurre (*Decoy effect*)
 
-<!-- Mettre plutôt un ou deux exemples de nudge qui illustrent vraiment l'idée d'une exploitation des biais cognitifs humains, des heuristiques automatiques -->
+![Decoy Effect](https://i.ibb.co/XJB4PzQ/decoy-coffee.jpg)
+
+---
+<!-- _class: entete approfondissement -->
+### Approfondissement
+
+Un site très bien fait pour explorer les différents biais cognitifs :
+https://www.shortcogs.com/
+
+Une infographie qui cherche à faire une liste de tous les biais cognitifs :
+https://www.penser-critique.be/wp-content/uploads/2018/02/codex-biais-cognitifs.pdf
 
 ---
 <!-- _class: etape fppppppp-->
