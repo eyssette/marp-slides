@@ -449,14 +449,14 @@ Le biais de *statu quo*
 ![Deux procédures différentes pour le don d'organes](https://i.ibb.co/42cfcwy/organ-donations-t.jpg)
 
 ---
-<!-- _class: entete approfondissement -->
+<!-- _class: entete approfondissement f -->
 ### Approfondissement
 
-Un site très bien fait pour explorer les différents biais cognitifs :
-https://www.shortcogs.com/
+Un site très bien fait pour explorer les différents biais cognitifs : https://www.shortcogs.com/
 
-Une infographie qui cherche à faire une liste de tous les biais cognitifs :
-https://www.penser-critique.be/wp-content/uploads/2018/02/codex-biais-cognitifs.pdf
+Une infographie qui cherche à faire une liste de tous les biais cognitifs : https://www.penser-critique.be/wp-content/uploads/2018/02/codex-biais-cognitifs.pdf
+
+Deux articles de l'_Encyclopédie Philosophique_ sur les biais cognitifs : [version grand public](https://encyclo-philo.fr/s/encyclophilo/item/54) et [version académique](https://encyclo-philo.fr/s/encyclophilo/item/165)
 
 ---
 <!-- _class: etape fppppppp-->
