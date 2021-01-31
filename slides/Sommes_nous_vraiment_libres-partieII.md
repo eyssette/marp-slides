@@ -505,6 +505,22 @@ Dans le film _L'esquive_, d'Abdelattif Kechiche, Un groupe d'adolescents d'une c
 >>Karl **Marx**, *Contribution à la critique de l’économie politique*, préface
 
 ---
+<!-- _class: exercice application fmm -->
+<style scoped>
+ul ul {font-size:100%}
+span {font-size:90%}
+</style>
+
+### Exercice d'argumentation et de mobilisation de sa culture
+
+- Choisir un des sujets suivants, et défendre _une_ réponse <span>(150 mots minimum)</span> avec la structure _ARES_ et l'une des formes de déterminisme comme référence.
+  - Sommes-nous déterminés par notre passé ?
+  - Les humains sont-ils des êtres à part dans la nature ?
+  - L'explication scientifique de l'être humain est-elle incompatible avec l'affirmation de la liberté humaine ?
+  - L'idée d'inconscient remet-elle en cause la liberté ?
+  - La conscience est-elle ce qui me rend libre ?
+
+---
 <!-- _class: souspartie f-->
 ## C. Cependant, peut-on vraiment nier l'existence de la liberté de la volonté ?
 
@@ -574,7 +590,6 @@ table td:nth-child(1){width:500px}
 ---
 <!-- _class: etape -->
 ### 2) La connaissance des facteurs qui nous déterminent nous permet davantage de faire des choix libres
-
 
 ---
 <!-- _class:  -->
