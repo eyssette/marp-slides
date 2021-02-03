@@ -378,8 +378,28 @@ blockquote{padding-top:7px; padding-bottom:7px}
 
 ---
 <!-- _class: i1t0 pp-->
+<style scoped>
+ul{background:none; margin:auto; padding:0; width:100%; height:100%; display: flex; justify-content: center; position:absolute;}
+ul li:before{content:"";}
+ul li {margin:auto; padding:0; position:absolute;}
+img {clip-path: inset(0px 0px 302px 0px); position:absolute; margin:auto;}
+ul li[data-marpit-fragment="1"] img {clip-path: polygon(0% 0%, 0% 100%, 43% 100%, 43% 58%, 100% 58%, 99% 0%); position:relative; margin:2px;}
+ul li[data-marpit-fragment="2"] img {clip-path:none; position:relative; margin:2px;}
+</style>
+
 ![Schéma sur la psychanalyse](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/psychanalyse.svg)
 
+* ![Schéma sur la psychanalyse](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/psychanalyse.svg)
+* ![Schéma sur la psychanalyse](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/psychanalyse.svg)
+
+
+
+---
+<!-- _class: i1t0 pp-->
+<style scoped>
+img {clip-path: polygon(0% 0%, 0% 100%, 45% 100%, 45% 32.8%, 100% 32.8%, 99% 0%);}
+</style>
+![Schéma sur l'évalution critique de la psychanalyse](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/evaluation-psychanalyse.svg)
 
 ---
 <!-- _class: i1t0 pp-->
