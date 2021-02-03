@@ -392,18 +392,19 @@ ul li[data-marpit-fragment="2"] img {clip-path:none; position:relative; margin:2
 * ![Schéma sur la psychanalyse](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/psychanalyse.svg)
 * ![Schéma sur la psychanalyse](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/psychanalyse.svg)
 
-
-
 ---
 <!-- _class: i1t0 pp-->
 <style scoped>
-img {clip-path: polygon(0% 0%, 0% 100%, 45% 100%, 45% 32.8%, 100% 32.8%, 99% 0%);}
+ul{background:none; margin:auto; padding:0; width:100%; height:100%; display: flex; justify-content: center; align-items:center; position:absolute;}
+ul li:before{content:"";}
+ul li {margin:auto; padding:0; position:absolute;}
+img {clip-path: polygon(0% 0%, 0% 100%, 45% 100%, 45% 25.3%, 100% 25.3%, 99% 0%);}
+ul li[data-marpit-fragment="1"] img {clip-path:none; position:relative;}
 </style>
-![Schéma sur l'évalution critique de la psychanalyse](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/evaluation-psychanalyse.svg)
 
----
-<!-- _class: i1t0 pp-->
-![Schéma sur l'évalution critique de la psychanalyse](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/evaluation-psychanalyse.svg)
+- ![Schéma sur l'évalution critique de la psychanalyse](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/evaluation-psychanalyse.svg)
+* ![Schéma sur l'évalution critique de la psychanalyse](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/evaluation-psychanalyse.svg)
+
 
 ---
 <!-- _class: etape fppppppp-->
