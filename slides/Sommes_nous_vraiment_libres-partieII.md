@@ -141,20 +141,19 @@ Une différence de degré et non de nature ?
 >>**Thomas d'Aquin**, _Somme théologique_, I, question 83, réponse
 
 ---
+<!-- _class: definition fppppppppp -->
+
+### Définition
+
+- Ce qui est **contingent**, c'est ce qui pourrait être autrement, c'est ce dont le contraire est possible
+- Ce qui est **nécessaire**, c'est ce qui ne peut pas être autrement, c'est ce dont le contraire est impossible
+
+---
 <!-- _class: definition fpppppppp-->
 
 ### Définition
 
 - Un **syllogisme dialectique** est un argument qui laisse une place au dialogue : il est possible de penser autrement ; ce n'est pas une démonstration dont la conclusion est nécessairement vraie.
-
-
----
-<!-- _class: definition fppppppppp -->
-
-### Définition
-
-- Ce qui est **nécessaire**, c'est ce qui ne peut pas être autrement, c'est ce dont le contraire est impossible
-- Ce qui est **contingent**, c'est ce qui pourrait être autrement, c'est ce dont le contraire est possible
 
 ---
 <!-- _class: etape -->
