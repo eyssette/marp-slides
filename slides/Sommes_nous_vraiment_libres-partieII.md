@@ -428,23 +428,6 @@ h3 {border-bottom:#88a dashed 2px ;}
 <!-- à partir de 10'54-->
 
 ---
-<!-- _class: i1t1 contain horizontal pp -->
-<style scoped>
-p:nth-child(1){margin-left:-20px!important; padding-left:0px;}
-p:nth-child(2){margin-right:30px; padding-right:20px!important; font-size:85%;}
-span{display:block; border:rgb(24, 33, 117) 3px solid; border-radius:40px; text-align:justify; padding:20px; margin-left:-20px!important;}
-span strong{
-    color: rgb(14, 23, 107);
-    font-weight:400;
-}
-</style>
-
-![](https://ec56229aec51f1baff1d-185c3068e22352c56024573e929788ff.ssl.cf1.rackcdn.com/attachments/large/0/9/1/000552091.jpg)
-
-**Définition**<br/>
-<span>Un **nudge** désigne une manière d'influencer les comportements qui ne fait appel ni à la violence (exercice direct de la force physique) ni à la contrainte (interdiction et menace de sanctions) mais repose sur la connaissance de la psychologie humaine. </span>
-
----
 <!-- _class: definition -->
 ### Définition
 Un **biais cognitif** est une tendance à penser ou raisonner en fonction d'un schéma automatique qui ne prend pas en compte certaines informations importantes
@@ -477,6 +460,23 @@ Un site très bien fait pour explorer les différents biais cognitifs : https://
 Une infographie qui cherche à faire une liste de tous les biais cognitifs : https://www.penser-critique.be/wp-content/uploads/2018/02/codex-biais-cognitifs.pdf
 
 Deux articles de l'_Encyclopédie Philosophique_ sur les biais cognitifs : [version grand public](https://encyclo-philo.fr/s/encyclophilo/item/54) et [version académique](https://encyclo-philo.fr/s/encyclophilo/item/165)
+
+---
+<!-- _class: i1t1 contain horizontal pp -->
+<style scoped>
+p:nth-child(1){margin-left:-20px!important; padding-left:0px;}
+p:nth-child(2){margin-right:30px; padding-right:20px!important; font-size:85%;}
+span{display:block; border:rgb(24, 33, 117) 3px solid; border-radius:40px; text-align:justify; padding:20px; margin-left:-20px!important;}
+span strong{
+    color: rgb(14, 23, 107);
+    font-weight:400;
+}
+</style>
+
+![](https://ec56229aec51f1baff1d-185c3068e22352c56024573e929788ff.ssl.cf1.rackcdn.com/attachments/large/0/9/1/000552091.jpg)
+
+**Définition**<br/>
+<span>Un **nudge** désigne une manière d'influencer les comportements qui ne fait appel ni à la violence (exercice direct de la force physique) ni à la contrainte (interdiction et menace de sanctions) mais repose sur la connaissance de la psychologie humaine. </span>
 
 ---
 <!-- _class: etape fppppppp-->
