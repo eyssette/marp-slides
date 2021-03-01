@@ -364,6 +364,45 @@ p:nth-of-type(1){margin-top:-15px!important;}
 2. Notre identité est avant tout affective : elle se définit par l'orientation de notre volonté, par nos manières d'agir et de réagir
 
 
+---
+<!-- _class: souspartie -->
+## C. Formuler la question et la thèse du texte
+
+---
+<!-- _class: pointmethode fpppppp -->
+<style scoped>
+h3 {margin-bottom:55px}
+</style>
+### Point méthode
+La question directrice doit porter sur la ou les deux notions principales du texte.
+On vérifie que c'est bien cette question qui guide l'ensemble du texte.
+Attention : la question n'est généralement pas dans le texte, et il faut dans tous les cas la formuler par soi-même.
+
+---
+<!-- _class: pointmethode fppppppp -->
+<style scoped>
+h3 {margin-bottom:68px}
+</style>
+### Point méthode
+La thèse est la réponse de l'auteur à la question directrice.
+On la formule par soi-même : on ne recopie pas une phrase du texte.
+La thèse doit être précise : elle doit contenir un maximum de notions du texte.
+
+---
+<!-- _class: pointmethode -->
+### Point méthode
+Pour mieux comprendre la thèse de l'auteur, il faut aussi comprendre ce à quoi l'auteur s'oppose.
+
+---
+<!-- _class: fppppp -->
+<style scoped>
+p:nth-of-type(2){margin-top:15px!important;}
+</style>
+**Question directrice**
+Peut-on déterminer ce qui fait l'identité d'une personne ?
+
+**Thèse**
+L'identité d'une personne ne se trouve pas dans les caractéristiques physiques du corps, elle se trouve dans l'intériorité psychique : le moi véritable se définit par la volonté et le caractère de l'individu, qui s'expriment dans nos manières d'agir et de réagir
 
 
 ---
