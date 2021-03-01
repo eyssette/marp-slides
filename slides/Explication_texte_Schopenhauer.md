@@ -413,3 +413,68 @@ img {position:absolute; top:37px; left:45px; width:873px; height:530px}
 ![](https://c.pxhere.com/photos/5e/8d/mouse_rodent_cute_mammal_nager_nature_animal_wood_mouse-478455.jpg!d)
 
 II – Lecture fine
+
+---
+<!-- _class: pointmethode  -->
+### Point méthode
+Pour la lecture fine, on va garder le CAP : Citation / Analyse / Problèmes
+
+---
+<!-- _class: i1t0 pp -->
+![](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/methode-CAP-v2.svg)
+
+---
+<!-- _class: pp -->
+<iframe src="https://drive.google.com/file/d/14eyFcYxSl003biGl9pFRW6Kfcd0kia_z/preview" width="100%" height="100%"></iframe>
+
+---
+<!-- _class: partie -->
+<style scoped>
+img {position:absolute; top:37px; left:45px; width:873px; height:530px}
+</style>
+![](https://c.pxhere.com/photos/e6/65/person_pencil_drawing_writing_cup-105607.jpg!d)
+
+III – Rédaction
+
+
+---
+<!-- _class: pointmethode fppp-->
+<style scoped>
+ol{padding-top:5px;}
+</style>
+### Point méthode
+L'introduction se rédige en trois temps :
+1. Question directrice + Première réponse possible (R1) + Remises en question possibles de R1, pour montrer qu'un problème se pose
+2. Thèse du texte (= positionnement de l'auteur par rapport à ce problème)
+3. Plan du texte
+
+
+---
+<!-- _class: pointmethode fppp-->
+### Point méthode
+Pour le développement, on fait une partie pour chaque partie du texte.
+On suit le texte de manière linéaire et pour chaque sous-partie, on garde le CAP : Citation / Analyse / Problèmes.
+On termine par une transition vers la sous-partie ou partie suivante : le lien logique doit être clair.
+
+---
+<!-- _class: pointmethode fmmm -->
+<style scoped>
+ul {padding-top:5px}
+h3{margin-bottom:52px}
+</style>
+### Point méthode
+Il est possible de faire une partie supplémentaire de discussion du texte, mais cette partie ne doit pas être un prétexte pour parler d'autre chose ou pour réciter son cours. Il faut discuter un ou deux enjeux importants du texte. On peut : 
+- soit problématiser le texte (en défendant tout de même au maximum le texte) ;
+- soit prolonger le texte pour en renforcer la pertinence, par application à un cas particulier intéressant ;
+- soit comparer le texte à une autre perspective pour mieux le comprendre et cerner ses limites et son intérêt.
+
+---
+<!-- _class: pointmethode fpppp -->
+<style scoped>
+ol {padding-top:5px}
+h3{margin-bottom:55px}
+</style>
+### Point méthode
+La conclusion se rédige en deux temps :
+1. Rappel de la question directrice et résumé du plan 
+2. Intérêt philosophique du texte : À  quelle remise en question nous invite ce texte ? Qu'est-ce qu'il apporte par rapport aux conceptions ordinaires sur ce sujet ?
