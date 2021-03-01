@@ -438,7 +438,7 @@ III – Rédaction
 
 
 ---
-<!-- _class: pointmethode fppp-->
+<!-- _class: pointmethode fpp-->
 <style scoped>
 ol{padding-top:5px;}
 </style>
