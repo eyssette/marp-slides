@@ -12,11 +12,14 @@ Cédric Eyssette
 http://eyssette.net
 
 ---
-<!-- _class: i2t0 pp horizontal -->
+<!-- _class: i2t0 pp horizontal contain -->
+<style scoped>
+img{height:680px!important; margin-top:-50px}
+</style>
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Arthur_Schopenhauer_colorized.png/828px-Arthur_Schopenhauer_colorized.png)
 
-![](https://images-na.ssl-images-amazon.com/images/I/318vbViiypL._SX327_BO1,204,203,200_.jpg)
+![](https://i.ibb.co/174QWQj/Schopenhauer-MVR-couverture-t.jpg)
 
 ---
 <!-- _class: citationC pm -->
@@ -200,7 +203,7 @@ p {line-height:1.12em!important;}
 .hl4 {text-decoration:underline dodgerblue}
 .hl5 {text-decoration:underline plum}
 .hl6 {text-decoration:underline darkgrey}
-.hl7 {text-decoration:underline maroon}
+.hl7 {text-decoration:underline double tan}
 </style>
 
 >  « Sur quoi repose <span class="hl1">l'identité</span> de <span class="hl2">la personne</span> ? – Pas sur <span class="hl3">la matière du corps</span>, puisqu'elle <span class="hl1">devient autre</span> <span class="hl4">au bout de quelques années</span>. Pas sur <span class="hl3">la forme de cette même matière</span>, puisqu'elle <span class="hl1">change</span> <span class="hl3">dans son ensemble et dans toutes ses parties, à l'exception toutefois de l'expression du regard</span>, à laquelle <span class="hl5">on reconnaît</span> encore <span class="hl2">une personne</span> <span class="hl4">même après de longues années</span> ; ce qui prouve que, en dépit de tous les <span class="hl1">changements</span> que <span class="hl4">le temps</span> a provoqués en <span class="hl2">cette personne</span>, <span class="hl1">il reste</span> cependant en elle <span class="hl1">quelque chose d'absolument immuable</span>, et c'est précisément cette chose qui nous <span class="hl5">permet de le reconnaître</span> encore <span class="hl4">après un si long intervalle</span> […] ; il en va pareillement pour nous-mêmes ; car, <span class="hl4">aussi vieux que nous devenions</span>, nous <span class="hl5">sentons intérieurement</span> que nous sommes <span class="hl1">restés en tout point le même</span> que celui que nous étions <span class="hl4">dans notre jeunesse, dans notre enfance</span>. […] – On admet que <span class="hl1">l'identité</span> de <span class="hl2">la personne</span> repose sur celle de <span class="hl5">sa conscience</span>. Mais, si nous entendons sous <span class="hl5">le terme de conscience</span> seulement la <span class="hl6">remémoration cohérente</span> du <span class="hl4">cours de la vie</span>, alors celle-ci n'y suffit pas. Sans doute, dans le meilleur des cas, en <span class="hl5">savons-nous</span> plus sur <span class="hl4">le cours de notre vie</span> que sur un roman que nous avons lu <span class="hl4">jadis</span> ; mais <span class="hl5">ce que nous en savons</span> reste cependant extrêmement peu de chose. <span class="hl6">Les événements principaux, les scènes les plus intéressantes sont restés imprimés ; quant au reste, pour un événement gardé en mémoire, mille autres ont été oubliés</span>. <span class="hl4">Plus nous vieillissons, plus les choses passent</span> <span class="hl6">sans laisser de trace</span>. […] Mais <span class="hl1">l'identité</span> de <span class="hl2">la personne</span> n'en est pas perdue pour autant. Elle repose sur <span class="hl7">une volonté</span> <span class="hl1">identique</span> et sur <span class="hl7">le caractère</span> <span class="hl1">immuable</span> de celle-ci. C'est aussi elle qui rend <span class="hl3">l'expression du regard</span> <span class="hl1">immuable</span>. <span class="hl2">L'homme</span> réside <span class="hl7">dans le cœur et non dans la tête</span>. […] <span class="hl2">Notre véritable moi, le noyau de notre être</span> […] ne connaît au fond rien d'autre que <span class="hl7">le vouloir et le non-vouloir, la satisfaction et la non-satisfaction</span>, avec toutes les <span class="hl1">modifications</span> de ce qu'on appelle <span class="hl7">sentiments, affects et passions</span>. »
@@ -255,13 +258,68 @@ p {line-height:1.12em!important;}
 .hl4 {text-decoration:underline dodgerblue}
 .hl5 {text-decoration:underline plum}
 .hl6 {text-decoration:underline darkgrey}
-.hl7 {text-decoration:underline maroon}
+.hl7 {text-decoration:underline double tan}
+</style>
+
+>  « Sur quoi repose <span class="hl1">l'identité</span> de <span class="hl2">la personne</span> ? – Pas sur <span class="hl3">la matière du corps</span>, puisqu'elle <span class="hl1">devient autre</span> <span class="hl4">au bout de quelques années</span>. Pas sur <span class="hl3">la forme de cette même matière</span>, puisqu'elle <span class="hl1">change</span> <span class="hl3">dans son ensemble et dans toutes ses parties, à l'exception toutefois de l'expression du regard</span>, à laquelle <span class="hl5">on reconnaît</span> encore <span class="hl2">une personne</span> <span class="hl4">même après de longues années</span> ; ce qui prouve que, en dépit de tous les <span class="hl1">changements</span> que <span class="hl4">le temps</span> a provoqués en <span class="hl2">cette personne</span>, <span class="hl1">il reste</span> cependant en elle <span class="hl1">quelque chose d'absolument immuable</span>, et c'est précisément cette chose qui nous <span class="hl5">permet de le reconnaître</span> encore <span class="hl4">après un si long intervalle</span> […] ; il en va pareillement pour nous-mêmes ; car, <span class="hl4">aussi vieux que nous devenions</span>, nous <span class="hl5">sentons intérieurement</span> que nous sommes <span class="hl1">restés en tout point le même</span> que celui que nous étions <span class="hl4">dans notre jeunesse, dans notre enfance</span>. […] – On admet que <span class="hl1">l'identité</span> de <span class="hl2">la personne</span> repose sur celle de <span class="hl5">sa conscience</span>. Mais, si nous entendons sous <span class="hl5">le terme de conscience</span> seulement la <span class="hl6">remémoration cohérente</span> du <span class="hl4">cours de la vie</span>, alors celle-ci n'y suffit pas. Sans doute, dans le meilleur des cas, en <span class="hl5">savons-nous</span> plus sur <span class="hl4">le cours de notre vie</span> que sur un roman que nous avons lu <span class="hl4">jadis</span> ; mais <span class="hl5">ce que nous en savons</span> reste cependant extrêmement peu de chose. <span class="hl6">Les événements principaux, les scènes les plus intéressantes sont restés imprimés ; quant au reste, pour un événement gardé en mémoire, mille autres ont été oubliés</span>. <span class="hl4">Plus nous vieillissons, plus les choses passent</span> <span class="hl6">sans laisser de trace</span>. […] Mais <span class="hl1">l'identité</span> de <span class="hl2">la personne</span> n'en est pas perdue pour autant. Elle repose sur <span class="hl7">une volonté</span> <span class="hl1">identique</span> et sur <span class="hl7">le caractère</span> <span class="hl1">immuable</span> de celle-ci. C'est aussi elle qui rend <span class="hl3">l'expression du regard</span> <span class="hl1">immuable</span>. <span class="hl2">L'homme</span> réside <span class="hl7">dans le cœur et non dans la tête</span>. […] <span class="hl2">Notre véritable moi, le noyau de notre être</span> […] ne connaît au fond rien d'autre que <span class="hl7">le vouloir et le non-vouloir, la satisfaction et la non-satisfaction</span>, avec toutes les <span class="hl1">modifications</span> de ce qu'on appelle <span class="hl7">sentiments, affects et passions</span>. »
+
+---
+<!-- _class: citationL fmmmmmm -->
+<style scoped>
+blockquote {margin:5px; padding:3px; background-color:white; margin-left:-3px; margin-right:12px}
+p {line-height:1.12em!important;}
+.hl1 {text-decoration:underline red}
+.hl2 {text-decoration:underline darkgreen}
+.hl3 {text-decoration:underline orange}
+.hl4 {text-decoration:underline dodgerblue}
+.hl5 {text-decoration:underline plum}
+.hl6 {text-decoration:underline darkgrey}
+.hl7 {text-decoration:underline double tan}
 .separation:before{content:"/"; position:absolute; font-size:110%; font-weight:bold; background-color:yellow}
-.separation:after{background-image:url("https://upload.wikimedia.org/wikipedia/commons/5/51/Accolade_droite.png");position:absolute; left:932px; top:-20px; height:200px;  transform: scaleY(0.62); width:20px; display:inline-block; content:""}
+.separation:after{background-image:url("https://upload.wikimedia.org/wikipedia/commons/5/51/Accolade_droite.png");position:absolute; left:932px; top:-22px; height:200px;  transform: scaleY(0.62); width:20px; display:inline-block; content:""}
 </style>
 
 >  « Sur quoi repose <span class="hl1">l'identité</span> de <span class="hl2">la personne</span> ? – Pas sur <span class="hl3">la matière du corps</span>, puisqu'elle <span class="hl1">devient autre</span> <span class="hl4">au bout de quelques années</span>. Pas sur <span class="hl3">la forme de cette même matière</span>, puisqu'elle <span class="hl1">change</span> <span class="hl3">dans son ensemble et dans toutes ses parties, à l'exception toutefois de l'expression du regard</span>, à laquelle <span class="hl5">on reconnaît</span> encore <span class="hl2">une personne</span> <span class="hl4">même après de longues années</span> <span class="separation"></span> ; ce qui prouve que, en dépit de tous les <span class="hl1">changements</span> que <span class="hl4">le temps</span> a provoqués en <span class="hl2">cette personne</span>, <span class="hl1">il reste</span> cependant en elle <span class="hl1">quelque chose d'absolument immuable</span>, et c'est précisément cette chose qui nous <span class="hl5">permet de le reconnaître</span> encore <span class="hl4">après un si long intervalle</span> […] ; il en va pareillement pour nous-mêmes ; car, <span class="hl4">aussi vieux que nous devenions</span>, nous <span class="hl5">sentons intérieurement</span> que nous sommes <span class="hl1">restés en tout point le même</span> que celui que nous étions <span class="hl4">dans notre jeunesse, dans notre enfance</span>. […] – On admet que <span class="hl1">l'identité</span> de <span class="hl2">la personne</span> repose sur celle de <span class="hl5">sa conscience</span>. Mais, si nous entendons sous <span class="hl5">le terme de conscience</span> seulement la <span class="hl6">remémoration cohérente</span> du <span class="hl4">cours de la vie</span>, alors celle-ci n'y suffit pas. Sans doute, dans le meilleur des cas, en <span class="hl5">savons-nous</span> plus sur <span class="hl4">le cours de notre vie</span> que sur un roman que nous avons lu <span class="hl4">jadis</span> ; mais <span class="hl5">ce que nous en savons</span> reste cependant extrêmement peu de chose. <span class="hl6">Les événements principaux, les scènes les plus intéressantes sont restés imprimés ; quant au reste, pour un événement gardé en mémoire, mille autres ont été oubliés</span>. <span class="hl4">Plus nous vieillissons, plus les choses passent</span> <span class="hl6">sans laisser de trace</span>. […] Mais <span class="hl1">l'identité</span> de <span class="hl2">la personne</span> n'en est pas perdue pour autant. Elle repose sur <span class="hl7">une volonté</span> <span class="hl1">identique</span> et sur <span class="hl7">le caractère</span> <span class="hl1">immuable</span> de celle-ci. C'est aussi elle qui rend <span class="hl3">l'expression du regard</span> <span class="hl1">immuable</span>. <span class="hl2">L'homme</span> réside <span class="hl7">dans le cœur et non dans la tête</span>. […] <span class="hl2">Notre véritable moi, le noyau de notre être</span> […] ne connaît au fond rien d'autre que <span class="hl7">le vouloir et le non-vouloir, la satisfaction et la non-satisfaction</span>, avec toutes les <span class="hl1">modifications</span> de ce qu'on appelle <span class="hl7">sentiments, affects et passions</span>. »
 
+---
+<!-- _class: citationL fmmmmmm -->
+<style scoped>
+blockquote {margin:5px; padding:3px; background-color:white; margin-left:-3px; margin-right:12px}
+p {line-height:1.12em!important;}
+.hl1 {text-decoration:underline red}
+.hl2 {text-decoration:underline darkgreen}
+.hl3 {text-decoration:underline orange}
+.hl4 {text-decoration:underline dodgerblue}
+.hl5 {text-decoration:underline plum}
+.hl6 {text-decoration:underline darkgrey}
+.hl7 {text-decoration:underline double tan}
+.separation1:before, .separation2:before{content:"/"; position:absolute; font-size:110%; font-weight:bold; background-color:yellow}
+.separation1:after{background-image:url("https://upload.wikimedia.org/wikipedia/commons/5/51/Accolade_droite.png");position:absolute; left:932px; top:-22px; height:200px;  transform: scaleY(0.62); width:20px; display:inline-block; content:""}
+.separation2:after{background-image:url("https://upload.wikimedia.org/wikipedia/commons/5/51/Accolade_droite.png");position:absolute; left:932px; top:128px; height:200px;  transform: scaleY(0.85); width:20px; display:inline-block; content:""}
+</style>
+
+>  « Sur quoi repose <span class="hl1">l'identité</span> de <span class="hl2">la personne</span> ? – Pas sur <span class="hl3">la matière du corps</span>, puisqu'elle <span class="hl1">devient autre</span> <span class="hl4">au bout de quelques années</span>. Pas sur <span class="hl3">la forme de cette même matière</span>, puisqu'elle <span class="hl1">change</span> <span class="hl3">dans son ensemble et dans toutes ses parties, à l'exception toutefois de l'expression du regard</span>, à laquelle <span class="hl5">on reconnaît</span> encore <span class="hl2">une personne</span> <span class="hl4">même après de longues années</span> <span class="separation1"></span> ; ce qui prouve que, en dépit de tous les <span class="hl1">changements</span> que <span class="hl4">le temps</span> a provoqués en <span class="hl2">cette personne</span>, <span class="hl1">il reste</span> cependant en elle <span class="hl1">quelque chose d'absolument immuable</span>, et c'est précisément cette chose qui nous <span class="hl5">permet de le reconnaître</span> encore <span class="hl4">après un si long intervalle</span> […] ; il en va pareillement pour nous-mêmes ; car, <span class="hl4">aussi vieux que nous devenions</span>, nous <span class="hl5">sentons intérieurement</span> que nous sommes <span class="hl1">restés en tout point le même</span> que celui que nous étions <span class="hl4">dans notre jeunesse, dans notre enfance</span>. […] <span class="separation2"></span> – On admet que <span class="hl1">l'identité</span> de <span class="hl2">la personne</span> repose sur celle de <span class="hl5">sa conscience</span>. Mais, si nous entendons sous <span class="hl5">le terme de conscience</span> seulement la <span class="hl6">remémoration cohérente</span> du <span class="hl4">cours de la vie</span>, alors celle-ci n'y suffit pas. Sans doute, dans le meilleur des cas, en <span class="hl5">savons-nous</span> plus sur <span class="hl4">le cours de notre vie</span> que sur un roman que nous avons lu <span class="hl4">jadis</span> ; mais <span class="hl5">ce que nous en savons</span> reste cependant extrêmement peu de chose. <span class="hl6">Les événements principaux, les scènes les plus intéressantes sont restés imprimés ; quant au reste, pour un événement gardé en mémoire, mille autres ont été oubliés</span>. <span class="hl4">Plus nous vieillissons, plus les choses passent</span> <span class="hl6">sans laisser de trace</span>. […] Mais <span class="hl1">l'identité</span> de <span class="hl2">la personne</span> n'en est pas perdue pour autant. Elle repose sur <span class="hl7">une volonté</span> <span class="hl1">identique</span> et sur <span class="hl7">le caractère</span> <span class="hl1">immuable</span> de celle-ci. C'est aussi elle qui rend <span class="hl3">l'expression du regard</span> <span class="hl1">immuable</span>. <span class="hl2">L'homme</span> réside <span class="hl7">dans le cœur et non dans la tête</span>. […] <span class="hl2">Notre véritable moi, le noyau de notre être</span> […] ne connaît au fond rien d'autre que <span class="hl7">le vouloir et le non-vouloir, la satisfaction et la non-satisfaction</span>, avec toutes les <span class="hl1">modifications</span> de ce qu'on appelle <span class="hl7">sentiments, affects et passions</span>. »
+
+---
+<!-- _class: citationL fmmmmmm -->
+<style scoped>
+blockquote {margin:5px; padding:3px; background-color:white; margin-left:-3px; margin-right:12px}
+p {line-height:1.12em!important;}
+.hl1 {text-decoration:underline red}
+.hl2 {text-decoration:underline darkgreen}
+.hl3 {text-decoration:underline orange}
+.hl4 {text-decoration:underline dodgerblue}
+.hl5 {text-decoration:underline plum}
+.hl6 {text-decoration:underline darkgrey}
+.hl7 {text-decoration:underline double tan}
+.separation1:before, .separation2:before, .separation3:before{content:"/"; position:absolute; font-size:110%; font-weight:bold; background-color:yellow}
+.separation1:after{background-image:url("https://upload.wikimedia.org/wikipedia/commons/5/51/Accolade_droite.png");position:absolute; left:932px; top:-22px; height:200px;  transform: scaleY(0.62); width:20px; display:inline-block; content:""}
+.separation2:after{background-image:url("https://upload.wikimedia.org/wikipedia/commons/5/51/Accolade_droite.png");position:absolute; left:932px; top:128px; height:200px;  transform: scaleY(0.85); width:20px; display:inline-block; content:""}
+.separation3:after{background-image:url("https://upload.wikimedia.org/wikipedia/commons/5/51/Accolade_droite.png");position:absolute; left:932px; top:330px; height:200px;  transform: scaleY(1.15); width:20px; display:inline-block; content:""}
+.separation4:after{background-image:url("https://upload.wikimedia.org/wikipedia/commons/5/51/Accolade_droite.png");position:absolute; left:932px; top:520px; height:200px;  transform: scaleY(0.72); width:20px; display:inline-block; content:""}
+</style>
+
+>  « Sur quoi repose <span class="hl1">l'identité</span> de <span class="hl2">la personne</span> ? – Pas sur <span class="hl3">la matière du corps</span>, puisqu'elle <span class="hl1">devient autre</span> <span class="hl4">au bout de quelques années</span>. Pas sur <span class="hl3">la forme de cette même matière</span>, puisqu'elle <span class="hl1">change</span> <span class="hl3">dans son ensemble et dans toutes ses parties, à l'exception toutefois de l'expression du regard</span>, à laquelle <span class="hl5">on reconnaît</span> encore <span class="hl2">une personne</span> <span class="hl4">même après de longues années</span> <span class="separation1"></span> ; ce qui prouve que, en dépit de tous les <span class="hl1">changements</span> que <span class="hl4">le temps</span> a provoqués en <span class="hl2">cette personne</span>, <span class="hl1">il reste</span> cependant en elle <span class="hl1">quelque chose d'absolument immuable</span>, et c'est précisément cette chose qui nous <span class="hl5">permet de le reconnaître</span> encore <span class="hl4">après un si long intervalle</span> […] ; il en va pareillement pour nous-mêmes ; car, <span class="hl4">aussi vieux que nous devenions</span>, nous <span class="hl5">sentons intérieurement</span> que nous sommes <span class="hl1">restés en tout point le même</span> que celui que nous étions <span class="hl4">dans notre jeunesse, dans notre enfance</span>. […] <span class="separation2"></span> – On admet que <span class="hl1">l'identité</span> de <span class="hl2">la personne</span> repose sur celle de <span class="hl5">sa conscience</span>. Mais, si nous entendons sous <span class="hl5">le terme de conscience</span> seulement la <span class="hl6">remémoration cohérente</span> du <span class="hl4">cours de la vie</span>, alors celle-ci n'y suffit pas. Sans doute, dans le meilleur des cas, en <span class="hl5">savons-nous</span> plus sur <span class="hl4">le cours de notre vie</span> que sur un roman que nous avons lu <span class="hl4">jadis</span> ; mais <span class="hl5">ce que nous en savons</span> reste cependant extrêmement peu de chose. <span class="hl6">Les événements principaux, les scènes les plus intéressantes sont restés imprimés ; quant au reste, pour un événement gardé en mémoire, mille autres ont été oubliés</span>. <span class="hl4">Plus nous vieillissons, plus les choses passent</span> <span class="hl6">sans laisser de trace</span>. […] Mais <span class="hl1">l'identité</span> de <span class="hl2">la personne</span> n'en est pas perdue pour autant<span class="separation3"></span>. Elle repose sur <span class="hl7">une volonté</span> <span class="hl1">identique</span> et sur <span class="hl7">le caractère</span> <span class="hl1">immuable</span> de celle-ci. C'est aussi elle qui rend <span class="hl3">l'expression du regard</span> <span class="hl1">immuable</span>. <span class="hl2">L'homme</span> réside <span class="hl7">dans le cœur et non dans la tête</span>. […] <span class="hl2">Notre véritable moi, le noyau de notre être</span> […] ne connaît au fond rien d'autre que <span class="hl7">le vouloir et le non-vouloir, la satisfaction et la non-satisfaction</span>, avec toutes les <span class="hl1">modifications</span> de ce qu'on appelle <span class="hl7">sentiments, affects et passions</span>.<span class="separation4"></span> »
 
 ---
 <!-- _class: pointmethode f-->
@@ -272,32 +330,36 @@ On distingue 2 à 4 étapes dans chaque partie. Il s'agit soit d'étapes chronol
 On vérifie l'organisation du propos : il doit y avoir une progression logique, d'une partie à une autre, d'une étape à une autre.
 
 ---
-<!-- _class: fmmmm pp  -->
+<!-- _class: fmmm pp  -->
 <style scoped>
-p, ol {margin-left:10px; margin-right:10px}
+p, ol {margin-left:30px; margin-right:30px;}
 ol {padding-top:0; padding-bottom:0; }
+p {color:hsl(0, 100%, 20%);  padding-bottom:5px; padding-top:5px;}
+p:nth-of-type(1){margin-top:-7px!important;}
 </style>
-**I – Le corps n'est pas ce qui définit notre identité personnelle**
+**A. Le corps n'est pas ce qui définit notre identité personnelle**
 1. Une question se pose : qu'est-ce qui fait l'identité d'une personne ?
 2. La matière et la forme de notre corps changent sans cesse, donc ce n'est pas le corps qui constitue notre identité
 3. Un élément dans le corps humain exprime cependant l'identité personnelle : c'est l'expression du regard
 
-**II – Ce qui fait notre identité se trouve plutôt dans notre intériorité psychique**
+**B. Ce qui fait notre identité se trouve plutôt dans notre intériorité psychique**
 1. Il y a quelque chose en nous qui définit notre identité et qui reste immuable
 2. Cette identité profonde n'est pas inaccessible : nous pouvons reconnaître l'identité d'une autre personne, de l'extérieur
 3. Et nous pouvons sentir intérieurement notre propre identité
 
 ---
-<!-- _class: fmmmm pp  -->
+<!-- _class: fm pp  -->
 <style scoped>
-p, ol {margin-left:10px; margin-right:10px}
-ol {padding-top:0; padding-bottom:0; }
+p, ol {margin-left:30px; margin-right:30px;}
+ol {padding-top:0; padding-bottom:0;}
+p {color:hsl(0, 100%, 20%); padding-bottom:10px; padding-top:10px;}
+p:nth-of-type(1){margin-top:-15px!important;}
 </style>
-**III – Ce n'est pas la mémoire qui définit l'identité profonde d'un individu**
+**C. Ce n'est pas la mémoire qui définit l'identité profonde d'un individu**
 1. On pourrait en effet penser que l'identité repose sur les souvenirs et la cohérence générale qui s'en dégage
 2. Mais la mémoire ne nous donne accès qu'à une représentation partielle et partiale de notre identité
 
-**IV – L'identité profonde se définit par la volonté, le caractère psychique interne d'une personne**
+**D. L'identité profonde se définit par la volonté, le caractère psychique interne d'une personne**
 1. L'identité personnelle ne se définit pas par la représentation que l'on a de soi, mais par un caractère psychique intérieur
 2. Notre identité est avant tout affective : elle se définit par l'orientation de notre volonté, par nos manières d'agir et de réagir
 
