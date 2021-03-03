@@ -50,6 +50,12 @@ ul li[data-marpit-fragment="2"] img {clip-path:none; position:relative;}
 * ![](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/droits-humains-premiere-generation.svg)
 
 ---
+<!-- _class: fppppppp -->
+
+- Trouvez, dans la *Déclaration universelle des droits humains*, les articles qui correspondent à la première génération des droits humains
+- Dans la liste des droits énoncés par la *Déclaration universelle des droits humains*, il reste des droits qui ne correspondent pas à cette première génération de droits humains : de quel type de droits s'agit-il ?
+
+---
 <!-- _class: citationC fmmm -->
 <style scoped>
 blockquote blockquote {margin-top:-10px;}
@@ -60,12 +66,6 @@ blockquote blockquote {margin-top:-10px;}
 >>John **Locke**, *Second traité du gouvernement*, chapitre 4, §22
 
 <!-- droits-résistance / libéralisme politique / liberté ≠ licence / liberté comme non-domination -->
-
----
-<!-- _class: fppppppp -->
-
-- Trouvez, dans la *Déclaration universelle des droits humains*, les articles qui correspondent à la première génération des droits humains
-- Dans la liste des droits énoncés par la *Déclaration universelle des droits humains*, il reste des droits qui ne correspondent pas à cette première génération de droits humains : de quel type de droits s'agit-il ?
 
 ---
 <!-- _class: citationC fmm -->
