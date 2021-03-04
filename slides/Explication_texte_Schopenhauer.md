@@ -12,6 +12,16 @@ Cédric Eyssette
 http://eyssette.net
 
 ---
+<!-- _class: citationL fmmmmmm -->
+<style scoped>
+blockquote {margin:5px; padding:3px; background-color:white;}
+p {line-height:1.12em!important;}
+</style>
+
+>  « Sur quoi repose l'identité de la personne ? – Pas sur la matière du corps, puisqu'elle devient autre au bout de quelques années. Pas sur la forme de cette même matière, puisqu'elle change dans son ensemble et dans toutes ses parties, à l'exception toutefois de l'expression du regard, à laquelle on reconnaît encore une personne même après de longues années ; ce qui prouve que, en dépit de tous les changements que le temps a provoqués en cette personne, il reste cependant en elle quelque chose d'absolument immuable, et c'est précisément cette chose qui nous permet de le reconnaître encore après un si long intervalle […] ; il en va pareillement pour nous-mêmes ; car, aussi vieux que nous devenions, nous sentons intérieurement que nous sommes restés en tout point le même que celui que nous étions dans notre jeunesse, dans notre enfance. […] – On admet que l'identité de la personne repose sur celle de sa conscience. Mais, si nous entendons sous le terme de conscience seulement la remémoration cohérente du cours de la vie, alors celle-ci n'y suffit pas. Sans doute, dans le meilleur des cas, en savons-nous plus sur le cours de notre vie que sur un roman que nous avons lu jadis ; mais ce que nous en savons reste cependant extrêmement peu de chose. Les événements principaux, les scènes les plus intéressantes sont restés imprimés ; quant au reste, pour un événement gardé en mémoire, mille autres ont été oubliés. Plus nous vieillissons, plus les choses passent sans laisser de trace. […] Mais l'identité de la personne n'en est pas perdue pour autant. Elle repose sur une volonté identique et sur le caractère immuable de celle-ci. C'est aussi elle qui rend l'expression du regard immuable. L'homme réside dans le cœur et non dans la tête. […] Notre véritable moi, le noyau de notre être […] ne connaît au fond rien d'autre que le vouloir et le non-vouloir, la satisfaction et la non-satisfaction, avec toutes les modifications de ce qu'on appelle sentiments, affects et passions. »
+
+
+---
 <!-- _class: i2t0 pp horizontal contain -->
 <style scoped>
 img{height:680px!important; margin-top:-50px}
@@ -43,15 +53,6 @@ h3{margin-bottom:50px}
 Il ne faut pas choisir l'explication de texte par défaut : ce n'est pas plus simple que la dissertation !
 Il y a deux grandes difficultés dans l'explication de texte : éviter la paraphrase et éviter le contresens.
 Pour cela, il faut faire une lecture active et méthodique du texte
-
----
-<!-- _class: citationL fmmmmmm -->
-<style scoped>
-blockquote {margin:5px; padding:3px; background-color:white;}
-p {line-height:1.12em!important;}
-</style>
-
->  « Sur quoi repose l'identité de la personne ? – Pas sur la matière du corps, puisqu'elle devient autre au bout de quelques années. Pas sur la forme de cette même matière, puisqu'elle change dans son ensemble et dans toutes ses parties, à l'exception toutefois de l'expression du regard, à laquelle on reconnaît encore une personne même après de longues années ; ce qui prouve que, en dépit de tous les changements que le temps a provoqués en cette personne, il reste cependant en elle quelque chose d'absolument immuable, et c'est précisément cette chose qui nous permet de le reconnaître encore après un si long intervalle […] ; il en va pareillement pour nous-mêmes ; car, aussi vieux que nous devenions, nous sentons intérieurement que nous sommes restés en tout point le même que celui que nous étions dans notre jeunesse, dans notre enfance. […] – On admet que l'identité de la personne repose sur celle de sa conscience. Mais, si nous entendons sous le terme de conscience seulement la remémoration cohérente du cours de la vie, alors celle-ci n'y suffit pas. Sans doute, dans le meilleur des cas, en savons-nous plus sur le cours de notre vie que sur un roman que nous avons lu jadis ; mais ce que nous en savons reste cependant extrêmement peu de chose. Les événements principaux, les scènes les plus intéressantes sont restés imprimés ; quant au reste, pour un événement gardé en mémoire, mille autres ont été oubliés. Plus nous vieillissons, plus les choses passent sans laisser de trace. […] Mais l'identité de la personne n'en est pas perdue pour autant. Elle repose sur une volonté identique et sur le caractère immuable de celle-ci. C'est aussi elle qui rend l'expression du regard immuable. L'homme réside dans le cœur et non dans la tête. […] Notre véritable moi, le noyau de notre être […] ne connaît au fond rien d'autre que le vouloir et le non-vouloir, la satisfaction et la non-satisfaction, avec toutes les modifications de ce qu'on appelle sentiments, affects et passions. »
 
 ---
 <!-- _class: i2t0 pp vertical pm -->
@@ -347,6 +348,8 @@ p {line-height:1.12em!important;}
 On donne un titre à chaque partie, et on distingue 2 à 4 sous-parties dans chaque partie : il s'agit le plus souvent d'étapes successives bien distinctes dans le texte, mais on peut parfois dégager deux aspects entremêlés dans le texte.
 On vérifie l'organisation du propos : il doit y avoir une progression logique.
 
+<!-- Ajouter : parfois pas de sous-parties -->
+
 ---
 <!-- _class: fmmm pp  -->
 <style scoped>
@@ -462,8 +465,8 @@ ol{padding-top:5px;}
 </style>
 ### Point méthode
 L'introduction se rédige en trois temps :
-1. Question directrice + Première réponse possible (R1) + Remises en question possibles de R1, pour montrer qu'un problème se pose
-2. Thèse du texte (= positionnement de l'auteur par rapport à ce problème)
+1. Question directrice + Première réponse possible (R1) + Remise en question possible de R1 (et suggestion d'une autre réponse possible : R2) pour montrer qu'un problème se pose
+2. Thèse du texte (= réponse de l'auteur)
 3. Plan du texte
 
 

@@ -82,15 +82,9 @@ blockquote blockquote {margin-top:-10px; font-size:90%;}
 <style scoped>
 h1{padding:40px!important;}
 </style>
-# II – Pour parvenir à davantage<br> de justice sociale, il faut<br> prendre en compte les<br> inégalités de ressources <!-- fit -->
+# II – Pour parvenir à<br> davantage de justice<br> sociale, il faut<br> garantir l'égalité<br> des chances<!-- fit -->
 Deuxième partie
 
----
-<!-- _class: citationC fmm -->
 
-![bg left:32%](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Philippe_Van_Parijs_Library_2.jpg/1920px-Philippe_Van_Parijs_Library_2.jpg)
-
-> « Pour que j’aie la liberté de faire ce que je veux de ma vie […], il ne suffit […] pas que j’aie le droit de faire cela […]. Il faut encore que j’aie le pouvoir de le faire, du fait que j’ai accès à suffisamment de ressources pour pouvoir effectivement réaliser ce que je désire. Car à quoi sert-il d’avoir le droit de partir en vacances, par exemple, si je n’ai pas les moyens d’en prendre ? Pour user d’une distinction souvent utilisée dans la critique du libéralisme, la liberté à laquelle il est important de faire une place est la liberté réelle de mener sa vie à sa guise, pas seulement la liberté formelle de le faire. »
->> Philippe **Van Parijs**, _Qu’est-ce qu’une société juste ?_, Le Seuil, 1991, p.187)
 
 
