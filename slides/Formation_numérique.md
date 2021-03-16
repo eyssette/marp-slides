@@ -114,14 +114,23 @@ ol {margin-left:60px;}
 3. Gérer ses ressources
 
 ---
-<!-- _class: fp  -->
+<!-- _class: fm  -->
+<style scoped>
+ol li {margin-left:-5px}
+ol ul {margin-left:-29px;}
+ol ul ul {font-size:90%; padding-top:5px}
+</style>
+
 1. Trouver des ressources numériques
 	* Utiliser les ressources de la bibliothèque Diderot [↪](http://www.bibliotheque-diderot.fr/discipline-260583.kjsp?DOMAINE=000000229&DISCI=000000173&CATEG_GENE=000000169)
 	* Utiliser des moteurs de recherche spécialisés : Philpapers [↪](http://philpapers.org/)
 	* Se faire ses propres moteurs de recherche [↪](https://cse.google.com/)
+		* Recherche sur des sites d'introduction à la philosophie [↪](https://cse.google.com/cse?cx=005941353090358050370:-rxleq99qm0)
+		* Recherche d'analyses de films [↪](https://cse.google.com/cse?cx=013022458855246154026:kvowwanvdza)
+		* Recherche sur des thèmes d'autres disciplines : SES [↪](https://cse.google.com/cse?cx=000159438708945803198:c670n89xtv8) ; Mathématiques, physique, chimie, biologie [↪](https://cse.google.com/cse?cx=000159438708945803198:nhzecq54fyq)
 	* Suivre l’actualité de certains sites [↪](http://eduscol.education.fr/numerique/dossier/competences/rechercher/guides/flux) [↪](https://www.netvibes.com/eyssette#Blogs_francophones)
 	* Utiliser des encyclopédies en ligne [↪](http://plato.stanford.edu) [↪](http://www.iep.utm.edu/) [↪](http://encyclo-philo.fr/)
-	* Trouver des cours de niveau universitaire en ligne (mots clés : “syllabus”, “mooc”, “open course”)
+	* Trouver des cours de niveau universitaire en ligne (mots clés : “syllabus”, “mooc”, “open course”) [↪](https://mediaserver.unige.ch/search/philosophie/permissions:public) [↪](https://www.fun-mooc.fr/) [↪](https://www.coursera.org/) [↪](https://ocw.mit.edu/courses/find-by-topic/)
 
 ---
 <!-- _class: fpppppp -->
