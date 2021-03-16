@@ -243,14 +243,14 @@ ol {margin-left:70px;}
 <!-- _class: fpp -->
 
 1) Usages ordinaires
-	- Utiliser un logiciel de dessin : [↪](https://excalidraw.com/)
-	- Utiliser un logiciel simple pour faire une carte conceptuelle [↪](https://docs.google.com/drawings/u/0/create) [↪](https://coggle.it/) [↪](https://tobloef.com/text2mindmap/) [↪](https://www.zenmindmap.com/)
+	* Utiliser un logiciel de dessin : [↪](https://excalidraw.com/)
+	* Utiliser un logiciel simple pour faire une carte conceptuelle [↪](https://docs.google.com/drawings/u/0/create) [↪](https://coggle.it/) [↪](https://tobloef.com/text2mindmap/) [↪](https://www.zenmindmap.com/)
 2) Usages avancés
-	- Utiliser un logiciel plus complet [↪](https://www.lucidchart.com/pages/)
-	- Créer une frise chronologique
-	- Créer des schémas pour représenter des arguments [↪](http://argument.mindmup.com) [↪](https://argdown.org/)
-	- Utiliser un langage de programmation de graphiques : GraphViz [↪](https://github.com/eyssette/graphviz-examples)
-	- Rendre son schéma interactif 
+	* Utiliser un logiciel plus complet [↪](https://www.lucidchart.com/pages/)
+	* Créer une frise chronologique
+	* Créer des schémas pour représenter des arguments [↪](http://argument.mindmup.com) [↪](https://argdown.org/)
+	* Utiliser un langage de programmation de graphiques : GraphViz [↪](https://github.com/eyssette/graphviz-examples)
+	* Rendre son schéma interactif 
 
 ---
 <!-- _class: souspartie -->
