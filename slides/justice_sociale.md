@@ -80,7 +80,7 @@ blockquote blockquote {margin-top:-10px;}
 
 <!-- Distinguer
 La défense des droits humains s'inscrit dans un changement de modèle du pouvoir.
-Auparavant le pouvoir s'exerçait de manière absolue (les monarchies absolues). Le pouvoir appartenait à un roi, une dynastie. La finalité du pouvoir n'était que l'extension de la domination du roi sur son empire. La loi n'était que l'expression de la volonté arbitraire du roi.
+Auparavant (…) le pouvoir s'exerçait de manière absolue (les monarchies absolues). Le pouvoir appartenait à un roi, une dynastie. La finalité du pouvoir n'était que l'extension de la domination du roi sur son empire. La loi n'était que l'expression de la volonté arbitraire du roi.
 Locke s'oppose à ce modèle : le pouvoir n'existe que par le consentement des individus. Le pouvoir n'est pas absolu, car il doit accomplir une mission, qui est de défendre les droits des individus. La loi n'est pas l'expression d'une domination, mais la garantie de notre liberté.
 Le pouvoir n'est justifié que s'il accomplit cette mission. Si ce n'est pas le cas, les citoyens ont un droit de résistance à l'oppression, et un droit de désobéissance civile.
 La dés. civ., ce n'est pas le fait de désobéir à une loi par simple intérêt personnel ; c'est désobéir pour des raisons de justice, de bien commun, c'est chercher, au sein d'un groupe, à montrer le caractère injuste d'une loi ou d'une situation, quand on n'a pas ou plus d'autre moyen d'expression de son opposition.
@@ -129,3 +129,19 @@ Deuxième partie
 
 <!-- Extrait Blackkksman + Bande annonce film Pride
 marginalisation + impuissance + impérialisme culturel + violences -->
+
+---
+<!-- _class: citationC fmmmmmmmmmmm-->
+
+![bg left:30%](https://upload.wikimedia.org/wikipedia/en/b/ba/Iris_Marion_Young.jpg)
+
+>« Dans ce texte j’offre quelques explications du concept d’oppression comme je l’entends dans son usage par les nouveaux mouvements sociaux aux États-Unis depuis les années 1960. Le point de départ de ma réflexion sont les conditions des groupes qui, à travers ces mouvements se disent opprimés : entre autres les femmes, les Noir⋅es, les Chicanos, les Portoricains et autres Hispanophones américains, amérindien⋅nes, Juif⋅ves, lesbiennes, gays, arabes, asiatiques, personnes âgées, classe ouvrière, et les personnes handicapées physiques et mentales. Je vise à systématiser la signification du concept d’oppression tel qu’il est utilisé par ces divers mouvements politiques […] Évidemment les groupes nommés ci-dessus ne sont pas opprimés dans la même mesure et de la même manière. Dans le cas le plus général, toutes les personnes opprimées souffrent d’une restriction (inhibition) de leur capacité à développer ou exercer leurs capacités et à exprimer leurs besoins, leurs pensées, et leurs sentiments. Dans ce sens abstrait toutes les personnes opprimées font face à une condition commune. Derrière cela, dans un sens plus spécifique, il n’est pas possible de définir un ensemble unique de critères qui décrit les conditions d’oppression des groupes cités. […] Le contexte dans lequel les membres de ces groupes utilisent le terme « oppression » pour décrire les injustices de leurs situations suggère que l’oppression désigne en fait une famille de concepts et de conditions, que j’ai divisé en cinq catégories : exploitation, marginalisation, impuissance, impérialisme culturel et violence. »
+>>Iris Marion **Young**, _Justice and the Politics of Difference_, Chap. 2 : Five Faces of Oppression
+
+---
+<!-- _class: citationC fmmmmmmmmm-->
+
+![bg left:32%](https://upload.wikimedia.org/wikipedia/commons/d/d5/NancyFraser.JPG)
+
+>« Le paradigme de la redistribution met l’accent sur les injustices qu’il considère comme socio-économiques et qu’il présume être le produit de l’économie politique : l’exploitation, l’exclusion économique et le dénuement. Le paradigme de la reconnaissance, pour sa part, cible plutôt les injustices qu’il considère comme culturelles, et qu’il présume être le produit des modèles sociaux de représentation, d’interprétation et de communication : la domination culturelle, le déni de reconnaissance et le mépris. […] Les deux paradigmes proposent des remèdes à l’injustice qui divergent aussi considérablement. Au sein du paradigme de la redistribution, le remède est la restructuration économique. Cela peut impliquer la redistribution des revenus, la réorganisation de la division du travail ou la transformation des autres structures économiques fondamentales. […] Au sein du paradigme de la reconnaissance, en revanche, le remède à l’injustice est le changement symbolique ou culturel. Cela peut impliquer la revalorisation des identités méprisées, la valorisation de la diversité culturelle, ou la transformation complète des modèles sociaux de représentation, d’interprétation et de communication […]. »
+>>Nancy **Fraser**, _Qu'est-ce que la justice sociale ?_, Chapitre 2
