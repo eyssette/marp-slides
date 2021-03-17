@@ -130,6 +130,15 @@ Deuxième partie
 <!-- Extrait Blackkksman + Bande annonce film Pride
 marginalisation + impuissance + impérialisme culturel + violences -->
 
+
+---
+<!-- _class: cinema fmmmmm -->
+
+[![](https://fr.web.img3.acsta.net/pictures/14/07/02/16/01/158254.jpg)](https://drive.google.com/open?id=1Qkvs8IxFsv_6AkFgsXGueudU_3vlZKRI)
+
+>Eté 1984 - Alors que Margaret Thatcher est au pouvoir, le Syndicat National des Mineurs vote la grève. Lors de leur marche à Londres, un groupe d’activistes gay et lesbien décide de récolter de l’argent pour venir en aide aux familles des mineurs. Mais l’Union Nationale des Mineurs semble embarrassée de recevoir leur aide. Le groupe d’activistes ne se décourage pas. Après avoir repéré un village minier au fin fond du pays de Galles, ils embarquent à bord d'un minibus pour aller remettre l'argent aux ouvriers en mains propres. Ainsi débute l’histoire extraordinaire de deux communautés qui s’unissent pour défendre la même cause.
+
+
 ---
 <!-- _class: citationC fmmmmmmmmmmm-->
 
