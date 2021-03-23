@@ -148,8 +148,8 @@ ol ul ul {font-size:90%; padding-top:5px}
 3. Gérer ses ressources
 	* Scanner des articles avec son téléphone, avec un stylo scanner
 	* Utiliser un catalogue en ligne [↪](https://www.worldcat.org/) [↪](https://ccfr.bnf.fr/portailccfr/jsp/public/index.jsp) [↪](http://www.sudoc.abes.fr/)
-	* Utiliser un logiciel de gestion de références bibliographiques [↪](https://www.bibsonomy.org/) [↪](https://zotero.hypotheses.org/)
-	* Stocker ses ressources et pouvoir y accéder en ligne
+	* Utiliser un logiciel de gestion de références bibliographiques : _Zotero_  [↪](https://www.zotero.org/) [↪](https://zotero.hypotheses.org/)
+	* Stocker ses ressources et pouvoir y accéder en ligne [↪](https://www.dropbox.com/referrals/AADNRgRvYNK3-2FBnRd_mi-niwqSc6g-yUI?src=global9)
 	* Classer des ressources avec une base de données [↪](https://airtable.com/)
 	* Répertorier, cataloguer, partager, commenter des sites et des pages sur internet [↪](https://www.diigo.com/)
 
@@ -164,18 +164,21 @@ ol {margin-left:60px;}
 2. Utiliser des outils collaboratifs
 
 ---
-<!-- _class: fm -->
+<!-- _class: fmmm -->
+<style scoped>
+ol ul {margin-left:-20px;}
+</style>
 
 1) Utiliser les réseaux sociaux
 	* Le groupe “Enseigner la philosophie” [↪](https://www.facebook.com/groups/197192470301462/)
 	* Le groupe “Enseigner la philosophie avec le cinéma et les séries télévisées” [↪](https://www.facebook.com/groups/enseignercinephilosophie/)
 	* Le groupe “Enseigner HLP” [↪](https://www.facebook.com/groups/2364164770521489)
 	* Les groupes propres à une académie
-	* D'autres groupes plus spécifiques : pour la DNL, pour la préparation de l'agrégation interne, …
+	* D'autres groupes plus spécifiques : pour la DNL [↪](https://www.facebook.com/groups/enseigner.philosophie.DNL), pour la préparation de l'agrégation interne [↪](https://www.facebook.com/groups/1032833423770790), pour l'enseignement de l'option Cinéma Audiovisuel [↪](https://www.facebook.com/groups/2721744724714418/)…
 	* Sur twitter : #TeamPhilo [↪](https://twitter.com/search?q=%23teamphilo&src=typeahead_click&f=live)
 2) Utiliser des outils collaboratifs
 	* Créer un espace de discussion en ligne [↪](https://framateam.org)
-	* Travailler sur des dossiers collaboratifs [↪](https://drive.google.com/drive/my-drive)
+	* Travailler sur des dossiers collaboratifs : _Tribu_ [↪](https://tribu.phm.education.gouv.fr/), _Drive_ [↪](https://drive.google.com/drive/my-drive)
 	* Trouver une date pour une réunion [↪](https://framadate.org/)
 
 
