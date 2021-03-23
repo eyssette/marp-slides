@@ -21,9 +21,13 @@ http://eyssette.net/
 
 
 ---
-<!-- _class:  -->
+<!-- _class: i1t1 pp vertical -->
+<style scoped>
+img{width:930px!important}
+</style>
+[![](https://i.ibb.co/YBtp9dq/monopoly-inegalites-t.jpg)](https://drive.google.com/open?id=1GVRrkg02xlFps_gYbvLJRlYG3KqAY4V5)
 
-<!-- Mettre extrait / Monopoly des inégalités -->
+Le Monopoly des inégalités
 
 ---
 <!-- _class: i1t1  vertical-->
@@ -107,12 +111,48 @@ h1{padding:40px!important;}
 Deuxième partie
 
 ---
-<!-- _class:  -->
+<!-- _class: souspartie -->
+## A. Le libéralisme économique
+
+---
+<!-- _class: fmmmm -->
+Quatre arguments principaux du libéralisme économique à discuter : 
+1) Il faudrait préserver l'autonomie des individus, ne pas agir à leur place : l'État devrait être réduit au minimum, afin de ne pas tomber dans le paternalisme.
+2) L'intervention de l'État serait inefficace : l'État n'aurait pas la connaissance des situations locales, ne pourrait pas s'adapter rapidement, et ce type d'intervention n'inciterait pas les individus ou les entreprises à trouver de nouvelles solutions.
+3) La concurrence libre serait le meilleur moyen d'obtenir un progrès économique général, qui bénéficie à tout le monde.
+4) La concurrence libre permettrait d'abolir les privilèges de statut et les inégalités qui reposent sur des hiérarchies traditionnelles instituées.
+
 
 <!-- Nous avons commencé la deuxième partie, en nous intéressant à la question des inégalités économiques et sociales. Le débat est ici principalement entre le libéralisme économique et la théorie de la justice de Rawls. Pour le libéralisme économique, il faut réduire au maximum l'intervention de l'Etat afin de laisser faire les individus. Voici les 4 arguments principaux du libéralisme économique : 1/ Il faut préserver l'autonomie des individus, ne pas agir à leur place : l'Etat doit être réduit au minimum, afin de ne pas tomber dans le paternalisme ; 2/ L'intervention de l'Etat serait inefficace : l'Etat n'aurait pas la connaissance des situations locales, ne pourrait pas s'adapter rapidement, et ce type d'intervention n'inciterait pas les individus ou les entreprises à trouver de nouvelles solutions ; 3/ La concurrence libre serait le meilleur moyen d'obtenir un progrès économique général, qui bénéficie à tout le monde ; 4/ La concurrence libre permet d'abolir les privilèges de statut et les inégalités qui reposent sur des hiérarchies traditionnelles instituées. Nous avons simplement commencé un travail sur la théorie de la justice de Rawls. On peut reconnaître certes qu'il y a un progrès dans le passage d'une société de castes, où les places sociales sont simplement fixées par la naissance, au libéralisme économique, où les places sociales sont censées être l'effet de la concurrence libre entre individus, et acquises simplement grâce à la réussite des individus. Mais : est-ce vraiment suffisant ? Tout le monde est-il vraiment sur la même ligne de départ ? Et peut-on vraiment dire, sans autre précision, que ceux qui ont réussi ont mérité d'avoir davantage, et que ceux qui n'ont pas réussi méritent une position moins avantageuse ?-->
 
+---
+<!-- _class: fppppp -->
+Deux objections importantes :
+1) L'accès aux différentes places sociales est-il vraiment seulement l'effet de la concurrence libre entre individus ? Tout le monde est-il vraiment sur la même ligne de départ ?
+2) Peut-on vraiment dire, sans autre précision, que ceux qui ont réussi ont mérité d'avoir davantage, et que ceux qui n'ont pas réussi méritent une position moins avantageuse ?
 
-<!-- + ajouter il faut prendre en compte également les inégalités économiques et sociales : au niveau de la famille (? de la répartition des tâches) + au niveau mondial (la question de la justice globale : approches étatistes vs. approches cosmopolitiques) -->
+---
+<!-- _class: souspartie -->
+## B. La théorie de la justice de Rawls
+
+---
+<!-- _class: fmm -->
+Une hiérarchie entre quatre modèles de société :
+1) Les aristocraties féodales et les systèmes de castes : les places sociales sont fixées par la naissance
+2) Les sociétés de marché avec égalité formelle des chances : les places sociales sont ouvertes à une concurrence libre entre individus
+3) Les sociétés méritocratiques, avec égalité réelle des chances : des politiques de compensation des inégalités sont mises en place pour que chacun puisse partir de la même ligne de départ
+4) Les sociétés justes au sens de Rawls : égalité formelle des chances + égalité réelle des chances + principe de différence
+
+
+---
+<!-- _class: souspartie -->
+## C. Les différentes échelles de l'injustice sociale
+
+---
+<!-- _class:  -->
+
+1) Au niveau de la famille : les inégalités dans la prise en charge du travail domestique
+2) Au niveau mondial : la question de la justice globale
 
 
 ---
@@ -123,12 +163,20 @@ h1{padding:40px!important;}
 # III – Pour parvenir à<br> davantage de justice<br> sociale, il faut aussi prendre<br> en compte les inégalités<br>culturelles et symboliques<!-- fit -->
 Deuxième partie
 
+---
+<!-- _class: definition f -->
+
+### Définition
+
+- Les injustices culturelles et symboliques sont les injustices qui reposent sur des représentations dénigrantes, méprisantes, infériorisantes associées à un groupe particulier de personnes
+- Attention, cela ne signifie pas qu'il s'agit ici seulement de représentations. Ces représentations conduisent à des violences bien réelles.
 
 ---
-<!-- _class:  -->
+<!-- _class: cinema fmmmmm contain-->
 
-<!-- Extrait Blackkksman + Bande annonce film Pride
-marginalisation + impuissance + impérialisme culturel + violences -->
+[![](https://i.ibb.co/xGsz2PY/BLACKKKLANSMAN-BIL.jpg)](https://drive.google.com/open?id=1PBc4jKNKeklW05-IGd_e0w_1GBSzqpWr)
+
+>Au début des années 70, au plus fort de la lutte pour les droits civiques, plusieurs émeutes raciales éclatent dans les grandes villes des États-Unis. Ron Stallworth devient le premier officier Noir américain du Colorado Springs Police Department, mais son arrivée est accueillie avec scepticisme, voire avec une franche hostilité, par les agents les moins gradés du commissariat. Prenant son courage à deux mains, Stallworth va tenter de faire bouger les lignes et, peut-être, de laisser une trace dans l'histoire. Il se fixe alors une mission des plus périlleuses : infiltrer le Ku Klux Klan pour en dénoncer les exactions.
 
 
 ---
