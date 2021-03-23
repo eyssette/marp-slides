@@ -161,7 +161,7 @@ Une hiérarchie entre quatre modèles de société :
 h1{padding:40px!important;}
 </style>
 # III – Pour parvenir à<br> davantage de justice<br> sociale, il faut aussi prendre<br> en compte les inégalités<br>culturelles et symboliques<!-- fit -->
-Deuxième partie
+Troisième partie
 
 ---
 <!-- _class: definition f -->
