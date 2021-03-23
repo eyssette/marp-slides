@@ -232,14 +232,16 @@ ol {margin-left:70px;}
 <!-- _class: fpp -->
 1) Usages ordinaires
 	* Utiliser un vidéoprojecteur
-	* Utiliser un logiciel de diaporama
+	* Utiliser un logiciel ordinaire de diaporama
 	* Améliorer la mise en page
 	* Imprimer un support de cours à partir d'un diaporama
 2) Usages avancés
 	* Faire de la vidéoprojection sans fil
 	* Utiliser les fonctions interactives du vidéoprojecteur
+	* Utiliser un logiciel de diaporama moins ordinaire
 	* Faire une capsule vidéo à partir d'un diaporama
 
+<!-- Sway, Genially -->
 
 ---
 <!-- _class: etape -->
