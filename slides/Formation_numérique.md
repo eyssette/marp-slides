@@ -96,7 +96,7 @@ ol {margin-left:60px;}
 	* Recevoir des notifications, et un mail de rappel chaque matin [↪](http://www.blogdumoderateur.com/astuces-google-agenda/)
 2) Gérer des tâches multiples
 	* La méthode GTD : _Getting Things Done_ [↪](http://toodledo.com/)
-	* La méthode Kanban [↪](https://format30.com/2014/08/26/etudiants-organisez-votre-travail-avec-le-kanban-personnel-trello/)
+	* La méthode Kanban [↪](https://format30.com/2014/08/26/etudiants-organisez-votre-travail-avec-le-kanban-personnel-trello/) [↪](https://cryptpad.fr/kanban)
 
 
 ---
