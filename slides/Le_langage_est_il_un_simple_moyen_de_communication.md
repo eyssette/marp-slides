@@ -122,17 +122,34 @@ span em {color:black;}
 # I – Le langage n'est pas<br> un _simple_ moyen de<br> communication :<br><span>La _complexité_ du langage <br>le distingue des autres <br>moyens de communication</span>
 Première partie
 
+---
+<!-- _class:  souspartie -->
+## A. Une structure complexe
+
+---
+<!-- _class:  souspartie -->
+## B. Des fonctions complexes
 
 
 ---
 <!-- _class: partie -->
 <style scoped>
-h1 {font-size:55px; padding:0;}
+h1 {font-size:54px; padding:0;}
 h1 em {color: hsl(10, 85%, 21%);}
 span{font-size:80%; display:block; line-height:1.3em; padding-top:15px; padding-bottom:30px;}
 span em {color:black;}
 </style>
-# II – Le langage n'est pas<br> un simple _moyen_ de<br> communication :<br><span>Le langage peut être un _obstacle_ à la communication, et il est vecteur de normes sociales
-
-
+# II – Le langage n'est pas<br> un simple _moyen_ de<br> communication :<br><span>Le langage peut être un _obstacle_<br> à la communication, et les _enjeux<br> sociaux, politiques et culturels_ du <brlangage> montrent qu'il n'est pas un simple instrument au service d'un individu</span>
 Deuxième partie
+
+
+---
+<!-- _class: partie -->
+<style scoped>
+h1 {font-size:60px; padding:0;}
+h1 em {color: hsl(10, 85%, 21%);}
+span{font-size:80%; display:block; line-height:1.3em; padding-top:15px; padding-bottom:30px;}
+span em {color:black;}
+</style>
+# III – Le langage n'est pas<br> un simple _moyen_ de<br> communication :<br><span>Le langage ne fait pas qu'exprimer<br> des pensées intérieures déjà<br> constituées, il joue un rôle dans la<br> _formation même de nos pensées_</span>
+Troisième partie
