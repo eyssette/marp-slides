@@ -127,6 +127,30 @@ Première partie
 ## A. Une structure complexe
 
 ---
+<!-- _class: etape -->
+### 1. Complexité des signes produits
+
+---
+<!-- _class:  -->
+#### a) Les phonèmes
+
+
+---
+<!-- _class:  -->
+#### b) Les morphèmes
+
+---
+<!-- _class:  -->
+
+#### c) La syntaxe
+
+---
+<!-- _class: etape -->
+### 2. Complexité de l'interprétation des signes
+
+
+
+---
 <!-- _class:  souspartie -->
 ## B. Des fonctions complexes
 
