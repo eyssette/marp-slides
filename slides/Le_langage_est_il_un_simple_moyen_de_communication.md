@@ -9,7 +9,7 @@ size: 4:3
 
 # Le langage est&#8209;il un simple moyen de communication ?
 Cédric Eyssette
-http://eysssette.github.io
+http://eyssette.github.io
 
 ---
 <!-- _class: fpppppppp -->
@@ -109,3 +109,30 @@ https://www.youtube.com/watch?v=AMU1KOF_Tck
 
 - Pourquoi dit-on parfois que « ce ne sont pas les mots qui comptent » ?
 - Pourquoi dit-on parfois, au contraire, que « les mots sont importants » ?
+
+
+---
+<!-- _class: partie -->
+<style scoped>
+h1 {font-size:70px; padding:0;}
+h1 em {color: hsl(10, 85%, 21%);}
+span{font-size:80%; display:block; line-height:1.3em; padding-top:15px; padding-bottom:30px;}
+span em {color:black;}
+</style>
+# I – Le langage n'est pas<br> un _simple_ moyen de<br> communication :<br><span>La _complexité_ du langage <br>le distingue des autres <br>moyens de communication</span>
+Première partie
+
+
+
+---
+<!-- _class: partie -->
+<style scoped>
+h1 {font-size:55px; padding:0;}
+h1 em {color: hsl(10, 85%, 21%);}
+span{font-size:80%; display:block; line-height:1.3em; padding-top:15px; padding-bottom:30px;}
+span em {color:black;}
+</style>
+# II – Le langage n'est pas<br> un simple _moyen_ de<br> communication :<br><span>Le langage peut être un _obstacle_ à la communication, et il est vecteur de normes sociales
+
+
+Deuxième partie
