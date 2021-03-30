@@ -248,15 +248,13 @@ ul {margin-top:10px; font-size:94%;}
 
 ---
 <!-- _class: i1t0 pp -->
-
 ![](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/faire-un-diaporama-pour-son-cours.svg)
 
-
-<div onclick="toggle(this)" style="position:absolute; background-color:#FAFAFA; left:470px; top:280px; width:330px; height:130px; z-index:2;"></div>
-<div onclick="toggle(this)" style="position:absolute; background-color:#FAFAFA; left:465px; top:420px; width:340px; height:90px;"></div>
-<div onclick="toggle(this)" style="position:absolute; background-color:#FAFAFA; left:485px; top:520px; width:330px; height:90px;"></div>
-<div onclick="toggle(this)" style="position:absolute; background-color:#FAFAFA; left:465px; top:610px; width:330px; height:90px;"></div>
-<script> function toggle(e) {e.style.backgroundColor = ((e.style.backgroundColor=='transparent') ? '#FAFAFA' : 'transparent');} </script>
+<div onclick="toggleElement(this)" style="position:absolute; background-color:#FAFAFA; left:470px; top:280px; width:330px; height:130px; z-index:2;"></div>
+<div onclick="toggleElement(this)" style="position:absolute; background-color:#FAFAFA; left:465px; top:420px; width:340px; height:90px;"></div>
+<div onclick="toggleElement(this)" style="position:absolute; background-color:#FAFAFA; left:485px; top:520px; width:330px; height:90px;"></div>
+<div onclick="toggleElement(this)" style="position:absolute; background-color:#FAFAFA; left:465px; top:610px; width:330px; height:90px;"></div>
+<script>function toggleElement(e) {e.style.backgroundColor = ((e.style.backgroundColor=='transparent') ? '#FAFAFA' : 'transparent');}</script>
 
 ---
 <!-- _class: fmmmm -->
