@@ -174,7 +174,7 @@ ol ul {margin-left:-20px;}
 	* Le groupe “Enseigner la philosophie avec le cinéma et les séries télévisées” [↪](https://www.facebook.com/groups/enseignercinephilosophie/)
 	* Le groupe “Enseigner HLP” [↪](https://www.facebook.com/groups/2364164770521489)
 	* Les groupes propres à une académie [↪](https://www.facebook.com/groups/197192470301462/permalink/1319948451359186/)
-	* D'autres groupes plus spécifiques : pour la DNL [↪](https://www.facebook.com/groups/enseigner.philosophie.DNL), pour la préparation de l'agrégation interne [↪](https://www.facebook.com/groups/1032833423770790), pour l'enseignement de l'option Cinéma Audiovisuel [↪](https://www.facebook.com/groups/2721744724714418/), pour inclure davantage de textes de femmes philosophes [↪](https://www.facebook.com/groups/334838114318350 )…
+	* D'autres groupes plus spécifiques : pour la DNL [↪](https://www.facebook.com/groups/enseigner.philosophie.DNL), pour la préparation de l'agrégation interne [↪](https://www.facebook.com/groups/1032833423770790), pour l'enseignement de l'option Cinéma Audiovisuel [↪](https://www.facebook.com/groups/2721744724714418/), pour élargir le corpus et inclure davantage de textes de femmes philosophes [↪](https://www.facebook.com/groups/334838114318350 )…
 	* Sur twitter : utiliser le tag #TeamPhilo [↪](https://twitter.com/search?q=%23TeamPhilo&src=saved_search_click&f=live), s'abonner à des comptes spécifiques et faire une recherche seulement sur ces comptes
 2) Utiliser des outils collaboratifs
 	* Créer un espace de discussion en ligne [↪](https://framateam.org)
@@ -231,17 +231,37 @@ section {font-size:340%;}
 ol {margin-left:70px;}
 </style>
 ### b) Faire un diaporama
-1. Usages ordinaires
-2. Usages avancés
+1. De l'intérêt de faire un diaporama et des risques possibles
+2. Usages ordinaires
+3. Usages avancés
 
 ---
-<!-- _class: fmm -->
-1) Usages ordinaires
+<!-- _class: fmmmmmmmm -->
+<style scoped>
+ol {margin-left:25px;}
+ol ol {margin-left:-50px; margin-right:-30px; margin-top:-5px!important;}
+ol ol ul {margin-left:-10px;}
+</style>
+1. De l'intérêt de faire un diaporama et des risques possibles
+	1) _Intérêt_ :
+		* Possibilité d'intégrer plusieurs contenus différents : textes, schémas, vidéo, exercices
+		* Clarification de la structure du cours avec des types de diapositives facilement identifiables
+		* Guidage des élèves plus facile : explicitation des consignes, focalisation sur les points essentiels
+		* Support polyvalent : pour le cours en classe, pour l'impression d'un support, pour les révisions, pour le partage avec les collègues
+	2) _Risques possibles_ :
+		* Diaporama surchargé en textes ⇒ contenu pas lisible, tendance au simple recopiage du diaporama, peu d'intérêt des élèves pour le suivi du cours
+		* Diaporama surchargé en images ou en effets de transition ⇒ perte de l'attention sur l'essentiel
+		* Cours trop directif et trop linéaire ⇒  
+		* Temps de préparation trop important ⇒ ne pas chercher à tout mettre dans le diapo
+
+---
+<!-- _class: fmmmm -->
+2) Usages ordinaires
 	* Utiliser un vidéoprojecteur : en HDMI, en VGA, savoir utiliser un adaptateur si nécessaire
 	* Faire attention à la taille des polices, à la mise en page [↪](https://guy.pastre.org/?p=2405)
 	* Utiliser un logiciel en ligne [↪](https://www.google.fr/intl/fr/slides/about/)
-	* Imprimer un support de cours à partir d'un diaporama
-2) Usages avancés
+	* Imprimer un support de cours à partir d'un diaporama : 4 à 16 pages sur un A4, format “bandeau” [↪](https://goo.gl/photos/pbnnU2We4yPaNTtVA)
+3) Usages avancés
 	* Faire de la vidéoprojection sans fil
 	* Utiliser les fonctions interactives du vidéoprojecteur
 	* Utiliser un logiciel de diaporama moins ordinaire : Prezi [↪](https://prezi.com/view/xgeLGy31TnFlmQ7YuyuD/), Slides [↪](https://slides.com/)
@@ -261,17 +281,17 @@ ol {margin-left:70px;}
 2. Usages avancés
 
 ---
-<!-- _class: fpp -->
+<!-- _class: fm -->
 
 1) Usages ordinaires
-	* Utiliser un logiciel de dessin : [↪](https://excalidraw.com/)
-	* Utiliser un logiciel simple pour faire une carte conceptuelle [↪](https://docs.google.com/drawings/u/0/create) [↪](https://coggle.it/) [↪](https://tobloef.com/text2mindmap/) [↪](https://www.zenmindmap.com/)
+	* Utiliser un logiciel de dessin : [↪](https://excalidraw.com/) [↪](https://docs.google.com/drawings/u/0/create)
+	* Utiliser un logiciel simple pour faire une carte mentale [↪](http://mindmaps.app/) [↪](https://coggle.it/) [↪](https://www.zenmindmap.com/) [↪](https://gitmind.com/)
+	* Utiliser un logiciel simple qui convertit du texte en une carte mentale [↪](https://tobloef.com/text2mindmap/) [↪](https://flowchart.fun/)
 2) Usages avancés
-	* Utiliser un logiciel plus complet [↪](https://www.lucidchart.com/pages/)
-	* Créer une frise chronologique
 	* Créer des schémas pour représenter des arguments [↪](http://argument.mindmup.com) [↪](https://argdown.org/)
 	* Utiliser un langage de programmation de graphiques : GraphViz [↪](https://github.com/eyssette/graphviz-examples)
-	* Rendre son schéma interactif 
+	* Créer une frise chronologique
+	* Rendre son schéma interactif
 
 ---
 <!-- _class: souspartie -->
@@ -289,6 +309,40 @@ ol {margin-left:60px; margin-top:0px;}
 4. Sur un fichier audio
 5. Sur un site internet
 6. Sur des exercices
+
+---
+<!-- _class: fmmmmmmmm -->
+<style scoped>
+ol {margin-left:25px;}
+ol ol {margin-left:-50px; margin-right:-30px; margin-top:-5px!important;}
+ol ol ul {margin-left:-10px; }
+span {font-size:90%}
+</style>
+1) Faire travailler les élèves sur un texte, une œuvre suivie
+	1) _Trouver un texte ou une œuvre suivie_
+		* Utiliser les ressources des manuels [↪](https://eyssette.github.io/ressources-generales-enseignement-philosophie/manuels)
+		* Utiliser des dossiers en ligne de textes classés par thèmes : Philo52 [↪](https://philo52.com/articles.php?lng=fr&pg=2276), Materia philosophica [↪](https://materiaphilosophica.blogspot.com/), PhiloTextes [↪](http://philotextes.info/spip/spip.php?rubrique5), ma sélection [↪](https://eyssette.github.io/dossiers/)
+		* Utiliser des moteurs de recherche : Académie de Grenoble [↪](http://www.ac-grenoble.fr/PhiloSophie/old2/bases/search.php), Philolabo [↪](https://philo-labo.fr/accueil/), MaPhilosophie [↪](https://www.maphilosophie.fr/base_textes.php), Explications de texte données au baccalauréat [↪](https://eyssette.github.io/sujets-philosophie-bac/explications.html)
+		* Trouver une édition numérique d'une œuvre [↪](https://philo-labo.fr/pmwiki.php?n=Public.Ebooks?skin=minimal)  [↪](http://classiques.uqac.ca/classiques/), et des enregistrements audio de lectures d'œuvres [↪](https://lecture-audio.fr/co/Bibli.html) [↪](http://www.litteratureaudio.com/livres-audio-gratuits-mp3/categorie/philosophie)
+		* Utiliser le document collaboratif du groupe “Enseigner la philosophie” pour le partage de cours sur les œuvres suivies [&#8618;](https://www.facebook.com/groups/enseignerlaphilosophie/permalink/1327381807282517)
+	2) _Travailler sur le texte_
+		* Vidéoprojeter le texte et annoter le texte au tableau <span>(penser à imprimer un texte pour les élèves avec la même mise en page)</span>
+		* Utiliser une caméra de document (ou “visualiseur”) pour projeter le travail que l'on accomplit sur le texte [↪](https://profjourde.wordpress.com/2015/06/02/un-visualiseur-et-un-ideateur-pour-les-gestes-du-travail-intellectuel/)
+		* Rendre le texte cliquable et interactif [↪](https://www.genial.ly/)
+
+<!--
+Livres audio, mais payants :
+https://www.audible.fr/cat/Sciences-sociales-et-politiques/Philosophie-Livres-Audio/21228928031
+https://www.franceculture.fr/emissions/le-journal-de-la-philo/la-philosophie-a-voix-haute
+Quelques livres audio, mais pass beaucoup :
+https://www.audiocite.net/livres-audio-gratuits-philosophies/?
+http://www.ac-grenoble.fr/PhiloSophie/old2/articles.php?lng=fr&pg=17022
+ -->
+
+---
+<!-- _class: fmm -->
+1) Faire travailler les élèves sur une vidéo
+	* Trouver des vidéo intéressantes [↪]()
 
 ---
 <!-- _class: etape -->
