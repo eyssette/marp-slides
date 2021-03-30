@@ -110,8 +110,8 @@ ol {margin-left:60px;}
 </style>
 ### a) Rechercher et exploiter des ressources
 1. Trouver des ressources numériques
-2. Lire et prendre des notes
-3. Gérer ses ressources
+3. Lire et prendre des notes
+4. Gérer ses ressources
 
 ---
 <!-- _class: fm  -->
@@ -146,9 +146,9 @@ ol ul ul {font-size:90%; padding-top:5px}
 <!-- _class: fpp -->	
 
 3. Gérer ses ressources
-	* Scanner des articles avec son téléphone, avec un stylo scanner [↪](https://play.google.com/store/apps/details?id=net.doo.snap) [↪]()
-	* Utiliser un catalogue en ligne [↪](https://www.worldcat.org/) [↪](https://ccfr.bnf.fr/portailccfr/jsp/public/index.jsp) [↪](http://www.sudoc.abes.fr/)
+	* Scanner des articles avec son téléphone, avec un stylo scanner [↪](https://fossbytes.com/best-android-scanner-apps/)
 	* Utiliser un logiciel de gestion de références bibliographiques : _Zotero_  [↪](https://www.zotero.org/) [↪](https://zotero.hypotheses.org/)
+	* Utiliser un catalogue en ligne [↪](https://www.worldcat.org/) [↪](https://ccfr.bnf.fr/portailccfr/jsp/public/index.jsp) [↪](http://www.sudoc.abes.fr/)
 	* Stocker ses ressources et pouvoir y accéder en ligne [↪](https://www.dropbox.com/referrals/AADNRgRvYNK3-2FBnRd_mi-niwqSc6g-yUI?src=global9)
 	* Classer des ressources avec une base de données [↪](https://airtable.com/)
 	* Répertorier, cataloguer, partager, commenter des sites et des pages sur internet [↪](https://www.diigo.com/)
@@ -164,7 +164,7 @@ ol {margin-left:60px;}
 2. Utiliser des outils collaboratifs
 
 ---
-<!-- _class: fmmm -->
+<!-- _class: fmmmmmm -->
 <style scoped>
 ol ul {margin-left:-20px;}
 </style>
@@ -173,9 +173,9 @@ ol ul {margin-left:-20px;}
 	* Le groupe “Enseigner la philosophie” [↪](https://www.facebook.com/groups/197192470301462/)
 	* Le groupe “Enseigner la philosophie avec le cinéma et les séries télévisées” [↪](https://www.facebook.com/groups/enseignercinephilosophie/)
 	* Le groupe “Enseigner HLP” [↪](https://www.facebook.com/groups/2364164770521489)
-	* Les groupes propres à une académie
-	* D'autres groupes plus spécifiques : pour la DNL [↪](https://www.facebook.com/groups/enseigner.philosophie.DNL), pour la préparation de l'agrégation interne [↪](https://www.facebook.com/groups/1032833423770790), pour l'enseignement de l'option Cinéma Audiovisuel [↪](https://www.facebook.com/groups/2721744724714418/)…
-	* Sur twitter : #TeamPhilo [↪](https://twitter.com/search?q=%23teamphilo&src=typeahead_click&f=live)
+	* Les groupes propres à une académie [↪](https://www.facebook.com/groups/197192470301462/permalink/1319948451359186/)
+	* D'autres groupes plus spécifiques : pour la DNL [↪](https://www.facebook.com/groups/enseigner.philosophie.DNL), pour la préparation de l'agrégation interne [↪](https://www.facebook.com/groups/1032833423770790), pour l'enseignement de l'option Cinéma Audiovisuel [↪](https://www.facebook.com/groups/2721744724714418/), pour inclure davantage de textes de femmes philosophes [↪](https://www.facebook.com/groups/334838114318350 )…
+	* Sur twitter : utiliser le tag #TeamPhilo [↪](https://twitter.com/search?q=%23TeamPhilo&src=saved_search_click&f=live), s'abonner à des comptes spécifiques et faire une recherche seulement sur ces comptes
 2) Utiliser des outils collaboratifs
 	* Créer un espace de discussion en ligne [↪](https://framateam.org)
 	* Travailler sur des dossiers collaboratifs : _Tribu_ [↪](https://tribu.phm.education.gouv.fr/), _Drive_ [↪](https://drive.google.com/drive/my-drive)
@@ -208,18 +208,19 @@ ol {margin-left:70px;}
 ---
 <!-- _class: fmmmmm -->
 <style scoped>
-ol ul {margin-left:-25px;}
+ol ul {margin-left:-30px;}
 </style>
 
 1) Usages ordinaires
-	* Utiliser le logiciel libre LibreOffice [↪](https://fr.libreoffice.org/download/telecharger-libreoffice/)
+	* Utiliser un logiciel libre : LibreOffice [↪](https://fr.libreoffice.org/download/telecharger-libreoffice/) ou OnlyOffice [↪](https://www.onlyoffice.com/fr/desktop.aspx) 
+	* Utiliser un logiciel en ligne [↪](http://docs.google.com/)
 	* Respecter les règles de la typographie et de la mise en page [↪](http://ufr3.univ-montp3.fr/IMG/pdf/Regle_d_or_edition_memoire_version_juin_2013_-_Masters_MOBILITES_Transport_cle81b1f6.pdf)
 	* Utiliser une police lisible même en petit format [↪](http://www.dafont.com/fr/philosopher.font), ou une police pour les élèves dyslexiques [↪](http://opendyslexic.org/)
 2) Usages avancés
 	* Utiliser les styles pour conserver une unité dans ses documents [↪](https://dane.ac-lyon.fr/spip/IMG/pdf/libreoffice_avance_pdf.pdf)
 	* Utiliser des modèles de document : pour un recueil de textes [↪](https://docs.google.com/document/d/1x6Lntq4ajqTRN7ykKkjdPDwhUDTUVYvGc2vmqKvlHfE/edit?usp=sharing), pour l'analyse d'un texte [↪](https://docs.google.com/document/d/1lAeOmIczj71GBYVnP09CzUdiR0nc_68pOeAVjqB8G2Y/edit?usp=sharing) [↪](https://docs.google.com/drawings/d/1DDuXTG256JtQXYgIas1Bn49cae18-ka_pscfBKfU6n0/edit?usp=sharing), pour faire un “petit livre” [↪](http://petitslivres.free.fr/index_techniques.htm) [↪](https://www.dropbox.com/s/5i7aujquvihqi3x/Epicure-Lettre%20%C3%A0%20M%C3%A9n%C3%A9c%C3%A9e-format%20%20petitlivre.pdf?dl=0), …
 	* Utiliser un logiciel adapté à des mises en page complexes : utiliser un logiciel de MAO [↪](https://scribus.fr/), utiliser un logiciel de diaporamas pour faire de la mise en page facilement [↪](https://docs.google.com/presentation/u/0/)
-	* Utiliser un logiciel adapté à la publication scientifique : $\LaTeX$ [↪](http://tug.ctan.org/info/latex-sciences-humaines.pdf) [↪](https://fr.overleaf.com/)
+	* Utiliser un logiciel adapté à la publication scientifique : $\LaTeX$ [↪](http://tug.ctan.org/info/latex-sciences-humaines.pdf) [↪](https://fr.overleaf.com/)
 
 <!-- modèles de document : A4 2 colonnes / modèle pour la correction des copies / sujets type bac / “petit livre” -->
 
@@ -234,11 +235,11 @@ ol {margin-left:70px;}
 2. Usages avancés
 
 ---
-<!-- _class: fm -->
+<!-- _class: fmm -->
 1) Usages ordinaires
-	* Utiliser un vidéoprojecteur : en HDMI, en VGA
-	* Utiliser un logiciel ordinaire de diaporama [↪](https://www.google.fr/intl/fr/slides/about/)
-	* Améliorer la mise en page [↪](https://guy.pastre.org/?p=2405)
+	* Utiliser un vidéoprojecteur : en HDMI, en VGA, savoir utiliser un adaptateur si nécessaire
+	* Faire attention à la taille des polices, à la mise en page [↪](https://guy.pastre.org/?p=2405)
+	* Utiliser un logiciel en ligne [↪](https://www.google.fr/intl/fr/slides/about/)
 	* Imprimer un support de cours à partir d'un diaporama
 2) Usages avancés
 	* Faire de la vidéoprojection sans fil
