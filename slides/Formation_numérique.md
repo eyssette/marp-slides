@@ -146,7 +146,7 @@ ol ul ul {font-size:90%; padding-top:5px}
 <!-- _class: fpp -->	
 
 3. Gérer ses ressources
-	* Scanner des articles avec son téléphone, avec un stylo scanner [↪](https://fossbytes.com/best-android-scanner-apps/)
+	* Scanner des articles avec son téléphone [↪](https://fossbytes.com/best-android-scanner-apps/), avec un stylo scanner
 	* Utiliser un logiciel de gestion de références bibliographiques : _Zotero_  [↪](https://www.zotero.org/) [↪](https://zotero.hypotheses.org/)
 	* Utiliser un catalogue en ligne [↪](https://www.worldcat.org/) [↪](https://ccfr.bnf.fr/portailccfr/jsp/public/index.jsp) [↪](http://www.sudoc.abes.fr/)
 	* Stocker ses ressources et pouvoir y accéder en ligne [↪](https://www.dropbox.com/referrals/AADNRgRvYNK3-2FBnRd_mi-niwqSc6g-yUI?src=global9)
@@ -174,7 +174,7 @@ ol ul {margin-left:-20px;}
 	* Le groupe “Enseigner la philosophie avec le cinéma et les séries télévisées” [↪](https://www.facebook.com/groups/enseignercinephilosophie/)
 	* Le groupe “Enseigner HLP” [↪](https://www.facebook.com/groups/2364164770521489)
 	* Les groupes propres à une académie [↪](https://www.facebook.com/groups/197192470301462/permalink/1319948451359186/)
-	* D'autres groupes plus spécifiques : pour la DNL [↪](https://www.facebook.com/groups/enseigner.philosophie.DNL), pour la préparation de l'agrégation interne [↪](https://www.facebook.com/groups/1032833423770790), pour l'enseignement de l'option Cinéma Audiovisuel [↪](https://www.facebook.com/groups/2721744724714418/), pour élargir le corpus et inclure davantage de textes de femmes philosophes [↪](https://www.facebook.com/groups/334838114318350 )…
+	* D'autres groupes plus spécifiques : pour la DNL [↪](https://www.facebook.com/groups/enseigner.philosophie.DNL), pour la préparation de l'agrégation interne [↪](https://www.facebook.com/groups/1032833423770790), pour l'enseignement de l'option Cinéma Audiovisuel [↪](https://www.facebook.com/groups/2721744724714418/), pour élargir le corpus et inclure davantage de textes de femmes philosophes [↪](https://www.facebook.com/groups/334838114318350)  …
 	* Sur twitter : utiliser le tag #TeamPhilo [↪](https://twitter.com/search?q=%23TeamPhilo&src=saved_search_click&f=live), s'abonner à des comptes spécifiques et faire une recherche seulement sur ces comptes
 2) Utiliser des outils collaboratifs
 	* Créer un espace de discussion en ligne [↪](https://framateam.org)
@@ -235,24 +235,21 @@ ol {margin-left:70px;}
 2. Usages ordinaires
 3. Usages avancés
 
+
 ---
-<!-- _class: fmmmmmmmm -->
+<!-- _class:  -->
 <style scoped>
-ol {margin-left:25px;}
-ol ol {margin-left:-50px; margin-right:-30px; margin-top:-5px!important;}
-ol ol ul {margin-left:-10px;}
+ul {margin-top:10px; font-size:94%;}
 </style>
 1. De l'intérêt de faire un diaporama et des risques possibles
-	1) _Intérêt_ :
-		* Possibilité d'intégrer plusieurs contenus différents : textes, schémas, vidéo, exercices
-		* Clarification de la structure du cours avec des types de diapositives facilement identifiables
-		* Guidage des élèves plus facile : explicitation des consignes, focalisation sur les points essentiels
-		* Support polyvalent : pour le cours en classe, pour l'impression d'un support, pour les révisions, pour le partage avec les collègues
-	2) _Risques possibles_ :
-		* Diaporama surchargé en textes ⇒ contenu pas lisible, tendance au simple recopiage du diaporama, peu d'intérêt des élèves pour le suivi du cours
-		* Diaporama surchargé en images ou en effets de transition ⇒ perte de l'attention sur l'essentiel
-		* Cours trop directif et trop linéaire ⇒  
-		* Temps de préparation trop important ⇒ ne pas chercher à tout mettre dans le diapo
+
+- Si vous utilisez des diaporamas, quel est l'intérêt d'après vous ?
+- Si vous n'en utilisez pas, pour quelle raison ?
+
+---
+<!-- _class: i1t0 pp -->
+
+![](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/faire-un-diaporama-pour-son-cours.svg)
 
 ---
 <!-- _class: fmmmm -->
