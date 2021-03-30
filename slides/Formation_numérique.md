@@ -251,6 +251,13 @@ ul {margin-top:10px; font-size:94%;}
 
 ![](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/faire-un-diaporama-pour-son-cours.svg)
 
+
+<div onclick="toggle(this)" style="position:absolute; background-color:#FAFAFA; left:470px; top:280px; width:330px; height:130px; z-index:2;"></div>
+<div onclick="toggle(this)" style="position:absolute; background-color:#FAFAFA; left:465px; top:420px; width:340px; height:90px;"></div>
+<div onclick="toggle(this)" style="position:absolute; background-color:#FAFAFA; left:485px; top:520px; width:330px; height:90px;"></div>
+<div onclick="toggle(this)" style="position:absolute; background-color:#FAFAFA; left:465px; top:610px; width:330px; height:90px;"></div>
+<script> function toggle(e) {e.style.backgroundColor = ((e.style.backgroundColor=='transparent') ? '#FAFAFA' : 'transparent');} </script>
+
 ---
 <!-- _class: fmmmm -->
 2) Usages ordinaires
@@ -288,7 +295,7 @@ ol {margin-left:70px;}
 	* Créer des schémas pour représenter des arguments [↪](http://argument.mindmup.com) [↪](https://argdown.org/)
 	* Utiliser un langage de programmation de graphiques : GraphViz [↪](https://github.com/eyssette/graphviz-examples)
 	* Créer une frise chronologique
-	* Rendre son schéma interactif
+	* Rendre son schéma interactif [↪](https://www.genial.ly/)
 
 ---
 <!-- _class: souspartie -->
