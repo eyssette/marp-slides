@@ -248,13 +248,14 @@ ul {margin-top:10px; font-size:94%;}
 
 ---
 <!-- _class: i1t0 pp -->
+
 ![](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/faire-un-diaporama-pour-son-cours.svg)
 
 <div onclick="toggleElement(this)" style="position:absolute; background-color:#FAFAFA; left:470px; top:280px; width:330px; height:130px; font-size:8pt; display:grid; place-items: center;">cliquer ici pour faire apparaître l'élément caché</div>
 <div onclick="toggleElement(this)" style="position:absolute; background-color:#FAFAFA; left:465px; top:420px; width:340px; height:90px; font-size:8pt; display:grid; place-items: center;">cliquer ici pour faire apparaître la suite</div>
 <div onclick="toggleElement(this)" style="position:absolute; background-color:#FAFAFA; left:485px; top:520px; width:330px; height:90px; font-size:8pt; display:grid; place-items: center;">cliquer ici pour faire apparaître la suite</div>
 <div onclick="toggleElement(this)" style="position:absolute; background-color:#FAFAFA; left:465px; top:610px; width:330px; height:90px; font-size:8pt; display:grid; place-items: center;">cliquer ici pour faire apparaître la suite</div>
-<script>function toggleElement(e) {e.style.backgroundColor = ((e.style.backgroundColor=='transparent') ? '#FAFAFA' : 'transparent'); if (e.innerHTML==''){e.innerHTML="cliquer ici pour faire apparaître l'élément caché"} else {e.innerHTML=''}}</script>
+<script>function toggleElement(e) {e.style.backgroundColor = ((e.style.backgroundColor=='transparent') ? '#FAFAFA' : 'transparent'); commandes=document.getElementsByClassName('bespoke-marp-parent'); commandes[0].classList.add('bespoke-marp-inactive');  if (e.innerHTML==''){e.innerHTML="cliquer ici pour faire apparaître l'élément caché"} else {e.innerHTML=''}}</script>
 
 ---
 <!-- _class: fmmmm -->
