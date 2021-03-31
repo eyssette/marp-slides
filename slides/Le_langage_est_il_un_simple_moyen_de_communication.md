@@ -131,29 +131,122 @@ Première partie
 ### 1. Complexité des signes produits
 
 ---
-<!-- _class:  -->
+<!-- _class: i1t1 vertical -->
 #### a) Les phonèmes
 
+![Représentation schématique des zones articulatoires par Georges Straka](http://flenet.unileon.es/phon/imagStraka_zones.jpg)
 
 ---
-<!-- _class:  -->
+<!-- _class: i1t0 pp -->
+
+[![Tableau phonologique des consonnes du français, d'après Martin (1983), et des voyelles du français](https://i.ibb.co/w4BCYpv/tableau-phonologie-t.png)](https://fr.wikipedia.org/wiki/Aide:Alphabet_phon%C3%A9tique_fran%C3%A7ais)
+
+
+---
+<!-- _class: -->
+<style scoped>
+h4 {margin-bottom:-10px}
+</style>
 #### b) Les morphèmes
 
+<div class="puces">
+
+* “inacceptable”
+* “anticonstitutionnellement”
+* “Rindfleisch­etikettierungs­überwachungs­aufgaben­übertragungs­gesetz” : loi sur le transfert des obligations de surveillance de l'étiquetage de la viande bovine
+
+</div>
+
 ---
-<!-- _class:  -->
+<!-- _class: i1t1 vertical -->
+<style scoped>
+img {width:860px}
+</style>
+Le cas des langues agglutinantes et des langues polysynthétiques
+
+![](https://i.ibb.co/tQ2wgrD/langues-aggl-polys-t.png)
+
+
+---
+<!-- _class: i1t1 vertical -->
+<style scoped>
+img {width:800px}
+</style>
 
 #### c) La syntaxe
+
+![](https://i.ibb.co/XtByfKx/syntax-tree.png)
+
+
+<!--
+[P
+  [GN
+    [Dét L']
+    [N enfant]
+  ]
+  [GV
+    [V joue]
+    [GP 
+      [P à] 
+      [GN
+        [Dét la]
+        [N balle]
+      ]
+    ]
+  ]
+  [GP
+    [P dans]
+    [GN
+      [Dét le]
+      [N jardin]
+    ]
+  ]
+]
+
+https://ironcreek.net/syntaxtree/
+https://yohasebe.com/rsyntaxtree/
+http://mshang.ca/syntree/
+ -->
 
 ---
 <!-- _class: etape -->
 ### 2. Complexité de l'interprétation des signes
 
 
+---
+<!-- _class: i1t1 vertical fppp -->
+<style scoped>
+h4 {margin-top:8px!important;}
+img {width:800px; margin-top:15px!important;}
+</style>
+#### a) La distinction : indices, icônes, symboles
+![](https://i.ibb.co/1Q9HzHD/Capture-d-e-cran-2021-03-31-a-04-26-38.png)
+
+
+---
+<!-- _class:  -->
+
+Utilisation de la distinction entre indices, icônes et symboles pour analyser la gestuelle dans des clips vidéo de rap :  https://colloquehh.hypotheses.org/296
+
+
+---
+<!-- _class: i1t1 vertical fppp -->
+<style scoped>
+h4{margin-top:8px!important; margin-bottom:8px!important;}
+img {width:750px;}
+</style>
+#### b) La nécessité de faire des inférences en fonction du contexte
+![](https://i.ibb.co/syfG4q6/Capture-d-e-cran-2021-03-31-a-04-35-05.png)
 
 ---
 <!-- _class:  souspartie -->
 ## B. Des fonctions complexes
 
+
+---
+<!-- _class:  -->
+1) Le langage n'est “pas un simple code de signaux” (Benveniste)
+2) Il y a une multiplicité de “jeux de langage” (Wittgenstein)
 
 ---
 <!-- _class: partie -->
@@ -166,6 +259,13 @@ span em {color:black;}
 # II – Le langage n'est pas<br> un simple _moyen_ de<br> communication :<br><span>Le langage peut être un _obstacle_<br> à la communication, et les _enjeux<br> sociaux, politiques et culturels_ du <brlangage> montrent qu'il n'est pas un simple instrument au service d'un individu</span>
 Deuxième partie
 
+---
+<!-- _class:  -->
+
+1) La généralité et l'abstraction du langage peuvent constituer un obstacle qui nous empêche d'exprimer la singularité du réel (Bergson)
+2) La sociolinguistique met en évidence les enjeux sociaux et politiques du langage
+3) Le langage est une partie et une condition de la culture
+
 
 ---
 <!-- _class: partie -->
@@ -177,3 +277,9 @@ span em {color:black;}
 </style>
 # III – Le langage n'est pas<br> un simple _moyen_ de<br> communication :<br><span>Le langage ne fait pas qu'exprimer<br> des pensées intérieures déjà<br> constituées, il joue un rôle dans la<br> _formation même de nos pensées_</span>
 Troisième partie
+
+---
+<!-- _class:  -->
+
+1) Examen de l'hypothèse Sapir-Whorf de la relativité linguistique
+2) Une pensée sans mots pour l'exprimer reste une pensée obscure : le langage rend possible une pensée claire et précise
