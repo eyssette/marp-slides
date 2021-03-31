@@ -267,6 +267,17 @@ Deuxième partie
 3) Le langage est une partie et une condition de la culture
 
 
+<!-- 
+
+Distinction : langage / langue / parole
+
+Documentaire : Les Roses Noires
+https://www.youtube.com/watch?v=YJegnWsbMSo
+
+
+-->
+
+
 ---
 <!-- _class: partie -->
 <style scoped>
@@ -283,3 +294,16 @@ Troisième partie
 
 1) Examen de l'hypothèse Sapir-Whorf de la relativité linguistique
 2) Une pensée sans mots pour l'exprimer reste une pensée obscure : le langage rend possible une pensée claire et précise
+
+<!--
+Un film qui repose sur l'hypothèse du déterminisme linguistique fort : Premier contact
+
+3 objections contre la thèse SP :
+1/ Il y a de grandes similarités dans le fonctionnement cognitif des êtres humains
+2/ Il n'y a pas de frontières cognitives absolues entre les langues : une traduction est toujours possible
+3/ Il est possible de posséder un concept sans être capable de l'exprimer
+ -->
+
+ <!--
+ Exemples : une radiographie, une photographie des couches géologiques d'un terrain
+  -->
