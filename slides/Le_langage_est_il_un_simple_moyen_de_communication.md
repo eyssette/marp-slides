@@ -11,6 +11,11 @@ size: 4:3
 Cédric Eyssette
 http://eyssette.github.io
 
+<!-- Ajouter : slide distinction sens large / sens strict
+Dans toute communication, il y a production d'un signe qui transmet une information à un récepteur. Au **sens large**, le langage désigne tout type de signes qui assure cette fonction, et, en ce sens, le langage se réduit à un simple moyen de communication. Cependant, au **sens strict**, le langage se rapporte à des systèmes de signes écrits, parlés ou gestuels.
+-->
+
+
 ---
 <!-- _class: fpppppppp -->
 **Première approche : comparaison entre communication humaine et communication animale**
