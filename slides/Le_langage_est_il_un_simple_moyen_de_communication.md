@@ -11,14 +11,30 @@ size: 4:3
 Cédric Eyssette
 http://eyssette.github.io
 
-<!-- Ajouter : slide distinction sens large / sens strict
-Dans toute communication, il y a production d'un signe qui transmet une information à un récepteur. Au **sens large**, le langage désigne tout type de signes qui assure cette fonction, et, en ce sens, le langage se réduit à un simple moyen de communication. Cependant, au **sens strict**, le langage se rapporte à des systèmes de signes écrits, parlés ou gestuels.
--->
+---
+<!-- _class:  -->
+<style scoped>
+ul {font-size:55px;}
+ul li{padding-top:15px; padding-bottom:15px;}
+</style>
+- Qu'est-ce que communiquer ?
+- Comment peut-on définir le langage ?
+
+---
+<!-- _class: fpp -->
+Dans toute communication, il y a production d'un signe qui transmet une information à un récepteur.
+Au **sens large**, le langage désigne tout type de signes qui assure cette fonction, et, en ce sens, le langage se réduit à un simple moyen de communication.
+Cependant, au **sens strict**, le langage désigne tout système de signes écrits, parlés ou gestuels utilisés par les êtres humains.
+- Au sens strict : le langage est-il un simple moyen de communication ?
 
 
 ---
-<!-- _class: fpppppppp -->
-**Première approche : comparaison entre communication humaine et communication animale**
+<!-- _class: etape fppppppp -->
+<style scoped>
+h3 {padding-bottom:25px}
+ul {margin-top:10px;}
+</style>
+### 1/ Première approche : comparaison entre communication humaine et communication animale
 
 - Comment les animaux communiquent-ils ? Pourquoi communiquent-ils ? Que communiquent-ils ?
 - Quelles différences y a-t-il entre la communication animale et la communication humaine ?
@@ -136,12 +152,26 @@ https://www.youtube.com/watch?v=AMU1KOF_Tck
 
 [![](https://i.ibb.co/p0ssYh2/alex-the-parrot.jpg)](https://www.youtube.com/watch?v=QbBdI9Qk7Hw)
 
-
 ---
-**Deuxième approche : les mots sont-ils importants ?**
+<!-- _class: etape -->
+<style scoped>
+h3 {padding-bottom:45px}
+ul {margin-top:30px;}
+</style>
+### 2/ Deuxième approche : les mots sont-ils importants ?
 
 - Pourquoi dit-on parfois que « ce ne sont pas les mots qui comptent » ?
 - Pourquoi dit-on parfois, au contraire, que « les mots sont importants » ?
+
+<!-- paroles ≠ actes ; parole = bavardage, parler pour ne rien dire ; paroles ≠ expression véritable de nos intentions -->
+
+---
+<!-- _class:  -->
+Deux cas à examiner :
+
+- Quel effet peut avoir une insulte ?
+- Dans un entretien d'embauche ou dans un discours politique, pourquoi faut-il faire attention aux mots que l'on choisit ?
+
 
 ---
 <!-- _class: citationC fmmmmmmmmmm  -->
@@ -154,7 +184,13 @@ blockquote blockquote{margin-top:-5px;}
 >« Devenir gay, c'est devenir la cible, et s'apercevoir qu'on était potentiellement la cible avant même de le devenir réellement, et donc, avant même d'en avoir conscience, d'un vocable mille fois entendu et dont on connaît depuis toujours la force injurieuse. On est précédé par une identité stigmatisée que l'on vient à son tour habiter et incarner et avec laquelle il faut se débrouiller d'une manière ou d'une autre. […] Bientôt […] je devins le destinataire direct de l'insulte, puisque c'est à moi personnellement qu'elle s'adressa. Je fus environné par elle. Et plus encore : défini par elle. Elle m'accompagnait partout, pour me rappeler sans cesse que je contrevenais à la règle, à la norme, à la normalité. […] On m'exposait en place publique : « Voyez donc ce qu'il est, croit-il vraiment qu'il peut déjouer notre vigilance ? » […] Je suis un produit de l'injure. Un fils de la honte. […] Je pourrais écrire, en m'inspirant de la prose métaphorique et fleurie de Genet, qu'il arrive un moment où l'on transmue les crachats en rose, les attaques verbales en guirlande de fleurs, en rayons de lumière. Bref, un moment où la honte se transforme en orgueil. […] Il ne suffit [cependant] pas d'inverser le stigmate […] ou de se réapropprier l'injure et de la resignifier pour que leur force blessante disparaisse à tout jamais. On chemine toujours en équilibre incertain entre la signification blessante du mot d'injure et la réappropriation orgueilleuse de celui-ci. On n'est jamais libre, ou libéré. On s'émancipe plus ou moins du poids que l'ordre social et sa force assujettissante font peser sur tous et à chaque instant. »
 >>Didier **Eribon**, _Retour à Reims_
 
+---
+<!-- _class: citationC fmmm-->
 
+![bg left:30%](https://upload.wikimedia.org/wikipedia/commons/b/bf/JudithButler2013.jpg)
+
+>« Le langage pourrait-il nous blesser si nous n'étions pas, en un sens, des êtres de langage, des êtres qui ont besoin du langage pour être ? Sommes-nous vulnérables parce que les termes du langage nous constituent ? […] Être insulté est l'une des premières formes de blessure linguistique dont nous avons l'expérience. Mais tous les noms que l'on nous donne ne sont pas injurieux. Recevoir un nom est aussi l'une des conditions de la constitution d'un sujet dans le langage […]. Le nom utilisé pour nous appeler ne nous fige pas purement et simplement. Recevoir un nom injurieux nous porte atteinte et nous humilie. Mais ce nom recèle par ailleurs une autre possibilité : recevoir un nom, c'est aussi recevoir la possibilité d'exister socialement. »
+>>Judith **Butler**, _Le Pouvoir des mots. Discours de haine et politique du performatif_
 
 ---
 <!-- _class: fmmm -->
@@ -380,11 +416,38 @@ span em {color:black;}
 Deuxième partie
 
 ---
-<!-- _class:  -->
+<!-- _class: souspartie -->
+## A. Le langage comme obstacle
 
-1) La généralité et l'abstraction du langage peuvent constituer un obstacle qui nous empêche d'exprimer la singularité du réel (Bergson)
-2) La sociolinguistique met en évidence les enjeux sociaux et politiques du langage
-3) Le langage est une partie et une condition de la culture
+---
+<!-- _class: citationC fm-->
+
+![bg left:30%](https://upload.wikimedia.org/wikipedia/commons/a/a0/Henri-Louis_Bergson.jpg)
+
+>« Nous ne voyons pas les choses mêmes ; nous nous bornons, le plus souvent, à lire des étiquettes collées sur elles. Cette tendance, issue du besoin, s'est encore accentuée sous l'influence du langage. Car les mots (à l'exception des noms propres) désignent des genres. Le mot, qui ne note de la chose que sa fonction la plus commune et son aspect banal, s'insinue entre elle et nous […]. Et ce ne sont pas seulement les objets extérieurs, ce sont aussi nos propres états d'âme qui se dérobent à nous […]. Ainsi, jusque dans notre propre individu, l'individualité nous échappe. Nous nous mouvons parmi des généralités et des symboles »
+>>**Bergson**, _Le rire_ 
+
+
+---
+<!-- _class: souspartie fppppp -->
+## B. Les enjeux sociaux, politiques et culturels du langage
+
+---
+<!-- _class: etape -->
+### 2) L'apport de la sociolinguistique
+
+
+---
+<!-- _class: citationC fmmmmmmm -->
+![bg left:29%](https://i.ibb.co/chkSP6w/basil-bernstein.jpg)
+
+>« La forme particulière que prend un rapport social conditionne le choix de ce qui est dit, du moment où c'est dit, et de la manière dont c'est dit. Elle règle les options que prennent les locuteurs aussi bien au niveau syntaxique que lexical. Par exemple, si un adulte parle à un enfant, il utilisera une forme de langage simple dans sa syntaxe, aussi bien que dans son vocabu­laire. En d'autres termes, la forme du rapport social se traduit souvent par certaines sélections syntaxiques et lexicales. […] Les formes différentes de rapports sociaux peuvent engendrer, par l'intermédiaire des procédés de construction verbale, des systèmes de discours ou des codes linguistiques tout à fait différents. […] Quand l'enfant apprend à parler, c'est-à-dire, dans notre vocabulaire, apprend les codes spécifiques qui règlent ses actes verbaux, il apprend les exigences de sa structure sociale. […] C'est essentiel­lement par l'effet du processus linguistique que la struc­ture sociale devient le substrat de son expérience. De ce point de vue, chaque occasion où l'enfant parle ou écoute contribue à lui faire intérioriser la structure sociale et à lui imposer son identité sociale. »
+>>Basil **Bernstein**, _Langage et classes sociales_
+---
+<!-- _class: etape -->
+### 3) Le langage est une partie et une condition de la culture
+
+
 
 
 <!-- 
