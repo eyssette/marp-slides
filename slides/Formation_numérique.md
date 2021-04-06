@@ -254,14 +254,8 @@ ol {display:none;}
 
 ![](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/faire-un-diaporama-pour-son-cours.svg)
 
-1) 
-2) 
-3) 
-4) 
-
-
-<div onclick="toggleElement(this)" style="position:absolute; background-color:#FAFAFA; left:470px; top:280px; width:330px; height:130px; font-size:8pt; display:grid; place-items: center;">cliquer ici pour faire apparaître l'élément caché</div>
-<div onclick="toggleElement(this)" style="position:absolute; background-color:#FAFAFA; left:465px; top:420px; width:340px; height:90px; font-size:8pt; display:grid; place-items: center;">cliquer ici pour faire apparaître la suite</div>
+<div onclick="toggleElement(this)" style="position:absolute; background-color:#FAFAFA; left:470px; top:300px; width:330px; height:130px; font-size:8pt; display:grid; place-items: center;">cliquer ici pour faire apparaître l'élément caché</div>
+<div onclick="toggleElement(this)" style="position:absolute; background-color:#FAFAFA; left:465px; top:440px; width:340px; height:90px; font-size:8pt; display:grid; place-items: center;">cliquer ici pour faire apparaître la suite</div>
 <div onclick="toggleElement(this)" style="position:absolute; background-color:#FAFAFA; left:485px; top:520px; width:330px; height:90px; font-size:8pt; display:grid; place-items: center;">cliquer ici pour faire apparaître la suite</div>
 <div onclick="toggleElement(this)" style="position:absolute; background-color:#FAFAFA; left:465px; top:610px; width:330px; height:90px; font-size:8pt; display:grid; place-items: center;">cliquer ici pour faire apparaître la suite</div>
 <script>function toggleElement(e) {e.style.backgroundColor = ((e.style.backgroundColor=='transparent') ? '#FAFAFA' : 'transparent'); commandes=document.getElementsByClassName('bespoke-marp-parent'); commandes[0].classList.add('bespoke-marp-inactive');  if (e.innerHTML==''){e.innerHTML="cliquer ici pour faire apparaître l'élément caché"} else {e.innerHTML=''}};</script>
@@ -307,15 +301,16 @@ ol {margin-left:70px;}
 2) Usages avancés
 	* Créer des schémas pour représenter des arguments [↪](http://argument.mindmup.com) [↪](https://argdown.org/)
 	* Utiliser un langage de programmation de graphiques : GraphViz [↪](https://github.com/eyssette/graphviz-examples)
-	* Créer une frise chronologique
+	* Créer une frise chronologique [&#8618;](https://outilstice.com/2020/06/outils-creer-frises-chronologiques/) [&#8618;](https://dynalist.io/d/AVblXCS_wLyhYa5Vv09X0cFJ#z=lMqVNIBrVvEdqSVLcxavgyhY)
 	* Rendre son schéma interactif [↪](https://www.genial.ly/)
 
 ---
 <!-- _class: souspartie -->
 ## 2/ Faire travailler les élèves
 
----
-<!-- _class: etape -->
+
+
+<!--
 <style scoped>
 ol {margin-left:60px; margin-top:0px;}
 </style>
@@ -326,26 +321,23 @@ ol {margin-left:60px; margin-top:0px;}
 4. Sur un fichier audio
 5. Sur un site internet
 6. Sur des exercices
+-->
 
 ---
-<!-- _class: fmmmmmmmm -->
+<!-- _class: etape -->
+### a) Faire travailler les élèves sur un texte ou une œuvre suivie
+
+---
+<!-- _class: fm -->
 <style scoped>
-ol {margin-left:25px;}
-ol ol {margin-left:-50px; margin-right:-30px; margin-top:-5px!important;}
-ol ol ul {margin-left:-10px; }
-span {font-size:90%}
+ol ul {margin-left:-10px;}
 </style>
-1) Faire travailler les élèves sur un texte, une œuvre suivie
-	1) _Trouver un texte ou une œuvre suivie_
-		* Utiliser les ressources des manuels [↪](https://eyssette.github.io/ressources-generales-enseignement-philosophie/manuels)
-		* Utiliser des dossiers en ligne de textes classés par thèmes : Philo52 [↪](https://philo52.com/articles.php?lng=fr&pg=2276), Materia philosophica [↪](https://materiaphilosophica.blogspot.com/), PhiloTextes [↪](http://philotextes.info/spip/spip.php?rubrique5), ma sélection [↪](https://eyssette.github.io/dossiers/)
-		* Utiliser des moteurs de recherche : Académie de Grenoble [↪](http://www.ac-grenoble.fr/PhiloSophie/old2/bases/search.php), Philolabo [↪](https://philo-labo.fr/accueil/), MaPhilosophie [↪](https://www.maphilosophie.fr/base_textes.php), Explications de texte données au baccalauréat [↪](https://eyssette.github.io/sujets-philosophie-bac/explications.html)
-		* Trouver une édition numérique d'une œuvre [↪](https://philo-labo.fr/pmwiki.php?n=Public.Ebooks?skin=minimal)  [↪](http://classiques.uqac.ca/classiques/), et des enregistrements audio de lectures d'œuvres [↪](https://lecture-audio.fr/co/Bibli.html) [↪](http://www.litteratureaudio.com/livres-audio-gratuits-mp3/categorie/philosophie)
-		* Utiliser le document collaboratif du groupe “Enseigner la philosophie” pour le partage de cours sur les œuvres suivies [&#8618;](https://www.facebook.com/groups/enseignerlaphilosophie/permalink/1327381807282517)
-	2) _Travailler sur le texte_
-		* Vidéoprojeter le texte et annoter le texte au tableau <span>(penser à imprimer un texte pour les élèves avec la même mise en page)</span>
-		* Utiliser une caméra de document (ou “visualiseur”) pour projeter le travail que l'on accomplit sur le texte [↪](https://profjourde.wordpress.com/2015/06/02/un-visualiseur-et-un-ideateur-pour-les-gestes-du-travail-intellectuel/)
-		* Rendre le texte cliquable et interactif [↪](https://www.genial.ly/)
+1) Trouver un texte ou une œuvre suivie
+	* Utiliser les ressources des manuels [↪](https://eyssette.github.io/ressources-generales-enseignement-philosophie/manuels)
+	* Utiliser des dossiers en ligne de textes classés par thèmes : Philo52 [↪](https://philo52.com/articles.php?lng=fr&pg=2276), Materia philosophica [↪](https://materiaphilosophica.blogspot.com/), PhiloTextes [↪](http://philotextes.info/spip/spip.php?rubrique5), ma sélection [↪](https://eyssette.github.io/dossiers/)
+	* Utiliser des moteurs de recherche : Académie de Grenoble [↪](http://www.ac-grenoble.fr/PhiloSophie/old2/bases/search.php), Philolabo [↪](https://philo-labo.fr/accueil/), MaPhilosophie [↪](https://www.maphilosophie.fr/base_textes.php), Explications de texte données au baccalauréat [↪](https://eyssette.github.io/sujets-philosophie-bac/explications.html)
+	* Trouver une édition numérique d'une œuvre [↪](https://philo-labo.fr/pmwiki.php?n=Public.Ebooks?skin=minimal)  [↪](http://classiques.uqac.ca/classiques/), et des enregistrements audio de lectures d'œuvres [↪](https://lecture-audio.fr/co/Bibli.html) [↪](http://www.litteratureaudio.com/livres-audio-gratuits-mp3/categorie/philosophie)
+	* Utiliser le document collaboratif du groupe “Enseigner la philosophie” pour le partage de cours sur les œuvres suivies [&#8618;](https://www.facebook.com/groups/enseignerlaphilosophie/permalink/1327381807282517)
 
 <!--
 Livres audio, mais payants :
@@ -357,9 +349,63 @@ http://www.ac-grenoble.fr/PhiloSophie/old2/articles.php?lng=fr&pg=17022
  -->
 
 ---
+<!-- _class: fpppppp -->
+<style scoped>
+ol ul {margin-left:-30px;}
+</style>
+2) Travailler sur le texte
+	* Vidéoprojeter le texte et annoter le texte au tableau : penser à imprimer un texte pour les élèves avec la même mise en page)
+	* Utiliser une caméra de document (un “visualiseur”) pour projeter le travail que l'on accomplit sur le texte [↪](https://profjourde.wordpress.com/2015/06/02/un-visualiseur-et-un-ideateur-pour-les-gestes-du-travail-intellectuel/)
+	* Rendre le texte cliquable et interactif [↪](https://www.genial.ly/)
+
+
+---
+<!-- _class: fp -->
+<style scoped>
+ol ul {margin-left:-30px;}
+</style>
+3) Faire écrire un texte aux élèves
+	* Utiliser un canevas que les élèves doivent remplir à l'écrit (exemple de canevas pour la problématisation : [&#8618;]()), ou un modèle de document que les élèves doivent utiliser pour une production numérique
+	* Utiliser des outils de traitement de texte collaboratifs [&#8618;](https://apps.education.fr/applications/etherpad/) [&#8618;](https://apps.education.fr/applications/codi-md) 
+	* Faire écrire un texte interactif [&#8618;](https://www.inklewriter.com/) [&#8618;](https://twinery.org/)
+	* Récupérer les textes des élèves : utiliser l'ENT de préférence, ou un outil de collecte de fichiers [&#8618;](https://help.dropbox.com/fr-fr/files-folders/share/create-file-request)
+	* Produire un livre numérique à partir d’un fichier PDF pour valoriser les productions des élèves [&#8618;](https://fr.calameo.com/)
+
+
+---
+<!-- _class: etape -->
+### b) Faire travailler les élèves sur une vidéo
+
+---
 <!-- _class: fmm -->
-1) Faire travailler les élèves sur une vidéo
+1) Travailler sur une vidéo
 	* Trouver des vidéo intéressantes [↪]()
+	* Récupérer une vidéo en ligne [↪]() [↪]() [↪](), ou bien à partir d’un DVD [↪]()
+		* Législation : BO n°5 du 4 février 2010 [↪]()
+	* Découper un extrait précis [↪]() [↪]() [↪]()
+	* Stocker ses extraits vidéos [↪]()
+	* Intégrer un extrait vidéo dans un diaporama
+	*  Différents usages possibles du cinéma [↪]()
+	* Faire un exercice à partir d’une vidéo [↪]()
+	* Faire une capsule vidéo pour ses élèves [↪]()
+2) Faire produire une vidéo aux élèves
+	* Faire faire une vidéo [↪](), ou une animation [↪]()
+
+---
+<!-- _class: etape -->
+### c) Faire travailler les élèves sur une image
+
+---
+<!-- _class: etape -->
+### d) Faire travailler les élèves sur un fichier audio
+
+---
+<!-- _class: etape -->
+### e) Faire travailler les élèves sur un site internet
+
+---
+<!-- _class: etape -->
+### f) Faire travailler les élèves sur des exercices
 
 ---
 <!-- _class: etape -->
