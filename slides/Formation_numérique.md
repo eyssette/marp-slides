@@ -326,6 +326,10 @@ ol {margin-left:60px; margin-top:0px;}
 ---
 <!-- _class: etape -->
 ### a) Faire travailler les élèves sur un texte ou une œuvre suivie
+1. Trouver un texte ou une œuvre suivie
+2. Travailler sur le texte
+3. Faire écrire un texte aux élèves
+
 
 ---
 <!-- _class: fm -->
@@ -349,7 +353,7 @@ http://www.ac-grenoble.fr/PhiloSophie/old2/articles.php?lng=fr&pg=17022
  -->
 
 ---
-<!-- _class: fpppppp -->
+<!-- _class: fpppp -->
 <style scoped>
 ol ul {margin-left:-30px;}
 </style>
@@ -357,7 +361,8 @@ ol ul {margin-left:-30px;}
 	* Vidéoprojeter le texte et annoter le texte au tableau : penser à imprimer un texte pour les élèves avec la même mise en page)
 	* Utiliser une caméra de document (un “visualiseur”) pour projeter le travail que l'on accomplit sur le texte [↪](https://profjourde.wordpress.com/2015/06/02/un-visualiseur-et-un-ideateur-pour-les-gestes-du-travail-intellectuel/)
 	* Rendre le texte cliquable et interactif [↪](https://www.genial.ly/)
-
+	* Produire, éventuellement avec les élèves, un texte ou un livre enrichi [&#8618;]()
+	* Discuter un texte ou une œuvre en ligne [&#8618;]()
 
 ---
 <!-- _class: fp -->
@@ -375,11 +380,13 @@ ol ul {margin-left:-30px;}
 ---
 <!-- _class: etape -->
 ### b) Faire travailler les élèves sur une vidéo
+1. Travailler sur une vidéo
+2. Faire produire une vidéo aux élèves
 
 ---
 <!-- _class: fmm -->
 1) Travailler sur une vidéo
-	* Trouver des vidéo intéressantes [↪]()
+	* Trouver des vidéos intéressantes [↪]()
 	* Récupérer une vidéo en ligne [↪]() [↪]() [↪](), ou bien à partir d’un DVD [↪]()
 		* Législation : BO n°5 du 4 février 2010 [↪]()
 	* Découper un extrait précis [↪]() [↪]() [↪]()
@@ -394,18 +401,70 @@ ol ul {margin-left:-30px;}
 ---
 <!-- _class: etape -->
 ### c) Faire travailler les élèves sur une image
+1. Travailler avec des images
+2. Faire faire aux élèves une production à partir d'images
+
+---
+<!-- _class: fmmm -->
+1) Travailler avec des images
+	* Rechercher des images libres de droit [&#8618;]()
+	* Stocker et diffuser des images [&#8618;]() [&#8618;]()
+	* Scanner une image ou bien la diffuser par une caméra de document [&#8618;]()
+	* Imprimer une image sur plusieurs feuilles pour faire une affiche [&#8618;](https://posterazor.sourceforge.io/online/)
+	* Faire un exercice à partir d’une image, éventuellement intégrée à un diaporama ou via un site [&#8618;]()
+	* Rendre son image interactive [&#8618;]()
+2) Faire faire aux élèves une production à partir d’images
+	* Faire faire l'analyse d’une image : diffusion via une caméra de document [&#8618;](), ou récupération en ligne des images [&#8618;]()
+	* Produire une image interactive [&#8618;]()
+
 
 ---
 <!-- _class: etape -->
 ### d) Faire travailler les élèves sur un fichier audio
+1. Travailler avec un fichier audio
+2. Faire faire aux élèves une production audio
+
+---
+<!-- _class: fmmm -->
+1) Travailler sur un fichier audio
+	* Récupérer des fichiers audio : on peut penser notamment aux podcasts des émissions de radio [&#8618;]()
+	* Stocker et diffuser des fichiers audio [&#8618;]() [&#8618;]()
+	* Faire un exercice à partir d’un fichier audio. Par exemple : un exercice de prise de notes
+	* Faire de la balado-diffusion [&#8618;](), ou une web-radio [&#8618;]() [&#8618;]() [&#8618;]() [&#8618;]()
+2) Faire faire aux élèves une production audio
+	* Faire produire une analyse, une réflexion enregistrée via l'ENT, via leur propre téléphone (BYOD) ou via un outil en ligne (mot clé : “online recorder”)
+	* Récupérer les fichiers audio : via l'ENT, ou une autre solution [&#8618;]() [&#8618;]() [&#8618;]()
+
 
 ---
 <!-- _class: etape -->
 ### e) Faire travailler les élèves sur un site internet
+1. Faire travailler les élèves sur des sites
+2. Créer un site
+3. Faire créer un site par les élèves
+
+
+---
+<!-- _class: fppppppp -->
+<style scoped>
+ol ul {margin-left:-30px}
+</style>
+1) Faire travailler les élèves sur des sites
+	* Utiliser un raccourcisseur d’URL [&#8618;]()
+	* Utiliser des QR-Codes [&#8618;]()
+	* Utiliser un outil de bookmarking en ligne [&#8618;]()
+2) Créer un site
+	* Utiliser un outil simple de création de sites [&#8618;]()
+2) Faire créer un site par les élèves
+	* Utiliser un outil de création de site [&#8618;]()
+
 
 ---
 <!-- _class: etape -->
 ### f) Faire travailler les élèves sur des exercices
+
+1) Faire ou faire des exercices en ligne (pour vérifier la compréhension, pour des révisions) [&#8618;]() [&#8618;]()
+2) Créer un parcours pédagogique en ligne complet avec des exercices auto-correctifs
 
 ---
 <!-- _class: etape -->
@@ -418,11 +477,68 @@ ol {margin-left:40px; margin-top:0px}
 1. Trouver un sujet
 2. Faire une dissertation ou une explication avec un dossier d'approfondissement
 3. Calculer le temps nécessaire pour une évaluation
-4. Vérifier si l'élève a fait un plagiat
-5. Annoter les copies
+4. Annoter les copies
+5. Vérifier si l'élève a fait un plagiat
 6. Noter les copies
 7. Rendre les copies
 8. Évaluer avec des QCM
+
+---
+<!-- _class: fm -->
+<style scoped>
+ol {margin-left:20px; margin-right:30px;}
+ol ul {margin-left:-30px;}
+</style>
+1) Trouver un sujet
+	* Rechercher un sujet dans la base de données des sujets du baccalauréat : dissertations [&#8618;]() et explications de texte [&#8618;]()
+	* Rechercher un sujet de dissertation dans une base de données générale (tous niveaux confondus) [&#8618;]()
+2) Faire une dissertation ou une explication avec un dossier d'approfondissement
+	* Partager des dossiers avec l'ENT ou en les publiant en ligne [&#8618;]() [&#8618;]()
+	* Collaborer avec des collègues pour faire un dossier [&#8618;]()
+3) Calculer le temps nécessaire pour une évaluation
+	* Utiliser un compteur de mots [&#8618;]()
+
+---
+<!-- _class: fm -->
+<style scoped>
+ol {margin-left:20px; margin-right:0px}
+ol ol {margin-left:-40px;}
+ol ol ul {margin-left:-30px}
+</style>
+
+4) Annoter les copies
+	1) _Utiliser une fiche d'évaluation_ [&#8618;]() [&#8618;]()
+	2) _Annoter numériquement des copies physiques_
+		* Utiliser un modèle de document pour ses corrections [&#8618;](), insérer des annotations prédéfinies [&#8618;]() [&#8618;]()
+		* Faire des annotations vocales [&#8618;]()
+	3) _Annoter numériquement des copies numériques_
+		* Utiliser la fonction “commentaire” dans un traitement de texte 
+		* Utiliser les fonctions d’annotation d’un fichier PDF [&#8618;]()
+		* Utiliser un outil dédié [&#8618;](https://eyssette.github.io/mark-down-papers/)
+
+---
+<!-- _class: f -->
+
+5) Vérifier si l'élève a fait un plagiat
+	* Utiliser un moteur de recherche ordinaire et quelques astuces
+	* Utiliser un outil spécifique [&#8618;]()
+6) Noter les copies
+	* Utiliser Pronote pour différer la diffusion des notes et focaliser les élèves sur les annotations lorsque l’on rend les copies
+	* Transférer ses notes rapidement d'un tableur vers Pronote [&#8618;](https://www.index-education.com/fr/tutoriels-video-pronote-668-49-recuperer-les-notes-depuis-un-tableur-mode-enseignant.php)
+	* Utiliser un outil d’aide à l’évaluation [&#8618;](https://eyssette.github.io/evaluation-rapide/)
+
+---
+<!-- _class: fp -->
+7) Rendre les copies
+	* Utiliser l'ENT pour rendre les copies [&#8618;]()
+8) Évaluer avec des QCM
+	* Faire des QCM en philosophie ? [&#8618;]() [&#8618;]()
+	* Utiliser un système de correction automatique de QCM [&#8618;]()
+	* Faire des QCM avec Pronote [&#8618;]() ou avec l'ENT [&#8618;]()
+	* Utiliser un logiciel de QCM [&#8618;]()
+	* Intégrer des QCM dans le cours pour tester la compréhension du cours : en les intégrant dans un diaporama, avec réponses par téléphone [&#8618;]() ou par papier codé [&#8618;]()
+
+
 
 ---
 <!-- _class: partie -->
