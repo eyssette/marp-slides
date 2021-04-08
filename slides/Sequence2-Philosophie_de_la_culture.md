@@ -25,7 +25,7 @@ ul {margin-top:0px; margin-bottom:30px}
 
 ---
 <!-- _class: etape -->
-### 1) Analyse de la notion d'identité
+### 1) “l'identité de l'être humain”
 - Quelle est la fonction d'une “carte d'identité” ?
 - À partir de cet exemple, quelle définition pourrait-on donner de la notion d'identité ?
 
@@ -41,7 +41,7 @@ ul {margin-top:0px; margin-bottom:30px}
 
 ---
 <!-- _class: etape -->
-### 2) Analyse de la notion de culture
+### 2) “constituée par la culture”
 
 ---
 <!-- _class:  -->
@@ -50,7 +50,7 @@ ul {margin-top:0px;}
 </style>
 #### Exercice préalable :
 - Trouver un maximum d’expressions formées à partir du mot “culture” ou du mot “culturel”. Par exemple : “agriculture”, “voyage culturel”, …
-- Classer ces expressions en plusieurs catégories différentes et expliquer le sens de chaque catégorie.
+- Qu'est-ce que ces expressions ont en commun ?
 
 ---
 <!-- _class: exercice tableau colonnes fmmmmmmmmm pp -->
@@ -74,12 +74,23 @@ table{margin-bottom:40px!important}
 4. _Attachement_ à une origine commune
 5. Une activité qui consiste à cultiver quelque chose (en prendre soin, l'améliorer)
 6. Constitue une forme d'évolution qui se distingue de l'évolution naturelle
-7. _Exemples_ : la culture italienne, la culture ouvrière
+7. _Exemples_ : la culture italienne, la culture ouvrière, le relativisme culturel
 8. _Arrachement_ vers une finalité supérieure
 9. Dimension _horizontale_ (lien social entre des individus qui partagent une même culture)
 10. Forme un héritage social qui se distingue de l'hérédité biologique
 
-<!-- Ajouter slide avec le corrigé de l'exercice -->
+---
+<!-- _class: exercice tableau-r colonnes fmmmmmmmmm pp -->
+<style scoped>
+table td {width:50%;}
+</style>
+|La culture au sens général, comme processus de développement …|La culture au sens sociologique …|
+|:-:|:-:|
+|_1_ <i>Exemples</i> : l'agriculture, la puériculture, le culturisme, la culture générale|_7_ <i>Exemples</i> : la culture italienne, la culture ouvrière, le relativisme culturel|
+|_5_ Une activité qui consiste à cultiver quelque chose (en prendre soin, l'améliorer)|_2_ Des manières particulières de penser et d'agir (des croyances, des coutumes …) propres à un groupe social particulier|
+|_3_ Dimension <i>verticale</i> (dépassement)|_9_ Dimension <i>horizontale</i> (lien social entre des individus qui partagent une même culture)|
+|_8_ <i>Arrachement</i> vers une finalité supérieure|_4_ <i>Attachement</i> à une origine commune|
+|_6_ Constitue une forme d'évolution qui se distingue de l'évolution naturelle|_10_ Forme un héritage social qui se distingue de l'hérédité biologique|
 
 ---
 <!-- _class: i1t1 pp vertical -->
@@ -124,7 +135,7 @@ ul ul {margin-left:-40px}
 
 ---
 <!-- _class: fpppp -->
-Dans cette séquence, on va s'intéresser principalement au sens général de la culture comme processus de développement, et plus précisément à deux types de production qui relèvent de la culture : la production technique et la production d'œuvres d'art.
+Dans cette séquence, on va s'intéresser principalement au sens général de la culture comme processus de développement, et plus précisément à deux manifestations de la culture en ce sens : la technique et l'art.
 
 <div class="puces">
 
