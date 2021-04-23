@@ -548,20 +548,42 @@ p:nth-of-type(1) img {object-position:-40px}
 
 
 ---
-<!-- _class: i1t0 -->
+<!-- _class: i1t0 pp -->
 
-![](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/formes-de-novlangue.svg)
+![](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/formes-de-novlangue-2.svg)
 
+
+
+---
+<!-- _class: fmm -->
+<style scoped>
+h4{text-align:center; font-size:1.32em}
+h4 span {font-size:0.9em}
+table{margin-top:10px}
+table td:nth-of-type(1) {width:540px; border-right:1px dashed grey; padding-right:30px}
+table tH:nth-of-type(2) {padding-left:40px; padding-right:40px;}
+</style>
+#### 1/ Discours positif creux <span>(« Ne rien dire »)</span>
+
+|Novlangue|Contenu ?|
+|--|--|
+|«  »||
+|«  »||
+|«  » [&#8618;](https://www.youtube.com/watch?v=E4kpR8NLFXQ)||
+|«  »||
+|«  » ||
+|«  » ||
 
 ---
 <!-- _class: fmmmmmm -->
 <style scoped>
 h4{text-align:center; font-size:1.4em}
+h4 span {font-size:0.9em}
 table{margin-top:10px}
 table td:nth-of-type(1) {width:540px; border-right:1px dashed grey; padding-right:30px}
 table tH:nth-of-type(2) {padding-left:40px; padding-right:40px;}
 </style>
-#### 1/ Euphémisation
+#### 2/ Euphémisation <span>(« Ne pas dire »)</span>
 
 |Novlangue|Réalité masquée|
 |--|--|
@@ -574,34 +596,17 @@ table tH:nth-of-type(2) {padding-left:40px; padding-right:40px;}
 |« Le cinéaste franco-polonais est assigné en résidence en Suisse […] pour une affaire de moeurs qui remonte à plus de 30 ans » [&#8618;](https://www.liberation.fr/societe/2010/01/07/les-avocats-de-polanski-demandent-une-condamnation-par-contumace_603123)||
 
 
----
-<!-- _class: fmm -->
-<style scoped>
-h4{text-align:center; font-size:1.4em}
-table{margin-top:10px}
-table td:nth-of-type(1) {width:540px; border-right:1px dashed grey; padding-right:30px}
-table tH:nth-of-type(2) {padding-left:40px; padding-right:40px;}
-</style>
-#### 2/ Discours positif creux
-
-|Novlangue||
-|--|--|
-|«  »||
-|«  »||
-|«  » [&#8618;](https://www.youtube.com/watch?v=E4kpR8NLFXQ)||
-|«  »||
-|«  » ||
-|«  » ||
 
 ---
 <!-- _class: fmm -->
 <style scoped>
-h4{text-align:center; font-size:1.4em}
-table{margin-top:10px}
+h4{text-align:center; font-size:1.3em; margin-top:-10px!important;}
+h4 span {font-size:0.9em}
+table{margin-top:20px}
 table td:nth-of-type(1) {width:540px; border-right:1px dashed grey; padding-right:30px}
 table tH:nth-of-type(2) {padding-left:40px; padding-right:40px;}
 </style>
-#### 3/ Effets de cadrage
+#### 3/ Effets de cadrage <span>(« Dire d'une certaine manière »)</span>
 
 |Novlangue|Angle adopté|
 |--|--|
