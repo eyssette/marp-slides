@@ -53,7 +53,7 @@ p:nth-of-type(2) img {width:520px!important; margin-left:-10px; object-position:
 
 ![Dendrobates tinctorius](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Dendrobates_tinctorius_var._azureus_-_Karlsruhe_Zoo_04.jpg/2880px-Dendrobates_tinctorius_var._azureus_-_Karlsruhe_Zoo_04.jpg)
 
-<!-- des signes mais qui ne sont pas produits intentionnellement -->
+<!-- // des signes mais qui ne sont pas produits intentionnellement -->
 
 ---
 <!-- _class: i2t0 horizontal pp  -->
@@ -69,23 +69,14 @@ p:nth-of-type(2) img {width:495px!important; object-position:-20px; margin-left:
 
 ![](https://upload.wikimedia.org/wikipedia/commons/a/a9/Dactylotum_bicolor_in_New_Mexico.jpg)
 
-<!-- des signes trompeurs (mais pas produits intentionnellement) -->
+<!-- // des signes trompeurs (mais pas produits intentionnellement) -->
 
 ---
 <!-- _class: i1t0 pp -->
 
 ![](https://upload.wikimedia.org/wikipedia/commons/6/60/Beauty_of_Peacock.jpg)
 
----
-<!-- _class: i1t0 pp -->
-<style scoped>
-img{height:700px!important;}
-</style>
-
-<img src="https://i.ibb.co/dtcR222/vervets2.jpg" usemap="#vervets">
-<map name="vervets"><area shape="rect" alt="" title="" coords="657,0,1000,200" href="https://www.youtube.com/watch?v=QRpYs-7ktoM" target="_blank" /><area shape="rect" alt="" title="" coords="657,450,1000,700" href="https://www.youtube.com/watch?v=slGvI2y_W2c" target="_blank" /></map>
-
-<!-- signe non produit intentionnellement : les caractéristiques de la queue du paon (cf. la théorie du handicap) ; mais production intentionnel d'un signe : déploiement de la queue -->
+<!-- // signe non produit intentionnellement : les caractéristiques de la queue du paon (cf. la théorie du handicap) ; mais production intentionnel d'un signe : déploiement de la queue -->
 
 ---
 <!-- _class: i1t1 pp horizontal f -->
@@ -104,43 +95,36 @@ ol li {margin-top:20px!important;}
 2. Michel Kreutzer, _Un demi-siècle de chants d'oiseaux_ [↪](https://lecd.parisnanterre.fr/publications/un-demi-siecle-de-chants-d-oiseaux-635167.kjsp?RH=1390771091148)
 3. Martine Hausberger, “L'apprentissage du chant chez l'oiseau : l'importance des influences sociales” [↪](https://www.college-de-france.fr/site/colloque-2008/symposium-2008-10-17-09h00.htm)
 
-<!-- Intérêt de cet exemple : 
+<!-- // Intérêt de cet exemple : 
 
-apprentissage du chant : les interactions sociales sont essentielles à la constitution du répertoire des individus
+// apprentissage du chant : les interactions sociales sont essentielles à la constitution du répertoire des individus
 
-fonctions plus complexes => reconnaissance sociale, fonction territoriale, sélection sexuelle, aspect hédonique
+// fonctions plus complexes => reconnaissance sociale, fonction territoriale, sélection sexuelle, aspect hédonique
 
-Reconnaissance
-"Les processus cognitifs actuellement étudiés laissent supposer que, sur la base du modèle que lui offre son chant, un individu peut très bien appliquer des règles pour comparer mentalement les éléments sonores et les syntaxes qui se ressemblent ou qui sont différents. Ces processus cognitifs de catégorisation pourraient ainsi rendre compte du fait que les oiseaux réagissent avec plus ou moins d’intensité à des chants qu’ils n’ont cependant jamais chantés ni entendus. La proximité ou l’écart de ces chants par rapport à des prototypes seraient à la base de la reconnaissance"
+// Reconnaissance
+// "Les processus cognitifs actuellement étudiés laissent supposer que, sur la base du modèle que lui offre son chant, un individu peut très bien appliquer des règles pour comparer mentalement les éléments sonores et les syntaxes qui se ressemblent ou qui sont différents. Ces processus cognitifs de catégorisation pourraient ainsi rendre compte du fait que les oiseaux réagissent avec plus ou moins d’intensité à des chants qu’ils n’ont cependant jamais chantés ni entendus. La proximité ou l’écart de ces chants par rapport à des prototypes seraient à la base de la reconnaissance"
 
-Fonction territoriale : 
-"Les observations plus anciennes de Brémond sur le rouge-gorge (1967), puis celles de Falls sur des espèces nord-américaines (1985), avaient déjà indiqué que lorsqu’ils se répondent lors d’interactions vocales et de contestations territoriales, les mâles reprennent souvent le chant du congénère qu’ils viennent d’entendre, ou alors un chant ressemblant si leur répertoire n’en possède pas un identique. Cette « imitation contestatrice » (ou « song matching ») indique clairement au contestataire que c’est à lui qu’on s’adresse. "
-"D’autres travaux plus récents ont exploré, en nature comme au laboratoire, l’intérêt que les oiseaux, mâles et femelles, portent à l’écoute des interactions vocales de mâles voisins. C’est ce qu’on a appelé, de manière aussi pertinente que pittoresque, « écouter aux portes ». Lors d’une interaction, il est fréquent de voir un mâle attendre que son voisin commence à chanter pour recouvrir la fin de ce chant par le sien propre. On a pu montrer qu’il s’agit là d’un acte agressif et de dominance (Amy & Leboucher, 2009). En effet, lorsque ce comportement se prolonge, l’agresseur ne tarde pas à envahir le territoire de son voisin, et dès lors, les autres mâles qui ont assisté à ces joutes ne se risqueront pas à y procéder à des incursions."
+// Fonction territoriale : 
+// "Les observations plus anciennes de Brémond sur le rouge-gorge (1967), puis celles de Falls sur des espèces nord-américaines (1985), avaient déjà indiqué que lorsqu’ils se répondent lors d’interactions vocales et de contestations territoriales, les mâles reprennent souvent le chant du congénère qu’ils viennent d’entendre, ou alors un chant ressemblant si leur répertoire n’en possède pas un identique. Cette « imitation contestatrice » (ou « song matching ») indique clairement au contestataire que c’est à lui qu’on s’adresse. "
+// "D’autres travaux plus récents ont exploré, en nature comme au laboratoire, l’intérêt que les oiseaux, mâles et femelles, portent à l’écoute des interactions vocales de mâles voisins. C’est ce qu’on a appelé, de manière aussi pertinente que pittoresque, « écouter aux portes ». Lors d’une interaction, il est fréquent de voir un mâle attendre que son voisin commence à chanter pour recouvrir la fin de ce chant par le sien propre. On a pu montrer qu’il s’agit là d’un acte agressif et de dominance (Amy & Leboucher, 2009). En effet, lorsque ce comportement se prolonge, l’agresseur ne tarde pas à envahir le territoire de son voisin, et dès lors, les autres mâles qui ont assisté à ces joutes ne se risqueront pas à y procéder à des incursions."
 
-Sélection sexuelle
-"Chez les canaris, il a été démontré (Vallet & Kreutzer, 1995) que les femelles témoignent d’une préférence marquée pour certaines séquences particulières du chant des mâles, celles qui sont les plus difficiles à produire par la syrinx parce qu’elles nécessitent une prompte coordination des bronches droite et gauche pour produire des glissandi qui sont répétés à des tempi très rapides sur de larges bandes de fréquences, du plus aigu au plus grave" Mais : "les femelles sont réellement pragmatiques. Nous avons par exemple apporté la démonstration que des femelles canaris peuvent modifier l’intensité des réponses qu’elles accordent aux chants (Nagle & Kreutzer, 1997), surtout quand il s’agit de partenaires avec lesquels elles se sont accouplées (Béguin et al., 1998). Les échecs reproducteurs rendent ces chants moins attractifs. "
+// Sélection sexuelle
+// "Chez les canaris, il a été démontré (Vallet & Kreutzer, 1995) que les femelles témoignent d’une préférence marquée pour certaines séquences particulières du chant des mâles, celles qui sont les plus difficiles à produire par la syrinx parce qu’elles nécessitent une prompte coordination des bronches droite et gauche pour produire des glissandi qui sont répétés à des tempi très rapides sur de larges bandes de fréquences, du plus aigu au plus grave" Mais : "les femelles sont réellement pragmatiques. Nous avons par exemple apporté la démonstration que des femelles canaris peuvent modifier l’intensité des réponses qu’elles accordent aux chants (Nagle & Kreutzer, 1997), surtout quand il s’agit de partenaires avec lesquels elles se sont accouplées (Béguin et al., 1998). Les échecs reproducteurs rendent ces chants moins attractifs. "
 
-Aspect hédonique, fonction esthétique
-"On a montré qu’il existe dans le cerveau des animaux des « circuits de récompense » qui sont activés en présence de certains événements sociaux, comme le choix de partenaires (Aragona et al. 2003) ou la production de chants chez l’oiseau (Hara et al., 2007). Lorsque les animaux produisent, voient ou entendent certains comportements, leurs systèmes de récompense sont donc susceptibles d’être stimulés. La vie sociale s’accompagne pour l’animal de rencontres plus ou moins plaisantes, et la présence de tel individu plutôt que celle de tel autre va lui apporter plus ou moins de satisfactions."
-"En outre, si l’on connaît bien chez l’humain les effets de tension et de relaxation que la succession des phrases musicales exerce sur celui qui écoute, il est légitime de postuler l’existence d’un phénomène comparable chez les oiseaux. […] En l’occurrence, les duos de chants ont beaucoup à nous apprendre, et l’étude de ces interactions d’un point de vue musical se révélerait sans aucun doute fort riche d’enseignements. Après cinquante ans de recherches essentiellement utilitaires, cette approche esthétique permettrait à l’éthologie de restituer aux oiseaux cette capacité « hédonique » qu’ils partagent avec les humains : s’enchanter en communiquant"
+// Aspect hédonique, fonction esthétique
+// "On a montré qu’il existe dans le cerveau des animaux des « circuits de récompense » qui sont activés en présence de certains événements sociaux, comme le choix de partenaires (Aragona et al. 2003) ou la production de chants chez l’oiseau (Hara et al., 2007). Lorsque les animaux produisent, voient ou entendent certains comportements, leurs systèmes de récompense sont donc susceptibles d’être stimulés. La vie sociale s’accompagne pour l’animal de rencontres plus ou moins plaisantes, et la présence de tel individu plutôt que celle de tel autre va lui apporter plus ou moins de satisfactions."
+// "En outre, si l’on connaît bien chez l’humain les effets de tension et de relaxation que la succession des phrases musicales exerce sur celui qui écoute, il est légitime de postuler l’existence d’un phénomène comparable chez les oiseaux. […] En l’occurrence, les duos de chants ont beaucoup à nous apprendre, et l’étude de ces interactions d’un point de vue musical se révélerait sans aucun doute fort riche d’enseignements. Après cinquante ans de recherches essentiellement utilitaires, cette approche esthétique permettrait à l’éthologie de restituer aux oiseaux cette capacité « hédonique » qu’ils partagent avec les humains : s’enchanter en communiquant"
 
-Chant des oiseaux pas organisé comme un langage : ("en intervenant soit sur la syntaxe soit sur la phonologie d’un
-chant, on a pu vérifier que des types de syllabes et des combinatoires ne confèrent pas un sens particulier à un passage de ce chant. En effet, si l’on modifie l’ordre de ces syllabes ou leur forme, voire si on les dispose dans un complet désordre, on n’aboutit au mieux qu’à diminuer l’intensité des réponses, sans altérer pour autant le sens général du signal" ; "Les oiseaux sont effectivement des stratèges de la reconnaissance acoustique de leurs congénères. Si on détruit expérimentalement la syntaxe de leurs chants, ils reportent leur attention sur la phonologie ; si on détruit la phonologie, ils reportent leur attention sur la syntaxe " ; L’important pour eux consiste à identifier la présence d’un compétiteur, quelles que soient les conditions de l’environnement physique et social. Or, dans une communication à distance, la redondance des signaux se révèle plus utile qu’un déclencheur, qui n’offre d’efficacité qu’en proximité.) -->
+// Chant des oiseaux pas organisé comme un langage : ("en intervenant soit sur la syntaxe soit sur la phonologie d’un chant, on a pu vérifier que des types de syllabes et des combinatoires ne confèrent pas un sens particulier à un passage de ce chant. En effet, si l’on modifie l’ordre de ces syllabes ou leur forme, voire si on les dispose dans un complet désordre, on n’aboutit au mieux qu’à diminuer l’intensité des réponses, sans altérer pour autant le sens général du signal" ; "Les oiseaux sont effectivement des stratèges de la reconnaissance acoustique de leurs congénères. Si on détruit expérimentalement la syntaxe de leurs chants, ils reportent leur attention sur la phonologie ; si on détruit la phonologie, ils reportent leur attention sur la syntaxe " ; L’important pour eux consiste à identifier la présence d’un compétiteur, quelles que soient les conditions de l’environnement physique et social. Or, dans une communication à distance, la redondance des signaux se révèle plus utile qu’un déclencheur, qui n’offre d’efficacité qu’en proximité.) -->
 
 ---
 <!-- _class: i1t0 pp -->
+<style scoped>
+img{height:700px!important;}
+</style>
 
-[![](https://upload.wikimedia.org/wikipedia/commons/4/4b/Bee_waggle_dance.png)](https://www.youtube.com/watch?v=LOZrNs22FAU)
-
-<!--
-https://www.futura-sciences.com/planete/dossiers/zoologie-animaux-ont-ils-culture-1525/page/6/
-
-Honey bee societies and dance floor democracy | Margaret Couvillon | TEDxHousesofParliament : https://www.youtube.com/watch?v=tcXkQBY0i0k 
-
-Dancing bees cast their votes on the best land-types and areas for their food collection
-https://www.youtube.com/watch?v=AMU1KOF_Tck
--->
-
+<img src="https://i.ibb.co/dtcR222/vervets2.jpg" usemap="#vervets">
+<map name="vervets"><area shape="rect" alt="" title="" coords="657,0,1000,200" href="https://www.youtube.com/watch?v=QRpYs-7ktoM" target="_blank" /><area shape="rect" alt="" title="" coords="657,450,1000,700" href="https://www.youtube.com/watch?v=slGvI2y_W2c" target="_blank" /></map>
 
 ---
 <!-- _class: i1t0 pp -->
@@ -163,7 +147,7 @@ ul {margin-top:30px;}
 - Pourquoi dit-on parfois que « ce ne sont pas les mots qui comptent » ?
 - Pourquoi dit-on parfois, au contraire, que « les mots sont importants » ?
 
-<!-- paroles ≠ actes ; parole = bavardage, parler pour ne rien dire ; paroles ≠ expression véritable de nos intentions -->
+<!-- // paroles ≠ actes ; parole = bavardage, parler pour ne rien dire ; paroles ≠ expression véritable de nos intentions -->
 
 ---
 <!-- _class:  -->
@@ -199,7 +183,7 @@ span{color:#9e0a0a;}
 </style>
 **Formulation du problème**
 
-Dans toute communication, il y a production d'un signe qui transmet une information à un récepteur. Au **sens large**, le langage désigne tout type de signes qui assure cette fonction, et, en ce sens, le langage se réduit à un simple moyen de communication. Cependant, au **sens strict**, le langage se rapporte à des systèmes de signes écrits, parlés ou gestuels. En ce sens strict, le langage n'est-il qu'un moyen de communication comme les autres <span>**ou bien**</span> y a-t-il des propriétés distinctives qui différencient le langage des autres moyens de communication ? Les signes qui constituent les langues humaines ne sont-ils pas plus complexes que les signes utilisés par les animaux ? Peut-on vraiment réduire le langage à un simple instrument de transmission d'informations, un simple outil au service de l'individu ?
+Dans toute communication, il y a production d'un signe qui transmet une information à un récepteur. Au sens large, le langage désigne tout type de signes qui assure cette fonction, et, en ce sens, le langage se réduit à un simple moyen de communication. Cependant, au sens strict, le langage se rapporte à des systèmes de signes écrits, parlés ou gestuels. En ce sens strict, le langage n'est-il qu'un moyen de communication comme les autres <span>**ou bien**</span> y a-t-il des propriétés distinctives qui différencient le langage des autres moyens de communication ? Les signes qui constituent les langues humaines ne sont-ils pas plus complexes que les signes utilisés par les animaux ? Peut-on vraiment réduire le langage à un simple instrument de transmission d'informations, un simple outil au service de l'individu ?
 
 
 ---
@@ -269,35 +253,34 @@ img {width:800px}
 ![](https://i.ibb.co/XtByfKx/syntax-tree.png)
 
 
-<!--
-[P
-  [GN
-    [Dét L']
-    [N enfant]
-  ]
-  [GV
-    [V joue]
-    [GP 
-      [P à] 
-      [GN
-        [Dét la]
-        [N balle]
-      ]
-    ]
-  ]
-  [GP
-    [P dans]
-    [GN
-      [Dét le]
-      [N jardin]
-    ]
-  ]
-]
-
-https://ironcreek.net/syntaxtree/
-https://yohasebe.com/rsyntaxtree/
-http://mshang.ca/syntree/
- -->
+<!-- //
+// [P
+//   [GN
+//     [Dét L']
+//     [N enfant]
+//   ]
+//   [GV
+//     [V joue]
+//     [GP 
+//       [P à] 
+//       [GN
+//         [Dét la]
+//         [N balle]
+//       ]
+//     ]
+//   ]
+//   [GP
+//     [P dans]
+//     [GN
+//       [Dét le]
+//       [N jardin]
+//     ]
+//   ]
+// ]
+// https://ironcreek.net/syntaxtree/
+// https://yohasebe.com/rsyntaxtree/
+// http://mshang.ca/syntree/
+// -->
 
 
 ---
@@ -309,21 +292,23 @@ img {width:860px}
 ![](https://raw.githubusercontent.com/eyssette/graphviz-examples/21c1b646903c6477a6b9487ea0b7d188dd056ff8/diagram/productivite-du-langage.svg)
 
 ---
-<!-- _class:  -->
-La productivité du langage semble justifier le **principe d'exprimabilité** : il ne semble pas y avoir de limites à ce que l'on peut exprimer par le langage, car on peut toujours enrichir son propos afin de préciser ce que l'on veut dire.
+<!-- _class: definition fppppp -->
+### Définition
+
+- Le **principe d'exprimabilité** correspond à l'idée qu'il n'y a pas de limites à ce que l'on peut exprimer par le langage, car on peut toujours enrichir son propos afin de préciser ce que l'on veut dire.
 
 
 ---
 <!-- _class:  -->
 
-Cependant il existe des spécificités dans chaque langue, des mots propres à une langue particulière. Il semble donc que certaines langues permettent mieux d'exprimer certaines idées, certains sentiments :
-
-- Connaissez-vous des mots, d'une autre langue que le français, qui sont difficilement traduisibles ?  [&#8618;](https://chroniquesdunouveaumonde.com/2018/01/22/les-mots-etrangers-intraduisibles-en-francais/)
+#### Une critique possible ?
+- N'y a-t-il pas des mots propres à certaines langues qui permettent mieux d'exprimer certaines idées, certains sentiments, et qui sont difficilement traduisibles dans notre langue ? [&#8618;](https://chroniquesdunouveaumonde.com/2018/01/22/les-mots-etrangers-intraduisibles-en-francais/)
 
 ---
 <!-- _class:  -->
-On peut toujours trouver une périphrase qui exprime le sens de ce terme. On perd bien sûr la force esthétique du mot, la densité de sens de l'expression originale, mais on ne perd pas la signification de ce terme, que l'on peut tout de même exprimer dans une autre langue.
 
+#### Défense du principe d'exprimabilité
+On peut toujours trouver une périphrase qui exprime le sens de ce terme. On perd bien sûr la force esthétique du mot, la densité de sens de l'expression originale, mais on ne perd pas la signification de ce terme, que l'on peut tout de même exprimer dans une autre langue. Le principe d'exprimabilité semble donc justifié.
 
 
 ---
@@ -346,11 +331,11 @@ table{border:1px grey solid!important; width:830px; padding:0;}
 
 
 ---
-<!-- _class:  -->
+<!-- _class: fppppp -->
 
 On peut utiliser cette distinction pour analyser différents types de signes (exemple : analyse de la gestuelle dans des clips vidéo de rap [&#8618;](https://colloquehh.hypotheses.org/296)).
 
-Dans le cas des signes linguistiques, même si on peut s'interroger sur le caractère indiciel ou icônique de certains signes, on peut cependant affirmer que **le langage repose essentiellement sur des symboles**.
+Dans le cas des signes linguistiques, même si on peut s'interroger sur le caractère indiciel ou icônique de certains signes, on peut cependant affirmer que **le langage repose essentiellement sur des symboles**, qui supposent donc l'apprentissage d'un code.
 
 
 ---
@@ -376,10 +361,21 @@ Quelques exemples :
 <!-- _class:  souspartie -->
 ## B. Des fonctions complexes
 
-
 ---
 <!-- _class:  etape fppppppppp -->
 ### 1) Le langage n'est “pas un simple code de signaux” (Benveniste)
+
+
+---
+<!-- _class: i1t0 pp -->
+
+[![](https://upload.wikimedia.org/wikipedia/commons/4/4b/Bee_waggle_dance.png)](https://www.youtube.com/watch?v=LOZrNs22FAU)
+
+<!-- 
+// https://www.futura-sciences.com/planete/dossiers/zoologie-animaux-ont-ils-culture-1525/page/6/
+// Honey bee societies and dance floor democracy | Margaret Couvillon | TEDxHousesofParliament : https://www.youtube.com/watch?v=tcXkQBY0i0k
+// Dancing bees cast their votes on the best land-types and areas for their food collection https://www.youtube.com/watch?v=AMU1KOF_Tck -->
+
 
 ---
 <!-- _class: citationC fmmmmm -->
@@ -388,9 +384,9 @@ Quelques exemples :
 
 >« Le message des abeilles n'appelle aucune réponse de l'entourage, sinon une certaine conduite, qui n'est pas une réponse. Cela signifie que les abeilles ne connaissent pas le dialogue, qui est la condition du langage humain. Nous parlons à d'autres qui parlent, telle est la réalité humaine. [...] Parce qu'il n'y a pas de dialogue pour les abeilles, la communication se réfère seulement à une certaine donnée objective. Il ne peut y avoir de communication relative à une donnée “linguistique” [...] L'abeille ne construit pas de message à partir d'un autre message. [...] L'ensemble de ces observations fait apparaître la différence essentielle entre les procédés de communication découverts chez les abeilles et notre langage. Cette différence se résume dans le terme qui nous semble le mieux approprié à définir le mode de communication employé par les abeilles ; ce n'est pas un langage, c'est un code de signaux. »
 >>**Benveniste**, _Problèmes de linguistique générale_
-
-<!-- Reprendre l'analyse de la danse des abeilles
-+ cas du chant des oiseaux : dialogue ? -->
+ 
+<!--// Reprendre l'analyse de la danse des abeilles -->
+<!--// + cas du chant des oiseaux : dialogue ? -->
 
 ---
 <!-- _class: etape -->
@@ -419,6 +415,14 @@ Deuxième partie
 <!-- _class: souspartie -->
 ## A. Le langage comme obstacle
 
+ ---
+ <!-- _class: f -->
+ 
+ Il y a **deux raisons** liées au langage pour lesquelles deux personnes peuvent ne pas parvenir à communiquer :
+ 
+ 1/ Le problème peut se situer au niveau de la **réception** : comme le langage repose sur un **code** et sur un acte d'**interprétation**, La personne qui reçoit l'information n'a peut-être **pas le même code** que le locuteur, ou elle peut **mal interpréter** l'intention du locuteur ; 
+ 2/ Le problème peut se situer au niveau de la **production** : les mots semblent parfois insuffisants et ils ne permettent pas de dire tout ce que nous aimerions pouvoir dire.
+
 ---
 <!-- _class: citationC fm-->
 
@@ -427,6 +431,10 @@ Deuxième partie
 >« Nous ne voyons pas les choses mêmes ; nous nous bornons, le plus souvent, à lire des étiquettes collées sur elles. Cette tendance, issue du besoin, s'est encore accentuée sous l'influence du langage. Car les mots (à l'exception des noms propres) désignent des genres. Le mot, qui ne note de la chose que sa fonction la plus commune et son aspect banal, s'insinue entre elle et nous […]. Et ce ne sont pas seulement les objets extérieurs, ce sont aussi nos propres états d'âme qui se dérobent à nous […]. Ainsi, jusque dans notre propre individu, l'individualité nous échappe. Nous nous mouvons parmi des généralités et des symboles »
 >>**Bergson**, _Le rire_ 
 
+<!-- // Les mots ne sont pas faits pour la description, la pensée, la contemplation, mais pour l'action, l'utilité
+// abstrait / concret 
+// général / singulier
+// simplification / complexité, richesse, finesse, nuances  -->
 
 ---
 <!-- _class: souspartie fppppp -->
@@ -434,8 +442,7 @@ Deuxième partie
 
 ---
 <!-- _class: etape -->
-### 2) L'apport de la sociolinguistique
-
+### 1) L'apport de la sociolinguistique
 
 ---
 <!-- _class: citationC fmmmmmmm -->
@@ -443,12 +450,18 @@ Deuxième partie
 
 >« La forme particulière que prend un rapport social conditionne le choix de ce qui est dit, du moment où c'est dit, et de la manière dont c'est dit. Elle règle les options que prennent les locuteurs aussi bien au niveau syntaxique que lexical. Par exemple, si un adulte parle à un enfant, il utilisera une forme de langage simple dans sa syntaxe, aussi bien que dans son vocabu­laire. En d'autres termes, la forme du rapport social se traduit souvent par certaines sélections syntaxiques et lexicales. […] Les formes différentes de rapports sociaux peuvent engendrer, par l'intermédiaire des procédés de construction verbale, des systèmes de discours ou des codes linguistiques tout à fait différents. […] Quand l'enfant apprend à parler, c'est-à-dire, dans notre vocabulaire, apprend les codes spécifiques qui règlent ses actes verbaux, il apprend les exigences de sa structure sociale. […] C'est essentiel­lement par l'effet du processus linguistique que la struc­ture sociale devient le substrat de son expérience. De ce point de vue, chaque occasion où l'enfant parle ou écoute contribue à lui faire intérioriser la structure sociale et à lui imposer son identité sociale. »
 >>Basil **Bernstein**, _Langage et classes sociales_
+
 ---
 <!-- _class: etape -->
-### 3) Le langage est une partie et une condition de la culture
+### 2) Le langage est une partie et une condition de la culture
 
+---
+<!-- _class: citationC fmmmmmm -->
 
+![bg left:30%](https://i.ibb.co/RQBdMZm/Benveniste.jpg)
 
+>« [L]e langage se réalise toujours dans une langue, dans une structure linguistique définie et particulière, inséparable d'une société définie et particulière. Langue et société ne se conçoivent pas l'une sans l'autre. L'une et l'autre sont données. Mais aussi l'une et l'autre sont apprises par l'être humain, qui n'en possède pas la connaissance innée. L'enfant naît et se développe dans la société des hommes. Ce sont des humains adultes, ses parents, qui lui inculquent l'usage de la parole. L'acquisition du langage est une expérience qui va de pair chez l'enfant avec la formation du symbole et la construction de l'objet. Il apprend les choses par leur nom ; il découvre que tout a un nom et que d'apprendre les noms lui donne la disposition des choses. Mais il découvre aussi qu'il a lui-même un nom et que par là il communique avec son entourage. Ainsi s'éveille en lui la conscience du milieu social où il baigne et qui façonnera peu à peu son esprit par l'intermédiaire du langage »
+>>**Benveniste**, _Problèmes de linguistique générale_
 
 <!-- 
 
@@ -472,21 +485,131 @@ span em {color:black;}
 # III – Le langage n'est pas<br> un simple _moyen_ de<br> communication :<br><span>Le langage ne fait pas qu'exprimer<br> des pensées intérieures déjà<br> constituées, il joue un rôle dans la<br> _formation même de nos pensées_</span>
 Troisième partie
 
+
 ---
-<!-- _class:  -->
+<!-- _class: souspartie f -->
+## A. Examen de l'hypothèse Sapir-Whorf de la relativité linguistique
 
-1) Examen de l'hypothèse Sapir-Whorf de la relativité linguistique
-2) Une pensée sans mots pour l'exprimer reste une pensée obscure : le langage rend possible une pensée claire et précise
+---
 
-<!--
-Un film qui repose sur l'hypothèse du déterminisme linguistique fort : Premier contact
 
-3 objections contre la thèse SP :
-1/ Il y a de grandes similarités dans le fonctionnement cognitif des êtres humains
-2/ Il n'y a pas de frontières cognitives absolues entre les langues : une traduction est toujours possible
-3/ Il est possible de posséder un concept sans être capable de l'exprimer
- -->
+<!-- // http://htl.linguist.univ-paris-diderot.fr/_media/fortis/relativisme_2012_long-1.pdf -->
 
- <!--
- Exemples : une radiographie, une photographie des couches géologiques d'un terrain
-  -->
+<!-- // Schéma : déterminisme fort / déterminisme faible
+// Un film qui repose sur l'hypothèse du déterminisme linguistique fort : Premier contact
+
+//3 objections contre la thèse SP :
+// 1/ Il y a de grandes similarités dans le fonctionnement cognitif des êtres humains
+// 2/ Il n'y a pas de frontières cognitives absolues entre les langues : une traduction est toujours possible
+// 3/ Il est possible de posséder un concept sans être capable de l'exprimer
+
+// Exemples : une radiographie, une photographie des couches géologiques d'un terrain -->
+
+---
+<!-- _class: souspartie fmmmmm-->
+<style scoped>
+h2{padding-left:40px; padding-right:40px;}
+</style>
+## B.  Une pensée sans mots pour l'exprimer reste une pensée obscure : le langage rend possible une pensée claire et précise
+
+---
+<!-- _class: citationC fmmmm-->
+<style scoped>
+blockquote blockquote {padding-top:8px}
+</style>
+![bg left:31%](https://upload.wikimedia.org/wikipedia/commons/0/08/Hegel_portrait_by_Schlesinger_1831.jpg)
+
+>« C'est dans les mots que nous pensons. Nous n'avons conscience de nos pensées déterminées et réelles que lors­que nous leur donnons [une] forme objective […]  On croit ordinairement, il est vrai, que ce qu'il y a de plus haut, c'est l'ineffable. Mais c'est là une opinion superficielle et sans fondement ; car, en réalité, l'ineffable, c'est la pensée obscure, la pensée à l'état de fermentation, et qui ne devient claire que lorsqu'elle trouve le mot. Ainsi le mot donne à la pensée son existence la plus haute et la plus vraie. Sans doute on peut se perdre dans un flux de mots sans saisir la chose. Mais la faute en est à la pensée imparfaite, indéterminée et vide, elle n'en est pas au mot. […] Par conséquent, l'intelligence, en se remplissant de mots, se remplit aussi de la nature des choses. »
+>>**Hegel**, _Encyclopédie des sciences philosophiques_, Philosophie de l'Esprit
+
+
+---
+<!-- _class: i2t0 pp horizontal -->
+<style scoped>
+p:nth-of-type(1) img {object-position:-40px}
+</style>
+
+![](https://upload.wikimedia.org/wikipedia/commons/4/40/Medecine_Echographie.jpg)
+
+![](https://upload.wikimedia.org/wikipedia/commons/d/d3/Quebrada_de_Cafayate%2C_Salta_%28Argentina%29.jpg)
+
+---
+<!-- _class: i2t1 pp horizontal contain rapprocher -->
+
+#### Des enjeux sociaux et politiques
+
+[![](https://i.ibb.co/YpQ3ttG/1984-Orwell-t.jpg)](https://www.youtube.com/watch?v=EvUZ5eToi10)
+
+[![](https://i.pinimg.com/564x/5a/47/fa/5a47fa74745752df57b275e2924d25d9.jpg)](https://youtu.be/EvUZ5eToi10?t=396)
+
+<!-- // 1er extrait : distinguer possibilité légale/morale (question de la liberté d'expression et de la censure) et capacité réelle (niveau propre à la novlangue).
+
+// 2e extrait : contrôler la langue -> contrôler la pensée -> empêcher la possibilité même d'une critique sociale et politique -->
+
+
+---
+<!-- _class: i1t0 -->
+
+![](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/formes-de-novlangue.svg)
+
+
+---
+<!-- _class: fmmmmmm -->
+<style scoped>
+h4{text-align:center; font-size:1.4em}
+table{margin-top:10px}
+table td:nth-of-type(1) {width:540px; border-right:1px dashed grey; padding-right:30px}
+table tH:nth-of-type(2) {padding-left:40px; padding-right:40px;}
+</style>
+#### 1/ Euphémisation
+
+|Novlangue|Réalité masquée|
+|--|--|
+|« Les événements d'Algérie »||
+|« Un plan social »||
+|« Les collaborateurs »||
+|« Faire preuve de pédagogie » [&#8618;](https://www.youtube.com/watch?v=1kBy0NhalGw)||
+|« Un drame familial »||
+|« un geste désespéré » [&#8618;](https://www.leprogres.fr/ain-01-edition-oyonnax-et-haut-bugey/2018/10/01/oyonnax-une-femme-poignardee-de-plusieurs-coups-de-couteau)||
+|« Le cinéaste franco-polonais est assigné en résidence en Suisse […] pour une affaire de moeurs qui remonte à plus de 30 ans » [&#8618;](https://www.liberation.fr/societe/2010/01/07/les-avocats-de-polanski-demandent-une-condamnation-par-contumace_603123)||
+
+
+---
+<!-- _class: fmm -->
+<style scoped>
+h4{text-align:center; font-size:1.4em}
+table{margin-top:10px}
+table td:nth-of-type(1) {width:540px; border-right:1px dashed grey; padding-right:30px}
+table tH:nth-of-type(2) {padding-left:40px; padding-right:40px;}
+</style>
+#### 2/ Discours positif creux
+
+|Novlangue||
+|--|--|
+|«  »||
+|«  »||
+|«  » [&#8618;](https://www.youtube.com/watch?v=E4kpR8NLFXQ)||
+|«  »||
+|«  » ||
+|«  » ||
+
+---
+<!-- _class: fmm -->
+<style scoped>
+h4{text-align:center; font-size:1.4em}
+table{margin-top:10px}
+table td:nth-of-type(1) {width:540px; border-right:1px dashed grey; padding-right:30px}
+table tH:nth-of-type(2) {padding-left:40px; padding-right:40px;}
+</style>
+#### 3/ Effets de cadrage
+
+|Novlangue|Angle adopté|
+|--|--|
+|« Les charges sociales »||
+|« La vidéoprotection »||
+|« Prendre les français en otage » [&#8618;](https://www.youtube.com/watch?v=E4kpR8NLFXQ)||
+|« Les réformes nécessaires »||
+|« Les émeutes urbaines » ||
+|« Un sentiment de malaise » ||
+
+<!-- // Des termes qui véhiculent une grille de lecture particulière, qui cadrent, orientent la discussion, qui empêchent le débat  -->
