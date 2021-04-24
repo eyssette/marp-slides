@@ -555,24 +555,11 @@ p:nth-of-type(1) img {object-position:-40px}
 
 
 ---
-<!-- _class: fmm -->
-<style scoped>
-h4{text-align:center; font-size:1.32em}
-h4 span {font-size:0.9em}
-table{margin-top:10px}
-table td:nth-of-type(1) {width:540px; border-right:1px dashed grey; padding-right:30px}
-table tH:nth-of-type(2) {padding-left:40px; padding-right:40px;}
-</style>
+<!-- _class: i1t1 fmm pp vertical -->
+
 #### 1/ Discours positif creux <span>(« Ne rien dire »)</span>
 
-|Novlangue|Contenu ?|
-|--|--|
-|«  »||
-|«  »||
-|«  » [&#8618;](https://www.youtube.com/watch?v=E4kpR8NLFXQ)||
-|«  »||
-|«  » ||
-|«  » ||
+![](https://i.ibb.co/BjQG2hk/langue-bois.jpg)
 
 ---
 <!-- _class: fmmmmmm -->
