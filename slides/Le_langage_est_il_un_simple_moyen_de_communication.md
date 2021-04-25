@@ -555,24 +555,27 @@ p:nth-of-type(1) img {object-position:-40px}
 
 
 ---
-<!-- _class: fmm -->
+<!-- _class: fmmmmmmmmmm -->
 <style scoped>
 h4{text-align:center; font-size:1.32em}
 h4 span {font-size:0.9em}
-table{margin-top:10px}
-table td:nth-of-type(1) {width:540px; border-right:1px dashed grey; padding-right:30px}
-table tH:nth-of-type(2) {padding-left:40px; padding-right:40px;}
+table {margin-top:-20px;}
+table td {padding:5px;}
+table td:nth-of-type(1){width:250px}
+table td:nth-of-type(2){width:300px}
+table td:nth-of-type(3){padding-left:10px;}
+p{font-size:0.8em; text-align:center;}
 </style>
 #### 1/ Discours positif creux <span>(« Ne rien dire »)</span>
 
-|Novlangue|Contenu ?|
-|--|--|
-|«  »||
-|«  »||
-|«  » [&#8618;](https://www.youtube.com/watch?v=E4kpR8NLFXQ)||
-|«  »||
-|«  » ||
-|«  » ||
+_À vous de faire un discours :  « Mesdames, messieurs …_
+
+||||
+|--|--|--|
+|À l'heure de la mondialisation … |… notre mission est de savoir nous adapter aux transformations  de notre société … |… et je le dis en toute transparence : nous devons reconstruire le pacte républicain. »|
+|Les attentes des Français sont clairs|… les réformes nécessaires doivent être mises en œuvre …|… c'est pourquoi je m'engage à mettre en place un véritable plan d'action courageux et ambitieux. »|
+|Dans un pays moderne comme la France …|… l'État se doit d'agir en rupture avec les méthodes du passé …|… je souhaite ainsi repenser les conditions d'un dialogue social juste. »|
+|La démocratie, nous le savons, est en crise, …|… notre responsabilité est grande et nous devons faire face aux enjeux de la conjoncture actuelle …|… je crois que nous pouvons relever, ensemble ce défi. »|
 
 ---
 <!-- _class: fmmmmmm -->
