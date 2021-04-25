@@ -126,15 +126,27 @@ img{height:700px!important;}
 <img src="https://i.ibb.co/dtcR222/vervets2.jpg" usemap="#vervets">
 <map name="vervets"><area shape="rect" alt="" title="" coords="657,0,1000,200" href="https://www.youtube.com/watch?v=QRpYs-7ktoM" target="_blank" /><area shape="rect" alt="" title="" coords="657,450,1000,700" href="https://www.youtube.com/watch?v=slGvI2y_W2c" target="_blank" /></map>
 
+
+<!-- // Struhsaker, T. T. 1967a. Auditory communication among vervet monkeys (Cercopithecus aethiops)
+// https://www.sciencedirect.com/science/article/pii/S0003347280800972
+// https://www.youtube.com/watch?v=q8ZG8Dpc8mM -->
+
+
 ---
 <!-- _class: i1t0 pp -->
 
 [![](https://upload.wikimedia.org/wikipedia/commons/3/3b/Bonobos_Panbanisha_%26_Kanzi_with_Sue_Savage-Rumbaugh%2C_2006.jpg)](https://www.youtube.com/watch?v=-CcVFjRPLLo)
 
+<!-- // https://thehumanevolutionblog.com/2015/07/28/koko-washoe-and-kanzi-three-apes-with-human-vocabulary/
+// https://slate.com/technology/2014/08/koko-kanzi-and-ape-language-research-criticism-of-working-conditions-and-animal-care.html
+// https://en.wikipedia.org/wiki/Clever_Hans -->
+
 ---
 <!-- _class: i1t0 pp -->
 
 [![](https://i.ibb.co/p0ssYh2/alex-the-parrot.jpg)](https://www.youtube.com/watch?v=QbBdI9Qk7Hw)
+
+<!-- // https://docs.google.com/document/d/112nV1RVZFNQ6TuO-JRgI9LCED0B6eU8AZsEDMbH_klQ/edit -->
 
 ---
 <!-- _class: etape -->
@@ -337,6 +349,11 @@ On peut utiliser cette distinction pour analyser différents types de signes (ex
 
 Dans le cas des signes linguistiques, même si on peut s'interroger sur le caractère indiciel ou icônique de certains signes, on peut cependant affirmer que **le langage repose essentiellement sur des symboles**, qui supposent donc l'apprentissage d'un code.
 
+<!-- //
+// – Y a-t-il des indices dans le langage ? Cf. les indexicaux …
+// – Part du symbolique dans les icônes
+// Y a-t-il une dimension iconique dans les mots ? (pouvoir d'évocation des sons ? cf. en poésie ; cf. takata/milimi ; cf. Mallarmé sur "jour" et "nuit" ; cf. cratylisme)
+ -->
 
 ---
 <!-- _class: i1t1 vertical fppp -->
@@ -495,6 +512,13 @@ Troisième partie
 
 <!-- // http://htl.linguist.univ-paris-diderot.fr/_media/fortis/relativisme_2012_long-1.pdf -->
 
+
+<!-- // https://plato.stanford.edu/entries/culture-cogsci/#Lan
+// - https://plato.stanford.edu/entries/linguistics/#Who
+// - https://www.philo52.com/articles.php?lng=fr&pg=2032
+// - https://www.ted.com/talks/lera_boroditsky_how_language_shapes_the_way_we_think/transcript?language=fr#t-180267
+// Dehaene : https://www.college-de-france.fr/site/stanislas-dehaene/course-2020-09-15-09h30.htm -->
+
 <!-- // Schéma : déterminisme fort / déterminisme faible
 // Un film qui repose sur l'hypothèse du déterminisme linguistique fort : Premier contact
 
@@ -522,6 +546,10 @@ blockquote blockquote {padding-top:8px}
 >« C'est dans les mots que nous pensons. Nous n'avons conscience de nos pensées déterminées et réelles que lors­que nous leur donnons [une] forme objective […]  On croit ordinairement, il est vrai, que ce qu'il y a de plus haut, c'est l'ineffable. Mais c'est là une opinion superficielle et sans fondement ; car, en réalité, l'ineffable, c'est la pensée obscure, la pensée à l'état de fermentation, et qui ne devient claire que lorsqu'elle trouve le mot. Ainsi le mot donne à la pensée son existence la plus haute et la plus vraie. Sans doute on peut se perdre dans un flux de mots sans saisir la chose. Mais la faute en est à la pensée imparfaite, indéterminée et vide, elle n'en est pas au mot. […] Par conséquent, l'intelligence, en se remplissant de mots, se remplit aussi de la nature des choses. »
 >>**Hegel**, _Encyclopédie des sciences philosophiques_, Philosophie de l'Esprit
 
+
+<!-- // Nous pouvons avoir l'impression que nous avons une intuition riche que nous ne parvenons pas à formuler.
+// Mais cette incapacité n'est que le signe d'une pensée en train de se construire.
+// C'est avec les mots que la pensée devient riche et précise.  -->
 
 ---
 <!-- _class: i2t0 pp horizontal -->
