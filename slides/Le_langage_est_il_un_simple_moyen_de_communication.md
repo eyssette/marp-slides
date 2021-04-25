@@ -555,11 +555,24 @@ p:nth-of-type(1) img {object-position:-40px}
 
 
 ---
-<!-- _class: i1t1 fmm pp vertical -->
-
+<!-- _class: fmm -->
+<style scoped>
+h4{text-align:center; font-size:1.32em}
+h4 span {font-size:0.9em}
+table{margin-top:10px}
+table td:nth-of-type(1) {width:540px; border-right:1px dashed grey; padding-right:30px}
+table tH:nth-of-type(2) {padding-left:40px; padding-right:40px;}
+</style>
 #### 1/ Discours positif creux <span>(« Ne rien dire »)</span>
 
-![](https://i.ibb.co/BjQG2hk/langue-bois.jpg)
+|Novlangue|Contenu ?|
+|--|--|
+|«  »||
+|«  »||
+|«  » [&#8618;](https://www.youtube.com/watch?v=E4kpR8NLFXQ)||
+|«  »||
+|«  » ||
+|«  » ||
 
 ---
 <!-- _class: fmmmmmm -->
@@ -576,7 +589,7 @@ table tH:nth-of-type(2) {padding-left:40px; padding-right:40px;}
 |--|--|
 |« Les événements d'Algérie »||
 |« Un plan social »||
-|« Les collaborateurs »||
+|« Les collaborateu rs »||
 |« Faire preuve de pédagogie » [&#8618;](https://www.youtube.com/watch?v=1kBy0NhalGw)||
 |« Un drame familial »||
 |« un geste désespéré » [&#8618;](https://www.leprogres.fr/ain-01-edition-oyonnax-et-haut-bugey/2018/10/01/oyonnax-une-femme-poignardee-de-plusieurs-coups-de-couteau)||
