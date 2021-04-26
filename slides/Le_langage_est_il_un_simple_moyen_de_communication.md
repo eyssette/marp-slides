@@ -437,8 +437,8 @@ Deuxième partie
  
  Il y a **deux raisons** liées au langage pour lesquelles deux personnes peuvent ne pas parvenir à communiquer :
  
- 1/ Le problème peut se situer au niveau de la **réception** : comme le langage repose sur un **code** et sur un acte d'**interprétation**, La personne qui reçoit l'information n'a peut-être **pas le même code** que le locuteur, ou elle peut **mal interpréter** l'intention du locuteur ; 
- 2/ Le problème peut se situer au niveau de la **production** : les mots semblent parfois insuffisants et ils ne permettent pas de dire tout ce que nous aimerions pouvoir dire.
+ 1) Le problème peut se situer au niveau de la **réception** : comme le langage repose sur un **code** et sur un acte d'**interprétation**, La personne qui reçoit l'information n'a peut-être **pas le même code** que le locuteur, ou elle peut **mal interpréter** l'intention du locuteur ; 
+ 2) Le problème peut se situer au niveau de la **production** : les mots semblent parfois insuffisants et ils ne permettent pas de dire tout ce que nous aimerions pouvoir dire.
 
 ---
 <!-- _class: citationC fm-->
@@ -518,63 +518,36 @@ Troisième partie
 // Or : nous avons appris une langue particulière. La question est donc la suivante : 
 // Les caractéristiques syntaxiques et morphologiques d'une langue particulière nous font-ils penser d'une certaine manière ? -->
 
+---
+<!-- _class: fpppppp -->
+<style scoped>
+ol {list-style-type:none;}
+ol li {margin-left:-50px;}
+ol li:nth-of-type(3) {margin-top:30px; border-top:1px solid grey; padding-top:30px;}
+</style>
+1) ❌ Ce n'est pas une thèse sur la nécessité du **langage**, en général, pour pouvoir penser <!-- // Travaux contemporains sur les aphasiques et sur la cognition animale -->
+2) ❌ Ce n'est pas une thèse sur l'effet de certaines **paroles** particulières (insultes, stéréotypes) sur notre esprit <!-- // cf. travaux sur la menace du stéréotype : même activité présentée comme un "dessin" ou comme des "maths" -->
+3) ✅ C'est l'idée que les caractéristiques particulières d'une **langue** (sa syntaxe, son lexique) ont un effet sur les manières de penser [&#8618;](![](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/evolution/determinisme-linguistique.svg))
 
 ---
-<!-- _class: i1t0 pp -->
+<!-- _class: fp -->
 
-![](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/evolution/determinisme-linguistique.svg)
+Plusieurs points remettent en cause l'idée d'un **déterminisme linguistique fort** [&#8618;](https://blogterrain.hypotheses.org/12774) :
+1) Les similarités dans le fonctionnement cognitif des êtres humains et l'absence de frontières absolues entre les langues ;
+2) La possibilité d'avoir certaines pensées sans avoir les mots correspondants ;
+3) La difficulté de distinguer les effets de la langue elle-même et les effets de la culture environnante.
 
-
----
-<!-- _class:  -->
-1. Ce n'est pas une thèse sur la nécessité du **langage**, en général, pour pouvoir penser
-2. Ce n'est pas une thèse sur l'effet de certaines **paroles** particulières (insultes, stéréotypes) sur notre esprit
-3. C'est l'idée que les caractéristiques particulières d'une **langue** (sa syntaxe, son lexique) ont un effet sur les manières de penser
-
----
-<!-- _class:  -->
-La question ici n'est pas de savoir si le **langage**, de manière **générale**, est nécessaire pour penser.
-<!-- // Travaux contemporains sur les aphasiques et sur la cognition animale -->
-Il ne s'agit pas non plus de s'interroger sur l'impact de certaines **paroles** **particulières** (insultes, stéréotypes …) sur notre esprit.
-<!-- // cf. travaux sur la menace du stéréotype : même activité présentée comme un "dessin" ou comme des "maths" -->
-
----
-<!-- _class:  -->
-La question est de savoir si les caractéristiques **particulières** d'une **langue** (sa syntaxe, son lexique) ont un effet sur les manières de penser.
-<!-- //  -->
-
-
----
-<!-- _class:  -->
-
-
-
----
-<!-- _class:  -->
-
-Quelques questions : 
-1) 
-2) S'il y a un effet, est-ce la langue en elle-même ou bien la culture 
-
++ Mais n'y a-t-il pas au moins une forme de **déterminisme linguistique faible** ?
 
 <!-- // http://htl.linguist.univ-paris-diderot.fr/_media/fortis/relativisme_2012_long-1.pdf -->
-
-
 <!-- // https://plato.stanford.edu/entries/culture-cogsci/#Lan
 // - https://plato.stanford.edu/entries/linguistics/#Who
 // - https://www.philo52.com/articles.php?lng=fr&pg=2032
 // - https://www.ted.com/talks/lera_boroditsky_how_language_shapes_the_way_we_think/transcript?language=fr#t-180267
 // Dehaene : https://www.college-de-france.fr/site/stanislas-dehaene/course-2020-09-15-09h30.htm -->
 
-<!-- // Schéma : déterminisme fort / déterminisme faible
-// Un film qui repose sur l'hypothèse du déterminisme linguistique fort : Premier contact
-
-//3 objections contre la thèse SP :
-// 1/ Il y a de grandes similarités dans le fonctionnement cognitif des êtres humains
-// 2/ Il n'y a pas de frontières cognitives absolues entre les langues : une traduction est toujours possible
-// 3/ Il est possible de posséder un concept sans être capable de l'exprimer
-
-// Exemples : une radiographie, une photographie des couches géologiques d'un terrain -->
+<!-- // Cas de l'arithmétique : Pirahã 
+// https://www.sciencesetavenir.fr/fondamental/que-sont-les-nombres-sans-les-mots_22679 -->
 
 ---
 <!-- _class: souspartie fmmmmm-->
