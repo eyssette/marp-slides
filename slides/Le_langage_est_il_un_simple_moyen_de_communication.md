@@ -320,7 +320,9 @@ img {width:860px}
 <!-- _class:  -->
 
 #### Défense du principe d'exprimabilité
-On peut toujours trouver une périphrase qui exprime le sens de ce terme. On perd bien sûr la force esthétique du mot, la densité de sens de l'expression originale, mais on ne perd pas la signification de ce terme, que l'on peut tout de même exprimer dans une autre langue. Le principe d'exprimabilité semble donc justifié.
+On peut toujours trouver une périphrase qui exprime le sens de ce terme.
+
+On perd bien sûr la force esthétique du mot, la densité de sens de l'expression originale, mais la signification ne semble pas perdue.
 
 
 ---
@@ -344,16 +346,29 @@ table{border:1px grey solid!important; width:830px; padding:0;}
 
 ---
 <!-- _class: fppppp -->
+<style scoped>
+.puces {margin-top:-30px}
+</style>
 
-On peut utiliser cette distinction pour analyser différents types de signes (exemple : analyse de la gestuelle dans des clips vidéo de rap [&#8618;](https://colloquehh.hypotheses.org/296)).
+On peut utiliser cette distinction pour analyser différents types de signes.
+<div class="puces">
 
-Dans le cas des signes linguistiques, même si on peut s'interroger sur le caractère indiciel ou icônique de certains signes, on peut cependant affirmer que **le langage repose essentiellement sur des symboles**, qui supposent donc l'apprentissage d'un code.
+- Exemple : analyse de la gestuelle dans des clips vidéo de rap [&#8618;](https://colloquehh.hypotheses.org/296).
+</div>
 
-<!-- //
-// – Y a-t-il des indices dans le langage ? Cf. les indexicaux …
+- Examinons le cas du langage au sens strict : les mots sont-ils des indices, des icônes ou bien des symboles ?
+
+
+---
+<!-- _class:  -->
+
+Certains mots peuvent certes être analysés comme des indices, et il est possible de rechercher une dimension iconique dans certains usages notamment poétiques du langage.
+<!-- // – Y a-t-il des indices dans le langage ? Cf. les indexicaux …
 // – Part du symbolique dans les icônes
-// Y a-t-il une dimension iconique dans les mots ? (pouvoir d'évocation des sons ? cf. en poésie ; cf. takata/milimi ; cf. Mallarmé sur "jour" et "nuit" ; cf. cratylisme)
- -->
+// Y a-t-il une dimension iconique dans les mots ? (pouvoir d'évocation des sons ? cf. en poésie ; cf. takata/milimi ; cf. Mallarmé sur "jour" et "nuit" ; cf. cratylisme) -->
+
+On peut cependant affirmer que **le langage repose essentiellement sur des symboles**, qui supposent donc l'apprentissage d'un code complexe.
+
 
 ---
 <!-- _class: i1t1 vertical fppp -->
