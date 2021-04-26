@@ -505,9 +505,56 @@ Troisième partie
 
 ---
 <!-- _class: souspartie f -->
-## A. Examen de l'hypothèse Sapir-Whorf de la relativité linguistique
+## A. Examen de l'hypothèse du déterminisme linguistique
 
 ---
+<!-- _class: definition fppppppp -->
+### Définition
+- D'après le **déterminisme linguistique** (= hypothèse de Sapir-Whorf), la langue que nous utilisons pour penser a un effet sur notre manière de penser
+
+<!-- // La question est la suivante : 
+// - La langue que nous utilisons pour penser a-t-elle un effet sur notre manière de penser ? -->
+<!-- // Une grande partie de nos pensées sont verbales : nous utilisons des mots pour penser, nous formons des idées qui peuvent s'exprimer sous la forme de phrases.
+// Or : nous avons appris une langue particulière. La question est donc la suivante : 
+// Les caractéristiques syntaxiques et morphologiques d'une langue particulière nous font-ils penser d'une certaine manière ? -->
+
+
+---
+<!-- _class: i1t0 pp -->
+
+![](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/evolution/determinisme-linguistique.svg)
+
+
+---
+<!-- _class:  -->
+1. Ce n'est pas une thèse sur la nécessité du **langage**, en général, pour pouvoir penser
+2. Ce n'est pas une thèse sur l'effet de certaines **paroles** particulières (insultes, stéréotypes) sur notre esprit
+3. C'est l'idée que les caractéristiques particulières d'une **langue** (sa syntaxe, son lexique) ont un effet sur les manières de penser
+
+---
+<!-- _class:  -->
+La question ici n'est pas de savoir si le **langage**, de manière **générale**, est nécessaire pour penser.
+<!-- // Travaux contemporains sur les aphasiques et sur la cognition animale -->
+Il ne s'agit pas non plus de s'interroger sur l'impact de certaines **paroles** **particulières** (insultes, stéréotypes …) sur notre esprit.
+<!-- // cf. travaux sur la menace du stéréotype : même activité présentée comme un "dessin" ou comme des "maths" -->
+
+---
+<!-- _class:  -->
+La question est de savoir si les caractéristiques **particulières** d'une **langue** (sa syntaxe, son lexique) ont un effet sur les manières de penser.
+<!-- //  -->
+
+
+---
+<!-- _class:  -->
+
+
+
+---
+<!-- _class:  -->
+
+Quelques questions : 
+1) 
+2) S'il y a un effet, est-ce la langue en elle-même ou bien la culture 
 
 
 <!-- // http://htl.linguist.univ-paris-diderot.fr/_media/fortis/relativisme_2012_long-1.pdf -->
@@ -620,16 +667,15 @@ table tH:nth-of-type(2) {padding-left:40px; padding-right:40px;}
 |--|--|
 |« Les événements d'Algérie »||
 |« Un plan social »||
-|« Les collaborateu rs »||
-|« Faire preuve de pédagogie » [&#8618;](https://www.youtube.com/watch?v=1kBy0NhalGw)||
+|« Les collaborateurs »||
 |« Un drame familial »||
-|« un geste désespéré » [&#8618;](https://www.leprogres.fr/ain-01-edition-oyonnax-et-haut-bugey/2018/10/01/oyonnax-une-femme-poignardee-de-plusieurs-coups-de-couteau)||
+|« Faire preuve de pédagogie » [&#8618;](https://www.youtube.com/watch?v=1kBy0NhalGw)||
 |« Le cinéaste franco-polonais est assigné en résidence en Suisse […] pour une affaire de moeurs qui remonte à plus de 30 ans » [&#8618;](https://www.liberation.fr/societe/2010/01/07/les-avocats-de-polanski-demandent-une-condamnation-par-contumace_603123)||
 
 
 
 ---
-<!-- _class: fmm -->
+<!-- _class: f -->
 <style scoped>
 h4{text-align:center; font-size:1.3em; margin-top:-10px!important;}
 h4 span {font-size:0.9em}
@@ -646,6 +692,10 @@ table tH:nth-of-type(2) {padding-left:40px; padding-right:40px;}
 |« Prendre les français en otage » [&#8618;](https://www.youtube.com/watch?v=E4kpR8NLFXQ)||
 |« Les réformes nécessaires »||
 |« Les émeutes urbaines » ||
-|« Un sentiment de malaise » ||
 
 <!-- // Des termes qui véhiculent une grille de lecture particulière, qui cadrent, orientent la discussion, qui empêchent le débat  -->
+
+---
+<!-- _class: i1t0 -->
+
+![](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/effets-possibles-langue-pensee.svg)
