@@ -476,7 +476,7 @@ ol ul {margin-left:-30px}
 <!-- _class: etape -->
 ### f) Faire travailler les élèves sur des exercices
 
-1) Faire ou faire des exercices en ligne (pour vérifier la compréhension, pour des révisions) [&#8618;]() [&#8618;]()
+1) Faire ou faire des exercices en ligne (pour vérifier la compréhension, pour des révisions) [&#8618;](https://learningapps.org/) [&#8618;](https://www.quiziniere.com/) [&#8618;](https://h5p.org)
 2) Créer un parcours pédagogique en ligne complet avec des exercices auto-correctifs
 
 ---
@@ -503,8 +503,8 @@ ol {margin-left:20px; margin-right:30px;}
 ol ul {margin-left:-30px;}
 </style>
 1) Trouver un sujet
-	* Rechercher un sujet dans la base de données des sujets du baccalauréat : dissertations [&#8618;]() et explications de texte [&#8618;]()
-	* Rechercher un sujet de dissertation dans une base de données générale (tous niveaux confondus) [&#8618;]()
+	* Rechercher un sujet dans la base de données des sujets du baccalauréat : dissertations [&#8618;](https://eyssette.github.io/sujets-philosophie-bac/dissertations.html) et explications de texte [&#8618;](https://eyssette.github.io/sujets-philosophie-bac/explications.html)
+	* Rechercher un sujet de dissertation dans une base de données générale (tous niveaux confondus) [&#8618;](https://eyssette.github.io/sujets-philosophie/)
 2) Faire une dissertation ou une explication avec un dossier d'approfondissement
 	* Partager des dossiers avec l'ENT ou en les publiant en ligne [&#8618;]() [&#8618;]()
 	* Collaborer avec des collègues pour faire un dossier [&#8618;]()
