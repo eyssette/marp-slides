@@ -219,9 +219,13 @@ Première partie
 
 ---
 <!-- _class: i1t1 vertical -->
+<style scoped>
+p{margin-top:10px!important;}
+img {width:780px;}
+</style>
 #### a) Les phonèmes
 
-![Représentation schématique des zones articulatoires par Georges Straka](http://flenet.unileon.es/phon/imagStraka_zones.jpg)
+![Représentation schématique des zones articulatoires par Georges Straka](https://i.ibb.co/2dRs34s/imag-Straka-zones.jpg)
 
 ---
 <!-- _class: i1t0 pp -->
