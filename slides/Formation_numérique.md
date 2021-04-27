@@ -89,13 +89,13 @@ ol {margin-left:60px;}
 2. Gérer des tâches multiples
 
 ---
-<!-- _class: fppp -->
+<!-- _class: fpp -->
 1) Gérer son calendrier
 	* Intégrer automatiquement dans son calendrier son emploi du temps sur Pronote [↪](http://www.index-education.com/fr/tutoriels-video-pronote-1735-3-synchroniser-l-agenda-pronote-a-son-agenda-personnel-espace-professeurs.php)
 	* Récupérer automatiquement les dates officielles du calendrier scolaire [↪](https://www.data.gouv.fr/fr/datasets/le-calendrier-scolaire/)
 	* Recevoir des notifications, et un mail de rappel chaque matin [↪](http://www.blogdumoderateur.com/astuces-google-agenda/)
 2) Gérer des tâches multiples
-	* La méthode GTD : _Getting Things Done_ [↪](http://toodledo.com/)
+	* La méthode GTD : _Getting Things Done_ [↪](http://toodledo.com/) [↪](https://marketplace.visualstudio.com/items?itemName=usernamehw.todo-md)
 	* La méthode Kanban [↪](https://format30.com/2014/08/26/etudiants-organisez-votre-travail-avec-le-kanban-personnel-trello/) [↪](https://trello.com/) [↪](https://cryptpad.fr/kanban)
 
 
@@ -133,7 +133,7 @@ ol ul ul {font-size:90%; padding-top:5px}
 	* Trouver des cours de niveau universitaire en ligne (mots clés : “syllabus”, “mooc”, “open course”) [↪](https://mediaserver.unige.ch/search/philosophie/permissions:public) [↪](https://www.fun-mooc.fr/) [↪](https://www.coursera.org/) [↪](https://ocw.mit.edu/courses/find-by-topic/)
 
 ---
-<!-- _class: fpppppp -->
+<!-- _class: fp -->
 
 2. Lire et prendre des notes
 	* Lire des livres au format _ePub_ [↪](https://play.google.com/books/ebooks)
@@ -141,6 +141,7 @@ ol ul ul {font-size:90%; padding-top:5px}
 	* Utiliser un dictionnaire intégré [↪](https://chrome.google.com/webstore/detail/google-dictionary-by-goog/mgijmajocgfcbeboacabfgobmjgjcoja) [↪](https://addons.mozilla.org/en-US/firefox/addon/dictionary-anyvhere/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)
 	* Utiliser un logiciel pour prendre des notes de manière structurée [↪](http://dynalist.io) [↪](https://workflowy.com/)
 	* Prendre des notes sur une vidéo, ou faire de la transcription
+	* Prendre des notes dans de simples fichiers textes, en mettant un maximum d'informations dans le titre lui-même pour pouvoir facilement retrouver ses notes sur un thème, un auteur …
 
 ---
 <!-- _class: fpp -->	
@@ -384,19 +385,24 @@ ol ul {margin-left:-30px;}
 2. Faire produire une vidéo aux élèves
 
 ---
-<!-- _class: fmm -->
+<!-- _class: fmmmmm -->
+<style scoped>
+ol {margin-left:25px}
+ol ul li {margin-left:-40px}
+</style>
 1) Travailler sur une vidéo
-	* Trouver des vidéos intéressantes [↪]()
-	* Récupérer une vidéo en ligne [↪]() [↪]() [↪](), ou bien à partir d’un DVD [↪]()
-		* Législation : BO n°5 du 4 février 2010 [↪]()
-	* Découper un extrait précis [↪]() [↪]() [↪]()
-	* Stocker ses extraits vidéos [↪]()
+	* Trouver des vidéos intéressantes [↪](https://www.facebook.com/groups/enseignercinephilosophie)
+	* Récupérer une vidéo en ligne [↪](https://www.downloadhelper.net/) [↪](https://captvty.fr/fonctionnalites) [↪](https://github.com/ytdl-org/youtube-dl), ou bien à partir d’un DVD [↪](https://www.mediaforma.com/vlc-ripper-dvd-vlc/) [↪](https://github.com/xenomachina/dvdrip) (législation : BO n°5 du 4 février 2010 [↪](https://www.education.gouv.fr/bo/2010/05/menj0901120x.html))
+	* Découper un extrait directement sur Youtube et le partager de manière sécurisée, sans publicité, avec une interface neutre [↪](https://video.link/) [↪](https://ladigitale.dev/digiplay/#/)
+	* Découper un extrait à partir d'un fichier avec Avidemux [↪](http://avidemux.sourceforge.net/download.html) [↪](https://www.ac-clermont.fr/disciplines/fileadmin/user_upload/LanguesVivantes/boite_a_outils_tice/BAC_accompagnement/Decouper_une_video_avec_avidemux.pdf), Handbrake [↪](https://handbrake.fr/) [↪](https://drive.google.com/file/d/0BxtFzWgpTB8KaE5CMWpvNnlLVm8/view), ou VLC [↪](https://www.futura-sciences.com/tech/questions-reponses/multimedia-decouper-media-vlc-11851/) [↪](https://www.videoproc.com/troubleshoot-vlc/cut-or-trim-video-in-vlc-on-mac.htm)
+	* Stocker ses extraits vidéos [↪](https://drive.google.com/drive/my-drive)
 	* Intégrer un extrait vidéo dans un diaporama
-	*  Différents usages possibles du cinéma [↪]()
-	* Faire un exercice à partir d’une vidéo [↪]()
-	* Faire une capsule vidéo pour ses élèves [↪]()
+	* Différents usages possibles du cinéma [↪](http://bit.ly/philocine)
+	* Proposer une vidéo avec des annotations [↪](https://ant.umn.edu/)
+	* Faire un exercice en ligne sur une vidéo [↪](https://learningapps.org/)
+	* Faire une capsule vidéo pour ses élèves [↪](https://obsproject.com/fr)
 2) Faire produire une vidéo aux élèves
-	* Faire faire une vidéo [↪](), ou une animation [↪]()
+	* Faire faire une vidéo ou une animation
 
 ---
 <!-- _class: etape -->
@@ -405,17 +411,21 @@ ol ul {margin-left:-30px;}
 2. Faire faire aux élèves une production à partir d'images
 
 ---
-<!-- _class: fmmm -->
+<!-- _class: fmmmmm -->
+<style scoped>
+ol {margin-left:20px}
+ol ul li {margin-left:-40px}
+</style>
 1) Travailler avec des images
-	* Rechercher des images libres de droit [&#8618;]()
-	* Stocker et diffuser des images [&#8618;]() [&#8618;]()
-	* Scanner une image ou bien la diffuser par une caméra de document [&#8618;]()
+	* Rechercher des images libres de droit [&#8618;](https://images.google.com/) [&#8618;](https://www.qwant.com/) [&#8618;](https://commons.wikimedia.org/wiki/Main_Page) [&#8618;](https://search.creativecommons.org/search?q=), des photographies d'œuvres d'art [&#8618;](https://artsandculture.google.com/) [&#8618;](https://art.rmngp.fr/fr) [&#8618;](https://www.nga.gov/open-access-images.html) [&#8618;](https://histoiredesarts.culture.gouv.fr/), des icônes [&#8618;](https://thenounproject.com/)
+	* Stocker et diffuser des images [&#8618;](https://photos.google.com/share/AF1QipNQKekMM7q8v5VozjV-rqJpbgpQCRZnADf4QHp7-bmVQuSHS4EfnLzucdcu8M4tTg?key=bjBjUWE4bXBKalJITzhtVGdKd3hXSTdhUkZ1a0dn) [&#8618;]()
+	* Scanner une image ou la diffuser avec une caméra de document [&#8618;](http://francois.bocquet.free.fr/universite/page17/page51/page51.html)
 	* Imprimer une image sur plusieurs feuilles pour faire une affiche [&#8618;](https://posterazor.sourceforge.io/online/)
-	* Faire un exercice à partir d’une image, éventuellement intégrée à un diaporama ou via un site [&#8618;]()
-	* Rendre son image interactive [&#8618;]()
+	* Faire un exercice à partir d’une image, éventuellement intégrée à un diaporama ou via un site [&#8618;](https://learningapps.org/)
+	* Rendre son image interactive [&#8618;](https://www.genial.ly/)
 2) Faire faire aux élèves une production à partir d’images
-	* Faire faire l'analyse d’une image : diffusion via une caméra de document [&#8618;](), ou récupération en ligne des images [&#8618;]()
-	* Produire une image interactive [&#8618;]()
+	* Faire faire l'analyse d’une image : analyse d'une œuvre d'art, analyse de lieux communs, ou d'un stéréotype, problématisation d'une question à partir d'une image ou de deux images opposées
+	* Affichage en classe de l'image via une caméra de document [&#8618;](http://francois.bocquet.free.fr/universite/page17/page51/page51.html), ou récupération en ligne des images avec l'ENT
 
 
 ---
@@ -426,11 +436,16 @@ ol ul {margin-left:-30px;}
 
 ---
 <!-- _class: fmmm -->
+<style scoped>
+ol {margin-left:20px}
+ol ul li {margin-left:-40px}
+</style>
 1) Travailler sur un fichier audio
-	* Récupérer des fichiers audio : on peut penser notamment aux podcasts des émissions de radio [&#8618;]()
-	* Stocker et diffuser des fichiers audio [&#8618;]() [&#8618;]()
-	* Faire un exercice à partir d’un fichier audio. Par exemple : un exercice de prise de notes
-	* Faire de la balado-diffusion [&#8618;](), ou une web-radio [&#8618;]() [&#8618;]() [&#8618;]() [&#8618;]()
+	* Récupérer des fichiers audio, par exemple de podcasts ou d'émissions de radio [&#8618;]()
+	* Stocker et diffuser des fichiers audio
+	* Faire un exercice à partir d’un fichier audio. Par exemple : un exercice de prise de notes, ou un travail d'approfondissement
+	* Faire de la balado-diffusion [&#8618;](https://archivistesqc.wordpress.com/2020/08/17/baladodiffusion/), ou une web-radio [&#8618;](https://www.education.gouv.fr/creer-une-radio-lyceenne-4691) [&#8618;](https://eduscol.education.fr/numerique/dossier/archives/baladodiffusion) [&#8618;](https://blog.juliendelmas.fr/?mettre-en-place-une-webradio) [&#8618;](https://padlet.com/cdi_siegfried67/l7s545626pbq)
+		* Exemple : les usages de la webradio par Guillaume Lequien [&#8618;](https://www.atelierphilo.fr/category/travaux/webradio/)
 2) Faire faire aux élèves une production audio
 	* Faire produire une analyse, une réflexion enregistrée via l'ENT, via leur propre téléphone (BYOD) ou via un outil en ligne (mot clé : “online recorder”)
 	* Récupérer les fichiers audio : via l'ENT, ou une autre solution [&#8618;]() [&#8618;]() [&#8618;]()
@@ -441,7 +456,6 @@ ol ul {margin-left:-30px;}
 ### e) Faire travailler les élèves sur un site internet
 1. Faire travailler les élèves sur des sites
 2. Créer un site
-3. Faire créer un site par les élèves
 
 
 ---
@@ -450,13 +464,12 @@ ol ul {margin-left:-30px;}
 ol ul {margin-left:-30px}
 </style>
 1) Faire travailler les élèves sur des sites
-	* Utiliser un raccourcisseur d’URL [&#8618;]()
-	* Utiliser des QR-Codes [&#8618;]()
-	* Utiliser un outil de bookmarking en ligne [&#8618;]()
+	* Utiliser un raccourcisseur d’URL [&#8618;](https://bitly.com/)
+	* Utiliser des QR-Codes [&#8618;](https://fr.qr-code-generator.com/)
+	* Utiliser un outil de bookmarking en ligne [&#8618;](https://www.diigo.com/)
 2) Créer un site
-	* Utiliser un outil simple de création de sites [&#8618;]()
-2) Faire créer un site par les élèves
-	* Utiliser un outil de création de site [&#8618;]()
+	* Utiliser l'ENT
+	* Utiliser un outil simple de création de sites [&#8618;](https://sites.google.com/) [&#8618;](https://wordpress.com/fr/)
 
 
 ---
