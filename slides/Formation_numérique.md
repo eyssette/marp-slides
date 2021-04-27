@@ -374,7 +374,7 @@ ol ul {margin-left:-30px;}
 	* Utiliser un canevas que les élèves doivent remplir à l'écrit (exemple de canevas pour la problématisation : [&#8618;](https://docs.google.com/presentation/d/11dQsRgOJ7z2o8lnyJOm9mlrRI314HPCT1ROuEwst3FA/edit?usp=sharing)), ou un modèle de document que les élèves doivent utiliser pour une production numérique
 	* Utiliser des outils de traitement de texte collaboratifs [&#8618;](https://apps.education.fr/applications/etherpad/) [&#8618;](https://apps.education.fr/applications/codi-md) 
 	* Faire écrire un texte interactif [&#8618;](https://www.inklewriter.com/) [&#8618;](https://twinery.org/)
-	* Récupérer les textes des élèves : utiliser l'ENT de préférence [&#8618;](https://tube-education.beta.education.fr/videos/watch/playlist/77c36bc8-e565-45a3-aff1-7e72c6232374?playlistPosition=5&resume=true) [&#8618;](https://tube-education.beta.education.fr/videos/watch/playlist/77c36bc8-e565-45a3-aff1-7e72c6232374?playlistPosition=6&resume=true), ou un outil de collecte de fichiers [&#8618;](https://help.dropbox.com/fr-fr/files-folders/share/create-file-request)
+	* Récupérer les textes des élèves : utiliser l'ENT de préférence [&#8618;](https://dane.ac-reims.fr/index.php/usages-pedagogiques-ent/item/266-MBN-travail-a-faire) [&#8618;](https://tube-education.beta.education.fr/videos/watch/playlist/77c36bc8-e565-45a3-aff1-7e72c6232374?playlistPosition=5&resume=true) [&#8618;](https://tube-education.beta.education.fr/videos/watch/playlist/77c36bc8-e565-45a3-aff1-7e72c6232374?playlistPosition=6&resume=true), ou un outil de collecte de fichiers [&#8618;](https://help.dropbox.com/fr-fr/files-folders/share/create-file-request)
 	* Produire un livre numérique à partir d’un fichier PDF pour valoriser les productions des élèves [&#8618;](https://fr.calameo.com/)
 
 
@@ -486,7 +486,7 @@ section {font-size:221%;}
 h3{padding-bottom:20px}
 ol {margin-left:40px; margin-top:0px}
 </style>
-### b) Évaluer les élèves
+### g) Évaluer les élèves
 1. Trouver un sujet
 2. Faire une dissertation ou une explication avec un dossier d'approfondissement
 3. Calculer le temps nécessaire pour une évaluation
@@ -506,7 +506,7 @@ ol ul {margin-left:-30px;}
 	* Rechercher un sujet dans la base de données des sujets du baccalauréat : dissertations [&#8618;](https://eyssette.github.io/sujets-philosophie-bac/dissertations.html) et explications de texte [&#8618;](https://eyssette.github.io/sujets-philosophie-bac/explications.html)
 	* Rechercher un sujet de dissertation dans une base de données générale (tous niveaux confondus) [&#8618;](https://eyssette.github.io/sujets-philosophie/)
 2) Faire une dissertation ou une explication avec un dossier d'approfondissement
-	* Partager des dossiers avec l'ENT ou en les publiant en ligne
+	* Partager des dossiers avec l'ENT ou en les publiant en ligne [↪](https://www.dropbox.com/referrals/AADNRgRvYNK3-2FBnRd_mi-niwqSc6g-yUI?src=global9)
 	* Collaborer avec des collègues pour faire un dossier [&#8618;](https://www.facebook.com/groups/enseignerlaphilosophie/permalink/1273527589334606/?__cft__[0]=AZUzrLPV-5pyDXkTepeD4kn6OOhoEXlshkp2fMN8i57lFSHm-QZUMAf5EqRc3WDQF_XuKBJbXoGw8F5rVwgh7vZhChEXsFC19syo0OorSbmiLxUs1VF4KIYiaTrq4msiZiSaL2_axbW5E24gzNsQOntH&__tn__=%2CO%2CP-R)
 3) Calculer le temps nécessaire pour une évaluation
 	* Utiliser un outil qui compte les mots et le temps pour écrire ou lire un texte d'un certaine nombre de mots [&#8618;]()
@@ -520,30 +520,30 @@ ol ol ul {margin-left:-30px}
 </style>
 
 4) Annoter les copies
-	1) _Utiliser une fiche d'évaluation_ [&#8618;]() [&#8618;]()
+	1) _Utiliser une grille d'évaluation_ [&#8618;](https://docs.google.com/document/d/1OSiT5a-OuBb322IzWnO25u4zjwjXaD7tJYJwVVdVrvY/edit?usp=sharing) [&#8618;](https://www.dropbox.com/s/x33q3xooeqde5ek/Rubrique%20simplifi%C3%A9e%20%E2%80%93%20Dissertation.pdf?dl=0) [&#8618;](https://www.dropbox.com/s/7lhzq7d7vy47ssa/Grille%20d%27%C3%A9valuation%20crit%C3%A9ri%C3%A9e%20%28%27rubric%27%29%20pour%20la%20dissertation%20en%20philosophie.pdf?dl=0)
 	2) _Annoter numériquement des copies physiques_
 		* Utiliser un modèle de document pour ses corrections [&#8618;](), insérer des annotations prédéfinies [&#8618;]() [&#8618;]()
 		* Faire des annotations vocales [&#8618;]()
 	3) _Annoter numériquement des copies numériques_
 		* Utiliser la fonction “commentaire” dans un traitement de texte 
 		* Utiliser les fonctions d’annotation d’un fichier PDF [&#8618;]()
-		* Utiliser un outil dédié [&#8618;](https://eyssette.github.io/mark-down-papers/)
+		* Utiliser un outil dédié pour corriger des copies [&#8618;](https://eyssette.github.io/mark-down-papers/)
 
 ---
 <!-- _class: f -->
 
 5) Vérifier si l'élève a fait un plagiat
 	* Utiliser un moteur de recherche ordinaire et quelques astuces
-	* Utiliser un outil spécifique [&#8618;]()
+	* Utiliser un logiciel anti-plagiat
 6) Noter les copies
-	* Utiliser Pronote pour différer la diffusion des notes et focaliser les élèves sur les annotations lorsque l’on rend les copies
+	* Utiliser Pronote pour différer la diffusion des notes et focaliser les élèves sur les annotations lorsque l’on rend les copies [&#8618;](https://www.index-education.com/fr/tutoriels-video-pronote-1725-49-choisir-la-date-de-publication-d-une-note-espace-professeurs.php)
 	* Transférer ses notes rapidement d'un tableur vers Pronote [&#8618;](https://www.index-education.com/fr/tutoriels-video-pronote-668-49-recuperer-les-notes-depuis-un-tableur-mode-enseignant.php)
 	* Utiliser un outil d’aide à l’évaluation [&#8618;](https://eyssette.github.io/evaluation-rapide/)
 
 ---
 <!-- _class: fp -->
 7) Rendre les copies
-	* Utiliser l'ENT pour rendre les copies [&#8618;]()
+	* Utiliser l'ENT pour rendre les copies [&#8618;](https://dane.ac-reims.fr/index.php/usages-pedagogiques-ent/item/266-MBN-travail-a-faire)
 8) Évaluer avec des QCM
 	* Faire des QCM en philosophie ? [&#8618;]() [&#8618;]()
 	* Utiliser un système de correction automatique de QCM [&#8618;]()
