@@ -95,8 +95,8 @@ ol {margin-left:60px;}
 	* Récupérer automatiquement les dates officielles du calendrier scolaire [↪](https://www.data.gouv.fr/fr/datasets/le-calendrier-scolaire/)
 	* Recevoir des notifications, et un mail de rappel chaque matin [↪](http://www.blogdumoderateur.com/astuces-google-agenda/)
 2) Gérer des tâches multiples
-	* La méthode GTD : _Getting Things Done_ [↪](http://toodledo.com/) [↪](https://marketplace.visualstudio.com/items?itemName=usernamehw.todo-md)
-	* La méthode Kanban [↪](https://format30.com/2014/08/26/etudiants-organisez-votre-travail-avec-le-kanban-personnel-trello/) [↪](https://trello.com/) [↪](https://cryptpad.fr/kanban)
+	* La méthode GTD : _Getting Things Done_ quand on a un grand nombre de tâches à gérer [↪](http://toodledo.com/) [↪](https://marketplace.visualstudio.com/items?itemName=usernamehw.todo-md)
+	* La méthode Kanban pour gérer de façon plus simple l'évolution d'un projet [↪](https://format30.com/2014/08/26/etudiants-organisez-votre-travail-avec-le-kanban-personnel-trello/) [↪](https://trello.com/) [↪](https://cryptpad.fr/kanban)
 
 
 ---
@@ -180,7 +180,7 @@ ol ul {margin-left:-20px;}
 2) Utiliser des outils collaboratifs
 	* Créer un espace de discussion en ligne [↪](https://framateam.org)
 	* Travailler sur des dossiers collaboratifs : _Tribu_ [↪](https://tribu.phm.education.gouv.fr/), _Drive_ [↪](https://drive.google.com/drive/my-drive)
-	* Trouver une date pour une réunion [↪](https://framadate.org/)
+	* Trouver une date pour une réunion, en mettant automatiquement en évidence celles qui conviennent à le plus de personnes [↪](https://framadate.org/)
 
 
 ---
@@ -303,7 +303,7 @@ ol {margin-left:70px;}
 	* Créer des schémas pour représenter des arguments [↪](http://argument.mindmup.com) [↪](https://argdown.org/)
 	* Utiliser un langage de programmation de graphiques : GraphViz [↪](https://github.com/eyssette/graphviz-examples)
 	* Créer une frise chronologique [&#8618;](https://outilstice.com/2020/06/outils-creer-frises-chronologiques/) [&#8618;](https://dynalist.io/d/AVblXCS_wLyhYa5Vv09X0cFJ#z=lMqVNIBrVvEdqSVLcxavgyhY)
-	* Rendre son schéma interactif [↪](https://www.genial.ly/)
+	* Rendre son schéma interactif avec des éléments à cliquer pour découvrir différentes informations  [↪](https://www.genial.ly/)
 
 ---
 <!-- _class: souspartie -->
@@ -342,7 +342,7 @@ ol ul {margin-left:-10px;}
 	* Utiliser des dossiers en ligne de textes classés par thèmes : Philo52 [↪](https://philo52.com/articles.php?lng=fr&pg=2276), Materia philosophica [↪](https://materiaphilosophica.blogspot.com/), PhiloTextes [↪](http://philotextes.info/spip/spip.php?rubrique5), ma sélection [↪](https://eyssette.github.io/dossiers/)
 	* Utiliser des moteurs de recherche : Académie de Grenoble [↪](http://www.ac-grenoble.fr/PhiloSophie/old2/bases/search.php), Philolabo [↪](https://philo-labo.fr/accueil/), MaPhilosophie [↪](https://www.maphilosophie.fr/base_textes.php), Explications de texte données au baccalauréat [↪](https://eyssette.github.io/sujets-philosophie-bac/explications.html)
 	* Trouver une édition numérique d'une œuvre [↪](https://philo-labo.fr/pmwiki.php?n=Public.Ebooks?skin=minimal)  [↪](http://classiques.uqac.ca/classiques/), et des enregistrements audio de lectures d'œuvres [↪](https://lecture-audio.fr/co/Bibli.html) [↪](http://www.litteratureaudio.com/livres-audio-gratuits-mp3/categorie/philosophie)
-	* Utiliser le document collaboratif du groupe “Enseigner la philosophie” pour le partage de cours sur les œuvres suivies [&#8618;](https://www.facebook.com/groups/enseignerlaphilosophie/permalink/1327381807282517)
+	* Utiliser le document collaboratif du groupe “Enseigner la philosophie” pour le partage de cours, de sélections de textes, … sur les œuvres suivies [&#8618;](https://www.facebook.com/groups/enseignerlaphilosophie/permalink/1327381807282517)
 
 <!--
 Livres audio, mais payants :
@@ -371,10 +371,10 @@ ol ul {margin-left:-30px;}
 ol ul {margin-left:-30px;}
 </style>
 3) Faire écrire un texte aux élèves
-	* Utiliser un canevas que les élèves doivent remplir à l'écrit (exemple de canevas pour la problématisation : [&#8618;]()), ou un modèle de document que les élèves doivent utiliser pour une production numérique
+	* Utiliser un canevas que les élèves doivent remplir à l'écrit (exemple de canevas pour la problématisation : [&#8618;](https://docs.google.com/presentation/d/11dQsRgOJ7z2o8lnyJOm9mlrRI314HPCT1ROuEwst3FA/edit?usp=sharing)), ou un modèle de document que les élèves doivent utiliser pour une production numérique
 	* Utiliser des outils de traitement de texte collaboratifs [&#8618;](https://apps.education.fr/applications/etherpad/) [&#8618;](https://apps.education.fr/applications/codi-md) 
 	* Faire écrire un texte interactif [&#8618;](https://www.inklewriter.com/) [&#8618;](https://twinery.org/)
-	* Récupérer les textes des élèves : utiliser l'ENT de préférence, ou un outil de collecte de fichiers [&#8618;](https://help.dropbox.com/fr-fr/files-folders/share/create-file-request)
+	* Récupérer les textes des élèves : utiliser l'ENT de préférence [&#8618;](https://tube-education.beta.education.fr/videos/watch/playlist/77c36bc8-e565-45a3-aff1-7e72c6232374?playlistPosition=5&resume=true) [&#8618;](https://tube-education.beta.education.fr/videos/watch/playlist/77c36bc8-e565-45a3-aff1-7e72c6232374?playlistPosition=6&resume=true), ou un outil de collecte de fichiers [&#8618;](https://help.dropbox.com/fr-fr/files-folders/share/create-file-request)
 	* Produire un livre numérique à partir d’un fichier PDF pour valoriser les productions des élèves [&#8618;](https://fr.calameo.com/)
 
 
@@ -391,9 +391,9 @@ ol {margin-left:25px}
 ol ul li {margin-left:-40px}
 </style>
 1) Travailler sur une vidéo
-	* Trouver des vidéos intéressantes [↪](https://www.facebook.com/groups/enseignercinephilosophie)
+	* Trouver des vidéos intéressantes [↪](https://www.facebook.com/groups/enseignercinephilosophie) [&#8618;](https://tvtropes.org/)
 	* Récupérer une vidéo en ligne [↪](https://www.downloadhelper.net/) [↪](https://captvty.fr/fonctionnalites) [↪](https://github.com/ytdl-org/youtube-dl), ou bien à partir d’un DVD [↪](https://www.mediaforma.com/vlc-ripper-dvd-vlc/) [↪](https://github.com/xenomachina/dvdrip) (législation : BO n°5 du 4 février 2010 [↪](https://www.education.gouv.fr/bo/2010/05/menj0901120x.html))
-	* Découper un extrait directement sur Youtube et le partager de manière sécurisée, sans publicité, avec une interface neutre [↪](https://video.link/) [↪](https://ladigitale.dev/digiplay/#/)
+	* Découper un extrait directement sur Youtube et le partager de manière sécurisée, sans publicité, avec une interface neutre [↪](https://ladigitale.dev/digiplay/#/) [↪](https://video.link/)
 	* Découper un extrait à partir d'un fichier avec Avidemux [↪](http://avidemux.sourceforge.net/download.html) [↪](https://www.ac-clermont.fr/disciplines/fileadmin/user_upload/LanguesVivantes/boite_a_outils_tice/BAC_accompagnement/Decouper_une_video_avec_avidemux.pdf), Handbrake [↪](https://handbrake.fr/) [↪](https://drive.google.com/file/d/0BxtFzWgpTB8KaE5CMWpvNnlLVm8/view), ou VLC [↪](https://www.futura-sciences.com/tech/questions-reponses/multimedia-decouper-media-vlc-11851/) [↪](https://www.videoproc.com/troubleshoot-vlc/cut-or-trim-video-in-vlc-on-mac.htm)
 	* Stocker ses extraits vidéos [↪](https://drive.google.com/drive/my-drive)
 	* Intégrer un extrait vidéo dans un diaporama
@@ -441,7 +441,7 @@ ol {margin-left:20px}
 ol ul li {margin-left:-40px}
 </style>
 1) Travailler sur un fichier audio
-	* Récupérer des fichiers audio, par exemple de podcasts ou d'émissions de radio [&#8618;]()
+	* Récupérer des fichiers audio, par exemple de podcasts ou d'émissions de radio [&#8618;](https://www.franceculture.fr/philosophie)
 	* Stocker et diffuser des fichiers audio
 	* Faire un exercice à partir d’un fichier audio. Par exemple : un exercice de prise de notes, ou un travail d'approfondissement
 	* Faire de la balado-diffusion [&#8618;](https://archivistesqc.wordpress.com/2020/08/17/baladodiffusion/), ou une web-radio [&#8618;](https://www.education.gouv.fr/creer-une-radio-lyceenne-4691) [&#8618;](https://eduscol.education.fr/numerique/dossier/archives/baladodiffusion) [&#8618;](https://blog.juliendelmas.fr/?mettre-en-place-une-webradio) [&#8618;](https://padlet.com/cdi_siegfried67/l7s545626pbq)
@@ -459,7 +459,7 @@ ol ul li {margin-left:-40px}
 
 
 ---
-<!-- _class: fppppppp -->
+<!-- _class: fppppp -->
 <style scoped>
 ol ul {margin-left:-30px}
 </style>
@@ -476,7 +476,7 @@ ol ul {margin-left:-30px}
 <!-- _class: etape -->
 ### f) Faire travailler les élèves sur des exercices
 
-1) Faire ou faire des exercices en ligne (pour vérifier la compréhension, pour des révisions) [&#8618;](https://learningapps.org/) [&#8618;](https://www.quiziniere.com/) [&#8618;](https://h5p.org)
+1) Faire ou faire des exercices en ligne (pour vérifier la compréhension, pour des révisions) [&#8618;](https://learningapps.org/) [&#8618;](https://www.quiziniere.com/) [&#8618;](https://h5p.org) [&#8618;](https://www.index-education.com/fr/tutoriels-video-pronote-1795-29-donner-un-qcm-a-faire-depuis-le-cahier-de-textes-espace-professeurs.php)
 2) Créer un parcours pédagogique en ligne complet avec des exercices auto-correctifs
 
 ---
@@ -497,19 +497,19 @@ ol {margin-left:40px; margin-top:0px}
 8. Évaluer avec des QCM
 
 ---
-<!-- _class: fm -->
+<!-- _class: fmm -->
 <style scoped>
 ol {margin-left:20px; margin-right:30px;}
 ol ul {margin-left:-30px;}
 </style>
 1) Trouver un sujet
-	* Rechercher un sujet dans la base de données des sujets du baccalauréat : dissertations [&#8618;](https://eyssette.github.io/sujets-philosophie-bac/dissertations.html) et explications de texte [&#8618;](https://eyssette.github.io/sujets-philosophie-bac/explications.html)
+	* Rechercher un sujet dans la base de données des sujets du baccalauréat : dissertations [&#8618;](https://eyssette.github.io/sujets-philosophie-bac/dissertations.html) et explications de texte [&#8618;](https://eyssette.github.io/sujets-philosophie-bac/explications.html)
 	* Rechercher un sujet de dissertation dans une base de données générale (tous niveaux confondus) [&#8618;](https://eyssette.github.io/sujets-philosophie/)
 2) Faire une dissertation ou une explication avec un dossier d'approfondissement
-	* Partager des dossiers avec l'ENT ou en les publiant en ligne [&#8618;]() [&#8618;]()
-	* Collaborer avec des collègues pour faire un dossier [&#8618;]()
+	* Partager des dossiers avec l'ENT ou en les publiant en ligne
+	* Collaborer avec des collègues pour faire un dossier [&#8618;](https://www.facebook.com/groups/enseignerlaphilosophie/permalink/1273527589334606/?__cft__[0]=AZUzrLPV-5pyDXkTepeD4kn6OOhoEXlshkp2fMN8i57lFSHm-QZUMAf5EqRc3WDQF_XuKBJbXoGw8F5rVwgh7vZhChEXsFC19syo0OorSbmiLxUs1VF4KIYiaTrq4msiZiSaL2_axbW5E24gzNsQOntH&__tn__=%2CO%2CP-R)
 3) Calculer le temps nécessaire pour une évaluation
-	* Utiliser un compteur de mots [&#8618;]()
+	* Utiliser un outil qui compte les mots et le temps pour écrire ou lire un texte d'un certaine nombre de mots [&#8618;]()
 
 ---
 <!-- _class: fm -->
