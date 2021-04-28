@@ -9,7 +9,7 @@ size: 4:3
 
 # Comment peut-on parvenir à davantage de justice sociale ?
 Cédric Eyssette
-http://eyssette.net/
+http://eyssette.github.io
 
 
 ---

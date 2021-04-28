@@ -6,6 +6,9 @@ size: 4:3
 ---
 
 <!-- _class: titre -->
+<style>
+section:not(.titre) a span {filter: sepia(1) saturate(70) hue-rotate(180deg); font-size:0.6em; vertical-align:top;}
+</style>
 
 # Le langage est&#8209;il un simple moyen de communication ?
 Cédric Eyssette
@@ -81,19 +84,23 @@ p:nth-of-type(2) img {width:495px!important; object-position:-20px; margin-left:
 ---
 <!-- _class: i1t1 pp horizontal f -->
 <style scoped>
-img {margin-left:-10px!important;}
+img:not(.emoji) {margin-left:-10px!important;}
 p:nth-of-type(2) {margin-top:-600px;}
 ol {padding-left:40px!important; margin-top:30px!important;}
 ol li {margin-top:20px!important;}
+li:nth-of-type(1) span {position:absolute; width:20px; height:20px; top:-70px;}
+li:nth-of-type(2) span {position:absolute; width:20px; height:20px; top:75px;}
+li:nth-of-type(3) span {position:absolute; width:20px; height:20px; top:260px;}
+span img {position:relative; object-fit:contain!important; padding-left:10px;}
 </style>
 
 ![](https://upload.wikimedia.org/wikipedia/commons/e/ed/Geothlypis_trichas.jpg)
 
 **Pour approfondir :**
 
-1. _Sur les épaules de Darwin_, “Chant et dialogues” [↪](https://www.franceinter.fr/emissions/sur-les-epaules-de-darwin/sur-les-epaules-de-darwin-11-fevrier-2017)
-2. Michel Kreutzer, _Un demi-siècle de chants d'oiseaux_ [↪](https://lecd.parisnanterre.fr/publications/un-demi-siecle-de-chants-d-oiseaux-635167.kjsp?RH=1390771091148)
-3. Martine Hausberger, “L'apprentissage du chant chez l'oiseau : l'importance des influences sociales” [↪](https://www.college-de-france.fr/site/colloque-2008/symposium-2008-10-17-09h00.htm)
+1. _Sur les épaules de Darwin_, “Chant et dialogues” [<span>:link:</span>](https://www.franceinter.fr/emissions/sur-les-epaules-de-darwin/zsur-les-epaules-de-darwin-11-fevrier-2017)
+2. Michel Kreutzer, _Un demi-siècle de chants d'oiseaux_ [<span>:link:</span>](https://lecd.parisnanterre.fr/publications/un-demi-siecle-de-chants-d-oiseaux-635167.kjsp?RH=1390771091148)
+3. Martine Hausberger, “L'apprentissage du chant chez l'oiseau : l'importance des influences sociales” [<span>:link:</span>](https://www.college-de-france.fr/site/colloque-2008/symposium-2008-10-17-09h00.htm)
 
 <!-- // Intérêt de cet exemple : 
 
@@ -318,7 +325,7 @@ img {width:860px}
 <!-- _class:  -->
 
 #### Une critique possible ?
-- N'y a-t-il pas des mots propres à certaines langues qui permettent mieux d'exprimer certaines idées, certains sentiments, et qui sont difficilement traduisibles dans notre langue ? [&#8618;](https://chroniquesdunouveaumonde.com/2018/01/22/les-mots-etrangers-intraduisibles-en-francais/)
+- N'y a-t-il pas des mots propres à certaines langues qui permettent mieux d'exprimer certaines idées, certains sentiments, et qui sont difficilement traduisibles dans notre langue ? [<span>:link:</span>](https://chroniquesdunouveaumonde.com/2018/01/22/les-mots-etrangers-intraduisibles-en-francais/)
 
 ---
 <!-- _class:  -->
@@ -357,7 +364,7 @@ table{border:1px grey solid!important; width:830px; padding:0;}
 On peut utiliser cette distinction pour analyser différents types de signes.
 <div class="puces">
 
-- Exemple : analyse de la gestuelle dans des clips vidéo de rap [&#8618;](https://colloquehh.hypotheses.org/296).
+- Exemple : analyse de la gestuelle dans des clips vidéo de rap [<span>:link:</span>](https://colloquehh.hypotheses.org/296).
 </div>
 
 - Examinons le cas du langage au sens strict : les mots sont-ils des indices, des icônes ou bien des symboles ?
@@ -544,14 +551,14 @@ ol {list-style-type:none;}
 ol li {margin-left:-50px;}
 ol li:nth-of-type(3) {margin-top:30px; border-top:1px solid grey; padding-top:30px;}
 </style>
-1) ❌ Ce n'est pas une thèse sur la nécessité du **langage**, en général, pour pouvoir penser <!-- // Travaux contemporains sur les aphasiques et sur la cognition animale -->
-2) ❌ Ce n'est pas une thèse sur l'effet de certaines **paroles** particulières (insultes, stéréotypes) sur notre esprit <!-- // cf. travaux sur la menace du stéréotype : même activité présentée comme un "dessin" ou comme des "maths" -->
-3) ✅ C'est l'idée que les caractéristiques particulières d'une **langue** (sa syntaxe, son lexique) ont un effet sur les manières de penser [&#8618;](![](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/evolution/determinisme-linguistique.svg))
+1) :x: Ce n'est pas une thèse sur la nécessité du **langage**, en général, pour pouvoir penser <!-- // Travaux contemporains sur les aphasiques et sur la cognition animale -->
+2) :x: Ce n'est pas une thèse sur l'effet de certaines **paroles** particulières (insultes, stéréotypes) sur notre esprit <!-- // cf. travaux sur la menace du stéréotype : même activité présentée comme un "dessin" ou comme des "maths" -->
+3) :white_check_mark: C'est l'idée que les caractéristiques particulières d'une **langue** (sa syntaxe, son lexique) ont un effet sur les manières de penser [<span>:link:</span>](![](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/evolution/determinisme-linguistique.svg))
 
 ---
 <!-- _class: fp -->
 
-Plusieurs points remettent en cause l'idée d'un **déterminisme linguistique fort** [&#8618;](https://blogterrain.hypotheses.org/12774) :
+Plusieurs points remettent en cause l'idée d'un **déterminisme linguistique fort** [<span>:link:</span>](https://blogterrain.hypotheses.org/12774) :
 1) Les similarités dans le fonctionnement cognitif des êtres humains et l'absence de frontières absolues entre les langues ;
 2) La possibilité d'avoir certaines pensées sans avoir les mots correspondants ;
 3) La difficulté de distinguer les effets de la langue elle-même et les effets de la culture environnante.
@@ -640,9 +647,9 @@ _À vous de faire un discours :  « Mesdames, messieurs …_
 ||||
 |--|--|--|
 |À l'heure de la mondialisation … |… notre mission est de savoir nous adapter aux transformations  de notre société … |… et je le dis en toute transparence : nous devons reconstruire le pacte républicain. »|
-|Les attentes des Français sont clairs|… les réformes nécessaires doivent être mises en œuvre …|… c'est pourquoi je m'engage à mettre en place un véritable plan d'action courageux et ambitieux. »|
+|Les attentes des Français sont claires|… les réformes nécessaires doivent être mises en œuvre …|… c'est pourquoi je m'engage à mettre en place un véritable plan d'action courageux et ambitieux. »|
 |Dans un pays moderne comme la France …|… l'État se doit d'agir en rupture avec les méthodes du passé …|… je souhaite ainsi repenser les conditions d'un dialogue social juste. »|
-|La démocratie, nous le savons, est en crise, …|… notre responsabilité est grande et nous devons faire face aux enjeux de la conjoncture actuelle …|… je crois que nous pouvons relever, ensemble ce défi. »|
+|La démocratie, nous le savons, est en crise, …|… notre responsabilité est grande et nous devons faire face aux enjeux de la conjoncture actuelle …|… je crois que nous pouvons relever ensemble ce défi. »|
 
 ---
 <!-- _class: fmmmmmm -->
@@ -661,8 +668,8 @@ table tH:nth-of-type(2) {padding-left:40px; padding-right:40px;}
 |« Un plan social »||
 |« Les collaborateurs »||
 |« Un drame familial »||
-|« Faire preuve de pédagogie » [&#8618;](https://www.youtube.com/watch?v=1kBy0NhalGw)||
-|« Le cinéaste franco-polonais est assigné en résidence en Suisse […] pour une affaire de moeurs qui remonte à plus de 30 ans » [&#8618;](https://www.liberation.fr/societe/2010/01/07/les-avocats-de-polanski-demandent-une-condamnation-par-contumace_603123)||
+|« Faire preuve de pédagogie » [<span>:link:</span>](https://www.youtube.com/watch?v=1kBy0NhalGw)||
+|« Le cinéaste franco-polonais est assigné en résidence en Suisse […] pour une affaire de moeurs qui remonte à plus de 30 ans » [<span>:link:</span>](https://www.liberation.fr/societe/2010/01/07/les-avocats-de-polanski-demandent-une-condamnation-par-contumace_603123)||
 
 
 
@@ -681,7 +688,7 @@ table tH:nth-of-type(2) {padding-left:40px; padding-right:40px;}
 |--|--|
 |« Les charges sociales »||
 |« La vidéoprotection »||
-|« Prendre les français en otage » [&#8618;](https://www.youtube.com/watch?v=E4kpR8NLFXQ)||
+|« Prendre les français en otage » [<span>:link:</span>](https://www.youtube.com/watch?v=E4kpR8NLFXQ)||
 |« Les réformes nécessaires »||
 |« Les émeutes urbaines » ||
 

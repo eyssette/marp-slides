@@ -9,7 +9,7 @@ size: 4:3
 
 # Comment peut-on savoir ce qui est bien et ce qui est mal ?
 Cédric Eyssette (2020-2021)
-http://eyssette.net
+http://eyssette.github.io
 
 <!-- Perspective principale : La morale ; Notions principales : le devoir, la conscience ; Perspectives ou notions secondaires : la culture, la politique, la connaissance, la liberté, la nature, la raison, la vérité -->
 

@@ -8,7 +8,7 @@ size: 4:3
 <!-- _class: titre -->
 # Introduction à<br> l'épistémologie <!-- fit -->
 Cédric Eyssette (2019-2020)
-http://eyssette.net
+http://eyssette.github.io
 
 
 ---

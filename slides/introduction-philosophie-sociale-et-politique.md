@@ -8,7 +8,7 @@ size: 4:3
 
 # <span style="font-size:120%">Introduction</span><br> à la philosophie<br> <span style="font-size:93%">politique et sociale</span> <!-- fit -->
 Cédric Eyssette (2019-2020)
-http://eyssette.net
+http://eyssette.github.io
 
 ---
 Je vous propose ici trois débats accompagnés chacun d'un dossier de textes pour approfondir votre réflexion :

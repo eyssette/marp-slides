@@ -9,7 +9,7 @@ size: 4:3
 
 # Explication d'un texte<br> de Schopenhauer sur<br> l'identité personnelle <!-- fit -->
 Cédric Eyssette
-http://eyssette.net
+http://eyssette.github.io
 
 ---
 <!-- _class: citationL fmmmmmm -->

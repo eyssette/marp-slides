@@ -11,7 +11,7 @@ h1{font-size:270%;}
 </style>
 # Le choix libre <br>est-il une<br> illusion ?
 Cédric Eyssette (2020-2021)
-http://eyssette.net
+http://eyssette.github.io
 <!-- Penser à donner les notions travaillées dans ce chapitre -->
 
 ---

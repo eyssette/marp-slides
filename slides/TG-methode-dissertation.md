@@ -10,7 +10,7 @@ size: 4:3
 
 # Méthode de la dissertation en série générale
 Cédric Eyssette (2020-2021)
-http://eyssette.net
+http://eyssette.github.io
 
 ---
 <!-- _class: souspartie -->

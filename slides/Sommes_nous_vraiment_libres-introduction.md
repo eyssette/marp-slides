@@ -9,7 +9,7 @@ size: 4:3
 
 # Sommes-nous<br/> vraiment libres ? <!-- fit -->
 Cédric Eyssette (2020-2021)
-http://eyssette.net
+http://eyssette.github.io
 
 ---
 <!-- _class: pp i1t0 -->
