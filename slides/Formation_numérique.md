@@ -5,7 +5,7 @@ paginate: true
 size: 4:3
 ---
 <style>
-section:not(.titre) a {filter: sepia(1) saturate(70) hue-rotate(180deg); font-size:0.6em; vertical-align:text-top;}
+section:not(.titre) a {filter: sepia(1) saturate(70) hue-rotate(180deg); font-size:0.6em; vertical-align:top;}
 </style>
 
 <!-- _class: titre -->
