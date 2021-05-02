@@ -161,5 +161,16 @@ ol li:nth-of-type(3) {margin-top:30px; border-top:1px solid grey; padding-top:30
 
 
 ---
-<!-- _class:  -->
 
+:facepalm:
+
+:man_shrugging:
+:frowning_man:
+
+---
+
+:dog2: Réplique
+
+:cat: Réplique
+
+:dog2: Réplique
