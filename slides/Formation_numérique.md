@@ -295,8 +295,10 @@ ol {margin-left:70px;}
 2. Usages avancés
 
 ---
-<!-- _class: fm -->
-
+<!-- _class: fmmm -->
+<style scoped>
+ol ul {margin-left:-40px;}
+</style>
 1) Usages ordinaires
 	* Utiliser un logiciel de dessin : [:link:](https://excalidraw.com/) [:link:](https://docs.google.com/drawings/u/0/create)
 	* Utiliser un logiciel simple pour faire une carte mentale [:link:](http://mindmaps.app/) [:link:](https://coggle.it/) [:link:](https://www.zenmindmap.com/) [:link:](https://gitmind.com/)
@@ -306,6 +308,7 @@ ol {margin-left:70px;}
 	* Utiliser un langage de programmation de graphiques : GraphViz [:link:](https://github.com/eyssette/graphviz-examples)
 	* Créer une frise chronologique [:link:](https://outilstice.com/2020/06/outils-creer-frises-chronologiques/) [:link:](https://dynalist.io/d/AVblXCS_wLyhYa5Vv09X0cFJ#z=lMqVNIBrVvEdqSVLcxavgyhY)
 	* Rendre son schéma interactif avec des éléments à cliquer pour découvrir différentes informations  [:link:](https://www.genial.ly/)
+	* Utiliser un logiciel plus complet mais plus complexe de dessin vectoriel [:link:](draw.io)
 
 ---
 <!-- _class: souspartie -->
@@ -475,11 +478,11 @@ ol ul {margin-left:-30px}
 
 
 ---
-<!-- _class: etape -->
-### f) Faire travailler les élèves sur des exercices
+<!-- _class: etape fppp -->
+### f) Faire travailler les élèves sur des exercices
 
-1) Faire ou faire des exercices en ligne (pour vérifier la compréhension, pour des révisions) [:link:](https://learningapps.org/) [:link:](https://www.quiziniere.com/) [:link:](https://h5p.org) [:link:](https://www.index-education.com/fr/tutoriels-video-pronote-1795-29-donner-un-qcm-a-faire-depuis-le-cahier-de-textes-espace-professeurs.php)
-2) Créer un parcours pédagogique en ligne complet avec des exercices auto-correctifs
+1) Faire ou faire des exercices en ligne (pour vérifier la compréhension, pour des révisions) : avec LearningApps [:link:](https://learningapps.org/), la QuiZinière [:link:](https://www.quiziniere.com/), sur l'ENT avec H5P [:link:](https://www.skolengo.com/fr/blog/exerciseur-skolengo), ou via Pronote [:link:](https://www.index-education.com/fr/tutoriels-video-pronote-1795-29-donner-un-qcm-a-faire-depuis-le-cahier-de-textes-espace-professeurs.php)
+2) Créer un parcours pédagogique en ligne complet avec des exercices auto-correctifs [:link:](https://sites.google.com/view/eyssette2021tg/s%C3%A9quence-3-%C3%A0-distance/chapitre-1-quest-ce-qui-fait-la-valeur-dune-%C5%93uvre-dart?authuser=0)
 
 ---
 <!-- _class: etape -->
@@ -508,13 +511,13 @@ ol ul {margin-left:-30px;}
 	* Rechercher un sujet dans la base de données des sujets du baccalauréat : dissertations [:link:](https://eyssette.github.io/sujets-philosophie-bac/dissertations.html) et explications de texte [:link:](https://eyssette.github.io/sujets-philosophie-bac/explications.html)
 	* Rechercher un sujet de dissertation dans une base de données générale (tous niveaux confondus) [:link:](https://eyssette.github.io/sujets-philosophie/)
 2) Faire une dissertation ou une explication avec un dossier d'approfondissement
-	* Partager des dossiers avec l'ENT ou en les publiant en ligne [:link:](https://www.dropbox.com/referrals/AADNRgRvYNK3-2FBnRd_mi-niwqSc6g-yUI?src=global9)
+	* Partager des dossiers avec l'ENT ou les publier en ligne [:link:](https://www.dropbox.com/referrals/AADNRgRvYNK3-2FBnRd_mi-niwqSc6g-yUI?src=global9)
 	* Collaborer avec des collègues pour faire un dossier [:link:](https://www.facebook.com/groups/enseignerlaphilosophie/permalink/1273527589334606/?__cft__[0]=AZUzrLPV-5pyDXkTepeD4kn6OOhoEXlshkp2fMN8i57lFSHm-QZUMAf5EqRc3WDQF_XuKBJbXoGw8F5rVwgh7vZhChEXsFC19syo0OorSbmiLxUs1VF4KIYiaTrq4msiZiSaL2_axbW5E24gzNsQOntH&__tn__=%2CO%2CP-R)
 3) Calculer le temps nécessaire pour une évaluation
-	* Utiliser un outil qui compte les mots et le temps pour écrire ou lire un texte d'un certaine nombre de mots [:link:]()
+	* Utiliser un outil qui compte les mots pour déterminer le temps de lecture d'un texte ou d'une consigne, ou le temps d'écriture pour un certain nombre de mots attendu [:link:](https://eyssette.github.io/combiendemots/)
 
 ---
-<!-- _class: fm -->
+<!-- _class: fmmmmm -->
 <style scoped>
 ol {margin-left:20px; margin-right:0px}
 ol ol {margin-left:-40px;}
@@ -522,13 +525,17 @@ ol ol ul {margin-left:-30px}
 </style>
 
 4) Annoter les copies
-	1) _Utiliser une grille d'évaluation_ [:link:](https://docs.google.com/document/d/1OSiT5a-OuBb322IzWnO25u4zjwjXaD7tJYJwVVdVrvY/edit?usp=sharing) [:link:](https://www.dropbox.com/s/x33q3xooeqde5ek/Rubrique%20simplifi%C3%A9e%20%E2%80%93%20Dissertation.pdf?dl=0) [:link:](https://www.dropbox.com/s/7lhzq7d7vy47ssa/Grille%20d%27%C3%A9valuation%20crit%C3%A9ri%C3%A9e%20%28%27rubric%27%29%20pour%20la%20dissertation%20en%20philosophie.pdf?dl=0)
+	1) _Utiliser des grilles_
+		* Utiliser une grille d'évaluation [:link:](https://docs.google.com/document/d/1OSiT5a-OuBb322IzWnO25u4zjwjXaD7tJYJwVVdVrvY/edit?usp=sharing) [:link:](https://www.dropbox.com/s/x33q3xooeqde5ek/Rubrique%20simplifi%C3%A9e%20%E2%80%93%20Dissertation.pdf?dl=0) [:link:](https://www.dropbox.com/s/7lhzq7d7vy47ssa/Grille%20d%27%C3%A9valuation%20crit%C3%A9ri%C3%A9e%20%28%27rubric%27%29%20pour%20la%20dissertation%20en%20philosophie.pdf?dl=0)
+		* Utiliser une grille pour repérer les problèmes récurrents ou des pistes pertinentes dans un tas de copies [:link:](https://www.dropbox.com/s/god8upxil8csbfw/commentaires-generaux-devoir.png?dl=0)
 	2) _Annoter numériquement des copies physiques_
-		* Utiliser un modèle de document pour ses corrections [:link:](), insérer des annotations prédéfinies [:link:]() [:link:]()
-		* Faire des annotations vocales [:link:]()
+		* Utiliser un modèle de document pour ses corrections [:link:](https://docs.google.com/document/d/1Uf45WkVyRVUsNqL2UD6sNlI2n--xUriarYA8MEOfWbg/edit?usp=sharing)
+		* Insérer des annotations prédéfinies [:link:](https://github.com/eyssette/ressources-generales-enseignement-philosophie/blob/master/liste-appreciations-courantes.md), dans un navigateur [:link:](https://chrome.google.com/webstore/detail/magical-%E2%80%93-text-expansion/iibninhmiggehlcdolcilmhacighjamp?hl=fr) [:link:](https://blaze.today/) [:link:](https://addons.mozilla.org/en-US/firefox/addon/auto-text-expander/?), avec LibreOffice [:link:](https://help.libreoffice.org/latest/fr/text/swriter/guide/autotext.html), avec Word [:link:](https://support.microsoft.com/fr-fr/office/cr%C3%A9er-des-extraits-de-texte-r%C3%A9utilisables-0bc40cab-f49c-4e06-bcb2-cd43c1674d1b) <!-- ? fonction autotext text Snippets -->
+		* Utiliser un formulaire pour corriger [:link:](https://profjourde.wordpress.com/2016/06/21/corriger-des-copies-avec-un-formulaire/)
+		* Faire des annotations vocales [:link:](https://profjourde.wordpress.com/2012/07/27/annotations-vocales-de-copies-deleves/)
 	3) _Annoter numériquement des copies numériques_
 		* Utiliser la fonction “commentaire” dans un traitement de texte 
-		* Utiliser les fonctions d’annotation d’un fichier PDF [:link:]()
+		* Utiliser les fonctions d’annotation d’un fichier PDF [:link:](https://pdf4teachers.org/) <!-- // https://github.com/ClementGre/PDF4Teachers -->
 		* Utiliser un outil dédié pour corriger des copies [:link:](https://eyssette.github.io/mark-down-papers/)
 
 ---
@@ -547,11 +554,10 @@ ol ol ul {margin-left:-30px}
 7) Rendre les copies
 	* Utiliser l'ENT pour rendre les copies [:link:](https://dane.ac-reims.fr/index.php/usages-pedagogiques-ent/item/266-MBN-travail-a-faire)
 8) Évaluer avec des QCM
-	* Faire des QCM en philosophie ? [:link:]() [:link:]()
-	* Utiliser un système de correction automatique de QCM [:link:]()
-	* Faire des QCM avec Pronote [:link:]() ou avec l'ENT [:link:]()
-	* Utiliser un logiciel de QCM [:link:]()
-	* Intégrer des QCM dans le cours pour tester la compréhension du cours : en les intégrant dans un diaporama, avec réponses par téléphone [:link:]() ou par papier codé [:link:]()
+	* Faire des QCM en philosophie ? [:link:](https://web.archive.org/web/20200616164828/http://acireph.org:80/spip.php?article194) [:link:](https://www.facebook.com/groups/197192470301462/search/?q=qcm) [:link:](https://docs.google.com/document/d/1DCwbLprCLyC4V_e9_Uk7BXcRhQvv4VV91up8mzOx_Sw/edit?usp=sharing)
+	* Utiliser un système de correction automatique de QCM [:link:](https://www.quizscan.org/fr/#/) [:link:](https://www.ticeman.fr/lecoutelas/?p=4718) [:link:](https://play.google.com/store/apps/details?id=com.ekodroid.omrevaluator&hl=en_US&gl=US)
+	* Faire des QCM avec Pronote [:link:](https://www.index-education.com/fr/tutoriels-video-pronote-1795-29-donner-un-qcm-a-faire-depuis-le-cahier-de-textes-espace-professeurs.php) ou avec l'ENT [:link:](https://www.skolengo.com/fr/blog/exerciseur-skolengo), ou avec Google Forms [:link:](https://support.google.com/docs/answer/7032287?hl=fr)
+	* Intégrer des QCM dans le cours pour tester la compréhension du cours : en les intégrant dans un diaporama, avec réponses à l'oral, via des posts-it repositionnables [:link:](https://bidouillesetmathscollege.blogspot.com/2016/10/qcm-en-classe.html), par téléphone [:link:](https://digistorm.app/) ou papier codé [:link:](https://pi.ac3j.fr/plickers-au-college/) [:link:](https://qcmcam.net/)
 
 
 
@@ -565,9 +571,9 @@ h1{font-size:190%; padding-left:0px; padding-right:0px}
 ---
 <!-- _class:  -->
 La liste de Céline Tarrade et Fabrice Gallet [:link:](https://www.genial.ly/View/Index/59f270324fb71a0bfca22650#page-1)
-Liste de François Jourde [+](https://www.mindmeister.com/fr/8940345/outils-usuels)
-Liste de l'académie de Versailles [+](https://www.mindmeister.com/fr/557369575/outils-num-riques-pour-projets-d-l-ves-http-acver-fr-outilsnum)
-Liste du Moodle Lab [+](https://www.mindmeister.com/fr/78905114/enrichir-mon-cours-avec-les-outils-du-web)
-Liste du portail Skoden [+](https://outils-20-en-francais.zeef.com/fr/portail.skoden)
+Liste de François Jourde [:link:](https://www.mindmeister.com/fr/8940345/outils-usuels)
+Liste de l'académie de Versailles [:link:](https://www.mindmeister.com/fr/557369575/outils-num-riques-pour-projets-d-l-ves-http-acver-fr-outilsnum)
+Liste du Moodle Lab [:link:](https://www.mindmeister.com/fr/78905114/enrichir-mon-cours-avec-les-outils-du-web)
+Liste du portail Skoden [:link:](https://outils-20-en-francais.zeef.com/fr/portail.skoden)
 
 N’hésitez pas à contacter l’IAN (Interlocuteur Académique pour le Numérique) en philosophie dans votre académie !
