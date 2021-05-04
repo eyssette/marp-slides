@@ -278,6 +278,7 @@ script.parentNode.removeChild(script);</script>
 3) Usages avancés
 	* Faire de la vidéoprojection sans fil
 	* Utiliser les fonctions interactives du vidéoprojecteur
+	* Utiliser un outil de “tableau blanc” numérique [:link:](https://www.ralentirtravaux.com/le_blog/decouvrez-la-puissance-des-applications-de-tableau-blanc-pour-faire-vos-cours-en-presentiel-en-distanciel-ou-en-hybride/) [:link:](https://ladigitale.dev/digiscreen/)
 	* Utiliser un logiciel de diaporama moins ordinaire : Prezi [:link:](https://prezi.com/view/xgeLGy31TnFlmQ7YuyuD/), Slides [:link:](https://slides.com/)
 	* Écrire son diaporama en Markdown [:link:](https://eyssette.github.io/marp-slides/)
 	* Faire une capsule vidéo à partir d'un diaporama [:link:](https://tube.ac-lyon.fr/videos/watch/a22c8512-2604-4ea9-8e19-d39d53109b6e)
@@ -543,7 +544,7 @@ ol ol ul {margin-left:-30px}
 
 5) Vérifier si l'élève a fait un plagiat
 	* Utiliser un moteur de recherche ordinaire et quelques astuces
-	* Utiliser un logiciel anti-plagiat
+	* Utiliser un logiciel anti-plagiat [:link:](https://www.ralentirtravaux.com/le_blog/comment-evaluer-en-ligne/)
 6) Noter les copies
 	* Utiliser Pronote pour différer la diffusion des notes et focaliser les élèves sur les annotations lorsque l’on rend les copies [:link:](https://www.index-education.com/fr/tutoriels-video-pronote-1725-49-choisir-la-date-de-publication-d-une-note-espace-professeurs.php)
 	* Transférer ses notes rapidement d'un tableur vers Pronote [:link:](https://www.index-education.com/fr/tutoriels-video-pronote-668-49-recuperer-les-notes-depuis-un-tableur-mode-enseignant.php)
