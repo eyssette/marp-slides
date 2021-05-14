@@ -451,7 +451,7 @@ h1 em {color: hsl(10, 85%, 21%);}
 span{font-size:80%; display:block; line-height:1.3em; padding-top:15px; padding-bottom:30px;}
 span em {color:black;}
 </style>
-# II – Le langage n'est pas<br> un simple _moyen_ de<br> communication :<br><span>Le langage peut être un _obstacle_<br> à la communication, et les _enjeux<br> sociaux, politiques et culturels_ du <brlangage> montrent qu'il n'est pas un simple instrument au service d'un individu</span>
+# II – Le langage n'est pas<br> un simple _moyen_ de<br> communication :<br><span>Le langage peut être un _obstacle_ à la<br> communication, et les _enjeux sociaux,<br> politiques et culturels_ du langage<br> montrent qu'il n'est pas un simple instrument au service d'un individu</span>
 Deuxième partie
 
 ---
@@ -466,6 +466,9 @@ Deuxième partie
  1) Le problème peut se situer au niveau de la **réception** : comme le langage repose sur un **code** et sur un acte d'**interprétation**, La personne qui reçoit l'information n'a peut-être **pas le même code** que le locuteur, ou elle peut **mal interpréter** l'intention du locuteur ; 
  2) Le problème peut se situer au niveau de la **production** : les mots semblent parfois insuffisants et ils ne permettent pas de dire tout ce que nous aimerions pouvoir dire.
 
+<!-- // diversité des langues (Tour de Babel / malgré les tentatives : anglais, latin, esperanto ; apprentissage d'une langue étrangère ; sourd : langue des signes)
+// diversité des usages selon le groupe social : différentes régions, classes sociales, générations, métiers -->
+
 ---
 <!-- _class: citationC fm-->
 
@@ -478,6 +481,11 @@ Deuxième partie
 // abstrait / concret 
 // général / singulier
 // simplification / complexité, richesse, finesse, nuances  -->
+
+<!-- // Faire schéma Bergson :  Le langage d'après Bergson
+//  Un ensemble d'étiquettes
+//        générales : valent pour plusieurs choses, situations, personnes => suppriment la singularité du réel
+//        abstraites : ne retiennent du réel qu'un aspect => suppriment les nuances et la richesse du réel -->
 
 ---
 <!-- _class: souspartie fppppp -->
@@ -525,7 +533,7 @@ h1 em {color: hsl(10, 85%, 21%);}
 span{font-size:80%; display:block; line-height:1.3em; padding-top:15px; padding-bottom:30px;}
 span em {color:black;}
 </style>
-# III – Le langage n'est pas<br> un simple _moyen_ de<br> communication :<br><span>Le langage ne fait pas qu'exprimer<br> des pensées intérieures déjà<br> constituées, il joue un rôle dans la<br> _formation même de nos pensées_</span>
+# III – Le langage n'est pas<br> un simple moyen de<br> _communication_ :<br><span>Le langage ne fait pas qu'exprimer<br> des pensées intérieures déjà<br> constituées, il joue un rôle dans la<br> _formation même de nos pensées_</span>
 Troisième partie
 
 
