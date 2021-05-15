@@ -131,7 +131,7 @@ img{height:700px!important;}
 </style>
 
 <img src="https://i.ibb.co/dtcR222/vervets2.jpg" usemap="#vervets">
-<map name="vervets"><area shape="rect" alt="" title="" coords="657,0,1000,200" href="https://www.youtube.com/watch?v=QRpYs-7ktoM" target="_blank" /><area shape="rect" alt="" title="" coords="657,450,1000,700" href="https://www.youtube.com/watch?v=slGvI2y_W2c" target="_blank" /></map>
+<map name="vervets"><area shape="rect" alt="" title="" coords="657,0,1000,200" href="https://ladigitale.dev/digiplay/#/v/609fd95d63161" target="_blank" /><area shape="rect" alt="" title="" coords="657,450,1000,700" href="https://www.youtube.com/watch?v=slGvI2y_W2c" target="_blank" /></map>
 
 
 <!-- // Struhsaker, T. T. 1967a. Auditory communication among vervet monkeys (Cercopithecus aethiops)
@@ -142,7 +142,7 @@ img{height:700px!important;}
 ---
 <!-- _class: i1t0 pp -->
 
-[![](https://upload.wikimedia.org/wikipedia/commons/3/3b/Bonobos_Panbanisha_%26_Kanzi_with_Sue_Savage-Rumbaugh%2C_2006.jpg)](https://www.youtube.com/watch?v=-CcVFjRPLLo)
+[![](https://upload.wikimedia.org/wikipedia/commons/3/3b/Bonobos_Panbanisha_%26_Kanzi_with_Sue_Savage-Rumbaugh%2C_2006.jpg)](https://ladigitale.dev/digiplay/#/v/609fd973b3927)
 
 <!-- // https://thehumanevolutionblog.com/2015/07/28/koko-washoe-and-kanzi-three-apes-with-human-vocabulary/
 // https://slate.com/technology/2014/08/koko-kanzi-and-ape-language-research-criticism-of-working-conditions-and-animal-care.html
@@ -151,7 +151,7 @@ img{height:700px!important;}
 ---
 <!-- _class: i1t0 pp -->
 
-[![](https://i.ibb.co/p0ssYh2/alex-the-parrot.jpg)](https://www.youtube.com/watch?v=QbBdI9Qk7Hw)
+[![](https://i.ibb.co/p0ssYh2/alex-the-parrot.jpg)](https://ladigitale.dev/digiplay/#/v/609fd997349c7)
 
 <!-- // https://docs.google.com/document/d/112nV1RVZFNQ6TuO-JRgI9LCED0B6eU8AZsEDMbH_klQ/edit -->
 
@@ -230,9 +230,13 @@ Première partie
 p{margin-top:10px!important;}
 img {width:780px;}
 </style>
+
 #### a) Les phonèmes
 
+<div data-marpit-fragment>
+
 ![Représentation schématique des zones articulatoires par Georges Straka](https://i.ibb.co/2dRs34s/imag-Straka-zones.jpg)
+</div>
 
 ---
 <!-- _class: i1t0 pp -->
@@ -349,11 +353,14 @@ table{border:1px grey solid!important; width:830px; padding:0;}
 </style>
 #### a) La distinction : indices, icônes, symboles
 
+<div data-marpit-fragment>
+
 |Indices|Icônes|Symboles|
 |:-:|:-:|:-:|
 |![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/D1206_manche_%C3%A0_air_J7.jpg/1600px-D1206_manche_%C3%A0_air_J7.jpg)|![](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/France_road_sign_A13b.svg/2560px-France_road_sign_A13b.svg.png)|![](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/France_road_sign_AB6.svg/2560px-France_road_sign_AB6.svg.png)|
 |Lien dans le réel lui&#8209;même : lien causal, succession temporelle, contiguïté spatiale|Lien de similarité, de ressemblance|Lien conventionnel : “l'arbitraire du signe”|
 
+</div>
 
 ---
 <!-- _class: fppppp -->
@@ -367,8 +374,11 @@ On peut utiliser cette distinction pour analyser différents types de signes.
 - Exemple : analyse de la gestuelle dans des clips vidéo de rap [<span>:link:</span>](https://colloquehh.hypotheses.org/296).
 </div>
 
+<div data-marpit-fragment>
+
 - Examinons le cas du langage au sens strict : les mots sont-ils des indices, des icônes ou bien des symboles ?
 
+</div>
 
 ---
 <!-- _class:  -->
@@ -394,11 +404,15 @@ img {width:750px;}
 <!-- _class: f -->
 La communication par le biais de signes linguistiques suppose elle aussi de nombreuses **inférences** : il ne suffit pas de connaître le sens des mots pour pouvoir **comprendre l'implicite** et **décrypter l'intention du locuteur**.
 
+<div data-marpit-fragment>
+
 Quelques exemples : 
 1. « Peux-tu me passer le sel ? »
 2. « Tu peux changer de disque ! »
 3. « J'ai un stylo. »
 4. « Monsieur Zieuvifs regardait tous ses élèves avec admiration et émotion. Ils étaient tous en tenue, avec leurs ceintures noires, marron ou orange et l’applaudissaient chaleureusement.  »
+
+</div>
 
 ---
 <!-- _class:  souspartie -->
@@ -412,7 +426,7 @@ Quelques exemples :
 ---
 <!-- _class: i1t0 pp -->
 
-[![](https://upload.wikimedia.org/wikipedia/commons/4/4b/Bee_waggle_dance.png)](https://www.youtube.com/watch?v=LOZrNs22FAU)
+[![](https://upload.wikimedia.org/wikipedia/commons/4/4b/Bee_waggle_dance.png)](https://ladigitale.dev/digiplay/#/v/609fd9b0492ad)
 
 <!-- 
 // https://www.futura-sciences.com/planete/dossiers/zoologie-animaux-ont-ils-culture-1525/page/6/
@@ -458,13 +472,13 @@ Deuxième partie
 <!-- _class: souspartie -->
 ## A. Le langage comme obstacle
 
- ---
- <!-- _class: f -->
+---
+<!-- _class: f -->
  
- Il y a **deux raisons** liées au langage pour lesquelles deux personnes peuvent ne pas parvenir à communiquer :
+Il y a **deux raisons** liées au langage pour lesquelles deux personnes peuvent ne pas parvenir à communiquer :
  
- 1) Le problème peut se situer au niveau de la **réception** : comme le langage repose sur un **code** et sur un acte d'**interprétation**, La personne qui reçoit l'information n'a peut-être **pas le même code** que le locuteur, ou elle peut **mal interpréter** l'intention du locuteur ; 
- 2) Le problème peut se situer au niveau de la **production** : les mots semblent parfois insuffisants et ils ne permettent pas de dire tout ce que nous aimerions pouvoir dire.
+1) Le problème peut se situer au niveau de la **réception** : comme le langage repose sur un **code** et sur un acte d'**interprétation**, La personne qui reçoit l'information n'a peut-être **pas le même code** que le locuteur, ou elle peut **mal interpréter** l'intention du locuteur ; 
+2) Le problème peut se situer au niveau de la **production** : les mots semblent parfois insuffisants et ils ne permettent pas de dire tout ce que nous aimerions pouvoir dire.
 
 <!-- // diversité des langues (Tour de Babel / malgré les tentatives : anglais, latin, esperanto ; apprentissage d'une langue étrangère ; sourd : langue des signes)
 // diversité des usages selon le groupe social : différentes régions, classes sociales, générations, métiers -->
@@ -622,7 +636,7 @@ p:nth-of-type(1) img {object-position:-40px}
 
 [![](https://i.ibb.co/YpQ3ttG/1984-Orwell-t.jpg)](https://www.youtube.com/watch?v=EvUZ5eToi10)
 
-[![](https://i.pinimg.com/564x/5a/47/fa/5a47fa74745752df57b275e2924d25d9.jpg)](https://youtu.be/EvUZ5eToi10?t=396)
+[![](https://i.pinimg.com/564x/5a/47/fa/5a47fa74745752df57b275e2924d25d9.jpg)](https://ladigitale.dev/digiplay/#/v/609fdddbe9f9c)
 
 <!-- // 1er extrait : distinguer possibilité légale/morale (question de la liberté d'expression et de la censure) et capacité réelle (niveau propre à la novlangue).
 
