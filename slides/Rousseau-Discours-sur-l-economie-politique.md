@@ -48,7 +48,7 @@ p:nth-of-type(2) img {margin-left:-10px!important;}
 ---
 <!-- _class: citationM2 fppppp -->
 
-![](http://www.vrin.fr/bookpict/9782711615414.jpg)
+![](https://i.ibb.co/4dZZPSX/Rousseau-DEP.jpg)
 
 >« [I]l faut le considérer non comme un texte de transition mais comme un texte de fondation, non comme un texte marginal mais comme un texte central. Cela doit conduire à en faire non une simple pièce annexe dans un dossier, mais un objet d'étude valant pour lui-même et de première importance. »
 >>Bruno **Bernardi**, “Introduction” _in_ Rousseau, _Discours sur l'économie politique_, Vrin, 2002, p.15
@@ -159,11 +159,6 @@ Texte 6 | Le gouvernement dans une société civile doit se préoccuper d'instit
 ## B. Plan des textes choisis
 - Relire les [textes choisis](https://docs.google.com/document/d/1jfDTKN7XHb_0FSEWo3Q_OvVWYAa5g0qNNAZnuosaGM8/edit?usp=sharing)
 - Retrouvez le plan de chaque texte avec un [exercice en ligne](https://learningapps.org/display?v=peus9vgzc21)
-
----
-<!-- _class:  -->
-
-
 
 
 ---
