@@ -465,7 +465,7 @@ ol ul li {margin-left:-40px}
 
 
 ---
-<!-- _class: fppppp -->
+<!-- _class: fppp -->
 <style scoped>
 ol ul {margin-left:-30px}
 </style>
@@ -476,6 +476,7 @@ ol ul {margin-left:-30px}
 2) Créer un site
 	* Utiliser l'ENT
 	* Utiliser un outil simple de création de sites [:link:](https://sites.google.com/) [:link:](https://wordpress.com/fr/)
+	* Créer une fausse page facebook, ou un site qui simule un échange sur twitter ou par sms, pour représenter une discussion entre différents points de vue philosophiques [:link:](https://larryferlazzo.edublogs.org/2011/01/30/the-best-tools-for-creating-fake-stuff-for-learning/)
 
 
 ---
