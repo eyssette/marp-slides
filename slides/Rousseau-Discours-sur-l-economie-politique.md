@@ -174,6 +174,81 @@ II – Lecture fine
 <!-- // Rappel de la méthode : CAP : citation, analyse / problèmes  -->
 
 ---
+<!-- _class: souspartie -->
+## A. Le pilier politique
+= textes 1, 2, 3
+
+---
+
+Trois idées importantes pour comprendre ces trois textes : 
+
+1) Le contrat
+2) La non-domination
+3) La volonté générale
+
+---
+<!-- _class:  -->
+
+<!-- _class: etape -->
+### 1/ Un contrat au fondement du pouvoir
+
+
+---
+<!-- _class: fpppppp -->
+<style scoped>
+ol {list-style-type:none;}
+ol li {margin-left:-50px;}
+ol li:nth-of-type(3) {margin-top:30px; border-top:1px solid grey; padding-top:30px;}
+</style>
+1) :x: Il n'y a pas de fondement naturel du pouvoir
+2) :x: Il n'y a pas de fondement théologique du pouvoir
+3) :white_check_mark: Le pouvoir est fondé sur un consentement
+
+<!-- // consentement explicite ou implicite ?
+// qui consent : les individus éparpillés ? Le peuple ?
+// sous conditions ? Distinguer Hobbes / Locke / Rousseau -->
+
+---
+<!-- _class: etape -->
+### 2/ la loi : une condition de la liberté comme non-domination
+
+---
+
+<div class="puces">
+
+* Le pouvoir de l'État peut être un moyen de domination, au service des intérêts particuliers d'un groupe d'individus
+* Pour Rousseau, le pouvoir de l'État peut et doit être un moyen de garantir la non-domination
+</div>
+
+
+---
+<!-- _class:  -->
+
+1) Le pouvoir doit être régulé par des lois
+2) Le pouvoir doit mettre en place des lois qui représentent la volonté générale
+
+
+---
+<!-- _class: etape -->
+### 3/ La volonté générale comme fondement de la loi
+
+La volonté générale n'est pas le résultat d'un vote collectif
+
+---
+<!-- _class: fpppppp -->
+<style scoped>
+ol {list-style-type:none;}
+ol li {margin-left:-50px;}
+ol li:nth-of-type(3) {margin-top:30px; border-top:1px solid grey; padding-top:30px;}
+</style>
+1) :x: Un vote collectif n'est pas réalisable à l'échelle de la société
+2) :x: Un vote collectif ne représente pas nécessairement la volonté générale
+3) :white_check_mark: La volonté générale est le résultat d'une réflexion sur le bien commun
+
+
+
+
+---
 <!-- _class: pp i1t0 -->
 
 [![](https://docs.google.com/drawings/d/e/2PACX-1vTpt7cZtUkwtpnfp277b2LDVL-fEgRU8ZFPGFZc8-UXwJUc5cgKeI9mP3T2PNB6DTyNz3glXF_VqhBA/pub?w=2268&amp;h=1587)](https://docs.google.com/drawings/d/1DDuXTG256JtQXYgIas1Bn49cae18-ka_pscfBKfU6n0/edit?usp=sharing)
@@ -189,9 +264,38 @@ II – Lecture fine
 [![](https://docs.google.com/drawings/d/e/2PACX-1vSHlkQd2cnLbLmYu35ghUdW0BCGeKTtKxS_lpnYPmcGI7FlfGPDRZbldpyGfAyHLoLTChQR-9SU_xpm/pub?w=2268&amp;h=1587)](https://docs.google.com/drawings/d/1KLUGuQOVzRQcw9GH9xrivNM4cWCv5Iaw7xT_v4TWyMM/edit?usp=sharing)
 
 ---
+<!-- _class: souspartie -->
+## B. Le pilier économique
+= texte 4
+
+
+---
+<!-- _class:  -->
+
+Trois idées intéressantes : 
+
+1) La justice sociale comme condition de la liberté
+2) Les approches _ex ante_ privilégiées aux approches _ex post_
+3) La justice sociale comme condition de la cohésion sociale
+
+
+---
 <!-- _class: pp i1t0 -->
 
 [![](https://docs.google.com/drawings/d/e/2PACX-1vRGtX1fTJfZ-ecIawnWrXwRZXW9bcwxM0KBWmVTbyfCrc8EvjBr4k7caX1EZVaoTVmvoe6eOWCBjmCE/pub?w=2268&amp;h=1587)](https://docs.google.com/drawings/d/1SjbTjlGxMeEdD5-kjVYfFNUIKHR1AjosSr_rDYeG2GU/edit?usp=sharing)
+
+---
+<!-- _class: souspartie -->
+## C. Le pilier social
+= textes 5 et 6
+
+---
+<!-- _class:  -->
+
+Deux idées intéressantes
+
+1) La cohésion sociale repose sur de l'affectif : un sentiment d'appartenance à un Tout
+2) Ce sentiment d'appartenance ne repose pas sur le partage d'une culture, d'un mode de vie, mais sur le partage d'un même engagement à penser en tant que citoyen d'une société commune
 
 ---
 <!-- _class: pp i1t0 -->
