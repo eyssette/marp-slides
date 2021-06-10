@@ -16,6 +16,14 @@ https://eyssette.github.io/
 
 
 ---
+<!-- _class: pp fpppppppp -->
+
+![bg left:50%](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Rousseau_-_Discours_sur_l%27oeconomie_politique%2C_1758_-_5884558.tif/lossy-page1-1280px-Rousseau_-_Discours_sur_l%27oeconomie_politique%2C_1758_-_5884558.tif.jpg)
+
+- L'œuvre suivie : [lien](https://drive.google.com/file/d/1-kypqRjjVSlkbzvphxB_RSbkCeo-yW8b/view)
+- Les textes choisis dans l'œuvre : [lien](https://docs.google.com/document/d/1jfDTKN7XHb_0FSEWo3Q_OvVWYAa5g0qNNAZnuosaGM8/edit#heading=h.g70zhebdrl89)
+
+---
 <!-- _class: pp  -->
 <style scoped>
 p {text-align:center; font-size:120%;}
@@ -220,6 +228,7 @@ ol li:nth-of-type(3) {margin-top:30px; border-top:1px solid grey; padding-top:30
 * Pour Rousseau, le pouvoir de l'État peut et doit être un moyen de garantir la non-domination
 </div>
 
+<!-- // Distinguer / marxisme, / anarchisme -->
 
 ---
 <!-- _class:  -->
@@ -227,12 +236,14 @@ ol li:nth-of-type(3) {margin-top:30px; border-top:1px solid grey; padding-top:30
 1) Le pouvoir doit être régulé par des lois
 2) Le pouvoir doit mettre en place des lois qui représentent la volonté générale
 
+<!-- // Contre le pouvoir absolu, limiter l'arbitraire du pouvoir => État de droit
+// Trois exemples : a) interdiction de la détention arbitraire, 2) hiérarchie des textes de loi, 3) séparation des pouvoirs -->
 
 ---
 <!-- _class: etape -->
 ### 3/ La volonté générale comme fondement de la loi
 
-La volonté générale n'est pas le résultat d'un vote collectif
+La volonté générale n'est pas le résultat d'une décision collective
 
 ---
 <!-- _class: fpppppp -->
@@ -241,11 +252,16 @@ ol {list-style-type:none;}
 ol li {margin-left:-50px;}
 ol li:nth-of-type(3) {margin-top:30px; border-top:1px solid grey; padding-top:30px;}
 </style>
-1) :x: Un vote collectif n'est pas réalisable à l'échelle de la société
-2) :x: Un vote collectif ne représente pas nécessairement la volonté générale
+1) :x: Une décision collective n'est pas réalisable à l'échelle de la société
+2) :x:Une décision collective ne représente pas nécessairement la volonté générale
 3) :white_check_mark: La volonté générale est le résultat d'une réflexion sur le bien commun
 
+<!--  // a) La volonté générale se distingue de la volonté de la majorité : question de la place des minorités ; possibilité : opprimer une minorité, négliger un point de vue minoritaire ; critère non pas quantitatif 
+// b) Une décision collective peut être le résultat d'influences en faveur d'un point de vue particulier
+// c) Comment peut-on déterminer un choix collectif à partir de décision individuelle ? Quelle est la bonne procédure ? (cf. le jugement à la mention majoritaire) -->
 
+<!-- // Faire abstraction des intérêts particuliers
+// Parallèle : voile d'ignorance (Rawls)  -->
 
 
 ---
@@ -275,7 +291,7 @@ ol li:nth-of-type(3) {margin-top:30px; border-top:1px solid grey; padding-top:30
 Trois idées intéressantes : 
 
 1) La justice sociale comme condition de la liberté
-2) Les approches _ex ante_ privilégiées aux approches _ex post_
+2) Pour lutter contre les inégalités : les approches _ex ante_ (à la source) privilégiées aux approches _ex post_ (après coup)
 3) La justice sociale comme condition de la cohésion sociale
 
 
