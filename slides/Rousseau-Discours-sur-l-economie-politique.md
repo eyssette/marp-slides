@@ -18,7 +18,7 @@ https://eyssette.github.io/
 ---
 <!-- _class: pp fpppppppp -->
 
-![bg left:50%](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Rousseau_-_Discours_sur_l%27oeconomie_politique%2C_1758_-_5884558.tif/lossy-page1-1280px-Rousseau_-_Discours_sur_l%27oeconomie_politique%2C_1758_-_5884558.tif.jpg)
+![bg left:50%](https://gallica.bnf.fr/ark:/12148/bpt6k9602309n/f5.highres)
 
 - L'œuvre suivie : [lien](https://drive.google.com/file/d/1-kypqRjjVSlkbzvphxB_RSbkCeo-yW8b/view)
 - Les textes choisis dans l'œuvre : [lien](https://docs.google.com/document/d/1jfDTKN7XHb_0FSEWo3Q_OvVWYAa5g0qNNAZnuosaGM8/edit#heading=h.g70zhebdrl89)
@@ -237,7 +237,7 @@ ol li:nth-of-type(3) {margin-top:30px; border-top:1px solid grey; padding-top:30
 2) Le pouvoir doit mettre en place des lois qui représentent la volonté générale
 
 <!-- // Contre le pouvoir absolu, limiter l'arbitraire du pouvoir => État de droit
-// Trois exemples : a) interdiction de la détention arbitraire, 2) hiérarchie des textes de loi, 3) séparation des pouvoirs -->
+// Trois exemples : a) interdiction de la détention arbitraire, 2) hiérarchie des textes de loi, 3) séparation des pouvoirs (mais attention au modèle de la souveraineté chez Rousseau) -->
 
 ---
 <!-- _class: etape -->
