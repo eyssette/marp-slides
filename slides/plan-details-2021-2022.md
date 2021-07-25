@@ -138,8 +138,12 @@ Perspectives et notions :<br> La politique, l'État, la justice, la liberté
 
 ---
 <!-- _class: souspartie -->
-## Chapitre 2 :<br> Quelle est la finalité de la politique ?
-Perspectives et notions :<br> La politique, l'État, la justice, la liberté
+<style scoped>
+h2 {font-size:70px; padding:40px}
+p {margin-top:-10px}
+</style>
+## Chapitre 2 :<br> Quelle est la finalité<br> de la politique ?
+Perspectives et notions :<br> La politique, l'État, la justice,<br>la liberté, la morale
 
 ---
 <!-- _class: i1t0 pp -->
@@ -155,7 +159,11 @@ Séquence 5
 
 ---
 <!-- _class: souspartie -->
-## Chapitre 1 :<br> 
+<style scoped>
+h2 {font-size:70px; padding:40px}
+p {margin-top:-10px}
+</style>
+## Chapitre 1 :<br> Comment peut-on parvenir à la vérité ?
 Perspectives et notions : <br>La connaissance, la science,<br> la raison, la vérité
 
 
@@ -166,8 +174,12 @@ Perspectives et notions : <br>La connaissance, la science,<br> la raison, la vé
 
 ---
 <!-- _class: souspartie -->
-## Chapitre 2 :<br> 
-Perspectives et notions :<br> La raison, la religion
+<style scoped>
+h2 {font-size:55px; padding:40px 60px}
+p {margin-top:-10px}
+</style>
+## Chapitre 2 :<br> Comment peut-on <br>comprendre la foi religieuse ?
+Perspectives et notions :<br> L'existence humaine, la connaissance, <br>la religion, la raison
 
 
 ---
