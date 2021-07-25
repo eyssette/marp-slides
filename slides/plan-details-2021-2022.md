@@ -6,8 +6,11 @@ size: 4:3
 ---
 
 <!-- _class: titre -->
-# Plan détaillé <br>de l'année<br> (2021-2022) <!-- fit -->
-Cédric Eyssette
+<style scoped>
+span {font-size:80%; line-height:80px!important}
+</style>
+# Plan de l'année<br><span>en série générale</span><!-- fit -->
+Cédric Eyssette (2021-2022)
 http://eyssette.github.io/
 
 ---
