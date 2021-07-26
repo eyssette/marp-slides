@@ -75,7 +75,7 @@ Le _Discours sur l'économie politique_ permet d'aborder trois grandes questions
 <style scoped>
 img {position:absolute; top:37px; left:45px; width:873px; height:530px}
 </style>
-![](https://c.pxhere.com/photos/fe/bf/eagle_eagle_flying_soar_bird_nature_bald_flight_wildlife-845593.jpg!d)
+![](https://i.ibb.co/GJg99fg/aigle.jpg)
 # I – Lecture globale
 
 I – Lecture globale
@@ -174,7 +174,8 @@ Texte 6 | Le gouvernement dans une société civile doit se préoccuper d'instit
 <style scoped>
 img {position:absolute; top:37px; left:45px; width:873px; height:530px}
 </style>
-![](https://c.pxhere.com/photos/5e/8d/mouse_rodent_cute_mammal_nager_nature_animal_wood_mouse-478455.jpg!d)
+![](https://i.ibb.co/HY9dvbf/souris.jpg)
+
 # II - Lecture fine
 
 II – Lecture fine
