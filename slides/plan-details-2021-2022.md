@@ -7,9 +7,10 @@ size: 4:3
 
 <!-- _class: titre -->
 <style scoped>
-h1 {font-size:95px!important}
+h1 {font-size:127px!important; padding:20px}
+span {font-size:93px!important; display:block; margin-top:-10px}
 </style>
-# Plan détaillé <br>du cours de philosophie en série générale
+# Plan détaillé<br> de l'année<br><span>(série générale)</span>
 Cédric Eyssette (2021-2022)
 http://eyssette.github.io/
 
