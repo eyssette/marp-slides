@@ -14,6 +14,13 @@ span {font-size:93px!important; display:block; margin-top:-10px}
 Cédric Eyssette (2021-2022)
 http://eyssette.github.io/
 
+
+---
+<!-- _class: i1t1 pp vertical -->
+## Aperçu général
+
+![](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/plans/plan-sequences.dot.svg)
+
 ---
 <!-- _class: partie -->
 # Éthique et philosophie morale
@@ -58,7 +65,7 @@ Séquence 2
 h2 {font-size:65px}
 p {margin-top:-10px}
 </style>
-## Chapitre 1 :<br> Le libre arbitre <br>est-il une illusion ?
+## Chapitre 3 :<br> Le libre arbitre <br>est-il une illusion ?
 Perspectives et notions :<br> l'existence humaine, la connaissance,<br> la liberté, l'inconscient
 
 ---
@@ -69,7 +76,7 @@ Perspectives et notions :<br> l'existence humaine, la connaissance,<br> la liber
 
 ---
 <!-- _class: souspartie -->
-## Chapitre 2:<br> Qui suis-je ?
+## Chapitre 4:<br> Qui suis-je ?
 Perspectives et notions :<br> l'existence humaine,<br> la connaissance, la conscience
 
 ---
@@ -87,7 +94,7 @@ Séquence 3
 h2 {font-size:60px}
 p {margin-top:-10px}
 </style>
-## Chapitre 1 :<br> Peut-on définir ce qui fait la<br> valeur d'une œuvre d'art ?
+## Chapitre 5 :<br> Peut-on définir ce qui fait la<br> valeur d'une œuvre d'art ?
 Perspectives et notions :<br> La culture, l'art
 
 ---
@@ -102,7 +109,7 @@ Perspectives et notions :<br> La culture, l'art
 h2 {font-size:70px; padding:30px}
 p {margin-top:-10px; font-size:90%}
 </style>
-## Chapitre 2 :<br> Faut-il avoir peur de la technique ?
+## Chapitre 6 :<br> Faut-il avoir peur de la technique ?
 Perspectives et notions :<br> La culture, l'existence humaine,<br>la technique, le travail, <br>la nature, la liberté
 
 ---
@@ -115,7 +122,7 @@ Perspectives et notions :<br> La culture, l'existence humaine,<br>la technique, 
 h2 {font-size:60px}
 p {margin-top:-10px}
 </style>
-## Chapitre 3 :<br> Le langage est-il un simple moyen de communication ?
+## Chapitre 7 :<br> Le langage est-il un simple moyen de communication ?
 Perspectives et notions :<br> La culture, l'existence humaine, <br>le langage, la conscience
 
 ---
@@ -134,7 +141,7 @@ h2 {font-size:55px;}
 p {margin-top:-10px}
 h2 span {display:block; margin-top:15px;}
 </style>
-## Chapitre 1 :<br> Étude d'une œuvre suivie<br><span>Rousseau, _Discours sur l'économie politique_, I-II</span>
+## Chapitre 8 :<br> Étude d'une œuvre suivie<br><span>Rousseau, _Discours sur l'économie politique_, I-II</span>
 Perspectives et notions :<br> La politique, l'État, la justice, la liberté
 
 ---
@@ -143,7 +150,7 @@ Perspectives et notions :<br> La politique, l'État, la justice, la liberté
 h2 {font-size:70px; padding:40px}
 p {margin-top:-10px}
 </style>
-## Chapitre 2 :<br> Quelle est la finalité<br> de la politique ?
+## Chapitre 9 :<br> Quelle est la finalité<br> de la politique ?
 Perspectives et notions :<br> La politique, l'État, la justice,<br>la liberté, la morale
 
 ---
@@ -164,7 +171,7 @@ Séquence 5
 h2 {font-size:70px; padding:40px}
 p {margin-top:-10px}
 </style>
-## Chapitre 1 :<br> Comment peut-on parvenir à la vérité ?
+## Chapitre 10 :<br> Comment peut-on parvenir à la vérité ?
 Perspectives et notions : <br>La connaissance, la science,<br> la raison, la vérité
 
 
@@ -179,7 +186,7 @@ Perspectives et notions : <br>La connaissance, la science,<br> la raison, la vé
 h2 {font-size:55px; padding:40px 60px}
 p {margin-top:-10px}
 </style>
-## Chapitre 2 :<br> Comment peut-on <br>comprendre la foi religieuse ?
+## Chapitre 11 :<br> Comment peut-on <br>comprendre la foi religieuse ?
 Perspectives et notions :<br> L'existence humaine, la connaissance, <br>la religion, la raison
 
 
