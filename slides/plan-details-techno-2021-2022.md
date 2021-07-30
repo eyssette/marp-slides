@@ -33,12 +33,12 @@ h2 {font-size:60px}
 p {margin-top:-10px}
 </style>
 ## Chapitre 1 :<br> Être libre, est-ce faire <br>tout ce qui nous plaît ?
-Perspectives et notions :<br> l'existence humaine, <br> la morale, la liberté, 
+Perspectives et notions :<br> l'existence humaine, la morale,<br> la liberté, la nature
 
 ---
 <!-- _class: i1t0 pp -->
 
-![]()
+![](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/plans/plan-cours-details-liberte-techno.dot.svg)
 
 ---
 <!-- _class: souspartie -->
