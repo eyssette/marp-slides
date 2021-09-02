@@ -69,7 +69,7 @@ p {margin-top:-10px; font-size:90%}
 Perspectives et notions :<br> La culture, l'existence humaine,<br>la technique, la nature, la liberté
 
 ---
-<!-- _class: i1t0 pp -->
+<!-- _class: i1t0 pp --> 
 ![](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/plans/plan-cours-details-technique.dot.svg)
 
 ---
