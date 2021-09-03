@@ -23,7 +23,7 @@ M. Eyssette
 2. Emplois du temps
 3. Informations diverses
 4. ENT, Pronote
-
+5. Problèmes éventuels et questions
 
 ---
 <!-- _class: partie -->
@@ -114,9 +114,9 @@ h1 {margin:0 60px}
 
 ---
 <!-- _class:  -->
-1) Carnets de correspondances
+1) Carnets de correspondance
 1) Campagne de bourse du lycée : <br>:warning: liste à émarger
-1) Notes aux <abbr title="Épreuves Anticipées de Français">EAF</abbr>
+1) Demande de l'équipe de Lettres : choix de sujet et notes aux <abbr title="Épreuves Anticipées de Français">EAF</abbr><br>:warning: petit papier à compléter
 1) Délégués, éco-Délégués, <abbr title="Conseil de la Vie Lycéenne">CVL</abbr>
 1) <abbr title="Association sportive">AS</abbr>, <abbr title="Maison des Lycéens">MDL</abbr> et autres clubs
 
@@ -128,9 +128,9 @@ h1 {margin:0 60px}
 ---
 <!-- _class:  -->
 
-1. Accès aux ordinateurs du lycée : identifiants
-2. Accès à l'ENT : identifiants
-3. Accès à Pronote
+1. Accès aux ordinateurs du lycée : identifiants à vérifier
+2. Accès à l'ENT : identifiants à vérifier
+3. Accès à Pronote : à vérifier
 4. Utilisations de l'ENT et de Pronote
 
 <!-- Faire une séance d'AP à part sur l'ENT et Pronote -->
@@ -156,9 +156,10 @@ h1 {margin:0 60px}
 
 1. L'orientation
 2. Les bonnes méthodes pour travailler et réviser
+3. Si besoin : utilisations de l'ENT et de Pronote
 
 ---
 <!-- _class: definition -->
 
 Reprise à 14h des cours.<br>
-Bonne journée et bonne année scolaire !
+Bonne reprise et bonne année scolaire !
