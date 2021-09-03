@@ -80,7 +80,7 @@ Pour retrouver ce site :
 <!-- _class:  -->
 ### Pour mieux vous connaître :
 
-- Merci de bien vouloir remplir la fiche de renseignement. 
+- Merci de bien vouloir remplir la [fiche de renseignement](https://docs.google.com/document/d/e/2PACX-1vRe8OjirX4tlDQ_eDANxkPErrQyVO0GHmwYjX18jDtiFtuFH-i5Gh2VINsGA58SXmBp4-jhEZ2xZ2pS/pub). 
 
 Vous avez parfaitement le droit de ne pas répondre à ces questions.
 
