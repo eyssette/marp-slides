@@ -1,3 +1,7 @@
+Voici mes diaporamas créés avec Marp.
+
+Auteur : [Cédric Eyssette](https://eyssette.github.io/)
+
 # Diaporamas (2021-2022)
 
 - [Programmation générale de l'année](https://eyssette.github.io/marp-slides/slides/plan-2021-2022.html)
