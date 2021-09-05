@@ -20,6 +20,12 @@ Un philosophe, c'est …
 La philosophie, c'est …
 
 ---
+<!-- _class: i1t0 pp -->
+
+![affiche du film : Pas son genre](https://fr.web.img6.acsta.net/pictures/14/03/12/15/46/479126.jpg)
+
+
+---
 <!-- _class: i1t1 vertical pp -->
 <style scoped>
 p:nth-of-type(2) {font-size:40px;}
@@ -30,10 +36,15 @@ p:nth-of-type(2) {font-size:40px;}
 Rembrandt, _Le philosophe en méditation_ (1632)
 
 ---
-<!-- _class: i1t0 pp pm -->
+<!-- _class: grille pp pm -->
+<style scoped>
+section *:nth-child(1) {font-size:inherit;grid-area: 2 / 2 / -2 / -2 }
+section *:nth-child(2) {font-size:inherit;grid-area: 10 / 35 / -12 / -1; }
+</style>
 
-![affiche du film : Pas son genre](https://fr.web.img6.acsta.net/pictures/14/03/12/15/46/479126.jpg)
+![Image de Thalès qui regarde le ciel et va tomber dans l'eau](images/thales.png)
 
+![Image de Socrate tel qu'il est représenté dans les Nuées d'Aristophane : dans une corbeille dans les airs](images/socrate-aristophane.png)
 
 
 ---
@@ -43,16 +54,7 @@ Rembrandt, _Le philosophe en méditation_ (1632)
 - C'est un premier matériau qu'on peut analyser, avec de l'esprit critique.
 
 
----
-<!-- _class: grille pp -->
-<style scoped>
-section *:nth-child(1) {font-size:inherit;grid-area: 2 / 2 / -2 / -2 }
-section *:nth-child(2) {font-size:inherit;grid-area: 10 / 35 / -12 / -1; }
-</style>
 
-![Image de Thalès qui regarde le ciel et va tomber dans l'eau](images/thales.png)
-
-![Image de Socrate tel qu'il est représenté dans les Nuées d'Aristophane : dans une corbeille dans les airs](images/socrate-aristophane.png)
 
 ---
 <!-- _class: i1t0  pm -->
@@ -97,7 +99,7 @@ ol li {margin-top:1px;}
 h3 {padding-bottom:20px;}
 ul {font-size:30px; margin-top:0;}
 </style>
-### 1/ Conceptualiser 
+### 1/ Analyser
 
 ![Photo pour représenter le fait de regarder ses propres lunettes](images/regarder-ses-lunettes.png)
 - Faire de la philosophie, c'est comme regarder ses propres lunettes : quel est le sens de cette comparaison ?
@@ -105,29 +107,29 @@ ul {font-size:30px; margin-top:0;}
 ---
 <!-- _class: definition -->
 ### Définition
-- **Conceptualiser**, c'est chercher à clarifier le sens d'une notion
-- Il s'agit de **définir** la notion en formulant précisément ce qu'elle est et ce qu'elle n'est pas
+- **Analyser**, c'est chercher à clarifier le sens d'une idée
+- Il s'agit de **définir** l'idée en formulant précisément ce qu'elle est et ce qu'elle n'est pas
 
 
 ---
 <!-- _class: i1t0 pp -->
 
-![Schéma sur la conceptualisation](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/conceptualiser2.svg)
+![Schéma sur la démarche "analyser"](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/conceptualiser2.svg)
 
 ---
 <!-- _class:  -->
 <style scoped>
 h3{text-align:center; padding-top:50px;}
-p{position:absolute; margin-left:430px; margin-top:70px; font-size:40px}
+p{position:absolute; margin-left:430px; margin-top:70px; font-size:50px; margin-right:60px}
 </style>
 
-### Code couleur pour la démarche « conceptualiser »
+### Code couleur pour la démarche « Analyser »
 <svg height="500" width="400">
   <circle cx="250" cy="220" r="150" fill="blue" />
 </svg>
 
-Conceptualiser, c'est chercher à clarifier le sens des idées qu'on utilise.
-D'où le bleu, qui évoque la clarté du ciel.
+Le bleu évoque la clarté du ciel.
+Or analyser, c'est clarifier ses idées.
 
 ---
 <!-- _class: fmmm pm -->
@@ -250,16 +252,16 @@ Mieux comprendre le personnage de Socrate :
 <!-- _class:  -->
 <style scoped>
 h3{text-align:center; padding-top:50px;}
-p{position:absolute; margin-left:410px; margin-top:70px; font-size:35px;}
+p{position:absolute; margin-left:410px; margin-top:70px; font-size:35px; font-size:45px; margin-right:60px}
 </style>
 
-### Code couleur pour la démarche « problématiser »
+### Code couleur pour la démarche « Problématiser »
 <svg height="500" width="400">
   <circle cx="230" cy="220" r="150" fill="#cf0707" />
 </svg>
 
-Problématiser, c'est dégager les tensions entre les différentes réponses possibles autour d'une question qui fait débat.
-D'où le rouge, qui évoque la vivacité de la discussion.
+Le rouge évoque la tension, le conflit.
+Or problématiser, c'est dégager les tensions entre différentes idées.
 
 ---
 <!-- _class: etape -->
@@ -291,16 +293,16 @@ En philosophie, on peut argumenter, mais on peut difficilement prétendre avoir 
 <!-- _class:  -->
 <style scoped>
 h3{text-align:center; padding-top:50px;}
-p{position:absolute; margin-left:410px; margin-top:70px; font-size:35px;}
+p{position:absolute; margin-left:410px; margin-top:70px; font-size:42px; margin-right:60px}
 </style>
 
-### Code couleur pour la démarche « argumenter »
+### Code couleur pour la démarche « Argumenter »
 <svg height="500" width="400">
   <circle cx="230" cy="220" r="150" fill="green" />
 </svg>
 
-Argumenter, c'est chercher à convaincre avec un raisonnement bien construit, fondé sur des idées solides.
-D'où le vert, qui évoque les feuilles brillantes d'un arbre bien structuré et bien ancré dans la terre.
+Le vert évoque le feu vert qui me donne le droit de passer.
+Or argumenter, c'est chercher les raisons qui me donnent le droit d'avancer une idée.
 
 
 ---
