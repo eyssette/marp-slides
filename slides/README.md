@@ -1,16 +1,15 @@
 # Diaporamas (2021-2022)
 
-https://eyssette.github.io/marp-slides/slides/plan-2021-2022.html
-
-https://eyssette.github.io/marp-slides/slides/plan-details-2021-2022.html
-
-https://eyssette.github.io/marp-slides/slides/plan-details-techno-2021-2022.html
-
-https://eyssette.github.io/marp-slides/slides/pp21-premier-jour.html
+- [Programmation générale de l'année](https://eyssette.github.io/marp-slides/slides/plan-2021-2022.html)
+- [Programmation détaillée de l'année (séries générales)](https://eyssette.github.io/marp-slides/slides/plan-details-2021-2022.html)
+- [Programmation détaillée de l'année (séries technologiques)](https://eyssette.github.io/marp-slides/slides/plan-details-techno-2021-2022.html)
+- [PP : le premier jour](https://eyssette.github.io/marp-slides/slides/pp21-premier-jour.html)
 
 # Diaporamas (2020-2021)
 
-## Cours de philosophie
+## Cours de philosophie (séries générales)
+
+- [Introduction à la philosophie](https://eyssette.github.io/marp-slides/slides/introduction-philosophie.html)
 
 ### Séquence 1 : Éthique et philosophie morale
 
@@ -25,73 +24,54 @@ https://eyssette.github.io/marp-slides/slides/pp21-premier-jour.html
 	- [Partie I](https://eyssette.github.io/marp-slides/slides/Comment_peut_on_savoir_ce_qui_est_bien_et_ce_qui_est_mal-partieI.html)
 	- [Partie II](https://eyssette.github.io/marp-slides/slides/Comment_peut_on_savoir_ce_qui_est_bien_et_ce_qui_est_mal-partieII.html)
 	- [Partie III](https://eyssette.github.io/marp-slides/slides/Comment_peut_on_savoir_ce_qui_est_bien_et_ce_qui_est_mal-partieIII.html)
-	- []()
 
 ### Séquence 2 : Philosophie de l'esprit
 
+- [Explication d'un texte de Schopenhauer](https://eyssette.github.io/marp-slides/slides/Explication_texte_Schopenhauer.html)
+
+- Sommes-nous vraiment libres ?
+	- [Introduction](https://eyssette.github.io/marp-slides/slides/Sommes_nous_vraiment_libres-introduction.html)
+	- [Partie I](https://eyssette.github.io/marp-slides/slides/Sommes_nous_vraiment_libres-partieI.html)
+	- [Partie II](https://eyssette.github.io/marp-slides/slides/Sommes_nous_vraiment_libres-partieII.html)
 
 ### Séquence 3 : Philosophie de la culture
 
+- [Introduction à la philosophie de la culture](https://eyssette.github.io/marp-slides/slides/Sequence3-philosophie_de_la_culture.html)
+- [Cours sur la technique : I](https://eyssette.github.io/marp-slides/slides/cours-technique-I.html)
+- [Cours sur la technique : II](https://eyssette.github.io/marp-slides/slides/cours-technique-II.html)
+- [Le langage n'est-il qu'un simple moyen de communication ?](https://eyssette.github.io/marp-slides/slides/Le_langage_est_il_un_simple_moyen_de_communication.html)
+
 ### Séquence 4 : Philosophie sociale et politique
 
-### Séquence 5 : Épistémologie et métaphysique
-
-## Autres diaporamas
-
-### DNL
-
-[Human Rights List](https://eyssette.github.io/marp-slides/slides/DNL-human-rights-list.html)
-
-[Utiliser le numérique en philosophie](https://eyssette.github.io/marp-slides/slides/Formation_numérique.html)
+- [Chapitre sur l'œuvre suivie : Rousseau, _Discours sur l'économique politique_](https://eyssette.github.io/marp-slides/slides/Rousseau-Discours-sur-l-economie-politique.html)
 
 
-https://eyssette.github.io/marp-slides/slides/Explication_texte_Schopenhauer.html
-
-
-
-
-
-
-https://eyssette.github.io/marp-slides/slides/Le_choix_libre_est_il_une_illusion-conclusion.html
-https://eyssette.github.io/marp-slides/slides/Le_choix_libre_est_il_une_illusion-introduction.html
-https://eyssette.github.io/marp-slides/slides/Le_choix_libre_est_il_une_illusion-partieI.html
-https://eyssette.github.io/marp-slides/slides/Le_choix_libre_est_il_une_illusion-partieII.html
-https://eyssette.github.io/marp-slides/slides/Le_choix_libre_est_il_une_illusion-partieIII.html
-
-https://eyssette.github.io/marp-slides/slides/Le_langage_est_il_un_simple_moyen_de_communication.html
-
-https://eyssette.github.io/marp-slides/slides/Parcoursup-phase-admission.html
-
-https://eyssette.github.io/marp-slides/slides/Rousseau-Discours-sur-l-economie-politique.html
-
-https://eyssette.github.io/marp-slides/slides/Sequence2-Philosophie_de_la_culture.html
-
-https://eyssette.github.io/marp-slides/slides/Sequence3-philosophie_de_la_culture.html
-
-
-https://eyssette.github.io/marp-slides/slides/Sommes_nous_vraiment_libres-introduction.html
-
-https://eyssette.github.io/marp-slides/slides/Sommes_nous_vraiment_libres-partieI.html
-
-https://eyssette.github.io/marp-slides/slides/Sommes_nous_vraiment_libres-partieII.html
+## Méthodologie (séries générales)
 
 https://eyssette.github.io/marp-slides/slides/TG-methode-dissertation.html
 
-https://eyssette.github.io/marp-slides/slides/Trois-questions-de-philosophie-sociale-et-politique.html
+## Cours de philosophie (séries technologiques)
 
-https://eyssette.github.io/marp-slides/slides/cours-technique-I.html
 
-https://eyssette.github.io/marp-slides/slides/cours-technique-II.html
+- Le choix libre est-il une illusion ?
+	- [Introduction](https://eyssette.github.io/marp-slides/slides/Le_choix_libre_est_il_une_illusion-introduction.html)
+	- [Partie I](https://eyssette.github.io/marp-slides/slides/Le_choix_libre_est_il_une_illusion-partieI.html)
+	- [Partie II](https://eyssette.github.io/marp-slides/slides/Le_choix_libre_est_il_une_illusion-partieII.html)
+	- [Partie III](https://eyssette.github.io/marp-slides/slides/Le_choix_libre_est_il_une_illusion-partieIII.html)
+	- [Conclusion](https://eyssette.github.io/marp-slides/slides/Le_choix_libre_est_il_une_illusion-conclusion.html)
+- Autres cours
+	- [Introduction à la philosophie de la culture](https://eyssette.github.io/marp-slides/slides/Sequence2-Philosophie_de_la_culture.html)
+	- [Cours sur la justice sociale](https://eyssette.github.io/marp-slides/slides/justice_sociale.html)
 
-https://eyssette.github.io/marp-slides/slides/introduction-epistemologie-intro.html
+## Autres diaporamas
 
-https://eyssette.github.io/marp-slides/slides/introduction-epistemologie-partie-I.html
+- [Utiliser le numérique en philosophie](https://eyssette.github.io/marp-slides/slides/Formation_numérique.html)
+- [Parcoursup : la phase d'admission](https://eyssette.github.io/marp-slides/slides/Parcoursup-phase-admission.html)
 
-https://eyssette.github.io/marp-slides/slides/introduction-philosophie-sociale-et-politique.html
+# Diaporamas plus anciens
 
-https://eyssette.github.io/marp-slides/slides/introduction-philosophie.html
-
-https://eyssette.github.io/marp-slides/slides/justice_sociale.html
-
-https://eyssette.github.io/marp-slides/slides/lettre_jean_jaures.html
-
+- [DNL : Human Rights List](https://eyssette.github.io/marp-slides/slides/DNL-human-rights-list.html)
+- [Trois questions de philosophie sociale et politique](https://eyssette.github.io/marp-slides/slides/Trois-questions-de-philosophie-sociale-et-politique.html)
+- [Introduction à l'épistémologie : introduction](https://eyssette.github.io/marp-slides/slides/introduction-epistemologie-intro.html)
+- [Introduction à l'épistémologie : Partie I](https://eyssette.github.io/marp-slides/slides/introduction-epistemologie-partie-I.html)
+- [Introduction à la philosophie sociale et politique](https://eyssette.github.io/marp-slides/slides/introduction-philosophie-sociale-et-politique.html)
