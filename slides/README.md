@@ -52,7 +52,7 @@ Auteur : [Cédric Eyssette](https://eyssette.github.io/)
 
 ## Méthodologie (séries générales)
 
-https://eyssette.github.io/marp-slides/slides/TG-methode-dissertation.html
+- [Méthode de la dissertation](https://eyssette.github.io/marp-slides/slides/TG-methode-dissertation.html)
 
 ## Cours de philosophie (séries technologiques)
 
