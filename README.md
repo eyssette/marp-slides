@@ -1,4 +1,4 @@
-# Diaporamas créés avec Marp
+# Marp Slides
 
 Voici un repertoire de diaporamas créés avec le logiciel [Marp](https://marp.app/) et un thème que j'ai créé pour Marp : [Teaching theme for Marp](https://github.com/eyssette/teaching-theme-for-marp).
 
