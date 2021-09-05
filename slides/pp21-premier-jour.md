@@ -37,7 +37,7 @@ h1 {margin:0 60px}
 <!-- _class:  -->
 ## Quatre objectifs
 
-1) Être bien au lycée
+1) Être bien au lycée <!--  PP, Infirmerie scolaire, autres adultes de l'équipe / Permanence Ado Belleville ; La Maison Des Adolescents à Villefranche / Numéro sur le harcèlement, autres numéros -->
 1) Développer ses connaissances et ses compétences
 1) Construire un projet d'orientation
 1) Obtenir le baccalauréat
@@ -118,8 +118,8 @@ h1 {margin:0 60px}
 ---
 <!-- _class: fppppp -->
 1) Carnets de correspondance
-1) Campagne de bourse du lycée : <br>:warning: liste à émarger
-1) Demande de l'équipe de Lettres : choix de sujet et notes aux <abbr title="Épreuves Anticipées de Français">EAF</abbr><br>:warning: petit papier à compléter
+1) Campagne de bourse du lycée : <br>:warning: liste à émarger <!-- https://docs.google.com/presentation/d/1xV15GQjDsvodq3s5PY6Dw42ANoKiPGVKMu5cT3vlrD8/edit#slide=id.ged8f0f1cbb_0_24 -->
+1) Demande de l'équipe de Lettres : choix de sujet et notes aux <abbr title="Épreuves Anticipées de Français">EAF</abbr><br>:warning: petit papier à compléter <!-- https://docs.google.com/document/d/1f4GuD3fSlzf5o7f_Wnxy_Gd366Qi5zGPpRCRlYybjnw/edit -->
 1) Délégués, éco-Délégués, <abbr title="Conseil de la Vie Lycéenne">CVL</abbr>
 1) <abbr title="Association sportive">AS</abbr>, <abbr title="Maison des Lycéens">MDL</abbr> et autres clubs
 1) Casiers (groupes de 3 élèves)<br>:warning: sur un bout de feuille : écrire trois noms d'élèves
