@@ -61,7 +61,7 @@ Pour retrouver toutes les informations importantes que je veux vous communiquer.
 https://eyssette.github.io/cours/pp21/c/
 
 ---
-<!-- _class: i1t0 pp -->
+<!-- _class: i1t0 -->
 
 ![](https://i.ibb.co/rwQz1yQ/qc-code-pp21-tg8.png)
 
@@ -106,6 +106,9 @@ h1 {margin:0 60px}
 	- Cours non indiqués ?
 	- Salles non précisés ?
 
+:warning: S'il y a un souci : écrire sur une petite feuille votre nom et ce qui pose problème
+
+<!-- emploi du temps affiché en petit : on ne voit pas tout (penser à avoir grande version, ou version numérique) -->
 
 ---
 <!-- _class: partie -->
@@ -113,12 +116,13 @@ h1 {margin:0 60px}
 <progress max="5" value="3"></progress>
 
 ---
-<!-- _class:  -->
+<!-- _class: fppppp -->
 1) Carnets de correspondance
 1) Campagne de bourse du lycée : <br>:warning: liste à émarger
 1) Demande de l'équipe de Lettres : choix de sujet et notes aux <abbr title="Épreuves Anticipées de Français">EAF</abbr><br>:warning: petit papier à compléter
 1) Délégués, éco-Délégués, <abbr title="Conseil de la Vie Lycéenne">CVL</abbr>
 1) <abbr title="Association sportive">AS</abbr>, <abbr title="Maison des Lycéens">MDL</abbr> et autres clubs
+1) Casiers (groupes de 3 élèves)<br>:warning: sur un bout de feuille : écrire trois noms d'élèves
 
 ---
 <!-- _class: partie -->
@@ -145,8 +149,10 @@ h1 {margin:0 60px}
 <!-- _class:  -->
 
 1. Liste de classe : prénom, nom
-2. Cartes de cantine
-3. Des questions ?
+1. Cartes de cantine
+1. Pass Région
+1. Photographie par la vie scolaire pour le trombinoscope
+1. Des questions ?
 
 
 ---
