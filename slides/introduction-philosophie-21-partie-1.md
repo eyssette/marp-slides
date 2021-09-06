@@ -4,6 +4,7 @@ theme: teaching
 paginate: true
 size: 4:3
 ---
+
 <!-- _class: partie -->
 <style scoped>
 h1 {padding:40px}
