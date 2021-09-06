@@ -74,13 +74,19 @@ _Travail noté :_
 3) contrôles de connaissance ;
 4) devoirs type bac.
 
+
 ---
+<!-- _class: fpppppp -->
+<style scoped>
+ol {margin-top:0}
+</style>
 
 #### Les notes 
 
-1) En cas de [plagiat](https://eyssette.github.io/ressources-generales-enseignement-philosophie/remarques-sur-le-plagiat) ou de fraude : 0
-2) 
-3) Possibilité de demander un travail supplémentaire pour remplacer une note
+1) En cas de retard non justifié : retard indiqué dans l'appréciation et pénalité au niveau de la note en fonction du retard.
+2) En cas de [plagiat](https://eyssette.github.io/ressources-generales-enseignement-philosophie/remarques-sur-le-plagiat) ou de fraude : 0.
+3) Possibilité de demander un travail supplémentaire pour remplacer une note.
+4) Travaux facultatifs : pris en compte en bonus seulement si c'est à votre avantage.
 
 ---
 <!-- _class: souspartie -->
