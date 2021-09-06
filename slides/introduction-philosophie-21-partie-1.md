@@ -427,3 +427,16 @@ Or mobiliser ses connaissances permet d'enrichir sa réflexion.
 |<span data-marpit-fragment="10">Mobiliser ses connaissances</span>|<span data-marpit-fragment="11">Comment approfondir ?</span>|<span data-marpit-fragment="1é">:yellow_circle:</span>|
 
 </div>
+
+---
+<!-- _class: exercice application -->
+<style scoped>
+ul, h3 {font-size:42px!important;}
+ul ul {font-size:95%!important; margin-top:10px;}
+</style>
+
+### Exercice à faire à la maison
+
+- Pourquoi peut-on dire que réfléchir, comme en philosophie, c'est dire non ?
+  - Rédigez un paragraphe (150 mots minimum) sur une feuille à part.
+  - Utilisez au moins un élément de ce cours d'introduction à la philosophie.
