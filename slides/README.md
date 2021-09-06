@@ -9,6 +9,12 @@ Auteur : [Cédric Eyssette](https://eyssette.github.io/)
 - [Programmation détaillée de l'année (séries technologiques)](https://eyssette.github.io/marp-slides/slides/plan-details-techno-2021-2022.html)
 - [PP : le premier jour](https://eyssette.github.io/marp-slides/slides/pp21-premier-jour.html)
 
+## Introduction à la philosophie
+
+- [Introduction](introduction-philosophie-21.html)
+- [Partie I : Qu'est-ce que la philosophie ?](introduction-philosophie-21-partie-1.html)
+- [Partie II : Le fonctionnement du cours](introduction-philosophie-21-partie-2.html)
+
 # Diaporamas (2020-2021)
 
 ## Cours de philosophie (séries générales)

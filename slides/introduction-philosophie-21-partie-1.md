@@ -94,6 +94,12 @@ ol li {margin-top:1px;}
 ## B. Trois démarches essentielles
 
 ---
+:facepalm:  « En philosophie, les notes sont aléatoires. »
+:facepalm:  « Il faut penser comme le prof. »
+<br>
+:point_right:  **Non** : On juge le travail d'après ces démarches !
+
+---
 <!-- _class: etape -->
 <style scoped>
 h3 {padding-bottom:20px;}
@@ -114,7 +120,7 @@ ul {font-size:30px; margin-top:0;}
 ---
 <!-- _class: i1t0 pp -->
 
-![Schéma sur la démarche "analyser"](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/conceptualiser2.svg)
+![Schéma sur la démarche "analyser"](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/analyser.dot.svg)
 
 ---
 <!-- _class:  -->
@@ -132,37 +138,34 @@ Le bleu évoque la clarté du ciel.
 Or analyser, c'est clarifier ses idées.
 
 ---
-<!-- _class: fmmm pm -->
+<!-- _class: fp pm -->
 <style scoped>
     ul:nth-of-type(1){margin-top:10px}
-    .puces{margin-top:-30px;}
+    .puces{margin-top:-10px;}
     .puces ul li {margin:0;padding:0;}
     .puces ul ul {margin-top:-10px; margin-bottom:10px;}
-    section:before{margin-top:105px;}
+    section:before{margin-top:175px;}
 </style>
 
-- Dans les sujets de dissertation du bac 2019, quels sont les termes qu'il fallait conceptualiser ?
+- Dans les sujets de dissertation du bac de l'année dernière, quels sont les termes qu'il fallait analyser ?
 <div class="puces">
 
-- **TL**
-  - « Est-il possible d'échapper au temps ? »
-  - « À quoi bon expliquer une oeuvre d’art ? »
-- **TES**
-  - « La morale est-elle la meilleure des politiques ? »
-  - « Le travail divise-t-il les hommes ? »
-- **TS**
-  - « La pluralité des cultures fait-elle obstacle à l’unité du genre humain ? »
-  - « Reconnaître ses devoirs, est-ce renoncer à sa liberté ? »
-- **Technologiques**
-  - « Seul ce qui peut s’échanger a-t-il de la valeur ? »
-  - « Les lois peuvent-elles faire notre bonheur ? »
+- **Séries générales**
+  - Discuter, est-ce renoncer à la violence ?
+  - L'inconscient échappe-t-il à toute forme de connaissance ?
+  - Sommes-nous responsables de l'avenir ?
+- **Séries Technologiques**
+  - Est-il toujours injuste de désobéir aux lois ?
+  - Savoir, est-ce ne rien croire ?
+  - La technique nous libère-t-elle de la nature ?
 </div>
 
 ---
 <!-- _class: pointmethode fpppppppppp-->
 ### Point méthode
 - Les sujets de dissertation sont généralement constitués par deux notions principales
-- L'un des objectifs de la dissertation est de chercher à clarifier le sens de ces notions (il faut conceptualiser)
+- Le premier travail à faire au brouillon est d'analyser ces deux notions
+
 
 ---
 <!-- _class: etape -->
@@ -203,7 +206,7 @@ ul {margin-top:-5px;}
 </style>
 <!-- Autres affaires juridiques mobilisables : l'affaire Lask ; l'affaire du cannibale de Rotenburg : Armin Meiwes -->
 
-### L’affaire du “lancer de nain” en résumé
+### Une véritable affaire juridique : l’affaire du “lancer de nain”
 
 <div class="puces">
 
@@ -235,18 +238,6 @@ Socrate (‎470-399  avant notre ère) est un personnage fondateur pour la philo
 - Que représente le taon qui pique ce cheval ?
 - Pourquoi faire de la philosophie, c’est être comme un taon qui pique un cheval un peu mou ?
 
----
-<!-- _class: entete approfondissement fpp -->
-<style scoped>
-ol{margin-top:-40px}
-</style>
-### Approfondissement
-
-Mieux comprendre le personnage de Socrate :
-
-1. Lire cet [article de D. Guillon-Legeay](https://iphilo.fr/2016/09/10/socrate-le-pere-de-la-philosophie/) : « Socrate : le père de la philosophie »
-2. Consulter cette [page sur le blog de Simone Manon](https://www.philolog.fr/socrate/)
-3. Lire ce [cours sur Socrate](https://eyssette.github.io/blog/assets/pdf/ancien_blog/0_Introduction_philosophie/2013-2014-Socrate-cours.pdf) que j'avais fait en 2013-2014.
 
 ---
 <!-- _class:  -->
@@ -262,6 +253,11 @@ p{position:absolute; margin-left:410px; margin-top:70px; font-size:35px; font-si
 
 Le rouge évoque la tension, le conflit.
 Or problématiser, c'est dégager les tensions entre différentes idées.
+
+---
+:facepalm:  « La philosophie, c'est trop “perché”
+
+<br>:point_right:  **Non** : Il y a certes des problèmes philosophiques techniques, pointus, mais en terminale, on va s'intéresser à des problèmes vifs, que nous pouvons rencontrer dans notre expérience.
 
 ---
 <!-- _class: etape -->
@@ -290,6 +286,11 @@ En philosophie, on peut argumenter, mais on peut difficilement prétendre avoir 
 - Quelle est la différence entre argumenter et démontrer ?
 
 ---
+<!-- _class: definition -->
+### Définition
+**Argumenter**, c'est chercher à construire un raisonnement qui permet de justifier une idée.
+
+---
 <!-- _class:  -->
 <style scoped>
 h3{text-align:center; padding-top:50px;}
@@ -304,10 +305,9 @@ p{position:absolute; margin-left:410px; margin-top:70px; font-size:42px; margin-
 Le vert évoque le feu vert qui me donne le droit de passer.
 Or argumenter, c'est chercher les raisons qui me donnent le droit d'avancer une idée.
 
-
 ---
 <!-- _class: etape -->
-### Récapitulatif
+### 4/ Récapitulatif
 
 
 ---
@@ -318,12 +318,12 @@ td:nth-child(1){color:black!important;}
 
 |Démarche|Question clef|
 |:--:|:--:|
-|Conceptualiser|?|
+|Analyser|?|
 |Problématiser|?|
 |Argumenter|?|
 
 1. Est-ce si simple ?<br/>
-2. Comment peut-on défendre cette idée ?
+2. Qu'est-ce qui permet de dire cela ?
 3. Qu'est-ce que cela veut dire ?
 
 ---
@@ -334,46 +334,42 @@ td:nth-child(1){color:black!important;}
 
 |Démarche|Question clef|
 |:--:|:--:|
-|Conceptualiser|*3* Qu'est-ce que cela veut dire ?|
+|Analyser|*3* Qu'est-ce que cela veut dire ?|
 |Problématiser|*1* Est-ce si simple ?|
-|Argumenter|*2* Comment peut-on défendre cette idée ?|
+|Argumenter|*2* Qu'est-ce qui <br>permet de dire cela ?|
 
 ---
-<!-- _class: citationC  -->
+:facepalm:  « La philosophie ça ne sert à rien »
 
-![bg left:42.7% Tableau qui représente le philosophe Kant](https://upload.wikimedia.org/wikipedia/commons/f/f2/Kant_gemaelde_3.jpg)
-
->« _Sapere aude_ ! Aie le courage de te servir de ton propre entendement ! Voilà la devise des Lumières. »
->>**Kant**, _Qu'est-ce que les Lumières ?_
-
----
-<!-- _class:  -->
-
-En philosophie, il s'agit de _penser par soi-même_ : il faut être capable de réfléchir de manière critique afin de parvenir à l'autonomie de son propre jugement.
-
-- Mais, penser par soi-même, cela ne veut pas dire penser tout seul. Pourquoi ?
+<br>:point_right:  **Non** : Vous allez développer vos capacités à analyser des idées, à problématiser, à argumenter. C'est essentiel !
 
 ---
 <!-- _class: souspartie -->
-## C. Une quatrième <br>démarche importante :<br> mobiliser sa culture <!-- fit -->
+## C. Une quatrième <br>démarche importante :<br> mobiliser ses connaissances <!-- fit -->
 ---
 <!-- _class:  -->
 Il est difficile de réfléchir tout seul. Pour aller plus loin dans sa réflexion, il va falloir s'efforcer de mobiliser : 
 <div class="puces">
 
-- des références théoriques à des auteurs qui ont déjà réfléchi à la question ;
-- des exemples concrets pour bien ancrer son propos dans la réalité.
+- des **références théoriques** à des auteur·e·s qui ont déjà réfléchi à la question ;
+- des **exemples concrets** pour bien ancrer son propos dans la réalité.
 </div>
 
 ---
-<!-- _class: fppp -->
-C'est sa culture personnelle qu'il faut mobiliser, de manière appropriée : 
+<!-- _class: fppppppp -->
+<style scoped>
+ul {margin-top:-10px;}
+ul li {margin-top:5px!important}
+</style>
+Question clef : « Comment approfondir ? »
+
+Il faut apprendre à :
 
 <div class="puces">
 
-- Il faut savoir réutiliser des éléments de cours.
-- Il faut savoir exploiter sa culture cinématographique, littéraire, historique, scientifique.
-- Il faut savoir tirer profit de ses connaissances sur le monde, la vie sociale et politique.
++ réutiliser des éléments de cours ;
++ exploiter sa culture cinématographique, littéraire, historique, scientifique ;
++ tirer profit de ses connaissances sur le monde, la vie sociale et politique.
 </div>
 
 
@@ -402,16 +398,16 @@ ul{text-align:justify!important; padding-left:35px; padding-right:35px;}
 <!-- _class:  -->
 <style scoped>
 h3{text-align:center; padding-top:50px;}
-p{position:absolute; margin-left:360px; margin-top:70px; font-size:35px;}
+p{position:absolute; margin-left:360px; margin-top:70px; font-size:44px; margin-right:50px}
 </style>
 
-### Code couleur pour la démarche « mobiliser sa culture »
+### Code couleur pour la démarche « mobiliser ses connaissances »
 <svg height="500" width="400">
   <circle cx="200" cy="220" r="140" fill="#F8D748" />
 </svg>
 
-Mobiliser sa culture, c'est chercher à enrichir son propos avec des références théoriques et des exemples concrets.
-D'où le jaune, qui évoque l'or et donc l'enrichissement de sa réflexion à l'aide de connaissances précises. 
+Le jaune évoque l'or, la richesse.
+Or mobiliser ses connaissances permet d'enrichir sa réflexion.
 
 
 ---
@@ -419,71 +415,15 @@ D'où le jaune, qui évoque l'or et donc l'enrichissement de sa réflexion à l'
 ### Récapitulatif
 
 ---
-<!-- _class: fppp -->
+<!-- _class: fpppp pp -->
 
-### Retour sur quelques préjugés à propos de la philosophie
+<div data-marpit-fragment>
 
-
-1) « La philosophie, c'est trop “perché” ! »
-2) « La philosophie, c'est une matière littéraire ! »
-3) « En philosophie, les notes sont aléatoires ! »
-4) « Il faut penser comme le prof ! »
-5) « La philosophie, ça ne sert à rien ! »
-
----
-<!-- _class: pp exercice fppp-->
-<style scoped>
-  h4{text-align:center;}
-</style>
-
-#### Exercice LearningApps [+](https://learningapps.org/watch?v=po35s2tyj20)
-
-<!-- Exercice sur LearningApps à propos des trois démarches essentielles en philosophie -->
-
-<iframe src="https://learningapps.org/watch?v=po35s2tyj20" style="border:0px;width:100%;height:600px" webkitallowfullscreen="true" mozallowfullscreen="true"></iframe>
-
----
-<!-- _class: i1t1 pp vertical fpp-->
-
-#### Fiche de synthèse
-
-[![](images/synthese-introduction-philosophie.png)](images/synthese-introduction-philosophie.png)
-
----
-<!-- _class: i1t0 pp -->
-
-[![](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/introduction-philosophie2.svg)](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/introduction-philosophie2.svg)
-
----
-<!-- _class: fmmmmmmmmmm pp -->
-<style scoped>
-h4{text-align:justify}
-</style>
-#### Questions de révision           (savoir son cours, c’est pouvoir répondre, précisément, aux questions ci-dessous) :
-
-1. Quelle est l'histoire que raconte Platon à propos de Thalès ? Quel est le sens de cette histoire ?
-2. Comment Aristophane représente-t-il Socrate dans Les Nuées ? Quel est le sens de cette image ?
-3. Quelles sont les trois démarches essentielles en philosophie ? Pour chaque démarche, quelle est la question qu'il faut se poser ?
-4. On peut dire que faire de la philosophie, c'est comme regarder ses propres lunettes. Quel est le sens de cette idée ?
-5. Quel problème philosophique peut-on poser à partir de l'affaire du lancer de nain ?
-6. On peut dire, avec Socrate, que faire de la philosophie, c'est être comme un taon qui pique un cheval un peu mou. Quel est le sens de cette idée ?
-7. On peut dire, avec Épictète, que faire de la philosophie, c'est comme placer les idées sur une balance. Quel est le sens de cette idée ?
-8. Penser par soi-même, ce n’est pas penser tout seul. Quel est le sens de cette idée ?
-9. Comme le dit Épictète, il ne faut pas vomir ce qu'on a appris, mais le digérer. Quel est le sens de cette image ?
-10. Comment peut-on utiliser le cours pour montrer que penser, c'est dire non ?
-
----
-<!-- _class: entete approfondissement f -->
-<style scoped>
-ul ul {margin-top:-5px!important;}
-</style>
-### Approfondissement
-<div class="puces">
-
-1. Mieux comprendre le personnage de Socrate ([voir diapositive 25](#25))
-2. Initiation à la philosophie : [conseils de lecture](https://eyssette.github.io/ressources-generales-enseignement-philosophie/conseils-lectures-initiation-philosophie) <!-- Document au format A4 : https://docs.google.com/document/d/119PC0h-Zic6AVT4woWzXd8lbRmQ0fOVPAJ-CBFMyMdQ/edit?usp=sharing  --> (si vous visez une prépa l'année prochaine : il faut commencer à lire quelques classiques de l'histoire de la philosophie)
-3. Lire un ensemble de [textes sur la philosophie comme réflexion critique](http://bit.ly/philoD1)
-4. Lire un texte fondamental de Platon : _[L'Apologie de Socrate](http://www.ac-grenoble.fr/PhiloSophie/old2/file/platon_apologie.pdf)_
-
+|Démarche|Question clef|Code couleur|
+|:--:|:--:|:--:|
+|<span data-marpit-fragment="1">Analyser</span>|<span data-marpit-fragment="2">Qu'est-ce que cela veut dire ?</span>|<span data-marpit-fragment="3">:large_blue_circle:</span>|
+|<span data-marpit-fragment="4">Problématiser</span>|<span data-marpit-fragment="5">Est-ce si simple ?</span>|<span data-marpit-fragment="6">:red_circle:</span>|
+|<span data-marpit-fragment="7">Argumenter</span>|<span data-marpit-fragment="8">Qu'est-ce qui permet de dire cela ?</span>|<span data-marpit-fragment="9">:green_circle:</span>|
+|<span data-marpit-fragment="10">Mobiliser ses connaissances</span>|<span data-marpit-fragment="11">Comment approfondir ?</span>|<span data-marpit-fragment="1é">:yellow_circle:</span>|
 
 </div>
