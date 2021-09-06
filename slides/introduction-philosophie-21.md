@@ -14,7 +14,7 @@ http://eyssette.github.io
 ---
 <!-- _class: i1t0 pp -->
 
-![](https://i.imgflip.com/5lzl6w.jpg)
+![](https://i.ibb.co/1mjwxZB/image.png)
 
 
 ---
