@@ -184,9 +184,9 @@ ul {font-size:30px; margin-top:0;}
 </div>
 
 ---
-<!-- _class: definition -->
+<!-- _class: definition  -->
 ### Définition
-- **Analyser**, c'est chercher à clarifier le sens d'une idée
+- **Analyser**, c'est chercher à clarifier et préciser le sens d'une idée
 - Il s'agit de **définir** l'idée en formulant précisément ce qu'elle est et ce qu'elle n'est pas
 
 ---
@@ -381,10 +381,10 @@ p {font-size:1.1em; margin: 0 100px}
 **Argumenter**, c'est chercher à construire un raisonnement qui permet de justifier une idée.
 
 ---
-<!-- _class: citationC fppppp-->
+<!-- _class: citationC fpppp-->
 <style scoped>
 blockquote blockquote{margin-top:-15px}
-blockquote{padding:10px}
+blockquote{padding:20px}
 </style>
 ![bg left:40% Représentation d'Epictète](https://upload.wikimedia.org/wikipedia/commons/0/00/Epicteti_Enchiridion_Latinis_versibus_adumbratum_%28Oxford_1715%29_frontispiece.jpg)
 
@@ -607,7 +607,7 @@ ol li{margin-left:-1em; margin-bottom:0.5em; }
 #### Le baccalauréat
 
 1) Coefficient 8 en séries générales,<br> Coefficient 4 en séries technologiques.
-2) Un choix à faire entre 3 sujets : <br>2 dissertations, une explication de texte.
+2) Un choix à faire entre 3 sujets : <br>2 dissertations, 1 explication de texte.
 
 ---
 <!-- _class: etape -->
@@ -635,8 +635,8 @@ _Travail non noté, mais pris en compte dans l'appréciation :_
 3) Approfondissements à la maison
 
 _Travail noté :_
-1) Interrogations orales et quizz
-2) Petits exercices et travaux à l'écrit
+1) Interrogations orales et quiz
+2) Exercices et travaux à l'écrit
 3) Contrôles de connaissance
 4) Devoirs type bac.
 
@@ -649,10 +649,12 @@ ol {margin-top:0}
 
 #### Les notes 
 
-1) En cas de retard non justifié : retard indiqué dans l'appréciation et pénalité au niveau de la note en fonction du retard.
-2) En cas de [plagiat](https://eyssette.github.io/ressources-generales-enseignement-philosophie/remarques-sur-le-plagiat) ou de fraude : 0.
-3) Possibilité de demander un travail supplémentaire pour remplacer une note.
-4) Travaux facultatifs : pris en compte en bonus (seulement si c'est à votre avantage).
+1) En cas de _retard non justifié_ : retard indiqué dans l'appréciation et pénalité au niveau de la note en fonction du retard.
+2) En cas de _[plagiat](https://eyssette.github.io/ressources-generales-enseignement-philosophie/remarques-sur-le-plagiat)_ ou de _fraude_ : 0.
+3) Possibilité de demander un _travail supplémentaire_ pour remplacer une note.
+4) _Travaux facultatifs_ : pris en compte en bonus (seulement si c'est à votre avantage).
+
+<!-- Ajouter : Si vous voulez faire : une prépa, Sciences-Po, médecine … : il y aura de la philosophie dans votre cursus, et il vaut mieux vous préparer et approfondir votre travail (demandez-moi des suggestions) -->
 
 ---
 <!-- _class: souspartie -->
@@ -694,7 +696,6 @@ ul{margin-top:0;}
 <!-- _class: etape -->
 <style scoped>
 h3{padding-bottom:15px; margin-bottom:0;}
-ul{font-size:34px!important;}
 ul li{margin-top:5px!important;}
 </style>
 ### 3/ Internet
@@ -703,5 +704,5 @@ ul li{margin-top:5px!important;}
 
 - [Site du cours de philosophie](https://eyssette.github.io/cours/philo21g/c/)
 - [Sélection de chaînes vidéo intéressantes](https://eyssette.github.io/ressources-generales-enseignement-philosophie/chaines-video-interessantes)
-- Pour faire des recherches sur un sujet philosophique, tous les sites ne sont pas de bonne qualité, utilisez cet outil qui permet de faire une [recherche parmi des sites de philosophie de qualité](https://cse.google.com/cse?cx=005941353090358050370:-rxleq99qm0) que j'ai sélectionnés.
+- [Mon moteur de recherche](https://cse.google.com/cse?cx=005941353090358050370:-rxleq99qm0)
 </div>
