@@ -11,9 +11,7 @@ Auteur : [Cédric Eyssette](https://eyssette.github.io/)
 
 ## Introduction à la philosophie
 
-- [Introduction](introduction-philosophie-21.html)
-- [Partie I : Qu'est-ce que la philosophie ?](introduction-philosophie-21-partie-1.html)
-- [Partie II : Le fonctionnement du cours](introduction-philosophie-21-partie-2.html)
+- [Introduction à la philosophie](2021-2022/introduction-philosophie-21.html)
 
 # Diaporamas (2020-2021)
 

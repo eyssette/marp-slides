@@ -226,7 +226,7 @@ ul {margin-top:-5px;}
 
 <div class="puces">
 
-- **1990-1991** : Manuel Wackenheim participe à une soixante de “spectacles de lancer de nain” organisés par la société _Fun-Productions_
+- **1990-1991** : Manuel Wackenheim participe à une soixantaine de “spectacles de lancer de nain” organisés par la société _Fun-Productions_
 - **25 octobre 1991** : Le maire de Morsang-sur-Orge décide d’interdire ces spectacles sur sa commune, par arrêté municipal
 - **25 février 1992** : Sans emploi, Manuel Wackenheim estime que cette décision est injuste et obtient l’annulation de cet arrêté devant le tribunal administratif de Versailles
 - **27 octobre 1995** : Le Conseil d’État, saisi par le maire, annule le jugement du tribunal administratif de Versailles
