@@ -16,6 +16,7 @@ http://eyssette.github.io
 
 ![](https://i.ibb.co/1mjwxZB/image.png)
 
+<!-- Matière nouvelle : peur, craintes / attente, excitation intellectuelle -->
 
 ---
 <!-- _class: fppppppppp -->
@@ -64,6 +65,9 @@ La philosophie, c'est …
 
 ![affiche du film : Pas son genre](https://fr.web.img6.acsta.net/pictures/14/03/12/15/46/479126.jpg)
 
+<!-- La philosophie semble avant tout être une activité ………(intellectuelle ≠ manuelle)………… où l’on fait usage de son …… (esprit ≠ corps)……… pour se questionner, s’interroger, penser, réfléchir.
+[Interrogation sur ces distinctions] -->
+
 
 ---
 <!-- _class: i1t1 vertical pp -->
@@ -74,6 +78,8 @@ p:nth-of-type(2) {font-size:40px;}
 ![Tableau de Rembrandt Le philosophe en méditation](https://upload.wikimedia.org/wikipedia/commons/d/d6/Rembrandt_-_The_Philosopher_in_Meditation.jpg)
 
 Rembrandt, _Le philosophe en méditation_ (1632)
+
+<!-- On s'est souvent moqué de la philosophie. On pense parfois que la philosophie est abstraite et déconnectée du réel. -->
 
 ---
 <!-- _class: grille pp pm -->
@@ -130,13 +136,27 @@ ol li {margin-top:1px;}
 - Qu’est-ce qui distingue ces questions d’une question d’une autre discipline comme : « que s’est-il passé pendant la Révolution française ? »
 
 ---
+<!-- _class: definition -->
+<style scoped>
+span {font-size:90%}
+</style>
+
+### Définition
+
+**Faire de la philosophie**, c'est réfléchir à des questions qui portent sur des **notions générales et fondamentales** de notre existence <span>(la liberté, le bien et le mal, la vérité, …)</span>.
+
+---
 <!-- _class: souspartie -->
 ## B. Trois démarches essentielles
 
 ---
+<style scoped>
+section {font-size:4em}
+p:nth-of-type(1){margin-bottom:0.75em;}
+</style>
 :facepalm:  « En philosophie, les notes sont aléatoires. »
 :facepalm:  « Il faut penser comme le prof. »
-<br>
+
 :point_right:  **Non** : On juge le travail d'après ces démarches !
 
 ---
@@ -151,16 +171,23 @@ ul {font-size:30px; margin-top:0;}
 - Faire de la philosophie, c'est comme regarder ses propres lunettes : quel est le sens de cette comparaison ?
 
 ---
+<!-- _class: fpppppppppppp -->
+
+<div data-marpit-fragment>
+
+|||
+|:-:|:-:|
+|<span data-marpit-fragment="1">Lunettes</span>|<span data-marpit-fragment="2">Nos idées, nos<br> manières de penser</span>|
+|<span data-marpit-fragment="3">Regarder <br>ses lunettes</span>|<span data-marpit-fragment="4">Prendre du recul,<br> examiner ses idées</span>|
+|<span data-marpit-fragment="5">On regarde ses <br>lunettes, quand <br>elles sont sales,<br> pour les nettoyer</span>|<span data-marpit-fragment="6">Nos idées sont<br> parfois vagues<br> et confuses : <br>il faut les clarifier</span>|
+
+</div>
+
+---
 <!-- _class: definition -->
 ### Définition
 - **Analyser**, c'est chercher à clarifier le sens d'une idée
 - Il s'agit de **définir** l'idée en formulant précisément ce qu'elle est et ce qu'elle n'est pas
-
-
----
-<!-- _class: i1t0 pp -->
-
-![Schéma sur la démarche "analyser"](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/analyser.dot.svg)
 
 ---
 <!-- _class:  -->
@@ -218,11 +245,6 @@ img {height:500px}
 ![Photo d'un tee-shirt avec la formule : being a philosopher, i have a problem for every solution](../images/being_a_philosopher_tee_shirt.png)
 
 ---
-<!-- _class: definition -->
-### Définition
-**Problématiser**, c'est saisir la complexité et les enjeux d'une question, en montrant qu'il y a un véritable débat à ce sujet entre plusieurs réponses possibles
-
----
 <!-- _class: i1t1 fpppppp -->
 <style scoped>
     ul, p {text-align:center!important;}
@@ -238,13 +260,26 @@ p:last-child{font-size:30px; margin-top:-7px!important; padding-bottom:40px;}
 
 Martin Scorsese, _Le Loup de Wall Street_ (2013)
 
+<!-- 1/ Jurisprudence de la Cour européenne des droits de l'homme autour de certaines affaires de sadomasochisme
+– Arrêt du 19 février 1997, Laskey, Jaggard et Brown c/ Royaume-Uni 
+– Arrêt du 17 février 2005, K.A. et A.D. c/ Belgique [8]
+
+2/ Le « cannibale de Rottenburg » : Armin Meiwes (Der Metzgermeister : le maître boucher) 2001
+
+3/ Suicide assisté : Affaire Diane Pretty (2002)
+
+Comparaison avec : cas de la prostitution
+
+
+-->
+
+
 ---
 <!-- _class: fmmmmmm -->
 <style scoped>
 h3 {margin-top:20px!important;}
 ul {margin-top:-5px;}
 </style>
-<!-- Autres affaires juridiques mobilisables : l'affaire Lask ; l'affaire du cannibale de Rotenburg : Armin Meiwes -->
 
 ### Une véritable affaire juridique : l’affaire du “lancer de nain”
 
@@ -258,16 +293,21 @@ ul {margin-top:-5px;}
 - **26 juillet 2002** : Le Comité des droits de l’homme des Nations Unies rejette également la plainte de Manuel Wackenheim contre la France 
 <div>
 
+<!-- Aux élèves : Imaginons que l'affaire arrive maintenant au niveau du "Tribunal mondial de Belleville-en-Beaujolais". Vous êtes les juges ultimes de cette affaire. Que décidez-vous ? -->
+
 ---
-<!-- _class: i1t1 horizontal pp f -->
-<style scoped>
-p {text-align:justify!important;}
-</style>
+<!-- _class: definition -->
+### Définition
+**Problématiser**, c'est saisir la complexité et les enjeux d'une question, en montrant qu'il y a un véritable débat à ce sujet entre plusieurs réponses possibles
 
-![Photo d'un buste de Socrate](https://upload.wikimedia.org/wikipedia/commons/a/a4/Socrates_Louvre.jpg)
+---
+<!-- _class: citationC fppp -->
 
-Socrate (‎470-399  avant notre ère) est un personnage fondateur pour la philosophie.
-<br/>Pour expliquer sa démarche, il se compare à un taon qui pique un cheval un peu mou.
+![bg left:45%  Photo d'un buste de Socrate](https://upload.wikimedia.org/wikipedia/commons/a/a4/Socrates_Louvre.jpg)
+
+>« SOCRATE – […] Vous ne trouverez pas facilement un autre homme comme moi […], attaché à la cité […] comme le serait un taon au flanc d'un cheval […] qui se montrerait un peu mou » (Platon, _Apologie de Socrate_, 31a)
+
+<!-- À faire noter aux élèves : Problématiser, c'est comme être un taon qui pique un cheval un peu mou (Socrate) -->
 
 ---
 <!-- _class: i1t1 horizontal contain pp -->
@@ -278,6 +318,17 @@ Socrate (‎470-399  avant notre ère) est un personnage fondateur pour la philo
 - Que représente le taon qui pique ce cheval ?
 - Pourquoi faire de la philosophie, c’est être comme un taon qui pique un cheval un peu mou ?
 
+---
+<!-- _class: fpppppppppppp -->
+
+<div data-marpit-fragment>
+
+|||
+|:-:|:-:|
+|<span data-marpit-fragment="1">Cheval un <br>peu mou</span>|<span data-marpit-fragment="2">Notre esprit, endormi <br>dans des préjugés,<br> des prétendues certitudes</span>|
+|<span data-marpit-fragment="3">Piquer le cheval</span>|<span data-marpit-fragment="4">Questionner ses <br>idées et réveiller<br> son esprit critique</span>|
+
+</div>
 
 ---
 <!-- _class:  -->
@@ -295,40 +346,66 @@ Le rouge évoque la tension, le conflit.
 Or problématiser, c'est dégager les tensions entre différentes idées.
 
 ---
-:facepalm:  « La philosophie, c'est trop “perché”
+<style scoped>
+section {font-size:3.1em}
+p:nth-of-type(1){margin-bottom:0.75em;}
+</style>
+:facepalm:  « La philosophie, c'est trop “perché” »
 
-<br>:point_right:  **Non** : Il y a certes des problèmes philosophiques techniques, pointus, mais en terminale, on va s'intéresser à des problèmes vifs, que nous pouvons rencontrer dans notre expérience.
+:point_right:  **Non** : <br>Certes, il y a des problèmes philosophiques pointus, techniques. <br>Mais en terminale, on va s'intéresser à des problèmes vifs, que nous pouvons rencontrer dans notre expérience.
 
 ---
 <!-- _class: etape -->
 ### 3/Argumenter
 
 ---
-<!-- _class: citationC fppppp-->
-
-![bg left:40% Représentation d'Epictète](https://upload.wikimedia.org/wikipedia/commons/0/00/Epicteti_Enchiridion_Latinis_versibus_adumbratum_%28Oxford_1715%29_frontispiece.jpg)
-
->« Voilà le point de départ de la philosophie : la conscience du conflit des hommes entre eux, […], la condamnation de la simple opinion, la défiance à son égard, une certaine enquête sur l'opinion pour savoir si elle est droite […].
-– Quel objet se présente à notre recherche ? […]
-– Soumets-le à la règle, place-le sur la balance. »
->>**Épictète**, _Entretiens_, II, XI 
-
----
-<!-- _class: fpppppp -->
+<!-- _class: -->
 <style scoped>
-ul {margin-top:0; margin-bottom:40px;}
+ol{list-style-type:none!important; font-size:1.45em!important; margin-left:5px; text-align:center}
+ol li {margin-bottom:2em!important}
 </style>
 
-Argumenter, c'est chercher à convaincre et non pas à persuader.
-- Quelle est la différence entre convaincre et persuader ?
+1) Argumenter &rarr;<br> Convaincre ≠ persuader
+2) Argumenter ≠ démontrer
 
-En philosophie, on peut argumenter, mais on peut difficilement prétendre avoir démontré la vérité de ce qu'on affirme.
-- Quelle est la différence entre argumenter et démontrer ?
+<!-- Pour 1 : raison / émotion (rapidement : pas si simple)
+Pour 2 : pas de preuve définitive / preuve définitive
++ la discussion peut se poursuivre / la discussion est close  -->
 
 ---
 <!-- _class: definition -->
+<style scoped>
+p {font-size:1.1em; margin: 0 100px}
+</style>
 ### Définition
 **Argumenter**, c'est chercher à construire un raisonnement qui permet de justifier une idée.
+
+---
+<!-- _class: citationC fppppp-->
+<style scoped>
+blockquote blockquote{margin-top:-15px}
+blockquote{padding:10px}
+</style>
+![bg left:40% Représentation d'Epictète](https://upload.wikimedia.org/wikipedia/commons/0/00/Epicteti_Enchiridion_Latinis_versibus_adumbratum_%28Oxford_1715%29_frontispiece.jpg)
+
+>« Voilà le point de départ de la philosophie : prendre conscience des désaccords entre les hommes, […] condamner ce qui n'est qu'une simple opinion et s'en méfier, examiner les idées pour en connaître la justesse. […]<br>[Quel que soit le sujet sur lequel tu te penches], soumets-le à la règle, place-le sur la balance. »
+>>**Épictète**, _Entretiens_, II, XI 
+
+
+<!-- Faire noter aux élèves : Argumenter, c'est placer les idées sur la balance, c'est-à-dire évaluer les arguments en faveur d'une idée et les objections contre cette idée. Tous les arguments ne se valent pas : il y a de bons et de mauvais arguments.  -->
+
+<!-- Il ne faut pas rejeter une idée simplement parce qu’elle nous déplaît, il faut avoir une certaine ouverture intellectuelle et être capable d’examiner les différentes réponses possibles.
+Toutes les réponses ne se valent pas. Une simple opinion = une idée non justifiée.
+Il faut examiner les arguments en faveur d’une position et les objections contre cette position pour déterminer si elle est convaincante, si elle est acceptable. -->
+
+<!-- En philosophie, toutes les positions possibles sont acceptables à condition qu’elles soient défendues par des arguments et répondent aux objections qu’on leur fait. -->
+
+<!-- Attitudes intellectuelles importantes quand on argumente :
+Attitudes importantes :
+1. L'écoute et l'ouverture d'esprit (accepter les désaccords)
+2. L'exigence (il faut défendre son idée et il faut répondre aux objections)
+3. La rigueur dans le raisonnement
+3. L'humilité (argumenter ≠ démontrer)  -->
 
 ---
 <!-- _class:  -->
@@ -379,40 +456,31 @@ td:nth-child(1){color:black!important;}
 |Argumenter|*2* Qu'est-ce qui <br>permet de dire cela ?|
 
 ---
-:facepalm:  « La philosophie ça ne sert à rien »
+<style scoped>
+section {font-size:3.6em}
+p:nth-of-type(1){margin-bottom:0.75em;}
+</style>
+:facepalm:  « La philosophie ça ne sert à rien »
 
-<br>:point_right:  **Non** : Vous allez développer vos capacités à analyser des idées, à problématiser, à argumenter. C'est essentiel !
+:point_right:  **Non** : Vous allez développer vos capacités à analyser des idées, à problématiser, à argumenter. C'est essentiel !
 
 ---
 <!-- _class: souspartie -->
 ## C. Une quatrième <br>démarche importante :<br> mobiliser ses connaissances <!-- fit -->
+
 ---
 <!-- _class:  -->
-Il est difficile de réfléchir tout seul. Pour aller plus loin dans sa réflexion, il va falloir s'efforcer de mobiliser : 
-<div class="puces">
-
-- des **références théoriques** à des auteur·e·s qui ont déjà réfléchi à la question ;
-- des **exemples concrets** pour bien ancrer son propos dans la réalité.
-</div>
-
----
-<!-- _class: fppppppp -->
 <style scoped>
-ul {margin-top:-10px;}
-ul li {margin-top:5px!important}
+ol {list-style-type:none; font-size:1em; margin-top:0.5em!important}
+ol li{margin-left:-1em; margin-bottom:0.75em;}
 </style>
-Question clef : « Comment approfondir ? »
+1) **Une question clef :**<br>Comment approfondir ?
+2) **Réponse :** <br>avec des références théoriques et des exemples concrets
+3) **Qui viennent d'où ? :**<br>1/ du cours, 2/ de votre culture personnelle : cinéma, lectures, … 3/ de votre expérience du monde
 
-Il faut apprendre à :
-
-<div class="puces">
-
-+ réutiliser des éléments de cours ;
-+ exploiter sa culture cinématographique, littéraire, historique, scientifique ;
-+ tirer profit de ses connaissances sur le monde, la vie sociale et politique.
-</div>
-
-
+<!-- Il est difficile de réfléchir tout seul. Pour aller plus loin dans sa réflexion, il va falloir s'efforcer de mobiliser : 
+- des **références théoriques** à des auteur·e·s qui ont déjà réfléchi à la question ;
+- des **exemples concrets** pour bien ancrer son propos dans la réalité. -->
 
 ---
 <!-- _class: citationC fp-->
@@ -433,6 +501,10 @@ ul{text-align:justify!important; padding-left:35px; padding-right:35px;}
 ![Schéma de la digestion](../images/digestion.png)
 
 ![Photo d'une athlète qui court](../images/athlete.png)
+
+<!-- Vomir ce qu'on a appris, ce serait simplement recracher ses connaissances, sans les avoir intégrées, et sans organisation.
+Digérer ce qu'on a appris, c'est s'approprier des connaissances afin de les faire siennes et pouvoir ainsi les mobiliser pour développer sa propre réflexion.
+Faire noter aux élèves : Il ne faut pas vomir ce qu'on a appris, mais le digérer. -->
 
 ---
 <!-- _class:  -->
@@ -506,51 +578,59 @@ Deuxième partie
 
 ---
 <!-- _class:  -->
+<style scoped>
+ol {list-style-type:none; font-size:1em; margin-top:-0.24em!important}
+ol li{margin-left:-1em; margin-bottom:0.5em; }
+</style>
 
 #### Un programme de notions
 
-Par exemple : le bonheur, la liberté, la technique, la justice, …
-
-Ce n'est pas un programme d'histoire de la philosophie.
-
-Le but est d'examiner les grands problèmes que posent ces notions.
+1) Par exemple : le bonheur, la liberté, la technique, la justice, …
+2) Ce n'est pas un programme d'histoire de la philosophie.
+3) Le but est d'examiner les grands problèmes que posent ces notions.
 
 ---
 <!-- _class:  -->
+<style scoped>
+ol {list-style-type:none; font-size:1em; margin-top:-0.24em!important}
+ol li{margin-left:-1em; margin-bottom:0.5em; }
+</style>
 
 #### Le baccalauréat
 
-Coefficient : 8 en séries générales, 4 en séries technologiques.
-
-Un choix à faire entre 3 sujets : 2 dissertations, une explication de texte.
+1) Coefficient 8 en séries générales,<br> Coefficient 4 en séries technologiques.
+2) Un choix à faire entre 3 sujets : <br>2 dissertations, une explication de texte.
 
 ---
 <!-- _class: etape -->
-### 2/ Les règles pour que le cours fonctionne bien
+### 2/ Les règles pour que <br>le cours fonctionne bien
 
 ---
 <!-- _class:  -->
 
-#### Un investissement nécessaire
+#### Un investissement nécessaire :
 1) pour développer l'autonomie de votre réflexion ;
 2) pour vos dossiers post-bac (Parcoursup) ;
 3) pour l'obtention du baccalauréat.
 
 ---
 <!-- _class: f -->
-
+<style scoped>
+ol li {padding-left:0.75em; margin-left:1em;}
+ol {margin-top:-15px!important}
+</style>
 #### Le travail demandé
 
 _Travail non noté, mais pris en compte dans l'appréciation :_
-1) attention et participation ;
-2) prise de notes, exercices en classe ;
-3) approfondissements à la maison.
+1) Attention et participation
+2) Prise de notes, exercices en classe
+3) Approfondissements à la maison
 
 _Travail noté :_
-1) interrogations orales ;
-2) petits exercices et travaux à l'écrit ;
-3) contrôles de connaissance ;
-4) devoirs type bac.
+1) Interrogations orales et quizz
+2) Petits exercices et travaux à l'écrit
+3) Contrôles de connaissance
+4) Devoirs type bac.
 
 
 ---
@@ -564,7 +644,7 @@ ol {margin-top:0}
 1) En cas de retard non justifié : retard indiqué dans l'appréciation et pénalité au niveau de la note en fonction du retard.
 2) En cas de [plagiat](https://eyssette.github.io/ressources-generales-enseignement-philosophie/remarques-sur-le-plagiat) ou de fraude : 0.
 3) Possibilité de demander un travail supplémentaire pour remplacer une note.
-4) Travaux facultatifs : pris en compte en bonus seulement si c'est à votre avantage.
+4) Travaux facultatifs : pris en compte en bonus (seulement si c'est à votre avantage).
 
 ---
 <!-- _class: souspartie -->
@@ -584,7 +664,7 @@ N'hésitez pas à me poser vos questions, à me partager vos réflexions, vos do
 
 Pour discuter avec moi :
 - de préférence en direct, ou par l'ENT, 
-- en cas de souci avec l'ENT : par mail (cedric.eyssette@ac-lyon.fr : faites attention à l'écriture de mon nom, je risque de ne pas recevoir votre mail).
+- en cas de souci avec l'ENT : par [mail](mailto:&#99;&#101;dri%63&#46;%65y&#115;&#115;%65%74t%65&#64;a%63%2d%6cy%6f%6e%2e&#102;%72"). <br>Faites attention à l'écriture de mon nom, je risque de ne pas recevoir votre mail.
 </div>
 
 ---

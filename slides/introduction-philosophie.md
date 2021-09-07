@@ -220,7 +220,6 @@ Martin Scorsese, _Le Loup de Wall Street_ (2013)
 h3 {margin-top:20px!important;}
 ul {margin-top:-5px;}
 </style>
-<!-- Autres affaires juridiques mobilisables : l'affaire Lask ; l'affaire du cannibale de Rotenburg : Armin Meiwes -->
 
 ### L’affaire du “lancer de nain” en résumé
 
@@ -552,7 +551,7 @@ p{text-align:justify; font-size:90%;}
 
 N'hésitez pas à me poser vos questions, à me partager vos réflexions, vos doutes ! 
 
-Pour discuter avec moi : en direct, ou par l'ENT, ou éventuellement par mail (cedric.eyssette@ac-lyon.fr : faites attention à l'écriture de mon nom, je risque de ne pas recevoir votre mail).
+Pour discuter avec moi : en direct, ou par l'ENT, ou éventuellement par [mail](mailto:&#99;&#101;dri%63&#46;%65y&#115;&#115;%65%74t%65&#64;a%63%2d%6cy%6f%6e%2e&#102;%72") : faites attention à l'écriture de mon nom, je risque de ne pas recevoir votre mail).
 
 
 ---

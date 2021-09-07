@@ -14,7 +14,7 @@ h1{padding:50px}
 </style>
 # Utiliser le<br>numérique en<br>philosophie <!-- fit -->
 Cédric Eyssette
-cedric.eyssette@ac-lyon.fr
+http://eyssette.github.io
 
 ---
 <!-- _class:  -->
