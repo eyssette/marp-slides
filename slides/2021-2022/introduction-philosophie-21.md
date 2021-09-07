@@ -638,7 +638,7 @@ _Travail noté :_
 1) Interrogations orales et quiz
 2) Exercices et travaux à l'écrit
 3) Contrôles de connaissance
-4) Devoirs type bac.
+4) Devoirs type bac
 
 
 ---
