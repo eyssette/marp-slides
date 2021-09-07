@@ -402,10 +402,11 @@ Il faut examiner les arguments en faveur d’une position et les objections cont
 
 <!-- Attitudes intellectuelles importantes quand on argumente :
 Attitudes importantes :
-1. L'écoute et l'ouverture d'esprit (accepter les désaccords)
-2. L'exigence (il faut défendre son idée et il faut répondre aux objections)
-3. La rigueur dans le raisonnement
-3. L'humilité (argumenter ≠ démontrer)  -->
+1. L'ouverture d'esprit (accepter les désaccords)
+2. L'humilité (argumenter ≠ démontrer)
+3. La prise en compte des objections (il ne suffit pas de défendre son idée, il faut répondre aux critiques possibles)
+4. La cohérence (ne pas dire une chose et son contraire, reconnaître les implications logiques de ses affirmations)
+5. La rigueur dans le raisonnement  -->
 
 ---
 <!-- _class:  -->
@@ -423,12 +424,35 @@ Le vert évoque le feu vert qui me donne le droit de passer.
 Or argumenter, c'est chercher les raisons qui me donnent le droit d'avancer une idée.
 
 ---
-<!-- _class: etape -->
-### 4/ Récapitulatif
+<!-- _class:  -->
+<style scoped>
+section{font-size:3.1em}
+ol {margin-top:-0.2em; margin-left:1em; margin-right:1em;}
+ol li{padding-left:0.4em}
+</style>
+#### Attitudes importantes :
+1) L'ouverture d'esprit 
+2) L'humilité
+3) La prise en compte des objections
+4) La cohérence 
+5) La rigueur dans le raisonnement 
+
+---
+<style scoped>
+section {font-size:3.6em}
+p:nth-of-type(1){margin-bottom:0.75em;}
+</style>
+:facepalm:  « La philosophie ça ne sert à rien »
+
+:point_right:  **Non** : Vous allez développer vos capacités à analyser des idées, à problématiser, à argumenter. C'est essentiel !
 
 
 ---
-<!-- _class: exercice tableau -->
+<!-- _class: etape -->
+### 4/ Récapitulatif
+
+---
+<!-- _class: exercice tableau fppppppp -->
 <style scoped>
 td:nth-child(1){color:black!important;}
 </style>
@@ -454,15 +478,6 @@ td:nth-child(1){color:black!important;}
 |Analyser|*3* Qu'est-ce que cela veut dire ?|
 |Problématiser|*1* Est-ce si simple ?|
 |Argumenter|*2* Qu'est-ce qui <br>permet de dire cela ?|
-
----
-<style scoped>
-section {font-size:3.6em}
-p:nth-of-type(1){margin-bottom:0.75em;}
-</style>
-:facepalm:  « La philosophie ça ne sert à rien »
-
-:point_right:  **Non** : Vous allez développer vos capacités à analyser des idées, à problématiser, à argumenter. C'est essentiel !
 
 ---
 <!-- _class: souspartie -->
