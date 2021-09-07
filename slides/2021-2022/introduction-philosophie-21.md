@@ -177,9 +177,9 @@ ul {font-size:30px; margin-top:0;}
 
 |||
 |:-:|:-:|
-|<span data-marpit-fragment="1">Lunettes</span>|<span data-marpit-fragment="2">Nos idées, nos<br> manières de penser</span>|
-|<span data-marpit-fragment="3">Regarder <br>ses lunettes</span>|<span data-marpit-fragment="4">Prendre du recul,<br> examiner ses idées</span>|
-|<span data-marpit-fragment="5">On regarde ses <br>lunettes, quand <br>elles sont sales,<br> pour les nettoyer</span>|<span data-marpit-fragment="6">Nos idées sont<br> parfois vagues<br> et confuses : <br>il faut les clarifier</span>|
+|Lunettes|<span data-marpit-fragment="1">Nos idées, nos<br> manières de penser</span>|
+|<span data-marpit-fragment="2">Regarder <br>ses lunettes</span>|<span data-marpit-fragment="3">Prendre du recul,<br> examiner ses idées</span>|
+|<span data-marpit-fragment="4">On regarde ses <br>lunettes, quand <br>elles sont sales,<br> pour les nettoyer</span>|<span data-marpit-fragment="5">Nos idées sont<br> parfois vagues<br> et confuses : <br>il faut les clarifier</span>|
 
 </div>
 
@@ -325,8 +325,8 @@ ul {margin-top:-5px;}
 
 |||
 |:-:|:-:|
-|<span data-marpit-fragment="1">Cheval un <br>peu mou</span>|<span data-marpit-fragment="2">Notre esprit, endormi <br>dans des préjugés,<br> des prétendues certitudes</span>|
-|<span data-marpit-fragment="3">Piquer le cheval</span>|<span data-marpit-fragment="4">Questionner ses <br>idées et réveiller<br> son esprit critique</span>|
+|Cheval un <br>peu mou|<span data-marpit-fragment="1">Notre esprit, endormi <br>dans des préjugés,<br> des prétendues certitudes</span>|
+|<span data-marpit-fragment="2">Piquer le cheval</span>|<span data-marpit-fragment="3">Questionner ses <br>idées et réveiller<br> son esprit critique</span>|
 
 </div>
 
