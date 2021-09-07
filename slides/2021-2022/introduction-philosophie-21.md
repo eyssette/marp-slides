@@ -394,20 +394,6 @@ blockquote{padding:10px}
 
 <!-- Faire noter aux élèves : Argumenter, c'est placer les idées sur la balance, c'est-à-dire évaluer les arguments en faveur d'une idée et les objections contre cette idée. Tous les arguments ne se valent pas : il y a de bons et de mauvais arguments.  -->
 
-<!-- Il ne faut pas rejeter une idée simplement parce qu’elle nous déplaît, il faut avoir une certaine ouverture intellectuelle et être capable d’examiner les différentes réponses possibles.
-Toutes les réponses ne se valent pas. Une simple opinion = une idée non justifiée.
-Il faut examiner les arguments en faveur d’une position et les objections contre cette position pour déterminer si elle est convaincante, si elle est acceptable. -->
-
-<!-- En philosophie, toutes les positions possibles sont acceptables à condition qu’elles soient défendues par des arguments et répondent aux objections qu’on leur fait. -->
-
-<!-- Attitudes intellectuelles importantes quand on argumente :
-Attitudes importantes :
-1. L'ouverture d'esprit (accepter les désaccords)
-2. L'humilité (argumenter ≠ démontrer)
-3. La prise en compte des objections (il ne suffit pas de défendre son idée, il faut répondre aux critiques possibles)
-4. La cohérence (ne pas dire une chose et son contraire, reconnaître les implications logiques de ses affirmations)
-5. La rigueur dans le raisonnement  -->
-
 ---
 <!-- _class:  -->
 <style scoped>
@@ -436,6 +422,13 @@ ol li{padding-left:0.4em}
 3) La prise en compte des objections
 4) La cohérence 
 5) La rigueur dans le raisonnement 
+
+<!-- 
+1. L'ouverture d'esprit (accepter les désaccords)
+2. L'humilité (argumenter ≠ démontrer)
+3. La prise en compte des objections (il ne suffit pas de défendre son idée, il faut répondre aux critiques possibles)
+4. La cohérence (ne pas dire une chose et son contraire, reconnaître les implications logiques de ses affirmations)
+5. La rigueur dans le raisonnement (étapes logiques)  -->
 
 ---
 <style scoped>
