@@ -13,6 +13,10 @@ Auteur : [Cédric Eyssette](https://eyssette.github.io/)
 
 - [Introduction à la philosophie](2021-2022/introduction-philosophie-21.html)
 
+## Séquence 1 : Éthique et philosophie morale
+
+- [Séquence 1 : introduction](2021-2022/sequence1-éthique-et-philosophie-morale.html)
+
 # Diaporamas (2020-2021)
 
 ## Cours de philosophie (séries générales)
