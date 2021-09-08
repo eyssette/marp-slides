@@ -37,8 +37,13 @@ p {font-size:1.8em; padding:40px;}
 « Qu'est-ce qu'une<br> vie bonne ? »
 
 ---
-<!-- _class: i1t0 -->
+<!-- _class: -->
+<style scoped>
+img {position:absolute!important; top:0; left:0; width:90%!important; display:block; height:640px; margin: 40px 40px; }
+</style>
 
-![](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/sequence1-ethique-et-morale-plan.dot.svg)
+
+1) ![](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/sequence1-ethique-et-morale-plan.dot.part1.svg)
+2) ![](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/sequence1-ethique-et-morale-plan.dot.svg)
 
 <!-- À l'oral : certains auteurs distinguent l'éthique comme réflexion sur le bonheur et la morale comme réflexion sur nos devoirs -->
