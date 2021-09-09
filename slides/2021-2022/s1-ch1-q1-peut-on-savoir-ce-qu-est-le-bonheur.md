@@ -72,9 +72,27 @@ vs.
 
 
 ---
-<!-- _class: partie -->
+<!-- _class: partie pm -->
 # I – Kant : <br>Le bonheur <br>comme idéal de<br> l'imagination <!-- fit -->
 PREMIÈRE PARTIE
+
+---
+<!-- _class: pointmethode -->
+### Point Méthode
+:warning:   Le cours n'est pas organisé comme une dissertation.
+
+Dans une dissertation, on ne fait pas une partie sur un auteur.
+
+---
+<!-- _class: pointmethode fppp -->
+<style scoped>
+ul {margin-top:-50px!important}
+</style>
+### Point Méthode
+
+:yellow_circle:  C'est bien de mobiliser une référence à un auteur, mais :
+* Il faut **utiliser** la référence pour répondre à la question (:warning: Attention au lien avec le sujet).
+* Il faut **justifier** la référence : ce n'est pas parce que l'auteur l'a dit que c'est vrai.
 
 ---
 <!-- _class: i1t1 horizontal pp pm  -->
@@ -98,7 +116,7 @@ Qu’est-ce qui me permet de dire que j'ai du plaisir à manger du chocolat ? --
 <style scoped>
 ul{padding-top:10px;}
 </style>
-Il y a plusieurs stratégies pour analyser une notion, notamment :
+:large_blue_circle:  Il y a plusieurs stratégies pour analyser une notion, notamment :
 - partir d'exemples
 - trouver une opposition ou une distinction
 
@@ -195,7 +213,7 @@ blockquote{font-size:72%; width:360px!important;}
 >« Au milieu des années 1950, April et Frank Wheeler forment un jeune couple américain qui, en apparence, a tout pour être heureux (enfants, maison, travail...) […] ils finissent par devenir tout ce qu'ils ne voulaient pas être : un homme coincé par son métier et dont la désinvolture peine à cacher le manque d'assurance et une femme au foyer morose rêvant d'une autre vie. » ([source](https://fr.wikipedia.org/wiki/Les_Noces_rebelles)).
 
 ---
-<!-- _class: i2t0 pp contain-->
+<!-- _class: i2t0 pp contain pm -->
 <style scoped>
 img{height:670px!important; margin-top:-40px!important}
 </style>
@@ -203,6 +221,20 @@ img{height:670px!important; margin-top:-40px!important}
 ![Affiche du film Citizen Kane](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Citizen_Kane_poster%2C_1941_%28Style_B%2C_unrestored%29.jpg/1920px-Citizen_Kane_poster%2C_1941_%28Style_B%2C_unrestored%29.jpg)
 
 ![Affiche du film Into The Wild](https://fr.web.img4.acsta.net/medias/nmedia/18/64/47/78/18869162.jpg)
+
+---
+<!-- _class: pointmethode fpppp-->
+<style scoped>
+ul {margin-top:-50px}
+</style>
+
+### Point méthode
+:yellow_circle:  Il faut mobiliser des exemples  pour ancrer sa réflexion dans la réalité. On peut utiliser :
+
+* un exemple inventé ;
+* ou mieux : un exemple issu de sa culture ;
+* ou mieux encore : un exemple classique.
+
 
 ---
 <!-- _class: partie -->
@@ -220,9 +252,8 @@ DEUXIÈME PARTIE
 >>Pierre **Hadot**, _Exercices spirituels et philosophie antique_
 
 ---
-<!-- _class: exercice application pm -->
+<!-- _class: exercice application pm fmmm -->
 <style scoped>
-ul ul {font-size:100%}
 span {font-size:90%}
 </style>
 
@@ -231,9 +262,12 @@ span {font-size:90%}
 - Choisir un sujet ci-dessous :
 	- Le bonheur est-il une affaire privée ?
 	- Suffit-il de réaliser ses désirs pour être heureux ?
-	- Ai-je le devoir de faire le bonheur des autres ?
 	- Le bonheur dépend-il de nous ?
-- Rédiger une sous-partie de dissertation <span>(un paragraphe de 150 mots minimum)</span>. <br>:warning: Il faut développer une seule réponse et utiliser soit Kant, soit les sagesses antiques.
+	- Le bonheur peut-il s’apprendre ?
+	- La réflexion est-elle un obstacle au bonheur ?
+- Rédiger une sous-partie de dissertation <span>(un paragraphe de 150 mots minimum)</span>.
+	- :warning: Il faut développer une seule réponse et utiliser soit Kant, soit les sagesses antiques.
+	- :warning: Il faut utiliser le modèle _ARES_ (cf. diapositive suivante)
 
 ---
 <!-- _class: pointmethode fpppp -->
