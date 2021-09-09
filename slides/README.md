@@ -17,6 +17,10 @@ Auteur : [Cédric Eyssette](https://eyssette.github.io/)
 
 - [Séquence 1 : introduction](2021-2022/sequence1-éthique-et-philosophie-morale.html)
 
+### Chapitre 1 : Le bonheur
+
+- [Q1 : Peut-on savoir ce qu'est le bonheur ?](2021-2022/s1-ch1-q1-peut-on-savoir-ce-qu-est-le-bonheur.html)
+
 # Diaporamas (2020-2021)
 
 ## Cours de philosophie (séries générales)
