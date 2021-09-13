@@ -13,12 +13,13 @@ https://eyssette.github.io/
 
 
 ---
-<!-- _class:  -->
+<!-- _class: i1t0 pp -->
 
 [![Photogramme de la vidéo sur Lesly Chief Happiness Officer](../images/lesly-CHO.jpg)](https://drive.google.com/open?id=1tee8gsgxvwIQt8yHLuc22AofNq6BQslh)
 
 <!-- 
-À faire noter : nouveau métier “Chief Happiness Officer” (Responsable du bonheur en entreprise) -->
+À faire noter :
+Situation initiale : un nouveau métier “Chief Happiness Officer” (Responsable du bonheur en entreprise) -->
 
 
 ---
@@ -35,6 +36,8 @@ span {font-size:90%}
 1) Que pensez-vous de ce métier ?<br><span>Pensez-vous que c'est bien qu'il y ait une personne responsable du bonheur dans une entreprise ?</span>
 2) De manière générale, peut-on dire aux autres ce qu'ils doivent faire pour être heureux ?
 
+<!-- Si aucun élève ne voit de problème possible dans ce type de métier : montrer l'extrait de la Mise à mort du travail (/ Carglass) -->
+
 ---
 <!-- _class: definition fpppppp-->
 <style scoped>
@@ -47,6 +50,9 @@ p:last-of-type{position:absolute; border:none; top:30px; left:740px; font-size:0
 * Une **conception normative du bonheur** prétend qu'il y a une règle à suivre afin de parvenir au bonheur.
 
 :large_blue_circle:
+
+<!-- Peut-on défendre une conception normative du bonheur ?
+Le paternalisme est-il justifié ? -->
 
 ---
 <!-- _class:  -->
@@ -69,6 +75,11 @@ Kant
 Les sagesses <br>antiques
 
 vs.
+
+<!-- Distribuer les textes,
+Questions : 
+1/ D'après Kant, peut-on savoir ce qu'est le bonheur ?
+2/ D'après les sagesses antiques, peut-on savoir ce qu'est le bonheur ? -->
 
 
 ---
@@ -95,7 +106,7 @@ ul {margin-top:-50px!important}
 * Il faut **justifier** la référence : ce n'est pas parce que l'auteur l'a dit que c'est vrai.
 
 ---
-<!-- _class: i1t1 horizontal pp pm  -->
+<!-- _class: i1t1 horizontal pp  -->
 <style scoped>
 ul {font-size:140%;}
 ul li {text-align:left!important;}
@@ -109,16 +120,6 @@ p{width:600px;}
 Combien de temps dure le plaisir de manger du chocolat ?
 Qu’est-ce qui me permet de dire que j'ai du plaisir à manger du chocolat ? -->
 
-
----
-<!-- _class: pointmethode -->
-### Point méthode
-<style scoped>
-ul{padding-top:10px;}
-</style>
-:large_blue_circle:  Il y a plusieurs stratégies pour analyser une notion, notamment :
-- partir d'exemples
-- trouver une opposition ou une distinction
 
 ---
 <!-- _class: exercice tableau fppppppppppp-->
@@ -141,7 +142,7 @@ table tbody td {padding:0; font-size:90%}
 6. éphémère
 
 ---
-<!-- _class: exercice tableau-r  -->
+<!-- _class: exercice tableau-r pm  -->
 <style scoped>
 table {font-size:1.32em; }
 table td {padding:0px 0.65em;}
@@ -154,13 +155,15 @@ em {font-size:70%!important;}
 |*1* fondé sur<br> un jugement<br> général|*6* causé <br>par un fait<br> particulier|
 
 ---
-<!-- _class:  -->
+<!-- _class: pointmethode -->
+### Point méthode
 <style scoped>
-p {font-size:1.5em; margin:20px 60px}
+ul{padding-top:10px;}
 </style>
-On peut savoir ce qui est cause de plaisir.
+:large_blue_circle:  Il y a plusieurs stratégies pour analyser une notion, notamment :
+- partir d'exemples
+- trouver une opposition ou une distinction
 
-Mais peut-on savoir ce qui fait le bonheur ?
 
 ---
 <!-- _class: citationC -->
@@ -242,35 +245,62 @@ ul {margin-top:-50px}
 DEUXIÈME PARTIE
 
 ---
-<!-- _class: citationC fppppp -->
+<!-- _class: citationC fpppp -->
 
 ![bg left:38% Photographie de Pierre Hadot](https://journals.openedition.org/lettre-cdf/docannexe/image/864/img-2.jpg)
 
 >« [Pour les philosophes de l'Antiquité], la philosophie ne consiste pas dans l'enseignement d'une théorie abstraite, encore moins dans une exégèse de textes, mais dans un art de vivre, dans une attitude concrète, dans un style de vie déterminé, qui engage toute l'existence. »
 >>Pierre **Hadot**, _Exercices spirituels et philosophie antique_
 
+<!-- Pas un savoir théorique abstrait, mais un savoir pratique concret. Pas une science du bonheur, mais un art de vivre. -->
+
 ---
-<!-- _class: citationC fm -->
+<!-- _class: citationC fmm -->
 
 ![bg left:38% Photographie de Pierre Hadot](https://journals.openedition.org/lettre-cdf/docannexe/image/864/img-2.jpg)
 
 >« L'acte philosophique ne se situe pas seulement dans l'ordre de la connaissance, mais dans l'ordre du “soi” et de l'être : c'est un progrès qui nous fait plus être, qui nous rend meilleurs. C'est une conversion qui bouleverse toute la vie, qui change l'être de celui qui l'accomplit. Elle le fait passer d'un état de vie inauthentique, obscurci par l'inconscience, rongé par le souci, à un état de vie authentique, dans lequel l'homme atteint la conscience de soi, la vision exacte du monde, la paix et la liberté intérieures. »
 >>Pierre **Hadot**, _Exercices spirituels et philosophie antique_
 
+<!-- Une pratique de transformation de soi.
+Il y a des modes de vie qui sont préférables à d'autres, nécessité d'un examen de sa vie : il faut réfléchir à son existence.
+Avant tout : un questionnement à avoir par soi-même, à propos de soi-même ≠ paternalisme -->
+
 ---
-<!-- _class: citationC fppp -->
+<!-- _class: citationC fpp -->
 
 ![bg left:38% Photographie de Pierre Hadot](https://journals.openedition.org/lettre-cdf/docannexe/image/864/img-2.jpg)
 
 >« Pour toutes les écoles philosophiques, la principale cause de souffrance, de désordre, d'inconscience, pour l'homme, ce sont les passions : désirs désordonnés, craintes exagérées. La domination du souci l'empêche de vivre vraiment. La philosophie apparaîtra donc, en premier lieu, comme une thérapeutique des passions. »
 >>Pierre **Hadot**, _Exercices spirituels et philosophie antique_
 
+<!-- Il s'agit d'identifier les obstacles qui empêchent le bonheur, d'identifier ce qui nous maintient dans le malheur. D'où l'idée d'une thérapeutique : évacuer le mal pour retrouver la bonne santé.
+Les obstacles : avant tout situés dans l'affect : les émotions, les désirs, les sentiments (≠ raison).
+Sagesse : vie guidée par la raison
+=> mais est-ce possible ? Transition vers la question suivante / le désir insatiable, la possibilité de maîtriser ses désirs -->
+
 ---
 <!-- _class: partie -->
 # Mise en pratique
 
+
 ---
-<!-- _class: exercice application pm fmmm -->
+<!-- _class: pointmethode fppp -->
+<style scoped>
+h3{margin-bottom:60px!important}
+img {height:300px; float:left; margin-right:80px; margin-left:25px; margin-top:20px}
+</style>
+### Point méthode
+
+Pour structurer un paragraphe, on peut utiliser le modèle **ARES** :
+![Dessin qui représente le dieu de la guerre Arès](../images/ares-greek-god.jpg)
+–  A : Argumentation-Analyse
+–  R : Référence théorique
+–  E : Exemple concret
+–  S : Synthèse
+
+---
+<!-- _class: exercice application fmmm -->
 <style scoped>
 span {font-size:90%}
 </style>
@@ -283,21 +313,6 @@ span {font-size:90%}
 	- Le bonheur dépend-il de nous ?
 	- Le bonheur peut-il s’apprendre ?
 	- La réflexion est-elle un obstacle au bonheur ?
-- Rédiger une sous-partie de dissertation <span>(un paragraphe de 150 mots minimum)</span>.
+- Rédiger une sous-partie de dissertation <span>(un paragraphe de 200 mots minimum)</span>.
 	- :warning: Il faut développer une seule réponse et utiliser soit Kant, soit les sagesses antiques.
 	- :warning: Il faut utiliser le modèle _ARES_ (cf. diapositive suivante)
-
----
-<!-- _class: pointmethode fpppp -->
-<style scoped>
-  h3{margin-bottom:60px!important}
-img {height:300px; float:left; margin-right:80px; margin-left:35px; margin-top:20px}
-</style>
-### Point méthode
-
-Pour structurer un paragraphe, on peut utiliser le modèle **ARES** :
-![Dessin qui représente le dieu de la guerre Arès](../images/ares-greek-god.jpg)
-–  A : Argument
-–  R : Référence théorique
-–  E : Exemple concret
-–  S : Synthèse
