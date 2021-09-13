@@ -82,6 +82,15 @@ Questions :
 2/ D'après les sagesses antiques, peut-on savoir ce qu'est le bonheur ? -->
 
 
+
+---
+<!-- _class:  -->
+### Objectifs de ce cours
+
+1) Être capable de définir la notion de bonheur :large_blue_circle:
+2) Comprendre l'opposition principale entre Kant et les sagesses antiques :red_circle:
+3) Comprendre comment on construit son argumentation dans une sous-partie de dissertation :green_circle:
+
 ---
 <!-- _class: partie pm -->
 # I – Kant : <br>Le bonheur <br>comme idéal de<br> l'imagination <!-- fit -->
