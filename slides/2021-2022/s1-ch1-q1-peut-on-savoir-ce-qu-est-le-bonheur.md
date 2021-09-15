@@ -163,6 +163,12 @@ em {font-size:70%!important;}
 |*2* durable|*6* éphémère|
 |*1* fondé sur<br> un jugement<br> général|*6* causé <br>par un fait<br> particulier|
 
+<!-- Précision sur global ≠ total (point critiquable du texte de Kant).
+Précision sur durable : non pas qui va durer, mais qui peut durer  -->
+
+<!-- Le plaisir dépend d'une expérience : on sait ce qu'est le plaisir, ce qui nous fait plaisir au moment où en a l'expérience.
+Le bonheur exige davantage : ce n'est pas seulement une expérience ici, maintenant, qui peut le définir. -->
+
 ---
 <!-- _class: pointmethode -->
 ### Point méthode
@@ -214,6 +220,17 @@ ol{font-size:95%; margin-top:-5px!important; padding-left:0!important; margin-le
 |*5* un concept <br>précis et clair|*2* une image <br>vague et confuse|
 |*3* une méthode<br>infaillible|*6* une projection incertaine qui n'est pas<br> à l'abri de la déception|
 
+<!-- Conclusion / Kant : pas de conception normative du bonheur.
+Pas de paternalisme.
+Spécificité de la thèse de Kant :
+D'ordinaire on pense qu'on sait pour soi-même ce qu'est le bonheur, mais pas pour les autres.
+Mais pour Kant : je ne sais pas pour-moi-même ce qu'est le bonheur.
+On ne sait pas vraiment ce qu'on veut.
+
+La déception est toujours possible.
+Attention : il ne s'agit pas de la déception de ne pas être parvenu à son objectif.
+Il s'agit d'une déception éprouvée alors qu'on est parvenu à son objectif. -->
+
 ---
 <!-- _class: i1t1 horizontal pp  -->
 <style scoped>
@@ -246,7 +263,6 @@ ul {margin-top:-50px}
 * un exemple inventé ;
 * ou mieux : un exemple issu de sa culture ;
 * ou mieux encore : un exemple classique.
-
 
 ---
 <!-- _class: partie -->
