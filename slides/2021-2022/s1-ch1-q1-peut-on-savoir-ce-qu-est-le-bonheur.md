@@ -261,7 +261,9 @@ DEUXIÈME PARTIE
 >« [Pour les philosophes de l'Antiquité], la philosophie ne consiste pas dans l'enseignement d'une théorie abstraite, encore moins dans une exégèse de textes, mais dans un art de vivre, dans une attitude concrète, dans un style de vie déterminé, qui engage toute l'existence. »
 >>Pierre **Hadot**, _Exercices spirituels et philosophie antique_
 
-<!-- Pas un savoir théorique abstrait, mais un savoir pratique concret. Pas une science du bonheur, mais un art de vivre. -->
+<!-- Sagesse ≠ 1 savoir théorique abstrait
+= une pratique concrète
+= un art de vivre ≠ une science du bonheur -->
 
 ---
 <!-- _class: citationC fmm -->
@@ -272,8 +274,8 @@ DEUXIÈME PARTIE
 >>Pierre **Hadot**, _Exercices spirituels et philosophie antique_
 
 <!-- Une pratique de transformation de soi.
-Il y a des modes de vie qui sont préférables à d'autres, nécessité d'un examen de sa vie : il faut réfléchir à son existence.
-Avant tout : un questionnement à avoir par soi-même, à propos de soi-même ≠ paternalisme -->
+Il y a des modes de vie qui constituent un obstacle au bonheur.
+Une réflexion sur soi est nécessaire.-->
 
 ---
 <!-- _class: citationC fpp -->
@@ -283,10 +285,18 @@ Avant tout : un questionnement à avoir par soi-même, à propos de soi-même �
 >« Pour toutes les écoles philosophiques, la principale cause de souffrance, de désordre, d'inconscience, pour l'homme, ce sont les passions : désirs désordonnés, craintes exagérées. La domination du souci l'empêche de vivre vraiment. La philosophie apparaîtra donc, en premier lieu, comme une thérapeutique des passions. »
 >>Pierre **Hadot**, _Exercices spirituels et philosophie antique_
 
-<!-- Il s'agit d'identifier les obstacles qui empêchent le bonheur, d'identifier ce qui nous maintient dans le malheur. D'où l'idée d'une thérapeutique : évacuer le mal pour retrouver la bonne santé.
-Les obstacles : avant tout situés dans l'affect : les émotions, les désirs, les sentiments (≠ raison).
-Sagesse : vie guidée par la raison
-=> mais est-ce possible ? Transition vers la question suivante / le désir insatiable, la possibilité de maîtriser ses désirs -->
+<!-- L'obstacle principal au bonheur se situe dans notre affectivité (émotions, sentiments, craintes, désirs …).
+La sagesse : une vie guidée par la raison ≠ soumise à nos affects
+La sagesse : une forme de thérapie de l'âme.
+	- rétablir un équilibre intérieur
+	- chasser les troubles de notre esprit
+
+=> mais est-ce possible ? Transition vers la question suivante / le désir insatiable, le désir qui nous fait souffrir, la possibilité de maîtriser ses désirs -->
+
+<!-- 
+En définitive : une conception normative du bonheur
+Mais pas de paternalisme : c'est à chacun de réfléchir à son existe
+La sagesse repose sur un questionnement à avoir par soi-même, à propos de soi-même  -->
 
 ---
 <!-- _class: partie -->
