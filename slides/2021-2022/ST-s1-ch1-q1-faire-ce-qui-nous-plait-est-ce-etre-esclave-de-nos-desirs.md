@@ -106,7 +106,7 @@ img {height:600px}
 </style>
 Le mythe d'Aristophane
 
-[![Représentation du mythe d'Aristophane](../images/mythe-Aristophane.png)](https://www.youtube.com/watch?v=fmDpwXCyFOI)
+[![Représentation du mythe d'Aristophane](../images/mythe-Aristophane.png)](https://ladigitale.dev/digiplay/#/v/6142dd4d774ba) <!-- https://www.youtube.com/watch?v=fmDpwXCyFOI -->
 
 
 ---
@@ -123,45 +123,23 @@ Le mythe d'Aristophane
 ![Tableau qui représente les Danaïdes qui remplissent un tonneau sans fond](https://upload.wikimedia.org/wikipedia/commons/3/3e/Danaides_Waterhouse_1903.jpg)
 
 ---
-<!-- _class: fp -->
+<!-- _class: fmmmm pp -->
 <style scoped>
-h3{margin-bottom:0}
+table {padding:0px 15px!important; margin-top:-20px!important}
 </style>
 
-### L'image du tonneau percé
-
-1) Nous aimerions tous avoir un **tonneau plein**
-2) Mais le tonneau n'est pas plein : il y a **du vide** dans le tonneau
-3) Nous essayons de **remplir le tonneau** en versant des bonnes choses dans le tonneau
-4) Le problème est que nous avons un **tonneau percé**
-5) Donc, quand on remplit le tonneau, il **se vide rapidement**
-6) Nous sommes ainsi condamnés à verser sans cesse, sans **jamais arriver à un tonneau plein**
-
----
-<!-- _class: fmmmmmmmmm pp -->
-<style scoped>
-table {padding:20px!important;}
-table td{width:455px; text-align:left!important}
-</style>
+<div data-marpit-fragment>
 
 |Image|Signification|
 |:-:|:-:|
-|Nous aimerions tous avoir un tonneau plein|Nous recherchons tous le bonheur comme état de plénitude|
-|Mais le tonneau n'est pas plein : il y a du vide dans le tonneau|Mais il y a en nous, un état de manque, un état d'insatisfaction|
-|Nous essayons de remplir le tonneau en versant des bonnes choses dans le tonneau|Nous cherchons à combler ce manque en satisfaisant nos désirs|
-|Le problème est que nous avons un tonneau percé|Le problème est que nous désirons toujours plus (= la pléonexie)|
-|Donc, quand on remplit le tonneau, il se vide rapidement|La satisfaction est donc temporaire : nous retombons vite dans l'insatisfaction|
-|Nous sommes ainsi condamnés à verser sans cesse, sans jamais arriver à un tonneau plein|Nous sommes condamnés à un cycle sans fin d'insatisfactions, qui ne permet pas de parvenir au bonheur (à une satisfaction globale et durable)|
+|Le tonneau plein|<span data-marpit-fragment="1">Le bonheur comme <br>état de plénitude</span>|
+|<span data-marpit-fragment="2">Le vide dans le tonneau</span>|<span data-marpit-fragment="3">Un état de manque en nous, <br>un état d'insatisfaction</span>|
+|<span data-marpit-fragment="4">Remplir le tonneau</span>|<span data-marpit-fragment="5">Chercher à combler ce manque <br>en satisfaisant nos désirs</span>|
+|<span data-marpit-fragment="6">Le tonneau est percé</span>|<span data-marpit-fragment="7">Nous désirons toujours plus (= la pléonexie)</span>|
+|<span data-marpit-fragment="8">Le tonneau se <br>vide rapidement</span>|<span data-marpit-fragment="9">La satisfaction est temporaire : nous retombons vite dans l'insatisfaction</span>|
+|<span data-marpit-fragment="10">Verser sans cesse ne permet pas d'arriver à un tonneau plein</span>|<span data-marpit-fragment="11">Désirer toujours plus ne permet <br>pas de parvenir au bonheur</span>|
 
----
-<!-- _class: citationL fmmm -->
-<style scoped>
-blockquote blockquote {margin-top:-10px;}
-</style>
-
->« Je suis publicitaire: eh oui, je pollue l’univers. Je suis le type qui […] vous fait rêver de ces choses que vous n’aurez jamais. Ciel toujours bleu, nanas jamais moches, un bonheur parfait, retouché sur PhotoShop. Images léchées, musiques dans le vent. Quand, à force d’économies, vous réussirez à vous payer la bagnole de vos rêves, celle que j’ai shootée dans ma dernière campagne, je l’aurai déjà démodée. J’ai trois vogues d’avance, et m’arrange toujours pour que vous soyez frustré. Le Glamour, c’est le pays où l’on n’arrive jamais. Je vous drogue à la nouveauté, et l’avantage avec la nouveauté, c’est qu’elle ne reste jamais neuve. Il y a toujours une nouvelle nouveauté pour faire vieillir la précédente. Vous faire baver, tel est mon sacerdoce. Dans ma profession, personne ne souhaite votre bonheur, parce que les gens heureux ne consomment pas.
-Votre souffrance dope le commerce. Dans notre jargon, on l’a baptisée « la déception post-achat ». Il vous faut d’urgence un produit, mais dès que vous le possédez, il vous en faut un autre. […] Mais pour créer des besoins, il faut attiser la jalousie, la douleur, l’inassouvissement : telles sont mes munitions. Et ma cible, c’est vous. »
->>Frédéric **Beigbeder**, _99F_
+</div>
 
 ---
 <!-- _class: i1t0 pp -->
@@ -169,12 +147,11 @@ Votre souffrance dope le commerce. Dans notre jargon, on l’a baptisée « la�
 ![Image d'une publicité Dior](../images/dior.jpg)
 
 ---
-<!-- _class: entete approfondissement -->
-### Approfondissement
+<!-- _class:  -->
+### Exercice facultatif
 
-1. Lire cette [analyse très précise de la publicité de Dior](https://eyssette.github.io/blog/assets/pdf/ancien_blog/1_ethique_et_philosophie_morale/2007_2008_analyse_dior.pdf)
-2. Faire l'analyse d'une image publicitaire
-3. Découvrir l'analyse que Baudrillard propose de la société de consommation sur le site Philitt : « [Baudrillard ou le triomphe du superflu](https://philitt.fr/2014/10/23/baudrillard-ou-le-triomphe-du-superflu/) »
+1. Choisir dans un journal une image publicitaire, la découper et la coller sur une feuille
+2. Faire l'analyse de cette image : comment cette image cherche-t-elle à susciter en nous le désir ?
 
 
 ---
@@ -188,11 +165,16 @@ p{margin-bottom:5px!important; margin-left:30px; margin-right:30px!important;}
 
 <div class="puces">
 
-[Extrait 1](https://youtu.be/uUlJarbHrMU?t=493) : les techniques de rétention dans Fortnite
+[Extrait 1](https://ladigitale.dev/digiplay/#/v/6142dc67b285a) : les techniques de rétention dans Fortnite  <!-- https://youtu.be/uUlJarbHrMU?t=493 -->
 
-[Extrait 2](https://youtu.be/uUlJarbHrMU?t=2353) : les réseaux sociaux et l'économie de l'attention
+[Extrait 2](https://ladigitale.dev/digiplay/#/v/6142dd12b6105) : les réseaux sociaux et l'économie de l'attention <!-- https://youtu.be/uUlJarbHrMU?t=2353 -->
 </div>
 
+
+---
+<!-- _class: i1t0 -->
+
+[![](https://i.ibb.co/RbpZRBP/dopamine-t.jpg)](https://ladigitale.dev/digiplay/#/v/6142db5ee80cd)
 
 
 ---

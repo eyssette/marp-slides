@@ -61,6 +61,26 @@ Schopenhauer
 
 vs.
 
+---
+<!-- _class:  -->
+### Objectifs de ce cours
+
+1) Comprendre différentes formes possibles de désir :large_blue_circle:
+2) Comprendre l'opposition principale entre Schopenhauer et Épicure :red_circle:
+3) Comprendre comment on problématise une question dans l'introduction de la dissertation  :red_circle:
+
+---
+<!-- _class: f -->
+<style scoped>
+p {text-indent:1em}
+</style>
+
+À première vue, le désir est un état psychique qui nous motive à agir, en vue de la satisfaction de nos besoins, de nos envies ou d'un objectif particulier. Nous ressentons comme agréable le fait de parvenir à réaliser nos désirs. Le désir semble par conséquent avoir pour finalité le plaisir plutôt que la souffrance.
+
+Mais est-ce si simple ? En effet, ……………………………………………………………………………………………………………………………………………………………
+
+Le problème se pose donc ainsi : ………… ? Ou bien ……… ?
+
 
 ---
 <!-- _class: partie -->
