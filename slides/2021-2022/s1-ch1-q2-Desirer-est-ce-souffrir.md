@@ -70,16 +70,14 @@ vs.
 3) Commencer à comprendre comment on problématise une question dans l'introduction de la dissertation  :red_circle:
 
 ---
-<!-- _class: f pm-->
+<!-- _class:  -->
 <style scoped>
-p {text-indent:2em; line-height:1.3em;}
+p {text-indent:2em; line-height:1.25em; padding:5px 40px}
 </style>
 
 À première vue, le désir est …………………………………………………………………………………………………………………………………………………………………………<!-- un état psychique qui nous motive à agir, en vue de la satisfaction de nos besoins, de nos envies ou d'un objectif particulier. Nous ressentons comme agréable le fait de parvenir à réaliser nos désirs. Le désir semble par conséquent avoir pour finalité le plaisir plutôt que la souffrance. -->
 
 Mais est-ce si simple ? En effet, …………………………………………………………………………………………………………………………………………………………………………
-
-Le problème se pose donc ainsi : ………… ? Ou bien ……… ?
 
 
 ---
@@ -119,9 +117,9 @@ Le mythe d'Aristophane
 ![Tableau qui représente les Danaïdes qui remplissent un tonneau sans fond](https://upload.wikimedia.org/wikipedia/commons/3/3e/Danaides_Waterhouse_1903.jpg)
 
 ---
-<!-- _class: fmmmm pp -->
+<!-- _class: fmm pp -->
 <style scoped>
-table {padding:0px 15px!important; margin-top:-20px!important}
+table {padding:0px 15px!important; }
 </style>
 
 <div data-marpit-fragment>
@@ -132,8 +130,8 @@ table {padding:0px 15px!important; margin-top:-20px!important}
 |<span data-marpit-fragment="2">Le vide dans le tonneau</span>|<span data-marpit-fragment="3">Un état de manque en nous, <br>un état d'insatisfaction</span>|
 |<span data-marpit-fragment="4">Remplir le tonneau</span>|<span data-marpit-fragment="5">Chercher à combler ce manque <br>en satisfaisant nos désirs</span>|
 |<span data-marpit-fragment="6">Le tonneau est percé</span>|<span data-marpit-fragment="7">Nous désirons toujours plus (= la pléonexie)</span>|
-|<span data-marpit-fragment="8">Le tonneau se <br>vide rapidement</span>|<span data-marpit-fragment="9">La satisfaction est temporaire : nous retombons vite dans l'insatisfaction</span>|
-|<span data-marpit-fragment="10">Verser sans cesse ne permet pas d'arriver à un tonneau plein</span>|<span data-marpit-fragment="11">Désirer toujours plus ne permet <br>pas de parvenir au bonheur</span>|
+|<span data-marpit-fragment="8">Le tonneau se <br>vide rapidement</span>|<span data-marpit-fragment="9">La satisfaction est temporaire : <br>nous retombons vite dans l'insatisfaction</span>|
+|<span data-marpit-fragment="10">Le tonneau ne sera<br> jamais plein</span>|<span data-marpit-fragment="11">Nous ne parviendrons pas au bonheur</span>|
 
 </div>
 
