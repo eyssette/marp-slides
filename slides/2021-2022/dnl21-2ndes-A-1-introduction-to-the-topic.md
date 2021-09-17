@@ -97,6 +97,27 @@ h1 {padding:0px 20px; font-size:3.3em; line-height:1.15em;}
 
 # Amnesty <br>International
 
+
+---
+<!-- _class: partie -->
+# Places <!-- fit -->
+
+---
+<!-- _class: pp -->
+<style scoped>
+h1 {padding:0px 50px}
+</style>
+
+# Strasbourg <!-- fit -->
+
+---
+<!-- _class: pp -->
+<style scoped>
+h1 {padding:0px 50px}
+</style>
+
+# Geneva <!-- fit -->
+
 ---
 <!-- _class: partie -->
 # Statistics <!-- fit -->
