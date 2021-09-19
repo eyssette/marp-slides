@@ -133,10 +133,15 @@ Il faut donc essayer de comprendre le sens de chaque élément et la manière do
 => envie d'être (je ne suis pas parfait·e)
 
 Le faire sous forme de carte mentale :
-La publicité Dior cherche à susciter …
-  - Un désir sexuel
-  - Un désir d'avoir
-  - Un désir d'être
+La publicité Dior repose sur …
+  - l'excitation des sens
+    - la nudité, les cheveux, la bouteille effleurée devant la poitrine
+  - la représentation d'un univers idéal :
+    - signes du luxe et de la richesse (l'or : couleur, sonorités), de la distinction (Paris, absolu, la posture), de la beauté (retouches Photoshop pour correspondre à des "canons")
+  - la mise en scène du désir pour l'objet :
+    - j'adore, l'objet touché
+  - la transformation de l'individu grâce à l'objet :
+    - ambivalence du "Je" dans J'adore, Le féminin absolu, forme du parfum // femme (avoir le parfum : être comme cette femme) : mythe de Midas inversé (en touchant le parfum, je deviens quelqu'un d'autre : je me transforme)
 
 Autres procédés possibles :
 - valorisation du nouveau par rapport à l'ancien (désir d'avoir)
@@ -144,6 +149,21 @@ Autres procédés possibles :
 
 
 -->
+
+---
+<!-- _class: fmmm -->
+<style scoped>
+span {font-size:87%; color:#222}
+em {font-style:normal; font-variant:small-caps;}
+</style>
+
+Cette publicité repose sur … :
+
+1) L'excitation des sens <span><br>&rarr; La nudité, les cheveux, le bain, le regard, la bouteille effleurée devant la poitrine</span>
+2) La représentation d'un univers idéal ou du moins supérieur <span><br>&rarr; L'or (signe de luxe, de richesse), une image retouchée sous Photoshop, le terme “_absolu_.”, les signes de distinction (“Paris”, “Dior”, la posture), la disposition dans l'espace : espace éthéré + verticalité + séparation marquée par le bras </span>
+3) La mise en scène du désir pour l'objet (le désir mimétique) <span><br>&rarr; “J'adore”, l'objet touché par une mannequin</span>
+4) La prétendue transformation de l'individu grâce à l'objet <span><br>&rarr; L'ambivalence du “Je” dans “J'adore”, “_le féminin absolu_”, l'analogie entre la forme du parfum et le corps de la femme, la référence inversée au mythe de Midas</span>
+
 
 ---
 <!-- _class:  -->
