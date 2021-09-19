@@ -103,6 +103,55 @@ Le mythe d'Aristophane
 [![Représentation du mythe d'Aristophane](../images/mythe-Aristophane.png)](https://ladigitale.dev/digiplay/#/v/6142dd4d774ba) <!-- https://www.youtube.com/watch?v=fmDpwXCyFOI -->
 
 
+<!-- L'amour : quête de plénitude.
+On ne peut jamais avoir la certitude d'avoir retrouvée l'unité perdue.
+La fusion est impossible : nous restons à jamais séparés.
+Le désir comme inquiétude, manque perpétuel, jamais pleinement satisfait.
+Une sorte de béance, de vide en nous.
+ -->
+
+
+---
+<!-- _class: i1t0 pp -->
+
+[![Image d'une publicité Dior](../images/dior.jpg)](https://eyssette.github.io/ancien-blog/assets/pdf/ancien_blog/1_ethique_et_philosophie_morale/2007_2008_analyse_dior.pdf)
+
+
+<!-- 
+La publicité utilise plusieurs procédés pour donner aux individus l’envie d’acheter un produit ou un service.
+Essayons d’analyser une publicité précise pour comprendre de manière plus concrète le mode de fonctionnement de la publicité.
+Dans une publicité, tout est signifiant, tout a été conçu pour susciter en nous une envie d’acheter le produit ou le service proposé.
+Il faut donc essayer de comprendre le sens de chaque élément et la manière dont ces éléments cherchent à créer en nous un désir.
+
+
+- l'excitation des sens : la nudité, les cheveux, la bouteille effleurée devant la poitrine
+=> envie “brute”
+- perfection : signes du luxe et de la richesse (l'or : couleur, sonorités), de la distinction (Paris, absolu, la posture), de la beauté (retouches Photoshop pour correspondre à des "canons")
+- mise en scène du désir pour l'objet : adore, l'objet touché
+=> envie d'avoir (je n'ai pas ce qui est désirable, je n'ai pas ce que les autres désirent)
+- transformation de l'individu grâce à l'objet : ambivalence du "Je" dans J'adore, Le féminin absolu, forme du parfum // femme (avoir le parfum : être comme cette femme) : mythe de Midas inversé (en touchant le parfum, je deviens quelqu'un d'autre : je me transforme)
+=> envie d'être (je ne suis pas parfait·e)
+
+Le faire sous forme de carte mentale :
+La publicité Dior cherche à susciter …
+  - Un désir sexuel
+  - Un désir d'avoir
+  - Un désir d'être
+
+Autres procédés possibles :
+- valorisation du nouveau par rapport à l'ancien (désir d'avoir)
+- affirmation d'une identité particulière ou identification à un groupe (désir d'être)
+
+
+-->
+
+---
+<!-- _class:  -->
+### Exercice facultatif
+
+1. Choisir dans un journal une image publicitaire, la découper et la coller sur une feuille
+2. Faire l'analyse de cette image : comment cette image cherche-t-elle à susciter en nous le désir ?
+
 ---
 <!-- _class: citationC fpppppp-->
 
@@ -135,17 +184,6 @@ table {padding:0px 15px!important; }
 
 </div>
 
----
-<!-- _class: i1t0 pp -->
-
-![Image d'une publicité Dior](../images/dior.jpg)
-
----
-<!-- _class:  -->
-### Exercice facultatif
-
-1. Choisir dans un journal une image publicitaire, la découper et la coller sur une feuille
-2. Faire l'analyse de cette image : comment cette image cherche-t-elle à susciter en nous le désir ?
 
 
 ---
@@ -348,33 +386,26 @@ On retrouve parfois une référence à Épicure dans certains mouvements contemp
 Vous pouvez lire un [document à propos de la simplicité volontaire](https://docs.google.com/document/d/1bj-Z10wRiGp6H8erRwLmp8BmHtYTJgWaLBc3HalJT_A/edit?usp=sharing) afin de voir quelle comparaison on peut faire entre l'épicurisme et ce mouvement
 
 ---
-<!-- _class: etape -->
-### Récapitulatif
+<!-- _class: partie -->
+# Mise en pratique
 
 ---
-<!-- _class: qcm fpp-->
-
-D'après Épicure :
-
-- Satisfaire tous ses désirs, est-ce une bonne règle de vie ?
-- La réflexion est-elle un obstacle au bonheur ?
-- Le bonheur dépend-il de nous ?
-- Le bonheur peut-il s’apprendre ?
-- Existe-t-il une nature humaine universelle ?
-- La nature peut-elle nous dire ce que nous devons faire ?
-
----
-<!-- _class: exercice application fm -->
+<!-- _class: exercice application fmmmm -->
 <style scoped>
-ul ul {font-size:100%}
+h3 {margin-bottom:10px}
+ul ul {font-size:100%; margin-left:-30px}
 span {font-size:90%}
 </style>
 
-### Exercice d'argumentation et de mobilisation de sa culture
+### Exercice d'application
 
-- Rédiger un paragraphe <span>(200 mots minimum)</span>, qui répond à l'un de ces sujets, avec un argument qui mobilise le cours (Schopenhauer ou Épicure) en utilisant le modèle _ARES_ :
+- Choisir un sujet ci-dessous :
   - Le progrès technique rend-il heureux ?
-  - Peut-on désirer sans souffrir ?
   - Le bonheur n'est-il qu'une illusion ?
   - Le désir est-il la marque de notre imperfection ?
   - Le désir peut-il se satisfaire de la réalité ?
+  - Satisfaire tous ses désirs, est-ce une bonne règle de vie ?
+  - La réflexion est-elle un obstacle au bonheur ?
+  - Le bonheur peut-il s’apprendre ?
+  - Y a-t-il des désirs naturels ?
+- Rédiger une sous-partie de dissertation <span>(200 mots minimum)</span> : :warning: <span>il faut défendre une seule réponse, mobiliser le cours (Schopenhauer ou Épicure), et utiliser le modèle ARES</span>

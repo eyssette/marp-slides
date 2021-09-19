@@ -109,6 +109,69 @@ Le mythe d'Aristophane
 [![Représentation du mythe d'Aristophane](../images/mythe-Aristophane.png)](https://ladigitale.dev/digiplay/#/v/6142dd4d774ba) <!-- https://www.youtube.com/watch?v=fmDpwXCyFOI -->
 
 
+<!-- L'amour : quête de plénitude.
+On ne peut jamais avoir la certitude d'avoir retrouvée l'unité perdue.
+La fusion est impossible : nous restons à jamais séparés.
+Le désir comme inquiétude, manque perpétuel, jamais pleinement satisfait.
+Une sorte de béance, de vide en nous.
+ -->
+
+
+---
+<!-- _class: i1t0 pp -->
+
+[![Image d'une publicité Dior](../images/dior.jpg)](https://eyssette.github.io/ancien-blog/assets/pdf/ancien_blog/1_ethique_et_philosophie_morale/2007_2008_analyse_dior.pdf)
+
+
+<!-- 
+La publicité utilise plusieurs procédés pour donner aux individus l’envie d’acheter un produit ou un service.
+Essayons d’analyser une publicité précise pour comprendre de manière plus concrète le mode de fonctionnement de la publicité.
+Dans une publicité, tout est signifiant, tout a été conçu pour susciter en nous une envie d’acheter le produit ou le service proposé.
+Il faut donc essayer de comprendre le sens de chaque élément et la manière dont ces éléments cherchent à créer en nous un désir.
+
+
+- l'excitation des sens : la nudité, les cheveux, la bouteille effleurée devant la poitrine
+=> envie “brute”
+- perfection : signes du luxe et de la richesse (l'or : couleur, sonorités), de la distinction (Paris, absolu, la posture), de la beauté (retouches Photoshop pour correspondre à des "canons")
+- mise en scène du désir pour l'objet : adore, l'objet touché
+=> envie d'avoir (je n'ai pas ce qui est désirable, je n'ai pas ce que les autres désirent)
+- transformation de l'individu grâce à l'objet : ambivalence du "Je" dans J'adore, Le féminin absolu, forme du parfum // femme (avoir le parfum : être comme cette femme) : mythe de Midas inversé (en touchant le parfum, je deviens quelqu'un d'autre : je me transforme)
+=> envie d'être (je ne suis pas parfait·e)
+
+Le faire sous forme de carte mentale :
+La publicité Dior cherche à susciter …
+  - Un désir sexuel
+  - Un désir d'avoir
+  - Un désir d'être
+
+Autres procédés possibles :
+- valorisation du nouveau par rapport à l'ancien (désir d'avoir)
+- affirmation d'une identité particulière ou identification à un groupe (désir d'être)
+
+
+-->
+
+---
+<!-- _class: pm -->
+### Exercice facultatif
+
+1. Choisir dans un journal une image publicitaire, la découper et la coller sur une feuille
+2. Faire l'analyse de cette image : comment cette image cherche-t-elle à susciter en nous le désir ?
+
+---
+<!-- _class: pointmethode fpppp-->
+<style scoped>
+ul {margin-top:-50px}
+</style>
+
+### Point méthode
+:yellow_circle:  Il faut mobiliser des exemples  pour ancrer sa réflexion dans la réalité. On peut utiliser :
+
+* un exemple inventé ;
+* ou mieux : un exemple issu de sa culture ;
+* ou mieux encore : un exemple classique.
+
+
 ---
 <!-- _class: citationC fpppppp-->
 
@@ -123,9 +186,9 @@ Le mythe d'Aristophane
 ![Tableau qui représente les Danaïdes qui remplissent un tonneau sans fond](https://upload.wikimedia.org/wikipedia/commons/3/3e/Danaides_Waterhouse_1903.jpg)
 
 ---
-<!-- _class: fmmmm pp -->
+<!-- _class: fmm pp -->
 <style scoped>
-table {padding:0px 15px!important; margin-top:-20px!important}
+table {padding:0px 15px!important; }
 </style>
 
 <div data-marpit-fragment>
@@ -136,22 +199,11 @@ table {padding:0px 15px!important; margin-top:-20px!important}
 |<span data-marpit-fragment="2">Le vide dans le tonneau</span>|<span data-marpit-fragment="3">Un état de manque en nous, <br>un état d'insatisfaction</span>|
 |<span data-marpit-fragment="4">Remplir le tonneau</span>|<span data-marpit-fragment="5">Chercher à combler ce manque <br>en satisfaisant nos désirs</span>|
 |<span data-marpit-fragment="6">Le tonneau est percé</span>|<span data-marpit-fragment="7">Nous désirons toujours plus (= la pléonexie)</span>|
-|<span data-marpit-fragment="8">Le tonneau se <br>vide rapidement</span>|<span data-marpit-fragment="9">La satisfaction est temporaire : nous retombons vite dans l'insatisfaction</span>|
-|<span data-marpit-fragment="10">Verser sans cesse ne permet pas d'arriver à un tonneau plein</span>|<span data-marpit-fragment="11">Désirer toujours plus ne permet <br>pas de parvenir au bonheur</span>|
+|<span data-marpit-fragment="8">Le tonneau se <br>vide rapidement</span>|<span data-marpit-fragment="9">La satisfaction est temporaire : <br>nous retombons vite dans l'insatisfaction</span>|
+|<span data-marpit-fragment="10">Le tonneau ne sera<br> jamais plein</span>|<span data-marpit-fragment="11">Nous ne parviendrons pas au bonheur</span>|
 
 </div>
 
----
-<!-- _class: i1t0 pp -->
-
-![Image d'une publicité Dior](../images/dior.jpg)
-
----
-<!-- _class:  -->
-### Exercice facultatif
-
-1. Choisir dans un journal une image publicitaire, la découper et la coller sur une feuille
-2. Faire l'analyse de cette image : comment cette image cherche-t-elle à susciter en nous le désir ?
 
 
 ---
@@ -184,37 +236,6 @@ Deuxième partie
 
 
 ---
-<!-- _class: souspartie f -->
-## A. Il faut réfléchir aux plaisirs que nous recherchons
-
----
-<!-- _class: citationC -->
-
-![Buste d'Épicure bg left:46%](https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Epikouros_BM_1843.jpg/1920px-Epikouros_BM_1843.jpg)
-
->« [L]e plaisir est le commencement et la fin de la vie heureuse »
->>**Épicure**, _Lettre à Ménécée_
-
----
-<!-- _class: definition fp-->
-<style scoped>
-p:nth-child(1){border:none; margin:0px 40px}
-h3{font-size:120%; margin-top:15px}
-</style>
-Il ne s'agit pas de faire une critique moraliste des plaisirs et de défendre un ascétisme radical.
-
-### Définition
-- **Une critique moraliste des plaisirs** consisterait à considérer les plaisirs comme des tentations mauvaises qui nous conduisent au vice.
-- **L'ascétisme** désigne le fait de renoncer à certains plaisirs, voire de s'imposer certaines souffrances en vue d'un idéal supérieur.
-
-<!-- Exemples :  abstinence sexuelle, pratiques de mortification du corps, histoire d'Origène qui se serait lui-même castré -->
-
----
-<!-- _class: definition -->
-### Définition
-L'**hédonisme** est une défense de la valeur du plaisir, c'est la thèse selon laquelle le plaisir est un bien qu'il faut rechercher
-
----
 <!-- _class: i1t1 fppp-->
 <style scoped>
 p:nth-of-type(1){margin-bottom:30px;}
@@ -237,61 +258,6 @@ Attention ! Au sens commun, l'expression “être un épicurien” désigne le f
 ### Définitions
 - **L'aponie** désigne l'absence de souffrances dans le corps
 - **L'ataraxie** désigne l'absence de troubles dans l'âme
-
-
----
-<!-- _class: i2t1 contain  -->
-<style scoped>
-p:nth-of-type(1){margin-top:-40px!important;}
-img{height:570px;}
-</style>
-
-Il faut distinguer deux formes d'hédonisme
-
-[![Couverture du livre Le Portrait de Dorian Gray](https://images-na.ssl-images-amazon.com/images/I/81WmjDniBuL.jpg)](https://drive.google.com/file/d/0B33DtpyVkjZFU2tXRFVRMUtkTVU/view)
-
-[![Affiche du film Les Ailes du Désir](https://media.senscritique.com/media/000019340223/source_big/Les_Ailes_du_desir.jpg)](https://drive.google.com/file/d/1uGhuf7BnnsQY4RU4E_PvokrBHe2GzEhc/view)
-
----
-<!-- _class: exercice tableau colonnes fmmmm-->
-|L'hédonisme radical|L'hédonisme d'Épicure|
-|:-:|:-:|
-|?|?|
-|?|?|
-|?|?|
-
-1. consiste à désirer toujours plus
-2. démarche soustractive : il faut supprimer ce qui trouble notre corps et notre âme
-3. un hédonisme de l'excès, qui recherche les plaisirs dans la démesure
-4. consiste à retrouver le plaisir simple d'exister
-5. démarche additive, voire multiplicative : on veut ajouter sans cesse de nouvelles expériences de plaisir
-6. un hédonisme mesuré, qui préfère les plaisirs stables
-
----
-<!-- _class: exercice tableau-r fmm-->
-<style scoped>
-
-</style>
-|L'hédonisme radical|L'hédonisme d'Épicure|
-|:-:|:-:|
-|_1_ consiste à désirer<br> toujours plus|_4_ consiste à retrouver le plaisir simple d'exister|
-|_3_ un hédonisme de l'excès, <br>qui recherche les plaisirs<br> dans la démesure|_6_ un hédonisme mesuré, qui préfère les plaisirs stables|
-|_5_ démarche additive, voire multiplicative : on veut ajouter sans cesse de nouvelles expériences de plaisir|_2_ démarche soustractive : il faut supprimer ce qui trouble notre corps et notre âme|
-
-- Qu'est-ce qui peut troubler notre corps et notre âme ?
-
----
-<!-- _class: entete approfondissement -->
-### Approfondissement
-
-Parmi ce qui peut troubler notre corps et notre âme, il y a, pour Épicure, plusieurs croyances fausses, sur les Dieux et sur la mort, qui peuvent nous empêcher de retrouver le simple plaisir d'exister.
-
-Vous pouvez consulter ce [schéma pour comprendre ce que dit l'épicurisme à propos des dieux et de la mort](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/epicurisme-supprimer-croyances-fausses.svg).
-
----
-<!-- _class: souspartie f-->
-## B. Il faut savoir identifier les désirs qui nous troublent et nous<br> éloignent du bonheur
-
 
 ---
 <!-- _class: citationC -->
@@ -337,50 +303,41 @@ Les désirs qui ne sont pas vains, mais ancrés dans notre nature, ne doivent pa
 >>**Épicure**, _Lettre à Ménécée_
 
 ---
-<!-- _class:  -->
-L'hédonisme d'Épicure est donc bien un hédonisme de la mesure qui se méfie de ce qu'il peut y avoir d'illimité dans nos désirs.
-
-La nature fonctionne ici comme un modèle de cette mesure à trouver : il faudrait savoir revenir à ce qu'il y a d'essentiel pour nous, en tant qu'êtres vivants et en tant qu'êtres humains.
-
-<!-- Mais : y a-t-il une nature humaine universelle ? La nature peut-elle être un modèle qui fixe des normes à notre existence ? -->
+<!-- _class: partie -->
+# Mise en pratique
 
 
 ---
-<!-- _class: entete approfondissement -->
-### Approfondissement
-
-On retrouve parfois une référence à Épicure dans certains mouvements contemporains autour des thèmes de la simplicité volontaire, de la décroissance ou de la sobriété heureuse.
-
-Vous pouvez lire un [document à propos de la simplicité volontaire](https://docs.google.com/document/d/1bj-Z10wRiGp6H8erRwLmp8BmHtYTJgWaLBc3HalJT_A/edit?usp=sharing) afin de voir quelle comparaison on peut faire entre l'épicurisme et ce mouvement
-
----
-<!-- _class: etape -->
-### Récapitulatif
-
----
-<!-- _class: qcm fpp-->
-
-D'après Épicure :
-
-- Satisfaire tous ses désirs, est-ce une bonne règle de vie ?
-- La réflexion est-elle un obstacle au bonheur ?
-- Le bonheur dépend-il de nous ?
-- Le bonheur peut-il s’apprendre ?
-- Existe-t-il une nature humaine universelle ?
-- La nature peut-elle nous dire ce que nous devons faire ?
-
----
-<!-- _class: exercice application fm -->
+<!-- _class: pointmethode fppp -->
 <style scoped>
-ul ul {font-size:100%}
+h3{margin-bottom:60px!important}
+img {height:300px; float:left; margin-right:80px; margin-left:25px; margin-top:20px}
+</style>
+### Point méthode
+
+Pour structurer un paragraphe, on peut utiliser le modèle **ARES** :
+![Dessin qui représente le dieu de la guerre Arès](../images/ares-greek-god.jpg)
+–  A : Argumentation-Analyse
+–  R : Référence théorique
+–  E : Exemple concret
+–  S : Synthèse
+
+---
+<!-- _class: exercice application fmmmm -->
+<style scoped>
+h3 {margin-bottom:10px}
+ul ul {font-size:100%; margin-left:-30px}
 span {font-size:90%}
 </style>
 
-### Exercice d'argumentation et de mobilisation de sa culture
+### Exercice d'application
 
-- Rédiger un paragraphe <span>(200 mots minimum)</span>, qui répond à l'un de ces sujets, avec un argument qui mobilise le cours (Schopenhauer ou Épicure) en utilisant le modèle _ARES_ :
+- Choisir un sujet ci-dessous :
   - Le progrès technique rend-il heureux ?
-  - Peut-on désirer sans souffrir ?
   - Le bonheur n'est-il qu'une illusion ?
   - Le désir est-il la marque de notre imperfection ?
   - Le désir peut-il se satisfaire de la réalité ?
+  - Satisfaire tous ses désirs, est-ce une bonne règle de vie ?
+  - La réflexion est-elle un obstacle au bonheur ?
+  - Le bonheur peut-il s’apprendre ?
+- Rédiger une sous-partie de dissertation <span>(200 mots minimum)</span> : :warning: <span>il faut défendre une seule réponse, mobiliser le cours (Schopenhauer ou Épicure), et utiliser le modèle ARES</span>
