@@ -259,6 +259,55 @@ ul {margin-top:10px; font-size:94%;}
 - Si vous utilisez des diaporamas, quel est l'intérêt d'après vous ?
 - Si vous n'en utilisez pas, pour quelle raison ?
 
+
+---
+<!-- _class: fp -->
+<style scoped>
+h3 {margin-bottom:0; padding-bottom:0}
+ol {list-style-type:lower-alpha}
+</style>
+### Intérêts de l'usage d'un diaporama
+1) Intégration possible de plusieurs contenus différents : texte, schéma, vidéo, exercice
+2) Clarification de la structure du cours avec des étapes facilement identifiables ou un code couleur
+3) Efficacité dans la gestion du temps et disponibilité pour l'interaction avec les élèves et la gestion de la classe
+4) Polyvalence des usages : pour la projection en classe, pour l'impression d'un support, pour les révisions des élèves, pour l'échange avec les collègues …
+
+
+---
+<!-- _class: fp -->
+<style scoped>
+h3 {margin-bottom:0; padding-bottom:0}
+ol {list-style-type:lower-alpha}
+</style>
+### Risques possibles
+1) Diaporama surchargé en textes : contenu pas lisible, tendance au simple recopiage du diaporama, peu d'intérêt des élèves pour le suivi du cours
+* Faire attention à la lisibilité, mettre seulement l'essentiel, concevoir son diaporama principalement comme un support pour la mise en activité des élève
+
+---
+<!-- _class:  -->
+<style scoped>
+ol {list-style-type:lower-alpha}
+</style>
+2) Diaporama surchargé en images ou effets de transition
+* Focaliser le diaporama sur le contenu, ne pas perdre l'attention des élèves
+
+---
+<!-- _class:  -->
+<style scoped>
+ol {list-style-type:lower-alpha}
+</style>
+3) Cours trop directif, trop linéaire, trop rigide
+* Ménager des temps de questionnement, accepter certains détours, certaines digressions
+
+---
+<!-- _class:  -->
+<style scoped>
+ol {list-style-type:lower-alpha}
+</style>
+### Risques possibles
+4) Temps de préparation trop important
+* Mettre dans un premier temps seulement la structure, les points les plus importants, quelques exercices
+
 ---
 <!-- _class: i1t0 pp -->
 <style scoped>
@@ -267,16 +316,6 @@ ol {display:none;}
 
 ![](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/faire-un-diaporama-pour-son-cours.svg)
 
-<div onclick="toggleElement(this)" style="position:absolute; background-color:#FAFAFA; left:470px; top:300px; width:330px; height:130px; font-size:8pt; display:grid; place-items: center;">cliquer ici pour faire apparaître l'élément caché</div>
-<div onclick="toggleElement(this)" style="position:absolute; background-color:#FAFAFA; left:465px; top:440px; width:340px; height:90px; font-size:8pt; display:grid; place-items: center;">cliquer ici pour faire apparaître la suite</div>
-<div onclick="toggleElement(this)" style="position:absolute; background-color:#FAFAFA; left:485px; top:520px; width:330px; height:90px; font-size:8pt; display:grid; place-items: center;">cliquer ici pour faire apparaître la suite</div>
-<div onclick="toggleElement(this)" style="position:absolute; background-color:#FAFAFA; left:465px; top:610px; width:330px; height:90px; font-size:8pt; display:grid; place-items: center;">cliquer ici pour faire apparaître la suite</div>
-<script>function toggleElement(e) {e.style.backgroundColor = ((e.style.backgroundColor=='transparent') ? '#FAFAFA' : 'transparent'); commandes=document.getElementsByClassName('bespoke-marp-parent'); commandes[0].classList.add('bespoke-marp-inactive');  if (e.innerHTML==''){e.innerHTML="cliquer ici pour faire apparaître l'élément caché"} else {e.innerHTML=''}};</script>
-<script>var actualCode = 'document.addEventListener("keydown", function (e) {  });';
-var script = document.createElement('script');
-script.textContent = actualCode;
-(document.head||document.documentElement).appendChild(script);
-script.parentNode.removeChild(script);</script>
 
 ---
 <!-- _class: fmmmm -->
