@@ -186,12 +186,22 @@ ol ul {margin-left:-20px;}
 
 
 ---
+<!-- _class: souspartie fppp -->
+## 3/ Questionner la pertinence pédagogique<br> de ses cours
+
+---
+<!-- _class:  -->
+1) L'excellent blog de pédagogie générale de Didier Goudeseune : _Par temps clair. Pratiques enseignantes éclairées par la recherche_ [:link:](https://par-temps-clair.blogspot.com/)
+2) Une checklist pour vérifier certains points importants quand on prépare un cours [:link:](https://eyssette.github.io/ressources-generales-enseignement-philosophie/checklist)
+
+---
 <!-- _class: partie -->
 <style scoped>
 h1{font-size:190%; padding-left:0px; padding-right:0px}
 </style>
 # B. Utiliser le numérique pour faire le cours avec les élèves
 Deuxième partie
+
 
 ---
 <!-- _class: souspartie -->
