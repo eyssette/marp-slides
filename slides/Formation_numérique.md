@@ -269,7 +269,7 @@ ol {list-style-type:lower-alpha}
 ### Intérêts de l'usage d'un diaporama
 1) Intégration possible de plusieurs contenus différents : texte, schéma, vidéo, exercice
 2) Clarification de la structure du cours avec des étapes facilement identifiables ou un code couleur
-3) Efficacité dans la gestion du temps et disponibilité pour l'interaction avec les élèves et la gestion de la classe
+3) Efficacité dans la gestion du temps, disponibilité pour l'interaction avec les élèves et la gestion de la classe, moins de charge mentale 
 4) Polyvalence des usages : pour la projection en classe, pour l'impression d'un support, pour les révisions des élèves, pour l'échange avec les collègues …
 
 
@@ -304,7 +304,6 @@ ol {list-style-type:lower-alpha}
 <style scoped>
 ol {list-style-type:lower-alpha}
 </style>
-### Risques possibles
 4) Temps de préparation trop important
 * Mettre dans un premier temps seulement la structure, les points les plus importants, quelques exercices
 
@@ -343,6 +342,17 @@ ol {margin-left:70px;}
 ### c) Faire des schémas
 1. Usages ordinaires
 2. Usages avancés
+
+<!-- Ajouter : intérêts / risques possibles des schémas faits avec l'ordinateur
+Intérêts : 
+- clarté du schéma
+- possibilité d'imprimer le schéma ou de le partager (sur l'ENT, un site …)
+- pratique quand on veut simplement distribuer une synthèse sur un point du cours ou tout un chapitre (déjà fait => pas de perte de temps)
+Risques possibles :
+- schéma pas construit petit à petit, mais présenté d'un coup, en bloc
+=> Mais : une fois qu'on a fait le schéma final, on peut soit faire une version avec des vides à compléter au tableau, soit une version qui apparaît par étape. Avantage de la version numérique par étapes : les élèves voient à l'avance la place nécessaire pour faire le schéma (sinon : "Ça va prendre combien de place ?” ils risquent d'attendre que le schéma soit terminé avant le prendre en note)
+
+ -->
 
 ---
 <!-- _class: fmmm -->
