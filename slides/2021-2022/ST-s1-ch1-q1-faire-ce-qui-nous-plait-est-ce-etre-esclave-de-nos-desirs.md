@@ -250,14 +250,25 @@ Deuxième partie
 
 
 ---
-<!-- _class: i1t1 fppp-->
-<style scoped>
-p:nth-of-type(1){margin-bottom:30px;}
-</style>
+<!-- _class: citationC -->
 
-Attention ! Au sens commun, l'expression “être un épicurien” désigne le fait d'être un bon vivant qui profite de tous les plaisirs, mais c'est un contresens sur la philosophie d'Épicure.
+![Buste d'Épicure bg left:46%](https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Epikouros_BM_1843.jpg/1920px-Epikouros_BM_1843.jpg)
+
+>« [L]e plaisir est le commencement et la fin de la vie heureuse »
+>>**Épicure**, _Lettre à Ménécée_
+
+
+---
+<!-- _class: i1t0 -->
 
 ![Images trouvées sur internet avec le terme "épicurien”](../images/epicurien-sens-commun.png)
+
+
+---
+<!-- _class:  -->
+:warning:  “Être un épicurien” au sens commun désigne le fait d'être un bon vivant qui profite de tous les plaisirs.
+
+Mais : c'est un contresens sur la philosophie d'Épicure.
 
 ---
 <!-- _class: citationC fppppppp -->
@@ -269,9 +280,15 @@ Attention ! Au sens commun, l'expression “être un épicurien” désigne le f
 
 ---
 <!-- _class: definition -->
+<style scoped>
+p:nth-child(1){border:none; margin:0px 40px; font-size:105%}
+h3{font-size:120%; margin-top:15px}
+</style>
+Pour Épicure, le plaisir qu'il faut rechercher c'est l'aponie et l'ataraxie.
+
 ### Définitions
-- **L'aponie** désigne l'absence de souffrances dans le corps
-- **L'ataraxie** désigne l'absence de troubles dans l'âme
+* **L'aponie** désigne l'absence de souffrances dans le corps
+* **L'ataraxie** désigne l'absence de troubles dans l'âme
 
 ---
 <!-- _class: citationC -->
@@ -284,16 +301,23 @@ Attention ! Au sens commun, l'expression “être un épicurien” désigne le f
 ---
 <!-- _class: cinema -->
 
-[![Affiche du film Scarface](../images/scarface.png)](https://video.link/w/qwplb)
+[![Affiche du film Scarface](../images/scarface.png)](https://ladigitale.dev/digiplay/#/v/614c0b0e88d6a)
 
 > « Antonio “Tony” Montana (Al Pacino) […] est un petit malfrat cubain qui migre vers Miami dans l'espoir de faire fortune. Il trouve au départ un petit boulot dans une baraque à frites de Miami. Mais travailler pour quelques dollars ne correspond pas à l'idée qu'il se fait du « rêve américain ». Il se fait alors embaucher par un malfrat local puis par Frank Lopez, son patron]. […] Tony apprend vite le métier de mafioso de la drogue : il monte en grade […] Il a les dents beaucoup plus longues que ses collègues, il est mégalomane, ambitieux et d'une intelligence plus perverse. Il prend pour adage : _The World is Yours_ (Le monde est à toi) [...] Mais il commence à faire des erreurs dans ce monde qui ne pardonne pas, où l'on est vite remplacé. Il prend conscience que d'être arrivé au sommet de la mafia ne le rend pas aussi heureux qu'il l'avait espéré, qu'il n'est pas capable de rendre heureuses les personnes qu'il aime&nbsp;» (source : [wikipedia](https://fr.wikipedia.org/wiki/American_History_X))
 
+
 ---
-<!-- _class: i1t0 pp -->
+<!-- _class: -->
+<style scoped>
+img {position:absolute!important; top:0; left:0; width:90%!important; display:block; height:640px; margin: 40px 50px; }
+</style>
 
-![Schéma sur les désirs vains selon Épicure](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/epicurisme-desirs-vains2.svg)
-
-<!-- Discuter le cas du désir de pouvoir, le cas du désir amoureux -->
+1) ![](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/epicurisme-desirs-vains-3.dot-part1.svg)
+1) ![](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/epicurisme-desirs-vains-3.dot-part2.svg)
+1) ![](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/epicurisme-desirs-vains-3.dot-part3.svg)
+1) ![](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/epicurisme-desirs-vains-3.dot-part4.svg)
+1) ![](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/epicurisme-desirs-vains-3.dot-part5.svg)
+1) ![](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/epicurisme-desirs-vains-3.dot.svg)
 
 ---
 <!-- _class:  -->
@@ -304,7 +328,7 @@ Les désirs qui ne sont pas vains, mais ancrés dans notre nature, ne doivent pa
 ---
 <!-- _class: cinema fmmm -->
 
-[![Affiche du film Shame](https://fr.web.img3.acsta.net/medias/nmedia/18/81/98/98/19841064.jpg)](https://safeYouTube.net/w/kw1ib)
+[![Affiche du film Shame](https://fr.web.img3.acsta.net/medias/nmedia/18/81/98/98/19841064.jpg)](https://ladigitale.dev/digiplay/#/v/614c0ca5e9bc2)
 
 >« Michael Fassbender se mue ici en cadre supérieur new yorkais à la vie très cloisonnée, incapable de vivre sa sexualité autrement que par le recours à la pornographie, à la prostitution, aux rencontres sans lendemain. [...] Steve McQueen dessine le portrait d’un homme perdu, esclave de ses démons. Captant un monde quadrillé à l’extrême (rues, façades de verre, bureaux, écrans…), jouant sur le paradoxe d’une infranchissable transparence, le réalisateur explore les méandres d’une solitude très contemporaine. » ([source](http://www.la-croix.com/Culture-Loisirs/Culture/Cinema/Shame-l-infranchissable-mur-de-la-vraie-rencontre-_EG_-2011-12-06-744235))
 
@@ -315,6 +339,12 @@ Les désirs qui ne sont pas vains, mais ancrés dans notre nature, ne doivent pa
 
 >« Tout plaisir, pris en lui-même et dans sa nature propre est […] un bien, et cependant tout plaisir n’est pas à rechercher pareillement […] En tout cas, chaque plaisir et chaque douleur doivent être appréciés par une comparaison des avantages et des inconvénients à attendre. »
 >>**Épicure**, _Lettre à Ménécée_
+
+---
+<!-- _class:  -->
+L'hédonisme d'Épicure est un hédonisme de la mesure, de la prudence, qui se méfie de ce qu'il peut y avoir d'illimité dans nos désirs.
+
+La nature fonctionne ici comme un modèle de cette mesure à trouver : il faudrait savoir revenir à ce qu'il y a d'essentiel pour nous, en tant qu'êtres vivants et en tant qu'êtres humains.
 
 ---
 <!-- _class: partie -->

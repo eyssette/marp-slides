@@ -247,19 +247,7 @@ Deuxième partie
 >« [L]e plaisir est le commencement et la fin de la vie heureuse »
 >>**Épicure**, _Lettre à Ménécée_
 
----
-<!-- _class: definition fp-->
-<style scoped>
-p:nth-child(1){border:none; margin:0px 40px}
-h3{font-size:120%; margin-top:15px}
-</style>
-Il ne s'agit pas de faire une critique moraliste des plaisirs et de défendre un ascétisme radical.
-
-### Définition
-- **Une critique moraliste des plaisirs** consisterait à considérer les plaisirs comme des tentations mauvaises qui nous conduisent au vice.
-- **L'ascétisme** désigne le fait de renoncer à certains plaisirs, voire de s'imposer certaines souffrances en vue d'un idéal supérieur.
-
-<!-- Exemples :  abstinence sexuelle, pratiques de mortification du corps, histoire d'Origène qui se serait lui-même castré -->
+<!-- Épicure défend une forme d'hédonisme -->
 
 ---
 <!-- _class: definition -->
@@ -267,14 +255,17 @@ Il ne s'agit pas de faire une critique moraliste des plaisirs et de défendre un
 L'**hédonisme** est une défense de la valeur du plaisir, c'est la thèse selon laquelle le plaisir est un bien qu'il faut rechercher
 
 ---
-<!-- _class: i1t1 fppp-->
-<style scoped>
-p:nth-of-type(1){margin-bottom:30px;}
-</style>
-
-Attention ! Au sens commun, l'expression “être un épicurien” désigne le fait d'être un bon vivant qui profite de tous les plaisirs, mais c'est un contresens sur la philosophie d'Épicure.
+<!-- _class: i1t0 -->
 
 ![Images trouvées sur internet avec le terme "épicurien”](../images/epicurien-sens-commun.png)
+
+
+---
+<!-- _class:  -->
+:warning:  “Être un épicurien” au sens commun désigne le fait d'être un bon vivant qui profite de tous les plaisirs.
+
+Mais : c'est un contresens sur la philosophie d'Épicure.
+
 
 ---
 <!-- _class: citationC fppppppp -->
@@ -285,10 +276,30 @@ Attention ! Au sens commun, l'expression “être un épicurien” désigne le f
 >>**Épicure**, _Lettre à Ménécée_
 
 ---
-<!-- _class: definition -->
+<!-- _class: definition f-->
+<style scoped>
+p:nth-child(1){border:none; margin:0px 40px; font-size:105%}
+h3{font-size:120%; margin-top:15px}
+</style>
+Épicure ne fait pas une critique moraliste des plaisirs, et il ne défend pas un ascétisme radical.
+
 ### Définitions
-- **L'aponie** désigne l'absence de souffrances dans le corps
-- **L'ataraxie** désigne l'absence de troubles dans l'âme
+* **Une critique moraliste des plaisirs** consisterait à considérer les plaisirs comme des tentations mauvaises qui nous conduisent au vice.
+* **L'ascétisme radical** désigne le fait de renoncer aux plaisirs, voire de s'imposer certaines souffrances en vue d'un idéal supérieur.
+
+<!-- Exemples :  abstinence sexuelle, pratiques de mortification du corps, histoire d'Origène qui se serait lui-même castré -->
+
+---
+<!-- _class: definition -->
+<style scoped>
+p:nth-child(1){border:none; margin:0px 40px; font-size:105%}
+h3{font-size:120%; margin-top:15px}
+</style>
+Pour Épicure, le plaisir qu'il faut rechercher c'est l'aponie et l'ataraxie.
+
+### Définitions
+* **L'aponie** désigne l'absence de souffrances dans le corps
+* **L'ataraxie** désigne l'absence de troubles dans l'âme
 
 
 ---
@@ -400,7 +411,7 @@ Les désirs qui ne sont pas vains, mais ancrés dans notre nature, ne doivent pa
 
 ---
 <!-- _class:  -->
-L'hédonisme d'Épicure est donc bien un hédonisme de la mesure qui se méfie de ce qu'il peut y avoir d'illimité dans nos désirs.
+L'hédonisme d'Épicure est un hédonisme de la mesure, de la prudence, qui se méfie de ce qu'il peut y avoir d'illimité dans nos désirs.
 
 La nature fonctionne ici comme un modèle de cette mesure à trouver : il faudrait savoir revenir à ce qu'il y a d'essentiel pour nous, en tant qu'êtres vivants et en tant qu'êtres humains.
 
