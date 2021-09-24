@@ -390,9 +390,13 @@ img {position:absolute!important; top:0; left:0; width:90%!important; display:bl
 
 ---
 <!-- _class:  -->
-Il faut renoncer aux désirs vains qui nous empêchent de jouir du simple plaisir d'exister.
 
-Les désirs qui ne sont pas vains, mais ancrés dans notre nature, ne doivent pas pour autant être satisfaits sans examen.
+<div class="data-marpit-fragment">
+
+1. Les désirs vains <br><span data-marpit-fragment="1">&rarr; Il faut y renoncer, il faut s'en libérer</span>
+2. Les désirs naturels <br><span data-marpit-fragment="2">&rarr; Ils correspondent à des besoins fondamentaux qu'il faut satisfaire, mais il faut rester prudent</span>
+
+</div>
 
 ---
 <!-- _class: cinema fmmm -->
@@ -409,11 +413,13 @@ Les désirs qui ne sont pas vains, mais ancrés dans notre nature, ne doivent pa
 >« Tout plaisir, pris en lui-même et dans sa nature propre est […] un bien, et cependant tout plaisir n’est pas à rechercher pareillement […] En tout cas, chaque plaisir et chaque douleur doivent être appréciés par une comparaison des avantages et des inconvénients à attendre. »
 >>**Épicure**, _Lettre à Ménécée_
 
+<!-- métriopathie -->
+
 ---
 <!-- _class:  -->
-L'hédonisme d'Épicure est un hédonisme de la mesure, de la prudence, qui se méfie de ce qu'il peut y avoir d'illimité dans nos désirs.
+Le bonheur est défini ici comme un retour à notre nature.
 
-La nature fonctionne ici comme un modèle de cette mesure à trouver : il faudrait savoir revenir à ce qu'il y a d'essentiel pour nous, en tant qu'êtres vivants et en tant qu'êtres humains.
+Il faut savoir revenir à ce qu'il y a d'essentiel pour nous, en tant qu'êtres vivants et en tant qu'êtres humains.
 
 <!-- Mais : y a-t-il une nature humaine universelle ? La nature peut-elle être un modèle qui fixe des normes à notre existence ? -->
 
