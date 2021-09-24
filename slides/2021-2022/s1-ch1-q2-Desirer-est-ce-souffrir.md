@@ -413,7 +413,19 @@ img {position:absolute!important; top:0; left:0; width:90%!important; display:bl
 >« Tout plaisir, pris en lui-même et dans sa nature propre est […] un bien, et cependant tout plaisir n’est pas à rechercher pareillement […] En tout cas, chaque plaisir et chaque douleur doivent être appréciés par une comparaison des avantages et des inconvénients à attendre. »
 >>**Épicure**, _Lettre à Ménécée_
 
-<!-- métriopathie -->
+<!-- Il ne s'agit pas de se priver de plaisirs, mais simplement de calculer les conséquences (= la métriopathie), non pas pour atteindre un maximum de plaisirs, mais simplement pour pouvoir toujours éprouver le simple plaisir d'exister -->
+
+
+---
+<!-- _class:  -->
+<style scoped>
+ol { list-style-type:none;}
+ol li {margin-left:-2em!important; margin-right:-0.9em!important}
+</style>
+
+1) Il ne s'agit pas de se priver de plaisirs, mais simplement de calculer les conséquences (= la métriopathie).
+
+2) Il ne s'agit pas d'atteindre un maximum de plaisirs, mais simplement de pouvoir toujours savourer le simple plaisir d'exister.
 
 ---
 <!-- _class:  -->
