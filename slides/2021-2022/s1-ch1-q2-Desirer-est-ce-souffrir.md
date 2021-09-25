@@ -361,9 +361,9 @@ img{height:570px;}
 
 Il faut distinguer deux formes d'hédonisme
 
-[![Couverture du livre Le Portrait de Dorian Gray](https://images-na.ssl-images-amazon.com/images/I/81WmjDniBuL.jpg)](https://drive.google.com/file/d/0B33DtpyVkjZFU2tXRFVRMUtkTVU/view)
+[![Couverture du livre Le Portrait de Dorian Gray](https://images-na.ssl-images-amazon.com/images/I/81WmjDniBuL.jpg)](https://drive.google.com/file/d/0B33DtpyVkjZFU2tXRFVRMUtkTVU/view?usp=sharing&resourcekey=0-LwAn0XIbydd2oiAjgzYnSg)
 
-[![Affiche du film Les Ailes du Désir](https://media.senscritique.com/media/000019340223/source_big/Les_Ailes_du_desir.jpg)](https://drive.google.com/file/d/1uGhuf7BnnsQY4RU4E_PvokrBHe2GzEhc/view)
+[![Affiche du film Les Ailes du Désir](https://media.senscritique.com/media/000019340223/source_big/Les_Ailes_du_desir.jpg)](https://drive.google.com/file/d/1uGhuf7BnnsQY4RU4E_PvokrBHe2GzEhc/view?usp=sharing)
 
 ---
 <!-- _class: exercice tableau colonnes fmmmm-->
