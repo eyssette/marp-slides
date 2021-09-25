@@ -92,6 +92,10 @@ ul {margin-top:-50px!important}
 * Il faut **justifier** la référence : ce n'est pas parce que l'auteur l'a dit que c'est vrai.
 
 ---
+<!-- _class: souspartie -->
+## A. Première étape
+
+---
 <!-- _class: citationC -->
 
 ![bg left:45% Photographie de Schopenhauer](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Arthur_Schopenhauer_by_J_Sch%C3%A4fer%2C_1859b.jpg/1920px-Arthur_Schopenhauer_by_J_Sch%C3%A4fer%2C_1859b.jpg)
@@ -109,13 +113,12 @@ Le mythe d'Aristophane
 [![Représentation du mythe d'Aristophane](../images/mythe-Aristophane.png)](https://ladigitale.dev/digiplay/#/v/6142dd4d774ba) <!-- https://www.youtube.com/watch?v=fmDpwXCyFOI -->
 
 
-<!-- L'amour : quête de plénitude.
-On ne peut jamais avoir la certitude d'avoir retrouvée l'unité perdue.
-La fusion est impossible : nous restons à jamais séparés.
-Le désir comme inquiétude, manque perpétuel, jamais pleinement satisfait.
-Une sorte de béance, de vide en nous.
+<!-- L'amour : quête de plénitude, recherche d'une fusion avec autrui.
+Le désir amoureux : l'expression d'un manque, d'un vide affectif en nous => une forme d'incomplétude.
+Mais : 1/ On ne peut jamais avoir la certitude d'avoir trouvé notre “moitié”.
+2/ La fusion est impossible : nous restons à jamais des individus séparés.
+=> Le désir amoureux est une souffrance
  -->
-
 
 ---
 <!-- _class: i1t0 pp -->
@@ -187,6 +190,17 @@ ul {margin-top:-50px}
 
 
 ---
+<!-- _class: souspartie -->
+## B. Deuxième étape
+
+<!-- 
+1ère étape : Le désir est frustration
+2e étape : Cette frustration ne cesse pas, c'est un “supplice éternel”
+Donc : le désir est une souffrance perpétuelle
+ -->
+
+
+---
 <!-- _class: citationC fpppppp-->
 
 ![bg left:45% Photographie de Schopenhauer](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Arthur_Schopenhauer_by_J_Sch%C3%A4fer%2C_1859b.jpg/1920px-Arthur_Schopenhauer_by_J_Sch%C3%A4fer%2C_1859b.jpg)
@@ -218,7 +232,10 @@ table {padding:0px 15px!important; }
 
 </div>
 
-
+<!-- Trois exemples :
+1. La société de consommation (court métrage Happiness)
+2. Fortnite
+3. Snapchat -->
 
 ---
 <!-- _class: i1t1 pp fpppppp-->
@@ -236,12 +253,26 @@ p{margin-bottom:5px!important; margin-left:30px; margin-right:30px!important;}
 [Extrait 2](https://ladigitale.dev/digiplay/#/v/6142dd12b6105) : les réseaux sociaux et l'économie de l'attention <!-- https://youtu.be/uUlJarbHrMU?t=2353 -->
 </div>
 
+<!--
+Le succès du jeu Fortnite provient en partie de l'utilisation de techniques de rétention qui cherchent à retenir les personnes qui jouent dans le jeu, et à leur donner envie de jouer toujours plus. Exemples : systèmes de mission, d'objectifs, de customisation du jeu, de variantes (random, campagnes …)
+
+Fortnite s'inscrit dans une économie de l'attention où l'enjeu économique est de capter l'attention des individus, par le biais de techniques fondées sur la connaisance de la psychologie humaine.
+Exemples :
+L'auto-play -> tendance à en rester à l'option par défaut (= le biais de statu quo)
+Les likes -> Besoin de reconnaissance sociale
+ -->
 
 ---
 <!-- _class: i1t0 -->
 
-[![](https://i.ibb.co/RbpZRBP/dopamine-t.jpg)](https://ladigitale.dev/digiplay/#/v/6142db5ee80cd)
+[![Image de présentation de la série Dopamine ; ici : épisode sur Snapchat](https://i.ibb.co/RbpZRBP/dopamine-t.jpg)](https://ladigitale.dev/digiplay/#/v/6142db5ee80cd)
 
+<!-- 
+Effet Ikea
+Principe du don / contre-don
+Désinhibition
+Aversion à la perte
+ -->
 
 ---
 <!-- _class: partie -->
@@ -256,6 +287,13 @@ Deuxième partie
 
 >« [L]e plaisir est le commencement et la fin de la vie heureuse »
 >>**Épicure**, _Lettre à Ménécée_
+
+<!-- Epicure défend la valeur du plaisir : c'est un bien qu'il faut rechercher -->
+
+
+---
+<!-- _class: souspartie f -->
+## A. Il faut réfléchir aux plaisirs que nous recherchons
 
 
 ---
@@ -291,6 +329,10 @@ Pour Épicure, le plaisir qu'il faut rechercher c'est l'aponie et l'ataraxie.
 * **L'ataraxie** désigne l'absence de troubles dans l'âme
 
 ---
+<!-- _class: souspartie f-->
+## B. Il faut savoir identifier les désirs qui nous troublent et nous<br> éloignent du bonheur
+
+---
 <!-- _class: citationC -->
 
 ![Buste d'Épicure bg left:44%](https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Epikouros_BM_1843.jpg/1920px-Epikouros_BM_1843.jpg)
@@ -321,9 +363,13 @@ img {position:absolute!important; top:0; left:0; width:90%!important; display:bl
 
 ---
 <!-- _class:  -->
-Il faut renoncer aux désirs vains qui nous empêchent de jouir du simple plaisir d'exister.
 
-Les désirs qui ne sont pas vains, mais ancrés dans notre nature, ne doivent pas pour autant être satisfaits sans examen.
+<div class="data-marpit-fragment">
+
+1. Les désirs vains <br><span data-marpit-fragment="1">&rarr; Il faut y renoncer, il faut s'en libérer, car on risque de devenir esclave de ces désirs</span>
+2. Les désirs naturels <br><span data-marpit-fragment="2">&rarr; Ils correspondent à des besoins fondamentaux qu'il faut satisfaire, mais il faut rester prudent</span>
+
+</div>
 
 ---
 <!-- _class: cinema fmmm -->
@@ -342,9 +388,15 @@ Les désirs qui ne sont pas vains, mais ancrés dans notre nature, ne doivent pa
 
 ---
 <!-- _class:  -->
-L'hédonisme d'Épicure est un hédonisme de la mesure, de la prudence, qui se méfie de ce qu'il peut y avoir d'illimité dans nos désirs.
+<!-- _class:  -->
+<style scoped>
+ol { list-style-type:none;}
+ol li {margin-left:-2em!important; margin-right:-0.9em!important}
+</style>
 
-La nature fonctionne ici comme un modèle de cette mesure à trouver : il faudrait savoir revenir à ce qu'il y a d'essentiel pour nous, en tant qu'êtres vivants et en tant qu'êtres humains.
+1) Il ne s'agit pas de se priver de plaisirs, mais simplement de réfléchir aux conséquences.
+
+2) Il faut rester maître de son existence et ne pas se laisser guider par des désirs qui finalement seraient mauvais pour nous.
 
 ---
 <!-- _class: partie -->
@@ -377,11 +429,11 @@ span {font-size:90%}
 ### Exercice d'application
 
 - Choisir un sujet ci-dessous :
-  - Le progrès technique rend-il heureux ?
-  - Le bonheur n'est-il qu'une illusion ?
-  - Le désir est-il la marque de notre imperfection ?
-  - Le désir peut-il se satisfaire de la réalité ?
+  - Le progrès technique nous donne-t-il plus de liberté ?
+  - La liberté n'est-elle qu'une illusion ?
+  - Devons-nous nous libérer de nos désirs ?
+  - Le désir est-il un obstacle à la liberté ?
   - Satisfaire tous ses désirs, est-ce une bonne règle de vie ?
-  - La réflexion est-elle un obstacle au bonheur ?
-  - Le bonheur peut-il s’apprendre ?
+  - Peut-on être esclave de soi-même ?
+  - Faut-il apprendre à être libre ?
 - Rédiger une sous-partie de dissertation <span>(200 mots minimum)</span> : :warning: <span>il faut défendre une seule réponse, mobiliser le cours (Schopenhauer ou Épicure), et utiliser le modèle ARES</span>
