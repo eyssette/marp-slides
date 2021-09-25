@@ -323,7 +323,7 @@ img {height:400px}
 ul li{text-align:justify!important; margin-left:30px!important; margin-right:30px!important;}
 </style>
 
-![Dessin stylisé représentant une personne qui en insulte une autre](https://cdn-media.rtl.fr/cache/EasB2o0fxAGokrgvD0A5_A/880v587-0/online/image/2018/1218/7795969490_insulte.jpg)
+![Dessin stylisé représentant une personne qui en insulte une autre](https://i.ibb.co/hZHVtGM/insulte-t.jpg)
 
 - Comment réagissons-nous face à une insulte ou une injure ?
 - Quelle attitude pourrait recommander Épictète ?
