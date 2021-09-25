@@ -23,6 +23,13 @@ img {width:960px}
 
 Steve Cutts, _Happiness_
 
+<!-- 
+Une norme sociale dominante : rats => effet de masse
+Montage : toujours désirer autre chose
+Présence massive de la publicité : (notamment référence au _Meilleur des mondes_ : “soma”)
+Scène “Disney” : illusion, on retombe vite dans l'insatisfaction (chute)
+piège à rat à la fin : coincés, prisonniers ?
+ -->
 
 ---
 <!-- _class: i1t1 horizontal fppp -->
@@ -38,6 +45,16 @@ span {font-size:90%}
 1) De quoi ce court métrage est-il la critique ?
 2) Cette critique vous semble-t-elle correcte ? Vivons-nous vraiment comme ces rats ?
 3) De manière générale, pourquoi le désir peut-il nous faire souffrir ?
+
+<!--
+Ce court métrage est une critique de la société de consommation, qui constitue une norme sociale dominante, dont le fondement repose sur l'incitation à l'achat de toujours plus de biens matériels et de services, par le biais principalement de la publicité.
+Plusieurs questions se posent : 
+1. Le désir d'avoir toujours plus est-il source de bonheur ou de souffrance ?
+2. La consommation nous conduit-elle à une satisfaction profonde ou bien superficielle ?
+… durable ou éphémère ?
+… réelle ou illusoire ?
+3. Sommes-nous prisonniers de ce modèle social ? Sommes-nous esclaves de nos désirs ?
+ -->
 
 ---
 <!-- _class:  -->
@@ -85,6 +102,11 @@ Mais est-ce si simple ? En effet, ………………………………………�
 # I – Schopenhauer : <br>Le désir comme<br> souffrance <!-- fit -->
 Première partie
 
+
+---
+<!-- _class: souspartie -->
+## A. Première étape
+
 ---
 <!-- _class: citationC -->
 
@@ -103,11 +125,11 @@ Le mythe d'Aristophane
 [![Représentation du mythe d'Aristophane](../images/mythe-Aristophane.png)](https://ladigitale.dev/digiplay/#/v/6142dd4d774ba) <!-- https://www.youtube.com/watch?v=fmDpwXCyFOI -->
 
 
-<!-- L'amour : quête de plénitude.
-On ne peut jamais avoir la certitude d'avoir retrouvée l'unité perdue.
-La fusion est impossible : nous restons à jamais séparés.
-Le désir comme inquiétude, manque perpétuel, jamais pleinement satisfait.
-Une sorte de béance, de vide en nous.
+<!-- L'amour : quête de plénitude, recherche d'une fusion avec autrui.
+Le désir amoureux : l'expression d'un manque, d'un vide affectif en nous => une forme d'incomplétude.
+Mais : 1/ On ne peut jamais avoir la certitude d'avoir trouvé notre “moitié”.
+2/ La fusion est impossible : nous restons à jamais des individus séparés.
+=> Le désir amoureux est une souffrance
  -->
 
 
@@ -173,6 +195,16 @@ Cette publicité repose sur … :
 2. Faire l'analyse de cette image : comment cette image cherche-t-elle à susciter en nous le désir ?
 
 ---
+<!-- _class: souspartie -->
+## B. Deuxième étape
+
+<!-- 
+1ère étape : Le désir est frustration
+2e étape : Cette frustration ne cesse pas, c'est un “supplice éternel”
+Donc : le désir est une souffrance perpétuelle
+ -->
+
+---
 <!-- _class: citationC fpppppp-->
 
 ![bg left:45% Photographie de Schopenhauer](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Arthur_Schopenhauer_by_J_Sch%C3%A4fer%2C_1859b.jpg/1920px-Arthur_Schopenhauer_by_J_Sch%C3%A4fer%2C_1859b.jpg)
@@ -204,6 +236,10 @@ table {padding:0px 15px!important; }
 
 </div>
 
+<!-- Trois exemples :
+1. La société de consommation (court métrage Happiness)
+2. Fortnite
+3. Snapchat -->
 
 
 ---
@@ -222,12 +258,26 @@ p{margin-bottom:5px!important; margin-left:30px; margin-right:30px!important;}
 [Extrait 2](https://ladigitale.dev/digiplay/#/v/6142dd12b6105) : les réseaux sociaux et l'économie de l'attention <!-- https://youtu.be/uUlJarbHrMU?t=2353 -->
 </div>
 
+<!--
+Le succès du jeu Fortnite provient en partie de l'utilisation de techniques de rétention qui cherchent à retenir les personnes qui jouent dans le jeu, et à leur donner envie de jouer toujours plus. Exemples : systèmes de mission, d'objectifs, de customisation du jeu, de variantes (random, campagnes …)
+
+Fortnite s'inscrit dans une économie de l'attention où l'enjeu économique est de capter l'attention des individus, par le biais de techniques fondées sur la connaisance de la psychologie humaine.
+Exemples :
+L'auto-play -> tendance à en rester à l'option par défaut (= le biais de statu quo)
+Les likes -> Besoin de reconnaissance sociale
+ -->
 
 ---
 <!-- _class: i1t0 -->
 
-[![](https://i.ibb.co/RbpZRBP/dopamine-t.jpg)](https://ladigitale.dev/digiplay/#/v/6142db5ee80cd)
+[![Image de présentation de la série Dopamine ; ici : épisode sur Snapchat](https://i.ibb.co/RbpZRBP/dopamine-t.jpg)](https://ladigitale.dev/digiplay/#/v/6142db5ee80cd)
 
+<!-- 
+Effet Ikea
+Principe du don / contre-don
+Désinhibition
+Aversion à la perte
+ -->
 
 ---
 <!-- _class: partie -->
@@ -412,9 +462,6 @@ img {position:absolute!important; top:0; left:0; width:90%!important; display:bl
 
 >« Tout plaisir, pris en lui-même et dans sa nature propre est […] un bien, et cependant tout plaisir n’est pas à rechercher pareillement […] En tout cas, chaque plaisir et chaque douleur doivent être appréciés par une comparaison des avantages et des inconvénients à attendre. »
 >>**Épicure**, _Lettre à Ménécée_
-
-<!-- Il ne s'agit pas de se priver de plaisirs, mais simplement de calculer les conséquences (= la métriopathie), non pas pour atteindre un maximum de plaisirs, mais simplement pour pouvoir toujours éprouver le simple plaisir d'exister -->
-
 
 ---
 <!-- _class:  -->
