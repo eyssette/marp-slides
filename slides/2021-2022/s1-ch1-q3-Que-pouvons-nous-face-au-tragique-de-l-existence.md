@@ -13,6 +13,22 @@ https://eyssette.github.io/
 
 
 ---
+<!-- _class: pm -->
+
+- À quoi le terme “tragique” vous fait-il penser ?
+- Que signifie l'expression : “c'est un événement tragique !” ?
+
+
+---
+<!-- _class: pointmethode -->
+<style scoped>
+span {font-size:90%}
+</style>
+### Point méthode
+Pour analyser une notion, il faut noter au brouillon ce à quoi la notion nous fait penser<span> (des synonymes, des expressions, des situations ou des idées associées à cette notion)</span>.
+
+
+---
 <!-- _class: pp i1t1 vertical fpppp -->
 
 ![Tableau de Philippe de Champaigne, Vanité avec un crâne humain, une fleur, un sablier](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/StillLifeWithASkull.jpg/2880px-StillLifeWithASkull.jpg)
@@ -76,6 +92,7 @@ ul {position:absolute; bottom:15px; font-size:0.85em; padding-top:10px; padding-
 
 - Que pouvons-nous faire face à la mort et à tout ce qu'il y a de tragique de l'existence ?
 
+
 ---
 <!-- _class:  -->
 <style scoped>
@@ -116,7 +133,7 @@ h3 {margin-bottom:0}
 p {text-indent:2em; line-height:1.25em; padding:5px 40px}
 </style>
 
-À première vue, le tragique, c'est  …………………………………………………………………………………………………………………………………………………………………………<!-- un état psychique qui nous motive à agir, en vue de la satisfaction de nos besoins, de nos envies ou d'un objectif particulier. Nous ressentons comme agréable le fait de parvenir à réaliser nos désirs. Le désir semble par conséquent avoir pour finalité le plaisir plutôt que la souffrance. -->
+À première vue, le tragique, c'est  …………………………………………………………………………………………………………………………………………………………………………
 
 Mais est-ce si simple ? En effet, …………………………………………………………………………………………………………………………………………………………………………
 
@@ -126,8 +143,22 @@ Mais est-ce si simple ? En effet, ………………………………………�
 Première partie
 
 ---
-<!-- _class: souspartie -->
+<!-- _class: souspartie pm -->
 ## A. Le tragique de l'impuissance
+
+---
+<!-- _class: pointmethode -->
+### Point méthode
+Quand on analyse une notion, c'est bien de chercher à distinguer plusieurs sens possibles de cette notion.
+
+
+---
+<!-- _class: citationC f -->
+
+![bg left:32%](https://i.ibb.co/3mvFKvC/jankelevitch-t.jpg)
+
+>« Dans l'expérience amère de l'irréversible se concentre pour nous l'objectivité […] d'un temps désobéissant, pour ne pas dire indomptable, et qui échappe à notre contrôle. On ne peut s'y soustraire. […] L'objectivité du temps est sans commune mesure avec la résistance d'une matière palpable et tangible et massive qu'on peut façonner par l'effort et le travail, et sur laquelle nos outils ont des prises […]. [P]ar rapport au temps tout-puissant, la volonté elle-même apparaît impuissante […]. »
+>>Vladimir **Jankélévitch**, _L'irréversible et la nostalgie_
 
 ---
 <!-- _class: i1t1 horizontal pp -->
@@ -181,9 +212,52 @@ ul{width:300px!important; margin-top:-50px!important;}
 >>**Pascal**, _Pensées_, L.478, B.137
 
 ---
-<!-- _class: i1t0 pp -->
+<!-- _class: -->
+<style scoped>
+img {position:absolute!important; top:0; left:0; width:90%!important; display:block; height:640px; margin: 40px 50px; }
+</style>
 
-![Schéma sur le divertissement selon Pascal](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/divertissement-Pascal.svg)
+1) ![](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/divertissement-Pascal-v3.dot-part1.svg)
+1) ![](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/divertissement-Pascal-v3.dot-part2.svg)
+1) ![](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/divertissement-Pascal-v3.dot-part3.svg)
+1) ![](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/divertissement-Pascal-v3.dot-part4.svg)
+1) ![](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/divertissement-Pascal-v3.dot-part5.svg)
+1) ![](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/divertissement-Pascal-v3.dot.svg)
+
+
+---
+<!-- _class: exercice tableau fp-->
+<style scoped>
+table {margin-top:-0.9em!important; font-size:115%}
+table tbody td {padding:0; font-size:90%}
+ol {margin-top:-0.2em!important}
+</style>
+
+|Se divertir, c'est chercher à être…|… afin d'éviter<br> d'être  …|
+|:-:|:-:|
+|?|?|
+|?|?|
+|?|?|
+
+1. tourné vers l'extérieur<br>
+2. angoissé par le vide de sens de notre existence<br>
+3. dans le repos, l'inaction
+4. tourné vers soi
+5. rempli d'occupations, de choses à faire
+6. dans l'activité, l'agitation
+
+---
+<!-- _class: exercice tableau-r fm  -->
+<style scoped>
+table {font-size:1.32em; padding:0 50px}
+table td {padding:0px 0.65em;}
+em {font-size:70%!important;}
+</style>
+|Se divertir, c'est chercher à être…|… afin d'éviter<br> d'être  …|
+|:-:|:-:|
+|*6* dans l'activité, l'agitation|*3* dans le repos, l'inaction|
+|*1* tourné vers l'extérieur|*4* tourné vers soi|
+|*5* rempli d'occupations, <br>de choses à faire|*2* angoissé par le vide de sens de<br> notre existence|
 
 
 ---
