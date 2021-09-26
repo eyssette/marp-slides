@@ -337,7 +337,10 @@ h3{font-size:120%; margin-top:15px}
 * **Une critique moraliste des plaisirs** consisterait à considérer les plaisirs comme des tentations mauvaises qui nous conduisent au vice.
 * **L'ascétisme radical** désigne le fait de renoncer aux plaisirs, voire de s'imposer certaines souffrances en vue d'un idéal supérieur.
 
-<!-- Exemples :  abstinence sexuelle, pratiques de mortification du corps, histoire d'Origène qui se serait lui-même castré -->
+<!-- Exemples :  
+ascétisme religieux : abstinence sexuelle, pratiques de mortification du corps, histoire d'Origène qui se serait lui-même castré / ascétisme sportif
+Il ne s'agit pas de rendre la recherche du plaisir coupable, mais simplement de faire preuve de réflexion en vue de son propre bonheur
+ -->
 
 ---
 <!-- _class: definition -->
