@@ -268,6 +268,17 @@ em {font-size:70%!important;}
 >« [C]eux qui font sur cela les philosophes et qui croient que le monde est bien peu raisonnable de passer tout le jour à courir après un lièvre qu’ils ne voudraient pas avoir acheté, ne connaissent guère notre nature. »
 >>**Pascal**, _Pensées_, L.136 - B.139
 
+<!-- Les demi-habiles -->
+
+---
+<!-- _class: citationC fppppppppp -->
+
+![bg left:35% Portrait de Blaise Pascal](https://upload.wikimedia.org/wikipedia/commons/c/c1/Blaise_Pascal_2.jpg)
+
+>« La seule chose qui nous console de nos misères est le divertissement. Et cependant c’est la plus grande de nos misères. Car c’est cela qui nous empêche principalement de songer à nous et qui nous fait perdre insensiblement »
+>>**Pascal**, _Pensées_, L.414 - B.171
+
+<!-- Le divertissement n'est pas le bonheur, il ne fait que masquer, de manière fragile et illusoire le malheur -->
 
 ---
 <!-- _class: partie -->
