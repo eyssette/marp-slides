@@ -411,7 +411,7 @@ Vous pouvez consulter ce [schéma pour comprendre ce que dit l'épicurisme à pr
 
 ![Buste d'Épicure bg left:44%](https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Epikouros_BM_1843.jpg/1920px-Epikouros_BM_1843.jpg)
 
->« Il faut se rendre compte que parmi nos désirs les uns sont naturels les autres vains »
+>« Il faut se rendre compte que parmi nos désirs les uns sont naturels les autres vains »
 >>**Épicure**, _Lettre à Ménécée_
 
 ---

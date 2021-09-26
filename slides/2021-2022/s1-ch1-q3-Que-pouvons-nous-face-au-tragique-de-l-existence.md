@@ -84,7 +84,7 @@ p:nth-of-type(1), p:nth-of-type(4) {font-size:2.75em; width:100%; text-align:cen
 p:nth-of-type(4) {font-size:1.3em; padding-bottom:15px}
 p:nth-of-type(2), p:nth-of-type(3) {color:white; bottom:50px; font-size:1em; background-color:black; text-align:center}
 p:nth-of-type(2) {left: 10px; }
-p:nth-of-type(3) {left:570px; bottom:70px;}
+p:nth-of-type(3) {left:520px;  width:350px}
 </style>
 
 ![bg](https://i.ibb.co/2dgttWV/heraclite-t.jpg)
@@ -94,9 +94,31 @@ p:nth-of-type(3) {left:570px; bottom:70px;}
 
 Les philosophes<br>tragiques
 
-Épictète
+Le stoïcisme d'Épictète
 
 vs.
+
+---
+<!-- _class: fppppp -->
+<style scoped>
+h3 {margin-bottom:0}
+</style>
+
+### Les objectifs de ce cours
+1) Comprendre ce qu'est le tragique et les différentes attitudes possibles face au tragique :large_blue_circle:
+2) Comprendre l'opposition principale entre les philosophes tragiques et le stoïcisme d'Épictète :red_circle:
+3) Être capable de problématiser une question dans l'introduction d'une dissertation  :red_circle:
+
+
+---
+<!-- _class:  -->
+<style scoped>
+p {text-indent:2em; line-height:1.25em; padding:5px 40px}
+</style>
+
+À première vue, le tragique, c'est  …………………………………………………………………………………………………………………………………………………………………………<!-- un état psychique qui nous motive à agir, en vue de la satisfaction de nos besoins, de nos envies ou d'un objectif particulier. Nous ressentons comme agréable le fait de parvenir à réaliser nos désirs. Le désir semble par conséquent avoir pour finalité le plaisir plutôt que la souffrance. -->
+
+Mais est-ce si simple ? En effet, …………………………………………………………………………………………………………………………………………………………………………
 
 ---
 <!-- _class: partie -->
