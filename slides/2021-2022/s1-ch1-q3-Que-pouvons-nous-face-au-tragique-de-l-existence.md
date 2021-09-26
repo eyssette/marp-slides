@@ -268,7 +268,8 @@ em {font-size:70%!important;}
 >« [C]eux qui font sur cela les philosophes et qui croient que le monde est bien peu raisonnable de passer tout le jour à courir après un lièvre qu’ils ne voudraient pas avoir acheté, ne connaissent guère notre nature. »
 >>**Pascal**, _Pensées_, L.136 - B.139
 
-<!-- Les demi-habiles -->
+<!-- Les demi-habiles : ceux qui critiquent le divertissement comme une forme de bêtise
+Pascal reconnaît qu'il est très humain de vouloir se divertir. Il ne faut pas se croire supérieur face à ceux qui ne font que se divertir.  -->
 
 ---
 <!-- _class: citationC fppppppppp -->
@@ -282,8 +283,11 @@ em {font-size:70%!important;}
 
 ---
 <!-- _class: partie -->
-# II - Épictète : il y a <br>ce qui dépend de <br>nous et ce qui ne <br>dépend pas de nous <!-- fit -->
-
+<style scoped>
+h1 {padding:40px}
+</style>
+# II - Le stoïcisme <br>d'Épictète<!-- fit -->
+Deuxième partie
 
 ---
 <!-- _class: citationC -->
@@ -301,10 +305,15 @@ p{font-size:110%;}
 ## A. Accepter ce qui ne dépend pas de nous
 
 ---
-<!-- _class: i1t0 -->
-
-![Schéma sur l'idée qu'il faut accepter ce qui ne dépend pas de nous](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/stoicisme-accepter-ce-qui-ne-depend-pas-de-nous.svg)
-
+<!-- _class: -->
+<style scoped>
+ul {list-style-type:none}
+ul li {margin-left:-2em}
+</style>
+1) Il faut accepter le tragique au lieu de chercher à l'oublier dans l'illusion du divertissement
+	* &rArr; il faut affronter le réel
+2) Il faut accepter le tragique au lieu de se morfondre dans la tristesse et l'espérance
+	* &rArr; il faut se focaliser sur ce qu'on peut faire
 
 ---
 <!-- _class: citationC -->
@@ -374,3 +383,34 @@ ul {position:absolute; bottom:20px; left:-10px; background-color:#EEE; border:1p
 [![Affiche du film Invictus](https://fr.web.img3.acsta.net/medias/nmedia/18/72/82/16/19187639.jpg)](https://drive.google.com/file/d/12mCc9CNQtZjqS9q86sBFT5gQlULTovaJ/view)
 
 >« _Invictus_ est un poème écrit par William Ernest Henley (1849-1903), qui témoigne de son long combat contre la douleur et la maladie. En raison d’une tuberculose osseuse déclarée à l’âge de 12 ans, Henley doit subir l’amputation de sa jambe gauche entre 1868 et 1869, puis luttera de nombreuses années pour sauver sa deuxième jambe. […] Après la fin de l’apartheid en Afrique du Sud, le poème devient indissociable de Nelson Mandela. On apprend en effet que _Invictus_ est son poème préféré, et qui l’a inspiré et soutenu dans les moments les plus noirs de ses 27 années de captivité. » ([source](https://deniscougot.wordpress.com/le-poeme-invictus/)
+
+
+---
+<!-- _class: partie -->
+# Mise en pratique
+
+
+---
+<!-- _class: exercice application fmmmm -->
+<style scoped>
+h3 {margin-bottom:10px}
+ul ul {font-size:100%; margin-left:-30px}
+span {font-size:90%}
+</style>
+
+### Exercice d'application
+
+- Choisir un sujet ci-dessous :
+  - Faut-il accepter le réel tel qu'il est ?
+  - Le bonheur dépend-il de nous ?
+  - La conscience du temps rend-elle l'existence tragique ?
+  - Sommes-nous soumis au temps ?
+  - La fuite du temps est-elle nécessairement un malheur ?
+  - Est-il raisonnable de lutter contre le temps ?
+  - La cause de nos malheurs est-elle en nous ?
+  - L'oubli est-il une faiblesse ?
+- Rédiger une sous-partie de dissertation <span>(200 mots minimum)</span> : :warning: <span>il faut défendre une seule réponse, mobiliser le cours (les philosophes tragiques ou Épictète), et utiliser le modèle ARES</span>
+
+
+
+
