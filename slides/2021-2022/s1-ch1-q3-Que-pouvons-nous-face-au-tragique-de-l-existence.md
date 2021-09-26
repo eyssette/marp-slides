@@ -393,8 +393,10 @@ ul {position:absolute; bottom:20px; left:-10px; background-color:#EEE; border:1p
 ---
 <!-- _class: exercice application fmmmm -->
 <style scoped>
-h3 {margin-bottom:10px}
+h3 {margin-bottom:5px}
 ul ul {font-size:100%; margin-left:-30px}
+ul ul li {margin-top:5px!important;}
+ul {padding:5px 30px}
 span {font-size:90%}
 </style>
 
@@ -403,6 +405,7 @@ span {font-size:90%}
 - Choisir un sujet ci-dessous :
   - Faut-il accepter le réel tel qu'il est ?
   - Le bonheur dépend-il de nous ?
+  - Faut-il se divertir pour être heureux ?
   - La conscience du temps rend-elle l'existence tragique ?
   - Sommes-nous soumis au temps ?
   - La fuite du temps est-elle nécessairement un malheur ?
