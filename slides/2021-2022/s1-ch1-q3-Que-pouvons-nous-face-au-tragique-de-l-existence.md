@@ -54,13 +54,16 @@ James Hopkins, _Wasted Youth_
 <!-- _class: pp -->
 <style scoped>
 p {position:absolute; padding:0; margin:0}
-p:nth-of-type(1){top:70px; left:12px}
-p:nth-of-type(2){top:20px; left:330px;}
-p:nth-of-type(2) img {max-height:350px;}
+p:nth-of-type(1){top:10px; left:22px}
+p:nth-of-type(1) img {width:340px}
+p:nth-of-type(1) img:nth-of-type(2) {margin-top:-40px; height:280px}
+p:nth-of-type(2){top:00px; left:380px;}
+p:nth-of-type(2) img {max-height:350px; width:250px}
 p:nth-of-type(2) img:nth-of-type(1){padding-top:15px}
-p:nth-of-type(2) img:nth-of-type(2){margin-top:-25px}
-p:nth-of-type(3){top:110px; left:648px}
+p:nth-of-type(2) img:nth-of-type(2){margin-top:-45px}
+p:nth-of-type(3){top:10px; left:644px}
 img {width:300px; display:flex;}
+ul {position:absolute; bottom:15px; font-size:0.85em; padding-top:10px; padding-bottom:10px}
 </style>
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/StillLifeWithASkull.jpg/2880px-StillLifeWithASkull.jpg)
@@ -71,6 +74,7 @@ img {width:300px; display:flex;}
 
 ![](https://i.ibb.co/LgynzRr/hopkins-wasted-youth-t.jpg)
 
+- Que pouvons-nous faire face à la mort et à tout ce qu'il y a de tragique de l'existence ?
 
 ---
 <!-- _class:  -->
@@ -101,7 +105,7 @@ Première partie
 
 ---
 <!-- _class: souspartie -->
-## B. le tragique de l'impuissance
+## A. Le tragique de l'impuissance
 
 ---
 <!-- _class: i1t1 horizontal pp -->
@@ -141,14 +145,6 @@ ul{width:300px!important; margin-top:-50px!important;}
 
 >« [E]n regardant l’univers muet et l’homme sans lumière, abandonné à lui-même, et comme égaré dans ce recoin de l’univers, sans savoir qui l’y a mis, ce qu’il y est venu faire, ce qu’il deviendra en mourant, incapable de toute connaissance, j’entre en effroi comme un homme qu’on aurait porté endormi dans une île déserte et effroyable, et qui s’éveillerait sans connaître où il est, et sans moyen d’en sortir »
 >>**Pascal**, _Pensées_, L.198 - B.693
-
----
-<!-- _class: citationC fppp -->
-
-![bg left:35% Portrait de Blaise Pascal](https://upload.wikimedia.org/wikipedia/commons/c/c1/Blaise_Pascal_2.jpg)
-
->« Rien n’est si insupportable à l’homme que d’être dans un plein repos […] Il sent alors son néant, son abandon, son insuffisance, sa dépendance, son impuissance, son vide. Incontinent il sortira du fond de son âme l’ennui, la noirceur, la tristesse, le chagrin, le dépit, le désespoir. »
->>**Pascal**, _Pensées_, L.622 - B.131
 
 
 ---
@@ -254,6 +250,16 @@ ul li{text-align:justify!important; margin-left:30px!important; margin-right:30p
 ---
 <!-- _class: souspartie -->
 ## C. Être comme un roc face aux vagues
+
+
+---
+<!-- _class:  -->
+<style scoped>
+ul {position:absolute; bottom:20px; left:-10px; background-color:#EEE; border:1px solid black; font-size:0.6em; border-radius:10px; width:400px}
+</style>
+![bg](https://i.ibb.co/gwLSDZ8/rock-wave-t.webp)
+
+<!-- - “Être comme un roc face aux vagues” : qu'est-ce que cela veut dire ? -->
 
 ---
 <!-- _class: cinema fmmmm-->
