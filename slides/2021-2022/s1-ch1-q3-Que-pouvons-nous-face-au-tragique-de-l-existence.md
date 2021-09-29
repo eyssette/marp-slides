@@ -8,7 +8,7 @@ size: 4:3
 <!-- _class: titre -->
 
 # Q3  –<br> Que pouvons-nous<br> face au tragique<br> de l'existence ? <!-- fit -->
-Cédric Eyssette
+Cédric Eyssette (2021-2022)
 https://eyssette.github.io/
 
 

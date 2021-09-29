@@ -8,8 +8,10 @@ size: 4:3
 <!-- _class: titre -->
 
 # Q1 – Faire tout ce <br>qui nous plaît, <br>est-ce être esclave<br> de nos désirs ? <!-- fit -->
-Cédric Eyssette
+Cédric Eyssette (2021-2022)
 https://eyssette.github.io/
+
+<!-- Simplifier le titre pour l'année prochaine : Sommes-nous esclaves de nos désirs ? -->
 
 ---
 <!-- _class: i1t1 vertical  pp -->

@@ -11,7 +11,7 @@ h1{padding-left:70px; padding-right:70px; margin-top:-0.1em!important;}
 h1 span {font-size:95%; line-height:1em; display:block; margin-top:0.2em; padding-bottom:0.2em;}
 </style>
 # Séquence 1 : <br><span>Éthique et <br>philosophie<br> morale</span> <!-- fit -->
-Cédric Eyssette
+Cédric Eyssette (2021-2022)
 https://eyssette.github.io/
 
 ---

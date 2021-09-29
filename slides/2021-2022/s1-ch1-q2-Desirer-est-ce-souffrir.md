@@ -10,7 +10,7 @@ size: 4:3
 h1{padding:45px!important}
 </style>
 # Q2 – <br>Désirer, est-ce<br> souffrir ? <!-- fit -->
-Cédric Eyssette
+Cédric Eyssette (2021-2022)
 https://eyssette.github.io/
 
 

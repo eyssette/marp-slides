@@ -8,7 +8,7 @@ size: 4:3
 <!-- _class: titre -->
 
 # Q1 – Peut-on savoir ce qu'est le bonheur ?
-Cédric Eyssette
+Cédric Eyssette (2021-2022)
 https://eyssette.github.io/
 
 
