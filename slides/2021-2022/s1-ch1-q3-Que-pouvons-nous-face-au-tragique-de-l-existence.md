@@ -421,7 +421,7 @@ span {font-size:90%}
   - Est-il raisonnable de lutter contre le temps ?
   - La cause de nos malheurs est-elle en nous ?
   - L'oubli est-il une faiblesse ?
-- Rédiger une sous-partie de dissertation <span>(200 mots minimum)</span> : :warning: <span>il faut défendre une seule réponse, mobiliser le cours (les philosophes tragiques ou Épictète), et utiliser le modèle ARES</span>
+- Rédiger une sous-partie de dissertation <span>(autour de 300 mots)</span> : :warning: <span>il faut défendre une seule réponse, mobiliser le cours (les philosophes tragiques ou Épictète), et utiliser le modèle ARES</span>
 
 
 
