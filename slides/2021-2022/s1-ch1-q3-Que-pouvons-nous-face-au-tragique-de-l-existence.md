@@ -17,7 +17,7 @@ https://eyssette.github.io/
 
 - À quoi le terme “tragique” vous fait-il penser ?
 - Que signifie l'expression : “c'est un événement tragique !” ?
-
+- Qu'est-ce qui est tragique ?
 
 ---
 <!-- _class: pointmethode -->
@@ -30,10 +30,13 @@ Pour analyser une notion, il faut noter au brouillon ce à quoi la notion nous f
 
 ---
 <!-- _class: pp i1t1 vertical fpppp -->
+<style scoped>
+ol {list-style-type:none; margin-top:-0.1em!important}
+</style>
 
 ![Tableau de Philippe de Champaigne, Vanité avec un crâne humain, une fleur, un sablier](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/StillLifeWithASkull.jpg/2880px-StillLifeWithASkull.jpg)
 
-Philippe de Champaigne, _Vanité_ (1644)
+1) Philippe de Champaigne, _Vanité_ (1644)
 
 ---
 <!-- _class: pp i1t1 vertical fpppp -->
@@ -131,11 +134,20 @@ h3 {margin-bottom:0}
 <!-- _class:  -->
 <style scoped>
 p {text-indent:2em; line-height:1.25em; padding:5px 40px}
+ol {position:absolute; list-style-type:none}
+ol li {position:absolute; width:650px; text-align:center; color:#cd780a; font-weight:600; font-family:Verdana!important}
+ol li:nth-of-type(1){top:-185px; left:130px}
+ol li:nth-of-type(2){top:114px; left:130px }
 </style>
 
-À première vue, le tragique, c'est  …………………………………………………………………………………………………………………………………………………………………………
+À première vue, le tragique, c'est  ……………………………………………………………………………………………………………………………………………………………………………………
 
-Mais est-ce si simple ? En effet, …………………………………………………………………………………………………………………………………………………………………………
+Mais est-ce si simple ? En effet, ……………………………………………………………………………………………………………………………………………………………………………………
+
+1) R1 : Première réponse possible au sujet
+2) R2 : Deuxième réponse possible au sujet,<br> opposée à R1
+
+<!-- 100-150 mots -->
 
 ---
 <!-- _class: partie -->
@@ -338,7 +350,7 @@ ul li {margin-left:-2em}
 ## B. Maîtriser ce qui dépend<br>de nous
 
 ---
-<!-- _class: citationC fppppppp -->
+<!-- _class: citationC fpppppp -->
 <style scoped>
 blockquote blockquote {margin-top:-10px!important;}
 </style>
