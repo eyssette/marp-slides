@@ -314,6 +314,8 @@ En définitive : une conception normative du bonheur
 Mais pas de paternalisme : c'est à chacun de réfléchir à son existe
 La sagesse repose sur un questionnement à avoir par soi-même, à propos de soi-même  -->
 
+<!-- !TODO : Ajouter un exemple à cette partie (notamment pour qu'il soit mobilisable lors de la mise en pratique avec ARES) -->
+
 ---
 <!-- _class: partie -->
 # Mise en pratique
