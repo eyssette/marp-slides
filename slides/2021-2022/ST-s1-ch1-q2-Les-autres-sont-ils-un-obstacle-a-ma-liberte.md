@@ -7,7 +7,7 @@ size: 4:3
 
 <!-- _class: titre -->
 
-# Q2 – La liberté des autres est-elle un obstacle à ma liberté ?
+# Q2 – Les autres<br>sont-ils un obstacle<br>à ma liberté ? <!-- fit -->
 Cédric Eyssette (2021-2022)
 https://eyssette.github.io/
 
