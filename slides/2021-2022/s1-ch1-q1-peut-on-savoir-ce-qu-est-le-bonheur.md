@@ -314,7 +314,10 @@ En définitive : une conception normative du bonheur
 Mais pas de paternalisme : c'est à chacun de réfléchir à son existe
 La sagesse repose sur un questionnement à avoir par soi-même, à propos de soi-même  -->
 
-<!-- !TODO : Ajouter un exemple à cette partie (notamment pour qu'il soit mobilisable lors de la mise en pratique avec ARES) -->
+<!-- !TODO : Ajouter un exemple à cette partie (notamment pour qu'il soit mobilisable lors de la mise en pratique avec ARES)
+GroundHog Day ?
+https://film-cred.com/groundhog-day-harold-ramis-bill-murray-philopsophy/
+https://nepascene.com/2021/02/how-philosophy-groundhog-day-can-help-us-through-pandemic-times/#:~:text=As%20a%20scholar%20of%20communication,us%20a%20lesson%20in%20mindfulness  -->
 
 ---
 <!-- _class: partie -->
