@@ -318,7 +318,7 @@ p{font-size:110%;}
 
 ![Dessin représentant Épictète bg left:45%](https://upload.wikimedia.org/wikipedia/commons/9/90/Epictetus.jpg)
 
->« Parmi les choses qui existent, certaines dépendent de nous, d'autres non. »
+>« Parmi les choses qui existent, certaines dépendent de nous, d'autres non. »
 >>**Épictète**, _Manuel_
 
 ---
@@ -341,7 +341,7 @@ ul li {margin-left:-2em}
 
 ![Dessin représentant Épictète bg left:45%](https://upload.wikimedia.org/wikipedia/commons/9/90/Epictetus.jpg)
 
->« N'attends pas que les événements arrivent comme tu le souhaites ; décide de vouloir ce qui arrive comme cela arrive et tu seras heureux »
+>« N'attends pas que les événements arrivent comme tu le souhaites ; décide de vouloir ce qui arrive comme cela arrive et tu seras heureux »
 >>**Épictète**, _Manuel_
 
 ---
@@ -356,7 +356,7 @@ blockquote blockquote {margin-top:-10px!important;}
 </style>
 ![Dessin représentant Épictète bg left:40%](https://upload.wikimedia.org/wikipedia/commons/9/90/Epictetus.jpg)
 
->« Pour tout objet qui t'attire, te sert ou te plaît, représente-toi bien ce qu'il est […] Quand tu te prépares à faire quoi que ce soit, représente-toi bien de quoi il s'agit. […] Ce qui tourmente les hommes, ce n'est pas la réalité mais les jugements qu'ils portent sur elle. […] »
+>« Pour tout objet qui t'attire, te sert ou te plaît, représente-toi bien ce qu'il est […] Quand tu te prépares à faire quoi que ce soit, représente-toi bien de quoi il s'agit. […] Ce qui tourmente les hommes, ce n'est pas la réalité mais les jugements qu'ils portent sur elle. […] »
 >>**Épictète**, _Manuel_
 
 ---
@@ -381,7 +381,7 @@ ul li{text-align:justify!important; margin-left:30px!important; margin-right:30p
 <!-- _class: citationC -->
 ![Dessin représentant Épictète bg left:42%](https://upload.wikimedia.org/wikipedia/commons/9/90/Epictetus.jpg)
 
->« Devant tout ce qui t'arrive, pense à rentrer en toi-même et cherche quelle faculté tu possèdes pour y faire face. […] En t'exerçant ainsi tu ne seras plus le jouet de tes représentations »
+>« Devant tout ce qui t'arrive, pense à rentrer en toi-même et cherche quelle faculté tu possèdes pour y faire face. […] En t'exerçant ainsi tu ne seras plus le jouet de tes représentations »
 >>**Épictète**, _Manuel_
 
 ---
