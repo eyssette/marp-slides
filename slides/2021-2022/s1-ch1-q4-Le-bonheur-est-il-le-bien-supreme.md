@@ -81,16 +81,78 @@ On peut construire un raisonnement à partir d'une expérience de pensée : on 
 
 
 ---
-<!-- _class: citationC fppppppp -->
+<!-- _class:  -->
+<style scoped>
+p {position:absolute}
+p:nth-of-type(1), p:nth-of-type(4) {font-size:2.75em; width:100%; text-align:center; margin:auto;}
+p:nth-of-type(4) {font-size:1.3em; padding-bottom:15px}
+p:nth-of-type(2), p:nth-of-type(3) {color:white; bottom:50px; font-size:0.85em; background-color:black; text-align:center}
+p:nth-of-type(2) {left: 50px; bottom:10px}
+p:nth-of-type(3) {left:580px; bottom:38px }
+</style>
+
+![bg](https://upload.wikimedia.org/wikipedia/commons/c/c1/Simone_de_Beauvoir2.png)
+![bg](https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/John_Stuart_Mill_by_London_Stereoscopic_Company%2C_c1870.jpg/477px-John_Stuart_Mill_by_London_Stereoscopic_Company%2C_c1870.jpg)
+
+:red_circle:
+
+Les critiques <br>féministes<br> du “bonheur”
+
+John<br>Stuart Mill
+
+vs.
+
+---
+<!-- _class: partie -->
+# I – Les critiques <br>féministes <br>du “bonheur” <!-- fit -->
+Première partie
+
+---
+<!-- _class: citationC fpppp-->
+![bg left:40%](https://upload.wikimedia.org/wikipedia/commons/c/c1/Simone_de_Beauvoir2.png)
+>« On ne sait trop ce que le mot bonheur signifie et encore moins quelles valeurs authentiques il recouvre ; il n’y a aucune possibilité de mesurer le bonheur d’autrui et il est toujours facile de déclarer heureuse la situation qu’on veut lui imposer […]. »
+>>Simone **de Beauvoir**, _Le deuxième sexe_, I, Introduction
+
+---
+<!-- _class: i1t0 pp -->
+![](https://i.ibb.co/pWGkgsP/moulinex-t.jpg)
+
+---
+<!-- _class: citationC fmmm-->
+![bg left:40%](https://upload.wikimedia.org/wikipedia/commons/c/c1/Simone_de_Beauvoir2.png)
+>« C’est donc une notion à laquelle nous ne nous référerons pas. […] Comment dans la condition féminine peut s’accomplir un être humain ? Quelles voies lui sont ouvertes ? Lesquelles aboutissent à des impasses ? Comment retrouver l’indépendance au sein de la dépendance ? Quelles circonstances limitent la liberté de la femme et peut-elle les dépasser ? Ce sont là les questions fondamentales que nous voudrions élucider. C’est dire que nous intéressant aux chances de l’individu nous ne définirons pas ces chances en termes de bonheur, mais en termes de liberté. »
+>>Simone **de Beauvoir**, _Le deuxième sexe_, I, Introduction
+
+
+---
+<!-- _class: citationC fmmmm-->
+
+![bg left:27%](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Sara_Ahmed-IMG_6455.JPG/520px-Sara_Ahmed-IMG_6455.JPG)
+
+>« S’engager dans l’activisme politique revient donc à engager un combat contre le bonheur. Quand bien même nous nous battons pour d’autres choses, quand bien même il y a d’autres mondes que nous voulons créer, sans doute partageons-nous ce contre quoi nous nous élevons. Raison pour laquelle nos archives militantes sont des archives du malheur. Pensons simplement à la somme de travail critique accompli à ce jour : à toutes les critiques féministes de “l’épouse et mère comblée” ; aux critiques noires du mythe du “joyeux esclave” ; aux critiques _queers_ de la “félicité conjugale” que serait l’hétérosexualité version sentimentale. La lutte dont le bonheur est l’enjeu définit l’horizon de nos revendications politiques. Nous héritons de cet horizon. »
+>>Sarah Ahmed, « Les rabat-joie féministes (et autres sujets obstinés) », _Cahiers du Genre_, vol. 53, n°2, 2012
+
+---
+<!-- _class: partie -->
+# II – John <br>Stuart Mill <!-- fit -->
+Deuxième partie
+
+---
+<!-- _class: citationC fppp -->
+<style scoped>
+blockquote blockquote{font-size:0.88em;}
+</style>
 
 ![bg left:45%](https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/John_Stuart_Mill_by_London_Stereoscopic_Company%2C_c1870.jpg/477px-John_Stuart_Mill_by_London_Stereoscopic_Company%2C_c1870.jpg)
 
->« Peu de créatures humaines accepteraient d'être changées en animaux inférieurs sur la promesse de la plus large ration de plaisirs de bêtes ; aucun être humain intelligent ne consentirait à être un imbécile […]. »
+>« Peu de créatures humaines accepteraient d'être changées en animaux inférieurs sur la promesse de la plus large ration de plaisirs de bêtes ; aucun être humain intelligent ne consentirait à être un imbécile […], aucun homme ayant du cœur […] à être égoïste et vil »
 >>John Stuart **Mill**, _L'utilitarisme_
 
 ---
 <!-- _class: citationC fpp -->
-
+<style scoped>
+blockquote blockquote{font-size:0.88em;}
+</style>
 ![bg left:45%](https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/John_Stuart_Mill_by_London_Stereoscopic_Company%2C_c1870.jpg/477px-John_Stuart_Mill_by_London_Stereoscopic_Company%2C_c1870.jpg)
 
 >« Un être pourvu de facultés supérieures demande plus pour être heureux, est probablement exposé à souffrir de façon plus aiguë, et offre certainement à la souffrance plus de points vulnérables qu'un être de type inférieur, mais en dépit de ces risques, il ne peut jamais souhaiter réellement tomber à un niveau d'existence qu'il sent inférieur »
@@ -98,10 +160,22 @@ On peut construire un raisonnement à partir d'une expérience de pensée : on 
 
 ---
 <!-- _class: citationC fpp -->
-
+<style scoped>
+blockquote blockquote{font-size:0.88em;}
+</style>
 ![bg left:45%](https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/John_Stuart_Mill_by_London_Stereoscopic_Company%2C_c1870.jpg/477px-John_Stuart_Mill_by_London_Stereoscopic_Company%2C_c1870.jpg)
 
 >« Nous pouvons donner de cette répugnance le nom qu'il nous plaira [...] mais si on veut l'appeler de son vrai nom, c'est un sens de la dignité que tous les êtres humains possèdent, sous une forme ou sous une autre, et qui correspond – de façon nullement rigoureuse d'ailleurs – au développement de leurs facultés supérieures. »
+>>John Stuart **Mill**, _L'utilitarisme_
+
+---
+<!-- _class: citationC fppp -->
+<style scoped>
+blockquote blockquote{font-size:0.88em;}
+</style>
+![bg left:45%](https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/John_Stuart_Mill_by_London_Stereoscopic_Company%2C_c1870.jpg/477px-John_Stuart_Mill_by_London_Stereoscopic_Company%2C_c1870.jpg)
+
+>« Quiconque suppose que cette préférence est un sacrifice du bonheur, que l’être supérieur, dans des circonstances identiques, n’est pas plus heureux que l’être inférieur, confond deux idées très différentes, l’idée de bonheur et l’idée de satisfaction. »
 >>John Stuart **Mill**, _L'utilitarisme_
 
 ---
