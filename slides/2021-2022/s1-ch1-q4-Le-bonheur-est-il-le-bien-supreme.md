@@ -63,9 +63,9 @@ h3{text-align:center; font-size:1.4em!important;}
 <!-- _class: i1t1 pp -->
 <style scoped>
 img{height:610px; margin-top:-20px}
-h3{text-align:center; font-size:1.4em!important; padding-top:20px!important;}
+h3{text-align:center; font-size:1em!important; padding-top:20px!important;}
 </style>
-### Le méchant heureux
+### Les personnes qui <br>commettent des atrocités
 
 ![](https://i.ibb.co/Npm0zvk/ss-officers-t.jpg)
 
