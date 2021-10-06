@@ -95,6 +95,12 @@ ul {position:absolute; bottom:15px; font-size:0.85em; padding-top:10px; padding-
 
 - Que pouvons-nous faire face à la mort et à tout ce qu'il y a de tragique de l'existence ?
 
+<!-- 
+Référence au “carpe diem” = cueille le jour = saisis l'instant présent
+Deux sens possibles :
+1. Pour l'hédonisme radical = profite de tous les plaisirs au maximum
+2. Pour l'hédonisme d'Épicure = savoure le simple plaisir d'exister là maintenant
+ -->
 
 ---
 <!-- _class:  -->
@@ -300,7 +306,7 @@ Pascal reconnaît qu'il est très humain de vouloir se divertir. Il ne faut pas 
 >« La seule chose qui nous console de nos misères est le divertissement. Et cependant c’est la plus grande de nos misères. Car c’est cela qui nous empêche principalement de songer à nous et qui nous fait perdre insensiblement »
 >>**Pascal**, _Pensées_, L.414 - B.171
 
-<!-- Le divertissement n'est pas le bonheur, il ne fait que masquer, de manière fragile et illusoire le malheur -->
+<!-- Le divertissement n'est pas le bonheur, il ne fait que masquer, de manière fragile et illusoire le malheur. C'est un cache-misère -->
 
 ---
 <!-- _class: partie -->
@@ -321,6 +327,39 @@ p{font-size:110%;}
 >« Parmi les choses qui existent, certaines dépendent de nous, d'autres non. »
 >>**Épictète**, _Manuel_
 
+
+---
+<!-- _class: exercice tableau fm -->
+<style scoped>
+table {margin-top:-0.6em!important}
+table tbody {font-size:0.9em}
+</style>
+| Ce qui dépend <br>de nous | Ce qui ne dépend <br>pas de nous |
+|:-:|:-:|
+| ? | ? | 
+| ? | ? | 
+| ? | ? | 
+
+1. Exemples : le corps, l'argent, la réputation …<br>
+2. Ce qui est intérieur<br>
+3. Ce qui est totalement soumis à notre volonté
+4. Exemples : notre manière de penser, nos choix …<br>
+5. Ce qui échappe en partie à notre volonté<br>
+6. Ce qui est extérieur à nous
+
+---
+<!-- _class: exercice tableau-r fpppp -->
+| Ce qui dépend <br>de nous | Ce qui ne dépend <br>pas de nous |
+|:-:|:-:|
+| _4_ Exemples : <br>notre manière de penser, nos choix … | _1_ Exemples : <br>le corps, l'argent, <br>la réputation … | 
+| _2_ Ce qui est<br> intérieur | _6_ Ce qui est extérieur à nous| 
+| _3_ Ce qui est totalement soumis à notre volonté | _5_ Ce qui échappe en partie à notre volonté| 
+
+
+<!-- 
+Le tragique de l'existence : fait partie de ce qui ne dépend pas de nous
+ -->
+
 ---
 <!-- _class: souspartie -->
 ## A. Accepter ce qui ne dépend pas de nous
@@ -336,6 +375,13 @@ ul li {margin-left:-2em}
 2) Il faut accepter le tragique au lieu de se morfondre dans la tristesse et l'espérance
 	* &rArr; il faut se focaliser sur ce qu'on peut faire
 
+<!-- Précisions sur 1 :
+Exercices de préparation (pas seulement affronter sur le moment) : exemple du pot en terre …
+Précisions sur 2 :
+≠ un refus des émotions / = un refus de se laisser emporter par les émotions
+(cf. exemple des pleurs)
+≠ une philosophie de la résignation / = une philosophie de l'action (Marc-Aurèle, Pensées VI 51 : « L'homme raisonnable juge que le bien, c'est sa propre activité ») -->
+
 ---
 <!-- _class: citationC -->
 
@@ -343,6 +389,10 @@ ul li {margin-left:-2em}
 
 >« N'attends pas que les événements arrivent comme tu le souhaites ; décide de vouloir ce qui arrive comme cela arrive et tu seras heureux »
 >>**Épictète**, _Manuel_
+
+<!-- 
+Lien avec "amor fati"
+Citation pas vraiment utile : à supprimer ? -->
 
 ---
 <!-- _class: souspartie -->
@@ -359,6 +409,9 @@ blockquote blockquote {margin-top:-10px!important;}
 >« Pour tout objet qui t'attire, te sert ou te plaît, représente-toi bien ce qu'il est […] Quand tu te prépares à faire quoi que ce soit, représente-toi bien de quoi il s'agit. […] Ce qui tourmente les hommes, ce n'est pas la réalité mais les jugements qu'ils portent sur elle. […] »
 >>**Épictète**, _Manuel_
 
+<!-- Prolongement avec les thérapies cognitives : agir sur les représentations pour guérir certains troubles de l'âme
+ -->
+
 ---
 <!-- _class: i1t1 vertical fpp-->
 <style scoped>
@@ -371,11 +424,29 @@ ul li{text-align:justify!important; margin-left:30px!important; margin-right:30p
 - Comment réagissons-nous face à une insulte ou une injure ?
 - Quelle attitude pourrait recommander Épictète ?
 
+<!-- “Souviens-toi que ce qui te cause du tort, ce n'est pas qu'on t'insulte ou qu'on te frappe, mais l'opinion que tu as qu'on te fait du tort. Donc, si quelqu'un t'a mis en colère, sache que c'est ton propre jugement qui est le responsable de ta colère. Essaye de ne pas céder à la violence de l'imagination: car, une fois que tu auras examiné la chose, tu seras plus facilement maître de toi.”
+Epictète, Manuel, XX.
+ -->
+
 ---
 <!-- _class: cinema fp-->
 [![Affiche du film Detachment](https://i.pinimg.com/originals/a5/9e/4d/a59e4da1f5b31fdbf6238c6cebb921df.jpg)](https://drive.google.com/file/d/13HeeYKcGmw7T9hZnFranNOvxf79fsnb7/view)
 
 >« Henry Barthes est professeur remplaçant de littérature anglaise dans les lycées. […] Quand il arrive à son nouveau poste, il est immédiatement confronté à la violence environnante : le lycée est dans une zone difficile. Les enfants sont irrespectueux, agressifs. Henry ne s'émeut pas, il a une mission [à accomplir] » ([source](https://fr.wikipedia.org/wiki/Detachment))
+
+
+
+---
+<!-- _class: -->
+<style scoped>
+img {position:absolute!important; top:0; left:0; width:90%!important; display:block; height:640px; margin: 40px 50px; }
+</style>
+
+1. ![](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/stoicisme-exemple-insulte.dot-part1.svg)
+1. ![](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/stoicisme-exemple-insulte.dot-part2.svg)
+1. ![](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/stoicisme-exemple-insulte.dot.svg)
+
+<!-- Ajouter : ce qui ne dépend pas de moi / ce qui dépend de moi -->
 
 ---
 <!-- _class: citationC -->
@@ -383,6 +454,10 @@ ul li{text-align:justify!important; margin-left:30px!important; margin-right:30p
 
 >« Devant tout ce qui t'arrive, pense à rentrer en toi-même et cherche quelle faculté tu possèdes pour y faire face. […] En t'exerçant ainsi tu ne seras plus le jouet de tes représentations »
 >>**Épictète**, _Manuel_
+
+<!-- “ne plus être le jouet de ses représentations“ => être maître de ses représentations
+ne pas être esclave de ses affects / être maître de soi, se gouverner par la raison
+ -->
 
 ---
 <!-- _class: souspartie -->
