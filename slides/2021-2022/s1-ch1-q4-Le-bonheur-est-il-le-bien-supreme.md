@@ -132,6 +132,8 @@ Première partie
 >« S’engager dans l’activisme politique revient donc à engager un combat contre le bonheur. Quand bien même nous nous battons pour d’autres choses, quand bien même il y a d’autres mondes que nous voulons créer, sans doute partageons-nous ce contre quoi nous nous élevons. Raison pour laquelle nos archives militantes sont des archives du malheur. Pensons simplement à la somme de travail critique accompli à ce jour : à toutes les critiques féministes de “l’épouse et mère comblée” ; aux critiques noires du mythe du “joyeux esclave” ; aux critiques _queers_ de la “félicité conjugale” que serait l’hétérosexualité version sentimentale. La lutte dont le bonheur est l’enjeu définit l’horizon de nos revendications politiques. Nous héritons de cet horizon. »
 >>Sarah Ahmed, « Les rabat-joie féministes (et autres sujets obstinés) », _Cahiers du Genre_, vol. 53, n°2, 2012
 
+<!-- Ajouter : Martha Nussbaum à propos des préférences adaptatives ? -->
+
 ---
 <!-- _class: partie -->
 # II – John <br>Stuart Mill <!-- fit -->

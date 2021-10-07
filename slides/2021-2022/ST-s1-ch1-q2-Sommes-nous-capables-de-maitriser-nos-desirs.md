@@ -214,6 +214,17 @@ Quand la vue d'un objet propre à exciter le désir agit sur le cocher, embrase 
 
 </div>
 
+<!-- Revenir sur la distinction désir / volonté
+Dans les deux cas : une tendance vers une finalité
+
+tendance spontanée / tendance réfléchie
+pas de réflexion sur les moyens  / réflexion sur les moyens 
+une finalité vague : un simple souhait / une finalité précise : un but déterminé
+multiplicité des désirs / unité de la volonté
+dispersion / focalisation
+irrésolution, indécision / détermination à agir, résolution
+ -->
+
 ---
 <!-- _class: partie -->
 # Mise en pratique
