@@ -102,6 +102,7 @@ John<br>Stuart Mill
 
 vs.
 
+
 ---
 <!-- _class: partie -->
 # I – Les critiques <br>féministes <br>du “bonheur” <!-- fit -->

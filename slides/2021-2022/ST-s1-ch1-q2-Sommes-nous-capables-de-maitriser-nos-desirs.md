@@ -141,9 +141,9 @@ ul li{text-align:justify!important; margin-left:30px!important; margin-right:30p
 img {position:absolute!important; top:0; left:0; width:90%!important; display:block; height:640px; margin: 40px 50px; }
 </style>
 
-1. ![](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/stoicisme-exemple-insulte.dot-part1.svg)
-1. ![](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/stoicisme-exemple-insulte.dot-part2.svg)
-1. ![](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/stoicisme-exemple-insulte.dot.svg)
+1) ![](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/stoicisme-exemple-insulte.dot-part1.svg)
+1) ![](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/stoicisme-exemple-insulte.dot-part2.svg)
+1) ![](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/stoicisme-exemple-insulte.dot.svg)
 
 <!-- Ajouter : ce qui ne dépend pas de moi / ce qui dépend de moi -->
 
