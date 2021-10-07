@@ -148,6 +148,11 @@ blockquote blockquote{font-size:0.88em;}
 >« Peu de créatures humaines accepteraient d'être changées en animaux inférieurs sur la promesse de la plus large ration de plaisirs de bêtes ; aucun être humain intelligent ne consentirait à être un imbécile […], aucun homme ayant du cœur […] à être égoïste et vil »
 >>John Stuart **Mill**, _L'utilitarisme_
 
+<!-- Une hiérarchisation de modes de vie.
+Ce qui compte ce n'est pas la quantité des plaisirs.
+La vie bonne ne se réduit pas à une somme de plaisirs.
+Ce qui compte ce sont différentes qualités, différentes valeurs …-->
+
 ---
 <!-- _class: citationC fpp -->
 <style scoped>
@@ -157,6 +162,8 @@ blockquote blockquote{font-size:0.88em;}
 
 >« Un être pourvu de facultés supérieures demande plus pour être heureux, est probablement exposé à souffrir de façon plus aiguë, et offre certainement à la souffrance plus de points vulnérables qu'un être de type inférieur, mais en dépit de ces risques, il ne peut jamais souhaiter réellement tomber à un niveau d'existence qu'il sent inférieur »
 >>John Stuart **Mill**, _L'utilitarisme_
+
+<!-- Une vie véritablement bonne peut nous exposer à la souffrance  -->
 
 ---
 <!-- _class: citationC fpp -->
@@ -168,6 +175,11 @@ blockquote blockquote{font-size:0.88em;}
 >« Nous pouvons donner de cette répugnance le nom qu'il nous plaira [...] mais si on veut l'appeler de son vrai nom, c'est un sens de la dignité que tous les êtres humains possèdent, sous une forme ou sous une autre, et qui correspond – de façon nullement rigoureuse d'ailleurs – au développement de leurs facultés supérieures. »
 >>John Stuart **Mill**, _L'utilitarisme_
 
+<!-- La vie bonne repose sur l'exercice et le développement de ses facultés : l'usage du corps, les émotions, l'imagination, l'intelligence, la communication sociale, l'empathie … 
+La vie bonne est une vie accomplie : il s'agit de chercher à se perfectionner 
+Perfectionnisme moderne (idéal de développement de son individualité : pas une seule forme possible d'excellence)
+≠ perfectionnisme ancien (un idéal universel d'excellence) -->
+
 ---
 <!-- _class: citationC fppp -->
 <style scoped>
@@ -177,6 +189,17 @@ blockquote blockquote{font-size:0.88em;}
 
 >« Quiconque suppose que cette préférence est un sacrifice du bonheur, que l’être supérieur, dans des circonstances identiques, n’est pas plus heureux que l’être inférieur, confond deux idées très différentes, l’idée de bonheur et l’idée de satisfaction. »
 >>John Stuart **Mill**, _L'utilitarisme_
+
+<!-- La vie bonne ≠ la vie pleine de satisfactions
+= la vie pleine de sens, riche et profonde 
+
+2 interprétations différentes
+Il y a deux interprétations possibles de l'éthique du perfectionnisme :
+
+Soit on la conçoit comme une critique même de l'idéal du bonheur : le bonheur ne serait pas la seule valeur importante dans l'existence.
+Soit on la conçoit comme une réinterprétation de l'idéal du bonheur : le bonheur n'est pas un idéal de satisfaction, mais l'idéal d'une vie accomplie et pleine de sens
+
+-->
 
 ---
 <!-- _class: citationC  -->
@@ -190,7 +213,43 @@ blockquote blockquote {font-size:1em}
 >« Il vaut mieux être un homme insatisfait qu'un porc satisfait  »
 >>John Stuart **Mill**, _L'utilitarisme_
 
----
-<!-- _class: i1t0 pp -->
+<!-- Citation à retenir -->
 
-![](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/perfectionnisme.svg)
+
+---
+<!-- _class: partie -->
+# Mise en pratique
+
+---
+<!-- _class: exercice application fmmmmm -->
+<style scoped>
+h3 {margin-bottom:10px}
+ul ul {font-size:100%; margin-left:-30px}
+span {font-size:90%}
+</style>
+
+### Exercice d'application
+
+- Choisir un sujet ci-dessous :
+  - Faut-il se méfier du bonheur ?
+  - Le bonheur se trouve-t-il dans le plaisir ?
+  - Avons-nous le devoir d'être heureux ?
+  - Le bonheur consiste-t-il à ne plus rien désirer ?
+  - La recherche du bonheur est-elle une quête égoïste ?
+  - Faut-il préférer la liberté au bonheur ?
+  - Y a-t-il un faux bonheur ?
+  - Faut-il rechercher le bonheur ?
+- Rédiger une sous-partie de dissertation <span>(autour de 300 mots)</span><br> :warning:  <span>il faut défendre une seule réponse, mobiliser le cours (les critiques féministes du “bonheur” ou John Stuart Mill), et utiliser le modèle ARES</span>
+
+<!-- Le bonheur se trouve-t-il dans le plaisir ?
+Le bonheur est-il le bien suprême ?
+Le bonheur a-t-il un prix ?
+Le désir est-il la marque de notre imperfection ?
+Sommes-nous condamnés à la souffrance ?
+Une vie heureuse n’est-elle qu’une succession de plaisirs ?
+Le bonheur consiste-t-il à ne plus rien désirer ?
+Le bonheur peut-il se trouver dans le travail ?
+Le bonheur doit-il quelque chose à la chance ?
+Peut-on être heureux dans la solitude ?
+La recherche du bonheur est-elle une quête égoïste ?
+ -->
