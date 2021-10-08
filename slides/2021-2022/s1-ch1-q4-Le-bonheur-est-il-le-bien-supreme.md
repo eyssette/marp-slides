@@ -162,6 +162,9 @@ woman's life is hell."
 Critiques : 
 https://www.erudit.org/en/journals/philoso/2020-v47-n1-philoso05372/1070254ar/
 
+https://papyrus.bib.umontreal.ca/xmlui/bitstream/handle/1866/18792/Lemay_Marie-Pier_2016_memoire_.pdf?sequence=2&isAllowed=y#:~:text=Dans%20cette%20litt%C3%A9rature%20philosophique%2C%20une,forg%C3%A9e%20dans%20des%20conditions%20injustes.
+Notre attention est dirigée envers le phénomène des préférences adaptatives, dont nous pouvons esquisser la définition suivante (tout en gardant à l’esprit qu’un des objectifs de ce mémoire est de définir précisément ce terme) : il s’agit des préférences qui sont incompatibles avec l’épanouissement personnel de base et qui sont formées dans des conditions injustes. Chez d’autres philosophes, elles sont davantage comprises en lien avec le processus par lequel elles s’acquièrent, où nous nous adaptons au manque d’opportunité
+
  -->
 
 ---
