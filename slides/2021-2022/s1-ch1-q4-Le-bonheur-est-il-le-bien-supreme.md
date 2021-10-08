@@ -133,7 +133,36 @@ Première partie
 >« S’engager dans l’activisme politique revient donc à engager un combat contre le bonheur. Quand bien même nous nous battons pour d’autres choses, quand bien même il y a d’autres mondes que nous voulons créer, sans doute partageons-nous ce contre quoi nous nous élevons. Raison pour laquelle nos archives militantes sont des archives du malheur. Pensons simplement à la somme de travail critique accompli à ce jour : à toutes les critiques féministes de “l’épouse et mère comblée” ; aux critiques noires du mythe du “joyeux esclave” ; aux critiques _queers_ de la “félicité conjugale” que serait l’hétérosexualité version sentimentale. La lutte dont le bonheur est l’enjeu définit l’horizon de nos revendications politiques. Nous héritons de cet horizon. »
 >>Sarah Ahmed, « Les rabat-joie féministes (et autres sujets obstinés) », _Cahiers du Genre_, vol. 53, n°2, 2012
 
-<!-- Ajouter : Martha Nussbaum à propos des préférences adaptatives ? -->
+<!-- Ajouter : Martha Nussbaum à propos des préférences adaptatives ?
+http://home.sandiego.edu/~baber/research/adaptivepreference.pdf
+Cas de : Jayamma
+"[C]onsider Jayamma… acquiescent in a discriminatory wage structure and a
+discriminatory system of family income sharing. When women were paid less for
+heavier work at the brick kiln and denied chances for promotion, Jayamma didn’t
+complain or protest. She knew that this was how things were and would be…she
+didn’t even waste mental energy getting upset, since these things couldn’t be
+changed"
+Cas de : Vasanti
+"Vasanti stayed for years in an abusive marriage…Like many women, she seems
+to have thought that abuse was painful and bad, but, still, a part of women’s
+lot…The idea that it was a violation of rights…and that she herself had rights that
+were being violated by his conduct -- she did not have these ideas at that time, and
+many, many women all over the world still do not have them. My Universalist
+approach seems to entail that there is something wrong with the preference (if this
+is what we should call it) to put up with abuse"
+Cas de : Saida
+"Like the others, Saida, 27, received no formal education...Saida says her eldest
+daughter Nahid, 12, is getting ready for her betrothal to a 26-year-old farmer and
+does not have much time to spare for morning instruction… Saida teaches her
+girls the really important things--how to cook, sew and soothe a husband's ego.
+"Teaching my daughters how to make their husbands comfortable is the most
+important thing," she says, "because if a husband is not comfortable, then the
+woman's life is hell."
+
+Critiques : 
+https://www.erudit.org/en/journals/philoso/2020-v47-n1-philoso05372/1070254ar/
+
+ -->
 
 ---
 <!-- _class: partie -->
@@ -154,7 +183,7 @@ blockquote blockquote{font-size:0.88em;}
 <!-- Une hiérarchisation de modes de vie.
 Ce qui compte ce n'est pas la quantité des plaisirs.
 La vie bonne ne se réduit pas à une somme de plaisirs.
-Ce qui compte ce sont différentes qualités, différentes valeurs …-->
+Ce qui compte ce sont différentes qualités, différentes valeurs … : la vie proprement humaine, l'intelligence, la conscience morale -->
 
 ---
 <!-- _class: citationC fpp -->
@@ -166,7 +195,10 @@ blockquote blockquote{font-size:0.88em;}
 >« Un être pourvu de facultés supérieures demande plus pour être heureux, est probablement exposé à souffrir de façon plus aiguë, et offre certainement à la souffrance plus de points vulnérables qu'un être de type inférieur, mais en dépit de ces risques, il ne peut jamais souhaiter réellement tomber à un niveau d'existence qu'il sent inférieur »
 >>John Stuart **Mill**, _L'utilitarisme_
 
-<!-- Une vie véritablement bonne peut nous exposer à la souffrance  -->
+<!-- Une vie véritablement bonne peut nous exposer à la souffrance
+mais il ne faut pas chercher à éviter à tout prix la souffrance
+≠ un éloge de la souffrance
+  -->
 
 ---
 <!-- _class: citationC fpp -->
