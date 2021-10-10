@@ -223,7 +223,87 @@ une finalité vague : un simple souhait / une finalité précise : un but déter
 multiplicité des désirs / unité de la volonté
 dispersion / focalisation
 irrésolution, indécision / détermination à agir, résolution
+une impulsion qui naît en nous sous l'effet de l'attraction
+élan dont on ignore souvent l'origine / élan qui est le fruit d'un raisonnement
+À l'origine : un raisonnement et un choix conscient
+Dimension passive : on est attiré par quelque chose ou quelqu'un
+Dimension active : on fait un choix et on décide d'agir
+Une détermination à agir en vue d'un but déterminé
+Il y a un but déterminé et un effort pour agir en vue de ce but
+La finalité reste vague 
+Il y a souvent de l'indétermination : on ne sait pas vraiment ce qu'on recherche et on en reste à un simple souhait sans véritable action ou réflexion pour réaliser  / Il y a un but déterminé et un effort pour agir en vue de ce but
+C'est un simple souhait sans véritable action ou réflexion sur les moyens à mettre en œuvre / C'est une détermination à agir, un effort véritable
+Un effort de réflexion sur les moyens à mettre en œuvre, et de concentration dans l'action
+
+
+
+Un élan dont on ignore souvent l'origine / Un élan qui est le fruit d'un raisonnement
+Dimension passive : on est attiré par quelque chose ou quelqu'un / Dimension active : on fait un choix (on se fixe un objectif) et on décide d'agir
+On peut en être esclave / On est maître de soi
+Il y a souvent de l'indétermination (on ne sait pas vraiment ce qu'on recherche) / Il y a un but déterminé (on se représente plus précisément l'objectif à atteindre)
+Un simple souhait sans véritable action ou réflexion sur les moyens à mettre en œuvre / Un effort de réflexion sur les moyens à mettre en œuvre, et de concentration dans l'action
+
+
+
+
+
  -->
+
+---
+<!-- _class: i1t0  -->
+![](https://i.ibb.co/fXrwFPB/stop-cigarettes-t.jpg)
+
+---
+<!-- _class: exercice tableau fmmmmm pp  -->
+<style scoped>
+table {margin-top:-0.6em!important}
+table tbody {font-size:0.65em}
+span {font-size:0.9em}
+ol li {padding:0!important}
+ol {margin-left:-0.8em!important; margin-right:-0.8em!important}
+</style>
+| Le désir | La volonté |
+|:-:|:-:|
+| ? | ? | 
+| ? | ? | 
+| ? | ? | 
+| ? | ? | 
+| ? | ? | 
+
+1. Un élan dont on ignore souvent l'origine<br>
+2. On est maître de soi<br>
+3. Dimension active : on fait un choix <!--(on se fixe un objectif)--> et on décide d'agir<br>
+4. Il y a de l'indétermination <span>(on ne sait pas vraiment ce qu'on recherche)</span><br>
+5. Un simple souhait sans projet précis d'action <!-- sans véritable action ou réflexion sur les moyens à mettre en œuvre--><br>
+6. Un élan qui est le fruit d'un raisonnement<br>
+7. Un effort de réflexion sur les moyens à mettre en œuvre,<br>      et de concentration dans l'action<br>
+8. Il y a un but déterminé <!--(on se représente plus précisément l'objectif à atteindre)--><br>
+9. Dimension passive : on est attiré par quelque chose ou quelqu'un<br>
+10. On peut en être esclave
+
+---
+<!-- _class: exercice tableau-r fmm pp pm -->
+<style scoped>
+table {padding:10px!important}
+</style>
+| Le désir | La volonté |
+|:-:|:-:|
+| _1_ Un élan dont on ignore souvent l'origine | _6_ Un élan qui est le <br>fruit d'un raisonnement | 
+| _9_ Dimension passive : <br>on est attiré par quelque chose ou quelqu'un | _3_ Dimension active : <br>on fait un choix et<br> on décide d'agir | 
+| _10_ On peut en être esclave | _2_ On est maître de soi | 
+| _4_ Il y a de l'indétermination (on ne sait pas vraiment ce qu'on recherche) | _8_ Il y a un <br>but déterminé | 
+| _5_ Un simple souhait sans projet précis d'action | _7_ Un effort de réflexion sur les moyens à mettre en œuvre, et de concentration dans l'action | 
+
+
+---
+<!-- _class: pointmethode -->
+### Point méthode
+<style scoped>
+ul{padding-top:10px;}
+</style>
+:large_blue_circle:  Il y a plusieurs stratégies pour analyser une notion, notamment :
+- partir d'exemples
+- trouver une opposition ou une distinction
 
 ---
 <!-- _class: partie -->
