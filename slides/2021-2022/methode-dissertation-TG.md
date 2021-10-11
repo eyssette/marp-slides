@@ -100,7 +100,9 @@ Il faut prendre le temps de faire le brouillon correctement : **environ 1h30** p
 ---
 <!-- _class: fppppppp -->
 <style scoped>
-ol li {margin-left:-10px}
+ol {list-style-type:lower-alpha}
+ol ol {list-style-type:lower-roman}
+ol li {margin-left:-10px;}
 ol li ol {margin:0; padding: 10px 0px 10px 45px}
 span {font-size:0.9em}
 </style>
@@ -112,6 +114,8 @@ span {font-size:0.9em}
 ---
 <!-- _class: fpp -->
 <style scoped>
+ol {list-style-type:lower-alpha}
+ol ol {list-style-type:lower-roman}
 ol li {margin-left:-10px}
 ol li ol {margin:0; padding: 10px 0px 10px 45px}
 span {font-size:0.9em}
@@ -165,50 +169,6 @@ Donc : en première partie, on commence par l'idée qui semble la plus simple.
 
 
 ---
-<!-- _class: fpppppp -->
-<style scoped>
-.refutation {
-  position: relative;
-}
-.refutation:before {
-  position: absolute;
-  content: "";
-  left: 0;
-  top: 50%;
-  right: 0;
-  border-top: 3px solid;
-  border-color: inherit;
-  color:red;
-  -webkit-transform:rotate(-20deg);
-  -moz-transform:rotate(-20deg);
-  -ms-transform:rotate(-20deg);
-  -o-transform:rotate(-20deg);
-  transform:rotate(-20deg);
-}
-.amelioration {color:green; display:inline-block; position:relative; bottom:10px; left:-5px}
-.reinterpretation{color:blue}
-ol li {margin-left:1em}
-ol li table {display:block; margin:1em }
-ol {margin-top:0em}
-h3 {padding-top:0.75em!important; text-align:center; }
-</style>
-### Plans classiques en 3 parties
-
-1) 
-	||||
-	|:-:|:-:|:-:|
-	|R1|<span class="refutation">R1</span> R2|R2 <span class="amelioration">+</span>|
-1) 
-	||||
-	|:-:|:-:|:-:|
-	|R1|<span class="refutation">R1</span>|R2|
-1) 
-	||||
-	|:-:|:-:|:-:|
-	|<span class="reinterpretation">Sens 1 :</span><br>R1|<span class="reinterpretation">Sens 1 :</span><br><span class="refutation">R1</span> R2|<span class="reinterpretation">Sens 2 :</span><br>R3|	
-
-
----
 <!-- _class:  -->
 <style scoped>
 .refutation {
@@ -235,11 +195,56 @@ p {margin:0 100px; }
 </style>
 ### Plan classique en 2 parties
 
-|||
+|I|II|
 |:-:|:-:|
 |R1|<span class="refutation">R1</span> R2|
 
 :warning: Si on fait un plan en 2 parties, il faut davantage développer chaque partie
+
+---
+<!-- _class: fppp -->
+<style scoped>
+.refutation {
+  position: relative;
+}
+.refutation:before {
+  position: absolute;
+  content: "";
+  left: 0;
+  top: 50%;
+  right: 0;
+  border-top: 3px solid;
+  border-color: inherit;
+  color:red;
+  -webkit-transform:rotate(-20deg);
+  -moz-transform:rotate(-20deg);
+  -ms-transform:rotate(-20deg);
+  -o-transform:rotate(-20deg);
+  transform:rotate(-20deg);
+}
+.amelioration {color:green; display:inline-block; position:relative; bottom:10px; left:-5px}
+.reinterpretation{color:blue}
+ol li {margin-left:1em}
+ol li table {display:block; margin:0.75em;  }
+ol {margin-top:0em}
+h3 {text-align:center; margin-bottom:0; margin-top:0.5em!important}
+</style>
+### Plans classiques en 3 parties
+
+1) 
+	|I|II|III|
+	|:-:|:-:|:-:|
+	|R1|<span class="refutation">R1</span> R2|R2 <span class="amelioration">+</span>|
+1) 
+	|I|II|III|
+	|:-:|:-:|:-:|
+	|R1|<span class="refutation">R1</span>|R2|
+1) 
+	|I|II|III|
+	|:-:|:-:|:-:|
+	|<span class="reinterpretation">Sens 1 :</span><br>R1|<span class="reinterpretation">Sens 1 :</span><br><span class="refutation">R1</span> R2|<span class="reinterpretation">Sens 2 :</span><br>R3|	
+
+
  
 
 ---
