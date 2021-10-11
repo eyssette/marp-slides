@@ -47,7 +47,8 @@ ul li ul li {font-weight:normal; margin:5px}
 	* A. Trouver des idées
 	* B. Organiser ses idées
 * II – La rédaction
-	* Exemple de dissertation rédigée
+	* A. Un exemple commenté
+	* B. Conseils généraux
 * III – L'évaluation
 	* A. Les critères 
 	* B. L'échelle de notes
@@ -145,9 +146,15 @@ span {font-size:0.9em}
 1) On fait 2 ou 3 parties et il doit y avoir une progression logique dans son plan
 
 ---
-<!-- _class: i1t0 pp -->
+<!-- _class: -->
+<style scoped>
+img {position:absolute!important; top:0; left:0; width:90%!important; display:block; height:640px; margin: 40px 50px; }
+</style>
 
-![](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/methode-progression-parties-2.svg)
+1) ![](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/methode-progression-parties-2-part1.svg)
+1) ![](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/methode-progression-parties-2-part2.svg)
+1) ![](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/methode-progression-parties-2-part3.svg)
+1) ![](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/methode-progression-parties-2.svg)
 
 
 ---
@@ -238,9 +245,9 @@ p {margin:0 100px; }
 ---
 <!-- _class:  -->
 Au brouillon, on note son plan détaillé :
-1) Une page par partie
+1) Une page de brouillon par partie
 1) Pour chaque partie, les arguments
-1) Pour chaque argument : les éléments d'analyse, la référence théorique, l'exemple
+1) Pour chaque argument : les éléments d'analyse, et si possible la référence théorique et l'exemple
 1) On vérifie toujours le lien avec le sujet et l'organisation logique
 
 
@@ -250,23 +257,73 @@ Au brouillon, on note son plan détaillé :
 # II – La rédaction
 
 ---
-<!-- _class: pp -->
+<!-- _class: souspartie -->
+## A. Un exemple commenté
+
+---
+<!-- _class:  -->
 <style scoped>
 h4{text-align:center;}
 h4 a {font-weight:normal; font-size:80%;}
 </style>
-#### Modèle de dissertation rédigée [(lien)](https://docs.google.com/document/d/e/2PACX-1vS1ZooWIMvF39PZ7lcDuDhq97cccOjjmuk8MycpgkSYh2VgaYrLb6b3fq7lywq96QsDQGm3JHOwci59/pub?embedded=true)
+#### Modèle de dissertation rédigée [(lien)](https://docs.google.com/document/d/e/2PACX-1vTa6Oph2xymr2izFDtfhzoy9yfn-EoBUsWQlUPpXDTybel-HbRO7802EoHYomfmeaMO6d_D7Ucdc2td/pub)
 
-<iframe height=550px width=600px style="margin:0 auto" src="https://docs.google.com/document/d/e/2PACX-1vS1ZooWIMvF39PZ7lcDuDhq97cccOjjmuk8MycpgkSYh2VgaYrLb6b3fq7lywq96QsDQGm3JHOwci59/pub?embedded=true"></iframe>
-
+<iframe height=550px width=600px style="margin:0 auto" src="https://docs.google.com/document/d/e/2PACX-1vTa6Oph2xymr2izFDtfhzoy9yfn-EoBUsWQlUPpXDTybel-HbRO7802EoHYomfmeaMO6d_D7Ucdc2td/pub?embedded=true"></iframe>
 
 
 ---
-<!-- _class: i1t1 pp vertical f-->
+<!-- _class: i1t1  vertical f-->
 
-#### Pour chaque sous-partie, on utilise le modèle _ARES_
+### Précisions sur le modèle _ARES_
 
 [![](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/methode-ARES.svg)](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/methode-ARES.svg)
+
+
+<!-- 
+Erreurs fréquentes à ne pas commettre :
+
+Introduction
+On ne reprend pas le sujet, on ne le présuppose pas
+On ne fait pas l'analyse une par une des notions.
+Pas de références philosophiques, pas de concepts techniques trop précis, éviter les exemples (à garder pour le développement)
+On justifie R1 et R2
+R1 et R2 doivent être vraiment des réponses opposées (et non pas complémentaires)
+On fait attention à ne pas dévier vers un autre sujet.
+On fait attention à ne pas réduire le sujet à un seul de ses aspects.
+
+
+Conclusion :
+Il ne faut rien ajouter de nouveau.
+Il ne faut pas faire d'ouverture.
+On évite : les réponses vagues (« il faut un juste milieu », « dans certains cas … ») et les non-réponses (« ça dépend de chacun », « on ne peut pas répondre à la question »)
+
+ -->
+
+
+---
+<!-- _class: souspartie -->
+## B. Conseils généraux
+
+---
+<!-- _class: fpppppp -->
+1) Écrire son introduction au brouillon. Ensuite : rédiger au fur et à mesure. Si difficulté : chercher au brouillon.
+1) Écrire lisiblement, clairement. Éviter les phrases trop longues, ne pas chercher à faire du style ou des phrases compliquées.
+1) Attention à la syntaxe, aux mots de liaison. Les idées doivent s'enchaîner le plus naturellement et logiquement possible.
+
+
+---
+<!-- _class: fpppppp -->
+
+1) Éviter les formules comme “Je pense que …”. Ce qui compte c'est l'idée elle-même et les raisons qui la justifient. Il est préférable de ne pas utiliser le "Je" sauf s'il a une valeur universelle.
+1) Votre propos doit exprimer une dynamique de réflexion : ne pas hésiter à écrire des questions (et à y répondre…) !
+1) Il faut imaginer que vous écrivez à une personne qui n'a jamais fait de philosophie : vous devez tout expliquer
+
+
+---
+<!-- _class:  -->
+1) Relire régulièrement ce que l'on vient d’écrire (pour vérifier le sens et la manière de rédiger).
+1) Relecture finale : une pour le sens, l'autre pour l'orthographe. Corriger les fautes (être attentif aux accents, aux terminaisons, à vos erreurs fréquentes, à l'écriture des notions et concepts techniques).
+
 
 ---
 <!-- _class: partie -->
@@ -285,12 +342,16 @@ table {margin-left:1em}
 </style>
 ### La forme
 
+<div data-marpit-fragment>
+
 |||
 |:-:|:-:|
-|Pr|Présentation du devoir|
-|OL|Organisation logique|
-|LS|Lien avec le sujet|
-|M|Méthode|
+|<span data-marpit-fragment="1">Pr</span>|<span data-marpit-fragment="1">Présentation du devoir</span>|
+|<span data-marpit-fragment="2">OL</span>|<span data-marpit-fragment="2">Organisation logique</span>|
+|<span data-marpit-fragment="3">LS</span>|<span data-marpit-fragment="3">Lien avec le sujet</span>|
+|<span data-marpit-fragment="4">M</span>|<span data-marpit-fragment="4">Méthode</span>|
+
+</div>
 
 ---
 <!-- _class:  -->
@@ -301,12 +362,16 @@ table {margin-left:1em}
 </style>
 ### Le fond (le contenu)
 
+<div data-marpit-fragment>
+
 |||
 |:-:|:-:|
-|I|Idée pertinente|
-|A|Analyse et argumentation|
-|R|Référence théorique|
-|E|Exemple concret|
+|<span data-marpit-fragment="1">I</span>|<span data-marpit-fragment="1">Idée pertinente</span>|
+|<span data-marpit-fragment="2">A</span>|<span data-marpit-fragment="2">Analyse et argumentation</span>|
+|<span data-marpit-fragment="3">R</span>|<span data-marpit-fragment="3">Référence théorique</span>|
+|<span data-marpit-fragment="4">E</span>|<span data-marpit-fragment="4">Exemple concret</span>|
+
+</div>
 
 
 ---
@@ -320,7 +385,7 @@ ol {list-style-type:none}
 ol li {margin-left:-1em!important}
 </style>
 1) **0 :** plagiat, fraude, ou refus de faire l'exercice.
-1) **Entre 0 et 6 :** devoir très court, très peu de contenu.
+1) **Entre 1 et 6 :** devoir très court, très peu de contenu.
 1) **Entre 7 et 10 :** devoir généralement court, un peu de contenu mais du hors sujet, des banalités, pas de développement pertinent.
 1) **Entre 11 et 14 :** devoir construit avec une réflexion sur certains enjeux du sujet, des éléments de contenu et de connaissance.
 1) **Entre 15 et 20 :** devoir très bien construit avec une réflexion développée sur le sujet et des éléments précis de connaissance bien mobilisés.
