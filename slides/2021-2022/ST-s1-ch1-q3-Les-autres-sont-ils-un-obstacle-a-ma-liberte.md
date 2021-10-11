@@ -34,6 +34,20 @@ Pour analyser une notion, il faut noter au brouillon ce à quoi la notion nous f
 
 
 ---
+<!-- _class: i1t1 horizontal f -->
+<style scoped>
+img {object-position: 49.5% 0; width:400px!important; margin-left:-80px!important;}
+ol {margin-top:-20px!important}
+ol li {margin-left:-33px!important; padding-right:0px!important; width:425px!important; margin-top:10px!important; text-align:left!important;}
+span {font-size:90%}
+</style>
+
+![](https://cdn.pixabay.com/photo/2019/04/19/18/59/desert-island-4140129_1280.jpg)
+
+1) Vous échouez sur une île. Vous êtes seul·e, l'île est déserte. Vous commencez à vous organiser pour vivre. Avez-vous plus de libertés ou moins de libertés qu'auparavant ?
+2) Un groupe de 100 survivants vient d'arriver sur votre île. Qu'est-ce qui peut se passer ? Avez-vous plus de libertés ou moins de libertés qu'auparavant ?
+
+---
 <!-- _class:  -->
 <style scoped>
 p {position:absolute}
