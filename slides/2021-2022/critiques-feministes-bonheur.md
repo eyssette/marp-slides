@@ -99,8 +99,9 @@ ol {list-style-type:none}
 ol li {margin-left:-1em}
 h3{font-size:0.99em}
 </style>
-1) Ce qui est critiqué ici, c'est un ensemble d'usages sociaux et politiques du bonheur.
-2) Le prétendu bonheur d'une personne peut en effet masquer des inégalités, des injustices, des situations de domination
+Ce qui est critiqué ici, c'est un ensemble d'usages sociaux et politiques du bonheur.
+
+1) Le prétendu bonheur d'une personne peut en effet masquer des inégalités, des injustices, des situations de domination
 
 
 ---
@@ -115,7 +116,7 @@ h3{font-size:0.99em}
 <style scoped>
 ul {font-size:1.4em; padding-right:1em}
 </style>
-* Que faut-il penser quand c'est la personne elle-même qui déclare qu'elle est heureuse ?
+- Que faut-il penser quand c'est la personne elle-même qui déclare qu'elle est heureuse ?
 
 ---
 <!-- _class: definition -->
