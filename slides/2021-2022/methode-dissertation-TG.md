@@ -163,6 +163,12 @@ img {position:absolute!important; top:0; left:0; width:90%!important; display:bl
 1) ![](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/methode-progression-parties-3.dot-part3.svg)
 1) ![](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/methode-progression-parties-3.dot.svg)
 
+<!-- Exemple de réinterprétation du sujet :
+peut-on tout dire ?
+question des limites de la liberté d'expression
+"peut-on" = possibilité légale et morale
+question des possibilités d'expression du langage
+"peut-on" = possibilité logique et réelle -->
 
 ---
 <!-- _class:  -->
@@ -193,15 +199,20 @@ Donc : en première partie, on commence par l'idée qui semble la plus simple.
   transform:rotate(-20deg);
 }
 h3 {padding-bottom:0.5em!important; text-align:center; margin-top:-0.3em!important;}
-table {margin-left:5.5em; padding-bottom:1em!important;}
-td {padding: 0 0.8em}
+table {margin-left:1em; padding-bottom:1em!important;}
+td {padding: 0 0.6em}
 p {margin:0 100px; }
+ul {position:absolute; list-style-type:none; font-size:0.65em; text-align:center; color:#555; border:1px solid grey; padding:0px; border-radius:15px; width:400px; left:440px; top:188px; background-color:white}
+ul li {padding:5px 0; margin:0}
+ul li:before{content:"";}
 </style>
 ### Plan classique en 2 parties
 
 |I|II|
 |:-:|:-:|
 |R1|<span class="refutation">R1</span> R2|
+
+* I – On défend une <br>première réponse<br>II – On la critique et on défend une autre réponse
 
 :warning: Si on fait un plan en 2 parties, il faut davantage développer chaque partie
 
@@ -228,12 +239,17 @@ p {margin:0 100px; }
 }
 .amelioration {color:green; display:inline-block; position:relative; bottom:10px; left:-5px}
 .reinterpretation{color:blue;}
-ol li {margin-left:1em}
-ol li table {display:block; margin:0.75em;  }
+ol li {margin-left:0.5em}
+ol li table {display:block; margin:0.75em -0.4em;  }
 ol {margin-top:0em}
 h3 {text-align:center; margin-bottom:0; margin-top:0.5em!important}
 td {padding: 0 0.7em}
 table {text-align:center}
+ul {position:absolute; list-style-type:none; font-size:0.7em; text-align:center; color:#555; border:1px solid grey; padding:0px; border-radius:15px}
+ul li {padding:5px 0; margin:0}
+ol li:nth-of-type(1) ul {left:640px; top:182px; width:240px; }
+ol li:nth-of-type(2) ul {left:610px; top:327px; width:290px;}
+ol li:nth-of-type(3) ul {left:700px; top:507px; width:170px;}
 </style>
 ### Plans classiques en 3 parties
 
@@ -241,17 +257,24 @@ table {text-align:center}
 	|I|II|III|
 	|:-:|:-:|:-:|
 	|R1|<span class="refutation">R1</span> R2|R2 <span class="amelioration">+</span>|
+	* On améliore la deuxième partie
 1) 
 	|I|II|III|
 	|:-:|:-:|:-:|
 	|R1|<span class="refutation">R1</span>|R2|
+	* On distingue la<br>critique de R1 (II) et<br>la défense de R2 (III)
 1) 
 	<table>
-	<thead><tr><th>I</th><th>II</th><th>II</th></tr></thead>
+	<thead><tr><th>I</th><th>II</th><th>III</th></tr></thead>
 	<tbody><tr><td colspan="2"><span class="reinterpretation">Sens 1</span></td><td class="center"><span class="reinterpretation">Sens 2</span></td></tr>
 	<tr><td>R1</td><td><span class="refutation">R1</span> R2</td><td>R3</td></tr></tbody>
-	</table>	
- 
+	</table>
+	<ul><li data-marpit-fragment="6">On<br>réinterprète<br> le sujet</li></ul>
+
+<!-- Trois manières de faire une troisième partie à partir d'un plan en 2 parties :
+1. On améliore la deuxième partie
+2. On distingue la critique de R1 (qu'on met en II) et la défense de R2 (qu'on met en III)
+3. On réinterprète le sujet -->
 
 ---
 <!-- _class:  -->
@@ -261,6 +284,7 @@ Au brouillon, on note son plan détaillé :
 1) Pour chaque argument : les éléments d'analyse, et si possible la référence théorique et l'exemple
 1) On vérifie toujours le lien avec le sujet et l'organisation logique
 
+<!-- pour 2 et 3 : simplement sous forme de liste, avec seulement quelques mots-clés, sans précision -->
 
 
 ---
