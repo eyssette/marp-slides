@@ -50,14 +50,14 @@ ul li {line-height:1.2em}
 </style>
 
 3) Troisième vague
-	* Intersection avec d'autres luttes : contre le racisme, contre l'homophobie, contre la transphobie …
+	* Croisement avec d'autres luttes : contre le racisme, contre l'homophobie, contre la transphobie …
 	* Extension de la critique du sexisme, des normes de genre, de l'hétéronormativité
 	* Exemples : reprise des luttes précédentes avec une attention plus particulière aux voix marginalisées (lutte des femmes racisées dans le secteur du nettoyage), luttes linguistiques (écriture inclusive), dénonciation plus large des agressions sexuelles  (#MeToo) …
 
 
 ---
 <!-- _class:  -->
-Les critiques féministes du bonheur s'inscrivent dans le cadre de la deuxième vague (Simone de Beauvoir) et de la troisième vague (Sarah Ahmed)
+Les critiques féministes du bonheur s'inscrivent dans le cadre de la deuxième vague (Simone de Beauvoir) et de la troisième vague (Sara Ahmed)
 
 ---
 <!-- _class: citationC -->
@@ -160,7 +160,7 @@ https://papyrus.bib.umontreal.ca/xmlui/bitstream/handle/1866/18792/Lemay_Marie-P
 ![bg left:27%](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Sara_Ahmed-IMG_6455.JPG/520px-Sara_Ahmed-IMG_6455.JPG)
 
 >« S’engager dans l’activisme politique revient donc à engager un combat contre le bonheur. Quand bien même nous nous battons pour d’autres choses, quand bien même il y a d’autres mondes que nous voulons créer, sans doute partageons-nous ce contre quoi nous nous élevons. Raison pour laquelle nos archives militantes sont des archives du malheur. Pensons simplement à la somme de travail critique accompli à ce jour : à toutes les critiques féministes de “l’épouse et mère comblée” ; aux critiques noires du mythe du “joyeux esclave” ; aux critiques _queers_ de la “félicité conjugale” que serait l’hétérosexualité version sentimentale. La lutte dont le bonheur est l’enjeu définit l’horizon de nos revendications politiques. Nous héritons de cet horizon. »
->>Sarah Ahmed, « Les rabat-joie féministes (et autres sujets obstinés) », _Cahiers du Genre_, vol. 53, n°2, 2012
+>>Sara Ahmed, « Les rabat-joie féministes (et autres sujets obstinés) », _Cahiers du Genre_, vol. 53, n°2, 2012
 
 ---
 <!-- _class:  -->
