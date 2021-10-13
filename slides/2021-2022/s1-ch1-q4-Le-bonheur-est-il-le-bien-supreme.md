@@ -222,6 +222,18 @@ ul {font-size:1.4em; padding-right:1em}
 ### Définition
 Les **préférences adaptatives** désignent la tendance à se résigner à son sort et à adapter ses désirs et ses ambitions au contexte dans lequel on vit
 
+
+---
+<!-- _class: entete approfondissement -->
+<style scoped>
+ol {font-size:1.5em; margin-left:0em}
+h3 {font-size:1.6em; padding-top:0.85em;}
+</style>
+### Approfondissement
+
+1. L'approche de Martha Nussbaum [:link:](https://laviedesidees.fr/Martha-Nussbaum-ou-la-democratie.html)
+2. Les problèmes que pose ce type d'approche [:link:](https://www.erudit.org/en/journals/philoso/2020-v47-n1-philoso05372/1070254ar/)
+
 <!--
 Martha Nussbaum à propos des préférences adaptatives
 http://home.sandiego.edu/~baber/research/adaptivepreference.pdf
