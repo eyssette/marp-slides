@@ -92,6 +92,8 @@ Il faut prendre le temps de faire le brouillon correctement : **environ 1h30** p
 ![](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/strategies-analyse-notion-3.dot.svg)
 
 
+<!-- Exemple de travail au brouillon : sur le sujet « Le bonheur n'est-il qu'un idéal ? » -->
+
 ---
 <!-- _class: etape -->
 ### 2/ Il faut construire des arguments à partir de cette analyse et à partir du cours
@@ -112,18 +114,19 @@ span {font-size:0.9em}
 	1) en mobilisant des connaissances, des références théoriques et des exemples
 
 ---
-<!-- _class: fpp -->
+<!-- _class: fpppp -->
 <style scoped>
 ol {list-style-type:lower-alpha}
 ol ol {list-style-type:lower-roman}
 ol li {margin-left:-10px}
 ol li ol {margin:0; padding: 10px 0px 10px 45px}
+ol li ol li {line-height:1.15em}
 span {font-size:0.9em}
 </style>
 3) On explore un maximum d'arguments possibles :
-	1) ne pas se limiter dans le type de réponse : <span>il faut envisager des réponses “oui” et des réponses “non”, des réponses avec lesquelles on n'est pas d'accord, des réponses radicales …</span>
-	1) varier les domaines et les niveaux d'analyse <span>(éthique, politique, individuel / social-culturel …)</span>
-	1) mobiliser les différents sens des notions du sujet
+	1) varier les réponses : <span>(réponses “oui” et réponses “non”, réponses opposées à notre point de vue, réponses radicales …)</span>
+	1) varier les domaines et les niveaux d'analyse <span>(éthique, politique, individuel, social-culturel …)</span>
+	1) varier les sens possibles des notions du sujet
 4) On cherche des objections et des réponses possibles à ces objections
 
 
@@ -145,7 +148,7 @@ span {font-size:0.9em}
 </style>
 ### 3 principes pour le plan
 
-1) On laisse de côté les banalités : on garde seulement les arguments les plus pertinents et ceux qu'on peut le plus développer <!-- usage du cours, référence théorique, exemple concret -->
+1) On laisse de côté les banalités. On garde seulement les arguments les plus pertinents et ceux qu'on peut le plus développer <!-- usage du cours, référence théorique, exemple concret -->
 1) Pour faire une partie, on regroupe 2 à 4 arguments, avec la même idée directrice, qui doit correspondre à l'examen d'une réponse au sujet
 1) On fait 2 ou 3 parties et il doit y avoir une progression logique dans son plan
 
@@ -155,10 +158,10 @@ span {font-size:0.9em}
 img {position:absolute!important; top:0; left:0; width:90%!important; display:block; height:640px; margin: 40px 50px; }
 </style>
 
-1) ![](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/methode-progression-parties-2-part1.svg)
-1) ![](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/methode-progression-parties-2-part2.svg)
-1) ![](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/methode-progression-parties-2-part3.svg)
-1) ![](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/methode-progression-parties-2.svg)
+1) ![](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/methode-progression-parties-3.dot-part1.svg)
+1) ![](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/methode-progression-parties-3.dot-part2.svg)
+1) ![](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/methode-progression-parties-3.dot-part3.svg)
+1) ![](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/methode-progression-parties-3.dot.svg)
 
 
 ---
@@ -190,7 +193,8 @@ Donc : en première partie, on commence par l'idée qui semble la plus simple.
   transform:rotate(-20deg);
 }
 h3 {padding-bottom:0.5em!important; text-align:center; margin-top:-0.3em!important;}
-table {margin-left:7em; padding-bottom:1em!important;}
+table {margin-left:5.5em; padding-bottom:1em!important;}
+td {padding: 0 0.8em}
 p {margin:0 100px; }
 </style>
 ### Plan classique en 2 parties
@@ -223,11 +227,13 @@ p {margin:0 100px; }
   transform:rotate(-20deg);
 }
 .amelioration {color:green; display:inline-block; position:relative; bottom:10px; left:-5px}
-.reinterpretation{color:blue}
+.reinterpretation{color:blue;}
 ol li {margin-left:1em}
 ol li table {display:block; margin:0.75em;  }
 ol {margin-top:0em}
 h3 {text-align:center; margin-bottom:0; margin-top:0.5em!important}
+td {padding: 0 0.7em}
+table {text-align:center}
 </style>
 ### Plans classiques en 3 parties
 
@@ -240,11 +246,11 @@ h3 {text-align:center; margin-bottom:0; margin-top:0.5em!important}
 	|:-:|:-:|:-:|
 	|R1|<span class="refutation">R1</span>|R2|
 1) 
-	|I|II|III|
-	|:-:|:-:|:-:|
-	|<span class="reinterpretation">Sens 1 :</span><br>R1|<span class="reinterpretation">Sens 1 :</span><br><span class="refutation">R1</span> R2|<span class="reinterpretation">Sens 2 :</span><br>R3|	
-
-
+	<table>
+	<thead><tr><th>I</th><th>II</th><th>II</th></tr></thead>
+	<tbody><tr><td colspan="2"><span class="reinterpretation">Sens 1</span></td><td class="center"><span class="reinterpretation">Sens 2</span></td></tr>
+	<tr><td>R1</td><td><span class="refutation">R1</span> R2</td><td>R3</td></tr></tbody>
+	</table>	
  
 
 ---
