@@ -92,7 +92,17 @@ Il faut prendre le temps de faire le brouillon correctement : **environ 1h30** p
 ![](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/strategies-analyse-notion-3.dot.svg)
 
 
-<!-- Exemple de travail au brouillon : sur le sujet « Le bonheur n'est-il qu'un idéal ? » -->
+---
+<!-- _class: pp -->
+<style scoped>
+h3 {font-size:20px; text-align:center; position:absolute; top:20px; width:900px; font-weight:normal; color:###555}
+ol {text-align:center; font-size:1.3em; padding:0; list-style-type:none; padding-bottom:1em;}
+</style>
+### Exemple de travail au brouillon 
+
+1) Le bonheur n'est-il qu'un idéal ?
+
+<!-- Faire le travail d'analyse au tableau -->
 
 ---
 <!-- _class: etape -->
@@ -112,6 +122,8 @@ span {font-size:0.9em}
 2) On approfondit au maximum chaque argument :
 	1) avec une analyse précise des termes employés
 	1) en mobilisant des connaissances, des références théoriques et des exemples
+
+<!-- Donner pour le a/ trois exemples d'arguments -->
 
 ---
 <!-- _class: fpppp -->
@@ -341,23 +353,23 @@ On évite : les réponses vagues (« il faut un juste milieu », « dans certain
 
 ---
 <!-- _class: fpppppp -->
-1) Écrire son introduction au brouillon. Ensuite : rédiger au fur et à mesure. Si difficulté : chercher au brouillon.
-1) Écrire lisiblement, clairement. Éviter les phrases trop longues, ne pas chercher à faire du style ou des phrases compliquées.
-1) Attention à la syntaxe, aux mots de liaison. Les idées doivent s'enchaîner le plus naturellement et logiquement possible.
+1) Écrire son introduction au brouillon. Ensuite : rédiger au fur et à mesure. Si difficulté : chercher au brouillon.
+2) Écrire lisiblement et clairement. Éviter les phrases trop longues, ne pas chercher à faire du style ou des phrases compliquées.
+3) Attention à la syntaxe, aux mots de liaison. Les idées doivent s'enchaîner le plus naturellement et logiquement possible.
 
 
 ---
 <!-- _class: fpppppp -->
 
-1) Éviter les formules comme “Je pense que …”. Ce qui compte c'est l'idée elle-même et les raisons qui la justifient. Il est préférable de ne pas utiliser le "Je" sauf s'il a une valeur universelle.
-1) Votre propos doit exprimer une dynamique de réflexion : ne pas hésiter à écrire des questions (et à y répondre…) !
-1) Il faut imaginer que vous écrivez à une personne qui n'a jamais fait de philosophie : vous devez tout expliquer
+4) Il vaut mieux éviter d'utiliser le “je”, car le risque c'est d'en rester à une simple affirmation sans arguments. Par ailleurs : pas de “tu" ou de “vous”.
+5) Votre propos doit exprimer une dynamique de réflexion : ne pas hésiter à écrire des questions (et à y répondre…) !
+6) Il faut imaginer que vous écrivez à une personne qui n'a jamais fait de philosophie : vous devez tout expliquer.
 
 
 ---
 <!-- _class:  -->
-1) Relire régulièrement ce que l'on vient d’écrire (pour vérifier le sens et la manière de rédiger).
-1) Relecture finale : une pour le sens, l'autre pour l'orthographe. Corriger les fautes (être attentif aux accents, aux terminaisons, à vos erreurs fréquentes, à l'écriture des notions et concepts techniques).
+7) Relire régulièrement ce que l'on vient d’écrire (pour vérifier que c'est clair et correct du point de vue linguistique).
+8) Relecture finale nécessaire pour l'orthographe : attention aux accents, aux terminaisons, à l'écriture des termes vus en cours et à vos erreurs fréquentes.
 
 
 ---

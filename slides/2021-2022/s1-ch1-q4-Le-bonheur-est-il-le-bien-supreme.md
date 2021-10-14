@@ -142,7 +142,7 @@ ul li {line-height:1.25em}
 	* Exemples : droit à l'avortement, accès à la contraception, accès à l'emploi, égalité salariale, dénonciation des inégalités dans le travail domestique, dénonciation des violences conjugales, du harcèlement, du viol …
 
 ---
-<!-- _class: fpppp -->
+<!-- _class: fpppppp -->
 <style scoped>
 ol {font-weight:bold}
 ol ul {margin-left:-1.8em; font-weight:normal}
@@ -152,7 +152,7 @@ ul li {line-height:1.2em}
 3) Troisième vague
 	* Croisement avec d'autres luttes : contre le racisme, contre l'homophobie, contre la transphobie …
 	* Extension de la critique du sexisme, des normes de genre, de l'hétéronormativité
-	* Exemples : reprise des luttes précédentes avec une attention plus particulière aux voix marginalisées (lutte des femmes racisées dans le secteur du nettoyage), luttes linguistiques (écriture inclusive), dénonciation plus large des agressions sexuelles  (#MeToo) …
+	* Exemples : reprise des luttes précédentes avec une attention plus particulière aux voix marginalisées, luttes linguistiques (écriture inclusive), dénonciation plus large des agressions sexuelles  (#MeToo) …
 
 
 ---
