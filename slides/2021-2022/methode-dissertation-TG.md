@@ -317,11 +317,17 @@ h4 a {font-weight:normal; font-size:80%;}
 
 <iframe height=550px width=600px style="margin:0 auto" src="https://docs.google.com/document/d/e/2PACX-1vTa6Oph2xymr2izFDtfhzoy9yfn-EoBUsWQlUPpXDTybel-HbRO7802EoHYomfmeaMO6d_D7Ucdc2td/pub?embedded=true"></iframe>
 
+<!-- 
+Lecture
+introduction : 1m33
+développement : 2m22
+conclusion : 40s
+ -->
 
 ---
 <!-- _class: i1t1  vertical f-->
 
-### Précisions sur le modèle _ARES_
+### Rappels sur le modèle _ARES_
 
 [![](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/methode-ARES.svg)](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/methode-ARES.svg)
 
@@ -329,7 +335,7 @@ h4 a {font-weight:normal; font-size:80%;}
 <!-- 
 Erreurs fréquentes à ne pas commettre :
 
-Introduction
+Introduction :
 On ne reprend pas le sujet, on ne le présuppose pas
 On ne fait pas l'analyse une par une des notions.
 Pas de références philosophiques, pas de concepts techniques trop précis, éviter les exemples (à garder pour le développement)
@@ -338,6 +344,8 @@ R1 et R2 doivent être vraiment des réponses opposées (et non pas complémenta
 On fait attention à ne pas dévier vers un autre sujet.
 On fait attention à ne pas réduire le sujet à un seul de ses aspects.
 
+Développement :
+Raisonnement qui se disperse : attention à l'organisation logique (1 sous-partie = 1 idée / 1 partie = 1 réponse) et au lien avec le sujet
 
 Conclusion :
 Il ne faut rien ajouter de nouveau.
