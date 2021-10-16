@@ -102,7 +102,39 @@ ol {text-align:center; font-size:1.3em; padding:0; list-style-type:none; padding
 
 1) Le bonheur n'est-il qu'un idéal ?
 
-<!-- Faire le travail d'analyse au tableau -->
+<!-- Faire le travail d'analyse au tableau
+Le bonheur
+  -> satisfaction globale, durable
+  ≠ plaisir : s. partielle, éphémère
+  ≠ insatisfaction, souffrance
+
+  -> état de plénitude
+  ≠ état de manque
+    -> désir
+      ↑ Schopenhauer : désir -> toujours plus -> souffrance incessante (tonneau percé)
+      ↓ Société de consommation (pub)
+
+  ↑ Kant : idéal de l'imagination ≠ raison
+
+  ↑ Épicure : simple plaisir d'exister
+
+  ……
+  ……
+
+idéal
+  -> perfection
+  -> but, objectif
+  -> “idéaliser” :
+    voir les choses mieux qu'elles sont, masquer certains aspects du réel
+    ↑ Pascal : divertissement
+    ≠ accepter le réel ↑ stoïcisme
+
+qu'un idéal
+  -> utopie, rêve, imagination, illusion
+  -> impossible, irréalisable
+    -> projet vague, rien de précis
+  -> déception, désespoir, désillusion
+  
 
 ---
 <!-- _class: etape -->
@@ -123,7 +155,33 @@ span {font-size:0.9em}
 	1) avec une analyse précise des termes employés
 	1) en mobilisant des connaissances, des références théoriques et des exemples
 
-<!-- Donner pour le a/ trois exemples d'arguments -->
+<!-- Donner pour trois exemples d'arguments
+(bonheur)
+-> satisfaction globale, durable
+-> proche de la perfection
+-> impossible ?
+-> (qu'un idéal) ?
+
+(bonheur)
+-> plénitude ≠ manque
+-> satisfaire désirs pour combler manque
+Mais : désir -> souffrance incessante
+=> impossible
+=> (qu'un idéal)
+
+(tragique)
+-> toujours exposé au malheur
+-> (bonheur) : fragile, vulnérable
+-> satisfaction globale et durable : impossible
+-> (qu'un idéal)
+
+
++ exemple pour compléter un argument :
+tragique => tr. de l'impuissance (temps : indomptable)
+désir -> souffrance
+  ↑ Schopenhauer (tonneau percé)
+  ↓ Société de consommation (pub)
+ -->
 
 ---
 <!-- _class: fpppp -->
