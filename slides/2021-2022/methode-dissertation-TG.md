@@ -444,5 +444,5 @@ ol li {margin-left:-1em!important}
 1) **0 :** plagiat, fraude, ou refus de faire l'exercice.
 1) **Entre 1 et 6 :** devoir très court, très peu de contenu.
 1) **Entre 7 et 10 :** devoir généralement court, un peu de contenu mais du hors sujet, des banalités, pas de développement pertinent.
-1) **Entre 11 et 14 :** devoir construit avec une réflexion sur certains enjeux du sujet, des éléments de contenu et de connaissance.
-1) **Entre 15 et 20 :** devoir très bien construit avec une réflexion développée sur le sujet et des éléments précis de connaissance bien mobilisés.
+1) **Entre 11 et 14 :** devoir construit, une réflexion sur certains enjeux du sujet, des éléments de contenu et de connaissance.
+1) **Entre 15 et 20 :** devoir très bien construit, une réflexion développée sur le sujet, des éléments précis de connaissance bien mobilisés.
