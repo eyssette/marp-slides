@@ -304,56 +304,58 @@ Au brouillon, on note son plan détaillé :
 # II – La rédaction
 
 ---
-<!-- _class: souspartie -->
+<!-- _class: souspartie fpppppppp-->
+<style scoped>
+h2 {padding:40px}
+p {margin:0 90px; text-align:justify}
+</style>
 ## A. Un exemple commenté
+
+L'exemple de [dissertation rédigée](https://docs.google.com/document/d/e/2PACX-1vTa6Oph2xymr2izFDtfhzoy9yfn-EoBUsWQlUPpXDTybel-HbRO7802EoHYomfmeaMO6d_D7Ucdc2td/pub) présente ce qu'il faut faire, et on complétera par des remarques sur ce qu'il ne faut pas faire
+
+---
+<!-- _class: fpppppppp -->
+<style scoped>
+h4{text-align:center;}
+h4 a {font-weight:normal; font-size:80%;}
+ul {margin-left:-1.5em}
+</style>
+
+1. L'introduction <!-- Lire l'introduction / Des questions après cette première lecture ? -->
+   * Ne pas faire l'analyse une par une des notions  <!-- Ça c'est le travail au brouillon -->
+   * Ne pas utiliser des références à un auteur, des termes techniques, ou des exemples <!-- On les garde pour le développement -->
+   * R1 et R2 ne doivent pas être complémentaires, mais vraiment opposées <!-- Exemple : “Que gagne-t-on à travailler ?" : de l'argent / de l'expérience / de la reconnaissance sociale => des réponses complémentaires et non pas opposées // on gagne (de l'argent, de l'expérience …) / on ne gagne rien, on perd son temps, de l'énergie … -->
+   * Ne pas dévier vers un autre sujet
+
+
+---
+<!-- _class: fpppp -->
+<style scoped>
+ol {margin-left:0.6em}
+ul {margin-left:-1.6em}
+</style>
+2. Le développement <!-- Lire le développement / Des questions après cette première lecture ? -->
+   * Il ne faut pas que le raisonnement se disperse
+      * :warning: à l'organisation logique <!-- 1 sous-partie = 1 argument ; 1 partie = des arguments avec la même idée directrice -->
+      * :warning: au lien avec le sujet
+   * Dans le modèle ARES :
+      * Pour l'Argument : ne pas aller trop vite <!-- il faut prendre le temps de construire son raisonnement par soi-même, étape par étape -->
+      * Pour la Référence et l'Exemple :
+        * Ne pas oublier d'utiliser au moins l'un des deux
+        * Ne pas en rester à une simple évocation vague
+        * Il ne faut pas que le raisonnement se disperse <!-- attention à la cohérence avec l'argument, attention à ne pas se faire prendre dans les rails du cours -->
 
 ---
 <!-- _class:  -->
 <style scoped>
-h4{text-align:center;}
-h4 a {font-weight:normal; font-size:80%;}
+ul {margin-left:-1.5em}
+span {font-size:0.93em}
 </style>
-#### Modèle de dissertation rédigée [(lien)](https://docs.google.com/document/d/e/2PACX-1vTa6Oph2xymr2izFDtfhzoy9yfn-EoBUsWQlUPpXDTybel-HbRO7802EoHYomfmeaMO6d_D7Ucdc2td/pub)
-
-<iframe height=550px width=600px style="margin:0 auto" src="https://docs.google.com/document/d/e/2PACX-1vTa6Oph2xymr2izFDtfhzoy9yfn-EoBUsWQlUPpXDTybel-HbRO7802EoHYomfmeaMO6d_D7Ucdc2td/pub?embedded=true"></iframe>
-
-<!-- 
-Lecture
-introduction : 1m33
-développement : 2m22
-conclusion : 40s
- -->
-
----
-<!-- _class: i1t1  vertical f-->
-
-### Rappels sur le modèle _ARES_
-
-[![](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/methode-ARES.svg)](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/methode-ARES.svg)
-
-
-<!-- 
-Erreurs fréquentes à ne pas commettre :
-
-Introduction :
-On ne reprend pas le sujet, on ne le présuppose pas
-On ne fait pas l'analyse une par une des notions.
-Pas de références philosophiques, pas de concepts techniques trop précis, éviter les exemples (à garder pour le développement)
-On justifie R1 et R2
-R1 et R2 doivent être vraiment des réponses opposées (et non pas complémentaires)
-On fait attention à ne pas dévier vers un autre sujet.
-On fait attention à ne pas réduire le sujet à un seul de ses aspects.
-
-Développement :
-Raisonnement qui se disperse : attention à l'organisation logique (1 sous-partie = 1 idée / 1 partie = 1 réponse) et au lien avec le sujet
-
-Conclusion :
-Il ne faut rien ajouter de nouveau.
-Il ne faut pas faire d'ouverture.
-On évite : les réponses vagues (« il faut un juste milieu », « dans certains cas … ») et les non-réponses (« ça dépend de chacun », « on ne peut pas répondre à la question »)
-
- -->
-
+3. La conclusion <!-- Lire la conclusion / Des questions après cette première lecture ? -->
+   * Ne pas faire d'ouverture
+   * Ne rien ajouter de nouveau
+   * Ne pas finir par une réponse vague <span>(“Il faut trouver un juste milieu”, “Dans certains cas …”)</span>
+   * Ne pas finir par une non-réponse <span>(“Ça dépend de chacun”, “La question est difficile et on ne peut pas répondre”)</span>
 
 ---
 <!-- _class: souspartie -->
