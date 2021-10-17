@@ -293,20 +293,6 @@ blockquote blockquote{font-size:0.88em;}
 >« Peu de créatures humaines accepteraient d'être changées en animaux inférieurs sur la promesse de la plus large ration de plaisirs de bêtes ; aucun être humain intelligent ne consentirait à être un imbécile […], aucun homme ayant du cœur […] à être égoïste et vil »
 >>John Stuart **Mill**, _L'utilitarisme_
 
-<!-- Une hiérarchisation de modes de vie.
-Ce qui compte ce n'est pas la quantité des plaisirs.
-La vie bonne ne se réduit pas à une somme de plaisirs.
-Ce qui compte ce sont différentes qualités, différentes valeurs … : la vie proprement humaine, l'intelligence, la conscience morale
-
-Avoir plus de satisfaction n'est pas nécessairement un bien…
-
-=> Une vie avec plus de plaisirs n'est pas nécessairement une vie meilleure, car ce qui compte ce n'est pas la quantité des plaisirs (en nombre, en intensité, en durée), mais la qualité. La vie bonne n'est pas une simple somme de plaisirs. Elle repose sur certaines valeurs : une vie proprement humaine, le développement de la réflexion, la conscience morale.
-
-Approfondissement possible : distinction Mill / Bentham
-Contrairement à Bentham qui ne prend en compte que la quantité des plaisirs (“Si l’on fait abstraction des préjugés, le jeu d’osselets est d’une valeur égale à celle des arts et sciences que sont la musique et la poésie”), Mill pense qu'il y a une hiérarchie des plaisirs : tous n'ont pas la même qualité,
-
- -->
-
 
 ---
 <!-- _class:  -->
@@ -316,6 +302,14 @@ ol li{margin-left:-1em}
 </style>
 1) Une vie avec plus de plaisirs n'est pas nécessairement une vie meilleure, car ce qui compte ce n'est pas la **quantité** des plaisirs (en nombre, en intensité, en durée), mais la **qualité**.
 1) La vie bonne n'est pas une simple **somme de plaisirs**, mais repose sur certaines **valeurs** : une vie proprement humaine, la réflexion, la conscience morale
+
+<!-- 
+Approfondissement possible : distinction Mill / Bentham
+Contrairement à Bentham qui ne prend en compte que la quantité des plaisirs (“Si l’on fait abstraction des préjugés, le jeu d’osselets est d’une valeur égale à celle des arts et sciences que sont la musique et la poésie”), Mill pense qu'il y a une hiérarchie des plaisirs : tous n'ont pas la même qualité,
+
+Questions sur cette hiérarchisation de modes de vie :
+peut-on vraiment distinguer des plaisirs supérieurs (nobles) et des plaisirs inférieurs (bas) ? Cela ne conduit-il pas à adopter une forme de paternalisme ?
+ -->
 
 ---
 <!-- _class: citationC fpp -->
@@ -327,18 +321,6 @@ blockquote blockquote{font-size:0.88em;}
 >« Un être pourvu de facultés supérieures demande plus pour être heureux, est probablement exposé à souffrir de façon plus aiguë, et offre certainement à la souffrance plus de points vulnérables qu'un être de type inférieur, mais en dépit de ces risques, il ne peut jamais souhaiter réellement tomber à un niveau d'existence qu'il sent inférieur »
 >>John Stuart **Mill**, _L'utilitarisme_
 
-<!-- Une vie véritablement bonne peut nous exposer à la souffrance
-mais il ne faut pas chercher à éviter à tout prix la souffrance
-≠ un éloge de la souffrance
-
-Une vie avec moins de souffrance n'est pas nécessairement une vie meilleure, car elle impliquerait aussi de renoncer au développement de certaines facultés essentielles pour vivre une vie bonne.
-
-Une vie qui repose sur le développement de facultés comme la réflexion, la conscience morale,… conduit à davantage de souffrances ou d'insatisfactions. On se rend notamment davantage compte de ce qui ne va pas. Mais 
-
-=> Une vie avec moins de souffrances n'est pas une vie meilleure si elle implique de renoncer au développement de nos facultés. En effet, le développement de la réflexion, de notre sensibilité morale accroît notre conscience des malheurs de l'existence. De même, le développement de relations humaines profondes (ex. : amitié, amour) accroît la possibilité de déceptions profondes. Pourtant d'après Mill, nous ne pouvons pas souhaiter renoncer à tout cela (à ces facultés, qui sont constitutives d'une vie bonne)
-
--->
-
 ---
 <!-- _class:  -->
 <style scoped>
@@ -346,6 +328,7 @@ ol {list-style-type:none}
 ol li{margin-left:-1em}
 </style>
 1) Le développement de la réflexion, de notre sensibilité morale accroît notre frustration et notre conscience des malheurs de l'existence.
+1) Un autre exemple : le cas de l'amour.
 1) Mais une vie avec moins de souffrances n'est pas nécessairement une vie meilleure.
 
 
@@ -376,15 +359,15 @@ blockquote blockquote{font-size:0.88em;}
 
 
 ---
-<!-- _class:  -->
+<!-- _class: fpppppp -->
 <style scoped>
 ol {list-style-type:none}
 ol li{margin-left:-1em}
 </style>
-1) La vie bonne repose sur l'exercice et le développement de nos facultés :
+1) La vie bonne repose sur l'exercice et le **développement de nos facultés** :
    * la réflexion, la conscience morale ;
    * mais aussi : nos facultés physiques, l'imagination, la créativité, le lien social …
-1) La vie bonne est une vie accomplie : le bien suprême, c'est le perfectionnement de soi
+1) La vie bonne est une vie **accomplie** : le bien suprême, c'est le **perfectionnement de soi**
 
 <!-- Approfondissement possible :
 Perfectionnisme moderne (idéal de développement de son individualité : pas une seule forme possible d'excellence)
@@ -408,8 +391,17 @@ blockquote blockquote{font-size:0.88em;}
 ol {list-style-type:none}
 ol li{margin-left:-1em}
 </style>
-1) Le bonheur n'est pas l'idéal d'une vie pleine de satisfactions.
-2) Le bonheur est l'idéal d'une vie accomplie, pleine de sens, riche et profonde.
+1) Le bonheur n'est pas l'idéal d'une vie **pleine de satisfactions**.
+2) Le bonheur est l'idéal d'une vie accomplie, **pleine de sens**, riche et profonde.
+
+<!-- 
+Refaire le lien avec la question posée :
+Ce qui est le bien suprême ce n'est pas de vivre une vie pleine de satisfactions, c'est de vivre une vie accomplie et pleine de sens
+
+Il ne peut donc y avoir de véritable bonheur sans : liberté, vérité, justice …
+La recherche du bonheur n'est pas une simple recherche de satisfactions égoïstes
+Approfondissement : cf. texte de Singer 
+ -->
 
 ---
 <!-- _class: citationC  -->
@@ -449,7 +441,7 @@ span {font-size:90%}
   - Faut-il préférer la liberté au bonheur ?
   - Y a-t-il un faux bonheur ?
   - Faut-il rechercher le bonheur ?
-- Rédiger une sous-partie de dissertation <span>(autour de 300 mots)</span><br> :warning:  <span>il faut défendre une seule réponse, mobiliser le cours (les critiques féministes du “bonheur” ou John Stuart Mill), et utiliser le modèle ARES</span>
+- Rédiger une sous-partie de dissertation <span>(autour de 300 mots)</span><br> :warning:  <span>il faut défendre une seule réponse, mobiliser le cours (les critiques féministes du “bonheur” ou John Stuart Mill), et utiliser le modèle _ARES_</span>
 
 <!-- Le bonheur se trouve-t-il dans le plaisir ?
 Le bonheur est-il le bien suprême ?
