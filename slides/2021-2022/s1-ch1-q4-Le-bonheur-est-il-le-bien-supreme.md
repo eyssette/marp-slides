@@ -180,7 +180,7 @@ h3{font-size:0.99em}
 ### Question de l'authenticité du bonheur
 
 1) Le choix de vie que fait une personne est-il un choix libre et source d'un véritable bonheur ? Ou bien …
-2) … ce choix n'est-il qu'une soumission aux normes sociales dominantes qui ne permet pas à l'individu de se réaliser ?
+2) … ce choix n'est-il qu'une soumission aux normes sociales dominantes qui ne permet pas de se réaliser ?
 
 ---
 <!-- _class: citationC -->
@@ -279,7 +279,7 @@ ol ul li {margin-left:-0.5em}
 
 ---
 <!-- _class: partie -->
-# II – John <br>Stuart Mill <!-- fit -->
+# II – John <br>Stuart <span>Mill</span> <!-- fit -->
 Deuxième partie
 
 ---
@@ -296,7 +296,26 @@ blockquote blockquote{font-size:0.88em;}
 <!-- Une hiérarchisation de modes de vie.
 Ce qui compte ce n'est pas la quantité des plaisirs.
 La vie bonne ne se réduit pas à une somme de plaisirs.
-Ce qui compte ce sont différentes qualités, différentes valeurs … : la vie proprement humaine, l'intelligence, la conscience morale -->
+Ce qui compte ce sont différentes qualités, différentes valeurs … : la vie proprement humaine, l'intelligence, la conscience morale
+
+Avoir plus de satisfaction n'est pas nécessairement un bien…
+
+=> Une vie avec plus de plaisirs n'est pas nécessairement une vie meilleure, car ce qui compte ce n'est pas la quantité des plaisirs (en nombre, en intensité, en durée), mais la qualité. La vie bonne n'est pas une simple somme de plaisirs. Elle repose sur certaines valeurs : une vie proprement humaine, le développement de la réflexion, la conscience morale.
+
+Approfondissement possible : distinction Mill / Bentham
+Contrairement à Bentham qui ne prend en compte que la quantité des plaisirs (“Si l’on fait abstraction des préjugés, le jeu d’osselets est d’une valeur égale à celle des arts et sciences que sont la musique et la poésie”), Mill pense qu'il y a une hiérarchie des plaisirs : tous n'ont pas la même qualité,
+
+ -->
+
+
+---
+<!-- _class:  -->
+<style scoped>
+ol {list-style-type:none}
+ol li{margin-left:-1em}
+</style>
+1) Une vie avec plus de plaisirs n'est pas nécessairement une vie meilleure, car ce qui compte ce n'est pas la **quantité** des plaisirs (en nombre, en intensité, en durée), mais la **qualité**.
+1) La vie bonne n'est pas une simple **somme de plaisirs**, mais repose sur certaines **valeurs** : une vie proprement humaine, la réflexion, la conscience morale
 
 ---
 <!-- _class: citationC fpp -->
@@ -311,7 +330,39 @@ blockquote blockquote{font-size:0.88em;}
 <!-- Une vie véritablement bonne peut nous exposer à la souffrance
 mais il ne faut pas chercher à éviter à tout prix la souffrance
 ≠ un éloge de la souffrance
-  -->
+
+Une vie avec moins de souffrance n'est pas nécessairement une vie meilleure, car elle impliquerait aussi de renoncer au développement de certaines facultés essentielles pour vivre une vie bonne.
+
+Une vie qui repose sur le développement de facultés comme la réflexion, la conscience morale,… conduit à davantage de souffrances ou d'insatisfactions. On se rend notamment davantage compte de ce qui ne va pas. Mais 
+
+=> Une vie avec moins de souffrances n'est pas une vie meilleure si elle implique de renoncer au développement de nos facultés. En effet, le développement de la réflexion, de notre sensibilité morale accroît notre conscience des malheurs de l'existence. De même, le développement de relations humaines profondes (ex. : amitié, amour) accroît la possibilité de déceptions profondes. Pourtant d'après Mill, nous ne pouvons pas souhaiter renoncer à tout cela (à ces facultés, qui sont constitutives d'une vie bonne)
+
+-->
+
+---
+<!-- _class:  -->
+<style scoped>
+ol {list-style-type:none}
+ol li{margin-left:-1em}
+</style>
+1) Le développement de la réflexion, de notre sensibilité morale accroît notre frustration et notre conscience des malheurs de l'existence.
+1) Mais une vie avec moins de souffrances n'est pas nécessairement une vie meilleure.
+
+
+---
+<!-- _class: i2t1 fmm -->
+<style scoped>
+img {margin-top:-1.4em}
+</style>
+
+<span data-marpit-fragment="1">![](https://i.ibb.co/b6q77vf/lotophages-t.jpg)
+L'épisode des Lotophages dans l'_Odyssée_</span>
+
+<span data-marpit-fragment="2">![](https://i.ibb.co/7Rh5zs3/des-fleurs-pour-algernon-t.jpg)
+Charlie Gordon dans le livre _Des fleurs pour Algernon_</span>
+
+
+
 
 ---
 <!-- _class: citationC fpp -->
@@ -323,10 +374,22 @@ blockquote blockquote{font-size:0.88em;}
 >« Nous pouvons donner de cette répugnance le nom qu'il nous plaira [...] mais si on veut l'appeler de son vrai nom, c'est un sens de la dignité que tous les êtres humains possèdent, sous une forme ou sous une autre, et qui correspond – de façon nullement rigoureuse d'ailleurs – au développement de leurs facultés supérieures. »
 >>John Stuart **Mill**, _L'utilitarisme_
 
-<!-- La vie bonne repose sur l'exercice et le développement de ses facultés : l'usage du corps, les émotions, l'imagination, l'intelligence, la communication sociale, l'empathie … 
-La vie bonne est une vie accomplie : il s'agit de chercher à se perfectionner 
+
+---
+<!-- _class:  -->
+<style scoped>
+ol {list-style-type:none}
+ol li{margin-left:-1em}
+</style>
+1) La vie bonne repose sur l'exercice et le développement de nos facultés :
+   * la réflexion, la conscience morale ;
+   * mais aussi : nos facultés physiques, l'imagination, la créativité, le lien social …
+1) La vie bonne est une vie accomplie : le bien suprême, c'est le perfectionnement de soi
+
+<!-- Approfondissement possible :
 Perfectionnisme moderne (idéal de développement de son individualité : pas une seule forme possible d'excellence)
 ≠ perfectionnisme ancien (un idéal universel d'excellence) -->
+
 
 ---
 <!-- _class: citationC fppp -->
@@ -338,16 +401,15 @@ blockquote blockquote{font-size:0.88em;}
 >« Quiconque suppose que cette préférence est un sacrifice du bonheur, que l’être supérieur, dans des circonstances identiques, n’est pas plus heureux que l’être inférieur, confond deux idées très différentes, l’idée de bonheur et l’idée de satisfaction. »
 >>John Stuart **Mill**, _L'utilitarisme_
 
-<!-- La vie bonne ≠ la vie pleine de satisfactions
-= la vie pleine de sens, riche et profonde 
 
-2 interprétations différentes
-Il y a deux interprétations possibles de l'éthique du perfectionnisme :
-
-Soit on la conçoit comme une critique même de l'idéal du bonheur : le bonheur ne serait pas la seule valeur importante dans l'existence.
-Soit on la conçoit comme une réinterprétation de l'idéal du bonheur : le bonheur n'est pas un idéal de satisfaction, mais l'idéal d'une vie accomplie et pleine de sens
-
--->
+---
+<!-- _class:  -->
+<style scoped>
+ol {list-style-type:none}
+ol li{margin-left:-1em}
+</style>
+1) Le bonheur n'est pas l'idéal d'une vie pleine de satisfactions.
+2) Le bonheur est l'idéal d'une vie accomplie, pleine de sens, riche et profonde.
 
 ---
 <!-- _class: citationC  -->
