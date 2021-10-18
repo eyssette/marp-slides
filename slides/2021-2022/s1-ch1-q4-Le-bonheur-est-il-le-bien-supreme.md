@@ -393,6 +393,7 @@ ol li{margin-left:-1em}
 </style>
 1) Le bonheur n'est pas l'idéal d'une vie **pleine de satisfactions**.
 2) Le bonheur est l'idéal d'une vie accomplie, **pleine de sens**, riche et profonde.
+3) En ce sens, le bonheur inclut les autres valeurs importantes : la liberté, la justice, la vérité, …
 
 <!-- 
 Refaire le lien avec la question posée :
