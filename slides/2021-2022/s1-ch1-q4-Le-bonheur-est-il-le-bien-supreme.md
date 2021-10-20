@@ -365,7 +365,7 @@ blockquote blockquote{font-size:0.88em;}
 
 
 ---
-<!-- _class: fppp -->
+<!-- _class: fppppp -->
 <style scoped>
 ol {list-style-type:none}
 ol li{margin-left:-1em; line-height:1.25em}
@@ -373,7 +373,7 @@ ol li{margin-left:-1em; line-height:1.25em}
 1) La vie bonne repose sur l'exercice et le **développement de nos facultés** :
    * la réflexion, la conscience morale ;
    * mais aussi : nos facultés physiques, l'imagination, la créativité, le lien social …
-1) Cela n'implique **pas un modèle déterminé** que chacun devrait suivre. Il y a au contraire une valorisation de **l'individualité**, de la **recherche de soi**. La vie bonne repose sur une quête de soi.
+1) Cela n'implique **pas un modèle déterminé** que chacun devrait suivre. Il y a au contraire une valorisation de **l'individualité**, de la **recherche de soi**.
 1) La vie bonne est une vie **accomplie** : le bien suprême, c'est le **perfectionnement de soi**
 
 <!-- Approfondissement possible :
@@ -434,8 +434,9 @@ blockquote blockquote {font-size:1em}
 <!-- _class: exercice application fmmmmm -->
 <style scoped>
 h3 {margin-bottom:10px}
+ul {margin-left:36px}
 ul ul {font-size:100%; margin-left:-30px}
-span {font-size:90%}
+span {font-size:90%;}
 </style>
 
 ### Exercice d'application
@@ -449,6 +450,7 @@ span {font-size:90%}
   - Faut-il préférer la liberté au bonheur ?
   - Y a-t-il un faux bonheur ?
   - Faut-il rechercher le bonheur ?
+  - Le bonheur est-il une quête de soi ?
 - Rédiger une sous-partie de dissertation <span>(autour de 300 mots)</span><br> :warning:  <span>il faut défendre une seule réponse, mobiliser le cours (les critiques féministes du “bonheur” ou John Stuart Mill), et utiliser le modèle _ARES_</span>
 
 <!-- Le bonheur se trouve-t-il dans le plaisir ?
