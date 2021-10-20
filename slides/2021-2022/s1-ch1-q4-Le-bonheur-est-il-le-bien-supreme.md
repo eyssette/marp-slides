@@ -328,9 +328,15 @@ ol {list-style-type:none}
 ol li{margin-left:-1em}
 </style>
 1) Le développement de la réflexion, de notre sensibilité morale accroît notre frustration et notre conscience des malheurs de l'existence.
+1) Le désir d'une vie accomplie demande davantage d'efforts
 1) Un autre exemple : le cas de l'amour.
-1) Mais une vie avec moins de souffrances n'est pas nécessairement une vie meilleure.
+1) Une vie avec moins de souffrances n'est pas nécessairement une vie meilleure.
 
+<!-- 
+Comparer avec :
+– Schopenhauer : critique du désir de toujours plus
+- L'épicurisme : sur l'amour
+ -->
 
 ---
 <!-- _class: i2t1 fmm -->
@@ -359,14 +365,15 @@ blockquote blockquote{font-size:0.88em;}
 
 
 ---
-<!-- _class: fpppppp -->
+<!-- _class: fppp -->
 <style scoped>
 ol {list-style-type:none}
-ol li{margin-left:-1em}
+ol li{margin-left:-1em; line-height:1.25em}
 </style>
 1) La vie bonne repose sur l'exercice et le **développement de nos facultés** :
    * la réflexion, la conscience morale ;
    * mais aussi : nos facultés physiques, l'imagination, la créativité, le lien social …
+1) Cela n'implique **pas un modèle déterminé** que chacun devrait suivre. Il y a au contraire une valorisation de **l'individualité**, de la **recherche de soi**. La vie bonne repose sur une quête de soi.
 1) La vie bonne est une vie **accomplie** : le bien suprême, c'est le **perfectionnement de soi**
 
 <!-- Approfondissement possible :
