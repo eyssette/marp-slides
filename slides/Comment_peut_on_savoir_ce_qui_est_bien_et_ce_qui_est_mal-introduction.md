@@ -169,7 +169,7 @@ h3{font-size:140%}
 
 ---
 <!-- _class: i1t1 vertical pp fppp-->
-![](https://upload.wikimedia.org/wikipedia/commons/0/07/Le_Caravage_-_L%27incr%C3%A9dulit%C3%A9_de_Saint_Thomas.jpg)
+![](https://upload.wikimedia.org/wikipedia/commons/c/cc/Caravaggio_incredulity.jpg)
 
 Le Caravage, _L'Incrédulité de saint Thomas_ (1603)
 
