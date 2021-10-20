@@ -119,3 +119,35 @@ Mais est-ce si simple ? En effet, ………………………………………�
 <!-- _class: partie -->
 # I – Les <br>opposants au<br> réalisme moral<!-- fit -->
 Première partie
+
+
+---
+<!-- _class: pp -->
+<style scoped>
+img {position:absolute!important; top:0; left:0; width:90%!important; display:block; height:710px; margin: 10px 50px; }
+</style>
+
+1) ![](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/2-arguments-contre-vérités-en-morale.dot-part1.svg)
+1) ![](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/2-arguments-contre-vérités-en-morale.dot-part2.svg)
+1) ![](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/2-arguments-contre-vérités-en-morale.dot-part3.svg)
+1) ![](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/2-arguments-contre-vérités-en-morale.dot-part4.svg)
+1) ![](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/2-arguments-contre-vérités-en-morale.dot-part5.svg)
+1) ![](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/2-arguments-contre-vérités-en-morale.dot.svg)
+
+---
+<!-- _class: souspartie -->
+## A. Subjectivité des jugements moraux
+
+
+---
+<!-- _class: souspartie -->
+## B. Relativité des jugements moraux
+
+
+---
+<!-- _class: partie -->
+<style scoped>
+h1 {font-size:3.2em}
+</style>
+# II – Le <br>réalisme<br>moral
+Deuxième partie
