@@ -9,7 +9,7 @@
 		"panel.border": "#060061",
 		"sash.hoverBorder": "#060061",
 		"sideBar.border": "#060061"
-	}
+	},
 	"markdown.marp.themes": [
 		"./themes/teaching.css"
 	  ]
