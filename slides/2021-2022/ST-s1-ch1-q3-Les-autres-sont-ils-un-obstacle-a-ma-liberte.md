@@ -71,6 +71,23 @@ vs.
 
 
 
+---
+<!-- _class: -->
+<style scoped>
+img {position:absolute!important; top:0; left:0; width:90%!important; display:block; height:640px; margin: 40px 50px; }
+</style>
+
+1) ![](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/liberte-action-liberte-volonte-2.dot-part1.svg)
+1) ![](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/liberte-action-liberte-volonte-2.dot-part2.svg)
+1) ![](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/liberte-action-liberte-volonte-2.dot-part3.svg)
+1) ![](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/liberte-action-liberte-volonte-2.dot-part4.svg)
+1) ![](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/liberte-action-liberte-volonte-2.dot-part5.svg)
+1) ![](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/liberte-action-liberte-volonte-2.dot-part6.svg)
+1) ![](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/liberte-action-liberte-volonte-2.dot.svg)
+
+<!-- Questions 1 et 2 : liberté de la volonté
+Dans cette question : liberté d'action -->
+
 
 ---
 <!-- _class:  -->
