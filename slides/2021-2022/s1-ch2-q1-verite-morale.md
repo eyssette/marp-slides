@@ -136,13 +136,108 @@ img {position:absolute!important; top:0; left:0; width:90%!important; display:bl
 
 ---
 <!-- _class: souspartie -->
-## A. Subjectivité des jugements moraux
+## A. Le subjectivisme moral
 
 
 ---
-<!-- _class: souspartie -->
-## B. Relativité des jugements moraux
+<!-- _class: citationC fpp-->
 
+![bg left:38% Portrait de David Hume](https://upload.wikimedia.org/wikipedia/commons/e/ea/Painting_of_David_Hume.jpg)
+
+>« Le vice vous échappe totalement, tant que vous considérez l'objet. Vous ne pouvez jamais le trouver avant d'orienter la réflexion vers votre propre cœur et de constater qu'un sentiment de désapprobation s'élève en vous contre cet acte. Voilà un fait : mais il est l'affaire de l'impression et pas de la raison. Il se trouve en vous-même, non dans l'objet. »
+>>David **Hume**, _Traité de la nature humaine_, livre III, première partie, section I
+
+
+<!-- Un jugement moral n'est pas l'expression d'une vérité objective, c'est l'expression d'une impression subjective. Le bien et le mal ne sont pas des propriétés objectives dont on pourrait vérifier l'existence dans le monde. 
+pas des propriétés observables par la perception, ou démontrables par un raisonnement -->
+
+---
+<!-- _class: souspartie -->
+## B. Le relativisme moral
+
+
+
+---
+<!-- _class: citationC fppppppppp-->
+
+![bg left:42% photographie de Lévi Strauss](https://i.ibb.co/Mk6RR8X/Levi-Strauss.jpg)
+
+>« [D]ès notre naissance, l’entourage fait pénétrer en nous, par mille démarches conscientes et inconscientes, un système complexe de références consistant en jugements de valeur, motivations, centres d’intérêt »
+>>Claude **Lévi-Strauss**, _Race et histoire_
+
+<!-- 
+Nous concevons le bien et le mal à travers le filtre de notre propre culture = ethnocentrisme au sens faible
+Les croyances morales sont différentes selon les cultures
+Donc : il n'y a pas de vérités morales universelles
+
+https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/relativisme-moral-culturel-1.svg
+
+Quels exemples peut-on donner de la relativité des croyances morales ?
+
+/ deuil :
+https://drive.google.com/file/d/1uKRCNHLSdnqoryWPJ2GJPkCyXOlNfCLm/view?usp=sharing
+
+-->
+
+---
+<!-- _class: citationC fppp-->
+
+![bg left:42% photographie de Lévi Strauss](https://i.ibb.co/Mk6RR8X/Levi-Strauss.jpg)
+
+>« L’attitude la plus ancienne […] consiste à répudier purement et simplement les formes culturelles, morales, religieuses, sociales, esthétiques, qui sont les plus éloignées de celles auxquelles nous nous identifions. « Habitudes de sauvages », « cela n’est pas de chez nous », « on ne devrait pas permettre cela », etc. »
+>>Claude **Lévi-Strauss**, _Race et histoire_
+
+---
+<!-- _class: citationC fp -->
+
+![bg left:42% Portrait présumé de Michel de Montaigne](https://upload.wikimedia.org/wikipedia/commons/5/5a/Portrait_of_Michel_de_Montaigne%2C_circa_unknown.jpg?uselang=fr)
+
+>« [C]hacun appelle barbarie ce qui ne fait pas partie de ses usages. Car il est vrai que nous n’avons pas d’autres critères pour la vérité et la raison que les exemples que nous observons et les idées et les usages qui ont cours dans le pays où nous vivons. C’est là que se trouve, pensons-nous, la religion parfaite, le gouvernement parfait, l’usage parfait et incomparable pour toutes choses. »
+>>**Montaigne**, _Essais_, I, 30
+
+<!-- Croire en l'existence d'une vérité en morale, c'est souvent simplement croire en la supériorité de sa propre culture et ne pas accepter la diversité des croyances morales = l'ethnocentrisme au sens fort
+
+Croire en l'existence d'une vérité en morale peut nous conduire à une forme d'intolérance qui n'est pas acceptable
+
+Il faut se méfier de la croyance en l'existence d'une vérité morale 
+
+https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/relativisme-moral-culturel-2.svg  -->
+
+
+---
+<!-- _class: i2t0 pp contain-->
+<style scoped>
+p{margin-left:10px!important; margin-right:10px!important}
+img{height:600px!important;}
+</style>
+![](https://fr.web.img5.acsta.net/medias/nmedia/18/83/23/81/19672460.jpg)
+
+![](https://fr.web.img4.acsta.net/medias/nmedia/18/35/52/37/18654088.jpg)
+
+---
+<!-- _class: i2t0 pp contain-->
+<style scoped>
+p{margin-left:10px!important; margin-right:10px!important}
+img{height:600px!important;}
+</style>
+![](https://www.lecinemaestpolitique.fr/wp-content/uploads/2012/09/pocahontas00.jpg)
+
+![](https://img-4.linternaute.com/cip2YBDZkVvjU4a2tqiFIaf6Yhw=/1240x/a9bfc660898e44a19d2d36f463c9c955/ccmcms-linternaute/124775.jpg)
+
+
+
+
+
+---
+<!-- _class: i1t1 pp vertical fmmmmmm-->
+<style scoped>
+img {height:570px;}
+p:nth-of-type(1){text-align:justify!important; margin-left:0px!important; margin-right:0px!important;}
+</style>
+
+En mai 1958 à Alger, des femmes européennes dévoilent publiquement des algériennes, recrutées par la contrainte pour participer à une manifestation de soutien à la France, et les forcent à retirer leur voile.
+
+![Dévoilement des femmes à Alger en 1958 : une photographie](https://i.ibb.co/QmDhsH4/devoilement-femmes-Alger-1958.jpg)
 
 ---
 <!-- _class: partie -->

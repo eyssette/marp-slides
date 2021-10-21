@@ -86,7 +86,11 @@ img {position:absolute!important; top:0; left:0; width:90%!important; display:bl
 1) ![](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/liberte-action-liberte-volonte-2.dot.svg)
 
 <!-- Questions 1 et 2 : liberté de la volonté
-Dans cette question : liberté d'action -->
+Dans cette question : liberté d'action
+
+
+Faire des choix qui proviennent véritablement de soi-même
+ -->
 
 
 ---
@@ -139,6 +143,14 @@ figure {margin-left:-5em!important}
 >« [N]ous trouvons dans la nature humaine trois principales causes de querelle : […] la rivalité ; […] la défiance ; et […] la fierté. La première fait que les hommes attaquent pour le gain, la seconde pour la sécurité, et la troisième pour la réputation. Dans le premier cas, ils usent de violence pour se rendre maîtres de la personne d'autres hommes, femmes, enfants, et du bétail ; dans le second cas, pour les défendre ; et dans le troisième cas, pour des baga­telles, comme un mot, un sourire, une opinion différente, et tout autre signe de sous-estimation »
 >>Thomas **Hobbes**, _Léviathan_
 
+<!-- Une anthropologie pessimiste : les causes de l'état de guerre sont dans la nature humaine (et non dans des circonstances extérieures, contingentes).
+
+La rivalité, la défiance, la fierté : 3 causes qui montrent que 
+L'état de guerre n'est pas un état de déferlement sauvage des pulsions (l'image du loup, la comparaison avec Freud).
+
+La racine de l'état de guerre tient à la nature même du désir, qui pour Hobbes est une forme de désir de puissance.
+ -->
+
 ---
 <!-- _class: citationC fppp -->
 <style scoped>
@@ -151,6 +163,16 @@ figure {margin-left:-5em!important}
 >« Par là, il est manifeste que pendant le temps où les hommes vivent sans un pouvoir commun qui les maintienne tous dans la peur, ils sont dans cette condition qu'on appelle guerre, et cette guerre est telle qu'elle est celle de tout homme contre tout homme. […] [A]ussi longtemps que chaque homme détient ce droit de faire tout ce qui lui plaît, tous les hommes sont dans l'état de guerre. »
 >>Thomas **Hobbes**, _Léviathan_
 
+<!-- L’état de guerre est un état fictif, mais qui représente une réalité possible (et en partie vécue par Hobbes) : celle d’une situation anarchique
+Pour Hobbes, l’anarchie, comme absence d’ordre, s’explique par l’anarchie, comme absence de pouvoir supérieur : il ne peut y avoir d’ordre social (plan horizontal des relations entre individus) sans une régulation par un État (plan vertical de la relation entre l’État et les individus).
+Hobbes s’oppose à l’idée d’autorégulation, ou d’harmonie naturelle qu’on retrouve plus tard : chez Mandeville (La Fable des abeilles) et Adam Smith (l’image de la main invisible).
+Hobbes s’oppose à l’idée que le conflit, la concurrence seraient source de progrès. Contra : cf. Kant.
+L’état de guerre comme “disposition connue au combat”. À nouveau : l’état de guerre n’est pas une affaire de pulsions, mais surtout de représentations (et de prévision rationnelle d’un conflit possible).
+Chaque individu ne peut compter que sur lui-même. Aucune association stable n’est possible.
+Un état de misère à plusieurs niveaux : misère matérielle et économique, misère intellectuelle et culturelle, misère sociale et psychologique
+Comparaison avec l’état de nature selon Rousseau.
+ -->
+
 ---
 <!-- _class: citationC fmmm -->
 <style scoped>
@@ -162,6 +184,47 @@ figure {margin-left:-5em!important}
 
 >« La seule façon d'ériger un […] pouvoir commun, qui puisse être capable de défendre les hommes […] des torts qu'ils peuvent se faire les uns aux autres, et par là assurer leur sécurité […] est de rassembler tout leur pouvoir et toute leur force sur un seul homme, ou sur une seule assemblée d'hommes, qui puisse réduire toutes leurs volontés, à la majorité des voix, à une seule volonté […], de telle manière que c'est comme si chacun devait dire à chacun : _J'autorise cet homme, ou cette assemblée d'hommes, j'abandonne mon droit de me gouverner à cet homme, ou à cette assemblée, à cette condition que tu lui abandonnes ton droit, et autorise toutes ses actions de la même manière_. »
 >>Thomas **Hobbes**, _Léviathan_
+
+<!-- À l’état de nature, la liberté est illimitée en droit, mais de fait limitée par la liberté des autres.
+Il est dans l’intérêt des individus de rechercher la paix.
+
+La paix repose sur une renonciation réciproque à son droit sur toutes choses.
+Le contractualisme moral de Hobbes. Comparaison avec Kant.
+
+Le pouvoir politique peut, par la menace de la sanction, garantir le respect des engagements (on est ici dans le cadre de la justice rétributive, de la justice pénale).
+Les lois garantissent une confiance dans les relations interindividuelles, en sanctionnant le non-respect des engagements
+L’efficacité des sanctions repose :
+sur une forme de calcul d’intérêt
+et sur un déplacement de la crainte : on doit passer de la méfiance généralisée vis-à-vis d’autrui (dans l’état de guerre), à la crainte du pouvoir (dans l’état civil)
+Le pouvoir politique garantit le respect du droit de propriété des individus (on est ici dans le cadre de la justice distributive).
+Le renoncement à son droit sur toutes choses suppose l’existence de règles d’attribution des biens
+Hobbes s’oppose à l’idée d’un droit naturel de propriété qu’on retrouve par exemple chez Locke.
+
+
+ -->
+
+<!-- 
+Exemple : ?
+
+Manche de guitare / Blow up
+https://drive.google.com/file/d/0B33DtpyVkjZFb3AycEdmVVZqME0/view?usp=sharing&resourcekey=0-dFaoHKQkVrVBsEJjN7hxRg
+
+désir mimétique :  autre obstacle à la constitution de sa propre volonté
+(modèles imposés : cf. Billy Elliot)
+Autre réduit à l'état d'objet : de moyen ou d'obstacle
+
+
+Lost : à partir de 37 minutes
+https://english-with-fun.org/tv-show/lost/season/1/episode/5
+
+ -->
+
+
+---
+<!-- _class: i1t1 vertical -->
+[![](https://static.hitek.fr/img/actualite/2018/02/21/fb_lost-1.webp)](https://ladigitale.dev/digiplay/#/v/61710c4b40779)
+
+La série _LOST_
 
 ---
 <!-- _class: partie -->
