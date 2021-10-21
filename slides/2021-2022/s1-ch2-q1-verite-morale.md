@@ -65,6 +65,10 @@ section.pm:before{top:640px}
 - Les expériences scientifiques sur les animaux
 </div>
 
+<!--
+Noter les thèmes qui vous ont le plus intéressé
+
+Si le temps : choisir un thème sur lequel il y a eu débat ; défendre à l'écrit votre position (au moins 1 argument précis) ; trouver dans la classe un élève qui n'est pas d'accord avec vous : cet élève devra vous répondre à l'écrit et expliquer les raisons de son désaccord -->
 
 ---
 <!-- _class: pointmethode -->
