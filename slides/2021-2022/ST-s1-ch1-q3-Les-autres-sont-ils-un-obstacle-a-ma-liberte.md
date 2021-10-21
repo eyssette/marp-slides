@@ -90,6 +90,9 @@ Dans cette question : liberté d'action
 
 
 Faire des choix qui proviennent véritablement de soi-même
+
+Pour l'année prochaine : introduire dès le début du chapitre cette distinction,
+et commencer par la liste d'exemples de situations 
  -->
 
 

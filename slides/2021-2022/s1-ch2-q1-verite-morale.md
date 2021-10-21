@@ -148,8 +148,11 @@ img {position:absolute!important; top:0; left:0; width:90%!important; display:bl
 >>David **Hume**, _Traité de la nature humaine_, livre III, première partie, section I
 
 
-<!-- Un jugement moral n'est pas l'expression d'une vérité objective, c'est l'expression d'une impression subjective. Le bien et le mal ne sont pas des propriétés objectives dont on pourrait vérifier l'existence dans le monde. 
-pas des propriétés observables par la perception, ou démontrables par un raisonnement -->
+<!-- Un jugement moral n'est pas l'expression d'une vérité objective, c'est l'expression d'une impression subjective. Le bien et le mal ne sont pas des propriétés objectives dont on pourrait vérifier, constater l'existence dans le monde. 
+pas des propriétés observables par la perception, ou démontrables par un raisonnement
+
+Distinction des jugements de fait et des jugements de valeur
+ -->
 
 ---
 <!-- _class: souspartie -->
