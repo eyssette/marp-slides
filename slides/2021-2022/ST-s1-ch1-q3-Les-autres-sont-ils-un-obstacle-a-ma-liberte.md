@@ -108,13 +108,93 @@ Mais est-ce si simple ? En effet, ………………………………………�
 
 <!-- 100-150 mots -->
 
+
 ---
-<!-- _class: pointmethode fppp -->
+<!-- _class: partie -->
+# I – Hobbes <!-- fit -->
+Première partie
+
+
+---
+<!-- _class: definition fpppppppp-->
+### Définition
+* La **liberté négative** désigne l'absence d'obstacles
+* Je suis libre en ce sens s'il n'y a **pas d'obstacles extérieurs** qui m'empêchent d'agir conformément à mes choix
+
+<!-- ne pas être empêché de faire ce que l'on veut -->
+
+<!-- Parmi les obstacles : les autres
+Les autres peuvent constituer un obstacle
+Une source d'interférence, d'empêchements -->
+
+---
+<!-- _class: citationC f -->
 <style scoped>
-p {margin-top:-1.3em!important; padding-top:30px;}
-ol {padding-bottom:30px}
+blockquote blockquote{margin-top:-0.5em}
+figure {margin-left:-5em!important}
 </style>
-### Point méthode
-Dans l'introduction d'une dissertation, il faut problématiser le sujet, c'est-à-dire :
-1) Justifier une première réponse au sujet (R1) à partir de l'analyse de la notion principale ;
-2) Montrer ensuite que ce n'est pas si simple et justifier une deuxième réponse (R2), opposée à R1. 
+
+![bg left:35%](https://upload.wikimedia.org/wikipedia/commons/d/d8/Thomas_Hobbes_%28portrait%29.jpg)
+
+>« [N]ous trouvons dans la nature humaine trois principales causes de querelle : […] la rivalité ; […] la défiance ; et […] la fierté. La première fait que les hommes attaquent pour le gain, la seconde pour la sécurité, et la troisième pour la réputation. Dans le premier cas, ils usent de violence pour se rendre maîtres de la personne d'autres hommes, femmes, enfants, et du bétail ; dans le second cas, pour les défendre ; et dans le troisième cas, pour des baga­telles, comme un mot, un sourire, une opinion différente, et tout autre signe de sous-estimation »
+>>Thomas **Hobbes**, _Léviathan_
+
+---
+<!-- _class: citationC fppp -->
+<style scoped>
+blockquote blockquote{margin-top:-0.5em}
+figure {margin-left:-5em!important}
+</style>
+
+![bg left:35%](https://upload.wikimedia.org/wikipedia/commons/d/d8/Thomas_Hobbes_%28portrait%29.jpg)
+
+>« Par là, il est manifeste que pendant le temps où les hommes vivent sans un pouvoir commun qui les maintienne tous dans la peur, ils sont dans cette condition qu'on appelle guerre, et cette guerre est telle qu'elle est celle de tout homme contre tout homme. […] [A]ussi longtemps que chaque homme détient ce droit de faire tout ce qui lui plaît, tous les hommes sont dans l'état de guerre. »
+>>Thomas **Hobbes**, _Léviathan_
+
+---
+<!-- _class: citationC fmmm -->
+<style scoped>
+blockquote blockquote{margin-top:-0.5em}
+figure {margin-left:-5em!important}
+</style>
+
+![bg left:35%](https://upload.wikimedia.org/wikipedia/commons/d/d8/Thomas_Hobbes_%28portrait%29.jpg)
+
+>« La seule façon d'ériger un […] pouvoir commun, qui puisse être capable de défendre les hommes […] des torts qu'ils peuvent se faire les uns aux autres, et par là assurer leur sécurité […] est de rassembler tout leur pouvoir et toute leur force sur un seul homme, ou sur une seule assemblée d'hommes, qui puisse réduire toutes leurs volontés, à la majorité des voix, à une seule volonté […], de telle manière que c'est comme si chacun devait dire à chacun : _J'autorise cet homme, ou cette assemblée d'hommes, j'abandonne mon droit de me gouverner à cet homme, ou à cette assemblée, à cette condition que tu lui abandonnes ton droit, et autorise toutes ses actions de la même manière_. »
+>>Thomas **Hobbes**, _Léviathan_
+
+---
+<!-- _class: partie -->
+# II – Marx <!-- fit -->
+Deuxième partie
+
+---
+<!-- _class: definition fpppppppp-->
+### Définition
+* La **liberté réelle** désigne le fait d'avoir la capacité de réaliser ses choix
+* Je suis libre en ce sens si **j'ai les ressources nécessaires** pour pouvoir effectivement réaliser ce que je veux
+
+<!-- exemple : être libre de partir en vacances -->
+
+
+---
+<!-- _class: citationC f -->
+<style scoped>
+blockquote blockquote{margin-top:-0.5em}
+</style>
+
+![bg left:25%](https://upload.wikimedia.org/wikipedia/commons/7/7d/Marx_color.jpg)
+
+>« Le point fondamental sur lequel Marx insiste […] c'est que le concept libéral de liberté naît d'une présupposition qui constitue sa base : la liberté de chacun n'est vue qu'en opposition avec la liberté d'autrui, comme une limite de la liberté des autres, comme une frontière qui protège l'individu de l'intrusion d'autrui. […] La liberté - pour s'exprimer métaphoriquement - est comme une propriété privée qui ne peut s'étendre qu'aux dépens des propriétés voisines. La loi détermine la juste limite de la liberté de chacun […]. »
+>>Stefano **Petrucciani**, « Marx et la critique de l'égalité politique », _Actuel Marx_, vol. 8, n°2
+
+---
+<!-- _class: citationC fmmmm -->
+<style scoped>
+blockquote blockquote{margin-top:-0.5em}
+</style>
+
+![bg left:25%](https://upload.wikimedia.org/wikipedia/commons/7/7d/Marx_color.jpg)
+
+>« Marx oppose une critique claire et incisive à cette façon d'entendre la liberté […]. Il est tout à fait possible, selon lui […], de concevoir une forme du rapport entre les hommes où la liberté de chacun ne serait pas la limite, mais au contraire la réalisation de la liberté de l'autre, la condition positive pour le développement de la liberté de tous. […] Le libre développement d'un individu ne devient une limite ou un obstacle au développement des autres individus que lorsqu'il se réalise dans le cadre de la loi de l'intérêt privé et de la propriété privée […]. Cela n'est plus vrai si l'on dépasse l'enfermement de l'individu dans son intérêt privé : si la liberté est la capacité de contrôler et de diriger rationnellement sa propre vie, d'objectiver les capacités humaines et de développer les jouissances humaines. »
+>>Stefano **Petrucciani**, « Marx et la critique de l'égalité politique », _Actuel Marx_, vol. 8, n°2
