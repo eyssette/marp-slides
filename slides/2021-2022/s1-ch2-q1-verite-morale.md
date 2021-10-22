@@ -156,7 +156,55 @@ img {position:absolute!important; top:0; left:0; width:90%!important; display:bl
 pas des propriétés observables par la perception, ou démontrables par un raisonnement
 
 Distinction des jugements de fait et des jugements de valeur
+
+Faits / valeurs
+
+les faits sont du domaine de la science, et sont objectifs parce qu’ils constituent des
+descriptions du monde tel qu’il est dont l’exactitude peut être
+vérifiée empiriquement. À l’opposé, les valeurs sont du domaine de
+l’éthique (et de l’esthétique), et sont subjectives parce qu’elles sont
+des prescriptions de comment le monde devrait être qui ne réfèrent
+à rien de vérifiable empiriquement
+
+la vérité / le bien, le beau
+Jugement de fait / jugement de valeur
+Répond à la question : qu'est-ce qui est vrai ? / Répond à la question : qu'est-ce qui est bien / beau ? (ajouter : utile ?)
+[Du domaine des sciences / Du domaine de l'éthique et de l'esthétique (pour l'utile : ?)]
+Se réduit à une description ou une explication du monde tel qu'il est / Formule explicitement ou implicitement une prescription de la manière dont le monde devrait être (bof)
+/ Formule explicitement ou implicitement une norme ou un idéal
+/ Contient une évaluation en fonction d'une norme ou d'un idéal
+Prétend dire ce qui est tel qu'il est / Prétend dire ce qui devrait être (bof)
+
  -->
+
+
+---
+<!-- _class: exercice tableau colonnes fmm-->
+<style scoped>
+ol {margin-top:0.4em!important}
+ol li {padding-left:1.5em!important}
+</style>
+|Jugement de fait|Jugement de valeur|
+|:-:|:-:|
+|?|?|
+|?|?|
+|?|?|
+
+1. Répond à la question : « qu'est-ce qui est bien / <br>utile / beau ? »
+2. Se réduit à une description ou une explication du monde tel qu'il est
+3. Prétend dire ce qui doit ou devrait être
+4. Contient une évaluation <br>en fonction d'une norme <br>ou d'un idéal
+5. Prétend simplement <br>dire ce qui est
+6. Répond à la question : « qu'est-ce qui est vrai ? »
+
+---
+<!-- _class: exercice tableau-r fm-->
+|Jugement de fait|Jugement de valeur|
+|:-:|:-:|
+|_6_ Répond à la question : « qu'est-ce qui<br> est vrai ? »|_1_ Répond à la question : « qu'est-ce qui est bien /<br> utile / beau ? »|
+|_2_ Se réduit à une description ou une explication du <br>monde tel qu'il est|_4_ Contient <br>une évaluation <br>en fonction d'une <br>norme ou d'un idéal|
+|_5_ Prétend simplement <br>dire ce qui est|_3_ Prétend dire ce qui doit ou devrait être|
+
 
 ---
 <!-- _class: souspartie -->
