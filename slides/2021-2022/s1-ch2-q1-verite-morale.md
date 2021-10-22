@@ -144,41 +144,6 @@ img {position:absolute!important; top:0; left:0; width:90%!important; display:bl
 
 
 ---
-<!-- _class: citationC fpp-->
-
-![bg left:38% Portrait de David Hume](https://upload.wikimedia.org/wikipedia/commons/e/ea/Painting_of_David_Hume.jpg)
-
->« Le vice vous échappe totalement, tant que vous considérez l'objet. Vous ne pouvez jamais le trouver avant d'orienter la réflexion vers votre propre cœur et de constater qu'un sentiment de désapprobation s'élève en vous contre cet acte. Voilà un fait : mais il est l'affaire de l'impression et pas de la raison. Il se trouve en vous-même, non dans l'objet. »
->>David **Hume**, _Traité de la nature humaine_, livre III, première partie, section I
-
-
-<!-- Un jugement moral n'est pas l'expression d'une vérité objective, c'est l'expression d'une impression subjective. Le bien et le mal ne sont pas des propriétés objectives dont on pourrait vérifier, constater l'existence dans le monde. 
-pas des propriétés observables par la perception, ou démontrables par un raisonnement
-
-Distinction des jugements de fait et des jugements de valeur
-
-Faits / valeurs
-
-les faits sont du domaine de la science, et sont objectifs parce qu’ils constituent des
-descriptions du monde tel qu’il est dont l’exactitude peut être
-vérifiée empiriquement. À l’opposé, les valeurs sont du domaine de
-l’éthique (et de l’esthétique), et sont subjectives parce qu’elles sont
-des prescriptions de comment le monde devrait être qui ne réfèrent
-à rien de vérifiable empiriquement
-
-la vérité / le bien, le beau
-Jugement de fait / jugement de valeur
-Répond à la question : qu'est-ce qui est vrai ? / Répond à la question : qu'est-ce qui est bien / beau ? (ajouter : utile ?)
-[Du domaine des sciences / Du domaine de l'éthique et de l'esthétique (pour l'utile : ?)]
-Se réduit à une description ou une explication du monde tel qu'il est / Formule explicitement ou implicitement une prescription de la manière dont le monde devrait être (bof)
-/ Formule explicitement ou implicitement une norme ou un idéal
-/ Contient une évaluation en fonction d'une norme ou d'un idéal
-Prétend dire ce qui est tel qu'il est / Prétend dire ce qui devrait être (bof)
-
- -->
-
-
----
 <!-- _class: exercice tableau colonnes fmm-->
 <style scoped>
 ol {margin-top:0.4em!important}
@@ -207,6 +172,22 @@ ol li {padding-left:1.5em!important}
 
 
 ---
+<!-- _class: citationC fpp-->
+
+![bg left:38% Portrait de David Hume](https://upload.wikimedia.org/wikipedia/commons/e/ea/Painting_of_David_Hume.jpg)
+
+>« Le vice vous échappe totalement, tant que vous considérez l'objet. Vous ne pouvez jamais le trouver avant d'orienter la réflexion vers votre propre cœur et de constater qu'un sentiment de désapprobation s'élève en vous contre cet acte. Voilà un fait : mais il est l'affaire de l'impression et pas de la raison. Il se trouve en vous-même, non dans l'objet. »
+>>David **Hume**, _Traité de la nature humaine_, livre III, première partie, section I
+
+
+<!-- Un jugement moral n'est pas l'expression d'une vérité objective, c'est l'expression d'une impression subjective. Le bien et le mal ne sont pas des propriétés objectives dont on pourrait vérifier, constater l'existence dans le monde. 
+pas des propriétés observables par la perception, ou démontrables par un raisonnement
+
+ -->
+
+
+
+---
 <!-- _class: souspartie -->
 ## B. Le relativisme moral
 
@@ -221,6 +202,8 @@ ol li {padding-left:1.5em!important}
 >>Claude **Lévi-Strauss**, _Race et histoire_
 
 <!-- 
+L'ethnocentrisme, au sens faible, désigne un biais cognitif : nous avons tendance à percevoir les choses à travers le filtre de notre propre culture
+
 Nous concevons le bien et le mal à travers le filtre de notre propre culture = ethnocentrisme au sens faible
 Les croyances morales sont différentes selon les cultures
 Donc : il n'y a pas de vérités morales universelles
@@ -235,12 +218,24 @@ https://drive.google.com/file/d/1uKRCNHLSdnqoryWPJ2GJPkCyXOlNfCLm/view?usp=shari
 -->
 
 ---
+<!-- _class: definition -->
+### Définition
+**L'ethnocentrisme**, au sens **faible**, désigne un biais cognitif : nous avons tendance à percevoir les choses à travers le filtre de notre propre culture
+
+
+---
 <!-- _class: citationC fppp-->
 
 ![bg left:42% photographie de Lévi Strauss](https://i.ibb.co/Mk6RR8X/Levi-Strauss.jpg)
 
 >« L’attitude la plus ancienne […] consiste à répudier purement et simplement les formes culturelles, morales, religieuses, sociales, esthétiques, qui sont les plus éloignées de celles auxquelles nous nous identifions. « Habitudes de sauvages », « cela n’est pas de chez nous », « on ne devrait pas permettre cela », etc. »
 >>Claude **Lévi-Strauss**, _Race et histoire_
+
+
+---
+<!-- _class: definition -->
+### Définition
+**L'ethnocentrisme** au sens **fort** désigne une hiérarchisation des cultures qui repose sur une surestimation de sa culture (“nous, les civilisés”) et une infériorisation des autres cultures (“eux, les barbares”).
 
 ---
 <!-- _class: citationC fp -->
@@ -250,7 +245,10 @@ https://drive.google.com/file/d/1uKRCNHLSdnqoryWPJ2GJPkCyXOlNfCLm/view?usp=shari
 >« [C]hacun appelle barbarie ce qui ne fait pas partie de ses usages. Car il est vrai que nous n’avons pas d’autres critères pour la vérité et la raison que les exemples que nous observons et les idées et les usages qui ont cours dans le pays où nous vivons. C’est là que se trouve, pensons-nous, la religion parfaite, le gouvernement parfait, l’usage parfait et incomparable pour toutes choses. »
 >>**Montaigne**, _Essais_, I, 30
 
-<!-- Croire en l'existence d'une vérité en morale, c'est souvent simplement croire en la supériorité de sa propre culture et ne pas accepter la diversité des croyances morales = l'ethnocentrisme au sens fort
+<!-- 
+L'ethnocentrisme au sens fort se rapporte à une hiérarchisation des cultures qui repose sur une surestimation de sa culture (“nous, les civilisés”) et une infériorisation des autres cultures (“eux, les barbares”).
+
+Croire en l'existence d'une vérité en morale, c'est souvent simplement croire en la supériorité de sa propre culture et ne pas accepter la diversité des croyances morales = l'ethnocentrisme au sens fort
 
 Croire en l'existence d'une vérité en morale peut nous conduire à une forme d'intolérance qui n'est pas acceptable
 
