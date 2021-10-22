@@ -17,7 +17,7 @@ http://eyssette.github.io
 ---
 <!-- _class: colonnes pm -->
 <style scoped>
-h4{margin-bottom:10px; margin-top:50px!important;}
+h4{margin-bottom:10px; margin-top:30px!important;}
 ul {
     font-size:63%;
     display:flex;
@@ -35,6 +35,8 @@ ul li {
     text-align:left;
 }
 section.pm:before{top:640px}
+
+div {margin-top:-0.15em}
 </style>
 
 #### Discussion sur des cas d’éthique appliquée <!-- fit -->
