@@ -134,7 +134,7 @@ qu'un idéal
   -> impossible, irréalisable
     -> projet vague, rien de précis
   -> déception, désespoir, désillusion
-  
+-->
 
 ---
 <!-- _class: etape -->
