@@ -13,13 +13,30 @@ Auteur : [Cédric Eyssette](https://eyssette.github.io/)
 
 - [Introduction à la philosophie](2021-2022/introduction-philosophie-21.html)
 
-## Séquence 1 : Éthique et philosophie morale
+## Cours en série générale
+
+- [Méthode de la dissertation en série générale](https://eyssette.github.io/marp-slides//slides/2021-2022/methode-dissertation-TG.html)
+
+### Séquence 1 : Éthique et philosophie morale
 
 - [Séquence 1 : introduction](2021-2022/sequence1-éthique-et-philosophie-morale.html)
 
-### Chapitre 1 : Le bonheur
+#### Chapitre 1 : Le bonheur
 
-- [Q1 : Peut-on savoir ce qu'est le bonheur ?](2021-2022/s1-ch1-q1-peut-on-savoir-ce-qu-est-le-bonheur.html)
+- [Q1 – Peut-on savoir ce qu'est le bonheur ?](2021-2022/s1-ch1-q1-peut-on-savoir-ce-qu-est-le-bonheur.html)
+- [Q2 – Désirer, est-ce souffrir ?](https://eyssette.github.io/marp-slides/slides/2021-2022/s1-ch1-q2-Desirer-est-ce-souffrir.html)
+- [Q3 – Que pouvons-nous face au tragique de l'existence ?](https://eyssette.github.io/marp-slides/slides/2021-2022/s1-ch1-q3-Que-pouvons-nous-face-au-tragique-de-l-existence.html)
+- [Q4 – Le bonheur est-il le bien suprême ?](https://eyssette.github.io/marp-slides/slides/2021-2022/s1-ch1-q4-Le-bonheur-est-il-le-bien-supreme.html)
+
+## Cours en séries technologiques
+
+### Séquence 1 : Philosophie morale et politique
+
+### Chapitre 1 : La liberté
+
+- [Q1 – Faire tout ce qui nous plaît, est-ce être esclave de nos désirs ?](https://eyssette.github.io/marp-slides/slides/2021-2022/ST-s1-ch1-q1-faire-ce-qui-nous-plait-est-ce-etre-esclave-de-nos-desirs.html)
+- [Q2 – Sommes-nous capables de maîtriser nos désirs ?](https://eyssette.github.io/marp-slides/slides/2021-2022/ST-s1-ch1-q2-Sommes-nous-capables-de-maitriser-nos-desirs.html)
+
 
 # Diaporamas (2020-2021)
 
