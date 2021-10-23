@@ -15,6 +15,8 @@ Auteur : [Cédric Eyssette](https://eyssette.github.io/)
 
 ## Cours en série générale
 
+- [Méthode de la dissertation en série générale](https://eyssette.github.io/marp-slides//slides/2021-2022/methode-dissertation-TG.html)
+
 ### Séquence 1 : Éthique et philosophie morale
 
 - [Séquence 1 : introduction](2021-2022/sequence1-éthique-et-philosophie-morale.html)
