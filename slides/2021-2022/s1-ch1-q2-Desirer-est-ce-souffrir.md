@@ -385,9 +385,6 @@ Il faut distinguer deux formes d'hédonisme
 
 ---
 <!-- _class: exercice tableau-r fmm-->
-<style scoped>
-
-</style>
 |L'hédonisme radical|L'hédonisme d'Épicure|
 |:-:|:-:|
 |_1_ consiste à désirer<br> toujours plus|_4_ consiste à retrouver le plaisir simple d'exister|
