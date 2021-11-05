@@ -26,6 +26,10 @@ ol li:nth-of-type(3){margin-top:0.5em}
 2) Morale : vient du latin _mores_<br>Signifie : les habitudes, les coutumes
 3) &rarr; Un même sens : s'interroger sur l'éthique ou la morale, c'est s'intéresser à nos manières de vivre.
 
+<!-- 
+Texte de Comte-Sponville sur éthique et morale :
+https://docs.google.com/document/d/1PcSUrUzPV5d-GEmGBB1g_urPEt8C0D4gPyoXlKeUz6g/edit?usp=sharing -->
+
 ---
 <!-- _class: souspartie-->
 <style scoped>
