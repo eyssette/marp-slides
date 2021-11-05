@@ -126,9 +126,9 @@ Mais est-ce si simple ? En effet, ………………………………………�
 # I – Les <br>opposants au<br> réalisme moral<!-- fit -->
 Première partie
 
-
+<!-- 
 ---
-<!-- _class: pp -->
+_class: pp
 <style scoped>
 img {position:absolute!important; top:0; left:0; width:90%!important; display:block; height:710px; margin: 10px 50px; }
 </style>
@@ -138,12 +138,13 @@ img {position:absolute!important; top:0; left:0; width:90%!important; display:bl
 1) ![](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/2-arguments-contre-vérités-en-morale.dot-part3.svg)
 1) ![](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/2-arguments-contre-vérités-en-morale.dot-part4.svg)
 1) ![](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/2-arguments-contre-vérités-en-morale.dot-part5.svg)
-1) ![](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/2-arguments-contre-vérités-en-morale.dot.svg)
+1) ![](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/2-arguments-contre-vérités-en-morale.dot.svg) -->
 
 ---
 <!-- _class: souspartie -->
 ## A. Le subjectivisme moral
 
+<!-- Le subjectivisme moral repose sur la distinction entre jugements de fait et jugements de valeur -->
 
 ---
 <!-- _class: exercice tableau colonnes fmm-->
@@ -157,21 +158,22 @@ ol li {padding-left:1.5em!important}
 |?|?|
 |?|?|
 
-1. Répond à la question : « qu'est-ce qui est bien / <br>utile / beau ? »
+1. Répond à la question : « qu'est-ce qui est bien / <br>meilleur / utile / beau ? »
 2. Se réduit à une description ou une explication du monde tel qu'il est
-3. Prétend dire ce qui doit ou devrait être
+3. Exprime l'engagement du sujet envers certaines valeurs
 4. Contient une évaluation <br>en fonction d'une norme <br>ou d'un idéal
-5. Prétend simplement <br>dire ce qui est
+5. Prétend n'être qu'un constat neutre et objectif de<br>la réalité
 6. Répond à la question : « qu'est-ce qui est vrai ? »
 
 ---
 <!-- _class: exercice tableau-r fm-->
 |Jugement de fait|Jugement de valeur|
 |:-:|:-:|
-|_6_ Répond à la question : « qu'est-ce qui<br> est vrai ? »|_1_ Répond à la question : « qu'est-ce qui est bien /<br> utile / beau ? »|
+|_6_ Répond à la question : « qu'est-ce qui<br> est vrai ? »|_1_ Répond à la question : « qu'est-ce qui est bien /<br> meilleur / utile / beau ? »|
 |_2_ Se réduit à une description ou une explication du <br>monde tel qu'il est|_4_ Contient <br>une évaluation <br>en fonction d'une <br>norme ou d'un idéal|
-|_5_ Prétend simplement <br>dire ce qui est|_3_ Prétend dire ce qui doit ou devrait être|
+|_5_ Prétend n'être <br>qu'un constat neutre<br>et objectif de la réalité|_3_ Exprime l'engagement<br>du sujet envers<br>certaines valeurs
 
+<!-- Ajouter un exercice de classification avec des exemples de jugements ? -->
 
 ---
 <!-- _class: citationC fpp-->
@@ -183,10 +185,27 @@ ol li {padding-left:1.5em!important}
 
 
 <!-- Un jugement moral n'est pas l'expression d'une vérité objective, c'est l'expression d'une impression subjective. Le bien et le mal ne sont pas des propriétés objectives dont on pourrait vérifier, constater l'existence dans le monde. 
-pas des propriétés observables par la perception, ou démontrables par un raisonnement
+Les valeurs ne sont pas des propriétés observables par la perception, ou démontrables par un raisonnement.
 
  -->
 
+
+---
+<!-- _class: definition -->
+### Définition
+Le **subjectivisme moral** est l'idée que les valeurs morales ne sont pas la description de propriétés objectives, mais l'expression de réactions subjectives.
+
+<!-- Exemples de réactions subjectives : 
+le dégoût, l'indignation, la révolte, la culpabilité, la honte -->
+
+
+---
+<!-- _class: sanspuces -->
+<style >
+section.sanspuces ol {list-style-type:none; margin-left:0em;}
+</style>
+1) Les valeurs ne sont pas des propriétés observables par la perception, ou démontrables par un raisonnement.
+2) Donc : on ne peut pas prouver objectivement la vérité d'un jugement de valeur.
 
 
 ---
@@ -194,6 +213,9 @@ pas des propriétés observables par la perception, ou démontrables par un rais
 ## B. Le relativisme moral
 
 
+---
+<!-- _class: etape -->
+### 1/ Premier argument
 
 ---
 <!-- _class: citationC fppppppppp-->
@@ -204,18 +226,9 @@ pas des propriétés observables par la perception, ou démontrables par un rais
 >>Claude **Lévi-Strauss**, _Race et histoire_
 
 <!-- 
-L'ethnocentrisme, au sens faible, désigne un biais cognitif : nous avons tendance à percevoir les choses à travers le filtre de notre propre culture
-
-Nous concevons le bien et le mal à travers le filtre de notre propre culture = ethnocentrisme au sens faible
-Les croyances morales sont différentes selon les cultures
-Donc : il n'y a pas de vérités morales universelles
-
-https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/relativisme-moral-culturel-1.svg
-
 Quels exemples peut-on donner de la relativité des croyances morales ?
 
-/ deuil :
-https://drive.google.com/file/d/1uKRCNHLSdnqoryWPJ2GJPkCyXOlNfCLm/view?usp=sharing
+/ deuil : https://drive.google.com/file/d/1uKRCNHLSdnqoryWPJ2GJPkCyXOlNfCLm/view?usp=sharing
 
 -->
 
@@ -224,6 +237,33 @@ https://drive.google.com/file/d/1uKRCNHLSdnqoryWPJ2GJPkCyXOlNfCLm/view?usp=shari
 ### Définition
 **L'ethnocentrisme**, au sens **faible**, désigne un biais cognitif : nous avons tendance à percevoir les choses à travers le filtre de notre propre culture
 
+
+---
+<!-- _class: sanspuces -->
+<style scoped>
+h3{margin-bottom:0em}
+</style>
+### Argument 1
+1) Les croyances morales d'une personne sont façonnées par le code moral de la culture à laquelle il appartient.
+2) Les codes moraux diffèrent selon les cultures.
+3) Donc : il n'y a pas de vérités morales universelles.
+
+
+---
+<!-- _class: citationC fm -->
+<style scoped>
+figure {margin-left:-3em!important}
+</style>
+![bg left:40%](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Herodotus_Massimo_Inv124478.jpg/1920px-Herodotus_Massimo_Inv124478.jpg)
+
+>« Un jour Darius, ayant appelé près de lui des Grecs […] leur demanda pour quelle somme ils pourraient se résoudre à se nourrir des corps morts de leurs pères. Tous répondirent qu'ils ne le feraient jamais, quelque argent qu'on pût leur donner. Il fit venir ensuite les Calaties, peuples des Indes, qui mangent leurs pères ; il leur demanda […] quelle somme d'argent pourrait les engager à brûler leurs pères après leur mort. Les Indiens, se récriant à cette question, le prièrent de ne leur pas tenir un langage si odieux : tant la coutume a de force. »
+>>**Hérodote**, Histoire, III, 38
+
+<!-- endocannibalisme funéraire -->
+
+---
+<!-- _class: etape -->
+### 2/ Deuxième argument
 
 ---
 <!-- _class: citationC fppp-->
@@ -237,7 +277,7 @@ https://drive.google.com/file/d/1uKRCNHLSdnqoryWPJ2GJPkCyXOlNfCLm/view?usp=shari
 ---
 <!-- _class: definition -->
 ### Définition
-**L'ethnocentrisme** au sens **fort** désigne une hiérarchisation des cultures qui repose sur une surestimation de sa culture (“nous, les civilisés”) et une infériorisation des autres cultures (“eux, les barbares”).
+**L'ethnocentrisme** au sens **fort** désigne une hiérarchisation des cultures qui repose sur une survalorisation de sa culture (“nous, les civilisés”) et une infériorisation des autres cultures (“eux, les barbares”).
 
 ---
 <!-- _class: citationC fp -->
@@ -281,6 +321,15 @@ img{height:600px!important;}
 
 
 
+---
+<!-- _class: sanspuces -->
+<style scoped>
+h3{margin-bottom:0em}
+</style>
+### Argument 2
+1) Croire qu'il existe des vérités en morale, c'est souvent croire en la supériorité de sa propre culture.
+2) Cela peut nous conduire à une forme d'intolérance qui n'est pas acceptable
+3) Donc : il faut se méfier de la croyance en des vérités en morale.
 
 
 ---
