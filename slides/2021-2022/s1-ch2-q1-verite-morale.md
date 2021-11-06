@@ -202,8 +202,9 @@ le dégoût, l'indignation, la révolte, la culpabilité, la honte -->
 ---
 <!-- _class: sanspuces -->
 <style >
-section.sanspuces ol {list-style-type:none; margin-left:0em;}
+section.sanspuces ol {list-style-type:none; margin-left:-10px;}
 </style>
+### Argument
 1) Les valeurs ne sont pas des propriétés observables par la perception, ou démontrables par un raisonnement.
 2) Donc : on ne peut pas prouver objectivement la vérité d'un jugement de valeur.
 
