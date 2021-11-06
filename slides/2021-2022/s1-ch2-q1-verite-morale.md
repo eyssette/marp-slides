@@ -412,8 +412,9 @@ img {height:600px}
 ---
 <!-- _class: sanspuces -->
 
-1) Les jugements moraux ne sont pas de simples réactions subjectives.
-2) Il faut distinguer les jugements de valeur et les jugements de préférence.
+Les jugements moraux ne sont pas de simples réactions subjectives.
+
+1) Il faut distinguer les jugements de valeur et les jugements de préférence.
 
 ---
 <!-- _class: i1t0  -->
@@ -430,8 +431,9 @@ ol li:nth-of-type(2) img {width:445px!important; padding-left:210px; padding-rig
 ---
 <!-- _class: sanspuces -->
 
-1) Un jugement de préférence exprime un simple goût personnel.
-2) Un jugement de valeur prétend exprimer une vérité et on peut chercher à justifier ou critiquer ce jugement.
+Un jugement de préférence exprime un simple goût personnel.
+
+1) Un jugement de valeur prétend exprimer une vérité et on peut chercher à justifier ou critiquer ce jugement.
 
 ---
 <!-- _class: etape -->
@@ -459,12 +461,21 @@ Comment pourrait-on prétendre que torturer un enfant pour le plaisir est quelqu
 
 
 ---
-<!-- _class:  -->
+<!-- _class: fpp -->
+<style scoped>
+h3 {margin-bottom:0}
+</style>
 ### Exemples de raisonnements incorrects
 
-1) Les raisonnements qui se fondent sur des prémisses factuelles fausses
-2) Les raisonnements qui conduisent à des incohérences
-3) Les raisonnements non concluants : les sophismes de l'appel à la tradition, de l'appel à la nature, …
+1) Les raisonnements motivés par l'intérêt personnel plutôt que par des raisons proprement morales
+2) Les raisonnements qui se fondent sur des prémisses factuelles fausses
+
+<!-- <br><span data-marpit-fragment="2">Exemple: «  »</span> -->
+
+---
+<!-- _class:  -->
+3) Les raisonnements incohérents ou qui conduisent à des incohérences
+4) Les raisonnements non valides d'un point de vue logique
 
 
 
