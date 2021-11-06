@@ -333,3 +333,33 @@ h1 {font-size:3.2em}
 </style>
 # II – Le <br>réalisme<br>moral
 Deuxième partie
+
+
+
+<!-- 
+Exemples de sujets : 
+
+   - La morale n’est-elle qu’un ensemble de conventions ?
+    - La conscience morale n’est-elle que le résultat de l’éducation ?
+    - Une culture peut-elle être porteuse de valeurs universelles ?
+    - Peut-on juger objectivement la valeur d’une culture ?
+    - Puis-je sortir de ma culture ?
+    - Suis-je ce que ma culture a fait de moi ?
+
+    - La morale s'apprend-elle ?
+    - Peut-on s’accorder sur des vérités morales ?
+    - Faut-il se fier à ses sentiments pour agir moralement ?
+    - N’est-on moral que par intérêt ?
+    - La culture est-elle un obstacle à la barbarie ?
+    - Avons-nous des devoirs envers les animaux ?
+    - La technique peut-elle transformer la morale ?
+    - La connaissance d'autrui est-elle possible ?
+
+   - La conscience morale n’est-elle que le résultat de l’éducation ?
+   - La morale peut-elle se passer d’un fondement religieux ?
+   - Peut-on fonder la morale sur la recherche du bonheur ?
+   - Faire son devoir, est-ce renoncer à sa liberté ?
+   - En politique, a-t-on le droit de sacrifier la morale à l’efficacité ?
+   - Respecter autrui, est-ce respecter sa différence ?
+
+ -->
