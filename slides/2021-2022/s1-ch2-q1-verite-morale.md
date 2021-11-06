@@ -287,38 +287,20 @@ figure {margin-left:-3em!important}
 >« [C]hacun appelle barbarie ce qui ne fait pas partie de ses usages. Car il est vrai que nous n’avons pas d’autres critères pour la vérité et la raison que les exemples que nous observons et les idées et les usages qui ont cours dans le pays où nous vivons. C’est là que se trouve, pensons-nous, la religion parfaite, le gouvernement parfait, l’usage parfait et incomparable pour toutes choses. »
 >>**Montaigne**, _Essais_, I, 30
 
-<!-- 
-L'ethnocentrisme au sens fort se rapporte à une hiérarchisation des cultures qui repose sur une surestimation de sa culture (“nous, les civilisés”) et une infériorisation des autres cultures (“eux, les barbares”).
+---
+<!-- _class: i1t0 -->
 
-Croire en l'existence d'une vérité en morale, c'est souvent simplement croire en la supériorité de sa propre culture et ne pas accepter la diversité des croyances morales = l'ethnocentrisme au sens fort
-
-Croire en l'existence d'une vérité en morale peut nous conduire à une forme d'intolérance qui n'est pas acceptable
-
-Il faut se méfier de la croyance en l'existence d'une vérité morale 
-
-https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/relativisme-moral-culturel-2.svg  -->
-
+![](https://i.ibb.co/hfrqds7/obelix-ils-sont-fous-ces-romains.png)
 
 ---
 <!-- _class: i2t0 pp contain-->
 <style scoped>
-p{margin-left:10px!important; margin-right:10px!important}
-img{height:600px!important;}
+p{margin-left:10px!important; margin-right:10px!important; margin-top:-120px!important}
+img{height:700px!important;}
 </style>
-![](https://fr.web.img5.acsta.net/medias/nmedia/18/83/23/81/19672460.jpg)
+![Affiche du film Pocahontas](https://i.ibb.co/NCWynYD/pocahontas-t.jpg)
 
-![](https://fr.web.img4.acsta.net/medias/nmedia/18/35/52/37/18654088.jpg)
-
----
-<!-- _class: i2t0 pp contain-->
-<style scoped>
-p{margin-left:10px!important; margin-right:10px!important}
-img{height:600px!important;}
-</style>
-![](https://www.lecinemaestpolitique.fr/wp-content/uploads/2012/09/pocahontas00.jpg)
-
-![](https://img-4.linternaute.com/cip2YBDZkVvjU4a2tqiFIaf6Yhw=/1240x/a9bfc660898e44a19d2d36f463c9c955/ccmcms-linternaute/124775.jpg)
-
+![Affiche du film Avatar](https://i.ibb.co/s24pF7r/avatar-t.webp)
 
 
 ---
