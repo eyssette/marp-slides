@@ -78,6 +78,8 @@ Schopenhauer
 
 vs.
 
+<!-- Textes : https://docs.google.com/presentation/d/1gcoDJfp6Mj6GYOBzhRsaO9dqzREWVjnHbqKm5WAmDTQ/edit?usp=sharing -->
+
 ---
 <!-- _class:  -->
 ### Objectifs de ce cours

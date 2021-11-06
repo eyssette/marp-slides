@@ -124,6 +124,8 @@ Le stoïcisme d'Épictète
 
 vs.
 
+<!-- Textes : https://docs.google.com/presentation/d/1Jvs7uTexFzgP-wCuUYxRpHTqtgcASHxnYCCt9yhcRcI/edit?usp=sharing -->
+
 ---
 <!-- _class: fppppp -->
 <style scoped>

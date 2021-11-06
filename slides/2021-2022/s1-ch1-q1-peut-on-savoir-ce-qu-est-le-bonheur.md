@@ -79,7 +79,10 @@ vs.
 <!-- Distribuer les textes,
 Questions : 
 1/ D'après Kant, peut-on savoir ce qu'est le bonheur ?
-2/ D'après les sagesses antiques, peut-on savoir ce qu'est le bonheur ? -->
+2/ D'après les sagesses antiques, peut-on savoir ce qu'est le bonheur ?
+
+Textes : https://docs.google.com/presentation/d/1PIW6iC90f960AL5U-EVbKIkcbczR1AbqR9U2WDZi-KQ/edit?usp=sharing
+ -->
 
 
 

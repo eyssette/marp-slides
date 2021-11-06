@@ -103,6 +103,7 @@ John<br>Stuart Mill
 
 vs.
 
+<!-- Textes : https://docs.google.com/presentation/d/1wzsd4qpdOzgx7kR-WoUVf5-SerCetPMH4Ob0QXW6cro/edit?usp=sharing -->
 
 ---
 <!-- _class: partie -->
