@@ -461,7 +461,7 @@ Comment pourrait-on prétendre que torturer un enfant pour le plaisir est quelqu
 
 
 ---
-<!-- _class: fpp -->
+<!-- _class: fpppp -->
 <style scoped>
 h3 {margin-bottom:0}
 </style>
@@ -469,17 +469,42 @@ h3 {margin-bottom:0}
 
 1) Les raisonnements motivés par l'intérêt personnel plutôt que par des raisons proprement morales
 2) Les raisonnements qui se fondent sur des prémisses factuelles fausses
+3) Les raisonnements incohérents ou qui conduisent à des incohérences
+4) Les raisonnements non valides d'un point de vue logique : “tout le monde le fait”, “c'est naturel / ce n'est pas naturel” …
 
-<!-- <br><span data-marpit-fragment="2">Exemple: «  »</span> -->
+<!-- Exemples / éthique animale :
+1. « Manger de la viande, c'est trop bon ! »
+2. « Les animaux ne souffrent pas », « Les animaux sont bien traités » (https://www.l214.com/animaux/statistiques-pourcentage-elevage-intensif-viande-lait-oeufs/)
+3. « On s'en fiche de la souffrance des animaux » (alors qu'en fait on n'accepte pas d'autres formes de souffrances animales)
+4. « C'est la tradition », « C'est naturel »
+ -->
+
 
 ---
-<!-- _class:  -->
-3) Les raisonnements incohérents ou qui conduisent à des incohérences
-4) Les raisonnements non valides d'un point de vue logique
+<!-- _class: partie -->
+# Mise en pratique
 
+---
+<!-- _class: exercice application fmmmmm -->
+<style scoped>
+h3 {margin-bottom:15px}
+ul {margin-left:36px;}
+ul ul {font-size:100%; margin-left:-30px}
+span {font-size:90%;}
+</style>
 
+### Exercice d'application
 
-
+- Choisir un sujet ci-dessous :
+  - La morale est-elle affaire de sentiments ?
+  - Le bien et le mal sont-ils des conventions ?
+  - Les valeurs morales sont-elles le reflet de la société ?
+  - Peut-on juger objectivement la valeur d’une culture ?
+  - Puis-je sortir de ma culture ?
+  - Suis-je ce que ma culture a fait de moi ?
+  - Une culture peut-elle être porteuse de valeurs universelles ?
+  - Peut-on s'accorder sur des vérités morales?
+- Rédiger une sous-partie de dissertation <span>(autour de 300 mots)</span><br> :warning:  <span>il faut défendre une seule réponse, mobiliser le cours, et utiliser le modèle _ARES_</span>
 
 <!-- 
 Exemples de sujets : 
