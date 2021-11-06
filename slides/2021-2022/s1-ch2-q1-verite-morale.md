@@ -100,6 +100,9 @@ Le réalisme<br> moral
 
 vs.
 
+<!-- 
+Textes : 
+https://docs.google.com/presentation/d/1HSVM_TI0fbDRCkaYSCbOvPEtg2yLEkNf9trotkX9J9I/edit?usp=sharing -->
 
 ---
 <!-- _class:  -->
@@ -211,7 +214,7 @@ section.sanspuces ol {list-style-type:none; margin-left:-10px;}
 
 ---
 <!-- _class: souspartie -->
-## B. Le relativisme moral
+## B. Le relativisme culturel
 
 
 ---
@@ -236,7 +239,7 @@ Quels exemples peut-on donner de la relativité des croyances morales ?
 ---
 <!-- _class: definition -->
 ### Définition
-**L'ethnocentrisme**, au sens **faible**, désigne un biais cognitif : nous avons tendance à percevoir les choses à travers le filtre de notre propre culture
+**L'ethnocentrisme**, au **sens faible**, désigne un biais cognitif : nous avons tendance à percevoir les choses à travers le filtre de notre propre culture
 
 
 ---
@@ -260,7 +263,7 @@ figure {margin-left:-3em!important}
 >« Un jour Darius, ayant appelé près de lui des Grecs […] leur demanda pour quelle somme ils pourraient se résoudre à se nourrir des corps morts de leurs pères. Tous répondirent qu'ils ne le feraient jamais, quelque argent qu'on pût leur donner. Il fit venir ensuite les Calaties, peuples des Indes, qui mangent leurs pères ; il leur demanda […] quelle somme d'argent pourrait les engager à brûler leurs pères après leur mort. Les Indiens, se récriant à cette question, le prièrent de ne leur pas tenir un langage si odieux : tant la coutume a de force. »
 >>**Hérodote**, Histoire, III, 38
 
-<!-- endocannibalisme funéraire -->
+<!-- Exemple de l'endocannibalisme funéraire -->
 
 ---
 <!-- _class: etape -->
@@ -275,10 +278,12 @@ figure {margin-left:-3em!important}
 >>Claude **Lévi-Strauss**, _Race et histoire_
 
 
+<!-- On n'admet pas qu'on puisse penser et agir autrement que nous -->
+
 ---
 <!-- _class: definition -->
 ### Définition
-**L'ethnocentrisme** au sens **fort** désigne une hiérarchisation des cultures qui repose sur une survalorisation de sa culture (“nous, les civilisés”) et une infériorisation des autres cultures (“eux, les barbares”).
+**L'ethnocentrisme** au **sens fort** désigne une hiérarchisation des cultures qui repose sur une survalorisation de sa culture (“nous, les civilisés”) et une infériorisation des autres cultures (“eux, les barbares”).
 
 ---
 <!-- _class: citationC fp -->
@@ -294,7 +299,7 @@ figure {margin-left:-3em!important}
 ![](https://i.ibb.co/hfrqds7/obelix-ils-sont-fous-ces-romains.png)
 
 ---
-<!-- _class: i2t0 pp contain-->
+<!-- _class: i2t0 pp -->
 <style scoped>
 p{margin-left:10px!important; margin-right:10px!important; margin-top:-120px!important}
 img{height:700px!important;}
@@ -316,15 +321,14 @@ h3{margin-bottom:0em}
 
 
 ---
-<!-- _class: i1t1 pp vertical fmmmmmm-->
+<!-- _class: i1t0 pp -->
 <style scoped>
 img {height:570px;}
-p:nth-of-type(1){text-align:justify!important; margin-left:0px!important; margin-right:0px!important;}
 </style>
 
-En mai 1958 à Alger, des femmes européennes dévoilent publiquement des algériennes, recrutées par la contrainte pour participer à une manifestation de soutien à la France, et les forcent à retirer leur voile.
-
 ![Dévoilement des femmes à Alger en 1958 : une photographie](https://i.ibb.co/QmDhsH4/devoilement-femmes-Alger-1958.jpg)
+
+<!-- En mai 1958 à Alger, des femmes européennes dévoilent publiquement des algériennes, recrutées par la contrainte pour participer à une manifestation de soutien à la France, et les forcent à retirer leur voile. -->
 
 ---
 <!-- _class: partie -->
@@ -333,6 +337,136 @@ h1 {font-size:3.2em}
 </style>
 # II – Le <br>réalisme<br>moral
 Deuxième partie
+
+
+---
+<!-- _class: souspartie -->
+## A. Critique du relativisme culturel
+
+---
+<!-- _class:  -->
+<style>
+abbr {text-decoration:none; font-style:italic}
+</style>
+<style scoped>
+ol ul {margin-left:-1.5em!important}
+</style>
+### Deux objections principales
+
+1) Le <abbr title="relativisme culturel">RC</abbr> est contradictoire :
+    * Il affirme qu'il n'y a pas de vérités universelles en morale …
+    * … mais présuppose qu'il en existe au moins une : l'exigence de la tolérance envers la diversité culturelle.
+
+
+---
+<!-- _class: fppppppppp -->
+<style scoped>
+ol ul {margin-left:-1.5em!important}
+</style>
+2. Le <abbr title="relativisme culturel">RC</abbr> conduit à des conséquences problématiques : 
+    * La valorisation de la conformité avec les normes sociales dominantes
+    * L'acceptation de pratiques intolérables
+    * L'impossibilité de penser un progrès moral
+
+
+---
+<!-- _class: i1t1 vertical pp fp -->
+<style scoped>
+img {height:600px}
+</style>
+**Exemple 1 :** Les chats brûlés lors des feux de la St-Jean
+
+![](https://i.ibb.co/qNhPJ5j/chats-bucher-t.jpg)
+
+---
+<!-- _class: i1t1 vertical pp fp -->
+<style scoped>
+img {height:600px}
+</style>
+**Exemple 2 :** Les hyènes du Malawi
+
+[![](https://i.ibb.co/TWLz9b3/malawi-hyenes-t.jpg)](https://ladigitale.dev/digiplay/#/v/618694934e5c1)
+
+
+<!-- 
+Reportage complet :
+https://www.youtube.com/watch?v=YYxb90Musk8
+
+Dans certaines communautés du Malawi, malgré l’interdiction légale depuis 2003, subsiste encore un rituel de purification sexuelle (kusasa fumbi) : dès les premières règles d'une jeune fille, lors du décès d’un conjoint, ou pour construire une nouvelle maison, les familles malawites font appel à une “hyène” (un fisi). Ils paient un homme, dont c'est officieusement le “métier”, pour “purifier” le corps de leur fille ou de la femme par une relation sexuelle non consentie ni protégée.
+
+ -->
+
+---
+<!-- _class: i1t1 vertical pp fp -->
+<style scoped>
+img {height:600px}
+</style>
+**Exemple 3 :** Les mutilations génitales féminines (l'excision)
+
+![](https://i.ibb.co/CvfRjYz/fgm-t.png)
+
+---
+<!-- _class: souspartie fppp -->
+## B. Critique du subjectivisme moral
+
+---
+<!-- _class: sanspuces -->
+
+1) Les jugements moraux ne sont pas de simples réactions subjectives.
+2) Il faut distinguer les jugements de valeur et les jugements de préférence.
+
+---
+<!-- _class: i1t0  -->
+<style scoped>
+img {position:absolute!important; top:0; left:0; width:90%!important; display:block; height:640px; margin: 40px 50px; }
+ol li:nth-of-type(2) img {width:445px!important; padding-left:210px; padding-right:210px; background-color:rgba(0, 0, 0, 0.5);}
+</style>
+1) ![](https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Fried_spiders_Skuon_Cambodia.jpg/2880px-Fried_spiders_Skuon_Cambodia.jpg)
+2) ![](https://i.ibb.co/Z8L5nq5/eating-a-spider-t.jpg)
+
+
+<!-- Le dégoût ressenti face à l'idée de manger une tarentule frite ≠ le dégoût ressenti face à des actes de pédophilie -->
+
+---
+<!-- _class: sanspuces -->
+
+1) Un jugement de préférence exprime un simple goût personnel.
+2) Un jugement de valeur prétend exprimer une vérité et on peut chercher à justifier ou critiquer ce jugement.
+
+---
+<!-- _class: etape -->
+### 1/ Il est possible de faire appel à certaines intuitions morales
+
+---
+<!-- _class: citationC -->
+![bg left:37%](https://upload.wikimedia.org/wikipedia/commons/c/c7/Nicolas_Malebranche_-_Versailles_MV_2929.jpg)
+>« Je vois par exemple que 2 fois 2 font 4, et qu'il faut préférer son ami à son chien, et je suis certain qu'il n'y a point d'homme au monde qui ne le puisse voir aussi bien que moi. »
+>>**Malebranche**, _De la recherche de la vérité_, Xᵉ éclaircissement
+
+<!--
+Il y a des intuitions morales robustes
+Comment pourrait-on prétendre que torturer un enfant pour le plaisir est quelque chose de bien ? Il semble légitime de dire que la souffrance est _prima facie_ un mal, et que se soucier des autres est_prima facie_ un bien. Même si nos intuitions restent vagues, elles peuvent fournir une première approche du domaine de la morale (certains philosophes défendent ainsi une forme d’intuitionnisme moral). -->
+
+---
+<!-- _class: etape -->
+### 2/ Il est possible de raisonner en morale et de distinguer des bons et des mauvais raisonnements
+
+---
+<!-- _class: citationC fppp -->
+![bg left:37%](https://upload.wikimedia.org/wikipedia/commons/c/c7/Nicolas_Malebranche_-_Versailles_MV_2929.jpg)
+>« Lorsqu'un homme préfère la vie de son cheval à celle de son cocher, il a ses raisons, mais ce sont des raisons particulières dont tout homme raisonnable a horreur. Ce sont des raisons qui dans le fond ne sont pas raisonnables, parce qu'elles ne sont pas conformes à la souveraine raison, ou à la raison universelle que tous les hommes consultent. »
+>>**Malebranche**, _De la recherche de la vérité_, Xᵉ éclaircissement
+
+
+---
+<!-- _class:  -->
+### Exemples de raisonnements incorrects
+
+1) Les raisonnements qui se fondent sur des prémisses factuelles fausses
+2) Les raisonnements qui conduisent à des incohérences
+3) Les raisonnements non concluants : les sophismes de l'appel à la tradition, de l'appel à la nature, …
+
+
 
 
 
