@@ -135,15 +135,14 @@ Les autres peuvent constituer un obstacle
 Une source d'interférence, d'empêchements -->
 
 ---
-<!-- _class: citationC f -->
+<!-- _class: citationC  -->
 <style scoped>
-blockquote blockquote{margin-top:-0.5em}
 figure {margin-left:-5em!important}
 </style>
 
-![bg left:35%](https://upload.wikimedia.org/wikipedia/commons/d/d8/Thomas_Hobbes_%28portrait%29.jpg)
+![bg left:37%](https://upload.wikimedia.org/wikipedia/commons/d/d8/Thomas_Hobbes_%28portrait%29.jpg)
 
->« [N]ous trouvons dans la nature humaine trois principales causes de querelle : […] la rivalité ; […] la défiance ; et […] la fierté. La première fait que les hommes attaquent pour le gain, la seconde pour la sécurité, et la troisième pour la réputation. Dans le premier cas, ils usent de violence pour se rendre maîtres de la personne d'autres hommes, femmes, enfants, et du bétail ; dans le second cas, pour les défendre ; et dans le troisième cas, pour des baga­telles, comme un mot, un sourire, une opinion différente, et tout autre signe de sous-estimation »
+>« [N]ous trouvons dans la nature humaine trois principales causes de querelle : premièrement, la rivalité ; deuxièmement, la défiance ; et troisièmement la fierté. »
 >>Thomas **Hobbes**, _Léviathan_
 
 <!-- Une anthropologie pessimiste : les causes de l'état de guerre sont dans la nature humaine (et non dans des circonstances extérieures, contingentes).
@@ -155,15 +154,15 @@ La racine de l'état de guerre tient à la nature même du désir, qui pour Hobb
  -->
 
 ---
-<!-- _class: citationC fppp -->
+<!-- _class: citationC  -->
 <style scoped>
 blockquote blockquote{margin-top:-0.5em}
 figure {margin-left:-5em!important}
 </style>
 
-![bg left:35%](https://upload.wikimedia.org/wikipedia/commons/d/d8/Thomas_Hobbes_%28portrait%29.jpg)
+![bg left:37%](https://upload.wikimedia.org/wikipedia/commons/d/d8/Thomas_Hobbes_%28portrait%29.jpg)
 
->« Par là, il est manifeste que pendant le temps où les hommes vivent sans un pouvoir commun qui les maintienne tous dans la peur, ils sont dans cette condition qu'on appelle guerre, et cette guerre est telle qu'elle est celle de tout homme contre tout homme. […] [A]ussi longtemps que chaque homme détient ce droit de faire tout ce qui lui plaît, tous les hommes sont dans l'état de guerre. »
+>« Par là, il est manifeste que pendant le temps où les hommes vivent sans un pouvoir commun […] et  aussi longtemps que chaque homme détient ce droit de faire tout ce qui lui plaît, tous les hommes sont dans l'état de guerre. »
 >>Thomas **Hobbes**, _Léviathan_
 
 <!-- L’état de guerre est un état fictif, mais qui représente une réalité possible (et en partie vécue par Hobbes) : celle d’une situation anarchique
@@ -177,15 +176,15 @@ Comparaison avec l’état de nature selon Rousseau.
  -->
 
 ---
-<!-- _class: citationC fmmm -->
+<!-- _class: citationC f -->
 <style scoped>
 blockquote blockquote{margin-top:-0.5em}
 figure {margin-left:-5em!important}
 </style>
 
-![bg left:35%](https://upload.wikimedia.org/wikipedia/commons/d/d8/Thomas_Hobbes_%28portrait%29.jpg)
+![bg left:37%](https://upload.wikimedia.org/wikipedia/commons/d/d8/Thomas_Hobbes_%28portrait%29.jpg)
 
->« La seule façon d'ériger un […] pouvoir commun, qui puisse être capable de défendre les hommes […] des torts qu'ils peuvent se faire les uns aux autres, et par là assurer leur sécurité […] est de rassembler tout leur pouvoir et toute leur force sur un seul homme, ou sur une seule assemblée d'hommes, qui puisse réduire toutes leurs volontés, à la majorité des voix, à une seule volonté […], de telle manière que c'est comme si chacun devait dire à chacun : _J'autorise cet homme, ou cette assemblée d'hommes, j'abandonne mon droit de me gouverner à cet homme, ou à cette assemblée, à cette condition que tu lui abandonnes ton droit, et autorise toutes ses actions de la même manière_. »
+>« La seule façon d'ériger un […] pouvoir commun, qui puisse être capable de défendre les hommes […] des torts qu'ils peuvent se faire les uns aux autres, et par là assurer leur sécurité […] est […] réduire toutes leurs volontés […] à une seule volonté […], de telle manière que c'est comme si chacun devait dire à chacun : _J'autorise cet homme, ou cette assemblée d'hommes, j'abandonne mon droit de me gouverner à cet homme, ou à cette assemblée, à cette condition que tu lui abandonnes ton droit, et autorise toutes ses actions de la même manière_. »
 >>Thomas **Hobbes**, _Léviathan_
 
 <!-- À l’état de nature, la liberté est illimitée en droit, mais de fait limitée par la liberté des autres.

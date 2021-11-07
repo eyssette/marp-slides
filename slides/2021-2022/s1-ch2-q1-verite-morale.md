@@ -13,6 +13,9 @@ h1 {margin:0 70px}
 Cédric Eyssette (2021-2022)
 http://eyssette.github.io
 
+<!-- Pour l'année prochaine : distinguer 2 questions : 
+- Y a-t-il des vérités en morale ? (Hume vs. Malebranche)
+- La morale est-elle relative ? (Mettre seulement textes de Lévi-Strauss et Montaigne) -->
 
 ---
 <!-- _class: colonnes pm -->
@@ -472,11 +475,13 @@ h3 {margin-bottom:0}
 3) Les raisonnements incohérents ou qui conduisent à des incohérences
 4) Les raisonnements non valides d'un point de vue logique : “tout le monde le fait”, “c'est naturel / ce n'est pas naturel” …
 
-<!-- Exemples / éthique animale :
+<!-- Exemples / éthique animale ?
 1. « Manger de la viande, c'est trop bon ! »
 2. « Les animaux ne souffrent pas », « Les animaux sont bien traités » (https://www.l214.com/animaux/statistiques-pourcentage-elevage-intensif-viande-lait-oeufs/)
 3. « On s'en fiche de la souffrance des animaux » (alors qu'en fait on n'accepte pas d'autres formes de souffrances animales)
 4. « C'est la tradition », « C'est naturel »
+
+Pour l'année prochaine : prendre plus de temps sur ce point ?
  -->
 
 
