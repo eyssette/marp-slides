@@ -273,3 +273,26 @@ blockquote blockquote{margin-top:-0.5em}
 
 >« Marx oppose une critique claire et incisive à cette façon d'entendre la liberté […]. Il est tout à fait possible, selon lui […], de concevoir une forme du rapport entre les hommes où la liberté de chacun ne serait pas la limite, mais au contraire la réalisation de la liberté de l'autre, la condition positive pour le développement de la liberté de tous. […] Le libre développement d'un individu ne devient une limite ou un obstacle au développement des autres individus que lorsqu'il se réalise dans le cadre de la loi de l'intérêt privé et de la propriété privée […]. Cela n'est plus vrai si l'on dépasse l'enfermement de l'individu dans son intérêt privé : si la liberté est la capacité de contrôler et de diriger rationnellement sa propre vie, d'objectiver les capacités humaines et de développer les jouissances humaines. »
 >>Stefano **Petrucciani**, « Marx et la critique de l'égalité politique », _Actuel Marx_, vol. 8, n°2
+
+---
+<!-- _class: partie -->
+# Mise en pratique
+
+---
+<!-- _class: exercice application fmmmm -->
+<style scoped>
+h3 {margin-bottom:10px}
+ul ul {font-size:100%; margin-left:-40px}
+span {font-size:90%}
+</style>
+
+### Exercice d'application
+
+- Choisir un sujet ci-dessous :
+  - Ai-je intérêt à la liberté d'autrui ?
+  - Ma liberté s'arrête-t-elle là où commence celle des autres ?
+  - Affirme-t-on sa liberté en refusant toute contrainte ?
+  - La liberté exclut-elle toute limite ?
+  - La liberté de chacun a-t-elle pour condition la liberté de tous ?
+  - La vie sociale est-elle toujours conflictuelle ?
+- Rédiger une sous-partie de dissertation <span>(200 mots minimum)</span> : :warning: <span>il faut défendre une seule réponse, mobiliser le cours (le stoïcisme d'Épictète ou Platon), et utiliser le modèle ARES</span>
