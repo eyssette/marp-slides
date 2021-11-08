@@ -151,7 +151,23 @@ La rivalité, la défiance, la fierté : 3 causes qui montrent que
 L'état de guerre n'est pas un état de déferlement sauvage des pulsions (l'image du loup, la comparaison avec Freud).
 
 La racine de l'état de guerre tient à la nature même du désir, qui pour Hobbes est une forme de désir de puissance.
- -->
+
+Le désir de puissance des autres est un obstacle à mon propre désir de puissance.
+L'altérité est pensée sur le mode de l'adversité
+
+Le conflit tient à la nature des être humains
+
+Rivalité : incompatibilité des désirs
+Si l'un réalise son désir, cela empêche l'autre de réaliser le sien (il n'est pas possible de réaliser tous les deux notre désir)
+rivalité en cas de même désir pour une même chose (en cas de bien rival : bien exclusif ≠ bien non-rival, voire anti-rival)
+rivalité en cas de désir différents incompatibles (je désire faire la fête, mon voisin désire se reposer …)
+
+Défiance : anticipation de l'avenir
+conduit à s'approprier certains biens (par crainte que l'autre ne se les approprie)
+
+Fierté
+On ne supporte pas la supériorité des autres
+-->
 
 ---
 <!-- _class: citationC  -->
