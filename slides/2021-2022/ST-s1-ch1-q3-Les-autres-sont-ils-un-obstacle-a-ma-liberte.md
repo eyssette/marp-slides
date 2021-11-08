@@ -239,12 +239,6 @@ https://english-with-fun.org/tv-show/lost/season/1/episode/5
 
 
 ---
-<!-- _class: i1t1 vertical -->
-[![](https://static.hitek.fr/img/actualite/2018/02/21/fb_lost-1.webp)](https://ladigitale.dev/digiplay/#/v/61710c4b40779)
-
-La série _LOST_
-
----
 <!-- _class: partie -->
 # II – Marx <!-- fit -->
 Deuxième partie
