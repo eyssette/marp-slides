@@ -624,7 +624,7 @@ ol ol ul {margin-left:-30px}
 	* Faire des QCM en philosophie ? [:link:](https://web.archive.org/web/20200616164828/http://acireph.org:80/spip.php?article194) [:link:](https://www.facebook.com/groups/197192470301462/search/?q=qcm) [:link:](https://docs.google.com/document/d/1DCwbLprCLyC4V_e9_Uk7BXcRhQvv4VV91up8mzOx_Sw/edit?usp=sharing)
 	* Utiliser un système de correction automatique de QCM [:link:](https://www.quizscan.org/fr/#/) [:link:](https://www.ticeman.fr/lecoutelas/?p=4718) [:link:](https://play.google.com/store/apps/details?id=com.ekodroid.omrevaluator&hl=en_US&gl=US)
 	* Faire des QCM avec Pronote [:link:](https://www.index-education.com/fr/tutoriels-video-pronote-1795-29-donner-un-qcm-a-faire-depuis-le-cahier-de-textes-espace-professeurs.php) ou avec l'ENT [:link:](https://www.skolengo.com/fr/blog/exerciseur-skolengo), ou avec Google Forms [:link:](https://support.google.com/docs/answer/7032287?hl=fr)
-	* Intégrer des QCM dans le cours pour tester la compréhension du cours : en les intégrant dans un diaporama, avec réponses à l'oral, via des posts-it repositionnables [:link:](https://bidouillesetmathscollege.blogspot.com/2016/10/qcm-en-classe.html), par téléphone [:link:](https://digistorm.app/) ou papier codé [:link:](https://pi.ac3j.fr/plickers-au-college/) [:link:](https://qcmcam.net/)
+	* Intégrer des QCM dans le cours pour tester la compréhension du cours : en les intégrant dans un diaporama, avec réponses à l'oral, via des posts-it repositionnables [:link:](https://bidouillesetmathscollege.blogspot.com/2016/10/qcm-en-classe.html), par téléphone [:link:](https://digistorm.app/) ou papier codé [:link:](https://pi.ac3j.fr/plickers-au-college/) [:link:](https://qcmcam.net/), avec un boîtier de vote [:link:](https://www.reseau-canope.fr/agence-des-usages/les-boitiers-de-vote-electronique-en-salle-de-cours.html)
 
 
 
@@ -638,8 +638,8 @@ h1{font-size:190%; padding-left:0px; padding-right:0px}
 ---
 <!-- _class: fppppp -->
 Le parcours Magistère : “La philosophie et le numérique à l’adresse des professeurs de philosophie” [:link:](https://magistere.education.fr/ac-grenoble/course/view.php?id=15059)
-La liste de Céline Tarrade et Fabrice Gallet [:link:](https://www.genial.ly/View/Index/59f270324fb71a0bfca22650#page-1)
 Liste de François Jourde [:link:](https://www.mindmeister.com/fr/8940345/outils-usuels)
+La liste de Céline Tarrade et Fabrice Gallet [:link:](https://www.genial.ly/View/Index/59f270324fb71a0bfca22650#page-1)
 Liste de l'académie de Versailles [:link:](https://www.mindmeister.com/fr/557369575/outils-num-riques-pour-projets-d-l-ves-http-acver-fr-outilsnum)
 Liste du Moodle Lab [:link:](https://www.mindmeister.com/fr/78905114/enrichir-mon-cours-avec-les-outils-du-web)
 Liste du portail Skoden [:link:](https://outils-20-en-francais.zeef.com/fr/portail.skoden)
