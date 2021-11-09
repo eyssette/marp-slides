@@ -143,7 +143,7 @@ ol ul ul {font-size:90%; padding-top:5px}
 	* Utiliser un dictionnaire intégré [:link:](https://chrome.google.com/webstore/detail/google-dictionary-by-goog/mgijmajocgfcbeboacabfgobmjgjcoja) [:link:](https://addons.mozilla.org/en-US/firefox/addon/dictionary-anyvhere/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)
 	* Utiliser un logiciel pour prendre des notes de manière structurée [:link:](http://dynalist.io) [:link:](https://workflowy.com/)
 	* Prendre des notes sur une vidéo, ou faire de la transcription
-	* Prendre des notes dans de simples fichiers textes, en mettant un maximum d'informations dans le titre lui-même pour pouvoir facilement retrouver ses notes sur un thème, un auteur …
+	* Prendre des notes dans de simples fichiers textes en markdown [:link:](https://obsidian.md/), en mettant un maximum d'informations dans le titre lui-même pour pouvoir facilement retrouver ses notes sur un thème, un auteur …
 
 ---
 <!-- _class: fpp -->	
