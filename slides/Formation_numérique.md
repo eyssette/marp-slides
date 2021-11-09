@@ -636,7 +636,8 @@ h1{font-size:190%; padding-left:0px; padding-right:0px}
 # D'autres outils possibles
 
 ---
-<!-- _class:  -->
+<!-- _class: fppppp -->
+Le parcours Magistère : “La philosophie et le numérique à l’adresse des professeurs de philosophie” [:link:](https://magistere.education.fr/ac-grenoble/course/view.php?id=15059)
 La liste de Céline Tarrade et Fabrice Gallet [:link:](https://www.genial.ly/View/Index/59f270324fb71a0bfca22650#page-1)
 Liste de François Jourde [:link:](https://www.mindmeister.com/fr/8940345/outils-usuels)
 Liste de l'académie de Versailles [:link:](https://www.mindmeister.com/fr/557369575/outils-num-riques-pour-projets-d-l-ves-http-acver-fr-outilsnum)
