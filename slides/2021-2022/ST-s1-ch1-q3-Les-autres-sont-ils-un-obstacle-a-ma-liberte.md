@@ -145,7 +145,36 @@ figure {margin-left:-5em!important}
 >« [N]ous trouvons dans la nature humaine trois principales causes de querelle : premièrement, la rivalité ; deuxièmement, la défiance ; et troisièmement la fierté. »
 >>Thomas **Hobbes**, _Léviathan_
 
-<!-- Une anthropologie pessimiste : les causes de l'état de guerre sont dans la nature humaine (et non dans des circonstances extérieures, contingentes).
+<!-- 
+
+Les êtres humains pour Hobbes ont tendance à entrer en conflit les uns avec les autres.
+Cette tendance est inscrite dans la nature de l'être humain. Elle ne dépend pas essentiellement de circonstances extérieures.
+On a ici une anthropologie (= discours sur l'être humain) qui se veut réaliste et non pas idéaliste. Hobbes prétend décrire les êtres humains tels qu'ils sont et non pas tels qu'on aimerait qu'ils soient.
+
+Il y a 3 causes principales de conflit :
+1/ La rivalité
+= une situation d'incompatibilité des désirs
+= la satisfaction du désir de l'un empêche la satisfaction du désir de l'autre
+(cf. en économie : distinction des biens rivaux et des biens non-rivaux)
+
+La rivalité est principalement matérielle et économique
+= une lutte pour la possession et l'usage de certains biens.
+
+2/ La défiance = méfiance
+On se représente autrui comme un ennemi potentiel, un rival possible.
+= Une anticipation fondée sur l'idée que les autres cherchent à satisfaire leurs propres intérêts
+=> pas de confiance possible
+
+3/ La fierté
+Le fondement de la fierté c'est une représentation de soi, de son identité, de ses capacités.
+Les autres peuvent porter atteinte à cette représentation que j'ai de moi-même. Nous pouvons alors entrer en conflit pour un rien : un sourire, un regard … (nous sommes par nature sensibles au jugement des autres).
+Il s'agit ici d'une lutte symbolique et non pas matérielle.
+
+Au fond, les êtres humains sont animés par un désir de puissance qui les conduit à entrer en conflit les uns avec les autres.
+
+----
+
+Une anthropologie pessimiste : les causes de l'état de guerre sont dans la nature humaine (et non dans des circonstances extérieures, contingentes).
 
 La rivalité, la défiance, la fierté : 3 causes qui montrent que 
 L'état de guerre n'est pas un état de déferlement sauvage des pulsions (l'image du loup, la comparaison avec Freud).
@@ -153,9 +182,7 @@ L'état de guerre n'est pas un état de déferlement sauvage des pulsions (l'ima
 La racine de l'état de guerre tient à la nature même du désir, qui pour Hobbes est une forme de désir de puissance.
 
 Le désir de puissance des autres est un obstacle à mon propre désir de puissance.
-L'altérité est pensée sur le mode de l'adversité
-
-Le conflit tient à la nature des être humains
+"L'altérité est pensée sur le mode de l'adversité"
 
 Rivalité : incompatibilité des désirs
 Si l'un réalise son désir, cela empêche l'autre de réaliser le sien (il n'est pas possible de réaliser tous les deux notre désir)
@@ -181,7 +208,13 @@ figure {margin-left:-5em!important}
 >« Par là, il est manifeste que pendant le temps où les hommes vivent sans un pouvoir commun […] et  aussi longtemps que chaque homme détient ce droit de faire tout ce qui lui plaît, tous les hommes sont dans l'état de guerre. »
 >>Thomas **Hobbes**, _Léviathan_
 
-<!-- L’état de guerre est un état fictif, mais qui représente une réalité possible (et en partie vécue par Hobbes) : celle d’une situation anarchique
+<!-- 
+Par nature les êtres humains sont dans un état de guerre.
+Pour Hobbes : l'anarchie comme absence de pouvoir supérieur conduit à l'anarchie 
+
+
+----
+L’état de guerre est un état fictif, mais qui représente une réalité possible (et en partie vécue par Hobbes) : celle d’une situation anarchique
 Pour Hobbes, l’anarchie, comme absence d’ordre, s’explique par l’anarchie, comme absence de pouvoir supérieur : il ne peut y avoir d’ordre social (plan horizontal des relations entre individus) sans une régulation par un État (plan vertical de la relation entre l’État et les individus).
 Hobbes s’oppose à l’idée d’autorégulation, ou d’harmonie naturelle qu’on retrouve plus tard : chez Mandeville (La Fable des abeilles) et Adam Smith (l’image de la main invisible).
 Hobbes s’oppose à l’idée que le conflit, la concurrence seraient source de progrès. Contra : cf. Kant.

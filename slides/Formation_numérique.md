@@ -427,8 +427,8 @@ ol ul {margin-left:-30px;}
 	* Vidéoprojeter le texte et annoter le texte au tableau : penser à imprimer un texte pour les élèves avec la même mise en page)
 	* Utiliser une caméra de document (un “visualiseur”) pour projeter le travail que l'on accomplit sur le texte [:link:](https://profjourde.wordpress.com/2015/06/02/un-visualiseur-et-un-ideateur-pour-les-gestes-du-travail-intellectuel/)
 	* Rendre le texte cliquable et interactif [:link:](https://www.genial.ly/)
-	* Produire, éventuellement avec les élèves, un texte ou un livre enrichi [:link:]()
-	* Discuter un texte ou une œuvre en ligne [:link:]()
+	* Produire, éventuellement avec les élèves, un texte ou un livre enrichi 
+	* Discuter un texte ou une œuvre en ligne
 
 ---
 <!-- _class: fp -->
@@ -513,7 +513,7 @@ ol ul li {margin-left:-40px}
 		* Exemple : les usages de la webradio par Guillaume Lequien [:link:](https://www.atelierphilo.fr/category/travaux/webradio/)
 2) Faire faire aux élèves une production audio
 	* Faire produire une analyse, une réflexion enregistrée via l'ENT, via leur propre téléphone (BYOD) ou via un outil en ligne (mot clé : “online recorder”)
-	* Récupérer les fichiers audio : via l'ENT, ou une autre solution [:link:]() [:link:]() [:link:]()
+	* Récupérer les fichiers audio : via l'ENT, ou une autre solution 
 
 
 ---
@@ -529,8 +529,8 @@ ol ul li {margin-left:-40px}
 ol ul {margin-left:-30px}
 </style>
 1) Faire travailler les élèves sur des sites
-	* Utiliser un raccourcisseur d’URL [:link:](https://bitly.com/)
-	* Utiliser des QR-Codes [:link:](https://fr.qr-code-generator.com/)
+	* Utiliser un raccourcisseur d’URL [:link:](https://bitly.com/) [:link:](https://ladigitale.dev/digilink/)
+	* Utiliser des QR-Codes [:link:](https://fr.qr-code-generator.com/) [:link:](https://ladigitale.dev/digicode/)
 	* Utiliser un outil de bookmarking en ligne [:link:](https://www.diigo.com/)
 2) Créer un site
 	* Utiliser l'ENT
@@ -542,7 +542,7 @@ ol ul {margin-left:-30px}
 <!-- _class: etape fppp -->
 ### f) Faire travailler les élèves sur des exercices
 
-1) Faire ou faire des exercices en ligne (pour vérifier la compréhension, pour des révisions) : avec LearningApps [:link:](https://learningapps.org/), la QuiZinière [:link:](https://www.quiziniere.com/), sur l'ENT avec H5P [:link:](https://www.skolengo.com/fr/blog/exerciseur-skolengo), ou via Pronote [:link:](https://www.index-education.com/fr/tutoriels-video-pronote-1795-29-donner-un-qcm-a-faire-depuis-le-cahier-de-textes-espace-professeurs.php)
+1) Faire ou faire des exercices en ligne (pour vérifier la compréhension, pour des révisions) : avec LearningApps [:link:](https://learningapps.org/), avec Digistorm [:link:](https://digistorm.app/), avec la QuiZinière [:link:](https://www.quiziniere.com/), avec H5P sur l'ENT [:link:](https://www.skolengo.com/fr/blog/exerciseur-skolengo) ou via Digiquiz [:link:](https://ladigitale.dev/digiquiz/), avec Pronote [:link:](https://www.index-education.com/fr/tutoriels-video-pronote-1795-29-donner-un-qcm-a-faire-depuis-le-cahier-de-textes-espace-professeurs.php)
 2) Créer un parcours pédagogique en ligne complet avec des exercices auto-correctifs [:link:](https://sites.google.com/view/eyssette2021tg/s%C3%A9quence-3-%C3%A0-distance/chapitre-1-quest-ce-qui-fait-la-valeur-dune-%C5%93uvre-dart?authuser=0)
 
 ---
