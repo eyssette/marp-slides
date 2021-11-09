@@ -130,7 +130,7 @@ ol ul ul {font-size:90%; padding-top:5px}
 		* Recherche sur des sites d'introduction à la philosophie [:link:](https://cse.google.com/cse?cx=005941353090358050370:-rxleq99qm0)
 		* Recherche d'analyses de films [:link:](https://cse.google.com/cse?cx=013022458855246154026:kvowwanvdza)
 		* Recherche sur des thèmes d'autres disciplines : SES [:link:](https://cse.google.com/cse?cx=000159438708945803198:c670n89xtv8) ; Mathématiques, physique, chimie, biologie [:link:](https://cse.google.com/cse?cx=000159438708945803198:nhzecq54fyq)
-	* Suivre l’actualité de certains sites [:link:](http://eduscol.education.fr/numerique/dossier/competences/rechercher/guides/flux) [:link:](https://www.netvibes.com/eyssette#Blogs_francophones)
+	* Suivre l’actualité de certains sites [:link:](https://www.commafeed.com/#/welcome) [:link:](https://raw.githubusercontent.com/eyssette/ressources-generales-enseignement-philosophie/master/feeds_opml.xml)
 	* Utiliser des encyclopédies en ligne [:link:](http://plato.stanford.edu) [:link:](http://www.iep.utm.edu/) [:link:](http://encyclo-philo.fr/)
 	* Trouver des cours de niveau universitaire en ligne (mots clés : “syllabus”, “mooc”, “open course”) [:link:](https://mediaserver.unige.ch/search/philosophie/permissions:public) [:link:](https://www.fun-mooc.fr/) [:link:](https://www.coursera.org/) [:link:](https://ocw.mit.edu/courses/find-by-topic/)
 
@@ -334,7 +334,7 @@ ol ul {margin-left:-1.5em!important}
 	* Utiliser un logiciel de diaporama moins ordinaire : Prezi [:link:](https://prezi.com/view/xgeLGy31TnFlmQ7YuyuD/), Slides [:link:](https://slides.com/)
 	* Écrire son diaporama en Markdown [:link:](https://eyssette.github.io/marp-slides/)
 	* Faire une capsule vidéo à partir d'un diaporama [:link:](https://tube.ac-lyon.fr/videos/watch/a22c8512-2604-4ea9-8e19-d39d53109b6e)
-	* Faire du montage vidéo [🔗](https://www.openshot.org/fr/)
+	* Faire du montage vidéo [:link:](https://www.openshot.org/fr/)
 
 <!-- Sway, Genially -->
 
@@ -548,7 +548,7 @@ ol ul {margin-left:-30px}
 <!-- _class: etape fp -->
 ### f) Faire travailler les élèves sur des exercices
 
-1) Faire ou faire des exercices en ligne (pour vérifier la compréhension, pour des révisions) : avec LearningApps [:link:](https://learningapps.org/), avec Digistorm [:link:](https://digistorm.app/), avec la QuiZinière [:link:](https://www.quiziniere.com/), avec H5P sur l'ENT [:link:](https://www.skolengo.com/fr/blog/exerciseur-skolengo) ou via Digiquiz [:link:](https://ladigitale.dev/digiquiz/), avec Pronote [:link:](https://www.index-education.com/fr/tutoriels-video-pronote-1795-29-donner-un-qcm-a-faire-depuis-le-cahier-de-textes-espace-professeurs.php), avec GoogleForms [🔗](https://support.google.com/docs/answer/7032287?hl=fr)
+1) Faire ou faire des exercices en ligne (pour vérifier la compréhension, pour des révisions) : avec LearningApps [:link:](https://learningapps.org/), avec Digistorm [:link:](https://digistorm.app/), avec la QuiZinière [:link:](https://www.quiziniere.com/), avec H5P sur l'ENT [:link:](https://www.skolengo.com/fr/blog/exerciseur-skolengo) ou via Digiquiz [:link:](https://ladigitale.dev/digiquiz/), avec Pronote [:link:](https://www.index-education.com/fr/tutoriels-video-pronote-1795-29-donner-un-qcm-a-faire-depuis-le-cahier-de-textes-espace-professeurs.php), avec GoogleForms [:link:](https://support.google.com/docs/answer/7032287?hl=fr)
 2) Créer un parcours pédagogique en ligne complet avec des exercices auto-correctifs [:link:](https://sites.google.com/view/eyssette2021tg/s%C3%A9quence-3-%C3%A0-distance/chapitre-1-quest-ce-qui-fait-la-valeur-dune-%C5%93uvre-dart?authuser=0)
 
 ---
