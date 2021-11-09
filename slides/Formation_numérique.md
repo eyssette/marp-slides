@@ -139,7 +139,7 @@ ol ul ul {font-size:90%; padding-top:5px}
 
 2. Lire et prendre des notes
 	* Lire des livres au format _ePub_ [:link:](https://play.google.com/books/ebooks)
-	* Lire et annoter des articles en PDF
+	* Lire et annoter des articles en PDF [:link:](https://pdf.online/pdf-annotate)
 	* Utiliser un dictionnaire intégré [:link:](https://chrome.google.com/webstore/detail/google-dictionary-by-goog/mgijmajocgfcbeboacabfgobmjgjcoja) [:link:](https://addons.mozilla.org/en-US/firefox/addon/dictionary-anyvhere/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)
 	* Utiliser un logiciel pour prendre des notes de manière structurée [:link:](http://dynalist.io) [:link:](https://workflowy.com/)
 	* Prendre des notes sur une vidéo, ou faire de la transcription
@@ -180,7 +180,7 @@ ol ul {margin-left:-20px;}
 	* D'autres groupes plus spécifiques : pour la DNL [:link:](https://www.facebook.com/groups/enseigner.philosophie.DNL), pour la préparation de l'agrégation interne [:link:](https://www.facebook.com/groups/1032833423770790), pour l'enseignement de l'option Cinéma Audiovisuel [:link:](https://www.facebook.com/groups/2721744724714418/), pour élargir le corpus et inclure davantage de textes de femmes philosophes [:link:](https://www.facebook.com/groups/334838114318350)  …
 	* Sur twitter : utiliser le tag #TeamPhilo [:link:](https://twitter.com/search?q=%23TeamPhilo&src=saved_search_click&f=live), s'abonner à des comptes spécifiques et faire une recherche seulement sur ces comptes
 2) Utiliser des outils collaboratifs
-	* Créer un espace de discussion en ligne [:link:](https://framateam.org)
+	* Créer un espace de discussion en ligne [:link:](https://framateam.org) [:link:](https://speakup.info/)
 	* Travailler sur des dossiers collaboratifs : _Tribu_ [:link:](https://tribu.phm.education.gouv.fr/), _Drive_ [:link:](https://drive.google.com/drive/my-drive)
 	* Trouver une date pour une réunion, en mettant automatiquement en évidence celles qui conviennent à le plus de personnes [:link:](https://framadate.org/)
 
@@ -317,7 +317,11 @@ ol {display:none;}
 
 
 ---
-<!-- _class: fmmmm -->
+<!-- _class: fmmmmm -->
+<style scoped>
+ol  {margin-left:0.5em!important}
+ol ul {margin-left:-1.5em!important}
+</style>
 2) Usages ordinaires
 	* Utiliser un vidéoprojecteur : en HDMI, en VGA, savoir utiliser un adaptateur si nécessaire
 	* Faire attention à la taille des polices, à la mise en page [:link:](https://guy.pastre.org/?p=2405)
@@ -330,6 +334,7 @@ ol {display:none;}
 	* Utiliser un logiciel de diaporama moins ordinaire : Prezi [:link:](https://prezi.com/view/xgeLGy31TnFlmQ7YuyuD/), Slides [:link:](https://slides.com/)
 	* Écrire son diaporama en Markdown [:link:](https://eyssette.github.io/marp-slides/)
 	* Faire une capsule vidéo à partir d'un diaporama [:link:](https://tube.ac-lyon.fr/videos/watch/a22c8512-2604-4ea9-8e19-d39d53109b6e)
+	* Faire du montage vidéo [🔗](https://www.openshot.org/fr/)
 
 <!-- Sway, Genially -->
 
@@ -428,19 +433,20 @@ ol ul {margin-left:-30px;}
 	* Utiliser une caméra de document (un “visualiseur”) pour projeter le travail que l'on accomplit sur le texte [:link:](https://profjourde.wordpress.com/2015/06/02/un-visualiseur-et-un-ideateur-pour-les-gestes-du-travail-intellectuel/)
 	* Rendre le texte cliquable et interactif [:link:](https://www.genial.ly/)
 	* Produire, éventuellement avec les élèves, un texte ou un livre enrichi 
-	* Discuter un texte ou une œuvre en ligne
+	* Discuter un texte ou une œuvre en ligne [:link:](https://dialoguea.fr/forum/)
 
 ---
-<!-- _class: fp -->
+<!-- _class: fm -->
 <style scoped>
 ol ul {margin-left:-30px;}
 </style>
 3) Faire écrire un texte aux élèves
-	* Utiliser un canevas que les élèves doivent remplir à l'écrit (exemple de canevas pour la problématisation : [:link:](https://docs.google.com/presentation/d/11dQsRgOJ7z2o8lnyJOm9mlrRI314HPCT1ROuEwst3FA/edit?usp=sharing)), ou un modèle de document que les élèves doivent utiliser pour une production numérique
+	* Utiliser un canevas que les élèves doivent remplir à l'écrit (exemple pour la problématisation : [:link:](https://docs.google.com/presentation/d/11dQsRgOJ7z2o8lnyJOm9mlrRI314HPCT1ROuEwst3FA/edit?usp=sharing)), ou un modèle de document que les élèves doivent utiliser pour une production numérique
 	* Utiliser des outils de traitement de texte collaboratifs [:link:](https://apps.education.fr/applications/etherpad/) [:link:](https://apps.education.fr/applications/codi-md) 
 	* Faire écrire un texte interactif [:link:](https://www.inklewriter.com/) [:link:](https://twinery.org/)
 	* Récupérer les textes des élèves : utiliser l'ENT de préférence [:link:](https://dane.ac-reims.fr/index.php/usages-pedagogiques-ent/item/266-MBN-travail-a-faire) [:link:](https://tube-education.beta.education.fr/videos/watch/playlist/77c36bc8-e565-45a3-aff1-7e72c6232374?playlistPosition=5&resume=true) [:link:](https://tube-education.beta.education.fr/videos/watch/playlist/77c36bc8-e565-45a3-aff1-7e72c6232374?playlistPosition=6&resume=true), ou un outil de collecte de fichiers [:link:](https://help.dropbox.com/fr-fr/files-folders/share/create-file-request)
 	* Produire un livre numérique à partir d’un fichier PDF pour valoriser les productions des élèves [:link:](https://fr.calameo.com/)
+	* Faire participer les élèves à un débat écrit [:link:](https://fr.wikidebates.org/) [:link:](ttps://www.kialo-edu.com/)
 
 
 ---
@@ -539,10 +545,10 @@ ol ul {margin-left:-30px}
 
 
 ---
-<!-- _class: etape fppp -->
+<!-- _class: etape fp -->
 ### f) Faire travailler les élèves sur des exercices
 
-1) Faire ou faire des exercices en ligne (pour vérifier la compréhension, pour des révisions) : avec LearningApps [:link:](https://learningapps.org/), avec Digistorm [:link:](https://digistorm.app/), avec la QuiZinière [:link:](https://www.quiziniere.com/), avec H5P sur l'ENT [:link:](https://www.skolengo.com/fr/blog/exerciseur-skolengo) ou via Digiquiz [:link:](https://ladigitale.dev/digiquiz/), avec Pronote [:link:](https://www.index-education.com/fr/tutoriels-video-pronote-1795-29-donner-un-qcm-a-faire-depuis-le-cahier-de-textes-espace-professeurs.php)
+1) Faire ou faire des exercices en ligne (pour vérifier la compréhension, pour des révisions) : avec LearningApps [:link:](https://learningapps.org/), avec Digistorm [:link:](https://digistorm.app/), avec la QuiZinière [:link:](https://www.quiziniere.com/), avec H5P sur l'ENT [:link:](https://www.skolengo.com/fr/blog/exerciseur-skolengo) ou via Digiquiz [:link:](https://ladigitale.dev/digiquiz/), avec Pronote [:link:](https://www.index-education.com/fr/tutoriels-video-pronote-1795-29-donner-un-qcm-a-faire-depuis-le-cahier-de-textes-espace-professeurs.php), avec GoogleForms [🔗](https://support.google.com/docs/answer/7032287?hl=fr)
 2) Créer un parcours pédagogique en ligne complet avec des exercices auto-correctifs [:link:](https://sites.google.com/view/eyssette2021tg/s%C3%A9quence-3-%C3%A0-distance/chapitre-1-quest-ce-qui-fait-la-valeur-dune-%C5%93uvre-dart?authuser=0)
 
 ---
