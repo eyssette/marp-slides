@@ -475,6 +475,10 @@ ol ul li {margin-left:-40px}
 2) Faire produire une vidéo aux élèves
 	* Faire faire une vidéo ou une animation
 
+<!-- Ajouter : outils pour faire du "whiteboard animation" / "scribing video"
+https://www.videoscribe.co/
+ -->
+
 ---
 <!-- _class: etape -->
 ### c) Faire travailler les élèves sur une image
