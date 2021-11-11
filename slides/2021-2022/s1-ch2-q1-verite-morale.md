@@ -108,6 +108,15 @@ Textes :
 https://docs.google.com/presentation/d/1HSVM_TI0fbDRCkaYSCbOvPEtg2yLEkNf9trotkX9J9I/edit?usp=sharing -->
 
 ---
+<!-- _class: definition -->
+### Définition
+Le **réalisme moral** (au sens large) est l'idée qu'il y a des vérités en morale.
+
+<!-- On devrait en fait plutôt parler de cognitivisme moral (ou d'objectivisme moral) et distinguer parmi les différentes formes de cognitivisme (ou d'objectivisme moral) :
+- Le réalisme moral au sens strict : objectivité + indépendance vis-à-vis de l'esprit
+- Le constructivisme moral : objectivité + dépendance vis-à-vis de l'esprit -->
+
+---
 <!-- _class:  -->
 <style scoped>
 p {text-indent:2em; line-height:1.25em; padding:5px 40px}
@@ -151,6 +160,16 @@ img {position:absolute!important; top:0; left:0; width:90%!important; display:bl
 ## A. Le subjectivisme moral
 
 <!-- Le subjectivisme moral repose sur la distinction entre jugements de fait et jugements de valeur -->
+
+---
+<!-- _class: definition fppppppp -->
+<style scoped>
+ol {border:none; list-style-type:none; margin-left:0px; margin-right:50px}
+</style>
+### Définition
+Le **subjectivisme moral** est l'idée qu'il n'y a **pas de vérité objective** en morale. Les jugements moraux sont l'expression d'un **point de vue subjectif**
+
+1) Le subjectivisme moral repose sur une distinction entre 2 types de jugements.
 
 ---
 <!-- _class: exercice tableau colonnes fmm-->
@@ -197,13 +216,10 @@ Les valeurs ne sont pas des propriétés observables par la perception, ou démo
 
 
 ---
-<!-- _class: definition -->
-### Définition
-Le **subjectivisme moral** est l'idée que les valeurs morales ne sont pas la description de propriétés objectives, mais l'expression de réactions subjectives.
+<!-- _class: sanspuces -->
 
-<!-- Exemples de réactions subjectives : 
-le dégoût, l'indignation, la révolte, la culpabilité, la honte -->
-
+1) Un jugement moral n'est pas un jugement de fait, c'est l'expression d'un sentiment.
+2) Exemples : le dégoût, l'indignation, la révolte, la culpabilité …
 
 ---
 <!-- _class: sanspuces -->
@@ -211,9 +227,11 @@ le dégoût, l'indignation, la révolte, la culpabilité, la honte -->
 section.sanspuces ol {list-style-type:none; margin-left:-10px;}
 </style>
 ### Argument
-1) Les valeurs ne sont pas des propriétés observables par la perception, ou démontrables par un raisonnement.
+1) Les valeurs ne sont pas des propriétés objectives, observables par la perception, ou démontrables par un raisonnement.
 2) Donc : on ne peut pas prouver objectivement la vérité d'un jugement de valeur.
 
+<!-- Chez Hume, c'est en fait plus complexe que cela : 
+https://www.cairn.info/revue-de-metaphysique-et-de-morale-2021-4-page-525.htm -->
 
 ---
 <!-- _class: souspartie -->
@@ -243,6 +261,10 @@ Quels exemples peut-on donner de la relativité des croyances morales ?
 <!-- _class: definition -->
 ### Définition
 **L'ethnocentrisme**, au **sens faible**, désigne un biais cognitif : nous avons tendance à percevoir les choses à travers le filtre de notre propre culture
+
+<!-- Cette tendance : pas biologiquement innée / mais socialement acquise
+La transmission sociale se fait : de manière explicite (inculcation) / et de manière implicite (imprégnation)
+ -->
 
 
 ---
@@ -368,8 +390,8 @@ ol ul {margin-left:-1.5em!important}
 </style>
 2. Le <abbr title="relativisme culturel">RC</abbr> conduit à des conséquences problématiques : 
     * La valorisation de la conformité avec les normes sociales dominantes
-    * L'acceptation de pratiques intolérables
     * L'impossibilité de penser un progrès moral
+    * L'acceptation de pratiques intolérables
 
 
 ---
@@ -430,6 +452,12 @@ ol li:nth-of-type(2) img {width:445px!important; padding-left:210px; padding-rig
 
 
 <!-- Le dégoût ressenti face à l'idée de manger une tarentule frite ≠ le dégoût ressenti face à des actes de pédophilie -->
+
+---
+<!-- _class: i1t0 -->
+![](https://i.ibb.co/25Yd66F/gaebul-t.jpg)
+
+<!-- Gaebul ou “pénis de mer” -->
 
 ---
 <!-- _class: sanspuces -->
