@@ -475,7 +475,13 @@ ol ul li {margin-left:-40px}
 2) Faire produire une vidéo aux élèves
 	* Faire faire une vidéo ou une animation
 
-<!-- Ajouter : outils pour faire du "whiteboard animation" / "scribing video"
+<!-- 
+Videolink : mieux si on montre une vidéo en VO avec sous-titres
+
+On peut aussi utiliser une adresse youtube
+<iframe src="https://www.youtube-nocookie.com/embed/5TNAz1HYg18?cc_load_policy=1&amp;hl=en&amp;cc_lang_pref=en&amp;cc=1"></iframe>
+
+Ajouter : outils pour faire du "whiteboard animation" / "scribing video"
 https://www.videoscribe.co/
  -->
 
