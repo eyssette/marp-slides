@@ -145,6 +145,8 @@ ol ul ul {font-size:90%; padding-top:5px}
 	* Prendre des notes sur une vidéo, ou faire de la transcription
 	* Prendre des notes dans de simples fichiers textes en markdown [:link:](https://obsidian.md/), en mettant un maximum d'informations dans le titre lui-même pour pouvoir facilement retrouver ses notes sur un thème, un auteur …
 
+<!-- Ajouter workflow Alfred : convertisseur de notes + message twitter François Jourde -->
+
 ---
 <!-- _class: fpp -->	
 
@@ -646,9 +648,9 @@ h1{font-size:190%; padding-left:0px; padding-right:0px}
 # D'autres outils possibles
 
 ---
-<!-- _class: fppppp -->
+<!-- _class: fppp -->
 Le parcours Magistère : “La philosophie et le numérique à l’adresse des professeurs de philosophie” [:link:](https://magistere.education.fr/ac-grenoble/course/view.php?id=15059)
-Liste de François Jourde [:link:](https://www.mindmeister.com/fr/8940345/outils-usuels)
+Liste de François Jourde : nouvelle version [:link:](https://dynalist.io/d/AVblXCS_wLyhYa5Vv09X0cFJ) et ancienne version [:link:](https://www.mindmeister.com/fr/8940345/outils-usuels)
 La liste de Céline Tarrade et Fabrice Gallet [:link:](https://www.genial.ly/View/Index/59f270324fb71a0bfca22650#page-1)
 Liste de l'académie de Versailles [:link:](https://www.mindmeister.com/fr/557369575/outils-num-riques-pour-projets-d-l-ves-http-acver-fr-outilsnum)
 Liste du Moodle Lab [:link:](https://www.mindmeister.com/fr/78905114/enrichir-mon-cours-avec-les-outils-du-web)
