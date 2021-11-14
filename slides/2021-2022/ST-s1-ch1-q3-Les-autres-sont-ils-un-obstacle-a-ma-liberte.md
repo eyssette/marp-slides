@@ -125,8 +125,8 @@ Première partie
 ---
 <!-- _class: definition fpppppppp-->
 ### Définition
-* La **liberté négative** désigne l'absence d'obstacles
-* Je suis libre en ce sens s'il n'y a **pas d'obstacles extérieurs** qui m'empêchent d'agir conformément à mes choix
+* La **liberté négative** désigne l'absence d'obstacles.
+* Je suis libre en ce sens s'il n'y a **pas d'obstacles extérieurs** qui m'empêchent d'agir conformément à mes choix.
 
 <!-- ne pas être empêché de faire ce que l'on veut -->
 
@@ -149,7 +149,7 @@ figure {margin-left:-5em!important}
 
 Les êtres humains pour Hobbes ont tendance à entrer en conflit les uns avec les autres.
 Cette tendance est inscrite dans la nature de l'être humain. Elle ne dépend pas essentiellement de circonstances extérieures.
-On a ici une anthropologie (= discours sur l'être humain) qui se veut réaliste et non pas idéaliste. Hobbes prétend décrire les êtres humains tels qu'ils sont et non pas tels qu'on aimerait qu'ils soient.
+On a ici une anthropologie (= discours sur l'être humain) qui se veut réaliste et non pas idéaliste. Hobbes prétend décrire les êtres humains tels qu'ils sont et non pas tels qu'on voudrait qu'ils soient.
 
 Il y a 3 causes principales de conflit :
 1/ La rivalité
@@ -157,18 +157,23 @@ Il y a 3 causes principales de conflit :
 = la satisfaction du désir de l'un empêche la satisfaction du désir de l'autre
 (cf. en économie : distinction des biens rivaux et des biens non-rivaux)
 
-La rivalité est principalement matérielle et économique
-= une lutte pour la possession et l'usage de certains biens.
+La rivalité est principalement une lutte pour le pouvoir, pour la domination
+
+dimension matérielle et économique (lutte pour la possession et l'usage de certains biens)
+mais aussi dimension sociale (avoir des alliés, avoir une autorité, une influence)
+
+Le pouvoir est un bien rival car le pouvoir n'existe que si on a plus de pouvoir que les autres : donc le désir de pouvoir des autres entre nécessairement en conflit avec mon désir de pouvoir (si les autres ont plus de pouvoir, j'en ai moins)
 
 2/ La défiance = méfiance
 On se représente autrui comme un ennemi potentiel, un rival possible.
-= Une anticipation fondée sur l'idée que les autres cherchent à satisfaire leurs propres intérêts
+= Une anticipation fondée sur l'idée que les autres cherchent à satisfaire leurs propres intérêts (< un prétendu réalisme)
 => pas de confiance possible
+(les autres risquent de désirer me prendre du pouvoir pour en avoir plus)
 
 3/ La fierté
 Le fondement de la fierté c'est une représentation de soi, de son identité, de ses capacités.
 Les autres peuvent porter atteinte à cette représentation que j'ai de moi-même. Nous pouvons alors entrer en conflit pour un rien : un sourire, un regard … (nous sommes par nature sensibles au jugement des autres).
-Il s'agit ici d'une lutte symbolique et non pas matérielle.
+Il s'agit ici d'une lutte symbolique pour la reconnaissance de sa puissance.
 
 Au fond, les êtres humains sont animés par un désir de puissance qui les conduit à entrer en conflit les uns avec les autres.
 
@@ -205,13 +210,15 @@ figure {margin-left:-5em!important}
 
 ![bg left:37%](https://upload.wikimedia.org/wikipedia/commons/d/d8/Thomas_Hobbes_%28portrait%29.jpg)
 
->« Par là, il est manifeste que pendant le temps où les hommes vivent sans un pouvoir commun […] et  aussi longtemps que chaque homme détient ce droit de faire tout ce qui lui plaît, tous les hommes sont dans l'état de guerre. »
+>« Par là, il est manifeste que pendant le temps où les hommes vivent sans un pouvoir commun […], aussi longtemps que chaque homme détient ce droit de faire tout ce qui lui plaît, tous les hommes sont dans l'état de guerre. »
 >>Thomas **Hobbes**, _Léviathan_
 
 <!-- 
 Par nature les êtres humains sont dans un état de guerre.
-Pour Hobbes : l'anarchie comme absence de pouvoir supérieur conduit à l'anarchie 
-
+Il n'y a pas d'autorégulation, pas d'harmonie naturelle.
+Sans pouvoir supérieur pour imposer des règles, il n'y a pas d'ordre social.
+Cet état de guerre est un état de misère (insécurité, méfiance perpétuelle, impossibilité de la coopération, aucun progrès social).
+Il est nécessaire de trouver un moyen de sortir de l'état de guerre
 
 ----
 L’état de guerre est un état fictif, mais qui représente une réalité possible (et en partie vécue par Hobbes) : celle d’une situation anarchique
@@ -235,12 +242,49 @@ figure {margin-left:-5em!important}
 
 >« La seule façon d'ériger un […] pouvoir commun, qui puisse être capable de défendre les hommes […] des torts qu'ils peuvent se faire les uns aux autres, et par là assurer leur sécurité […] est […] réduire toutes leurs volontés […] à une seule volonté […], de telle manière que c'est comme si chacun devait dire à chacun : _J'autorise cet homme, ou cette assemblée d'hommes, j'abandonne mon droit de me gouverner à cet homme, ou à cette assemblée, à cette condition que tu lui abandonnes ton droit, et autorise toutes ses actions de la même manière_. »
 >>Thomas **Hobbes**, _Léviathan_
+<!-- 
+Il faut qu'il existe un pouvoir supérieur qui doit limiter la liberté de chacun pour pouvoir garantir la sécurité, la confiance et rendre possible la coopération.
+Il est nécessaire d'instaurer des règles de droit :
+1. Protection des personnes : sanction contre les agressions (pour limiter les effets pervers de la fierté)
+2. Protection des biens : sanction contre le vol (pour limiter les effets pervers de la rivalité)
+3. Protection des contrats entre les personnes : sanction contre le non-respect des engagements (pour limiter les effets pervers de la défiance)
+Tableau :
+|Pour limiter les effets pervers de …|… il faut sanctionner …|… et protéger ainsi …|
+|:-:|:-:|:-:|
+|la fierté|les agressions|les personnes|
+|la rivalité|le vol|les biens|
+|la défiance|le non-respect des engagements|les contrats entre personnes|
 
-<!-- À l’état de nature, la liberté est illimitée en droit, mais de fait limitée par la liberté des autres.
+————
+
+Il faut limiter la liberté de chacun pour pouvoir garantir la sécurité, la confiance et rendre possible la coopération.
+Sanctionner  : le vol (droit de propriété), l'escroquerie / le non-respect des engagement (droit des contrats) / les agressions 
+
+---
+Il faut limiter la liberté de chacun pour pouvoir garantir la sécurité, la confiance et rendre possible la coopération.
+Il faut des règles d'attribution, d'acquisition des biens (un droit de propriété) : pour limiter les conflits causés par la rivalité matérielle
+Il faut des règles de protection des contrats (droit) : pour limiter les conflits causés par la défiance.
+Il faut des règles  des agressions : pour limiter les conflits causés par la fierté
+
+----
+
+Il faut limiter la liberté de chacun pour pouvoir garantir la sécurité, la confiance et rendre possible la coopération.
+Droit de propriété : pour limiter la rivalité matérielle 
+pour limiter la rivalité sociale
+pour limiter la défiance : sanctions contre le non-respect des engagements  (// droit des contrats / droit des affaires)
+pour limiter les querelles causées par la fierté : sanction contre l'agression 
+Rôle du droit : dire ce qui n'est pas autorisé ; imposer des limites
+Droit positif : les interdits que posent les textes décidés par le pouvoir
+
+L'instauration de lois n'efface pas la nature de l'être humain. Les règles de droit sont au contraire fondées sur la reconnaissance de l'existence d'un désir naturel de puissance des êtres humains.
+
+---
+
+À l’état de nature, la liberté est illimitée en droit, mais de fait limitée par la liberté des autres.
 Il est dans l’intérêt des individus de rechercher la paix.
 
 La paix repose sur une renonciation réciproque à son droit sur toutes choses.
-Le contractualisme moral de Hobbes. Comparaison avec Kant.
+Le contractualisme de Hobbes. Comparaison avec Kant.
 
 Le pouvoir politique peut, par la menace de la sanction, garantir le respect des engagements (on est ici dans le cadre de la justice rétributive, de la justice pénale).
 Les lois garantissent une confiance dans les relations interindividuelles, en sanctionnant le non-respect des engagements
@@ -279,8 +323,8 @@ Deuxième partie
 ---
 <!-- _class: definition fpppppppp-->
 ### Définition
-* La **liberté réelle** désigne le fait d'avoir la capacité de réaliser ses choix
-* Je suis libre en ce sens si **j'ai les ressources nécessaires** pour pouvoir effectivement réaliser ce que je veux
+* La **liberté réelle** désigne le fait d'avoir la capacité de réaliser ses choix.
+* Je suis libre en ce sens si **j'ai les ressources nécessaires** pour pouvoir effectivement réaliser ce que je veux.
 
 <!-- exemple : être libre de partir en vacances -->
 
@@ -296,6 +340,9 @@ blockquote blockquote{margin-top:-0.5em}
 >« Le point fondamental sur lequel Marx insiste […] c'est que le concept libéral de liberté naît d'une présupposition qui constitue sa base : la liberté de chacun n'est vue qu'en opposition avec la liberté d'autrui, comme une limite de la liberté des autres, comme une frontière qui protège l'individu de l'intrusion d'autrui. […] La liberté - pour s'exprimer métaphoriquement - est comme une propriété privée qui ne peut s'étendre qu'aux dépens des propriétés voisines. La loi détermine la juste limite de la liberté de chacun […]. »
 >>Stefano **Petrucciani**, « Marx et la critique de l'égalité politique », _Actuel Marx_, vol. 8, n°2
 
+<!-- Rappel de la position précédente :
+La liberté conçue comme une propriété, comme un bien, comme un bien rival : si j'ai plus de libertés, les autres en ont moins. -->
+
 ---
 <!-- _class: citationC fmmmm -->
 <style scoped>
@@ -306,6 +353,10 @@ blockquote blockquote{margin-top:-0.5em}
 
 >« Marx oppose une critique claire et incisive à cette façon d'entendre la liberté […]. Il est tout à fait possible, selon lui […], de concevoir une forme du rapport entre les hommes où la liberté de chacun ne serait pas la limite, mais au contraire la réalisation de la liberté de l'autre, la condition positive pour le développement de la liberté de tous. […] Le libre développement d'un individu ne devient une limite ou un obstacle au développement des autres individus que lorsqu'il se réalise dans le cadre de la loi de l'intérêt privé et de la propriété privée […]. Cela n'est plus vrai si l'on dépasse l'enfermement de l'individu dans son intérêt privé : si la liberté est la capacité de contrôler et de diriger rationnellement sa propre vie, d'objectiver les capacités humaines et de développer les jouissances humaines. »
 >>Stefano **Petrucciani**, « Marx et la critique de l'égalité politique », _Actuel Marx_, vol. 8, n°2
+
+<!-- La liberté réelle suppose le développement des capacités et des ressources des êtres humains
+Les capacités et ressources des êtres humains se développent grâce aux autres
+Donc : Les autres ne sont pas un obstacle à la liberté réelle, mais une condition -->
 
 ---
 <!-- _class: partie -->
