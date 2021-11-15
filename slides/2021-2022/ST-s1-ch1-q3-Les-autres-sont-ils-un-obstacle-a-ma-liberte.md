@@ -252,6 +252,9 @@ Par nature les êtres humains sont dans un état de guerre. Il n'y a pas d'autor
 2) L'état de guerre est un état de misère (insécurité, impossibilité de la coopération, aucun progrès social) : il faut absolument trouver un moyen d'en sortir.
 
 <!-- 
+État de guerre ≠ déferlement sauvage de pulsions agressives (cf. La purge = American Nightmare)
+Coordination horizontale impossible : la rationalité de l'intérêt bien compris ne suffit pas à garantir la coopération
+
 Par nature les êtres humains sont dans un état de guerre.
 Il n'y a pas d'autorégulation, pas d'harmonie naturelle.
 Sans pouvoir supérieur pour imposer des règles, il n'y a pas d'ordre social.
@@ -269,8 +272,19 @@ Un état de misère à plusieurs niveaux : misère matérielle et économique, m
 Comparaison avec l’état de nature selon Rousseau.
  -->
 
+
 ---
-<!-- _class: citationC f -->
+<!-- _class: sanspuces pp -->
+<style scoped>
+ol li img {position:absolute; top:10px; left:10px; height:700px;}
+ol li:nth-of-type(1) img {left:10px; width:460px}
+ol li:nth-of-type(2) img {left:480px; width:470px}
+</style>
+1) ![](https://i.ibb.co/qMwjHSW/LOST.jpg)
+2) ![](https://i.ibb.co/sQrbkrX/GOT-t.jpg)
+
+---
+<!-- _class: citationC fmmm -->
 <style scoped>
 blockquote blockquote{margin-top:-0.5em}
 figure {margin-left:-5em!important}
@@ -278,11 +292,18 @@ figure {margin-left:-5em!important}
 
 ![bg left:37%](https://upload.wikimedia.org/wikipedia/commons/d/d8/Thomas_Hobbes_%28portrait%29.jpg)
 
->« La seule façon d'ériger un […] pouvoir commun, qui puisse être capable de défendre les hommes […] des torts qu'ils peuvent se faire les uns aux autres, et par là assurer leur sécurité […] est […] réduire toutes leurs volontés […] à une seule volonté […], de telle manière que c'est comme si chacun devait dire à chacun : _J'autorise cet homme, ou cette assemblée d'hommes, j'abandonne mon droit de me gouverner à cet homme, ou à cette assemblée, à cette condition que tu lui abandonnes ton droit, et autorise toutes ses actions de la même manière_. »
+>« La seule façon d'ériger un tel pouvoir commun, qui puisse être capable de défendre les hommes […] des torts qu'ils peuvent se faire les uns aux autres, et par là assurer leur sécurité […] est de rassembler tout leur pouvoir et toute leur force sur un seul homme, ou sur une seule assemblée d'hommes, qui puisse réduire toutes leurs volontés […] à une seule volonté […], de telle manière que c'est comme si chacun devait dire à chacun : _J'autorise cet homme, ou cette assemblée d'hommes, j'abandonne mon droit de me gouverner à cet homme, ou à cette assemblée, à cette condition que tu lui abandonnes ton droit, et autorise toutes ses actions de la même manière_. »
 >>Thomas **Hobbes**, _Léviathan_
 
 
 <!--
+
+abandon et autorisation
+abandon 
+
+état de nature : pas de règles qui limitent nos actions / mais autrui est toujours un obstacle potentiel
+pouvoir : règles qui limitent nos actions / autrui a moins d'intérêt à faire obstacle à mes actions
+
 ---
 _class: fmm
 |Pour limiter les effets pervers de …|il faut sanctionner …|et protéger ainsi …|
@@ -393,6 +414,14 @@ blockquote blockquote{margin-top:-0.5em}
 <!-- Rappel de la position précédente :
 La liberté conçue comme une propriété, comme un bien, comme un bien rival : si j'ai plus de libertés, les autres en ont moins. -->
 
+
+---
+<!-- _class:  -->
+Marx s'oppose à deux idées :
+1) L'idée que liberté doit être conçue comme une propriété privée, comme un bien personnel.
+2) L'idée que la liberté est un bien rival (si j'ai plus de libertés, les autres en ont moins).
+
+
 ---
 <!-- _class: citationC fmmmm -->
 <style scoped>
@@ -403,6 +432,14 @@ blockquote blockquote{margin-top:-0.5em}
 
 >« Marx oppose une critique claire et incisive à cette façon d'entendre la liberté […]. Il est tout à fait possible, selon lui […], de concevoir une forme du rapport entre les hommes où la liberté de chacun ne serait pas la limite, mais au contraire la réalisation de la liberté de l'autre, la condition positive pour le développement de la liberté de tous. […] Le libre développement d'un individu ne devient une limite ou un obstacle au développement des autres individus que lorsqu'il se réalise dans le cadre de la loi de l'intérêt privé et de la propriété privée […]. Cela n'est plus vrai si l'on dépasse l'enfermement de l'individu dans son intérêt privé : si la liberté est la capacité de contrôler et de diriger rationnellement sa propre vie, d'objectiver les capacités humaines et de développer les jouissances humaines. »
 >>Stefano **Petrucciani**, « Marx et la critique de l'égalité politique », _Actuel Marx_, vol. 8, n°2
+
+
+---
+<!-- _class: sanspuces -->
+1) La liberté réelle suppose le développement des capacités et des ressources des êtres humains.
+2) Les capacités et ressources des êtres humains se développent grâce aux autres.
+3) Donc : Les autres ne sont pas un obstacle à la liberté réelle, mais une condition.
+
 
 <!-- La liberté réelle suppose le développement des capacités et des ressources des êtres humains
 Les capacités et ressources des êtres humains se développent grâce aux autres
