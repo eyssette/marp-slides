@@ -145,11 +145,42 @@ figure {margin-left:-5em!important}
 >« [N]ous trouvons dans la nature humaine trois principales causes de querelle : premièrement, la rivalité ; deuxièmement, la défiance ; et troisièmement la fierté. »
 >>Thomas **Hobbes**, _Léviathan_
 
-<!-- 
 
+---
+<!-- _class: fppppp sanspuces -->
+<style>
+section.sanspuces ol {list-style-type:none; margin-left:-10px;}
+</style>
 Les êtres humains pour Hobbes ont tendance à entrer en conflit les uns avec les autres.
-Cette tendance est inscrite dans la nature de l'être humain. Elle ne dépend pas essentiellement de circonstances extérieures.
-On a ici une anthropologie (= discours sur l'être humain) qui se veut réaliste et non pas idéaliste. Hobbes prétend décrire les êtres humains tels qu'ils sont et non pas tels qu'on voudrait qu'ils soient.
+1) Cette tendance est inscrite dans la nature de l'être humain. Elle ne dépend pas essentiellement de circonstances extérieures.
+2) On a ici une anthropologie qui se veut réaliste et non pas idéaliste. Hobbes prétend décrire les êtres humains tels qu'ils sont et non pas tels qu'on voudrait qu'ils soient.
+
+---
+<!-- _class: fpppp -->
+<style scoped>
+ul li {margin-left:-1.3em}
+</style>
+Il y a 3 causes principales de conflit :
+
+1) La rivalité
+   * Un bien rival est un bien qui conduit à une situation d'incompatibilité des désirs : la satisfaction du désir de l'un empêche la satisfaction du désir de l'autre.
+   * Le bien rival principal pour Hobbes, c'est le pouvoir, la domination à la fois matérielle, économique et sociale.
+   * Le pouvoir est un bien rival car avoir du pouvoir c'est avoir plus de pouvoir que les autres.
+
+
+---
+<!-- _class: fp -->
+<style scoped>
+ul li {margin-left:-1.3em}
+</style>
+2) La défiance
+    * On ne fait pas confiance aux autres car on se représente autrui comme un ennemi potentiel, un rival possible.
+    * Chacun anticipe le fait que les autres risquent de chercher à me prendre du pouvoir.
+3) La fierté
+    * Le fondement de la fierté c'est une représentation de soi, de son identité, de ses capacités.
+    * Les autres peuvent porter atteinte à cette représentation que j'ai de moi-même : nous pouvons alors entrer en conflit pour un rien (un sourire, un regard …)
+
+<!-- 
 
 Il y a 3 causes principales de conflit :
 1/ La rivalité
@@ -213,6 +244,13 @@ figure {margin-left:-5em!important}
 >« Par là, il est manifeste que pendant le temps où les hommes vivent sans un pouvoir commun […], aussi longtemps que chaque homme détient ce droit de faire tout ce qui lui plaît, tous les hommes sont dans l'état de guerre. »
 >>Thomas **Hobbes**, _Léviathan_
 
+
+---
+<!-- _class: sanspuces fppppp -->
+Par nature les êtres humains sont dans un état de guerre. Il n'y a pas d'autorégulation, pas d'harmonie naturelle.
+1) Sans pouvoir supérieur pour imposer des règles, il n'y a pas d'ordre social. L'anarchie comme absence d'autorité hiérarchique conduit à l'anarchie comme état de désordre.
+2) L'état de guerre est un état de misère (insécurité, impossibilité de la coopération, aucun progrès social) : il faut absolument trouver un moyen d'en sortir.
+
 <!-- 
 Par nature les êtres humains sont dans un état de guerre.
 Il n'y a pas d'autorégulation, pas d'harmonie naturelle.
@@ -242,6 +280,18 @@ figure {margin-left:-5em!important}
 
 >« La seule façon d'ériger un […] pouvoir commun, qui puisse être capable de défendre les hommes […] des torts qu'ils peuvent se faire les uns aux autres, et par là assurer leur sécurité […] est […] réduire toutes leurs volontés […] à une seule volonté […], de telle manière que c'est comme si chacun devait dire à chacun : _J'autorise cet homme, ou cette assemblée d'hommes, j'abandonne mon droit de me gouverner à cet homme, ou à cette assemblée, à cette condition que tu lui abandonnes ton droit, et autorise toutes ses actions de la même manière_. »
 >>Thomas **Hobbes**, _Léviathan_
+
+
+<!--
+---
+_class: fmm
+|Pour limiter les effets pervers de …|il faut sanctionner …|et protéger ainsi …|
+|:-:|:-:|:-:|
+|la fierté|les agressions|les personnes|
+|la rivalité|le vol|les biens|
+|la défiance|le non-respect des engagements|les contrats entre personnes| -->
+
+
 <!-- 
 Il faut qu'il existe un pouvoir supérieur qui doit limiter la liberté de chacun pour pouvoir garantir la sécurité, la confiance et rendre possible la coopération.
 Il est nécessaire d'instaurer des règles de droit :
