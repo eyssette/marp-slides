@@ -330,7 +330,7 @@ ol ul {margin-left:-1.5em!important}
 2) Usages ordinaires
 	* Utiliser un vidéoprojecteur : en HDMI, en VGA, savoir utiliser un adaptateur si nécessaire
 	* Faire attention à la taille des polices, à la mise en page [:link:](https://guy.pastre.org/?p=2405)
-	* Utiliser un logiciel en ligne [:link:](https://www.google.fr/intl/fr/slides/about/)
+	* Utiliser un logiciel en ligne [:link:](https://www.google.fr/intl/fr/slides/about/) [:link:](https://www.canva.com/)
 	* Imprimer un support de cours à partir d'un diaporama : 4 à 16 pages sur un A4, format “bandeau” [:link:](https://goo.gl/photos/pbnnU2We4yPaNTtVA)
 3) Usages avancés
 	* Faire de la vidéoprojection sans fil
