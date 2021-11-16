@@ -221,8 +221,9 @@ ol {margin-left:70px;}
 
 
 ---
-<!-- _class: fmmmmm -->
+<!-- _class: fmmmm -->
 <style scoped>
+ol {margin-left:10px}
 ol ul {margin-left:-30px;}
 </style>
 
@@ -234,10 +235,12 @@ ol ul {margin-left:-30px;}
 2) Usages avancés
 	* Utiliser les styles pour conserver une unité dans ses documents [:link:](https://dane.ac-lyon.fr/spip/IMG/pdf/libreoffice_avance_pdf.pdf)
 	* Utiliser des modèles de document : pour un recueil de textes [:link:](https://docs.google.com/document/d/1x6Lntq4ajqTRN7ykKkjdPDwhUDTUVYvGc2vmqKvlHfE/edit?usp=sharing), pour l'analyse d'un texte [:link:](https://docs.google.com/document/d/1lAeOmIczj71GBYVnP09CzUdiR0nc_68pOeAVjqB8G2Y/edit?usp=sharing) [:link:](https://docs.google.com/drawings/d/1DDuXTG256JtQXYgIas1Bn49cae18-ka_pscfBKfU6n0/edit?usp=sharing), pour faire un “petit livre” [:link:](http://petitslivres.free.fr/index_techniques.htm) [:link:](https://www.dropbox.com/s/5i7aujquvihqi3x/Epicure-Lettre%20%C3%A0%20M%C3%A9n%C3%A9c%C3%A9e-format%20%20petitlivre.pdf?dl=0), …
-	* Utiliser un logiciel adapté à des mises en page complexes : utiliser un logiciel de MAO [:link:](https://scribus.fr/), utiliser un logiciel de diaporamas pour faire de la mise en page facilement [:link:](https://docs.google.com/presentation/u/0/)
+	* Utiliser un logiciel adapté à des mises en page complexes : utiliser un logiciel de MAO [:link:](https://scribus.fr/), utiliser un logiciel de diaporamas pour faire des affiches et de la mise en page facilement [:link:](https://docs.google.com/presentation/u/0/) [:link:](https://www.canva.com/)
 	* Utiliser un logiciel adapté à la publication scientifique : $\LaTeX$ [:link:](http://tug.ctan.org/info/latex-sciences-humaines.pdf) [:link:](https://fr.overleaf.com/)
 
-<!-- modèles de document : A4 2 colonnes / modèle pour la correction des copies / sujets type bac / “petit livre” -->
+<!-- modèles de document : A4 2 colonnes / modèle pour la correction des copies / sujets type bac / “petit livre”
+Canva : gratuit pour les enseignants (s'inscrire avec une adresse professionnelle)
+ -->
 
 ---
 <!-- _class: etape -->
@@ -367,11 +370,11 @@ Risques possibles :
 ol ul {margin-left:-40px;}
 </style>
 1) Usages ordinaires
-	* Utiliser un logiciel de dessin : [:link:](https://excalidraw.com/) [:link:](https://docs.google.com/drawings/u/0/create)
+	* Utiliser un logiciel de dessin [:link:](https://excalidraw.com/) [:link:](https://docs.google.com/drawings/u/0/create)
 	* Utiliser un logiciel simple pour faire une carte mentale [:link:](http://mindmaps.app/) [:link:](https://coggle.it/) [:link:](https://www.zenmindmap.com/) [:link:](https://gitmind.com/)
 	* Utiliser un logiciel simple qui convertit du texte en une carte mentale [:link:](https://tobloef.com/text2mindmap/) [:link:](https://flowchart.fun/)
 2) Usages avancés
-	* Créer des schémas pour représenter des arguments [:link:](http://argument.mindmup.com) [:link:](https://argdown.org/)
+	* Créer des schémas pour représenter des arguments [:link:](https://eyssette.github.io/argument-map/) [:link:](http://argument.mindmup.com) [:link:](https://argdown.org/)
 	* Utiliser un langage de programmation de graphiques : GraphViz [:link:](https://github.com/eyssette/graphviz-examples)
 	* Créer une frise chronologique [:link:](https://outilstice.com/2020/06/outils-creer-frises-chronologiques/) [:link:](https://dynalist.io/d/AVblXCS_wLyhYa5Vv09X0cFJ#z=lMqVNIBrVvEdqSVLcxavgyhY)
 	* Rendre son schéma interactif avec des éléments à cliquer pour découvrir différentes informations  [:link:](https://www.genial.ly/)
