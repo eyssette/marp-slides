@@ -50,6 +50,26 @@ Première partie
 ### Définition
 Les **morales du sentiment** affirment que, pour savoir ce qu'est le bien et le mal, il faut faire preuve d'**empathie** et être **attentif aux autres**.
 
+---
+<!-- _class: citationC fm -->
+
+![bg left:45%](https://upload.wikimedia.org/wikipedia/commons/b/b7/Jean-Jacques_Rousseau_%28painted_portrait%29.jpg)
+
+>« [L]a pitié, disposition convenable à des êtres aussi faibles, et sujets à autant de maux que nous le sommes [est une] vertu d’autant plus universelle et d’autant plus utile à l’homme qu’elle précède en lui l’usage de toute réflexion, et si naturelle que les bêtes mêmes en donnent quelquefois des signes sensibles. […] [D]e cette seule qualité découlent toutes les vertus sociales […] la générosité, la clémence, l’humanité » 
+>>**Rousseau**, _Discours sur l’origine et les fondements de l’inégalité parmi les hommes_, I
+
+<!-- Ancien schéma sur la piété : 
+![schéma sur la pitié selon Rousseau](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/pitie-selon-Rousseau.svg)
+Ancien schéma sur le care : 
+![Schéma sur la notion de care](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/care.svg)
+ -->
+
+---
+<!-- _class: cinema fmmm -->
+
+[![Affiche du film Moi, Daniel Blake](https://fr.web.img6.acsta.net/pictures/16/06/13/15/58/248495.jpg)](https://www.youtube.com/watch?v=oW1l3ptA7Sc)
+
+>Dans le film de Ken Loach _Moi, Daniel Blake_, un menuisier anglais de 59 ans, Daniel Blake, se retrouve, après un accident cardiaque, dans l'incapacité de travailler. Mais il se heurte à un système social devenu absurde qui lui réclame de chercher malgré tout un emploi. Il se lie d'amitié avec Katie, une jeune mère qui élève seule ses enfants, sans argent, sans emploi, elle aussi confrontée à des exigences administratives absurdes. Tous deux chercheront à prendre soin l'un de l'autre.
 
 ---
 <!-- _class: partie -->
@@ -65,6 +85,7 @@ Les **morales de la raison** affirment que, pour savoir ce qu'est le bien et le 
  -->
 
 
+
 ---
 <!-- _class: souspartie -->
 ## A. L'utilitarisme de Bentham
@@ -76,4 +97,5 @@ conséquentialisme / morale conséquentialiste -->
 <!-- _class: souspartie -->
 ## B. La morale kantienne
 
-<!-- = déontologie / morale déontologique -->
+<!-- = un exemple de morale des principes
+déontologie / morale déontologique -->
