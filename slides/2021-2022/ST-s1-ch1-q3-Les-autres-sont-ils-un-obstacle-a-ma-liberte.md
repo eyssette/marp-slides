@@ -296,7 +296,35 @@ figure {margin-left:-5em!important}
 >>Thomas **Hobbes**, _Léviathan_
 
 
+
+---
+<!-- _class: i1t1 vertical fpppppp -->
+Reconstruction de l'argument de Hobbes
+
+[![](https://i.ibb.co/tcQpy60/argument-Hobbes.png)](https://eyssette.github.io/argument-map/#[{%22id%22:%22p2%22,%22text%22:%22Je%20ne%20peux%20pas%20par%20mon%20seul%20pouvoir%20me%20garantir%20de%20la%20libert%C3%A9%20des%20autres%22,%22x%22:1870,%22y%22:513,%22lineType%22:%22solid%22},{%22id%22:%22p1%22,%22text%22:%22La%20libert%C3%A9%20des%20autres%20est%20un%20obstacle%20%C3%A0%20ma%20libert%C3%A9%22,%22x%22:1596,%22y%22:502,%22lineType%22:%22solid%22},{%22id%22:%22c1%22,%22text%22:%22Il%20doit%20y%20avoir%20un%20pouvoir%20commun%20qui%20prot%C3%A8ge%20chacun%20des%20exc%C3%A8s%20possibles%20de%20la%20libert%C3%A9%20des%20autres%22,%22x%22:1732,%22y%22:709,%22lineType%22:%22solid%22},{%22id%22:%22dwaho%22,%22text%22:%22Ce%20pouvoir%20ne%20peut%20exister%20que%20si%20nous%20acceptons%20de%20laisser%20ce%20pouvoir%20d%C3%A9cider%20des%20r%C3%A8gles%20communes%22,%22x%22:2012,%22y%22:707,%22lineType%22:%22solid%22},{%22id%22:%22btouk%22,%22text%22:%22Le%20pouvoir%20commun%20repose%20sur%20un%20abandon%20d'une%20partie%20de%20sa%20libert%C3%A9%20et%20sur%20une%20autorisation%20donn%C3%A9e%20%C3%A0%20l'autorit%C3%A9%20de%20d%C3%A9cider%20des%20r%C3%A8gles%22,%22x%22:1877,%22y%22:929,%22lineType%22:%22solid%22},{%22id%22:%22so8za%22,%22text%22:%22Mais%20il%20faut%20aussi%20qu'il%20n'y%20ait%20pas%20d'int%C3%A9r%C3%AAt%20%C3%A0%20ne%20pas%20suivre%20les%20r%C3%A8gles%20communes%22,%22x%22:2123,%22y%22:909,%22lineType%22:%22solid%22},{%22id%22:%22cql2d%22,%22text%22:%22Le%20pouvoir%20commun%20doit%20avoir%20les%20moyens%20de%20sanctionner%20le%20non-respect%20des%20r%C3%A8gles%20:%20au%20lieu%20de%20craindre%20les%20autres,%20il%20faut%20que%20chacun%20craigne%20le%20pouvoir%22,%22x%22:2011,%22y%22:1169,%22lineType%22:%22solid%22},{%22id%22:%221djdk%22,%22type%22:%22donc%22,%22from%22:[%22p1%22,%22p2%22],%22to%22:%22c1%22},{%22id%22:%22atdgg%22,%22type%22:%22donc%22,%22from%22:[%22c1%22,%22dwaho%22],%22to%22:%22btouk%22},{%22id%22:%22w3u6q%22,%22type%22:%22donc%22,%22from%22:[%22btouk%22,%22so8za%22],%22to%22:%22cql2d%22}])
+
+
 <!--
+
+———
+Blog Lenuki :
+nul ne peut par son propre pouvoir se garantir de la liberté des autres
+ d’où l’appel à un pouvoir absolu pour « encadrer étroitement » les libertés
+
+ Institution volontaire d’un appareil de règles destiné à régir de manière rigoureuse la conduite des hommes.
+
+———
+Cf. Cours Guillaume Durieux : 
+La sécurité est obtenue parce que chacun a abandonné son droit naturel à faire ce qu'il veut faire quand il le veut. L’État, créé par le contrat, accorde en retour aux individus des droits positifs.
+Il s'agit donc pour Hobbes que chacun abandonne une grande partie de ses droits naturels pour obtenir la garantie du droit positif. Je renonce à me faire justice moi-même au profit d'une instance tierce qui assure la justice. C'est l’État. L’État est l'institution politique souveraine qui organise la société au sein d'un territoire donné. La souveraineté est l'attribut de ce qui décide en dernière instance.
+
+Le droit positif est l'ensemble des règles juridiques instituées qui régissent les rapports entre les hommes au sein d'une société.
+
+ au point de départ, il n'existe qu'une diversité d'hommes sans liens particuliers les uns avec les autres et qui sont en état de guerre. On parle alors de multitude parce qu'il n'existe aucune unité entre eux. 
+
+ Mais cet état de guerre est intenable et les hommes finissent par en sortir en transférant leurs droits naturels – qui sont à l'origine de cet état de guerre – à un individu hors contrat qui aura pour charge d'établir la sécurité. Cet individu est désigné pour les représenter : il est autorisé à édicter des règles qui valent pour tous ceux qui ont contracté. La multitude se donne donc un représentant. En retour, ce représentant se voit attribuer toute la puissance commune. Il est donc souverain absolu. Il exerce donc son autorité sur tous les individus qui ont passé le contrat. Mais ces individus ne sont plus dispersés, ils sont liés sous une autorité commune. C'est-à-dire qu'ils ne composent plus une multitude mais un peuple. Un peuple est un ensemble d'individus vivant sur le même territoire et ayant des institutions politiques communes. Le peuple, à la différence de la multitude, est une réalité politique. C'est donc la désignation du représentant, le souverain, qui crée et fait exister le représenté, le peuple.
+
+———
 
 abandon et autorisation
 abandon 
@@ -444,6 +472,14 @@ blockquote blockquote{margin-top:-0.5em}
 <!-- La liberté réelle suppose le développement des capacités et des ressources des êtres humains
 Les capacités et ressources des êtres humains se développent grâce aux autres
 Donc : Les autres ne sont pas un obstacle à la liberté réelle, mais une condition -->
+
+
+---
+<!-- _class: pp -->
+<style scoped>
+iframe {height:800px; width:980px; margin:auto; border:none;}
+</style>
+<iframe src="https://eyssette.github.io/argument-map/#[{%22id%22:%22p2%22,%22text%22:%22Les%20capacit%C3%A9s%20et%20ressources%20des%20%C3%AAtres%20humains%20se%20d%C3%A9veloppent%20gr%C3%A2ce%20aux%20autres%22,%22x%22:581,%22y%22:101,%22lineType%22:%22solid%22},{%22id%22:%221djdk%22,%22type%22:%22donc%22,%22from%22:[%22p1%22,%22p2%22],%22to%22:%22c1%22},{%22id%22:%22c1%22,%22text%22:%22Les%20autres%20ne%20sont%20pas%20un%20obstacle%20%C3%A0%20la%20libert%C3%A9%20mais%20une%20condition%22,%22x%22:414,%22y%22:313,%22lineType%22:%22solid%22},{%22id%22:%22p1%22,%22text%22:%22La%20libert%C3%A9%20r%C3%A9elle%20suppose%20le%20d%C3%A9veloppement%20des%20capacit%C3%A9s%20et%20des%20ressources%20des%20%C3%AAtres%20humains%22,%22x%22:236,%22y%22:104,%22lineType%22:%22solid%22}]"></iframe>
 
 ---
 <!-- _class: partie -->

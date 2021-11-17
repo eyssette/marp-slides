@@ -397,6 +397,9 @@ Il faut distinguer deux formes d'hédonisme
 
 ---
 <!-- _class: entete approfondissement -->
+<style scoped>
+p {margin-left:60px; margin-right:60px}
+</style>
 ### Approfondissement
 
 Parmi ce qui peut troubler notre corps et notre âme, il y a, pour Épicure, plusieurs croyances fausses, sur les Dieux et sur la mort, qui peuvent nous empêcher de retrouver le simple plaisir d'exister.
@@ -487,6 +490,9 @@ Il faut savoir revenir à ce qu'il y a d'essentiel pour nous, en tant qu'êtres 
 
 ---
 <!-- _class: entete approfondissement -->
+<style scoped>
+p {margin-left:60px; margin-right:60px}
+</style>
 ### Approfondissement
 
 On retrouve parfois une référence à Épicure dans certains mouvements contemporains autour des thèmes de la simplicité volontaire, de la décroissance ou de la sobriété heureuse.
