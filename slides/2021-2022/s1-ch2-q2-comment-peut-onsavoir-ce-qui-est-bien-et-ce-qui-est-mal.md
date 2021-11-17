@@ -64,12 +64,14 @@ Ancien schéma sur le care :
 ![Schéma sur la notion de care](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/care.svg)
  -->
 
----
-<!-- _class: cinema fmmm -->
+
+<!-- 
+_class: cinema fmmm 
 
 [![Affiche du film Moi, Daniel Blake](https://fr.web.img6.acsta.net/pictures/16/06/13/15/58/248495.jpg)](https://www.youtube.com/watch?v=oW1l3ptA7Sc)
 
 >Dans le film de Ken Loach _Moi, Daniel Blake_, un menuisier anglais de 59 ans, Daniel Blake, se retrouve, après un accident cardiaque, dans l'incapacité de travailler. Mais il se heurte à un système social devenu absurde qui lui réclame de chercher malgré tout un emploi. Il se lie d'amitié avec Katie, une jeune mère qui élève seule ses enfants, sans argent, sans emploi, elle aussi confrontée à des exigences administratives absurdes. Tous deux chercheront à prendre soin l'un de l'autre.
+-->
 
 ---
 <!-- _class: partie -->
