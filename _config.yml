@@ -1,6 +1,6 @@
 theme: jekyll-theme-cayman
 exclude:
-  - *.html
-  - *.md
+  - "*.html"
+  - "*.md"
 include:
   - README.md
