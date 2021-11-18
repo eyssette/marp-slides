@@ -12,7 +12,15 @@ https://eyssette.github.io/
 
 
 ---
-<!-- _class:  -->
+<!-- _class: pp -->
+<style scoped>
+p:nth-of-type(1) {font-weight:bold; font-size:64px; color:white; position:absolute; bottom:45px; text-shadow: #000000 2px 2px, #000000 -2px 2px, #000000 -2px -2px, #000000 2px -2px;
+}
+</style>
+
+![bg Photographie du cochon Esther](https://i.ibb.co/87MksHv/esther.jpg)
+
+L'éthique animale
 
 ---
 <!-- _class:  -->
@@ -53,9 +61,9 @@ Les **morales du sentiment** affirment que, pour savoir ce qu'est le bien et le 
 ---
 <!-- _class: citationC fm -->
 
-![bg left:45%](https://upload.wikimedia.org/wikipedia/commons/b/b7/Jean-Jacques_Rousseau_%28painted_portrait%29.jpg)
+![bg left:33%](https://upload.wikimedia.org/wikipedia/commons/b/b7/Jean-Jacques_Rousseau_%28painted_portrait%29.jpg)
 
->« [L]a pitié, disposition convenable à des êtres aussi faibles, et sujets à autant de maux que nous le sommes [est une] vertu d’autant plus universelle et d’autant plus utile à l’homme qu’elle précède en lui l’usage de toute réflexion, et si naturelle que les bêtes mêmes en donnent quelquefois des signes sensibles. […] [D]e cette seule qualité découlent toutes les vertus sociales […] la générosité, la clémence, l’humanité » 
+>« [L]a pitié, disposition convenable à des êtres aussi faibles, et sujets à autant de maux que nous le sommes [est une] vertu d’autant plus universelle et d’autant plus utile à l’homme qu’elle précède en lui l’usage de toute réflexion, et si naturelle que les bêtes mêmes en donnent quelquefois des signes sensibles. […] Tel est le pur mouvement de la nature, antérieur à toute réflexion […]. [D]e cette seule qualité découlent toutes les vertus sociales […] la générosité, la clémence, l’humanité » 
 >>**Rousseau**, _Discours sur l’origine et les fondements de l’inégalité parmi les hommes_, I
 
 <!-- Ancien schéma sur la piété : 
@@ -72,6 +80,44 @@ _class: cinema fmmm
 
 >Dans le film de Ken Loach _Moi, Daniel Blake_, un menuisier anglais de 59 ans, Daniel Blake, se retrouve, après un accident cardiaque, dans l'incapacité de travailler. Mais il se heurte à un système social devenu absurde qui lui réclame de chercher malgré tout un emploi. Il se lie d'amitié avec Katie, une jeune mère qui élève seule ses enfants, sans argent, sans emploi, elle aussi confrontée à des exigences administratives absurdes. Tous deux chercheront à prendre soin l'un de l'autre.
 -->
+
+
+---
+<!-- _class: citationC fm -->
+
+![bg left:33%](https://upload.wikimedia.org/wikipedia/commons/b/b7/Jean-Jacques_Rousseau_%28painted_portrait%29.jpg)
+
+>« [L]a commisération sera d’autant plus énergique que l’animal spectateur s’identifiera plus intimement avec l’animal souffrant. […] C’est la raison qui engendre l’amour-propre, et c’est la réflexion qui le fortifie ; c’est elle qui replie l’homme sur lui-même; c’est elle qui le sépare de tout ce qui le gêne et l’afflige […]. On peut impunément égorger son semblable sous sa fenêtre; [l'individu] n’a qu’à mettre ses mains sur ses oreilles et s’argumenter un peu pour empêcher la nature qui se révolte en lui de l’identifier avec celui qu’on assassine. »
+>>**Rousseau**, _Discours sur l’origine et les fondements de l’inégalité parmi les hommes_, I
+
+---
+<!-- _class: exercice tableau fmmm-->
+<style scoped>
+table {margin-top:-1em!important}
+table thead {font-size:90%;}
+table tbody {font-size:75%;}
+ol {margin-left:0.3em!important; margin-top:-0.5em!important;}
+ol li {padding:0!important}
+</style>
+|Ce qu'est la pitié|Ce qu'elle n'est pas|
+|:-:|:-:|
+|?|?|
+|?|?|
+|?|?|
+|?|?|
+|?|?|
+
+1. Un raisonnement
+10. Une tendance universelle<br>
+3. Une disposition innée et naturelle
+4. Un sentiment
+5. Faire abstraction du réel
+2. Se mettre à la place d'autrui
+6. Une tendance relative à une société particulière<br>
+8. Le résultat d'une transmission sociale et culturelle<br>
+9. Faire attention à une situation concrète<br>
+7. Se mettre à distance d'autrui
+
 
 ---
 <!-- _class: partie -->

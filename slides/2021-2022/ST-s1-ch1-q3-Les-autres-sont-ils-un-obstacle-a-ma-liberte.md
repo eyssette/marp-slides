@@ -475,11 +475,12 @@ Donc : Les autres ne sont pas un obstacle à la liberté réelle, mais une condi
 
 
 ---
-<!-- _class: pp -->
-<style scoped>
-iframe {height:800px; width:980px; margin:auto; border:none;}
-</style>
-<iframe src="https://eyssette.github.io/argument-map/#[{%22id%22:%22p2%22,%22text%22:%22Les%20capacit%C3%A9s%20et%20ressources%20des%20%C3%AAtres%20humains%20se%20d%C3%A9veloppent%20gr%C3%A2ce%20aux%20autres%22,%22x%22:581,%22y%22:101,%22lineType%22:%22solid%22},{%22id%22:%221djdk%22,%22type%22:%22donc%22,%22from%22:[%22p1%22,%22p2%22],%22to%22:%22c1%22},{%22id%22:%22c1%22,%22text%22:%22Les%20autres%20ne%20sont%20pas%20un%20obstacle%20%C3%A0%20la%20libert%C3%A9%20mais%20une%20condition%22,%22x%22:414,%22y%22:313,%22lineType%22:%22solid%22},{%22id%22:%22p1%22,%22text%22:%22La%20libert%C3%A9%20r%C3%A9elle%20suppose%20le%20d%C3%A9veloppement%20des%20capacit%C3%A9s%20et%20des%20ressources%20des%20%C3%AAtres%20humains%22,%22x%22:236,%22y%22:104,%22lineType%22:%22solid%22}]"></iframe>
+<!-- _class: i1t1 vertical -->
+Reconstruction de l'argument de Marx
+
+[![h:440](https://i.ibb.co/LZ2jgG4/argument-Marx-liberte.png)](https://eyssette.github.io/argument-map/#[{%22id%22:%22p2%22,%22text%22:%22Les%20capacit%C3%A9s%20et%20ressources%20des%20%C3%AAtres%20humains%20se%20d%C3%A9veloppent%20gr%C3%A2ce%20aux%20autres%22,%22x%22:581,%22y%22:101,%22lineType%22:%22solid%22},{%22id%22:%221djdk%22,%22type%22:%22donc%22,%22from%22:[%22p1%22,%22p2%22],%22to%22:%22c1%22},{%22id%22:%22c1%22,%22text%22:%22Les%20autres%20ne%20sont%20pas%20un%20obstacle%20%C3%A0%20la%20libert%C3%A9%20mais%20une%20condition%22,%22x%22:414,%22y%22:313,%22lineType%22:%22solid%22},{%22id%22:%22p1%22,%22text%22:%22La%20libert%C3%A9%20r%C3%A9elle%20suppose%20le%20d%C3%A9veloppement%20des%20capacit%C3%A9s%20et%20des%20ressources%20des%20%C3%AAtres%20humains%22,%22x%22:236,%22y%22:104,%22lineType%22:%22solid%22}]")
+
+
 
 ---
 <!-- _class: partie -->
