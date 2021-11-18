@@ -108,15 +108,15 @@ ol li {padding:0!important}
 |?|?|
 
 1. Un raisonnement
-10. Une tendance universelle<br>
+2. Une tendance universelle<br>
 3. Une disposition innée et naturelle
 4. Un sentiment
 5. Faire abstraction du réel
-2. Se mettre à la place d'autrui
-6. Une tendance relative à une société particulière<br>
+6. Se mettre à la place d'autrui
+7. Une tendance relative à une société particulière<br>
 8. Le résultat d'une transmission sociale et culturelle<br>
 9. Faire attention à une situation concrète<br>
-7. Se mettre à distance d'autrui
+10. Se mettre à distance d'autrui
 
 
 ---
