@@ -142,8 +142,18 @@ Les **morales de la raison** affirment que, pour savoir ce qu'est le bien et le 
 conséquentialisme / morale conséquentialiste -->
 
 ---
+<!-- _class: i1t0 pp -->
+
+![Schéma sur l'utilitarisme](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/utilitarisme-2.dot.svg)
+
+---
 <!-- _class: souspartie -->
 ## B. La morale kantienne
 
 <!-- = un exemple de morale des principes
 déontologie / morale déontologique -->
+
+---
+<!-- _class: i1t0 pp -->
+
+![Schéma sur la philosophie morale de Kant](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/philosophie-morale-de-Kant-2.dot.svg)
