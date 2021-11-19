@@ -22,6 +22,11 @@ p:nth-of-type(1) {font-weight:bold; font-size:64px; color:white; position:absolu
 
 L'éthique animale
 
+<!-- 
+Définition de l'éthique animale
+Domaines de l'éthique animale
+ -->
+
 ---
 <!-- _class:  -->
 <style scoped>
