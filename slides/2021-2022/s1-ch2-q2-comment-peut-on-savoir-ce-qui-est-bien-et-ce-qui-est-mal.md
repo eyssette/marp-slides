@@ -152,7 +152,7 @@ conséquentialisme / morale conséquentialiste -->
 img {position:absolute!important; top:0; left:0; width:100%!important; display:block;  margin: 40px 0px; }
 </style>
 
-1) ![](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/utilitarisme-2.dot-part1.svg)
+1. ![](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/utilitarisme-2.dot-part1.svg)
 1) ![](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/utilitarisme-2.dot-part2.svg)
 1) ![](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/utilitarisme-2.dot-part3.svg)
 1) ![](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/utilitarisme-2.dot-part4.svg)
@@ -191,7 +191,7 @@ img {position:absolute!important; top:0; left:0; width:100%!important; display:b
 </style>
 
 
-1) ![](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/utilitarisme-2.dot-part6.svg)
+1. ![](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/utilitarisme-2.dot-part6.svg)
 1) ![](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/utilitarisme-2.dot-part7.svg)
 1) ![](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/utilitarisme-2.dot-part8.svg)
 
@@ -214,7 +214,7 @@ La défense d'un devoir de donner de l'argent à des associations humanitaire
 img {position:absolute!important; top:0; left:0; width:100%!important; display:block;  margin: 40px 0px; }
 </style>
 
-1) ![](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/utilitarisme-2.dot-part8.svg)
+1. ![](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/utilitarisme-2.dot-part8.svg)
 1) ![](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/utilitarisme-2.dot.svg)
 
 ---
@@ -241,7 +241,7 @@ déontologie / morale déontologique -->
 img {position:absolute!important; top:0; left:0; height:100%!important; display:block;  margin: 0px 45px; }
 </style>
 
-1) ![](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/philosophie-morale-de-Kant-2.dot-part1.svg)
+1. ![](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/philosophie-morale-de-Kant-2.dot-part1.svg)
 1) ![](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/philosophie-morale-de-Kant-2.dot-part2.svg)
 1) ![](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/philosophie-morale-de-Kant-2.dot-part3.svg)
 
@@ -261,7 +261,7 @@ Quelques exemples d'actions qui semblent morales, mais qui sont guidées par l'i
 img {position:absolute!important; top:0; left:0; height:100%!important; display:block;  margin: 0px 45px; }
 </style>
 
-1) ![](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/philosophie-morale-de-Kant-2.dot-part3.svg)
+1. ![](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/philosophie-morale-de-Kant-2.dot-part3.svg)
 1) ![](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/philosophie-morale-de-Kant-2.dot-part4.svg)
 1) ![](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/philosophie-morale-de-Kant-2.dot-part5.svg)
 1) ![](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/philosophie-morale-de-Kant-2.dot-part6.svg)
@@ -296,7 +296,7 @@ h4{margin-bottom:5px!important;}
 img {position:absolute!important; top:0; left:0; height:100%!important; display:block;  margin: 0px 45px; }
 </style>
 
-1) ![](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/philosophie-morale-de-Kant-2.dot-part6.svg)
+1. ![](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/philosophie-morale-de-Kant-2.dot-part6.svg)
 1) ![](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/philosophie-morale-de-Kant-2.dot-part7.svg)
 1) ![](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/philosophie-morale-de-Kant-2.dot.svg)
 
