@@ -304,117 +304,6 @@ Reconstruction de l'argument de Hobbes
 
 <!-- https://eyssette.github.io/argument-map/#[{%22id%22:%22p2%22,%22text%22:%22Je%20ne%20peux%20pas%20par%20mon%20seul%20pouvoir%20me%20garantir%20de%20la%20libert%C3%A9%20des%20autres%22,%22x%22:1870,%22y%22:513,%22lineType%22:%22solid%22},{%22id%22:%22p1%22,%22text%22:%22La%20libert%C3%A9%20des%20autres%20est%20un%20obstacle%20%C3%A0%20ma%20libert%C3%A9%22,%22x%22:1596,%22y%22:502,%22lineType%22:%22solid%22},{%22id%22:%22c1%22,%22text%22:%22Il%20doit%20y%20avoir%20un%20pouvoir%20commun%20qui%20prot%C3%A8ge%20chacun%20des%20exc%C3%A8s%20possibles%20de%20la%20libert%C3%A9%20des%20autres%22,%22x%22:1732,%22y%22:709,%22lineType%22:%22solid%22},{%22id%22:%22dwaho%22,%22text%22:%22Ce%20pouvoir%20ne%20peut%20exister%20que%20si%20nous%20acceptons%20de%20laisser%20ce%20pouvoir%20d%C3%A9cider%20des%20r%C3%A8gles%20communes%22,%22x%22:2012,%22y%22:707,%22lineType%22:%22solid%22},{%22id%22:%22btouk%22,%22text%22:%22Le%20pouvoir%20commun%20repose%20sur%20un%20abandon%20d'une%20partie%20de%20sa%20libert%C3%A9%20et%20sur%20une%20autorisation%20donn%C3%A9e%20%C3%A0%20l'autorit%C3%A9%20de%20d%C3%A9cider%20des%20r%C3%A8gles%22,%22x%22:1877,%22y%22:929,%22lineType%22:%22solid%22},{%22id%22:%22so8za%22,%22text%22:%22Mais%20il%20faut%20aussi%20qu'il%20n'y%20ait%20pas%20d'int%C3%A9r%C3%AAt%20%C3%A0%20ne%20pas%20suivre%20les%20r%C3%A8gles%20communes%22,%22x%22:2123,%22y%22:909,%22lineType%22:%22solid%22},{%22id%22:%22cql2d%22,%22text%22:%22Le%20pouvoir%20commun%20doit%20avoir%20les%20moyens%20de%20sanctionner%20le%20non-respect%20des%20r%C3%A8gles%20:%20au%20lieu%20de%20craindre%20les%20autres,%20il%20faut%20que%20chacun%20craigne%20le%20pouvoir%22,%22x%22:2011,%22y%22:1169,%22lineType%22:%22solid%22},{%22id%22:%221djdk%22,%22type%22:%22donc%22,%22from%22:[%22p1%22,%22p2%22],%22to%22:%22c1%22},{%22id%22:%22atdgg%22,%22type%22:%22donc%22,%22from%22:[%22c1%22,%22dwaho%22],%22to%22:%22btouk%22},{%22id%22:%22w3u6q%22,%22type%22:%22donc%22,%22from%22:[%22btouk%22,%22so8za%22],%22to%22:%22cql2d%22}] -->
 
-
-<!--
-
-———
-Blog Lenuki :
-nul ne peut par son propre pouvoir se garantir de la liberté des autres
- d’où l’appel à un pouvoir absolu pour « encadrer étroitement » les libertés
-
- Institution volontaire d’un appareil de règles destiné à régir de manière rigoureuse la conduite des hommes.
-
-———
-Cf. Cours Guillaume Durieux : 
-La sécurité est obtenue parce que chacun a abandonné son droit naturel à faire ce qu'il veut faire quand il le veut. L’État, créé par le contrat, accorde en retour aux individus des droits positifs.
-Il s'agit donc pour Hobbes que chacun abandonne une grande partie de ses droits naturels pour obtenir la garantie du droit positif. Je renonce à me faire justice moi-même au profit d'une instance tierce qui assure la justice. C'est l’État. L’État est l'institution politique souveraine qui organise la société au sein d'un territoire donné. La souveraineté est l'attribut de ce qui décide en dernière instance.
-
-Le droit positif est l'ensemble des règles juridiques instituées qui régissent les rapports entre les hommes au sein d'une société.
-
- au point de départ, il n'existe qu'une diversité d'hommes sans liens particuliers les uns avec les autres et qui sont en état de guerre. On parle alors de multitude parce qu'il n'existe aucune unité entre eux. 
-
- Mais cet état de guerre est intenable et les hommes finissent par en sortir en transférant leurs droits naturels – qui sont à l'origine de cet état de guerre – à un individu hors contrat qui aura pour charge d'établir la sécurité. Cet individu est désigné pour les représenter : il est autorisé à édicter des règles qui valent pour tous ceux qui ont contracté. La multitude se donne donc un représentant. En retour, ce représentant se voit attribuer toute la puissance commune. Il est donc souverain absolu. Il exerce donc son autorité sur tous les individus qui ont passé le contrat. Mais ces individus ne sont plus dispersés, ils sont liés sous une autorité commune. C'est-à-dire qu'ils ne composent plus une multitude mais un peuple. Un peuple est un ensemble d'individus vivant sur le même territoire et ayant des institutions politiques communes. Le peuple, à la différence de la multitude, est une réalité politique. C'est donc la désignation du représentant, le souverain, qui crée et fait exister le représenté, le peuple.
-
-———
-
-abandon et autorisation
-abandon 
-
-état de nature : pas de règles qui limitent nos actions / mais autrui est toujours un obstacle potentiel
-pouvoir : règles qui limitent nos actions / autrui a moins d'intérêt à faire obstacle à mes actions
-
----
-_class: fmm
-|Pour limiter les effets pervers de …|il faut sanctionner …|et protéger ainsi …|
-|:-:|:-:|:-:|
-|la fierté|les agressions|les personnes|
-|la rivalité|le vol|les biens|
-|la défiance|le non-respect des engagements|les contrats entre personnes| -->
-
-
-<!-- 
-Il faut qu'il existe un pouvoir supérieur qui doit limiter la liberté de chacun pour pouvoir garantir la sécurité, la confiance et rendre possible la coopération.
-Il est nécessaire d'instaurer des règles de droit :
-1. Protection des personnes : sanction contre les agressions (pour limiter les effets pervers de la fierté)
-2. Protection des biens : sanction contre le vol (pour limiter les effets pervers de la rivalité)
-3. Protection des contrats entre les personnes : sanction contre le non-respect des engagements (pour limiter les effets pervers de la défiance)
-Tableau :
-|Pour limiter les effets pervers de …|… il faut sanctionner …|… et protéger ainsi …|
-|:-:|:-:|:-:|
-|la fierté|les agressions|les personnes|
-|la rivalité|le vol|les biens|
-|la défiance|le non-respect des engagements|les contrats entre personnes|
-
-————
-
-Il faut limiter la liberté de chacun pour pouvoir garantir la sécurité, la confiance et rendre possible la coopération.
-Sanctionner  : le vol (droit de propriété), l'escroquerie / le non-respect des engagement (droit des contrats) / les agressions 
-
----
-Il faut limiter la liberté de chacun pour pouvoir garantir la sécurité, la confiance et rendre possible la coopération.
-Il faut des règles d'attribution, d'acquisition des biens (un droit de propriété) : pour limiter les conflits causés par la rivalité matérielle
-Il faut des règles de protection des contrats (droit) : pour limiter les conflits causés par la défiance.
-Il faut des règles  des agressions : pour limiter les conflits causés par la fierté
-
-----
-
-Il faut limiter la liberté de chacun pour pouvoir garantir la sécurité, la confiance et rendre possible la coopération.
-Droit de propriété : pour limiter la rivalité matérielle 
-pour limiter la rivalité sociale
-pour limiter la défiance : sanctions contre le non-respect des engagements  (// droit des contrats / droit des affaires)
-pour limiter les querelles causées par la fierté : sanction contre l'agression 
-Rôle du droit : dire ce qui n'est pas autorisé ; imposer des limites
-Droit positif : les interdits que posent les textes décidés par le pouvoir
-
-L'instauration de lois n'efface pas la nature de l'être humain. Les règles de droit sont au contraire fondées sur la reconnaissance de l'existence d'un désir naturel de puissance des êtres humains.
-
----
-
-À l’état de nature, la liberté est illimitée en droit, mais de fait limitée par la liberté des autres.
-Il est dans l’intérêt des individus de rechercher la paix.
-
-La paix repose sur une renonciation réciproque à son droit sur toutes choses.
-Le contractualisme de Hobbes. Comparaison avec Kant.
-
-Le pouvoir politique peut, par la menace de la sanction, garantir le respect des engagements (on est ici dans le cadre de la justice rétributive, de la justice pénale).
-Les lois garantissent une confiance dans les relations interindividuelles, en sanctionnant le non-respect des engagements
-L’efficacité des sanctions repose :
-sur une forme de calcul d’intérêt
-et sur un déplacement de la crainte : on doit passer de la méfiance généralisée vis-à-vis d’autrui (dans l’état de guerre), à la crainte du pouvoir (dans l’état civil)
-Le pouvoir politique garantit le respect du droit de propriété des individus (on est ici dans le cadre de la justice distributive).
-Le renoncement à son droit sur toutes choses suppose l’existence de règles d’attribution des biens
-Hobbes s’oppose à l’idée d’un droit naturel de propriété qu’on retrouve par exemple chez Locke.
-
-
- -->
-
-<!-- 
-Exemple : ?
-
-Manche de guitare / Blow up
-https://drive.google.com/file/d/0B33DtpyVkjZFb3AycEdmVVZqME0/view?usp=sharing&resourcekey=0-dFaoHKQkVrVBsEJjN7hxRg
-
-désir mimétique :  autre obstacle à la constitution de sa propre volonté
-(modèles imposés : cf. Billy Elliot)
-Autre réduit à l'état d'objet : de moyen ou d'obstacle
-
-
-Lost : à partir de 37 minutes
-https://english-with-fun.org/tv-show/lost/season/1/episode/5
-
- -->
-
-
 ---
 <!-- _class: partie -->
 # II – Marx <!-- fit -->
@@ -489,7 +378,7 @@ https://eyssette.github.io/argument-map/#[{%22id%22:%22p2%22,%22text%22:%22Les%2
 # Mise en pratique
 
 ---
-<!-- _class: exercice application fmmmm -->
+<!-- _class: exercice application fmm -->
 <style scoped>
 h3 {margin-bottom:10px}
 ul ul {font-size:100%; margin-left:-40px}
@@ -505,4 +394,4 @@ span {font-size:90%}
   - La liberté exclut-elle toute limite ?
   - La liberté de chacun a-t-elle pour condition la liberté de tous ?
   - La vie sociale est-elle toujours conflictuelle ?
-- Rédiger une sous-partie de dissertation <span>(200 mots minimum)</span> : :warning: <span>il faut défendre une seule réponse, mobiliser le cours (le stoïcisme d'Épictète ou Platon), et utiliser le modèle ARES</span>
+- Rédiger une sous-partie de dissertation <span>(200 mots minimum)</span> : :warning: <span>il faut défendre une seule réponse, mobiliser le cours (Hobbes ou Marx), et utiliser le modèle ARES</span>
