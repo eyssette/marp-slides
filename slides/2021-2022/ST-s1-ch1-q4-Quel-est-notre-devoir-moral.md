@@ -272,7 +272,7 @@ img {position:absolute!important; top:0; left:0; width:100%!important; display:b
 
 ---
 <!-- _class: i1t0 pp-->
-![](../images/impacts-changement-climatique-t.jpeg)
+![](../../images/impacts-changement-climatique-t.jpeg)
 
 ---
 <!-- _class: pp -->
