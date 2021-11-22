@@ -29,7 +29,7 @@ ul {
     margin-left:0px;
     padding:0;
     height:590px!important;
-    max-width:490px;
+    max-width:440px;
 }
 ul li {
     margin:0;
@@ -51,7 +51,7 @@ div {margin-top:-0.15em}
 - La fidélité en amour
 - Les drogues
 - L’avortement
-- L’usage des biotechnologies (dopage, modifications génétiques) pour améliorer l’être humain
+- L’usage des biotechnologies (dopage, modifications génétiques) pour améliorer <br>l’être humain
 - La gestation pour autrui<br/>(les mères porteuses)
 - Le mariage homosexuel
 - L’adoption d’un enfant par un couple homosexuel
