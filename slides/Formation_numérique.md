@@ -426,6 +426,12 @@ https://www.franceculture.fr/emissions/le-journal-de-la-philo/la-philosophie-a-v
 Quelques livres audio, mais pass beaucoup :
 https://www.audiocite.net/livres-audio-gratuits-philosophies/?
 http://www.ac-grenoble.fr/PhiloSophie/old2/articles.php?lng=fr&pg=17022
+
+Chaîne d'Alexis Dayon :
+https://www.youtube.com/channel/UCehsQEy2LkO6x2o9oqlB1Wg
+
+https://www.youtube.com/watch?v=k8EHY6kTsTY&list=PL_aACN2VbFi7x43qhE_lLRbf6lNBL4eUZ
+
  -->
 
 ---

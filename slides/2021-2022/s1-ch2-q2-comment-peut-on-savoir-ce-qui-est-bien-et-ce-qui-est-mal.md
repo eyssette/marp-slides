@@ -248,6 +248,9 @@ img {position:absolute!important; top:0; left:0; width:100%!important; display:b
 1) ![](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/utilitarisme-2.dot-part7.svg)
 1) ![](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/utilitarisme-2.dot-part8.svg)
 
+---
+<!-- _class: i1t0 pp-->
+[![](../../images/impacts-changement-climatique-t.jpeg)](https://fr.wikipedia.org/wiki/R%C3%A9chauffement_climatique)
 
 ---
 <!-- _class: i2t1 pp rapprocher-->
