@@ -76,9 +76,9 @@ h4 {font-size:0.58em!important;text-align:center; margin-bottom:10px}
 - La dictature
 - Les discriminations
 - Les réflexes et les comportements instinctifs
-- L’enfant par rapport à l’adulte
-- Le pauvre par rapport au riche
-- L’esclave par rapport au citoyen
+- L’adulte par rapport à l’enfant
+- Le riche par rapport au pauvre
+- L'esclavage
 - Penser par soi-même et faire preuve d’esprit critique
 - Être menacé par quelqu'un
 - Désirer arrêter de fumer, mais continuer à le faire
