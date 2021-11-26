@@ -40,7 +40,7 @@ ul {
     margin-left:0px;
     padding:0;
     height:590px!important;
-    max-width:490px;
+    max-width:448px;
 }
 ul li {
     margin:0;
@@ -70,14 +70,14 @@ span {font-size:0.90em}
 - Penser par soi-même et faire preuve d’esprit critique
 - Être menacé par quelqu'un
 - Désirer arrêter de fumer, mais continuer à le faire
-- Agir de manière impulsive, être incapable de maîtriser ses désirs, avoir une addiction
-- Être sans cesse distrait par les réseaux sociaux
+- Agir de manière impulsive, <br>être incapable de maîtriser ses désirs, avoir une addiction
+- Être sans cesse distrait <br>par les réseaux sociaux
 - Avoir une phobie
-- Se comporter conformément aux stéréotypes masculins ou féminins <span>(agir ainsi parce qu'on pense que c'est son rôle d'homme ou de femme)</span>
-- Être endoctriné, ou fortement influencé
-- Être sous l’emprise d’une maladie mentale
+- Se comporter conformément <br>aux stéréotypes masculins ou féminins <span>(agir ainsi parce qu'on pense que c'est son rôle d'homme <br>ou de femme)</span>
+- Être endoctriné, ou <br>fortement influencé
+- Être sous l’emprise <br>d’une maladie mentale
 - Acheter quelque chose
-- Vouloir faire médecine, comme ses parents
+- Vouloir faire médecine, <br>comme ses parents
 </div>
 
 

@@ -299,7 +299,7 @@ figure {margin-left:-3em!important}
 
 ![bg left:42% photographie de Lévi Strauss](https://i.ibb.co/Mk6RR8X/Levi-Strauss.jpg)
 
->« L’attitude la plus ancienne […] consiste à répudier purement et simplement les formes culturelles, morales, religieuses, sociales, esthétiques, qui sont les plus éloignées de celles auxquelles nous nous identifions. « Habitudes de sauvages », « cela n’est pas de chez nous », « on ne devrait pas permettre cela », etc. »
+>« L’attitude la plus ancienne […] consiste à répudier purement et simplement les formes culturelles, morales, religieuses, sociales, esthétiques, qui sont les plus éloignées de celles auxquelles nous nous identifions. “Habitudes de sauvages”, “cela n’est pas de chez nous”, “on ne devrait pas permettre cela”, etc. »
 >>Claude **Lévi-Strauss**, _Race et histoire_
 
 

@@ -144,14 +144,14 @@ p:nth-of-type(2){width:470px!important; margin-left:-10px;}
 ### Le cas Eichmann
 [![Photographies du procès Eichmann](../images/eichmann.jpg)](https://drive.google.com/file/d/0B1WGm8LGlYXzUnRleXdpYVc0RUk/view)
 
-En 1960, le responsable SS du transport des prisonniers juifs dans l’Allemagne nazie, Adolf Eichmann, est arrête et jugé. Lors de son procès, Eichmann se présente comme « un modeste et petit fonctionnaire », simple « rouage » de la machine nazie. C’est donc le spécialiste de la logistique qui parle : « Je ne m’occupais que des horaires. Si un convoi ne partait pas à l’heure et au jour prévus, l’ensemble du système était démoli. » Autre morceau choisi, cette fois sur l’envoi de six convois d’enfants juifs français. « Puisqu’il s’agissait de déporter tous les juifs, il fallait bien y inclure les enfants. On a l’impression que je me suis acharné sur les enfants. En fait, cela était logique. » L’accusé parle sans aucune émotion. Il semble que ces enfants n’ont jamais troublé sa conscience.
+En 1960, le responsable SS du transport des prisonniers juifs dans l’Allemagne nazie, Adolf Eichmann, est arrête et jugé. Lors de son procès, Eichmann se présente comme “un modeste et petit fonctionnaire”, simple “rouage” de la machine nazie. C’est donc le spécialiste de la logistique qui parle : “Je ne m’occupais que des horaires. Si un convoi ne partait pas à l’heure et au jour prévus, l’ensemble du système était démoli.” Autre morceau choisi, cette fois sur l’envoi de six convois d’enfants juifs français. “Puisqu’il s’agissait de déporter tous les juifs, il fallait bien y inclure les enfants. On a l’impression que je me suis acharné sur les enfants. En fait, cela était logique.” L’accusé parle sans aucune émotion. Il semble que ces enfants n’ont jamais troublé sa conscience.
 
 ---
 <!-- _class: i1t2 fmmmmmmmmmmm contain pp -->
 <style scoped>
 h3{margin-bottom:25px}
 p:nth-of-type(1){width:400px; padding-right:40px}
-p:nth-of-type(2){width:500px!important; margin-left:-0px;}
+p:nth-of-type(2){width:500px!important; margin-left:-15px; padding-right:30px}
 </style>
 
 ### La lettre de Willy Just
@@ -187,7 +187,13 @@ Deuxième partie
 ### Définition
 Les **morales de la raison** affirment que, pour savoir ce qu'est le bien et le mal, il faut réfléchir : soit avant tout aux **conséquences** de nos choix, soit avant tout aux **principes** de nos choix.
 
-<!-- Ancien schéma : ![Schéma sur les deux formes de morale de la raison](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/deux-formes-de-morale-de-la-raison.svg)
+<!-- 
+Morales de la raison
+	Morale des conséquences / "conséquentialisme" / Exemple : l'utilitarisme de Bentham
+	Morale des principes / "déontologisme" / Exemple : philosophie morale de Kant
+
+
+Ancien schéma : ![Schéma sur les deux formes de morale de la raison](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/deux-formes-de-morale-de-la-raison.svg)
  -->
 
 
@@ -206,12 +212,70 @@ img {position:absolute!important; top:0; left:0; width:100%!important; display:b
 </style>
 
 1. ![](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/utilitarisme-2.dot-part1.svg)
+
+
+---
+<!-- _class: citationC fppp -->
+<style scoped>
+figure {margin-right:-2em!important}
+</style>
+
+![bg left:35% Portrait de Bentham](https://upload.wikimedia.org/wikipedia/commons/c/c8/Jeremy_Bentham_by_Henry_William_Pickersgill_detail.jpg)
+
+>« L'objet que nous nous proposons dans cet ouvrage, c'est de faire ressortir les rapports qui unissent l’intérêt au devoir dans toutes les choses de la vie […] [Q]u'est-ce que la vertu ? C'est ce qui contribue le plus au bonheur, ce qui maximise les plaisirs et minimise les peines. Le vice, au contraire, c'est ce qui diminue le bonheur et contribue au malheur. »
+>>**Bentham**, _Déontologie, ou Science de la morale_, t.I 
+
+---
+<!-- _class: pp -->
+<style scoped>
+img {position:absolute!important; top:0; left:0; width:100%!important; display:block;  margin: 40px 0px; }
+</style>
+
+1. ![](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/utilitarisme-2.dot-part1.svg)
 1) ![](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/utilitarisme-2.dot-part2.svg)
 1) ![](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/utilitarisme-2.dot-part3.svg)
+
+---
+<!-- _class: citationC fmm -->
+<style scoped>
+figure {margin-right:-2em!important}
+</style>
+
+![bg left:35% Portrait de Bentham](https://upload.wikimedia.org/wikipedia/commons/c/c8/Jeremy_Bentham_by_Henry_William_Pickersgill_detail.jpg)
+
+>« [P]our être véritablement utile, il faut [que le moraliste] aille à la découverte des conséquences qui doivent résulter d'une action donnée ; il faut qu'il les recueille le mieux qu'il le pourra […]. La valeur des peines et des plaisirs peut être estimée par leur intensité, leur durée, leur certitude, leur proximité et leur étendue. Leur intensité, leur durée, leur proximité et leur certitude regardent les individus. Leur étendue concerne le nombre des personnes placées sous leur influence. Ce que certaines de ces qualités ont en plus, peut contre-balancer ce que certaines autres ont en moins. »
+>>**Bentham**, _Déontologie, ou Science de la morale_, t.I 
+
+---
+<!-- _class: pp -->
+<style scoped>
+img {position:absolute!important; top:0; left:0; width:100%!important; display:block;  margin: 40px 0px; }
+</style>
+
+1. ![](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/utilitarisme-2.dot-part3.svg)
 1) ![](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/utilitarisme-2.dot-part4.svg)
+
+
+---
+<!-- _class: citationC fmmmmmm -->
+<style scoped>
+figure {margin-right:-4em!important}
+</style>
+
+![bg left:32% Portrait de Bentham](https://upload.wikimedia.org/wikipedia/commons/c/c8/Jeremy_Bentham_by_Henry_William_Pickersgill_detail.jpg)
+
+>«  [I]l est malheureux que les hommes abordent la discussion de questions importantes, déterminés d'avance sur la solution qu'ils leur donneront. On dirait qu'ils se sont préalablement engagés envers eux-mêmes à trouver bons certains actes, certains autres mauvais. Mais [il ne faut point admettre] ces décisions péremptoires. Avant de condamner un acte, il [faut] que son incompatibilité avec le bonheur des hommes soit démontrée. De telles investigations ne conviennent point à l'instructeur dogmatique. […] Pour soutenir son opinion, il fera de cette opinion un principe. « Je proclame que ces choses ne sont pas bien, dit-il avec une dose suffisante d'assurance, donc elles ne sont pas bien. » […] Que devient alors la tâche du moraliste ? Il peut mettre sous les yeux de celui qui l'interroge un aperçu des probabilités de l'avenir, plus exact et plus complet qu'il ne se serait offert à ses regards au milieu des influences du moment. »
+>>**Bentham**, _Déontologie, ou Science de la morale_, t.I 
+
+---
+<!-- _class: pp -->
+<style scoped>
+img {position:absolute!important; top:0; left:0; width:100%!important; display:block;  margin: 40px 0px; }
+</style>
+
+1. ![](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/utilitarisme-2.dot-part4.svg)
 1) ![](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/utilitarisme-2.dot-part5.svg)
 1) ![](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/utilitarisme-2.dot-part6.svg)
-
 
 ---
 <!-- _class: i1t1 pp -->
@@ -284,6 +348,16 @@ La critique de la production industrielle de viande
 
 ![Photographie de l'entassement de poulets industriels](https://i.ibb.co/TmP73HH/poulets-industriels.jpg)
 
+<!-- Ajouter : expérimentation animale : les 3R -->
+
+<!-- Ajouter : slide sur les limites des morales des conséquences : 
+1. Calcul complexe, difficile voire impossible
+peut conduire à l'irrésolution, au scepticisme moral
+2. Les personnes sont réduites à de simples paramètres dans un calcul global
+question de la légitimité de sacrifice de certains au profit d'un bien global -->
+
+<!-- Ajouter : dilemme du tramway ? -->
+
 ---
 <!-- _class: souspartie -->
 ## B. La philosophie morale de Kant
@@ -310,6 +384,10 @@ Quelques exemples d'actions qui semblent morales, mais qui sont guidées par l'i
 2) Agir par crainte du regard d'autrui, agir par crainte de la sanction 
 3) Agir par désir de reconnaissance sociale, agir pour avoir une bonne réputation
 4) Agir comme Valmont, dans _Les liaisons dangereuses_ ([lettres 21 et 22](https://docs.google.com/document/d/178hLNAjuEX5eUXoIM88Hy3RqXbbVJPJx6SDuK5Aao24/edit)), qui se donne l'apparence de la vertu pour séduire une femme sensible aux actions morales.
+
+<!--
+greenwashing
+donner de l'argent à des associations humanitaires pour payer moins d'impôts -->
 
 ---
 <!-- _class: pp -->

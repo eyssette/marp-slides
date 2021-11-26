@@ -152,7 +152,7 @@ Deux autres stratégies pour analyser une notion :
 
 
 ---
-<!-- _class: pointmethode fmm -->
+<!-- _class: pointmethode fmmm -->
 <style scoped>
 table td, table th, table  {background-color:#E9EFE1;}
 table{margin-left:38px; width:887px; padding-bottom:30px;}
