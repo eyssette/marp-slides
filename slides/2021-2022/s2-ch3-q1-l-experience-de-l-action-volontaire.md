@@ -13,18 +13,6 @@ h1 {font-size:1.92em}
 Cédric Eyssette (2021-2022)
 https://eyssette.github.io/
 
-
----
-<!-- _class: i1t0 pp -->
-
-[![Affiche de la série Westworld](https://i.ibb.co/sHbKssT/westworld-t.jpg)](https://video.link/w/AVIKb)
-
-<!-- 
-Ces androïdes ont-ils un libre arbitre ?
-Y a-t-il une différence fondamentale entre ces androïdes et nous-mêmes ?
- -->
-
-
 ---
 <!-- _class:  -->
 <style scoped>
@@ -50,8 +38,6 @@ vs.
 <!--
 Textes : 
  -->
-
-
 
 ---
 <!-- _class: partie -->
@@ -137,3 +123,42 @@ h3 {margin-bottom:-0.35em}
 ---
 <!-- _class: i1t0 pp -->
 [![](../../images/argument-action-volontaire-libre-arbitre.png)](https://eyssette.github.io/argument-map/#[{%22id%22:%22hf4bp%22,%22text%22:%22Quand%20j'agis%20volontairement,%20mon%20acte%20est%20le%20produit%20de%20mon%20intention%22,%22x%22:265,%22y%22:109,%22lineType%22:%22solid%22},{%22id%22:%22j6ikl%22,%22text%22:%22Quand%20j'agis%20volontairement,%20mon%20intention%20est%20vraiment%20la%20mienne%22,%22x%22:955,%22y%22:102,%22lineType%22:%22solid%22},{%22id%22:%22lbjtp%22,%22text%22:%22Quand%20j'agis%20volontairement,%20mon%20acte%20n'est%20pas%20l'effet%20d'une%20cause%20ext%C3%A9rieure%22,%22x%22:204,%22y%22:388,%22lineType%22:%22solid%22},{%22id%22:%229y51w%22,%22text%22:%22Quand%20j'agis%20volontairement,%20mon%20acte%20n'est%20pas%20l'effet%20d'un%20automatisme%20interne%20physiologique%20ou%20neurologique%22,%22x%22:471,%22y%22:356,%22lineType%22:%22solid%22},{%22id%22:%22zpt26%22,%22text%22:%22Quand%20j'agis%20volontairement,%20mon%20intention%20n'est%20pas%20le%20produit%20d'une%20contrainte%20ou%20d'une%20manipulation%20mentale%22,%22x%22:821,%22y%22:351,%22lineType%22:%22solid%22},{%22id%22:%22z7k97%22,%22text%22:%22Quand%20j'agis%20volontairement,%20mon%20intention%20n'est%20pas%20le%20produit%20d'un%20trouble%20psychique%22,%22x%22:1078,%22y%22:389,%22lineType%22:%22solid%22},{%22id%22:%2209z96%22,%22text%22:%22Quand%20j'agis%20volontairement,%20je%20suis%20la%20source%20de%20mes%20actions%20et%20je%20suis%20ma%C3%AEtre%20de%20la%20d%C3%A9cision%20que%20je%20prends%22,%22x%22:656,%22y%22:620,%22lineType%22:%22solid%22},{%22id%22:%22wu9in%22,%22text%22:%22Quand%20j'agis%20volontairement,%20j'ai%20un%20libre%20arbitre%22,%22x%22:657,%22y%22:813,%22lineType%22:%22solid%22},{%22id%22:%22d1ohi%22,%22type%22:%22donc%22,%22from%22:[%22hf4bp%22],%22to%22:%22lbjtp%22},{%22id%22:%22faqhf%22,%22type%22:%22donc%22,%22from%22:[%22hf4bp%22],%22to%22:%229y51w%22},{%22id%22:%22ce7ts%22,%22type%22:%22donc%22,%22from%22:[%22j6ikl%22],%22to%22:%22zpt26%22},{%22id%22:%22839fg%22,%22type%22:%22donc%22,%22from%22:[%22j6ikl%22],%22to%22:%22z7k97%22},{%22id%22:%22jp6md%22,%22type%22:%22donc%22,%22from%22:[%2209z96%22],%22to%22:%22wu9in%22},{%22id%22:%22pqti6%22,%22type%22:%22donc%22,%22from%22:[%229y51w%22,%22lbjtp%22],%22to%22:%2209z96%22},{%22id%22:%22705gb%22,%22type%22:%22donc%22,%22from%22:[%22zpt26%22,%22z7k97%22],%22to%22:%2209z96%22}])
+
+
+<!-- 
+≠ Argument des possibilités alternatives
+https://eyssette.github.io/argument-map/#[{"id":"gneop","type":"donc","from":["zpt26"],"to":"jozk6"},{"id":"be0s9","type":"donc","from":["jozk6"],"to":"levpg"},{"id":"levpg","text":"Quand je prends une décision après réflexion, j'ai un libre arbitre","x":460,"y":721,"lineType":"solid"},{"id":"jozk6","text":"Quand je prends une décision après réflexion, je suis maître de la décision que je prends","x":455,"y":541,"lineType":"solid"},{"id":"znd79","type":"donc","from":["a6ryk"],"to":"zpt26"},{"id":"a6ryk","text":"Quand je réfléchis avant de prendre une décision, je peux envisager plusieurs possibilités","x":459,"y":160,"lineType":"solid"},{"id":"zpt26","text":"Quand je prends une décision après réflexion, j'aurais pu faire un autre choix","x":458,"y":353,"lineType":"solid"}]
+ -->
+
+---
+<!-- _class: partie -->
+# II – Les limites de cet argument
+Deuxième partie
+
+---
+<!-- _class: i1t0  -->
+
+[![Affiche de la série Westworld](https://i.ibb.co/sHbKssT/westworld-t.jpg)](https://video.link/w/AVIKb)
+
+<!-- 
+Ces androïdes ont-ils un libre arbitre ?
+Y a-t-il une différence fondamentale entre ces androïdes et nous-mêmes ?
+ -->
+
+
+---
+<!-- _class: citationC -->
+
+![bg left:40%](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Spinoza.jpg/1032px-Spinoza.jpg)
+
+>« Telle est cette liberté humaine que tous les hommes se vantent d'avoir et qui consiste en cela seul que les hommes sont conscients de leurs désirs et ignorants des causes qui les déterminent ! »
+>>**Spinoza**, _Lettre 58_ à Schuller
+
+
+---
+<!-- _class: citationC fmmm-->
+
+![bg left:32% Portrait de Leibniz](https://upload.wikimedia.org/wikipedia/commons/6/6a/Gottfried_Wilhelm_von_Leibniz.jpg)
+
+>« La raison que M. Descartes a alléguée, pour prouver l’indépendance de nos actions libres par un prétendu sentiment vif interne, n’a point de force. Nous ne pouvons pas sentir proprement notre indépendance, et nous ne nous apercevons pas toujours des causes, souvent imperceptibles, dont notre résolution dépend. C’est comme si l’aiguille aimantée prenait plaisir de se tourner vers le nord ; car elle croirait tourner indépendamment de quelque autre cause, ne s’apercevant pas des mouvements insensibles de la matière magnétique. […] Nous suivons toujours, en voulant, le résultat de toutes les inclinations qui viennent, tant du côté des raisons que des passions, ce qui se fait souvent sans un jugement exprès de l’entendement. »
+>>**Leibniz**, *Essais de théodicée*, §50-51, 1710
