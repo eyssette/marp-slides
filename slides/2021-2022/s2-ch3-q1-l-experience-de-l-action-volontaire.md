@@ -13,6 +13,11 @@ h1 {font-size:1.92em}
 Cédric Eyssette (2021-2022)
 https://eyssette.github.io/
 
+
+---
+<!-- _class:  -->
+[![](https://scontent-mrs2-2.xx.fbcdn.net/v/t31.18172-8/10900077_796863373719804_4402004056348810576_o.jpg?_nc_cat=102&ccb=1-5&_nc_sid=e3f864&_nc_ohc=xyoKM1YstcAAX_gb4NI&_nc_ht=scontent-mrs2-2.xx&oh=10fb48237fbf758101a26eb4ac5ab774&oe=61CADE68)](https://ladigitale.dev/digiplay/#/v/61a479ee0e918)
+
 ---
 <!-- _class:  -->
 <style scoped>

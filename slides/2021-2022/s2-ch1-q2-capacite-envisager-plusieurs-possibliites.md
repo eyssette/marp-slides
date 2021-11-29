@@ -3,7 +3,7 @@ marp: true
 theme: teaching
 paginate: true
 size: 4:3
----
+---	
 
 <!-- _class: titre -->
 
@@ -136,6 +136,14 @@ figure {margin-left:-2em!important}
 
 >« [C]’est pourquoi l’homme agit selon un jugement libre, car il a la faculté de se porter à divers objets. En effet, dans le domaine du contingent, la raison peut suivre des directions opposées […]. Or, les actions particulières sont contingentes ; par suite le jugement rationnel qui porte sur elles peut aller dans un sens ou dans l’autre, et n’est pas déterminé à une seule chose. En conséquence, il est nécessaire que l’homme ait le libre arbitre, par le fait même qu’il est doué de raison. »
 >>**Thomas d'Aquin**, _Somme théologique_, I, question 83, réponse
+
+
+---
+<!-- _class: definition fppppppppp -->
+
+### Définition
+
+Ce qui est **nécessaire**, c'est ce qui ne peut pas être autrement, c'est ce dont le contraire est impossible.<br>Ce qui est **contingent**, c'est ce qui pourrait être autrement, c'est ce dont le contraire est possible.
 
 ---
 <!-- _class: i1t0 -->
