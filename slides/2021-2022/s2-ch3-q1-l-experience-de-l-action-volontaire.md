@@ -198,26 +198,27 @@ Y a-t-il une différence fondamentale entre ces androïdes et nous-mêmes ?
 >« Telle est cette liberté humaine que tous les hommes se vantent d'avoir et qui consiste en cela seul que les hommes sont conscients de leurs désirs et ignorants des causes qui les déterminent ! »
 >>**Spinoza**, _Lettre 58_ à Schuller
 
-<!-- 2 objections :
 
-- “cette liberté … que tous les hommes se vantent d'avoir” : la croyance au libre arbitre est une cognition motivée : on croit au libre arbitre par désir de se considérer comme des exceptions dans l'univers
-- les être humains sont "conscients de leurs désirs et ignorants des causes qui les déterminent” : 
+---
+<!-- _class: fppppp sanspuces -->
+<style scoped>
+h3 {margin-bottom:0}
+</style>
+### Argument 1
 
-Notre sentiment d'être libre est plutôt révélateur de notre désir de nous croire supérieurs
-Notre sentiment d'être libre ne prouve pas que je suis la source de mes actes
+1) (1) Nous avons le sentiment d'être libre parce que nous croyons être maîtres de nos actes.
+2) (2) Cette croyance est motivée par le désir de nous croire supérieurs.
+3) (3) Si une croyance est motivée par un désir de croire, ce n'est pas une croyance fiable.
+4) Donc : Le sentiment d'être libre n'est pas une preuve du libre arbitre.
 
-Le sentiment d'être libre est plutôt révélateur de notre désir de nous croire supérieurs et maîtres de notre existence
+---
+<!-- _class: fpppp sanspuces -->
+<style scoped>
+h3 {margin-bottom:-0.25em}
+</style>
+### Argument 2
 
-Nous avons le sentiment d'être libre parce nous avons le désir de nous croire supérieurs et maîtres de notre existence
-
-Nous avons le sentiment d'être libre parce que nous ignorons les causes qui nous déterminent
-Donc : le sentiment d'être libre n'est pas une preuve du libre arbitre
-
-Pour prouver le libre arbitre, il faut pouvoir prouver que 
-
-
-Il est possible que le sentiment d'être libre soit simplement l'expression d'un désir de nous croire supérieurs et maîtres de notre existence
-
-https://eyssette.github.io/argument-map/#[{%22id%22:%22jkb1f%22,%22type%22:%22donc%22,%22from%22:[%22panis%22,%22p2%22,%229eo2c%22],%22to%22:%22mgr1a%22},{%22id%22:%22pc12j%22,%22type%22:%22donc%22,%22from%22:[%22cfkpx%22,%22p1%22,%22sx5ek%22,%22sx5ek%22],%22to%22:%22c1%22},{%22id%22:%22p1%22,%22text%22:%22Cette%20croyance%20est%20motiv%C3%A9e%20par%20le%20d%C3%A9sir%20de%20nous%20croire%20sup%C3%A9rieurs%22,%22x%22:847,%22y%22:385,%22lineType%22:%22solid%22},{%22id%22:%22panis%22,%22text%22:%22S'il%20existe%20des%20facteurs%20inconscients%20qui%20d%C3%A9terminent%20nos%20actes,%20alors%20nous%20ne%20sommes%20pas%20la%20source%20de%20nos%20actes%22,%22x%22:1534,%22y%22:370,%22lineType%22:%22solid%22},{%22id%22:%229eo2c%22,%22text%22:%22Il%20est%20possible%20d'avoir%20un%20sentiment%20d'%C3%AAtre%20libre%20alors%20qu'il%20existe%20en%20fait%20des%20facteurs%20inconscients%20qui%20d%C3%A9terminent%20nos%20actes%22,%22x%22:1756,%22y%22:414,%22lineType%22:%22solid%22},{%22id%22:%22p2%22,%22text%22:%22Nous%20avons%20le%20sentiment%20d'%C3%AAtre%20libre%20parce%20que%20nous%20croyons%20%C3%AAtre%20la%20source%20de%20nos%20actes%22,%22x%22:1313,%22y%22:413,%22lineType%22:%22solid%22},{%22id%22:%22cfkpx%22,%22text%22:%22Nous%20avons%20le%20sentiment%20d'%C3%AAtre%20libre%20parce%20que%20nous%20croyons%20%C3%AAtre%20ma%C3%AEtre%20de%20nos%20actes%22,%22x%22:623,%22y%22:432,%22lineType%22:%22solid%22},{%22id%22:%22sx5ek%22,%22text%22:%22Si%20une%20croyance%20est%20motiv%C3%A9e%20par%20un%20d%C3%A9sir%20de%20croire,%20ce%20n'est%20pas%20une%20croyance%20fiable%22,%22x%22:1058,%22y%22:436,%22lineType%22:%22solid%22},{%22id%22:%22c1%22,%22text%22:%22Le%20sentiment%20d'%C3%AAtre%20libre%20n'est%20pas%20une%20preuve%20du%20libre%20arbitre%22,%22x%22:840,%22y%22:658,%22lineType%22:%22solid%22},{%22id%22:%22mgr1a%22,%22text%22:%22Le%20sentiment%20d'%C3%AAtre%20libre%20n'est%20pas%20une%20preuve%20du%20libre%20arbitre%22,%22x%22:1541,%22y%22:648,%22lineType%22:%22solid%22}]
-
- -->
+1) (1) Nous avons le sentiment d'être libre parce que nous croyons être la source de nos actes.
+2) (2) S'il existe des facteurs inconscients qui déterminent nos actes, alors nous ne sommes pas la source de nos actes.
+3) (3) Il est possible d'avoir le sentiment d'être libre alors qu'il existe en fait des facteurs inconscients qui déterminent nos actes.
+4) Donc : Le sentiment d'être libre n'est pas une preuve du libre arbitre.
