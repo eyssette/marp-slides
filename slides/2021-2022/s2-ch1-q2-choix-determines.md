@@ -367,7 +367,7 @@ section.sanspuces ol {list-style-type:none; margin-left:-10px;}
 h3 {margin-bottom:0}
 hr {background-color:#666; padding:1px}
 </style>
-### Argument [:link:]()
+### Argument [:link:](https://eyssette.github.io/argument-map/#[{%22id%22:%22gneop%22,%22type%22:%22donc%22,%22from%22:[%22zpt26%22],%22to%22:%22jozk6%22},{%22id%22:%22be0s9%22,%22type%22:%22donc%22,%22from%22:[%22jozk6%22],%22to%22:%22levpg%22},{%22id%22:%22s4jo6%22,%22type%22:%22donc%22,%22from%22:[%22awn8d%22,%22a6ryk%22],%22to%22:%22zpt26%22},{%22id%22:%22awn8d%22,%22text%22:%22Je%20suis%20capable%20de%20r%C3%A9fl%C3%A9chir%20avant%20d'agir%22,%22x%22:493,%22y%22:347,%22lineType%22:%22solid%22},{%22id%22:%22a6ryk%22,%22text%22:%22Quand%20je%20r%C3%A9fl%C3%A9chis,%20je%C2%A0peux%20envisager%20plusieurs%20possibilit%C3%A9s%22,%22x%22:770,%22y%22:350,%22lineType%22:%22solid%22},{%22id%22:%22jozk6%22,%22text%22:%22Quand%20j'agis,%20je%20suis%20ma%C3%AEtre%20de%20la%20d%C3%A9cision%20que%20je%20prends%22,%22x%22:632,%22y%22:703,%22lineType%22:%22solid%22},{%22id%22:%22levpg%22,%22text%22:%22Quand%20j'agis,%20j'ai%20un%20libre%20arbitre%22,%22x%22:634,%22y%22:838,%22lineType%22:%22solid%22},{%22id%22:%22zpt26%22,%22text%22:%22Quand%20j'agis,%20je%20fais%20un%20choix%20mais%20un%20autre%20choix%20%C3%A9tait%20possible%20et%20j'aurais%20pu%20agir%20autrement%22,%22x%22:632,%22y%22:525,%22lineType%22:%22solid%22}])
 
 1) (1) Je suis capable de réfléchir avant d'agir.
 2) (2) Quand je réfléchis, je peux envisager plusieurs possibilités.<hr>
