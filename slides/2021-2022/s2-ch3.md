@@ -123,7 +123,8 @@ hr{padding:1px!important; background-color:#777!important}
 
 ---
 <!-- _class:  -->
-Il y a un enjeu important derrière la question du libre arbitre : <span data-marpit-fragment="1">c'est celui de la responsabilité morale.</span>
+### Un enjeu important
+<span data-marpit-fragment="1">Derrière la question du libre arbitre, il y a l'enjeu de la responsabilité morale.</span>
 
 <span data-marpit-fragment="2">Sans libre arbitre, il ne semble pas y avoir de responsabilité morale.</span>
 

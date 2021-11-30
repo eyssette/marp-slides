@@ -27,8 +27,12 @@ https://eyssette.github.io/
 <style >
 section.sanspuces ol {list-style-type:none; margin-left:-10px;}
 </style>
-1) Il y a une différence, que nous **ressentons** intérieurement, entre les actes causés par un élément **extérieur** (“avoir le bras levé par quelqu'un”) et les actes initiés par nous, qui proviennent de notre **volonté** (“lever son bras”).
-2) L'expérience ordinaire semble ainsi nous indiquer que nous sommes la **source** de nos actes et **maîtres** de nos décisions.
+<style scoped>
+ol {margin-top:-15px}
+</style>
+Il y a une différence, que nous **ressentons** intérieurement, entre les actes causés par un élément **extérieur** (“avoir le bras levé par quelqu'un”) et les actes initiés par nous, qui proviennent de notre **volonté** (“lever son bras”).
+
+1) L'expérience ordinaire semble ainsi nous indiquer que nous sommes la **source** de nos actes et **maîtres** de nos décisions.
 
 
 ---
