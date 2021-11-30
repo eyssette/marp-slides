@@ -230,6 +230,10 @@ hr {background-color:#666; padding:1px}
 4) _Donc :_ Le sentiment d'être libre n'est pas une preuve du libre arbitre.
 
 
+---
+<!-- _class: sanspuces -->
+1) Ces arguments restent **faibles** : ils montrent que l'expérience du libre arbitre pourrait ne pas être fiable, mais ils ne prouvent pas qu'elle ne l'est pas.
+2) Il faut maintenant se demander si on peut prouver **l'existence** de facteurs inconscients qui déterminent nos choix.
 
 ---
 <!-- _class: exercice application fmmmmm -->
