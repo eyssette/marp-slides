@@ -14,6 +14,17 @@ http://eyssette.github.io
 ---
 <!-- _class: -->
 <style scoped>
+section {font-size:4.5em; padding:0.4em}
+ol {list-style-type:none}
+ol li {margin-left:-0.7em!important}
+</style>
+Au sens commun, être libre, c'est …
+
+1) pouvoir faire ce que je veux
+
+---
+<!-- _class: -->
+<style scoped>
 img {position:absolute!important; top:0; left:0; width:90%!important; display:block; height:640px; margin: 40px 50px; }
 </style>
 
@@ -30,12 +41,6 @@ img {position:absolute!important; top:0; left:0; width:90%!important; display:bl
 « … Ce que je veux » : Liberté de la volonté (libre arbitre) : pouvoir de choisir et de décider par soi-même => être maître de ses actes (liberté intérieure : focalisation sur la capacité intérieure de contrôler ce que l'on fait)
 – Condition des alternatives : plusieurs choix sont possibles, il y a plusieurs possibilités alternatives parmi lesquelles je peux choisir ; avoir réellement le choix entre plusieurs possibilités alternatives
 – Condition de la source : je suis vraiment la source de mes propres actes, par les choix que je fais ; être véritablement la source de ses actes
-
-Meilleur cas pour l'absence de la liberté d'action : la prison
-Meilleur cas pour l'absence de liberté de la volonté : la maladie mentale
-Cas de la liberté d'expression : à la fois liberté d'action (action de s'exprimer), mais aussi condition de l'exercice de la pensée, de la réflexion critique => de la liberté de la volonté
-Ajouter  Exemple de Mandela ?
-
  -->
 
 ---
@@ -63,8 +68,7 @@ span {font-size:0.90em}
 h4 {font-size:0.58em!important;text-align:center; margin-bottom:10px}
 </style>
 
-
-#### De quel type de liberté est-il question dans chacun de ces cas ?
+#### Dans ces différents cas, sommes-nous libres ? En quel sens ? <!-- fit -->
 
 <div class="puces">
 
@@ -91,3 +95,47 @@ h4 {font-size:0.58em!important;text-align:center; margin-bottom:10px}
 - Acheter quelque chose
 - Vouloir faire médecine, <br>comme ses parents
 </div>
+
+
+---
+<!-- _class: fm -->
+<style scoped>
+h3{text-align:center; margin-bottom:0.5em}
+table td {width:400px; padding:30px}
+hr{padding:1px!important; background-color:#777!important}
+</style>
+
+### Exemples typiques
+
+<div data-marpit-fragment>
+
+|Liberté d'action|Libre arbitre|
+|:-:|:-:|
+|<span data-marpit-fragment="1">La liberté de circulation<br>La liberté d'expression<br>Les droits civils et politiques</span><hr><span data-marpit-fragment="2">≠ La prison, <br>la dictature, <br>la censure</span>|<span data-marpit-fragment="3">Penser par soi-même<br>Être capable de maîtriser ses<br> impulsions</span><hr><span data-marpit-fragment="4">≠ Être endoctriné, être sous l'emprise d'un trouble psychique</span>|
+
+</div>
+
+
+---
+<!-- _class: i1t0 -->
+
+[![](https://upload.wikimedia.org/wikipedia/commons/6/65/Trial_of_a_sow_and_pigs_at_Lavegny.png)](https://eyssette.github.io/ancien-blog/assets/pdf/ancien_blog/1_ethique_et_philosophie_morale/2007_2008_proces_animaux.pdf)
+
+---
+<!-- _class:  -->
+Il y a un enjeu important derrière la question du libre arbitre : <span data-marpit-fragment="1">c'est celui de la responsabilité morale.</span>
+
+<span data-marpit-fragment="2">Sans libre arbitre, il ne semble pas y avoir de responsabilité morale.</span>
+
+<span data-marpit-fragment="3">C'est la raison pour laquelle les procès d'animaux aux Moyen Âge nous semblent absurdes.</span>
+
+
+---
+<!-- _class:  -->
+<style scoped>
+ol {list-style-type:none}
+ol li {margin-left:-1em!important}
+</style>
+À première vue, nous avons un libre arbitre et nous sommes responsables moralement de nos actes.
+
+1) Mais est-ce vraiment le cas ?

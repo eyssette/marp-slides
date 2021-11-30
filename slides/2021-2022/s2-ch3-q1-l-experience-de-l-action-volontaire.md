@@ -16,7 +16,43 @@ https://eyssette.github.io/
 
 ---
 <!-- _class:  -->
+### Expérience
+
+1) Poser le bras sur la table et lever votre bras par vous-même.
+2) Poser le bras sur la table et demander à quelqu'un de vous lever le bras.
+
+
+---
+<!-- _class: sanspuces -->
+<style >
+section.sanspuces ol {list-style-type:none; margin-left:-10px;}
+</style>
+1) Il y a une différence, que nous **ressentons** intérieurement, entre les actes causés par un élément **extérieur** (“avoir le bras levé par quelqu'un”) et les actes initiés par nous, qui proviennent de notre **volonté** (“lever son bras”).
+2) L'expérience ordinaire semble ainsi nous indiquer que nous sommes la **source** de nos actes et **maîtres** de nos décisions.
+
+
+---
+<!-- _class: fpppppp -->
+<style scoped>
+ul li {font-size:0.8em; margin-left:-2em}
+h3 {margin-bottom:0}
+</style>
+### Les troubles du sentiment de l'agentivité <!-- fit -->
+
+1) La schizophrénie
+	* « [C]’est une autre personne qui agit et qui parle à ma place, je ne suis qu’un pauvre mannequin tiré par des ficelles de tous les côtés » ; « Je ne suis qu'un pantin qui est manipulé par des ficelles cosmiques » (Marc Jeannerod, _Le cerveau volontaire_, p.231)
+2) Le syndrome de la main étrangère :
+	* Le cas de [Karen Byrne](https://ladigitale.dev/digiplay/#/v/61a5e1f52e0c4)
+
+
+---
+<!-- _class: i1t1 vertical -->
+
+### L'expérience de Libet
+
 [![](https://scontent-mrs2-2.xx.fbcdn.net/v/t31.18172-8/10900077_796863373719804_4402004056348810576_o.jpg?_nc_cat=102&ccb=1-5&_nc_sid=e3f864&_nc_ohc=xyoKM1YstcAAX_gb4NI&_nc_ht=scontent-mrs2-2.xx&oh=10fb48237fbf758101a26eb4ac5ab774&oe=61CADE68)](https://ladigitale.dev/digiplay/#/v/61a479ee0e918)
+
+<!-- Analyse critique de cette expérience : voir la thèse de Jean-Baptiste Guillon, p.403-411 -->
 
 ---
 <!-- _class:  -->
@@ -150,6 +186,9 @@ Ces androïdes ont-ils un libre arbitre ?
 Y a-t-il une différence fondamentale entre ces androïdes et nous-mêmes ?
  -->
 
+---
+<!-- _class: souspartie -->
+## A. Le sentiment du libre arbitre est-il une preuve ?
 
 ---
 <!-- _class: citationC -->
@@ -159,11 +198,18 @@ Y a-t-il une différence fondamentale entre ces androïdes et nous-mêmes ?
 >« Telle est cette liberté humaine que tous les hommes se vantent d'avoir et qui consiste en cela seul que les hommes sont conscients de leurs désirs et ignorants des causes qui les déterminent ! »
 >>**Spinoza**, _Lettre 58_ à Schuller
 
+<!-- 2 objections :
 
----
-<!-- _class: citationC fmmm-->
+- “cette liberté … que tous les hommes se vantent d'avoir” : la croyance au libre arbitre est une cognition motivée : on croit au libre arbitre par désir de se considérer comme des exceptions dans l'univers
+- les être humains sont "conscients de leurs désirs et ignorants des causes qui les déterminent” : 
 
-![bg left:32% Portrait de Leibniz](https://upload.wikimedia.org/wikipedia/commons/6/6a/Gottfried_Wilhelm_von_Leibniz.jpg)
+Notre sentiment d'être libre est plutôt révélateur de notre désir de nous croire supérieurs
+Notre sentiment d'être libre ne prouve pas que je suis la source de mes actes
 
->« La raison que M. Descartes a alléguée, pour prouver l’indépendance de nos actions libres par un prétendu sentiment vif interne, n’a point de force. Nous ne pouvons pas sentir proprement notre indépendance, et nous ne nous apercevons pas toujours des causes, souvent imperceptibles, dont notre résolution dépend. C’est comme si l’aiguille aimantée prenait plaisir de se tourner vers le nord ; car elle croirait tourner indépendamment de quelque autre cause, ne s’apercevant pas des mouvements insensibles de la matière magnétique. […] Nous suivons toujours, en voulant, le résultat de toutes les inclinations qui viennent, tant du côté des raisons que des passions, ce qui se fait souvent sans un jugement exprès de l’entendement. »
->>**Leibniz**, *Essais de théodicée*, §50-51, 1710
+Le sentiment d'être libre est plutôt révélateur de notre désir de nous croire supérieurs et maîtres de notre existence
+
+Nous avons le sentiment d'être libre parce nous avons le désir de nous croire supérieurs et maîtres de notre existence
+Nous avons le sentiment d'être libre parce que nous ignorons les causes qui nous déterminent
+Donc : le sentiment d'être libre n'est pas une preuve du libre arbitre
+
+ -->
