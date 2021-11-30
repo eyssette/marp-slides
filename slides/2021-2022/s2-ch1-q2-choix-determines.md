@@ -491,8 +491,8 @@ La connaissance des déterminismes, ici, désigne la connaissance des facteurs q
 ---
 <!-- _class: sanspuces -->
 
-1) L'idée ici c'est que, grâce aux sciences humaines, nous pouvons agir sur les facteurs (biologiques, psychiques, sociaux) qui peuvent exercer une influence sur nous.
-2) Nous ne sommes pas impuissants : la connaissance des déterminismes nous permet de maîtriser en partie ces facteurs.
+L'idée ici c'est que, grâce aux sciences humaines, nous pouvons agir sur les facteurs (biologiques, psychiques, sociaux) qui peuvent exercer une influence sur nous.
+1) Nous ne sommes pas impuissants : la connaissance des déterminismes nous permet de maîtriser en partie ces facteurs.
 
 
 <!-- Donner un exemple -->
