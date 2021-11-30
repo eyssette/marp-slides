@@ -187,10 +187,6 @@ Y a-t-il une différence fondamentale entre ces androïdes et nous-mêmes ?
  -->
 
 ---
-<!-- _class: souspartie -->
-## A. Le sentiment du libre arbitre est-il une preuve ?
-
----
 <!-- _class: citationC -->
 
 ![bg left:40%](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Spinoza.jpg/1032px-Spinoza.jpg)
@@ -198,13 +194,17 @@ Y a-t-il une différence fondamentale entre ces androïdes et nous-mêmes ?
 >« Telle est cette liberté humaine que tous les hommes se vantent d'avoir et qui consiste en cela seul que les hommes sont conscients de leurs désirs et ignorants des causes qui les déterminent ! »
 >>**Spinoza**, _Lettre 58_ à Schuller
 
+<!-- 
+Schéma des deux objections : 
+https://eyssette.github.io/argument-map/#[{%22id%22:%22c1%22,%22text%22:%22Le%20sentiment%20d'%C3%AAtre%20libre%20n'est%20pas%20une%20preuve%20du%20libre%20arbitre%22,%22x%22:296,%22y%22:407,%22lineType%22:%22solid%22},{%22id%22:%22p1%22,%22text%22:%22Cette%20croyance%20est%20motiv%C3%A9e%20par%20le%20d%C3%A9sir%20de%20nous%20croire%20sup%C3%A9rieurs%22,%22x%22:297,%22y%22:178,%22lineType%22:%22solid%22},{%22id%22:%22cfkpx%22,%22text%22:%22Nous%20avons%20le%20sentiment%20d'%C3%AAtre%20libre%20parce%20que%20nous%20croyons%20%C3%AAtre%20ma%C3%AEtres%20de%20nos%20actes%22,%22x%22:66,%22y%22:195,%22lineType%22:%22solid%22},{%22id%22:%22sx5ek%22,%22text%22:%22Si%20une%20croyance%20est%20motiv%C3%A9e%20par%20un%20d%C3%A9sir%20de%20croire,%20ce%20n'est%20pas%20une%20croyance%20fiable%22,%22x%22:529,%22y%22:196,%22lineType%22:%22solid%22},{%22id%22:%22jkb1f%22,%22type%22:%22donc%22,%22from%22:[%22panis%22,%22p2%22,%229eo2c%22],%22to%22:%22mgr1a%22},{%22id%22:%22pc12j%22,%22type%22:%22donc%22,%22from%22:[%22cfkpx%22,%22p1%22,%22sx5ek%22,%22sx5ek%22],%22to%22:%22c1%22},{%22id%22:%22mgr1a%22,%22text%22:%22Le%20sentiment%20d'%C3%AAtre%20libre%20n'est%20pas%20une%20preuve%20du%20libre%20arbitre%22,%22x%22:1021,%22y%22:458,%22lineType%22:%22solid%22},{%22id%22:%22panis%22,%22text%22:%22S'il%20existe%20des%20facteurs%20inconscients%20qui%20d%C3%A9terminent%20nos%20actes,%20alors%20cette%20croyance%20est%20fausse%22,%22x%22:1025,%22y%22:202,%22lineType%22:%22solid%22},{%22id%22:%22p2%22,%22text%22:%22Nous%20avons%20le%20sentiment%20d'%C3%AAtre%20libre%20parce%20que%20nous%20croyons%20%C3%AAtre%20la%20source%20de%20nos%20actes%22,%22x%22:808,%22y%22:226,%22lineType%22:%22solid%22},{%22id%22:%229eo2c%22,%22text%22:%22Il%20est%20possible%20d'avoir%20le%20sentiment%20d'%C3%AAtre%20libre%20alors%20qu'il%20existe%20en%20fait%20des%20facteurs%20inconscients%20qui%20d%C3%A9terminent%20nos%20actes%22,%22x%22:1241,%22y%22:228,%22lineType%22:%22solid%22}]
+ -->
 
 ---
 <!-- _class: fppppp sanspuces -->
 <style scoped>
 h3 {margin-bottom:0}
 </style>
-### Argument 1
+### Argument 1 [:link:](https://eyssette.github.io/argument-map/#[{%22id%22:%22c1%22,%22text%22:%22Le%20sentiment%20d'%C3%AAtre%20libre%20n'est%20pas%20une%20preuve%20du%20libre%20arbitre%22,%22x%22:433,%22y%22:326,%22lineType%22:%22solid%22},{%22id%22:%22p1%22,%22text%22:%22Cette%20croyance%20est%20motiv%C3%A9e%20par%20le%20d%C3%A9sir%20de%20nous%20croire%20sup%C3%A9rieurs%22,%22x%22:434,%22y%22:97,%22lineType%22:%22solid%22},{%22id%22:%22cfkpx%22,%22text%22:%22Nous%20avons%20le%20sentiment%20d'%C3%AAtre%20libre%20parce%20que%20nous%20croyons%20%C3%AAtre%20ma%C3%AEtres%20de%20nos%20actes%22,%22x%22:203,%22y%22:113,%22lineType%22:%22solid%22},{%22id%22:%22sx5ek%22,%22text%22:%22Si%20une%20croyance%20est%20motiv%C3%A9e%20par%20un%20d%C3%A9sir%20de%20croire,%20ce%20n'est%20pas%20une%20croyance%20fiable%22,%22x%22:666,%22y%22:114,%22lineType%22:%22solid%22},{%22id%22:%22pc12j%22,%22type%22:%22donc%22,%22from%22:[%22cfkpx%22,%22p1%22,%22sx5ek%22,%22sx5ek%22],%22to%22:%22c1%22}])
 
 1) (1) Nous avons le sentiment d'être libre parce que nous croyons être maîtres de nos actes.
 2) (2) Cette croyance est motivée par le désir de nous croire supérieurs.
@@ -216,9 +216,33 @@ h3 {margin-bottom:0}
 <style scoped>
 h3 {margin-bottom:-0.25em}
 </style>
-### Argument 2
+### Argument 2 [:link:](https://eyssette.github.io/argument-map/#[{%22id%22:%22panis%22,%22text%22:%22S'il%20existe%20des%20facteurs%20inconscients%20qui%20d%C3%A9terminent%20nos%20actes,%20alors%20cette%20croyance%20est%20fausse%22,%22x%22:601,%22y%22:161,%22lineType%22:%22solid%22},{%22id%22:%22jkb1f%22,%22type%22:%22donc%22,%22from%22:[%22panis%22,%22p2%22,%229eo2c%22],%22to%22:%22mgr1a%22},{%22id%22:%22mgr1a%22,%22text%22:%22Le%20sentiment%20d'%C3%AAtre%20libre%20n'est%20pas%20une%20preuve%20du%20libre%20arbitre%22,%22x%22:596,%22y%22:444,%22lineType%22:%22solid%22},{%22id%22:%22p2%22,%22text%22:%22Nous%20avons%20le%20sentiment%20d'%C3%AAtre%20libre%20parce%20que%20nous%20croyons%20%C3%AAtre%20la%20source%20de%20nos%20actes%22,%22x%22:351,%22y%22:216,%22lineType%22:%22solid%22},{%22id%22:%229eo2c%22,%22text%22:%22Il%20est%20possible%20d'avoir%20le%20sentiment%20d'%C3%AAtre%20libre%20alors%20qu'il%20existe%20en%20fait%20des%20facteurs%20inconscients%20qui%20d%C3%A9terminent%20nos%20actes%22,%22x%22:852,%22y%22:222,%22lineType%22:%22solid%22}])
 
 1) (1) Nous avons le sentiment d'être libre parce que nous croyons être la source de nos actes.
-2) (2) S'il existe des facteurs inconscients qui déterminent nos actes, alors nous ne sommes pas la source de nos actes.
+2) (2) S'il existe des facteurs inconscients qui déterminent nos actes, alors cette croyance est fausse.
 3) (3) Il est possible d'avoir le sentiment d'être libre alors qu'il existe en fait des facteurs inconscients qui déterminent nos actes.
 4) Donc : Le sentiment d'être libre n'est pas une preuve du libre arbitre.
+
+
+
+---
+<!-- _class: exercice application fmmmmm -->
+<style scoped>
+h3 {margin-bottom:15px}
+ul {margin-left:24px;}
+ul ul {font-size:100%; margin-left:-40px}
+span {font-size:90%;}
+</style>
+
+### Exercice d'application
+
+- Choisir un sujet ci-dessous :
+	- Le libre arbitre est-il une illusion ?
+	- Être libre, est-ce pouvoir choisir ?
+	- Pouvons-nous faire l'expérience de la liberté ?
+	- La spontanéité est-elle une marque de liberté ?
+	- Un être humain est-il responsable de tout ce qu'il fait ?
+	- L’idée d’une liberté totale a-t-elle un sens ?
+	- Une contrainte est-elle un obstacle à la liberté ?
+	- Choisir, est-ce renoncer à sa liberté ?
+- Rédiger une sous-partie de dissertation <span>(autour de 300 mots)</span><br> :warning:  <span>il faut défendre une seule réponse, mobiliser le cours, et utiliser le modèle _ARES_</span>

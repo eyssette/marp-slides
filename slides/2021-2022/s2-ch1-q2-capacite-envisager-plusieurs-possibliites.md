@@ -23,6 +23,8 @@ Vincent Bierrewaerts, _Le portefeuille_ (2003)
 
 [![](https://www.transmettrelecinema.com/wp-content/uploads/2013/06/portefeuille-le.jpg)](https://ladigitale.dev/digiplay/#/v/61a478d08a127)
 
+<!-- Les possibilités alternatives sont-elles réelles ou bien seulement imaginaires ? -->
+
 ---
 <!-- _class:  -->
 <style scoped>
@@ -35,7 +37,7 @@ p:nth-of-type(3) {left:545px; bottom:25px; width:240px!important}
 </style>
 
 ![bg](https://i.ibb.co/N9YSh7P/thomas-d-aquin.png)
-![bg](https://i.ibb.co/Tw5nNRy/d-holbach-t.jpg)
+![bg](https://upload.wikimedia.org/wikipedia/commons/b/bf/Pierre-Simon%2C_marquis_de_Laplace_%281745-1827%29_-_Gu%C3%A9rin.jpg?uselang=fr)
 
 :red_circle:
 
@@ -147,7 +149,7 @@ Ce qui est **nécessaire**, c'est ce qui ne peut pas être autrement, c'est ce d
 
 ---
 <!-- _class: i1t0 -->
-[![](https://i.ibb.co/0KgQM2k/argument-reflechir-agir-autrement.jpg)](https://eyssette.github.io/argument-map/#[{%22id%22:%22gneop%22,%22type%22:%22donc%22,%22from%22:[%22zpt26%22],%22to%22:%22jozk6%22},{%22id%22:%22be0s9%22,%22type%22:%22donc%22,%22from%22:[%22jozk6%22],%22to%22:%22levpg%22},{%22id%22:%22s4jo6%22,%22type%22:%22donc%22,%22from%22:[%22awn8d%22,%22a6ryk%22],%22to%22:%22zpt26%22},{%22id%22:%22a6ryk%22,%22text%22:%22Quand%20je%20r%C3%A9fl%C3%A9chis%20avant%20d'agir,%20je%20peux%20envisager%20plusieurs%20possibilit%C3%A9s%22,%22x%22:1339,%22y%22:218,%22lineType%22:%22solid%22},{%22id%22:%22zpt26%22,%22text%22:%22Quand%20j'agis,%20je%20fais%20un%20choix%20mais%20j'aurais%20pu%20faire%20un%20autre%20choix%22,%22x%22:1216,%22y%22:377,%22lineType%22:%22solid%22},{%22id%22:%22jozk6%22,%22text%22:%22Quand%20j'agis,%20je%20suis%20ma%C3%AEtre%20de%20la%20d%C3%A9cision%20que%20je%20prends%22,%22x%22:1215,%22y%22:532,%22lineType%22:%22solid%22},{%22id%22:%22levpg%22,%22text%22:%22Quand%20j'agis,%20j'ai%20un%20libre%20arbitre%22,%22x%22:1218,%22y%22:676,%22lineType%22:%22solid%22},{%22id%22:%22awn8d%22,%22text%22:%22Je%20suis%20capable%20de%20r%C3%A9fl%C3%A9chir%20avant%20d'agir%22,%22x%22:1089,%22y%22:218,%22lineType%22:%22solid%22}])
+[![](https://i.ibb.co/0KgQM2k/argument-reflechir-agir-autrement.jpg)](https://eyssette.github.io/argument-map/#[{%22id%22:%22a6ryk%22,%22text%22:%22Quand%20je%20r%C3%A9fl%C3%A9chis%20avant%20d'agir,%20je%20peux%20envisager%20plusieurs%20possibilit%C3%A9s%22,%22x%22:1356,%22y%22:380,%22lineType%22:%22solid%22},{%22id%22:%22zpt26%22,%22text%22:%22Quand%20j'agis,%20je%20fais%20un%20choix%20mais%20j'aurais%20pu%20faire%20un%20autre%20choix%22,%22x%22:1233,%22y%22:539,%22lineType%22:%22solid%22},{%22id%22:%22awn8d%22,%22text%22:%22Je%20suis%20capable%20de%20r%C3%A9fl%C3%A9chir%20avant%20d'agir%22,%22x%22:1106,%22y%22:371,%22lineType%22:%22solid%22},{%22id%22:%22gneop%22,%22type%22:%22donc%22,%22from%22:[%22zpt26%22],%22to%22:%22jozk6%22},{%22id%22:%22be0s9%22,%22type%22:%22donc%22,%22from%22:[%22jozk6%22],%22to%22:%22levpg%22},{%22id%22:%22s4jo6%22,%22type%22:%22donc%22,%22from%22:[%22awn8d%22,%22a6ryk%22],%22to%22:%22zpt26%22},{%22id%22:%22jozk6%22,%22text%22:%22Quand%20j'agis,%20je%20suis%20ma%C3%AEtre%20de%20la%20d%C3%A9cision%20que%C2%A0je%20prends%22,%22x%22:1232,%22y%22:694,%22lineType%22:%22solid%22},{%22id%22:%22levpg%22,%22text%22:%22Quand%20j'agis,%20j'ai%20un%C2%A0libre%C2%A0arbitre%22,%22x%22:1235,%22y%22:828,%22lineType%22:%22solid%22}])
 
 <!-- Changer image + ajouter après : coup de tête de Zidane + scène de Minority Report -->
 
