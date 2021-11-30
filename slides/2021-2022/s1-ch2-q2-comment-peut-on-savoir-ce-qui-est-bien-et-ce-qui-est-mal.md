@@ -6,7 +6,10 @@ size: 4:3
 ---
 
 <!-- _class: titre -->
-# Comment peut-on savoir ce qui est bien et ce qui <br>est mal ?
+<style scoped>
+h1{font-size:2em}
+</style>
+# Q2 – Comment <br>peut-on savoir <br>ce qui est bien et<br> ce qui est mal ?
 Cédric Eyssette (2021-2022)
 https://eyssette.github.io/
 
@@ -435,6 +438,9 @@ img {position:absolute!important; top:0; left:0; height:100%!important; display:
 1) ![](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/philosophie-morale-de-Kant-2.dot.svg)
 
 
+<!-- Ajouter : dilemmes du tramway ? -->
+
+
 ---
 <!-- _class: cinema fmmmm-->
 
@@ -448,6 +454,9 @@ img {position:absolute!important; top:0; left:0; height:100%!important; display:
 
 >Dans le film _Mesure d'urgence_, un médecin kidnappe des personnes sans abri afin de faire des expérimentations médicales sur eux, dans le but de trouver un remède contre des maladies pour le moment incurables. Il affirme que la vie de ces individus n'a pas beaucoup de sens : leur mort était de toute façon prévisible ; autant faire en sorte qu'elle soit utile ! Un grand médecin a, selon lui, le courage d'outrepasser les règles ordinaires : il serait légitime de sacrifier quelques vies sans significations, si cela permet d'améliorer de manière importante la vie d'un grand nombre de personnes.
 
+<!-- Ajouter : 
+bilan sur la morale kantienne
++ limite : ambiguïté de la notion de dignité (faire schéma) -->
 
 ---
 <!-- _class: partie -->

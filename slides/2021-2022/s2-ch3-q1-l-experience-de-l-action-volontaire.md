@@ -7,9 +7,9 @@ size: 4:3
 
 <!-- _class: titre -->
 <style scoped>
-h1 {font-size:1.92em}
+h1 {font-size:1.75em}
 </style>
-# L'expérience de l'action volontaire est-elle une preuve du libre arbitre ? 
+# Q1 – L'expérience de l'action volontaire est-elle une preuve du libre arbitre ? 
 Cédric Eyssette (2021-2022)
 https://eyssette.github.io/
 
