@@ -203,25 +203,27 @@ https://eyssette.github.io/argument-map/#[{%22id%22:%22c1%22,%22text%22:%22Le%20
 <!-- _class: fppppp sanspuces -->
 <style scoped>
 h3 {margin-bottom:0}
+hr {background-color:#666; padding:1px}
 </style>
 ### Argument 1 [:link:](https://eyssette.github.io/argument-map/#[{%22id%22:%22c1%22,%22text%22:%22Le%20sentiment%20d'%C3%AAtre%20libre%20n'est%20pas%20une%20preuve%20du%20libre%20arbitre%22,%22x%22:433,%22y%22:326,%22lineType%22:%22solid%22},{%22id%22:%22p1%22,%22text%22:%22Cette%20croyance%20est%20motiv%C3%A9e%20par%20le%20d%C3%A9sir%20de%20nous%20croire%20sup%C3%A9rieurs%22,%22x%22:434,%22y%22:97,%22lineType%22:%22solid%22},{%22id%22:%22cfkpx%22,%22text%22:%22Nous%20avons%20le%20sentiment%20d'%C3%AAtre%20libre%20parce%20que%20nous%20croyons%20%C3%AAtre%20ma%C3%AEtres%20de%20nos%20actes%22,%22x%22:203,%22y%22:113,%22lineType%22:%22solid%22},{%22id%22:%22sx5ek%22,%22text%22:%22Si%20une%20croyance%20est%20motiv%C3%A9e%20par%20un%20d%C3%A9sir%20de%20croire,%20ce%20n'est%20pas%20une%20croyance%20fiable%22,%22x%22:666,%22y%22:114,%22lineType%22:%22solid%22},{%22id%22:%22pc12j%22,%22type%22:%22donc%22,%22from%22:[%22cfkpx%22,%22p1%22,%22sx5ek%22,%22sx5ek%22],%22to%22:%22c1%22}])
 
 1) (1) Nous avons le sentiment d'être libre parce que nous croyons être maîtres de nos actes.
 2) (2) Cette croyance est motivée par le désir de nous croire supérieurs.
-3) (3) Si une croyance est motivée par un désir de croire, ce n'est pas une croyance fiable.
-4) Donc : Le sentiment d'être libre n'est pas une preuve du libre arbitre.
+3) (3) Si une croyance est motivée par un désir de croire, ce n'est pas une croyance fiable.<hr>
+4) _Donc :_ Le sentiment d'être libre n'est pas une preuve du libre arbitre.
 
 ---
-<!-- _class: fpppp sanspuces -->
+<!-- _class: fpp sanspuces -->
 <style scoped>
-h3 {margin-bottom:-0.25em}
+h3 {margin-bottom:-0.2em}
+hr {background-color:#666; padding:1px}
 </style>
 ### Argument 2 [:link:](https://eyssette.github.io/argument-map/#[{%22id%22:%22panis%22,%22text%22:%22S'il%20existe%20des%20facteurs%20inconscients%20qui%20d%C3%A9terminent%20nos%20actes,%20alors%20cette%20croyance%20est%20fausse%22,%22x%22:601,%22y%22:161,%22lineType%22:%22solid%22},{%22id%22:%22jkb1f%22,%22type%22:%22donc%22,%22from%22:[%22panis%22,%22p2%22,%229eo2c%22],%22to%22:%22mgr1a%22},{%22id%22:%22mgr1a%22,%22text%22:%22Le%20sentiment%20d'%C3%AAtre%20libre%20n'est%20pas%20une%20preuve%20du%20libre%20arbitre%22,%22x%22:596,%22y%22:444,%22lineType%22:%22solid%22},{%22id%22:%22p2%22,%22text%22:%22Nous%20avons%20le%20sentiment%20d'%C3%AAtre%20libre%20parce%20que%20nous%20croyons%20%C3%AAtre%20la%20source%20de%20nos%20actes%22,%22x%22:351,%22y%22:216,%22lineType%22:%22solid%22},{%22id%22:%229eo2c%22,%22text%22:%22Il%20est%20possible%20d'avoir%20le%20sentiment%20d'%C3%AAtre%20libre%20alors%20qu'il%20existe%20en%20fait%20des%20facteurs%20inconscients%20qui%20d%C3%A9terminent%20nos%20actes%22,%22x%22:852,%22y%22:222,%22lineType%22:%22solid%22}])
 
 1) (1) Nous avons le sentiment d'être libre parce que nous croyons être la source de nos actes.
 2) (2) S'il existe des facteurs inconscients qui déterminent nos actes, alors cette croyance est fausse.
-3) (3) Il est possible d'avoir le sentiment d'être libre alors qu'il existe en fait des facteurs inconscients qui déterminent nos actes.
-4) Donc : Le sentiment d'être libre n'est pas une preuve du libre arbitre.
+3) (3) Il est possible d'avoir le sentiment d'être libre alors qu'il existe en fait des facteurs inconscients qui déterminent nos actes.<hr>
+4) _Donc :_ Le sentiment d'être libre n'est pas une preuve du libre arbitre.
 
 
 

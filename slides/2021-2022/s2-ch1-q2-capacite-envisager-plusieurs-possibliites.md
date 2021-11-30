@@ -148,10 +148,38 @@ figure {margin-left:-2em!important}
 Ce qui est **nécessaire**, c'est ce qui ne peut pas être autrement, c'est ce dont le contraire est impossible.<br>Ce qui est **contingent**, c'est ce qui pourrait être autrement, c'est ce dont le contraire est possible.
 
 ---
-<!-- _class: i1t0 -->
-[![](https://i.ibb.co/0KgQM2k/argument-reflechir-agir-autrement.jpg)](https://eyssette.github.io/argument-map/#[{%22id%22:%22a6ryk%22,%22text%22:%22Quand%20je%20r%C3%A9fl%C3%A9chis%20avant%20d'agir,%20je%20peux%20envisager%20plusieurs%20possibilit%C3%A9s%22,%22x%22:1356,%22y%22:380,%22lineType%22:%22solid%22},{%22id%22:%22zpt26%22,%22text%22:%22Quand%20j'agis,%20je%20fais%20un%20choix%20mais%20j'aurais%20pu%20faire%20un%20autre%20choix%22,%22x%22:1233,%22y%22:539,%22lineType%22:%22solid%22},{%22id%22:%22awn8d%22,%22text%22:%22Je%20suis%20capable%20de%20r%C3%A9fl%C3%A9chir%20avant%20d'agir%22,%22x%22:1106,%22y%22:371,%22lineType%22:%22solid%22},{%22id%22:%22gneop%22,%22type%22:%22donc%22,%22from%22:[%22zpt26%22],%22to%22:%22jozk6%22},{%22id%22:%22be0s9%22,%22type%22:%22donc%22,%22from%22:[%22jozk6%22],%22to%22:%22levpg%22},{%22id%22:%22s4jo6%22,%22type%22:%22donc%22,%22from%22:[%22awn8d%22,%22a6ryk%22],%22to%22:%22zpt26%22},{%22id%22:%22jozk6%22,%22text%22:%22Quand%20j'agis,%20je%20suis%20ma%C3%AEtre%20de%20la%20d%C3%A9cision%20que%C2%A0je%20prends%22,%22x%22:1232,%22y%22:694,%22lineType%22:%22solid%22},{%22id%22:%22levpg%22,%22text%22:%22Quand%20j'agis,%20j'ai%20un%C2%A0libre%C2%A0arbitre%22,%22x%22:1235,%22y%22:828,%22lineType%22:%22solid%22}])
+<!-- _class: fppppp sanspuces -->
+<style >
+section.sanspuces ol {list-style-type:none; margin-left:-10px;}
+</style>
+<style scoped>
+h3 {margin-bottom:0}
+hr {background-color:#666; padding:1px}
+</style>
+### Argument [:link:]()
+
+1) (1) Je suis capable de réfléchir avant d'agir.
+2) (2) Quand je réfléchis, je peux envisager plusieurs possibilités.<hr>
+3) _Donc :_ Quand j'agis, je fais un choix, mais un autre choix était possible et j'aurais pu agir autrement.
+4) _Donc :_ Quand j'agis, je suis maître de la décision que je prends.
+
+
+<!-- (https://eyssette.github.io/argument-map/#[{%22id%22:%22a6ryk%22,%22text%22:%22Quand%20je%20r%C3%A9fl%C3%A9chis%20avant%20d'agir,%20je%20peux%20envisager%20plusieurs%20possibilit%C3%A9s%22,%22x%22:1356,%22y%22:380,%22lineType%22:%22solid%22},{%22id%22:%22zpt26%22,%22text%22:%22Quand%20j'agis,%20je%20fais%20un%20choix%20mais%20j'aurais%20pu%20faire%20un%20autre%20choix%22,%22x%22:1233,%22y%22:539,%22lineType%22:%22solid%22},{%22id%22:%22awn8d%22,%22text%22:%22Je%20suis%20capable%20de%20r%C3%A9fl%C3%A9chir%20avant%20d'agir%22,%22x%22:1106,%22y%22:371,%22lineType%22:%22solid%22},{%22id%22:%22gneop%22,%22type%22:%22donc%22,%22from%22:[%22zpt26%22],%22to%22:%22jozk6%22},{%22id%22:%22be0s9%22,%22type%22:%22donc%22,%22from%22:[%22jozk6%22],%22to%22:%22levpg%22},{%22id%22:%22s4jo6%22,%22type%22:%22donc%22,%22from%22:[%22awn8d%22,%22a6ryk%22],%22to%22:%22zpt26%22},{%22id%22:%22jozk6%22,%22text%22:%22Quand%20j'agis,%20je%20suis%20ma%C3%AEtre%20de%20la%20d%C3%A9cision%20que%C2%A0je%20prends%22,%22x%22:1232,%22y%22:694,%22lineType%22:%22solid%22},{%22id%22:%22levpg%22,%22text%22:%22Quand%20j'agis,%20j'ai%20un%C2%A0libre%C2%A0arbitre%22,%22x%22:1235,%22y%22:828,%22lineType%22:%22solid%22}] -->
 
 <!-- Changer image + ajouter après : coup de tête de Zidane + scène de Minority Report -->
+
+
+---
+<!-- _class: -->
+<style scoped>
+img {position:absolute!important; top:0; left:0; width:90%!important; display:block;  margin: 70px 50px; }
+ol:nth-of-type(2) li img {padding:140px 0px; background-color:rgba(0,0,0,0.85);}
+</style>
+1. ![Dessin stylisé représentant une personne qui en insulte une autre](https://i.ibb.co/hZHVtGM/insulte-t.jpg)
+1) ![](https://i.ibb.co/DYMFbt6/coup-de-tete-zidane.jpg)
+
+<!-- Rappel sur le stoïcisme, le film Detachment
+Coup de tête de Zidane contre Materazzi (juillet 2006) lors de la finale de la Coupe du monde de football -->
 
 ---
 <!-- _class: partie -->
