@@ -144,7 +144,7 @@ préciser : pulsions sexuelles / pulsions agressives
 Pour le 2/
 les stades infantiles (oral, anal, complexe d'Œdipe …)
  -->
-- Cette hypothèse est-elle correcte ?
+* Cette hypothèse est-elle correcte ?
 
 <!-- Évaluation critique de la psychanalyse  -->
 
@@ -453,19 +453,22 @@ blockquote blockquote{margin-top:10px!important; padding:0;}
 
 
 ---
-<!-- _class: sanspuces fppp -->
+<!-- _class:  -->
 <style scoped>
-p {margin-top:30px!important}
-ul {margin-top:-1px; margin-bottom:0;}
-ul li {margin-left:1em}
-ol li {text-align:center;}
-img {height:450px;margin-top:0px}
+section {font-size:3.7em}
 </style>
+### Idée directrice
 Les hypothèses déterministes dans les sciences humaines ne conduisent pas au fatalisme.
 
+---
+<!-- _class: i1t1 vertical -->
+<style scoped>
+ul{width:830px}
+img{height:600px}
+</style>
 - Qu'est-ce que le fatalisme ?
 
-1) ![](https://i.ibb.co/NTLzqHF/oedipe.jpg)
+![](https://i.ibb.co/NTLzqHF/oedipe.jpg)
 
 
 ---
@@ -492,6 +495,7 @@ La connaissance des déterminismes, ici, désigne la connaissance des facteurs q
 2) Nous ne sommes pas impuissants : la connaissance des déterminismes nous permet de maîtriser en partie ces facteurs.
 
 
+<!-- Donner un exemple -->
 
 ---
 <!-- _class: partie -->
