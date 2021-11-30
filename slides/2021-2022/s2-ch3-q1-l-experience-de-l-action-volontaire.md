@@ -97,7 +97,7 @@ Première partie
 
 ---
 <!-- _class: i1t0 -->
-[![](https://www.placegrenet.fr/wp-content/uploads/2018/01/danse-de-saint-guy.jpg)](https://www.youtube.com/watch?v=hDVWTX9vpYw&feature=youtu.be&t=9)
+[![](https://www.placegrenet.fr/wp-content/uploads/2018/01/danse-de-saint-guy.jpg)](https://ladigitale.dev/digiplay/#/v/61a63a15aecec)
 
 
 ---
@@ -145,7 +145,7 @@ Radio Alfa - https://www.flickr.com/photos/radioalfa/32229172326
 ---
 <!-- _class: i1t1 vertical -->
 
-[![](https://i.ytimg.com/vi/p9R4xDF-Q6A/maxresdefault.jpg)](https://www.youtube.com/watch?v=EBq5zpSKMy4)
+[![](https://i.ytimg.com/vi/p9R4xDF-Q6A/maxresdefault.jpg)](https://ladigitale.dev/digiplay/#/v/61a63a401e300)
 
 Un film de Xavier Dolan : _Mommy_ (2014)
 
@@ -235,6 +235,11 @@ hr {background-color:#666; padding:1px}
 Ces arguments restent **faibles** : ils montrent que l'expérience du libre arbitre pourrait ne pas être fiable, mais ils ne prouvent pas qu'elle ne l'est pas.
 
 1) Il faut maintenant se demander si on peut prouver **l'existence** de facteurs inconscients qui déterminent nos choix.
+
+
+---
+<!-- _class: partie -->
+# Mise en<br> pratique <!-- fit -->
 
 ---
 <!-- _class: exercice application fmmmmm -->

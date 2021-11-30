@@ -13,6 +13,12 @@ https://eyssette.github.io/
 
 
 ---
+<!-- _class: i1t0 -->
+[![](https://i.ibb.co/Zhvz0m8/conformisme-social-t.jpg)](https://ladigitale.dev/digiplay/#/v/61a63c606c865)
+
+<!-- https://www.youtube.com/watch?v=QOZRim9SKm8 -->
+
+---
 <!-- _class: i2t1 pp-->
 <style scoped>
 p:nth-of-type(1) img{object-fit:contain}
@@ -80,20 +86,183 @@ blockquote blockquote{padding:0px; margin-top:15px}
 >>**D'Holbach**, _Système de la nature_, chap. XI
 
 ---
-<!-- _class:  -->
-
+<!-- _class: fppppp -->
+<style scoped>
+ul {list-style-type:none}
+ul li {margin-left:-1.89em; font-size:0.81em}
+</style>
 ### Quels sont les facteurs qui peuvent exercer<br> une influence inconsciente sur nous ? <!-- fit -->
 
 1) Des facteurs biologiques ?
+	* = une question trop complexe, trop technique pour être traitée ici
 2) Des facteurs psychiques ?
 3) Des facteurs sociaux ?
 
+<!-- facteurs biologiques : 
+Question trop complexe, trop technique pour être envisagée ici -->
+
+---
+<!-- _class: souspartie -->
+## A. L'influence inconsciente <br>de facteurs psychiques <!-- fit -->
+
+---
+<!-- _class: etape -->
+<style scoped>
+h3 {border-bottom:#88a dashed 2px; padding:0 90px 50px}
+</style>
+### a/ L'hypothèse de <br>l'inconscient freudien <!-- fit -->
+
+---
+<!-- _class: citationC fmmmmm -->
+<style scoped>
+blockquote blockquote{margin-top:5px; margin-left:0px; padding:0; margin-right:0}
+blockquote{padding-top:7px; padding-bottom:7px;}
+</style>
+![bg left:32% Photographie de Freud](https://upload.wikimedia.org/wikipedia/commons/3/36/Sigmund_Freud%2C_by_Max_Halberstadt_%28cropped%29.jpg)
+
+>«  Dans le cours des siècles, la science a infligé à l’égoïsme naïf de l’humanité deux graves démentis. La première fois, ce fut lorsqu’elle a montré que la terre, loin d’être le centre de l’univers, ne forme qu’une parcelle insignifiante du système cosmique dont nous pouvons à peine nous représenter la grandeur [...]. Le second démenti fut infligé à l’humanité par la recherche biologique, lorsqu’elle a réduit à rien les prétentions de l’homme à une place privilégiée dans l’ordre de la création, en établissant sa descendance du règne animal [...]. Un troisième démenti sera infligé à la mégalomanie humaine par la recherche psychologique de nos jours qui se propose de montrer au moi qu’il n’est seulement pas maître dans sa propre maison, qu’il en est réduit à se contenter de renseignements rares et fragmentaires sur ce qui se passe, en dehors de sa conscience, dans sa vie psychique. » 
+>>**Freud**, *Introduction à la psychanalyse* (1916), II, chap. 18 
+
+<!-- 
+Tableau : 
+Physique | Copernic | La Terre n'est pas le centre du monde
+Biologie | Darwin | L'être humain n'est pas le centre de la vie sur Terre
+Psychologie | Freud | La conscience n'est pas le centre de l'esprit humain
+ -->
+
+
+---
+<!-- _class:  -->
+Pour Freud, les facteurs psychiques inconscients qui peuvent agir sur nous sont :
+1) des pulsions refoulées ;
+2) une structuration psychique de l'individu, qui s'est constituée pendant l'enfance.
+
+<!-- 
+Pour le 1/
+préciser : pulsions sexuelles / pulsions agressives
+Ça / Surmoi
+Pour le 2/
+les stades infantiles (oral, anal, complexe d'Œdipe …)
+ -->
+- Cette hypothèse est-elle correcte ?
+
+<!-- Évaluation critique de la psychanalyse  -->
+
+---
+<!-- _class: etape fppppppp-->
+<style scoped>
+h3 {border-bottom:#88a dashed 2px; padding:0 90px 50px}
+</style>
+### b/ L'hypothèse de <br>l'inconscient cognitif <!-- fit -->
+
+
+---
+<!-- _class: i1t0  -->
+
+[![](https://images-na.ssl-images-amazon.com/images/I/71+GMwDclDL.jpg)](https://www.ted.com/talks/dan_ariely_are_we_in_control_of_our_own_decisions/transcript?language=fr#t-607233)
+
+<!-- à partir de 10'54-->
+
+---
+<!-- _class: definition -->
+### Définition
+Un **biais cognitif** est une tendance à penser ou raisonner en fonction d'un schéma automatique.
+
+---
+<!-- _class: i1t1 vertical -->
+<style scoped>
+img {width:720px!important;}
+</style>
+L'effet de leurre (*Decoy effect*)
+
+![Decoy Effect](https://i.ibb.co/XJB4PzQ/decoy-coffee.jpg)
+
+---
+<!-- _class: i1t1 vertical -->
+<style scoped>
+img {width:720px!important;}
+</style>
+
+Le biais de *statu quo*
+
+![Deux procédures différentes pour le don d'organes](https://i.ibb.co/42cfcwy/organ-donations-t.jpg)
+
+
+<!-- Un site très bien fait pour explorer les différents biais cognitifs : https://www.shortcogs.com/
+
+Une infographie qui cherche à faire une liste de tous les biais cognitifs : https://www.penser-critique.be/wp-content/uploads/2018/02/codex-biais-cognitifs.pdf
+
+Deux articles de l'_Encyclopédie Philosophique_ sur les biais cognitifs : [version grand public](https://encyclo-philo.fr/s/encyclophilo/item/54) et [version académique](https://encyclo-philo.fr/s/encyclophilo/item/165) -->
+
+---
+<!-- _class: i1t1 contain horizontal pp -->
+<style scoped>
+p:nth-child(1){margin-left:-20px!important; padding-left:0px;}
+p:nth-child(2){margin-right:30px; padding-right:20px!important; font-size:85%;}
+span{display:block; border:rgb(24, 33, 117) 3px solid; border-radius:40px; text-align:justify; padding:20px; margin-left:-20px!important;}
+span strong{
+    color: rgb(14, 23, 107);
+    font-weight:400;
+}
+</style>
+
+![](https://ec56229aec51f1baff1d-185c3068e22352c56024573e929788ff.ssl.cf1.rackcdn.com/attachments/large/0/9/1/000552091.jpg)
+
+**Définition**<br/>
+<span>Un **nudge** désigne une manière d'influencer les comportements qui ne fait appel ni à la **violence** (exercice direct de la force physique) ni à la **contrainte** (interdiction et menace de sanctions) mais repose sur la **connaissance de la psychologie humaine**. </span>
+
+---
+<!-- _class: souspartie -->
+## B. L'influence inconsciente <br>de facteurs sociaux <!-- fit -->
+
+
+---
+<!-- _class: i1t1  vertical -->
+<style scoped>
+img{height:570px}
+p:nth-child(2){font-size:70%; padding:0; margin-top:-13px;}
+</style>
+
+[![](../images/baisemains-et-mocassins.jpg)](https://www.dailymotion.com/video/x2kbvlx)
+
+Antoine Gallien, _Baisemains et mocassins_ (2005)
+
+
+---
+<!-- _class: i1t1  horizontal -->
+<style scoped>
+p{text-align:justify!important; font-size:86%; }
+p:nth-child(1){margin-left:-40px!important; margin-right:20px!important;}
+p:nth-child(2){padding:0}
+</style>
+
+[![](https://fr.web.img6.acsta.net/medias/nmedia/18/35/18/16/18370240.jpg)](https://www.youtube.com/watch?v=Vl05QUPnHTc)
+
+Dans le film _L'esquive_, d'Abdelattif Kechiche, Un groupe d'adolescents d'une cité HLM répète, pour leur cours de français, un passage de la pièce _Le Jeu de l'amour et du hasard_ de Marivaux.
+
+---
+<!-- _class: i1t0 pp -->
+
+[![](../images/homogamie-sociale.png)](https://www.inegalites.fr/Couples-qui-se-ressemble-s-assemble)
+
+
+---
+<!-- _class: citationC  -->
+
+![bg left:37% Photographie de Karl Marx](https://upload.wikimedia.org/wikipedia/commons/d/d4/Karl_Marx_001.jpg)
+
+>« Ce n’est pas la conscience des hommes qui détermine leur existence, c’est au contraire leur existence sociale qui détermine leur conscience. »
+>>Karl **Marx**, *Contribution à la critique de l’économie politique*, préface
 
 ---
 <!-- _class: partie -->
 # II – <br>Les limites de<br> cet argument <!-- fit -->
 Deuxième partie
 
+
+---
+<!-- _class: souspartie -->
+## A. La possibilité de la réflexion
 
 ---
 <!-- _class: citationC fp-->
@@ -254,8 +423,98 @@ p {font-size:1.3em}
 
 L'expérience du chamallow
 
-<!-- 
-Voir anciens cours : 
-Texte de Proust
-Schéma sur la manière dont la connaissance des déterminismes peut augmenter notre liberté
+---
+<!-- _class: sanspuces -->
+### Problème de cette perspective
+
+1) L'influence peut s'exercer de manière inconsciente.
+2) Une simple réflexion individuelle sur soi-même ne suffit pas pour s'en rendre compte et réagir.
+
+
+<!-- Eventuellement ? : question de la faiblesse de la volonté (acrasie) ?
+On peut même : se rendre compte d'un facteur d'influence, et ne pas réussir individuellement à réagir
  -->
+
+---
+<!-- _class: souspartie -->
+## B. La possibilité de la connaissance
+
+---
+<!-- _class: citationC f-->
+<style scoped>
+figure {margin-right:-2em!important}
+blockquote{padding:12px 20px}
+blockquote blockquote{margin-top:10px!important; padding:0;}
+</style>
+![bg left:29% Photographie d'Émile Durkheim](https://upload.wikimedia.org/wikipedia/commons/2/23/%C3%89mile_Durkheim.jpg)
+
+>« [D]epuis que les sciences positives de la nature se sont constituées […], que de changements n'avons-nous pas introduits dans l'univers ! Il en sera de même dans le règne social. […] [C]'est la sociologie qui, en découvrant les lois de la réalité sociale, nous permettra de diriger avec plus de réflexion que par le passé l'évolution historique ; car nous ne pouvons changer la nature, morale ou physique, qu'en nous conformant à ses lois. […] Les sciences, en même temps qu'elles proclament la nécessité des choses, nous mettent entre les mains les moyens de la dominer. »
+>>Émile **Durkheim**, _Sociologie et sciences sociales_
+
+
+---
+<!-- _class: sanspuces fppp -->
+<style scoped>
+p {margin-top:30px!important}
+ul {margin-top:-1px; margin-bottom:0;}
+ul li {margin-left:1em}
+ol li {text-align:center;}
+img {height:450px;margin-top:0px}
+</style>
+Les hypothèses déterministes dans les sciences humaines ne conduisent pas au fatalisme.
+
+- Qu'est-ce que le fatalisme ?
+
+1) ![](https://i.ibb.co/NTLzqHF/oedipe.jpg)
+
+
+---
+<!-- _class: definition -->
+### Définition
+Le **fatalisme** suppose l'existence d'un destin face auquel nous sommes impuissants.<br>C'est l'idée que de toute façon, **ce qui doit arriver arrivera**, quoi que l'on fasse.
+
+---
+<!-- _class: definition -->
+### Définition
+Le **déterminisme**, c'est l'idée qu'on peut expliquer un phénomène par les facteurs qui sont la cause de ce phénomène.
+
+<!-- déterminisme au sens "faible"
+≠ déterminisme au sens fort : Q3 si je la fais, sur l'absence de possibilités alternatives / un seul futur possible. Argument du démon de Laplace
+
+La connaissance des déterminismes, ici, désigne la connaissance des facteurs qui influencent les choix des êtres humains
+ -->
+
+
+---
+<!-- _class: sanspuces -->
+
+1) L'idée ici c'est que, grâce aux sciences humaines, nous pouvons agir sur les facteurs (biologiques, psychiques, sociaux) qui peuvent exercer une influence sur nous.
+2) Nous ne sommes pas impuissants : la connaissance des déterminismes nous permet de maîtriser en partie ces facteurs.
+
+
+
+---
+<!-- _class: partie -->
+# Mise en<br> pratique <!-- fit -->
+
+---
+<!-- _class: exercice application fmmmmm -->
+<style scoped>
+h3 {margin-bottom:15px}
+ul {margin-left:24px;}
+ul ul {font-size:100%; margin-left:-40px}
+span {font-size:90%;}
+</style>
+
+### Exercice d'application
+
+- Choisir un sujet ci-dessous :
+	- Le libre arbitre est-il une illusion ?
+	- Un être humain est-il responsable de tout ce qu'il fait ?
+	- L’idée d’une liberté totale a-t-elle un sens ?
+	- Sommes-nous déterminés par notre passé ?
+  	- Les humains sont-ils des êtres à part dans la nature ?
+  	- L'explication scientifique de l'être humain est-elle incompatible avec l'affirmation de la liberté humaine ?
+  	- L'idée d'inconscient remet-elle en cause la liberté ?
+  	- La conscience est-elle ce qui me rend libre ?
+- Rédiger une sous-partie de dissertation <span>(autour de 300 mots)</span><br> :warning:  <span>il faut défendre une seule réponse, mobiliser le cours, et utiliser le modèle _ARES_</span>
