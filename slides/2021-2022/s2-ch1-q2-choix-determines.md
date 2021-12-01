@@ -110,7 +110,7 @@ Question trop complexe, trop technique pour être envisagée ici -->
 <style scoped>
 h3 {border-bottom:#88a dashed 2px; padding:0 90px 50px}
 </style>
-### a/ L'hypothèse de <br>l'inconscient freudien <!-- fit -->
+### 1) L'hypothèse de <br>l'inconscient freudien <!-- fit -->
 
 ---
 <!-- _class: citationC fmmmmm -->
@@ -153,7 +153,7 @@ les stades infantiles (oral, anal, complexe d'Œdipe …)
 <style scoped>
 h3 {border-bottom:#88a dashed 2px; padding:0 90px 50px}
 </style>
-### b/ L'hypothèse de <br>l'inconscient cognitif <!-- fit -->
+### 2) L'hypothèse de <br>l'inconscient cognitif <!-- fit -->
 
 
 ---
@@ -461,14 +461,15 @@ section {font-size:3.7em}
 Les hypothèses déterministes dans les sciences humaines ne conduisent pas au fatalisme.
 
 ---
-<!-- _class: i1t1 vertical -->
+<!-- _class: i1t1 vertical sanspuces -->
 <style scoped>
 ul{width:830px}
-img{height:600px}
+ol{margin-top:-0.4em!important;}
+img{height:570px;}
 </style>
 - Qu'est-ce que le fatalisme ?
 
-![](https://i.ibb.co/NTLzqHF/oedipe.jpg)
+1) ![](https://i.ibb.co/NTLzqHF/oedipe.jpg)
 
 
 ---
