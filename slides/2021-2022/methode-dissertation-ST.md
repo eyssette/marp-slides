@@ -6,7 +6,11 @@ size: 4:3
 ---
 
 <!-- _class: titre -->
-# Méthode de la<br> dissertation en<br>séries techn.<!-- fit -->
+<style scoped>
+h1{font-size:2.6em; padding:0}
+span {font-size:0.57em;display:block; margin-top:-0.15em}
+</style>
+# Méthode de la<br> dissertation<br> <span>en série technologique</span>
 Cédric Eyssette (2021-2022)
 http://eyssette.github.io
 
@@ -20,20 +24,6 @@ ol {list-style-type:none; padding:0px 30px}
 ### Au baccalauréat
 1) Un choix à faire parmi 2 sujets de dissertation et 1 sujet d'explication de texte.
 2) Temps limité : 4h.
-
-
----
-<!-- _class: fppp -->
-<style scoped>
-h3 {margin-bottom:0;}
-</style>
-### Choisir un sujet
-
-1) Ne pas se ruer sur un type d’exercice (la dissertation ou l’explication)
-1) Se méfier des sujets qui semblent proches du cours
-1) Ne pas éliminer trop vite un sujet qui semble trop difficile
-1) Ne pas forcément choisir le sujet qui nous intéresse le plus
-1) Choisir un sujet sur lequel on a des connaissances et où on peut développer
 
 ---
 <!-- _class:  -->
@@ -83,58 +73,18 @@ Il faut prendre le temps de faire le brouillon correctement : **environ 1h30** p
 ---
 <!-- _class: etape -->
 ### 1/ Il faut analyser tous <br>les termes du sujet
-<!-- 1) Il faut analyser tous les termes du sujet
-2) Il faut construire des arguments à partir de cette analyse et à partir du cours -->
-
----
-<!-- _class: i1t1 -->
-
-![](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/strategies-analyse-notion-3.dot.svg)
 
 
 ---
-<!-- _class: pp -->
-<style scoped>
-h3 {font-size:20px; text-align:center; position:absolute; top:20px; width:900px; font-weight:normal; color:###555}
-ol {text-align:center; font-size:1.3em; padding:0; list-style-type:none; padding-bottom:1em;}
-</style>
-### Exemple de travail au brouillon 
+<!-- _class:  -->
+### Plusieurs stratégies
+1) À quoi ça me fait penser ?
+   * synonymes, expressions, idées associées
+2) C'est différent de quoi ?
+3) À quelles connaissances ça me fait penser ?
+4) Quels exemples je peux donner ?
 
-1) Le bonheur n'est-il qu'un idéal ?
-
-<!-- Faire le travail d'analyse au tableau
-Le bonheur
-  -> satisfaction globale, durable
-  ≠ plaisir : s. partielle, éphémère
-  ≠ insatisfaction, souffrance
-
-  -> état de plénitude
-  ≠ état de manque
-    -> désir
-      ↑ Schopenhauer : désir -> toujours plus -> souffrance incessante (tonneau percé)
-      ↓ Société de consommation (pub)
-
-  ↑ Kant : idéal de l'imagination ≠ raison
-
-  ↑ Épicure : simple plaisir d'exister
-
-  ……
-  ……
-
-idéal
-  -> perfection
-  -> but, objectif
-  -> “idéaliser” :
-    voir les choses mieux qu'elles sont, masquer certains aspects du réel
-    ↑ Pascal : divertissement
-    ≠ accepter le réel ↑ stoïcisme
-
-qu'un idéal
-  -> utopie, rêve, imagination, illusion
-  -> impossible, irréalisable
-    -> projet vague, rien de précis
-  -> déception, désespoir, désillusion
-  
+<!-- Schéma de différentes stratégies : ![](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/strategies-analyse-notion-3.dot.svg) -->
 
 ---
 <!-- _class: etape -->
@@ -206,145 +156,24 @@ span {font-size:0.9em}
 
 
 ---
-<!-- _class: fp pointmethode -->
+<!-- _class: fmmm pointmethode -->
 <style scoped>
-h3{text-align:center; margin-bottom:65px;}
-ol {padding-bottom:30px; padding-top:30px}
+h3{text-align:center; margin-bottom:60px;}
+ol {padding-bottom:20px; padding-top:20px}
 ol li:nth-of-type(1), ol li:nth-of-type(2){margin-bottom:15px;}
 ol ul {font-size:97%; margin-right:0!important;}
 ol ul li{margin-bottom:0!important;}
 p{text-align:center;}
 span {font-size:0.9em}
+ul{padding-top:40px; padding-bottom:5px; margin-left:-10px}
 </style>
 ### 3 principes pour le plan
 
 1) On laisse de côté les banalités. On garde seulement les arguments les plus pertinents et ceux qu'on peut le plus développer <!-- usage du cours, référence théorique, exemple concret -->
-1) Pour faire une partie, on regroupe 2 à 4 arguments, avec la même idée directrice, qui doit correspondre à l'examen d'une réponse au sujet
-1) On fait 2 ou 3 parties et il doit y avoir une progression logique dans son plan
-
----
-<!-- _class: -->
-<style scoped>
-img {position:absolute!important; top:0; left:0; width:90%!important; display:block; height:640px; margin: 40px 50px; }
-</style>
-
-1) ![](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/methode-progression-parties-3.dot-part1.svg)
-1) ![](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/methode-progression-parties-3.dot-part2.svg)
-1) ![](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/methode-progression-parties-3.dot-part3.svg)
-1) ![](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/methode-progression-parties-3.dot.svg)
-
-<!-- Exemple de réinterprétation du sujet :
-peut-on tout dire ?
-question des limites de la liberté d'expression
-"peut-on" = possibilité légale et morale
-question des possibilités d'expression du langage
-"peut-on" = possibilité logique et réelle -->
-
----
-<!-- _class:  -->
-De manière générale, il faut suivre une progression du plus simple au plus complexe.
-
-Donc : en première partie, on commence par l'idée qui semble la plus simple.
-
-
----
-<!-- _class:  -->
-<style scoped>
-.refutation {
-  position: relative;
-}
-.refutation:before {
-  position: absolute;
-  content: "";
-  left: 0;
-  top: 50%;
-  right: 0;
-  border-top: 3px solid;
-  border-color: inherit;
-  color:red;
-  -webkit-transform:rotate(-20deg);
-  -moz-transform:rotate(-20deg);
-  -ms-transform:rotate(-20deg);
-  -o-transform:rotate(-20deg);
-  transform:rotate(-20deg);
-}
-h3 {padding-bottom:0.5em!important; text-align:center; margin-top:-0.3em!important;}
-table {margin-left:1em; padding-bottom:1em!important;}
-td {padding: 0 0.6em}
-p {margin:0 100px; }
-ul {position:absolute; list-style-type:none; font-size:0.65em; text-align:center; color:#555; border:1px solid grey; padding:0px; border-radius:15px; width:400px; left:440px; top:188px; background-color:white}
-ul li {padding:5px 0; margin:0}
-ul li:before{content:"";}
-</style>
-### Plan classique en 2 parties
-
-|I|II|
-|:-:|:-:|
-|R1|<span class="refutation">R1</span> R2|
-
-* I – On défend une <br>première réponse<br>II – On la critique et on défend une autre réponse
-
-:warning: Si on fait un plan en 2 parties, il faut davantage développer chaque partie
-
----
-<!-- _class: fppp -->
-<style scoped>
-.refutation {
-  position: relative;
-}
-.refutation:before {
-  position: absolute;
-  content: "";
-  left: 0;
-  top: 50%;
-  right: 0;
-  border-top: 3px solid;
-  border-color: inherit;
-  color:red;
-  -webkit-transform:rotate(-20deg);
-  -moz-transform:rotate(-20deg);
-  -ms-transform:rotate(-20deg);
-  -o-transform:rotate(-20deg);
-  transform:rotate(-20deg);
-}
-.amelioration {color:green; display:inline-block; position:relative; bottom:10px; left:-5px}
-.reinterpretation{color:blue;}
-ol li {margin-left:0.5em}
-ol li table {display:block; margin:0.75em -0.4em;  }
-ol {margin-top:0em}
-h3 {text-align:center; margin-bottom:0; margin-top:0.5em!important}
-td {padding: 0 0.7em}
-table {text-align:center}
-ul {position:absolute; list-style-type:none; font-size:0.7em; text-align:center; color:#555; border:1px solid grey; padding:0px; border-radius:15px}
-ul li {padding:5px 0; margin:0}
-ol li:nth-of-type(1) ul {left:640px; top:182px; width:240px; }
-ol li:nth-of-type(2) ul {left:610px; top:327px; width:290px;}
-ol li:nth-of-type(3) ul {left:700px; top:507px; width:170px;}
-</style>
-### Plans classiques en 3 parties
-
-1) 
-	|I|II|III|
-	|:-:|:-:|:-:|
-	|R1|<span class="refutation">R1</span> R2|R2 <span class="amelioration">+</span>|
-	* On améliore la deuxième partie
-1) 
-	|I|II|III|
-	|:-:|:-:|:-:|
-	|R1|<span class="refutation">R1</span>|R2|
-	* On distingue la<br>critique de R1 (II) et<br>la défense de R2 (III)
-1) 
-	<table>
-	<thead><tr><th>I</th><th>II</th><th>III</th></tr></thead>
-	<tbody><tr><td colspan="2"><span class="reinterpretation">Sens 1</span></td><td class="center"><span class="reinterpretation">Sens 2</span></td></tr>
-	<tr><td>R1</td><td><span class="refutation">R1</span> R2</td><td>R3</td></tr></tbody>
-	</table>
-	<ul><li data-marpit-fragment="6">On<br>réinterprète<br> le sujet</li></ul>
-
-<!-- Trois manières de faire une troisième partie à partir d'un plan en 2 parties :
-1. On améliore la deuxième partie
-2. On distingue la critique de R1 (qu'on met en II) et la défense de R2 (qu'on met en III)
-3. On réinterprète le sujet -->
+1) On regroupe les arguments pour faire 2 parties :
+   * partie I (“à première vue, on pourrait croire que …”) : on expose les arguments en faveur d'une réponse au sujet que l'on va critiquer ;
+   * partie II (“mais en fait …”) : on critique ces arguments et on défend une meilleure réponse au sujet.
+1) Pour chaque partie, on essaie de trouver 2 à 4 arguments, avec une progression logique d'un argument à un autre.
 
 ---
 <!-- _class:  -->
@@ -369,7 +198,7 @@ p {margin:0 90px; text-align:justify}
 </style>
 ## A. Un exemple commenté
 
-L'exemple de [dissertation rédigée](https://docs.google.com/document/d/e/2PACX-1vTa6Oph2xymr2izFDtfhzoy9yfn-EoBUsWQlUPpXDTybel-HbRO7802EoHYomfmeaMO6d_D7Ucdc2td/pub) présente ce qu'il faut faire, et on complétera par des remarques sur ce qu'il ne faut pas faire
+L'exemple de [dissertation rédigée](https://docs.google.com/document/d/1MS_zS5PzaGPwxCcdenRB_NRVWeGbNmbVQxPChnhKm5E/edit?usp=sharing) présente ce qu'il faut faire, et on complétera par des remarques sur ce qu'il ne faut pas faire
 
 ---
 <!-- _class: fpppppppp -->
