@@ -461,7 +461,7 @@ table {margin-left:1em}
 
 |||
 |:-:|:-:|
-|<span data-marpit-fragment="1">Pr</span>|<span data-marpit-fragment="1">Présentation du devoir</span>|
+|<span data-marpit-fragment="1">P</span>|<span data-marpit-fragment="1">Présentation &<br>phrases correctes</span>|
 |<span data-marpit-fragment="2">OL</span>|<span data-marpit-fragment="2">Organisation logique</span>|
 |<span data-marpit-fragment="3">LS</span>|<span data-marpit-fragment="3">Lien avec le sujet</span>|
 |<span data-marpit-fragment="4">M</span>|<span data-marpit-fragment="4">Méthode</span>|
