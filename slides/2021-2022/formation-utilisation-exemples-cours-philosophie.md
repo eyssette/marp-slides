@@ -953,29 +953,8 @@ Y a-t-il une différence fondamentale entre ces androïdes et nous-mêmes ?
 
 
 
-
-
-
-
-
 ---
 <!-- _class: i1t0 -->
 
 [![](https://upload.wikimedia.org/wikipedia/commons/3/33/Jumping-spider.jpg)](https://video.link/w/Tx9mb)
-
-
----
-<!-- _class: pointmethode fppp -->
-<style scoped>
-h3{margin-bottom:60px!important}
-img {height:300px; float:left; margin-right:80px; margin-left:25px; margin-top:20px}
-</style>
-### Point méthode
-
-Pour structurer un paragraphe, on peut utiliser le modèle **ARES** :
-![Dessin qui représente le dieu de la guerre Arès](../images/ares-greek-god.jpg)
-–  A : Argumentation-Analyse
-–  R : Référence théorique
-–  E : Exemple concret
-–  S : Synthèse
 

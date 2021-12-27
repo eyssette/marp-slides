@@ -85,6 +85,13 @@ blockquote blockquote{padding:0px; margin-top:15px}
 >« Partie subordonnée d’un grand tout, l’homme est forcé d’en éprouver les influences. […] Les erreurs des philosophes sur la liberté de l’homme, viennent de ce qu’ils ont regardé sa volonté comme le premier mobile de ses actions, & que, faute de remonter plus haut, ils n’ont point vu les causes multipliées & compliquées indépendantes de lui qui mettent cette volonté elle-même en mouvement […]. Cependant il faut avouer que la multiplicité & la diversité des causes qui agissent sur nous souvent à notre insu, font qu’il nous est impossible, ou du moins très difficile, de remonter aux vrais principes de nos actions […]. Voilà ce qui rend l’étude de l’homme […] si difficile »
 >>**D'Holbach**, _Système de la nature_, chap. XI
 
+<!-- Faire noter : "Partie subordonnée d’un grand tout, l’homme est forcé d’en éprouver les influences."
+L'être humain n'est pas un être à part, il existe dans une situation, un contexte.
+Il faut expliquer le comportement des êtres humains par des causes.
+Ces causes sont : multiples, complexes, et agissent "à notre insu" (de manière inconsciente).
+Une simple réflexion par soi-même sur l'être humain ne suffit pas : il faut parvenir à étudier l'être humain, en tant qu'objet d'une connaissance scientifique.
+ -->
+
 ---
 <!-- _class: fppppp -->
 <style scoped>
@@ -98,12 +105,25 @@ ul li {margin-left:-1.89em; font-size:0.81em}
 2) Des facteurs psychiques ?
 3) Des facteurs sociaux ?
 
-<!-- facteurs biologiques : 
-Question trop complexe, trop technique pour être envisagée ici -->
+<!-- Présenter autrement : mettre directement titre partie A.
+Simplifier le titre "A. Les facteurs …"
+faire partie A sur les facteurs biologiques
+
+Les facteurs biologiques envisageables : les gènes, les hormones, les neurones
+Cas examiné : les gènes
+Partir de ce que les élèves connaissent de la génétique
+La génétique des comportements
+quelques modèles animaux
+Les limites :
+1) la complexité psychologique, sociale humaine => pas de transposition possible d'une espèce animale à l'être humain
+2) la complexité génétique : on ne peut pas associer un comportement à l'expression mécanique d'un gène
+Reste la question de l'influence de certains facteurs génétiques (sans identification précise, et sans fatalisme) sur l'augmentation de la probabilité d'apparition de certaines caractéristiques.
+Attention aux raccourcis, aux simplifications. Prudence requise.
+ -->
 
 ---
 <!-- _class: souspartie -->
-## A. L'influence inconsciente <br>de facteurs psychiques <!-- fit -->
+## A. Les facteurs <br>psychiques <!-- fit -->
 
 ---
 <!-- _class: etape -->
@@ -123,30 +143,135 @@ blockquote{padding-top:7px; padding-bottom:7px;}
 >«  Dans le cours des siècles, la science a infligé à l’égoïsme naïf de l’humanité deux graves démentis. La première fois, ce fut lorsqu’elle a montré que la terre, loin d’être le centre de l’univers, ne forme qu’une parcelle insignifiante du système cosmique dont nous pouvons à peine nous représenter la grandeur [...]. Le second démenti fut infligé à l’humanité par la recherche biologique, lorsqu’elle a réduit à rien les prétentions de l’homme à une place privilégiée dans l’ordre de la création, en établissant sa descendance du règne animal [...]. Un troisième démenti sera infligé à la mégalomanie humaine par la recherche psychologique de nos jours qui se propose de montrer au moi qu’il n’est seulement pas maître dans sa propre maison, qu’il en est réduit à se contenter de renseignements rares et fragmentaires sur ce qui se passe, en dehors de sa conscience, dans sa vie psychique. » 
 >>**Freud**, *Introduction à la psychanalyse* (1916), II, chap. 18 
 
+
+---
+<!-- _class: fpp -->
+<style scoped>
+table{margin-top:1em}
+table span.white {color:white}
+p:nth-of-type(2),p:nth-of-type(3){position:absolute!important; font-size:1em}
+p:nth-of-type(2){top:505px; left:409px}
+p:nth-of-type(3){top:558px; left:597px; width:500px}
+</style>
+Freud prétend inscrire la psychologie dans l'histoire des grandes découvertes scientifiques
+
+||||
+|:-:|:-:|:-:|
+<span data-marpit-fragment="1">Physique</span> | <span data-marpit-fragment="2">Copernic</span> | <span data-marpit-fragment="3">La Terre n'est pas le centre du monde</span>
+<span data-marpit-fragment="4">Biologie</span> | <span data-marpit-fragment="5">Darwin</span> | <span data-marpit-fragment="6">L'être humain n'est pas le centre de la vie sur Terre</span>
+<span data-marpit-fragment="7">Psychologie</span> | <span data-marpit-fragment="8">Freud !</span> | <span data-marpit-fragment="9"><span class="white">………………</span> n'est pas<br>le centre de <span class="white">………………</span></span>
+
+<span data-marpit-fragment="10">La conscience</span>
+
+<span data-marpit-fragment="11">l'esprit humain</span>
+
 <!-- 
-Tableau : 
-Physique | Copernic | La Terre n'est pas le centre du monde
-Biologie | Darwin | L'être humain n'est pas le centre de la vie sur Terre
-Psychologie | Freud | La conscience n'est pas le centre de l'esprit humain
+La Terre n'est pas le centre du monde :
+Passage d'un univers fini avec un centre (la Terre : géocentrisme)
+à un univers infini, sans centre
+
+L'être humain n'est pas le centre de la vie sur Terre :
+dépassement des anciennes classifications du vivant (hiérarchisation avec l'être humain au sommet) ; cf. le buisson du vivant au Musée des Confluences
+https://planet-terre.ens-lyon.fr/ressource/Img492-2015-04-06.xml
+
  -->
+
+
+
+---
+<!-- _class: citationC -->
+<style scoped>
+blockquote{font-size:1.6em; margin-left:40px!important; margin-right:30px!important}
+blockquote blockquote{font-size:0.9em}
+</style>
+![bg left:32% Photographie de Freud](https://upload.wikimedia.org/wikipedia/commons/3/36/Sigmund_Freud%2C_by_Max_Halberstadt_%28cropped%29.jpg)
+
+>«  Le moi n'est pas maître dans sa propre maison »
+>>**Freud**
+
+
+---
+<!-- _class: i1t1 horizontal f -->
+<style scoped>
+p:nth-of-type(2){text-align:justify!important; width:370px; padding-left:10px}
+</style>
+![](../images/iceberg.svg)
+
+<span data-marpit-fragment="1">Le moi conscient ne représente que la surface de la vie psychique.</span>
+<br><span data-marpit-fragment="2">Il faut explorer les profondeurs de l'esprit humain : il y a en nous un inconscient psychique qui constitue l'essentiel de ce que nous sommes</span>
+
+<!-- Le moi conscient ne représente que la surface de la vie psychique.
+Il faut explorer les profondeurs de l'esprit humain : 
+
+Nous ne sommes pas transparents à nous-mêmes : il faut explorer les profondeurs de l'esprit humain pour nous comprendre. L'essentiel de notre vie psychique   -->
+
+---
+<!-- _class: fmmm -->
+<style scoped>
+h4{margin-bottom:0}
+div {margin-top:-2em}
+table {font-size:0.8em; margin:0;}
+table td:nth-of-type(2){width:300px!important}
+</style>
+#### a/ L'inconscient selon Freud
+
+1) Des motifs psychiques inconscients
+
+<div data-marpit-fragment="0">>
+
+||||
+|:-:|:-:|:-:|
+<span data-marpit-fragment="1">Le Moi</span> | <span data-marpit-fragment="2">la salle de conférence</span> | <span data-marpit-fragment="3">= les fonctions conscientes <br>(agir, parler, réfléchir …)</span>
+<span data-marpit-fragment="4">Le Ça</span> | <span data-marpit-fragment="2">les personnes dehors <br>qui veulent rentrer <br>dans la salle</span> | <span data-marpit-fragment="5">= les pulsions inconscientes <br>(pulsions sexuelles <br>et agressives)</span>
+<span data-marpit-fragment="6">Le Surmoi</span> | <span data-marpit-fragment="7">un gardien qui <br>contrôle l'entrée</span> | <span data-marpit-fragment="8">= le refoulement des pulsions <br>qui ne correspondent pas <br>aux normes sociales et à un idéal du moi que nous avons intériorisés</span>
+</div>
+
+2) Une structuration psychique inconsciente, qui s'est constituée pendant l'enfance
+
+---
+<!-- _class: fppppp -->
+#### b/ Arguments et objections
+
+<span data-marpit-fragment="1">**Argument 1**</span>
+
+<span data-marpit-fragment="2">On ne peut certes pas observer directement l'inconscient, mais on peut l'observer indirectement, car l'inconscient se manifeste par certains effets observables :</span>
+1) Des manifestations ordinaires : <span data-marpit-fragment="4">dans le rêve</span><span data-marpit-fragment="5">, les lapsus</span><span data-marpit-fragment="6">, le corps …</span>
+2) Des manifestations pathologiques : dans les troubles psychiques.
+
 
 
 ---
 <!-- _class:  -->
-Pour Freud, les facteurs psychiques inconscients qui peuvent agir sur nous sont :
-1) des pulsions refoulées ;
-2) une structuration psychique de l'individu, qui s'est constituée pendant l'enfance.
+**Un exemple** : le rituel du coucher d'une jeune fille.
 
-<!-- 
-Pour le 1/
-préciser : pulsions sexuelles / pulsions agressives
-Ça / Surmoi
-Pour le 2/
-les stades infantiles (oral, anal, complexe d'Œdipe …)
- -->
-* Cette hypothèse est-elle correcte ?
+<span data-marpit-fragment="1">**Objection contre l'argument 1** : il ne s'agit pas d'une observation</span><span data-marpit-fragment="2">, mais d'une interprétation</span><span data-marpit-fragment="3"> et on pourrait faire, de manière arbitraire, une psychanalyse sauvage de n'importe quel comportement.</span>
 
-<!-- Évaluation critique de la psychanalyse  -->
+
+---
+<!-- _class: fmmmmm -->
+<style scoped>
+table {font-size:0.8em;}
+table td:nth-of-type(1){width:150px; padding-top:10px}
+table td:nth-of-type(2){width:300px}
+table td{padding:2px}
+</style>
+**Argument 2 & objections** : On peut distinguer les interprétations arbitraires et les interprétations justifiées. Pour qu'une interprétation soit justifiée, il faut qu'elle respecte certains critères.
+
+||||
+|:-:|:-:|:-:|
+|<span data-marpit-fragment="1">Critère<br>de la<br> source</span>|<span data-marpit-fragment="2">Le patient lui-même doit être la source de l'interprétation</span>|<span data-marpit-fragment="3">Objection : Il est possible que l'interprétation soit en fait <br>suggérée par l'analyste</span>|
+|<span data-marpit-fragment="4">Critère<br>de la<br> cohérence</span>|<span data-marpit-fragment="5">L'interprétation doit être cohérente et apporter de la cohérence en donnant une explication à des phénomènes qui semblent incohérents </span>|<span data-marpit-fragment="6">Objections : <br>1) La cohérence ne suffit <br>pas à établir la vérité<br>2) Il y a d'autres <br>explications possibles</span>|
+|<span data-marpit-fragment="7">Critère du succès thérapeutique</span>|<span data-marpit-fragment="8">La compréhension par <br>le patient du sens de <br>ses symptômes doit lui <br>permettre de s'en libérer</span>|<span data-marpit-fragment="9">Objections : <br>1) Les effets thérapeutiques de la psychanalyse sont remis en cause</span><span data-marpit-fragment="10"><br>2) L'effet thérapeutique pourrait n'être qu'un effet placebo (ou un effet Dodo)</span>|
+
+
+---
+<!-- _class: -->
+#### c/ Bilan sur l'inconscient freudien
+<span data-marpit-fragment="1">Les hypothèses spécifiques de Freud sont remises en causes, mais la psychologie contemporaine conserve généralement certaines idées :</span>
+1) l'importance de la verbalisation du vécu ;
+2) l'importance de l'intersubjectivité ;
+3) l'importance de l'enfance.
+
 
 ---
 <!-- _class: etape fppppppp-->
@@ -213,7 +338,7 @@ span strong{
 
 ---
 <!-- _class: souspartie -->
-## B. L'influence inconsciente <br>de facteurs sociaux <!-- fit -->
+## B. Les facteurs <br>sociaux <!-- fit -->
 
 
 ---
