@@ -15,10 +15,6 @@ http://eyssette.github.io
 
 
 ---
-<!-- _class:  -->
-
-
----
 <!-- _class: colonnes pp-->
 <style scoped>
 ol {
@@ -29,7 +25,7 @@ ol {
     padding:0px;
     height:770px!important;
     max-width:470px;
-	margin-top:70px!important;
+	margin-top:20px!important;
 	margin-left:0px;
 }
 ol li {
