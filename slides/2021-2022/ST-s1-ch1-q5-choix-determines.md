@@ -230,6 +230,26 @@ td {font-size:80%}
 [![](https://upload.wikimedia.org/wikipedia/commons/3/33/Jumping-spider.jpg)](https://video.link/w/Tx9mb)
 
 
+
+---
+<!-- _class: citationC f-->
+<style scoped>
+figure {margin-left:-2em!important}
+</style>
+
+![bg left:38%](https://i.ibb.co/N9YSh7P/thomas-d-aquin.png)
+
+>« [C]’est pourquoi l’homme agit selon un jugement libre, car il a la faculté de se porter à divers objets. En effet, dans le domaine du contingent, la raison peut suivre des directions opposées […]. Or, les actions particulières sont contingentes ; par suite le jugement rationnel qui porte sur elles peut aller dans un sens ou dans l’autre, et n’est pas déterminé à une seule chose. En conséquence, il est nécessaire que l’homme ait le libre arbitre, par le fait même qu’il est doué de raison. »
+>>**Thomas d'Aquin**, _Somme théologique_, I, question 83, réponse
+
+
+---
+<!-- _class: definition fppppppppp -->
+
+### Définition
+
+Ce qui est **nécessaire**, c'est ce qui ne peut pas être autrement, c'est ce dont le contraire est impossible.<br>Ce qui est **contingent**, c'est ce qui pourrait être autrement, c'est ce dont le contraire est possible.
+
 ---
 <!-- _class: -->
 <style scoped>
