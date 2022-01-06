@@ -25,8 +25,10 @@ ol {
     padding:0px;
     height:770px!important;
     max-width:470px;
-	margin-top:12px!important;
 	margin-left:0px;
+    padding-top:20px;
+    padding-bottom:20px;
+    justify-content: space-evenly;
 }
 ol li {
     margin:0;
