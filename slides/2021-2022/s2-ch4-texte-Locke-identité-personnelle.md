@@ -189,13 +189,6 @@ On utilise des accolades dans la marge et on marque dans le texte la séparation
 
 
 ---
-<!-- _class: pointmethode -->
-### Point méthode
-On donne un titre à chaque partie.
-On vérifie l'organisation du propos : il doit y avoir une progression logique.
-
-
----
 <!-- _class: citationL pp-->
 <style scoped>
 blockquote{text-indent:1.5em; font-size:23px;  background-color:white; margin:0px 95px; padding:0}
@@ -203,6 +196,20 @@ blockquote{text-indent:1.5em; font-size:23px;  background-color:white; margin:0p
 ><p>« [Une personne est] un être pensant et intelligent, doué de raison et de réflexion, et qui peut se considérer soi-même comme soi-même […] ; ce qu’il fait uniquement par la conscience qui est inséparable de la pensée, et lui est essentielle à ce qu’il me semble : car il est impossible à quelqu’un de percevoir sans percevoir aussi qu’il perçoit. Quand nous voyons, entendons, sentons par l’odorat ou le toucher, éprouvons, méditons ou voulons quelque chose, nous savons que nous le faisons […] : ce par quoi chacun est pour lui&#8209;même précisément ce qu’il appelle soi […].</p>
 ><p>Mais l’identité personnelle […] s’étend aussi loin que peut remonter la conscience dans ses pensées et ses actes passés […]. [P]uisque c’est la même conscience qui fait qu’un homme est lui-même à ses propres yeux, l’identité personnelle dépend de cette conscience seule, qu’elle soit rattachée à une seule substance individuelle, ou qu’elle se préserve à travers la succession de substances diverses. Car, dans la mesure où un être intelligent peut reproduire l’idée de n’importe quelle action passée avec la même conscience qu’il en avait à l’époque et y ajouter la même conscience qu’il a de n’importe quelle action présente, dans cette mesure il est le même soi personnel. […] [Et] s’il était possible que la même personne ait à différents moments des consciences distinctes et incommunicables, le même homme constituerait sans doute différentes personnes à différents moments. […]</p>
 ><p>Le soi est cette chose (peu importe la substance qui la constitue : spirituelle ou matérielle, simple ou composée) pensante, sensible (ou consciente) au plaisir et à la douleur, apte au bonheur ou au malheur et portant de ce fait intérêt à soi&#8209;même jusqu’aux limites de sa conscience. […] Sur cette identité personnelle reposent tout le droit et la justice de la récompense et du châtiment. »</p>
+
+
+---
+<!-- _class: pointmethode -->
+### Point méthode
+On donne un titre à chaque partie.
+On vérifie l'organisation du propos : il doit y avoir une progression logique.
+
+<!-- 
+Partie 1 : Être une personne, c'est avoir une conscience
+Partie 2 : L'identité de la personne repose sur la conscience de soi
+Partie 3 : La notion d'identité est importante
+
+ -->
 
 ---
 <!-- _class: partie -->
@@ -214,9 +221,27 @@ img {position:absolute; top:37px; left:45px; width:873px; height:530px}
 II – Lecture fine
 
 ---
-<!-- _class: pointmethode  -->
+<!-- _class: pointmethode fpp -->
+<style scoped>
+ol {padding-top:0.5em}
+</style>
 ### Point méthode
-Pour la lecture fine, on va garder le CAP : Citation / Analyse et argumentation / Problématisation
+Le but de la lecture fine est de mieux saisir :
+1) le contenu du texte : il faut apporter des éléments de compréhension ;
+2) la logique du texte : il faut dégager des sous-parties.
+
+---
+<!-- _class: pointmethode f -->
+<style scoped>
+ol {padding-top:0.5em}
+</style>
+### Point méthode
+On se focalise sur un passage du texte.
+On se pose des questions en mobilisant les 4 démarches  :
+1) Analyser : « Qu'est-ce que cela veut dire ? » 
+2) Argumenter : « Qu'est-ce qui permet de dire cela ? »
+3) Problématiser : « Est-ce si simple ? »
+4) Approfondir : « Quels exemples et quelles références puis-je utiliser ? »
 
 
 ---
@@ -230,6 +255,24 @@ Pour la lecture fine, on va garder le CAP : Citation / Analyse et argumentation
 >« [Une personne est] un être pensant et intelligent, doué de raison et de réflexion, et qui peut se considérer soi-même comme soi-même […] ; ce qu’il fait uniquement par la conscience qui est inséparable de la pensée, et lui est essentielle à ce qu’il me semble : car il est impossible à quelqu’un de percevoir sans percevoir aussi qu’il perçoit. Quand nous voyons, entendons, sentons par l’odorat ou le toucher, éprouvons, méditons ou voulons quelque chose, nous savons que nous le faisons […] : ce par quoi chacun est pour lui&#8209;même précisément ce qu’il appelle soi […]. »
 >>John **Locke**, _Essai sur l'entendement humain_, II, 27
 
+<!-- 
+1. personne => conscience
+cas : foetus, animal, robot
+sens descriptif / sens normatif
+distinction, hiérarchie : pensée (représentations mentales), intelligence (raisonnement), réflexion (représentations et raisonnements à propos de ses représentations et raisonnements), conscience de soi
+
+≠ personne : être humain, sens biologique
+
+2. conscience : idée de soi central
+Cf. Damasio : proto-soi / soi central / soi autobiographique
+
+MAIS :
+conscience de soi : connaissance de soi / saisie de soi comme chose
+Descartes
+Hume
+Réponse de Locke : conscience de soi ≠ conscience d'un objet qui serait soi
+ -->
+
 
 ---
 <!-- _class: souspartie -->
@@ -242,6 +285,29 @@ Pour la lecture fine, on va garder le CAP : Citation / Analyse et argumentation
 >« Mais l’identité personnelle […] s’étend aussi loin que peut remonter la conscience dans ses pensées et ses actes passés […]. [P]uisque c’est la même conscience qui fait qu’un homme est lui-même à ses propres yeux, l’identité personnelle dépend de cette conscience seule, qu’elle soit rattachée à une seule substance individuelle, ou qu’elle se préserve à travers la succession de substances diverses. Car, dans la mesure où un être intelligent peut reproduire l’idée de n’importe quelle action passée avec la même conscience qu’il en avait à l’époque et y ajouter la même conscience qu’il a de n’importe quelle action présente, dans cette mesure il est le même soi personnel. […] [Et] s’il était possible que la même personne ait à différents moments des consciences distinctes et incommunicables, le même homme constituerait sans doute différentes personnes à différents moments. […] »
 >>John **Locke**, _Essai sur l'entendement humain_, II, 27
 
+<!-- 
+1. 
+Conscience de soi : activité de synthèse
+cas : amnésie, Alzheimer + changements dans le corps, changements dans les manières d'être, les croyances …
+Identité ≠ substance
+
+Mais : transitivité (objection de Reid)
+Cas : photo de soi à 2 ans, sans souvenir
+=> continuité psychique
+
+2. cas de transfert, de changement de substance : deux substances différentes, même substance
+Cas : Prince-Savetier, transplantation de cerveau, Napoléon
+
+3. Deux personnes pour une même substance
+Deux personnes dans un même corps
+
+MAIS :
+cas du double
+Question de la vérité, place du témoignage d'autrui ; récit de soi (identité narrative), image de soi : illusions sur soi
+
+
+ -->
+
 ---
 <!-- _class: souspartie -->
 ## C. Partie 3
@@ -252,3 +318,12 @@ Pour la lecture fine, on va garder le CAP : Citation / Analyse et argumentation
 
 >« Le soi est cette chose (peu importe la substance qui la constitue : spirituelle ou matérielle, simple ou composée) pensante, sensible (ou consciente) au plaisir et à la douleur, apte au bonheur ou au malheur et portant de ce fait intérêt à soi&#8209;même jusqu’aux limites de sa conscience. […] Sur cette identité personnelle reposent tout le droit et la justice de la récompense et du châtiment. »
 >>John **Locke**, _Essai sur l'entendement humain_, II, 27
+
+<!-- 
+1. Intérêt pour soi
+
+≠ Parfit
+
+2. Intérêt social, juridique
+
+ -->
