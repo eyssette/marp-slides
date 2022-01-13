@@ -15,6 +15,14 @@ Cédric Eyssette (2021-2022)
 https://eyssette.github.io
 
 
+---
+<!-- _class: citationL pp-->
+<style scoped>
+blockquote{text-indent:1.5em; font-size:22px;  background-color:white; margin:0px 95px; padding:0}
+</style>
+><p>« [Une personne est] un être pensant et intelligent, doué de raison et de réflexion, et qui peut se considérer soi-même comme soi-même […] ; ce qu’il fait uniquement par la conscience qui est inséparable de la pensée, et lui est essentielle à ce qu’il me semble : car il est impossible à quelqu’un de percevoir sans percevoir aussi qu’il perçoit. Quand nous voyons, entendons, sentons par l’odorat ou le toucher, éprouvons, méditons ou voulons quelque chose, nous savons que nous le faisons […] : ce par quoi chacun est pour lui&#8209;même précisément ce qu’il appelle soi […].</p>
+><p>Mais l’identité personnelle […] s’étend aussi loin que peut remonter la conscience dans ses pensées et ses actes passés […]. [P]uisque c’est la même conscience qui fait qu’un homme est lui-même à ses propres yeux, l’identité personnelle dépend de cette conscience seule, qu’elle soit rattachée à une seule substance individuelle, ou qu’elle se préserve à travers la succession de substances diverses. Car, dans la mesure où un être intelligent peut reproduire l’idée de n’importe quelle action passée avec la même conscience qu’il en avait à l’époque et y ajouter la même conscience qu’il a de n’importe quelle action présente, dans cette mesure il est le même soi personnel. […] [Et] s’il était possible que la même personne ait à différents moments des consciences distinctes et incommunicables, le même homme constituerait sans doute différentes personnes à différents moments. […]</p>
+><p>Le soi est cette chose (peu importe la substance qui la constitue : spirituelle ou matérielle, simple ou composée) pensante, sensible (ou consciente) au plaisir et à la douleur, apte au bonheur ou au malheur et portant de ce fait intérêt à soi&#8209;même jusqu’aux limites de sa conscience. […] Sur cette identité personnelle reposent tout le droit et la justice de la récompense et du châtiment. »</p>
 
 ---
 <!-- _class: -->
@@ -22,14 +30,7 @@ https://eyssette.github.io
 
 ![bg](https://products-images.di-static.com/image/john-locke-essai-sur-l-entendement-humain/9782711615056-475x500-1.webp)
 
----
-<!-- _class: citationL pp-->
-<style scoped>
-blockquote{text-indent:1.5em; font-size:23px;  background-color:white; margin:0px 95px; padding:0}
-</style>
-><p>« [Une personne est] un être pensant et intelligent, doué de raison et de réflexion, et qui peut se considérer soi-même comme soi-même […] ; ce qu’il fait uniquement par la conscience qui est inséparable de la pensée, et lui est essentielle à ce qu’il me semble : car il est impossible à quelqu’un de percevoir sans percevoir aussi qu’il perçoit. Quand nous voyons, entendons, sentons par l’odorat ou le toucher, éprouvons, méditons ou voulons quelque chose, nous savons que nous le faisons […] : ce par quoi chacun est pour lui&#8209;même précisément ce qu’il appelle soi […].</p>
-><p>Mais l’identité personnelle […] s’étend aussi loin que peut remonter la conscience dans ses pensées et ses actes passés […]. [P]uisque c’est la même conscience qui fait qu’un homme est lui-même à ses propres yeux, l’identité personnelle dépend de cette conscience seule, qu’elle soit rattachée à une seule substance individuelle, ou qu’elle se préserve à travers la succession de substances diverses. Car, dans la mesure où un être intelligent peut reproduire l’idée de n’importe quelle action passée avec la même conscience qu’il en avait à l’époque et y ajouter la même conscience qu’il a de n’importe quelle action présente, dans cette mesure il est le même soi personnel. […] [Et] s’il était possible que la même personne ait à différents moments des consciences distinctes et incommunicables, le même homme constituerait sans doute différentes personnes à différents moments. […]</p>
-><p>Le soi est cette chose (peu importe la substance qui la constitue : spirituelle ou matérielle, simple ou composée) pensante, sensible (ou consciente) au plaisir et à la douleur, apte au bonheur ou au malheur et portant de ce fait intérêt à soi&#8209;même jusqu’aux limites de sa conscience. […] Sur cette identité personnelle reposent tout le droit et la justice de la récompense et du châtiment. »</p>
+
 
 
 ---
@@ -41,13 +42,13 @@ Il n'est pas nécessaire de connaître l'auteur, mais des connaissances sont né
 
 
 ---
-<!-- _class: pointmethode -->
+<!-- _class: pointmethode sanspuces -->
 <style scoped>
 h3{margin-bottom:50px}
 </style>
 ### Point méthode
-Deux difficultés : éviter le contresens et surtout éviter la paraphrase.
-Pour cela, il faut faire une lecture active et méthodique du texte
+1) Deux difficultés : éviter le contresens et surtout dépasser la paraphrase.
+2) Pour cela, il faut faire une lecture active et méthodique du texte
 
 ---
 <!-- _class: i2t0 pp vertical pm -->
@@ -96,7 +97,7 @@ Les notions importantes se trouvent : <span data-marpit-fragment="1">dans les no
 ---
 <!-- _class: citationL pp-->
 <style scoped>
-blockquote{text-indent:1.5em; font-size:23px;  background-color:white; margin:0px 95px; padding:0}
+blockquote{text-indent:1.5em; font-size:22px;  background-color:white; margin:0px 95px; padding:0}
 </style>
 ><p>« [Une personne est] un être pensant et intelligent, doué de raison et de réflexion, et qui peut se considérer soi-même comme soi-même […] ; ce qu’il fait uniquement par la conscience qui est inséparable de la pensée, et lui est essentielle à ce qu’il me semble : car il est impossible à quelqu’un de percevoir sans percevoir aussi qu’il perçoit. Quand nous voyons, entendons, sentons par l’odorat ou le toucher, éprouvons, méditons ou voulons quelque chose, nous savons que nous le faisons […] : ce par quoi chacun est pour lui&#8209;même précisément ce qu’il appelle soi […].</p>
 ><p>Mais l’identité personnelle […] s’étend aussi loin que peut remonter la conscience dans ses pensées et ses actes passés […]. [P]uisque c’est la même conscience qui fait qu’un homme est lui-même à ses propres yeux, l’identité personnelle dépend de cette conscience seule, qu’elle soit rattachée à une seule substance individuelle, ou qu’elle se préserve à travers la succession de substances diverses. Car, dans la mesure où un être intelligent peut reproduire l’idée de n’importe quelle action passée avec la même conscience qu’il en avait à l’époque et y ajouter la même conscience qu’il a de n’importe quelle action présente, dans cette mesure il est le même soi personnel. […] [Et] s’il était possible que la même personne ait à différents moments des consciences distinctes et incommunicables, le même homme constituerait sans doute différentes personnes à différents moments. […]</p>
@@ -123,29 +124,33 @@ On souligne dans la liste des notions, la ou les deux notions les plus important
 ## B. Formuler la question et la thèse du texte
 
 ---
-<!-- _class: pointmethode fpppppp -->
+<!-- _class: pointmethode fppppppp sanspuces -->
 <style scoped>
 h3 {margin-bottom:55px}
 </style>
+<style>
+section.sanspuces ol{list-style-type:none!important}
+section.sanspuces ol li {margin-left:-1em!important}
+</style>
 ### Point méthode
-La question directrice doit porter sur le thème du texte.
-Attention : la question n'est généralement pas dans le texte, et il faut dans tous les cas la formuler par soi-même.
+1) La question directrice doit porter sur le thème du texte.
+2) Attention : la question n'est généralement pas dans le texte, et il faut dans tous les cas la formuler par soi-même.
 
 
 ---
-<!-- _class: pointmethode fppppppp -->
+<!-- _class: pointmethode fppppppp sanspuces -->
 <style scoped>
 h3 {margin-bottom:68px}
 </style>
 ### Point méthode
-La thèse est la réponse de l'auteur à la question directrice.
-On la formule par soi-même : on ne recopie pas une phrase du texte.
-La thèse doit être précise : elle doit contenir un maximum de notions du texte.
+1) La thèse est la réponse de l'auteur à la question directrice.
+2) On la formule par soi-même : on ne recopie pas une phrase du texte.
+3) La thèse doit être précise : elle doit contenir un maximum de notions du texte.
 
 ---
 <!-- _class: citationL pp-->
 <style scoped>
-blockquote{text-indent:1.5em; font-size:23px;  background-color:white; margin:0px 95px; padding:0}
+blockquote{text-indent:1.5em; font-size:22px;  background-color:white; margin:0px 95px; padding:0}
 </style>
 ><p>« [Une personne est] un être pensant et intelligent, doué de raison et de réflexion, et qui peut se considérer soi-même comme soi-même […] ; ce qu’il fait uniquement par la conscience qui est inséparable de la pensée, et lui est essentielle à ce qu’il me semble : car il est impossible à quelqu’un de percevoir sans percevoir aussi qu’il perçoit. Quand nous voyons, entendons, sentons par l’odorat ou le toucher, éprouvons, méditons ou voulons quelque chose, nous savons que nous le faisons […] : ce par quoi chacun est pour lui&#8209;même précisément ce qu’il appelle soi […].</p>
 ><p>Mais l’identité personnelle […] s’étend aussi loin que peut remonter la conscience dans ses pensées et ses actes passés […]. [P]uisque c’est la même conscience qui fait qu’un homme est lui-même à ses propres yeux, l’identité personnelle dépend de cette conscience seule, qu’elle soit rattachée à une seule substance individuelle, ou qu’elle se préserve à travers la succession de substances diverses. Car, dans la mesure où un être intelligent peut reproduire l’idée de n’importe quelle action passée avec la même conscience qu’il en avait à l’époque et y ajouter la même conscience qu’il a de n’importe quelle action présente, dans cette mesure il est le même soi personnel. […] [Et] s’il était possible que la même personne ait à différents moments des consciences distinctes et incommunicables, le même homme constituerait sans doute différentes personnes à différents moments. […]</p>
@@ -162,10 +167,10 @@ L'identité d'une personne, notamment à travers le temps, repose sur la conscie
 ## C. Repérer et formuler le plan du texte
 
 ---
-<!-- _class: pointmethode -->
+<!-- _class: pointmethode sanspuces -->
 ### Point méthode
-Le plan doit être linéaire : on suit la chronologie du texte (on ne fait pas un plan thématique).
-On repère deux à quatre parties au maximum dans le texte.
+1) Le plan doit être linéaire : on suit la chronologie du texte (on ne fait pas un plan thématique).
+2) On repère deux à quatre parties au maximum dans le texte.
 
 
 ---
@@ -176,22 +181,22 @@ ol {padding-top:0}
 </style>
 ### Point méthode
 Pour dégager le plan, on peut s'aider de certains indicateurs :
-1. les paragraphes, la ponctuation ;
-2. les connecteurs logiques, les mots de liaison, le vocabulaire argumentatif ;
-3. la répartition des notions importantes dans le texte.
+1) les paragraphes, la ponctuation ;
+2) les connecteurs logiques, les mots de liaison, le vocabulaire argumentatif ;
+3) la répartition des notions importantes dans le texte.
 
 
 ---
-<!-- _class: pointmethode -->
+<!-- _class: pointmethode sanspuces -->
 ### Point méthode
-C'est avant tout le sens qui doit guider le repérage des parties (1 partie = 1 même idée).
-On utilise des accolades dans la marge et on marque dans le texte la séparation entre les parties.
+1) C'est avant tout le sens qui doit guider le repérage des parties (1 partie = 1 même idée).
+2) On utilise des accolades dans la marge et on marque dans le texte la séparation entre les parties.
 
 
 ---
 <!-- _class: citationL pp-->
 <style scoped>
-blockquote{text-indent:1.5em; font-size:23px;  background-color:white; margin:0px 95px; padding:0}
+blockquote{text-indent:1.5em; font-size:22px;  background-color:white; margin:0px 95px; padding:0}
 </style>
 ><p>« [Une personne est] un être pensant et intelligent, doué de raison et de réflexion, et qui peut se considérer soi-même comme soi-même […] ; ce qu’il fait uniquement par la conscience qui est inséparable de la pensée, et lui est essentielle à ce qu’il me semble : car il est impossible à quelqu’un de percevoir sans percevoir aussi qu’il perçoit. Quand nous voyons, entendons, sentons par l’odorat ou le toucher, éprouvons, méditons ou voulons quelque chose, nous savons que nous le faisons […] : ce par quoi chacun est pour lui&#8209;même précisément ce qu’il appelle soi […].</p>
 ><p>Mais l’identité personnelle […] s’étend aussi loin que peut remonter la conscience dans ses pensées et ses actes passés […]. [P]uisque c’est la même conscience qui fait qu’un homme est lui-même à ses propres yeux, l’identité personnelle dépend de cette conscience seule, qu’elle soit rattachée à une seule substance individuelle, ou qu’elle se préserve à travers la succession de substances diverses. Car, dans la mesure où un être intelligent peut reproduire l’idée de n’importe quelle action passée avec la même conscience qu’il en avait à l’époque et y ajouter la même conscience qu’il a de n’importe quelle action présente, dans cette mesure il est le même soi personnel. […] [Et] s’il était possible que la même personne ait à différents moments des consciences distinctes et incommunicables, le même homme constituerait sans doute différentes personnes à différents moments. […]</p>
@@ -199,14 +204,14 @@ blockquote{text-indent:1.5em; font-size:23px;  background-color:white; margin:0p
 
 
 ---
-<!-- _class: pointmethode -->
+<!-- _class: pointmethode sanspuces fpppppppppp -->
 ### Point méthode
-On donne un titre à chaque partie.
-On vérifie l'organisation du propos : il doit y avoir une progression logique.
+1) On formule l'idée de chaque partie, avec une phrase complète (sujet / verbe / complément).
+2) On vérifie l'organisation du propos : il doit y avoir une progression logique.
 
 <!-- 
 Partie 1 : Être une personne, c'est avoir une conscience
-Partie 2 : L'identité de la personne repose sur la conscience de soi
+Partie 2 : L'identité de la personne dans le temps repose sur la conscience de soi
 Partie 3 : La notion d'identité est importante
 
  -->
@@ -231,12 +236,17 @@ Le but de la lecture fine est de mieux saisir :
 2) la logique du texte : il faut dégager des sous-parties.
 
 ---
+<!-- _class: pointmethode  -->
+### Point méthode
+On avance très progressivement dans le texte, et on se focalise à chaque fois sur un passage ciblé.
+
+
+---
 <!-- _class: pointmethode f -->
 <style scoped>
 ol {padding-top:0.5em}
 </style>
 ### Point méthode
-On se focalise sur un passage du texte.
 On se pose des questions en mobilisant les 4 démarches  :
 1) Analyser : « Qu'est-ce que cela veut dire ? » 
 2) Argumenter : « Qu'est-ce qui permet de dire cela ? »
@@ -246,7 +256,7 @@ On se pose des questions en mobilisant les 4 démarches  :
 
 ---
 <!-- _class: souspartie -->
-## A. Partie 1
+## A. Être une personne, <br>c'est avoir une<br> conscience <!-- fit -->
 
 ---
 <!-- _class: citationC fp-->
@@ -256,7 +266,11 @@ On se pose des questions en mobilisant les 4 démarches  :
 >>John **Locke**, _Essai sur l'entendement humain_, II, 27
 
 <!-- 
-1. personne => conscience
+1. 
+personne ≠ chose, objet
+= sujet
+
+personne => conscience
 cas : foetus, animal, robot
 sens descriptif / sens normatif
 distinction, hiérarchie : pensée (représentations mentales), intelligence (raisonnement), réflexion (représentations et raisonnements à propos de ses représentations et raisonnements), conscience de soi
@@ -276,7 +290,7 @@ Réponse de Locke : conscience de soi ≠ conscience d'un objet qui serait soi
 
 ---
 <!-- _class: souspartie -->
-## B. Partie 1
+## B. L'identité de la personne dans le temps repose sur la conscience de soi
 
 ---
 <!-- _class: citationC fmmm-->
@@ -310,7 +324,7 @@ Question de la vérité, place du témoignage d'autrui ; récit de soi (identit�
 
 ---
 <!-- _class: souspartie -->
-## C. Partie 3
+## C. La notion d'identité est importante
 
 ---
 <!-- _class: citationC fpppp-->
