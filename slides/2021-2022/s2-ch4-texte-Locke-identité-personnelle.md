@@ -265,20 +265,33 @@ On se pose des questions en mobilisant les 4 démarches  :
 >« [Une personne est] un être pensant et intelligent, doué de raison et de réflexion, et qui peut se considérer soi-même comme soi-même […] ; ce qu’il fait uniquement par la conscience qui est inséparable de la pensée, et lui est essentielle à ce qu’il me semble : car il est impossible à quelqu’un de percevoir sans percevoir aussi qu’il perçoit. Quand nous voyons, entendons, sentons par l’odorat ou le toucher, éprouvons, méditons ou voulons quelque chose, nous savons que nous le faisons […] : ce par quoi chacun est pour lui&#8209;même précisément ce qu’il appelle soi […]. »
 >>John **Locke**, _Essai sur l'entendement humain_, II, 27
 
+
+---
+<!-- _class: f -->
+
+1) “Une personne est un être pensant et intelligent, doué de raison et de réflexion, et qui peut se considérer soi-même comme soi-même”
+2) “ce qu’il fait uniquement par la conscience qui est inséparable de la pensée, et lui est essentielle à ce qu’il me semble : car il est impossible à quelqu’un de percevoir sans percevoir aussi qu’il perçoit. Quand nous voyons, entendons, sentons par l’odorat ou le toucher, éprouvons, méditons ou voulons quelque chose, nous savons que nous le faisons […] : ce par quoi chacun est pour lui&#8209;même précisément ce qu’il appelle soi […].”
+
 <!-- 
 1. 
 personne ≠ chose, objet
 = sujet
-
-personne => conscience
-cas : foetus, animal, robot
 sens descriptif / sens normatif
-distinction, hiérarchie : pensée (représentations mentales), intelligence (raisonnement), réflexion (représentations et raisonnements à propos de ses représentations et raisonnements), conscience de soi
+
 
 ≠ personne : être humain, sens biologique
 
-2. conscience : idée de soi central
+distinction, hiérarchie : pensée (représentations mentales), intelligence (raisonnement), réflexion (représentations et raisonnements à propos de ses représentations et raisonnements), conscience de soi
+
+personne => conscience
+cas : foetus, animal, robot
+
+conscience : idée de soi central
 Cf. Damasio : proto-soi / soi central / soi autobiographique
+
+2. 
+esprit => conscience
+conscience => connaissance 
 
 MAIS :
 conscience de soi : connaissance de soi / saisie de soi comme chose
@@ -286,6 +299,15 @@ Descartes
 Hume
 Réponse de Locke : conscience de soi ≠ conscience d'un objet qui serait soi
  -->
+
+
+
+<!-- ![bg left:22%](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Painting_of_David_Hume.jpg/520px-Painting_of_David_Hume.jpg)
+
+><span data-marpit-fragment="1">« Il y a certains philosophes qui imaginent que nous avons à tout moment la conscience intime de ce que nous appelons notre moi ; que nous sentons son existence et sa continuité d'existence ; et que nous sommes certains, plus que l'évidence d'une démonstration, de son identité et de sa simplicité parfaites. (…)</span>
+<span data-marpit-fragment="2">Pour ma part, quand je pénètre au plus intime de ce que j’appelle moi, je tombe toujours sur telle ou telle perception particulière, de chaud ou de froid, de lumière ou d’ombre, d’amour ou de haine, de douleur ou de plaisir. À aucun moment je ne puis me saisir moi sans saisir une perception, ni ne puis observer autre chose que la dite perception. […] [J’]ose affirmer du reste des hommes qu’ils ne sont rien d’autre qu’un faisceau ou une collection de différentes perceptions qui se succèdent les unes les autres avec une inconcevable rapidité et qui sont dans un perpétuel flux et mouvement. »</span>
+>>**Hume**, _Traité de la nature humaine_, I, IV, VI -->
+
 
 
 ---
@@ -298,6 +320,13 @@ Réponse de Locke : conscience de soi ≠ conscience d'un objet qui serait soi
 
 >« Mais l’identité personnelle […] s’étend aussi loin que peut remonter la conscience dans ses pensées et ses actes passés […]. [P]uisque c’est la même conscience qui fait qu’un homme est lui-même à ses propres yeux, l’identité personnelle dépend de cette conscience seule, qu’elle soit rattachée à une seule substance individuelle, ou qu’elle se préserve à travers la succession de substances diverses. Car, dans la mesure où un être intelligent peut reproduire l’idée de n’importe quelle action passée avec la même conscience qu’il en avait à l’époque et y ajouter la même conscience qu’il a de n’importe quelle action présente, dans cette mesure il est le même soi personnel. […] [Et] s’il était possible que la même personne ait à différents moments des consciences distinctes et incommunicables, le même homme constituerait sans doute différentes personnes à différents moments. […] »
 >>John **Locke**, _Essai sur l'entendement humain_, II, 27
+
+
+---
+<!-- _class: fmmmmm -->
+1) “Mais l’identité personnelle […] s’étend aussi loin que peut remonter la conscience dans ses pensées et ses actes passés […].”
+2) “P]uisque c’est la même conscience qui fait qu’un homme est lui-même à ses propres yeux, l’identité personnelle dépend de cette conscience seule, qu’elle soit rattachée à une seule substance individuelle, ou qu’elle se préserve à travers la succession de substances diverses. Car, dans la mesure où un être intelligent peut reproduire l’idée de n’importe quelle action passée avec la même conscience qu’il en avait à l’époque et y ajouter la même conscience qu’il a de n’importe quelle action présente, dans cette mesure il est le même soi personnel. ”
+3) “[Et] s’il était possible que la même personne ait à différents moments des consciences distinctes et incommunicables, le même homme constituerait sans doute différentes personnes à différents moments. […]”
 
 <!-- 
 1. 
@@ -332,6 +361,12 @@ Question de la vérité, place du témoignage d'autrui ; récit de soi (identit�
 
 >« Le soi est cette chose (peu importe la substance qui la constitue : spirituelle ou matérielle, simple ou composée) pensante, sensible (ou consciente) au plaisir et à la douleur, apte au bonheur ou au malheur et portant de ce fait intérêt à soi&#8209;même jusqu’aux limites de sa conscience. […] Sur cette identité personnelle reposent tout le droit et la justice de la récompense et du châtiment. »
 >>John **Locke**, _Essai sur l'entendement humain_, II, 27
+
+
+---
+<!-- _class: fpppppp -->
+1) “Le soi est cette chose (peu importe la substance qui la constitue : spirituelle ou matérielle, simple ou composée) pensante, sensible (ou consciente) au plaisir et à la douleur, apte au bonheur ou au malheur et portant de ce fait intérêt à soi&#8209;même jusqu’aux limites de sa conscience.“
+2) “Sur cette identité personnelle reposent tout le droit et la justice de la récompense et du châtiment.”
 
 <!-- 
 1. Intérêt pour soi
