@@ -209,10 +209,24 @@ blockquote{text-indent:1.5em; font-size:22px;  background-color:white; margin:0p
 1) On formule l'idée de chaque partie, avec une phrase complète (sujet / verbe / complément).
 2) On vérifie l'organisation du propos : il doit y avoir une progression logique.
 
+---
+<!-- _class: citationL pp-->
+<style scoped>
+blockquote{text-indent:1.5em; font-size:22px;  background-color:white; margin:0px 95px; padding:0}
+</style>
+><p>« [Une personne est] un être pensant et intelligent, doué de raison et de réflexion, et qui peut se considérer soi-même comme soi-même […] ; ce qu’il fait uniquement par la conscience qui est inséparable de la pensée, et lui est essentielle à ce qu’il me semble : car il est impossible à quelqu’un de percevoir sans percevoir aussi qu’il perçoit. Quand nous voyons, entendons, sentons par l’odorat ou le toucher, éprouvons, méditons ou voulons quelque chose, nous savons que nous le faisons […] : ce par quoi chacun est pour lui&#8209;même précisément ce qu’il appelle soi […].</p>
+><p>Mais l’identité personnelle […] s’étend aussi loin que peut remonter la conscience dans ses pensées et ses actes passés […]. [P]uisque c’est la même conscience qui fait qu’un homme est lui-même à ses propres yeux, l’identité personnelle dépend de cette conscience seule, qu’elle soit rattachée à une seule substance individuelle, ou qu’elle se préserve à travers la succession de substances diverses. Car, dans la mesure où un être intelligent peut reproduire l’idée de n’importe quelle action passée avec la même conscience qu’il en avait à l’époque et y ajouter la même conscience qu’il a de n’importe quelle action présente, dans cette mesure il est le même soi personnel. […] [Et] s’il était possible que la même personne ait à différents moments des consciences distinctes et incommunicables, le même homme constituerait sans doute différentes personnes à différents moments. […]</p>
+><p>Le soi est cette chose (peu importe la substance qui la constitue : spirituelle ou matérielle, simple ou composée) pensante, sensible (ou consciente) au plaisir et à la douleur, apte au bonheur ou au malheur et portant de ce fait intérêt à soi&#8209;même jusqu’aux limites de sa conscience. […] Sur cette identité personnelle reposent tout le droit et la justice de la récompense et du châtiment. »</p>
+
 <!-- 
 Partie 1 : Être une personne, c'est avoir une conscience
-Partie 2 : L'identité de la personne dans le temps repose sur la conscience de soi
+Partie 2 : L'identité de la personne dans le temps repose sur la conscience de son passé
 Partie 3 : La notion d'identité est importante
+
+Organisation du propos :
+P1 : Description de ce qu'est une personne, en général
+P2 : Description de ce qui fait l'identité d'une personne particulière
+P3 : Évaluation de l'importance de la notion d'identité personnelle
 
  -->
 
@@ -269,8 +283,10 @@ On se pose des questions en mobilisant les 4 démarches  :
 ---
 <!-- _class: f -->
 
-1) “Une personne est un être pensant et intelligent, doué de raison et de réflexion, et qui peut se considérer soi-même comme soi-même”
-2) “ce qu’il fait uniquement par la conscience qui est inséparable de la pensée, et lui est essentielle à ce qu’il me semble : car il est impossible à quelqu’un de percevoir sans percevoir aussi qu’il perçoit. Quand nous voyons, entendons, sentons par l’odorat ou le toucher, éprouvons, méditons ou voulons quelque chose, nous savons que nous le faisons […] : ce par quoi chacun est pour lui&#8209;même précisément ce qu’il appelle soi […].”
+1) “[Une personne] est”
+2) “un être pensant et intelligent, doué de raison et de réflexion, et qui peut se considérer soi-même comme soi-même”
+3) “ce qu’il fait uniquement par la conscience qui est inséparable de la pensée, et lui est essentielle à ce qu’il me semble : car il est impossible à quelqu’un de percevoir sans percevoir aussi qu’il perçoit.”
+4) “Quand nous voyons, entendons, sentons par l’odorat ou le toucher, éprouvons, méditons ou voulons quelque chose, nous savons que nous le faisons […] : ce par quoi chacun est pour lui&#8209;même précisément ce qu’il appelle soi […].”
 
 <!-- 
 1. 
@@ -309,10 +325,107 @@ Réponse de Locke : conscience de soi ≠ conscience d'un objet qui serait soi
 >>**Hume**, _Traité de la nature humaine_, I, IV, VI -->
 
 
+---
+<!-- _class: sanspuces -->
+<style scoped>
+ul, ol {margin-top:0}
+</style>
+### “[Une personne] est”
+
+- Qu'est-ce qu'une personne ?
+
+1) Une personne ≠ un objet, une chose, = un sujet.
+2) Sens moral : un être qui a une dignité, que l'on doit respecter (_cf_. Kant).
+3) Ce qui intéresse Locke ici, c'est de décrire ce qu'est une personne.
+
+
+---
+<!-- _class: sanspuces fmm -->
+<style scoped>
+h3 {font-size:1em; text-align:justify;}
+ul, ol {margin-top:0;}
+ol {padding-top:0}
+</style>
+### “un être pensant et intelligent, doué de raison et de réflexion, et qui peut se considérer soi-même comme soi-même”
+
+- Y a-t-il un ordre dans cette énumération de termes ?
+
+1) Hypothèse : <span data-marpit-fragment="1">la pensée et l'intelligence (représentations mentales et raisonnements)</span><span data-marpit-fragment="2"> ≠ la raison et la réflexion (des pensées à propos de ses propres pensées)</span><span data-marpit-fragment="3"> ≠ la conscience de soi (des représentations à propos de soi en tant que tel)</span>
+1) Une même idée : la conscience comme fondement de la notion de personne. Et plus précisément : la conscience de soi comme critère essentiel.
+2) Est-ce vrai ? Exemples intéressants à mobiliser : <span data-marpit-fragment="1">le fœtus</span><span data-marpit-fragment="2">, les animaux</span><span data-marpit-fragment="3">, les robots et l'intelligence artificielle.</span>
+
+---
+<!-- _class: sanspuces fpppppp -->
+<style scoped>
+ul, ol {margin-top:0;}
+ol {padding-top:0}
+</style>
+- Qu'est-ce que la conscience de soi ?
+
+1) Trois formes de conscience de soi (une distinction de Damasio) :
+2) 1/ la conscience de son corps (le proto&#8209;soi) ;
+3) 2/ la conscience d'être la source de ses pensées et de ses actes (le soi central) ;
+4) 3/ la conscience de sa vie passée, de son identité présente, de ses désirs pour le futur (le soi autobiographique).</span>
+
+<!-- 
+1/ conscience de son corps
+proprioception
+cas : membre-fantôme, O. Sacks : “la femme désincarnée”, “l'homme qui tombait de son lit”, “fantômes“.
+
+Animaux : test de Gallup
+cas : les athlètes (escalade)
+
+How the Body Shapes the Mind
+Shaun Gallagher
+
+Locke ne parle pas du tout de cet aspect-là de la conscience de soi
+
+2/ conscience d'être la source de ses pensées et de ses actes
+cf. cours sur le libre arbitre
+Cas : schizophrénie
+
+=> semble correspondre à ce que dit Locke dans le 1er pargraphe
+
+3/ soi autobiographique
+=> semble correspondre au 2e paragraphe
+
+-->
+
+---
+<!-- _class: sanspuces f -->
+<style scoped>
+h3 {font-size:0.9em; text-align:justify;}
+ul, ol {margin-top:0;}
+ol {padding-top:20px}
+</style>
+### “ce qu’il fait uniquement par la conscience qui est inséparable de la pensée, et lui est essentielle à ce qu’il me semble : car il est impossible à quelqu’un de percevoir sans percevoir aussi qu’il perçoit. Quand nous voyons, entendons, sentons par l’odorat ou le toucher, éprouvons, méditons ou voulons quelque chose, nous savons que nous le faisons”
+
+1) D'après Locke, toutes les représentations mentales sont nécessairement des représentations conscientes. 
+2) Est-ce vrai ? _Cf._ le travail sur l'inconscient psychique (inconscient freudien et inconscient cognitif) dans le cours sur le libre arbitre.
+
+
+---
+<!-- _class: sanspuces fppp -->
+<style scoped>
+h3 {font-size:1em; text-align:justify;}
+ul, ol {margin-top:0;}
+ol {padding-top:0.4em}
+</style>
+### “ […] : ce par quoi chacun est pour lui&#8209;même précisément ce qu’il appelle soi […].”
+
+1) La conscience de ses propres représentations mentales permet de prendre conscience de soi. À travers mes représentations mentales, je peux saisir ce que je suis.
+2) En quel sens ? Est-ce vrai ? Pour mieux comprendre ce que dit Locke, on peut comparer ici l'approche de Locke à celle de deux philosophes : Descartes et Hume.
+
+<!-- Toute représentation consciente de quelque chose est une forme de conscience de soi 
+Conscience d'objet => conscience du sujet conscient de cet objet de pensée.
+
+Représentation mentale de quelque chose => conscience de cette représentation => conscience de soi
+-->
+
 
 ---
 <!-- _class: souspartie -->
-## B. L'identité de la personne dans le temps repose sur la conscience de soi
+## B. L'identité d'une personne<br>dans le temps repose sur la<br> conscience de son passé <!-- fit -->
 
 ---
 <!-- _class: citationC fmmm-->
