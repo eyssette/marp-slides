@@ -379,18 +379,22 @@ Conscience d'objet => conscience du sujet conscient de cet objet de pensée.
 Représentation mentale de quelque chose => conscience de cette représentation => conscience de soi
 -->
 
-
 ---
-<!-- _class: citationC fmmm -->
+<!-- _class: citationC fmmmmmm -->
 <style scoped>
-blockquote{padding:10px 20px}
-blockquote blockquote{padding-top:0.4em!important;}
+blockquote{padding:2px 15px}
+blockquote blockquote{padding-top:0.3em!important;}
 </style>
 ![bg left:22%](https://upload.wikimedia.org/wikipedia/commons/7/73/Frans_Hals_-_Portret_van_Ren%C3%A9_Descartes.jpg)
 
-><span data-marpit-fragment="1">« Je suppose […] que toutes les choses que je vois sont fausses ; je me persuade que rien n'a jamais été de tout ce que ma mémoire remplie de mensonges me représente […]. Qu'est-ce donc qui pourra être estimé véritable ? […]</span>
+><span data-marpit-fragment="1">« J'avais dès longtemps remarqué […] [qu']il est besoin quelquefois de suivre des opinions qu'on sait être fort incertaines […],</span><span data-marpit-fragment="2"> mais, parce qu'alors je désirais vaquer seulement à la recherche de la vérité, je pensai qu'il fallait que je fisse tout le contraire, et que je rejetasse, comme absolument faux, tout ce en quoi je pourrais imaginer le moindre doute, afin de voir s'il ne resterait point, après cela, quelque chose […] qui fût entièrement indubitable. […]</span>
+><span data-marpit-fragment="3">Mais, aussitôt après, je pris garde que, pendant que je voulais ainsi penser que tout était faux, il fallait nécessairement que moi, qui le pensais, fusse quelque chose. Et remarquant que cette vérité : _je pense, donc je suis_, était si ferme et si assurée [ ] je jugeai que je pouvais la recevoir, sans scrupule, pour le premier principe de la philosophie que je cherchais.</span>
+><span data-marpit-fragment="4">[…] [J]e connus de là que j'étais une substance dont toute l'essence ou la nature n'est que de penser, et qui, pour être n'a besoin d'aucun lieu, ni ne dépend d'aucune chose matérielle. En sorte que ce moi, c'est-à-dire l'âme par laquelle je suis ce que je suis, est entièrement distincte du corps, et même qu'elle est plus aisée à connaître que lui […]. »</span>
+>>**Descartes**, _Discours de la méthode_, IV
+
+<!-- ><span data-marpit-fragment="1">« Je suppose […] que toutes les choses que je vois sont fausses ; je me persuade que rien n'a jamais été de tout ce que ma mémoire remplie de mensonges me représente […]. Qu'est-ce donc qui pourra être estimé véritable ? […]</span>
 ><span data-marpit-fragment="2">Moi donc à tout le moins ne suis-je pas quelque chose ? […] Mais je me suis persuadé qu'il n'y avait rien du tout dans le monde, qu'il n'y avait aucun ciel, aucune terre, aucuns esprits ni aucuns corps ; ne me suis-je donc pas aussi persuadé que je n'étais point ?</span> <span data-marpit-fragment="3">Non certes ; j'étais sans doute, si je me suis persuadé, ou seulement si j'ai pensé quelque chose. […] De sorte qu'après y avoir bien pensé, et avoir soigneusement examiné toutes choses, enfin il faut conclure, et tenir pour constant que cette proposition : _Je suis, j'existe_, est nécessairement vraie, toutes les fois que je la prononce, ou que je la conçois en mon esprit. »</span>
->>**Descartes**, _Méditations métaphysiques_, II
+>>**Descartes**, _Méditations métaphysiques_, II -->
 
 ---
 <!-- _class: citationC fmmmm -->
