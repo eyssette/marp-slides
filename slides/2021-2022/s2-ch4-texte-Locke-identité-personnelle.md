@@ -280,49 +280,6 @@ On se pose des questions en mobilisant les 4 démarches  :
 >>John **Locke**, _Essai sur l'entendement humain_, II, 27
 
 
----
-<!-- _class: f -->
-
-1) “[Une personne] est”
-2) “un être pensant et intelligent, doué de raison et de réflexion, et qui peut se considérer soi-même comme soi-même”
-3) “ce qu’il fait uniquement par la conscience qui est inséparable de la pensée, et lui est essentielle à ce qu’il me semble : car il est impossible à quelqu’un de percevoir sans percevoir aussi qu’il perçoit.”
-4) “Quand nous voyons, entendons, sentons par l’odorat ou le toucher, éprouvons, méditons ou voulons quelque chose, nous savons que nous le faisons […] : ce par quoi chacun est pour lui&#8209;même précisément ce qu’il appelle soi […].”
-
-<!-- 
-1. 
-personne ≠ chose, objet
-= sujet
-sens descriptif / sens normatif
-
-
-≠ personne : être humain, sens biologique
-
-distinction, hiérarchie : pensée (représentations mentales), intelligence (raisonnement), réflexion (représentations et raisonnements à propos de ses représentations et raisonnements), conscience de soi
-
-personne => conscience
-cas : foetus, animal, robot
-
-conscience : idée de soi central
-Cf. Damasio : proto-soi / soi central / soi autobiographique
-
-2. 
-esprit => conscience
-conscience => connaissance 
-
-MAIS :
-conscience de soi : connaissance de soi / saisie de soi comme chose
-Descartes
-Hume
-Réponse de Locke : conscience de soi ≠ conscience d'un objet qui serait soi
- -->
-
-
-
-<!-- ![bg left:22%](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Painting_of_David_Hume.jpg/520px-Painting_of_David_Hume.jpg)
-
-><span data-marpit-fragment="1">« Il y a certains philosophes qui imaginent que nous avons à tout moment la conscience intime de ce que nous appelons notre moi ; que nous sentons son existence et sa continuité d'existence ; et que nous sommes certains, plus que l'évidence d'une démonstration, de son identité et de sa simplicité parfaites. (…)</span>
-<span data-marpit-fragment="2">Pour ma part, quand je pénètre au plus intime de ce que j’appelle moi, je tombe toujours sur telle ou telle perception particulière, de chaud ou de froid, de lumière ou d’ombre, d’amour ou de haine, de douleur ou de plaisir. À aucun moment je ne puis me saisir moi sans saisir une perception, ni ne puis observer autre chose que la dite perception. […] [J’]ose affirmer du reste des hommes qu’ils ne sont rien d’autre qu’un faisceau ou une collection de différentes perceptions qui se succèdent les unes les autres avec une inconcevable rapidité et qui sont dans un perpétuel flux et mouvement. »</span>
->>**Hume**, _Traité de la nature humaine_, I, IV, VI -->
 
 
 ---
@@ -332,7 +289,7 @@ ul, ol {margin-top:0}
 </style>
 ### “[Une personne] est”
 
-- Qu'est-ce qu'une personne ?
+* Qu'est-ce qu'une personne ?
 
 1) Une personne ≠ un objet, une chose, = un sujet.
 2) Sens moral : un être qui a une dignité, que l'on doit respecter (_cf_. Kant).
@@ -348,7 +305,7 @@ ol {padding-top:0}
 </style>
 ### “un être pensant et intelligent, doué de raison et de réflexion, et qui peut se considérer soi-même comme soi-même”
 
-- Y a-t-il un ordre dans cette énumération de termes ?
+* Y a-t-il un ordre dans cette énumération de termes ?
 
 1) Hypothèse : <span data-marpit-fragment="1">la pensée et l'intelligence (représentations mentales et raisonnements)</span><span data-marpit-fragment="2"> ≠ la raison et la réflexion (des pensées à propos de ses propres pensées)</span><span data-marpit-fragment="3"> ≠ la conscience de soi (des représentations à propos de soi en tant que tel)</span>
 1) Une même idée : la conscience comme fondement de la notion de personne. Et plus précisément : la conscience de soi comme critère essentiel.
@@ -424,6 +381,33 @@ Représentation mentale de quelque chose => conscience de cette représentation 
 
 
 ---
+<!-- _class: citationC fmmm -->
+<style scoped>
+blockquote{padding:10px 20px}
+blockquote blockquote{padding-top:0.4em!important;}
+</style>
+![bg left:22%](https://upload.wikimedia.org/wikipedia/commons/7/73/Frans_Hals_-_Portret_van_Ren%C3%A9_Descartes.jpg)
+
+><span data-marpit-fragment="1">« Je suppose […] que toutes les choses que je vois sont fausses ; je me persuade que rien n'a jamais été de tout ce que ma mémoire remplie de mensonges me représente […]. Qu'est-ce donc qui pourra être estimé véritable ? […]</span>
+><span data-marpit-fragment="2">Moi donc à tout le moins ne suis-je pas quelque chose ? […] Mais je me suis persuadé qu'il n'y avait rien du tout dans le monde, qu'il n'y avait aucun ciel, aucune terre, aucuns esprits ni aucuns corps ; ne me suis-je donc pas aussi persuadé que je n'étais point ?</span> <span data-marpit-fragment="3">Non certes ; j'étais sans doute, si je me suis persuadé, ou seulement si j'ai pensé quelque chose. […] De sorte qu'après y avoir bien pensé, et avoir soigneusement examiné toutes choses, enfin il faut conclure, et tenir pour constant que cette proposition : _Je suis, j'existe_, est nécessairement vraie, toutes les fois que je la prononce, ou que je la conçois en mon esprit. »</span>
+>>**Descartes**, _Méditations métaphysiques_, II
+
+---
+<!-- _class: citationC fmmmm -->
+![bg left:22%](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Painting_of_David_Hume.jpg/520px-Painting_of_David_Hume.jpg)
+
+><span data-marpit-fragment="1">« Il y a certains philosophes qui imaginent que nous avons à tout moment la conscience intime de ce que nous appelons notre moi ; que nous sentons son existence et sa continuité d'existence ; et que nous sommes certains, plus que l'évidence d'une démonstration, de son identité et de sa simplicité parfaites. (…)</span>
+><span data-marpit-fragment="2">Pour ma part, quand je pénètre au plus intime de ce que j’appelle moi, je tombe toujours sur telle ou telle perception particulière, de chaud ou de froid, de lumière ou d’ombre, d’amour ou de haine, de douleur ou de plaisir. À aucun moment je ne puis me saisir moi sans saisir une perception, ni ne puis observer autre chose que la dite perception.</span><span data-marpit-fragment="3"> […] [J’]ose affirmer du reste des hommes qu’ils ne sont rien d’autre qu’un faisceau ou une collection de différentes perceptions qui se succèdent les unes les autres avec une inconcevable rapidité et qui sont dans un perpétuel flux et mouvement. »</span>
+>>**Hume**, _Traité de la nature humaine_, I, IV, VI
+
+
+---
+<!-- _class: sanspuces -->
+1) Pour Locke, le moi n'est pas une chose à laquelle la conscience permet d'accéder.
+2) Le moi est l'activité même de la conscience, qui rassemble en une personne un ensemble de vécus présents et passés.
+
+
+---
 <!-- _class: souspartie -->
 ## B. L'identité d'une personne<br>dans le temps repose sur la<br> conscience de son passé <!-- fit -->
 
@@ -436,6 +420,36 @@ Représentation mentale de quelque chose => conscience de cette représentation 
 
 
 ---
+<!-- _class: sanspuces fmm -->
+<style scoped>
+h3 {font-size:1em; text-align:justify;}
+ul, ol {margin-top:0;}
+ol {padding-top:0}
+</style>
+### “Mais l’identité personnelle […] s’étend aussi loin que peut remonter la conscience dans ses pensées et ses actes passés […].”
+1) L'identité repose sur la capacité de se souvenir de son passé : le critère de l'identité est psychologique et non pas physique et Locke défend plus précisément une conception mémorielle de l'identité. 
+2) Exemples intéressants à mobiliser : <span data-marpit-fragment="1">(i) les changements physiques,</span><span data-marpit-fragment="2"> (ii) les changements dans la manière d'être, le caractère, les croyances ou les valeurs (_cf_. le cas de Stanley “Tookie” Williams),</span><span data-marpit-fragment="3"> (iii) l'amnésie ou la maladie d'Alzheimer (_cf_. le film _Still Alice_),</span><span data-marpit-fragment="4"> (iv) le film _Memento_.</span>
+
+---
+<!-- _class: sanspuces -->
+1) Un problème : l'objection du brave officier, de Thomas Reid.
+2) Cas similaire : la photo de soi à 2 ans (aucun souvenir de cette période).
+3) Une solution : la continuité psychique (l'existence d'une chaîne de relations) plutôt que l'existence d'une connexion mémorielle directe.
+
+---
+<!-- _class: sanspuces fmm -->
+<style scoped>
+h3 {font-size:0.9em; text-align:justify;}
+ul, ol {margin-top:0;}
+ol {padding-top:20px}
+</style>
+### “[P]uisque c’est la même conscience qui fait qu’un homme est lui-même à ses propres yeux, l’identité personnelle dépend de cette conscience seule, qu’elle soit rattachée à une seule substance individuelle, ou qu’elle se préserve à travers la succession de substances diverses. Car, dans la mesure où un être intelligent peut reproduire l’idée de n’importe quelle action passée avec la même conscience qu’il en avait à l’époque et y ajouter la même conscience qu’il a de n’importe quelle action présente, dans cette mesure il est le même soi personnel.”
+
+1) La substance : 
+2) L'identité personnelle ne repose pas sur l'identité de la substance
+3) Exemples intéressants à mobiliser : les cas de transfert d'une conscience dans un autre corps 
+
+---
 <!-- _class: fmmmmm -->
 1) “Mais l’identité personnelle […] s’étend aussi loin que peut remonter la conscience dans ses pensées et ses actes passés […].”
 2) “P]uisque c’est la même conscience qui fait qu’un homme est lui-même à ses propres yeux, l’identité personnelle dépend de cette conscience seule, qu’elle soit rattachée à une seule substance individuelle, ou qu’elle se préserve à travers la succession de substances diverses. Car, dans la mesure où un être intelligent peut reproduire l’idée de n’importe quelle action passée avec la même conscience qu’il en avait à l’époque et y ajouter la même conscience qu’il a de n’importe quelle action présente, dans cette mesure il est le même soi personnel. ”
@@ -443,14 +457,7 @@ Représentation mentale de quelque chose => conscience de cette représentation 
 
 <!-- 
 1. 
-Conscience de soi : activité de synthèse
-cas : amnésie, Alzheimer + changements dans le corps, changements dans les manières d'être, les croyances …
 Identité ≠ substance
-
-Mais : transitivité (objection de Reid)
-Cas : photo de soi à 2 ans, sans souvenir
-=> continuité psychique
-
 2. cas de transfert, de changement de substance : deux substances différentes, même substance
 Cas : Prince-Savetier, transplantation de cerveau, Napoléon
 
