@@ -437,38 +437,61 @@ ol {padding-top:0}
 3) Une solution : la continuité psychique (l'existence d'une chaîne de relations) plutôt que l'existence d'une connexion mémorielle directe.
 
 ---
-<!-- _class: sanspuces fmm -->
+<!-- _class: sanspuces fmmmm -->
 <style scoped>
-h3 {font-size:0.9em; text-align:justify;}
+h3 {font-size:0.8em; text-align:justify;}
 ul, ol {margin-top:0;}
-ol {padding-top:20px}
 </style>
 ### “[P]uisque c’est la même conscience qui fait qu’un homme est lui-même à ses propres yeux, l’identité personnelle dépend de cette conscience seule, qu’elle soit rattachée à une seule substance individuelle, ou qu’elle se préserve à travers la succession de substances diverses. Car, dans la mesure où un être intelligent peut reproduire l’idée de n’importe quelle action passée avec la même conscience qu’il en avait à l’époque et y ajouter la même conscience qu’il a de n’importe quelle action présente, dans cette mesure il est le même soi personnel.”
 
-1) La substance : 
-2) L'identité personnelle ne repose pas sur l'identité de la substance
-3) Exemples intéressants à mobiliser : les cas de transfert d'une conscience dans un autre corps 
-
----
-<!-- _class: fmmmmm -->
-1) “Mais l’identité personnelle […] s’étend aussi loin que peut remonter la conscience dans ses pensées et ses actes passés […].”
-2) “P]uisque c’est la même conscience qui fait qu’un homme est lui-même à ses propres yeux, l’identité personnelle dépend de cette conscience seule, qu’elle soit rattachée à une seule substance individuelle, ou qu’elle se préserve à travers la succession de substances diverses. Car, dans la mesure où un être intelligent peut reproduire l’idée de n’importe quelle action passée avec la même conscience qu’il en avait à l’époque et y ajouter la même conscience qu’il a de n’importe quelle action présente, dans cette mesure il est le même soi personnel. ”
-3) “[Et] s’il était possible que la même personne ait à différents moments des consciences distinctes et incommunicables, le même homme constituerait sans doute différentes personnes à différents moments. […]”
+1) L'identité personnelle ne repose pas sur l'identité d'une substance matérielle ou psychique (le corps, l'âme) qui resterait la même à travers les changements.
+2) Il peut y avoir une même personne qui existe malgré le changement de substance.
+3) Exemples intéressants à mobiliser : (i) le transfert d'une conscience dans un autre corps (le prince et le savetier, la transplantation de cerveau, …), (ii) la possibilité d'une vie antérieure.
 
 <!-- 
-1. 
-Identité ≠ substance
-2. cas de transfert, de changement de substance : deux substances différentes, même substance
-Cas : Prince-Savetier, transplantation de cerveau, Napoléon
+Il peut y avoir une même personne qui existe dans deux substances différentes.
+Si, entre A et B, la substance n'est pas la même (si ce n'est pas le même corps, ou pas la même âme), A et B sont la même personne s'il y a continuité psychique entre A et B.
+A et B sont la même personne s'il y a continuité psychique entre A et B, même si la substance de A diffère de la substance de B.
+S'il y a continuité psychique entre A et B, alors c'est la même personne, même si A et B correspondent à des substances différentes.
+La même personne peut exister dans des substances différentes
+Il peut s'agir de la même personne même s'il y a des substances différentes
 
-3. Deux personnes pour une même substance
-Deux personnes dans un même corps
+Vie antérieure : croire qu'on est Napoléon …
+ -->
 
+---
+<!-- _class: sanspuces fmm -->
+<style scoped>
+h3 {font-size:1em; text-align:justify;}
+ul, ol {margin-top:0;}
+ol {padding-top:0}
+</style>
+### “[Et] s’il était possible que la même personne ait à différents moments des consciences distinctes et incommunicables, le même homme constituerait sans doute différentes personnes à différents moments. […]”
+
+1) On vient de voir le cas où A et B sont la même personne, alors qu'il y a deux substances différentes.
+2) Mais il peut aussi y avoir deux personnes différentes qui existent dans la même substance, s'il n'y a pas de continuité psychique entre ces deux personnes.
+3) Exemples intéressants à mobiliser : les fictions avec des personnes multiples dans un même corps (Locke : l'homme du jour et l'homme de la nuit, Stevenson : _L'Étrange Cas du docteur Jekyll et de M. Hyde_, …), des cas réels à discuter (les troubles dissociatifs de l'identité, les cerveaux divisés …)
+
+
+
+
+---
+<!-- _class:  -->
+
+### Deux objections importantes
+
+1) Le problème du double (exemple : le film _Swan Song_)
+2) Le problème des faux souvenirs et des illusions sur soi : suis-je vraiment la personne que je crois être ?
+
+
+<!-- 
 MAIS :
 cas du double
 Question de la vérité, place du témoignage d'autrui ; récit de soi (identité narrative), image de soi : illusions sur soi
 
+Exemples dans la science-fiction : faux souvenirs
 
+Faut-il rejeter jusqu'à la notion même d'identité ?
  -->
 
 ---
@@ -482,17 +505,43 @@ Question de la vérité, place du témoignage d'autrui ; récit de soi (identit�
 >« Le soi est cette chose (peu importe la substance qui la constitue : spirituelle ou matérielle, simple ou composée) pensante, sensible (ou consciente) au plaisir et à la douleur, apte au bonheur ou au malheur et portant de ce fait intérêt à soi&#8209;même jusqu’aux limites de sa conscience. […] Sur cette identité personnelle reposent tout le droit et la justice de la récompense et du châtiment. »
 >>John **Locke**, _Essai sur l'entendement humain_, II, 27
 
+---
+<!-- _class: sanspuces fmmmmmm -->
+<style scoped>
+h3 {font-size:0.8em; text-align:justify;}
+ol {margin-top:-10px; margin-left:20px}
+ol li{margin-top:5px;}
+</style>
+### “Le soi est cette chose (peu importe la substance qui la constitue : spirituelle ou matérielle, simple ou composée) pensante, sensible (ou consciente) au plaisir et à la douleur, apte au bonheur ou au malheur et portant de ce fait intérêt à soi&#8209;même jusqu’aux limites de sa conscience.”
+
+1) Locke souligne l'importance pour soi de l'identité personnelle, du point de vue de l'individu lui-même.
+2) 1/ Nous cherchons à nous maintenir et à maintenir notre identité dans le temps.
+3) 2/ D'un point de vue rationnel, il semble important de prendre des décisions en envisageant aussi les conséquences pour notre soi futur. <span data-marpit-fragment="1">C'est le principe de la prudence qui conduit à ne pas prendre en compte seulement l'intérêt immédiat, mais aussi l'intérêt sur le long terme.</span>
+4) 3/ D'un point de vue moral, il semble important de considérer que chaque personne a une identité, son propre vécu et ses propres fins.
+5) Une discussion possible : l'identité personnelle, est-ce vraiment si important ? Une référence à mobiliser : Derek Parfit.
+
+ ---
+ <!-- _class: citationC fmmmm -->
+<style scoped>
+figure{margin-right:-60px!important}
+blockquote blockquote {padding-top:0.5em!important}
+</style>
+![bg left:22%](https://upload.wikimedia.org/wikipedia/commons/d/d7/Derek_Parfit_at_Harvard-April_21%2C_2015-Effective_Altruism_%28cropped%29.jpg)
+
+
+><span data-marpit-fragment="1">« Quand je croyais en mon existence comme à un fait à part, il me semblait que j’étais emprisonné en moi-même. […] Quand ma vision a changé, les murs […] ont disparu. […] Il y a toujours une différence entre ma vie et celle des autres. Mais la différence est moindre. Les autres sont plus proches. Je suis moins soucieux du reste de ma propre vie, et plus soucieux de la vie des autres.</span>
+><span data-marpit-fragment="2">En outre, […] [i]l y aura plus tard des souvenirs qui concernent ma vie. Et il pourrait y avoir plus tard des pensées qui seront influencées par les miennes, ou des choses réalisées suite à mes conseils. Ma mort rompra les relations les plus directes entre mes expériences présentes et ces futures expériences, mais elle ne brisera pas les diverses autres relations. C’est là tout ce en quoi consiste le fait qu’il n’y aura plus d’être vivant qui soit moi. Maintenant que j’ai vu cela, ma mort me semble moins grave. »</span>
+>>Derek **Parfit**, _Reasons and Persons_
 
 ---
-<!-- _class: fpppppp -->
-1) “Le soi est cette chose (peu importe la substance qui la constitue : spirituelle ou matérielle, simple ou composée) pensante, sensible (ou consciente) au plaisir et à la douleur, apte au bonheur ou au malheur et portant de ce fait intérêt à soi&#8209;même jusqu’aux limites de sa conscience.“
-2) “Sur cette identité personnelle reposent tout le droit et la justice de la récompense et du châtiment.”
+<!-- _class: sanspuces f -->
+<style scoped>
+h3 {font-size:1em; text-align:justify;}
+ul, ol {margin-top:0;}
+ol {padding-top:0.3em}
+</style>
+### “Sur cette identité personnelle reposent tout le droit et la justice de la récompense et du châtiment.”
 
-<!-- 
-1. Intérêt pour soi
-
-≠ Parfit
-
-2. Intérêt social, juridique
-
- -->
+1) Locke souligne l'importance pour les autres de l'identité personnelle, d'un point de vue institutionnel et social.
+2) Le droit et la justice reposent sur la possibilité d'identifier un individu responsable d'un fait.
+3) S'il n'y a plus de continuité psychique entre l'auteur passé d'un fait et la personne actuelle, la peine est-elle légitime ? <span data-marpit-fragment="1">Exemples intéressants à mobiliser :</span> <span data-marpit-fragment="2">le cas de Stanley “Tookie” Williams</span>,<span data-marpit-fragment="3"> la question de la prescription.</span>
