@@ -11,20 +11,28 @@ size: 4:3
 Cédric Eyssette (2021-2022)
 https://eyssette.github.io/
 
+<!-- L'État n'est-il qu'un instrument de domination ? -->
 
 ---
 <!-- _class:  -->
 
+![bg](https://static.lexpress.fr/medias_11984/w_2048,h_1146,c_crop,x_0,y_14/w_1000,h_563,c_fill,g_north/v1592905667/affrontements-entre-policiers-et-gilets-jaunes-le-8-decembre-2018-pres-de-l-arc-de-triomphe_6136006.jpg)
 
+<!-- La police a-t-elle le droit de réprimer une manifestation ?
+Faut-il limiter les pouvoirs de la police ?
+Les forces de l'ordre sont-elles au service du peuple ?
+ -->
 
 ---
 <!-- _class: partie -->
-# I – Les approches réalistes du pouvoir
+# I – L'État <br>comme instrument<br> de domination <!-- fit -->
 Première partie
+
+<!-- Le pouvoir de l'État est fondé sur sa force, et non pas sur le droit -->
 
 ---
 <!-- _class: souspartie -->
-## A. Max Weber
+## A. Une approche historique<br> de la construction du pouvoir<br> de l'État : Max Weber <!-- fit -->
 
 
 ---
@@ -78,6 +86,9 @@ unification linguistique, culturelle
 <!-- _class: partie -->
 # II – Le <br>contractualisme <!-- fit -->
 Deuxième partie
+
+<!-- Ce qui fonde le pouvoir c'est un consentement à être gouverné
+Le pouvoir est fondé sur un droit de gouverner que nous lui accordons / concédons -->
 
 ---
 <!-- _class: souspartie -->
