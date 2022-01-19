@@ -15,8 +15,15 @@ https://eyssette.github.io/
 
 ---
 <!-- _class:  -->
+<style scoped>
+ol {color:white; font-size:0.67em; position:absolute; bottom:30px; border-radius:10px; background-color: rgba(22, 22, 22, .8);}
+</style>
 
 ![bg](https://static.lexpress.fr/medias_11984/w_2048,h_1146,c_crop,x_0,y_14/w_1000,h_563,c_fill,g_north/v1592905667/affrontements-entre-policiers-et-gilets-jaunes-le-8-decembre-2018-pres-de-l-arc-de-triomphe_6136006.jpg)
+
+1) La police a-t-elle le droit de réprimer une manifestation ?
+2) Faut-il limiter les pouvoirs de la police ?
+3) Les forces de l'ordre sont-elles au service du peuple ?
 
 <!-- La police a-t-elle le droit de réprimer une manifestation ?
 Faut-il limiter les pouvoirs de la police ?
@@ -43,6 +50,16 @@ Première partie
 >>Max **Weber**, _Le Savant et le Politique_, 1919, trad. Freund, « 10/18 », 1963, p. 132-134
 
 <!-- ->
+
+
+L'Etat moderne est le résultat d'un processus historique d'accumulation et de centralisation de pouvoirs auparavant dispersés.
+L'Etat monopolise peu à peu l'exercice de plusieurs pouvoirs (ex. : pouvoir fiscal, pouvoir militaire, pouvoir judiciaire, pouvoir légal...)
+Il s'impose progressivement comme dominant et affirme la souveraineté de son pouvoir, à travers :
+- l'extension et la protection de son territoire
+- une organisation centralisée qui repose sur la création d'institutions et d'administrations
+- la lutte contre les autres formes de pouvoirs, notamment le pouvoir religieux
+- l'unification linguistique et culturelle de la population
+Exemple : le passage de la féodalité (seigneurs) à la monarchie.
 
 Accumulation de pouvoir, unification du territoire, centralisation des pouvoirs, institutionnalisation du pouvoir.
 -> organisation de l’administration du pouvoir qui a le monopole de la violence légitime pour se faire respecter.
