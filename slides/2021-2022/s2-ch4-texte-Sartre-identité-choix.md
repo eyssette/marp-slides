@@ -149,3 +149,11 @@ figure{margin-left:-40px!important}
 
 >« Mais la subjectivité que nous atteignons là […] n'est pas une subjectivité rigoureusement individuelle […]. Pour obtenir une vérité quelconque sur moi, il faut que je passe par l'autre. L'autre est indispensable à mon existence, aussi bien d'ailleurs qu'à la connaissance que j'ai de moi. […] Ainsi découvrons-nous tout de suite un monde que nous appellerons l'intersubjectivité, et c'est dans ce monde que l'homme décide ce qu'il est et ce que sont les autres. »
 >>Jean-Paul **Sartre**, _L'existentialisme est un humanisme_
+
+<!-- 
+Soi personnel et soi collectif : les sources d’un malentendu
+https://journals.openedition.org/teth/523
+
+Identité constituante, identité constituée
+https://journals.openedition.org/teth/615
+ -->
