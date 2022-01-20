@@ -82,6 +82,22 @@ unification linguistique, culturelle
 >« [L]'État n'est au fond que le reflet, sous une forme condensée, des besoins économiques de la classe qui domine la production » 
 >>Friedrich **Engels**, _Ludwig Feuerbach et la fin de la philosophie classique allemande_ 
 
+<!-- Le marxisme repose sur l'idée d'un déterminisme économique selon lequel les phénomènes humains s'expliquent essentiellement par la structure économique, qui elle-même est principalement constituée par la distinction entre une classe dominante (qui possède des moyens économiques) et une classe dominée (qui ne possède que sa force de travail et qui est contrainte de vendre cette force de travail pour survivre économiquement). Dans l'histoire, il y a une lutte des classes entre la classe dominée (qui s'oppose à la domination qu'elle subit) et la classe dominante (qui cherche à maintenir la domination qu'elle exerce). L'État est alors conçu comme un prolongement de la lutte des classes : la classe dominante institue un pouvoir politique pour maintenir et renforcer sa domination économique.
+
+Le matérialisme de Marx : focalisation sur les conditions matérielles d’existence, les moyens matériels par lesquels les êtres humains existent, agissent, pensent.
+-->
+
+<!-- 
+(ii) La notion d’idéologie
+
+L'État est, dans les faits, au service d'une classe sociale particulière (la classe dominante), mais il se présente, idéologiquement, comme étant au service de tous. L'idéologie désigne ici un ensemble d'idées, de représentations qui visent à rendre légitime une pratique ou une situation en masquant la réalité des rapports de domination (cf. l'idéologie coloniale, l'idéologie méritocratique, l'idéologie d'une distinction naturelle entre hommes et  femmes).
+Le cas le plus intéressant ici est celui de l'idéologie démocratique : la démocratie se présente en effet comme étant le système politique le plus à même de servir les intérêts de tous. Au fondement des démocraties modernes, on trouve avant tout le principe de l'élection libre d'individus qui sont alors conçus comme les représentants du peuple.
+
+Le vote est-il réellement libre ?
+Les “représentants du peuple” représentent-ils vraiment le peuple ?
+
+ -->
+
 ---
 <!-- _class: citationC fppp -->
 

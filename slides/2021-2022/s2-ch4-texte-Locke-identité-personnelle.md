@@ -332,10 +332,12 @@ cas : membre-fantôme, O. Sacks : “la femme désincarnée”, “l'homme qui t
 Animaux : test de Gallup
 cas : les athlètes (escalade)
 
+Locke ne parle pas du tout de cet aspect-là de la conscience de soi
+Locke laisse de côté la dimension corporelle de la conscience de soi.
+
 How the Body Shapes the Mind
 Shaun Gallagher
-
-Locke ne parle pas du tout de cet aspect-là de la conscience de soi
+"a primary, embodied sense of self"
 
 2/ conscience d'être la source de ses pensées et de ses actes
 cf. cours sur le libre arbitre
@@ -404,6 +406,17 @@ blockquote blockquote{padding-top:0.3em!important;}
 ><span data-marpit-fragment="2">Pour ma part, quand je pénètre au plus intime de ce que j’appelle moi, je tombe toujours sur telle ou telle perception particulière, de chaud ou de froid, de lumière ou d’ombre, d’amour ou de haine, de douleur ou de plaisir. À aucun moment je ne puis me saisir moi sans saisir une perception, ni ne puis observer autre chose que la dite perception.</span><span data-marpit-fragment="3"> […] [J’]ose affirmer du reste des hommes qu’ils ne sont rien d’autre qu’un faisceau ou une collection de différentes perceptions qui se succèdent les unes les autres avec une inconcevable rapidité et qui sont dans un perpétuel flux et mouvement. »</span>
 >>**Hume**, _Traité de la nature humaine_, I, IV, VI
 
+
+<!-- 
+
+Comparaison avec le bouddhisme : 
+https://josephsoleary.typepad.com/my_weblog/2012/12/hume-et-le-bouddhisme.html
+https://encyclo-philo.fr/bouddhisme-a#doctrnonsoi
+https://plato.stanford.edu/entries/buddha/#NonSel
+
+https://www.youtube.com/watch?v=XeZDt43Pij8
+
+ -->
 
 ---
 <!-- _class: sanspuces -->
@@ -536,6 +549,13 @@ blockquote blockquote {padding-top:0.5em!important}
 ><span data-marpit-fragment="1">« Quand je croyais en mon existence comme à un fait à part, il me semblait que j’étais emprisonné en moi-même. […] Quand ma vision a changé, les murs […] ont disparu. […] Il y a toujours une différence entre ma vie et celle des autres. Mais la différence est moindre. Les autres sont plus proches. Je suis moins soucieux du reste de ma propre vie, et plus soucieux de la vie des autres.</span>
 ><span data-marpit-fragment="2">En outre, […] [i]l y aura plus tard des souvenirs qui concernent ma vie. Et il pourrait y avoir plus tard des pensées qui seront influencées par les miennes, ou des choses réalisées suite à mes conseils. Ma mort rompra les relations les plus directes entre mes expériences présentes et ces futures expériences, mais elle ne brisera pas les diverses autres relations. C’est là tout ce en quoi consiste le fait qu’il n’y aura plus d’être vivant qui soit moi. Maintenant que j’ai vu cela, ma mort me semble moins grave. »</span>
 >>Derek **Parfit**, _Reasons and Persons_
+
+<!-- 
+Christophe Salvat, “Parfit, l’égoïsme rationnel et la question de l’identité personnelle”, Œconomia, 5-4 | 2015, 437-460.
+https://journals.openedition.org/oeconomia/2175
+
+
+ -->
 
 ---
 <!-- _class: sanspuces f -->
