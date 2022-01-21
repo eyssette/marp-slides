@@ -424,6 +424,13 @@ https://www.youtube.com/watch?v=XeZDt43Pij8
 2) Le moi est l'activité même de la conscience, qui rassemble en une personne un ensemble de vécus présents et passés.
 
 
+<!-- 
+Chauvier, Stéphane. « La question philosophique de l’identité personnelle », Catherine Halpern éd., Identité(s). L'individu, le groupe, la société. Éditions Sciences Humaines, 2016, pp. 15-27.
+https://www.cairn.info/identites--9782361063283-page-15.htm
+Ceci suggère qu’on ne doit pas dire qu’une personne a une certaine conscience de soi, puisque la disparition de celle-ci ou le changement radical de son contenu entraîne la disparition de la personne. Il faut plutôt dire qu’une personne est une certaine conscience de soi, de sorte que si cette conscience de soi se trouvait radicalement changée, la personne le serait aussi.
+ -->
+
+
 ---
 <!-- _class: souspartie -->
 ## B. L'identité d'une personne<br>dans le temps repose sur la<br> conscience de son passé <!-- fit -->
@@ -446,6 +453,10 @@ ol {padding-top:0}
 ### “Mais l’identité personnelle […] s’étend aussi loin que peut remonter la conscience dans ses pensées et ses actes passés […].”
 1) L'identité repose sur la capacité de se souvenir de son passé : le critère de l'identité est psychologique et non pas physique et Locke défend plus précisément une conception mémorielle de l'identité. 
 2) Exemples intéressants à mobiliser : <span data-marpit-fragment="1">(i) les changements physiques,</span><span data-marpit-fragment="2"> (ii) les changements dans la manière d'être, le caractère, les croyances ou les valeurs (_cf_. le cas de Stanley “Tookie” Williams),</span><span data-marpit-fragment="3"> (iii) l'amnésie ou la maladie d'Alzheimer (_cf_. le film _Still Alice_),</span><span data-marpit-fragment="4"> (iv) le film _Memento_.</span>
+
+<!-- 
+ film d’Aki Kaurismäki, L’Homme sans passé (2001)
+ -->
 
 ---
 <!-- _class: sanspuces -->
@@ -504,11 +515,32 @@ ol {padding-top:0}
 <!-- 
 MAIS :
 cas du double
+
+
+
 Question de la vérité, place du témoignage d'autrui ; récit de soi (identité narrative), image de soi : illusions sur soi
 
 Exemples dans la science-fiction : faux souvenirs
 
 Faut-il rejeter jusqu'à la notion même d'identité ?
+
+Science-fiction / Westworld, Blade Runner, Dark City …
+Shutter Island 
+
+Conscience de soi : partielle et partiale.
+
+Ne pouvons-nous pas apprendre des autres des vérités sur nous-mêmes ?
+
+La mémoire est sélective. Nous retenons ce qui nous arrange (?)
+
+Exemple : construction d'une image de soi sur les réseaux sociaux (Instagram)
+
+La conscience de soi : une simple image de soi ? Un simple récit sur soi ?
+La notion d'identité est en partie narrative : elle repose sur un récit que l'on fait à propos de soi, et ce récit n'est pas une garantie de vérité.
+
+L'identité réelle déborde la conscience que nous en avons. On ne peut pas assimiler l'identité à la conscience.
+Ce que nous sommes véritablement échappe en partie à notre conscience.
+
  -->
 
 ---
@@ -537,7 +569,9 @@ ol li{margin-top:5px;}
 4) 3/ D'un point de vue moral, il semble important de considérer que chaque personne a une identité, son propre vécu et ses propres fins.
 5) Une discussion possible : l'identité personnelle, est-ce vraiment si important ? Une référence à mobiliser : Derek Parfit.
 
- ---
+
+
+---
  <!-- _class: citationC fmmmm -->
 <style scoped>
 figure{margin-right:-60px!important}
@@ -554,6 +588,9 @@ blockquote blockquote {padding-top:0.5em!important}
 Christophe Salvat, “Parfit, l’égoïsme rationnel et la question de l’identité personnelle”, Œconomia, 5-4 | 2015, 437-460.
 https://journals.openedition.org/oeconomia/2175
 
+L’identité et ses dilemmes
+De l’identité personnelle à la reconnaissance sociale
+https://journals.openedition.org/teth/591
 
  -->
 
