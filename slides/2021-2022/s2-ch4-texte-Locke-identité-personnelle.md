@@ -85,7 +85,7 @@ I – Lecture globale
 
 ---
 <!-- _class: souspartie -->
-## A. Repérer les notions importantes
+## A. Repérer les notions importantes et le thème du texte
 
 
 ---
@@ -568,7 +568,6 @@ ol li{margin-top:5px;}
 3) 2/ D'un point de vue rationnel, il semble important de prendre des décisions en envisageant aussi les conséquences pour notre soi futur. <span data-marpit-fragment="1">C'est le principe de la prudence qui conduit à ne pas prendre en compte seulement l'intérêt immédiat, mais aussi l'intérêt sur le long terme.</span>
 4) 3/ D'un point de vue moral, il semble important de considérer que chaque personne a une identité, son propre vécu et ses propres fins.
 5) Une discussion possible : l'identité personnelle, est-ce vraiment si important ? Une référence à mobiliser : Derek Parfit.
-
 
 
 ---
