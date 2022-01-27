@@ -243,12 +243,17 @@ ol {padding-top:20px}
 
 <!--
 - Définition de l'existence et de l'essence
+essence : nature d'un être, propriétés fondamentales qui définissent un être
+≠ accident : propriétés non fondamentales, qui peuvent ne pas être
+ex - istence : être jeté dans le monde 
 - Comparaison avec les objets techniques :
 la conception précède la confection / la production
 - Différence avec l'essentialisme
 Schopenhauer : caractère qui définit l'être humain
 conception fixiste, figée de l'identité (“On ne change pas …”)
 fatalité de l'identité
+Essentialisation : / sexisme, racisme
+(stéréotypes sexistes, racistes)
 - Il se définit après : 
 ≠ il est défini après
 (≠ construction sociale
@@ -445,5 +450,5 @@ ol {padding-top:20px}
 * C'est dans “l'intersubjectivité” que l'être humain “décide ce qu'il est et ce que sont les autres” : qu'est-ce que cela veut dire ?
 
 <!-- 
-
+Importance regard des autres
  -->
