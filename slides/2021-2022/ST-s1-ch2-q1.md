@@ -70,10 +70,60 @@ unification linguistique, culturelle
 
  -->
 
+
+---
+<!-- _class: i1t0 -->
+[![](https://i.ibb.co/QHC32G0/maxresdefault.jpg)](https://ladigitale.dev/digiplay/#/v/61f26485e2940)
+
+
 ---
 <!-- _class: souspartie -->
 ## B. Le marxisme
 
+
+---
+<!-- _class: etape -->
+### 1/ Les fondements du marxisme
+
+<!-- Première idée : le déterminisme économique
+-  Les phénomènes humains s'expliquent essentiellement par des facteurs économiques.
+- Une forme de matérialisme : pour comprendre les humains, il faut se focaliser sur les conditions matérielles d'existence, les moyens matériels par lesquels les êtres humains existent, agissent, pensent
+
+Deuxième idée : les classes sociales
+- Le facteur le plus important réside dans la structuration de la société en classes sociales
+- Il y a une classe dominante qui possède des moyens économiques, et une classe dominée, qui ne possède que sa force de travail
+
+Troisième idée : la lutte des classes
+- La classe dominante lutte pour conserver et prolonger sa position de domination.
+- La classe dominée a intérêt à s'opposer à la domination qu'elle subit
+ -->
+
+---
+<!-- _class: etape -->
+### 2/ Qu'est-ce que l'État d'après le marxisme ?
+
+<!-- Première idée : l'Etat comme prolongement de la lutte des classes
+- Le pouvoir politique de l'Etat sert à maintenir et renforcer la domination économique de la classe sociale dominante
+
+Deuxième idée : la notion d'idéologie
+- L'État est, dans les faits, au service d'une classe sociale particulière (la classe dominante), mais il se présente, idéologiquement, comme étant au service de tous.
+- L'idéologie désigne ici un ensemble d'idées, de représentations qui visent à rendre légitime une pratique ou une situation en masquant la réalité des rapports de domination
+
+Troisième idée : la critique des apparences démocratiques
+- La démocratie se présente comme au service du peuple, mais l'est-elle vraiment ? (structuration de la classe politique, politiques mises en oeuvre [ruissellement…]) 
+- Le vote est-il le reflet des pensées des individus ?
+ -->
+
+---
+<!-- _class: etape -->
+### 3/ Que faut-il faire d'après le marxisme ?
+
+<!-- Première idée : La lutte pour une société sans domination
+Le but idéal d'un point de vue marxiste serait de parvenir à une société sans domination et par conséquent sans classes sociales. Mais, un tel changement ne peut arriver sans une lutte. La classe dominante fait et fera tout son possible pour empêcher cette révolution.
+
+Deuxième idée : Dictature du prolétariat
+La classe dominée doit donc s'emparer du pouvoir de l'État pour lutter contre la classe dominante (c'est ce qu'on appelle la phase de “dictature du prolétariat”) et mettre en place progressivement la société communiste dans laquelle l'État ne sera plus nécessaire, puisqu'il n'est qu'un instrument par lequel une classe sociale exerce sa domination.
+ -->
 
 ---
 <!-- _class: citationC  -->
