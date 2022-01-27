@@ -241,6 +241,23 @@ ol {padding-top:20px}
 
 * “L'existence précède l'essence” : qu'est-ce que cela veut dire ?
 
+<!--
+- Définition de l'existence et de l'essence
+- Comparaison avec les objets techniques :
+la conception précède la confection / la production
+- Différence avec l'essentialisme
+Schopenhauer : caractère qui définit l'être humain
+conception fixiste, figée de l'identité (“On ne change pas …”)
+fatalité de l'identité
+- Il se définit après : 
+≠ il est défini après
+(≠ construction sociale
+≠ déterminisme social)
+- Comparaison avec Beauvoir : “on ne naît pas femme, on le devient”
+
+cf. Eribon, Retour à Reims
+ -->
+
 ---
 <!-- _class: sanspuces fppp -->
 <style scoped>
@@ -278,6 +295,12 @@ ol {padding-top:0.4em}
 ### “L'existentialiste déclare volontiers que l'homme est angoisse. Cela signifie ceci : l'homme qui s'engage et qui se rend compte qu'il est […] celui qu'il choisit d'être […] ne saurait échapper au sentiment de sa totale et profonde responsabilité.”
 * De quelle forme d'angoisse parle Sartre ?
 
+<!--
+Angoisse ≠ peur, crainte, inquiétude face à quelque chose de précis, ou à certaines possibilités déterminées dans l'avenir
+Angoisse / vide
+/ sa propre liberté : la liberté est angoissante
+ -->
+
 ---
 <!-- _class: sanspuces fpppppp -->
 <style scoped>
@@ -287,6 +310,22 @@ ol {padding-top:0.4em}
 </style>
 ### “Certes, beaucoup de gens ne sont pas anxieux ; mais nous prétendons qu'ils se masquent leur angoisse, qu'ils la fuient […]. [O]n n'échappe à cette pensée inquiétante que par une sorte de mauvaise foi.”
 * Qu'est-ce que la mauvaise foi ?
+
+<!--
+Sens ordinaire : "Indécence caractérisée par une volonté d'affirmer un propos que l'on sait foncièrement faux ou injustifié"
+
+"Couramment, on dit de mauvaise foi celui qui, par amour-propre ou par intérêt, s'obstine contre toute évidence à soutenir qu'il a raison, alors qu'il sait pertinemment qu'il a tort. Sourd à l'argumentation rationnelle, il échafaude de fausses bonnes raisons, s'enfermant dans un système de défense absurde."
+http://pierre.campion2.free.fr/mornej_sartre.htm
+
+Exemple du garçon de café
+refuser sa liberté, tentative d'échapper à la responsabilité de soi
+face à angoisse du néant, se donner un certain être
+chosification de soi-même réconfortante
+(pour soi / en soi)
+
+Chercher à se masquer à soi-même sa liberté
+
+-->
 
 ---
 <!-- _class: souspartie -->
@@ -314,6 +353,12 @@ ol {padding-top:20px}
 ### “La doctrine que je vous présente […] déclare : il n'y a de réalité que dans l'action ; elle va plus loin d'ailleurs, puisqu'elle ajoute : l'homme n'est rien d'autre que son projet, il n'existe que dans la mesure où il se réalise, il n'est donc rien d'autre que l'ensemble de ses actes, rien d'autre que sa vie.”
 * L'être humain n'est “rien d'autre que l'ensemble de ses actes” : qu'est-ce que cela veut dire ?
 
+<!-- actes ≠ paroles, croyances, velléités, rêves
+Ce qui me définit, ce n'est pas ce que j'aimerais être, ce que je crois être
+rapport au monde / ce que je fais dans le monde
+Illusion possible : je crois être ceci / mais que suis-je réellement ?
+-->
+
 ---
 <!-- _class: sanspuces fpppp -->
 <style scoped>
@@ -324,6 +369,11 @@ ol {padding-top:20px}
 ### “[I]l n'y a pas d'amour autre que celui qui se construit […] ; il n'y a pas de génie autre que celui qui s'exprime dans des œuvres d'art : le génie de Proust c'est la totalité des œuvres de Proust.”
 * Quel est le sens de ces deux exemples : l'exemple de l'amour et l'exemple de l'artiste ?
 
+<!-- 
+// “il n'y a pas d'amour, il n'y a que des preuves d'amour ”. L'amour ≠ un simple sentiment intérieur. La réalité de l'amour = des actes d'amour
+Exemple de l'artiste : Notre vie // une œuvre d'art.
+ -->
+
 ---
 <!-- _class: sanspuces fpppp -->
 <style scoped>
@@ -333,6 +383,13 @@ ol {padding-top:20px}
 </style>
 ### “Un homme s'engage dans sa vie, dessine sa figure, et en dehors de cette figure il n'y a rien. […] Ce que nous voulons dire, c'est qu'un homme n'est rien d'autre qu'une série d'entreprises, qu'il est la somme, l'organisation, l'ensemble des relations qui constituent ces entreprises.”
 * Un être humain “n'est rien d'autre qu'une série d'entreprises” : qu'est-ce que cela veut dire ?
+
+<!-- 
+L'être humain se définit “sur la route”
+Critique de l'intériorité : l'identité n'est pas à chercher en soi
+Exemple : La vie rêvée de Walter Mitty (voir bande annonce)
+Retour / angoisse : c'est en agissant qu'on va définir ce qu'on est, on ne peut pas d'abord chercher à savoir qui on est, puis agir
+ -->
 
 ---
 <!-- _class: souspartie -->
@@ -367,6 +424,16 @@ ol {padding-top:20px}
 
 * “L'autre est indispensable à mon existence” : qu'est-ce que cela veut dire ?
 
+<!-- 
+Honneth / théories de la reconnaissance / affirmation de son existence
+- enfant : famille / reconnaissance affective / 
+- adulte : 
+	- citoyen, sujet de droit / reconnaissance politique / 
+	- individu / reconnaissance sociale / 
+
+/ connaissance de soi : par les autres
+ -->
+
  ---
 <!-- _class: sanspuces  -->
 <style scoped>
@@ -376,3 +443,7 @@ ol {padding-top:20px}
 </style>
 ### “Ainsi découvrons-nous tout de suite un monde que nous appellerons l'intersubjectivité, et c'est dans ce monde que l'homme décide ce qu'il est et ce que sont les autres.”
 * C'est dans “l'intersubjectivité” que l'être humain “décide ce qu'il est et ce que sont les autres” : qu'est-ce que cela veut dire ?
+
+<!-- 
+
+ -->
