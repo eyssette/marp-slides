@@ -82,48 +82,62 @@ unification linguistique, culturelle
 
 
 ---
-<!-- _class: etape -->
+<!-- _class: etape fpp sanspuces-->
+<style>
+section.sanspuces ul {list-style-type:none; margin-left:-0.5em; background:none; margin-top:0}
+section.sanspuces ul li:before{content:""}
+</style>
 ### 1/ Les fondements du marxisme
 
-<!-- Première idée : le déterminisme économique
--  Les phénomènes humains s'expliquent essentiellement par des facteurs économiques.
-- Une forme de matérialisme : pour comprendre les humains, il faut se focaliser sur les conditions matérielles d'existence, les moyens matériels par lesquels les êtres humains existent, agissent, pensent
+#### <span data-marpit-fragment="1">Première idée : le déterminisme économique</span>
+* Les phénomènes humains s'expliquent essentiellement par des facteurs économiques.
+* C'est une forme de matérialisme : pour comprendre les humains, il faut se focaliser sur les conditions matérielles d'existence, les moyens matériels par lesquels les êtres humains existent, agissent, pensent
 
-Deuxième idée : les classes sociales
-- Le facteur le plus important réside dans la structuration de la société en classes sociales
-- Il y a une classe dominante qui possède des moyens économiques, et une classe dominée, qui ne possède que sa force de travail
-
-Troisième idée : la lutte des classes
-- La classe dominante lutte pour conserver et prolonger sa position de domination.
-- La classe dominée a intérêt à s'opposer à la domination qu'elle subit
- -->
 
 ---
-<!-- _class: etape -->
-### 2/ Qu'est-ce que l'État d'après le marxisme ?
+<!-- _class: sanspuces fppppppppp -->
+#### Deuxième idée : les classes sociales
 
-<!-- Première idée : l'Etat comme prolongement de la lutte des classes
-- Le pouvoir politique de l'Etat sert à maintenir et renforcer la domination économique de la classe sociale dominante
-
-Deuxième idée : la notion d'idéologie
-- L'État est, dans les faits, au service d'une classe sociale particulière (la classe dominante), mais il se présente, idéologiquement, comme étant au service de tous.
-- L'idéologie désigne ici un ensemble d'idées, de représentations qui visent à rendre légitime une pratique ou une situation en masquant la réalité des rapports de domination
-
-Troisième idée : la critique des apparences démocratiques
-- La démocratie se présente comme au service du peuple, mais l'est-elle vraiment ? (structuration de la classe politique, politiques mises en oeuvre [ruissellement…]) 
-- Le vote est-il le reflet des pensées des individus ?
- -->
+* Le facteur le plus important réside dans la structuration de la société en classes sociales
+* Il y a une classe dominante qui possède des moyens économiques, et une classe dominée, qui ne possède que sa force de travail
 
 ---
-<!-- _class: etape -->
-### 3/ Que faut-il faire d'après le marxisme ?
+<!-- _class: sanspuces  -->
+#### Troisième idée : la lutte des classes
+* La classe dominante lutte pour conserver et prolonger sa position de domination.
+* La classe dominée a intérêt à s'opposer à la domination qu'elle subit
 
-<!-- Première idée : La lutte pour une société sans domination
-Le but idéal d'un point de vue marxiste serait de parvenir à une société sans domination et par conséquent sans classes sociales. Mais, un tel changement ne peut arriver sans une lutte. La classe dominante fait et fera tout son possible pour empêcher cette révolution.
+---
+<!-- _class: etape fpppppppp sanspuces-->
+<style scoped>
+h4 {text-align:justify!important}
+</style>
+### 2/ Qu'est-ce que l'État <br>d'après le marxisme ?
 
-Deuxième idée : Dictature du prolétariat
-La classe dominée doit donc s'emparer du pouvoir de l'État pour lutter contre la classe dominante (c'est ce qu'on appelle la phase de “dictature du prolétariat”) et mettre en place progressivement la société communiste dans laquelle l'État ne sera plus nécessaire, puisqu'il n'est qu'un instrument par lequel une classe sociale exerce sa domination.
- -->
+#### <span data-marpit-fragment="1">Première idée : l'Etat comme prolongement de la lutte des classes</span>
+* Le pouvoir politique de l'Etat sert à maintenir et renforcer la domination économique de la classe sociale dominante
+
+---
+<!-- _class: sanspuces fpppp -->
+#### Deuxième idée : la notion d'idéologie
+* L'État est, dans les faits, au service d'une classe sociale particulière (la classe dominante), mais il se présente, idéologiquement, comme étant au service de tous.
+* L'idéologie désigne ici un ensemble d'idées, de représentations qui visent à rendre légitime une pratique ou une situation en masquant la réalité des rapports de domination
+
+---
+<!-- _class: sanspuces  -->
+#### Troisième idée : la critique des apparences démocratiques
+* La démocratie se présente comme au service du peuple, mais l'est-elle vraiment ? (cf. [infographie](https://pbs.twimg.com/media/FJ9c9LbXwAsvVOa?format=jpg&name=4096x4096), [document](https://www.inegalites.fr/L-Assemblee-nationale-ne-compte-quasiment-plus-de-representants-des-milieux))
+* Le vote est-il le reflet des pensées des individus ?
+
+---
+<!-- _class: citationC fppppppppp -->
+<style scoped>
+figure {margin-left:-190px!important}
+</style>
+![bg left:32%](https://cdn.radiofrance.fr/s3/cruiser-production/2018/05/4415895f-0f6b-4798-b66d-4803118521c9/838_043_mc_lc14_berlin_mc0342.jpg)
+
+>« [L]es pensées de la classe dominante sont aussi, à toutes les époques, les pensées dominantes […] [car] la classe qui dispose des moyens de la production matérielle dispose, du même coup, des moyens de la production intellectuelle. »
+>>**Marx** et **Engels**, _L'Idéologie allemande_
 
 ---
 <!-- _class: citationC  -->
@@ -131,6 +145,29 @@ La classe dominée doit donc s'emparer du pouvoir de l'État pour lutter contre 
 ![bg left:40%](http://m-editeur.info/wp-content/uploads/2017/09/engels.jpg)
 >« [L]'État n'est au fond que le reflet […] des besoins économiques de la classe qui domine la production » 
 >>Friedrich **Engels**, _Ludwig Feuerbach et la fin de la philosophie classique allemande_ 
+
+---
+<!-- _class: etape fppp sanspuces-->
+<style scoped>
+h4 {text-align:justify!important}
+</style>
+### 3/ Que faut-il faire d'après le marxisme ?
+
+#### <span data-marpit-fragment="1">Première idée : la lutte pour une société sans domination</span>
+* Le but idéal d'un point de vue marxiste serait de parvenir à une société sans domination et par conséquent sans classes sociales. Mais, un tel changement ne peut arriver sans une lutte. La classe dominante fait et fera tout son possible pour empêcher cette révolution.
+
+
+---
+<!-- _class: sanspuces fppp  -->
+#### Deuxième idée : la dictature du prolétariat
+* La classe dominée doit donc d'après le marxisme s'emparer du pouvoir de l'État pour lutter contre la classe dominante (c'est ce qu'on appelle la phase de “dictature du prolétariat”) et mettre en place progressivement une société sans domination.
+
+---
+#### Problèmes
+* Si les dominés s'emparent du pouvoir, ne vont-ils pas tout simplement …… <span data-marpit-fragment="1">devenir de nouveaux dominants ?</span>
+* Les dominés n'ont-ils pas malgré tout intérêt à ce qu'existe un État capable de les protéger ?
+
+<!-- - Ne peut-y pas y avoir des garanties pour que l'État ne soit pas un instrument de domination mais un moyen au service du peuple ? -->
 
 <!-- Le marxisme repose sur l'idée d'un déterminisme économique selon lequel les phénomènes humains s'expliquent essentiellement par la structure économique, qui elle-même est principalement constituée par la distinction entre une classe dominante (qui possède des moyens économiques) et une classe dominée (qui ne possède que sa force de travail et qui est contrainte de vendre cette force de travail pour survivre économiquement). Dans l'histoire, il y a une lutte des classes entre la classe dominée (qui s'oppose à la domination qu'elle subit) et la classe dominante (qui cherche à maintenir la domination qu'elle exerce). L'État est alors conçu comme un prolongement de la lutte des classes : la classe dominante institue un pouvoir politique pour maintenir et renforcer sa domination économique.
 
@@ -176,19 +213,7 @@ L’abus de pouvoir est-il inévitable ?
 Serions-nous plus libres sans l’État ?
  -->
 
----
-<!-- _class: i1t0 pp -->
-[![](https://pbs.twimg.com/media/FJ9c9LbXwAsvVOa?format=jpg&name=4096x4096)](https://www.inegalites.fr/L-Assemblee-nationale-ne-compte-quasiment-plus-de-representants-des-milieux)
 
----
-<!-- _class: citationC fpppppppppp -->
-<style scoped>
-figure {margin-left:-170px!important}
-</style>
-![bg left:35%](https://cdn.radiofrance.fr/s3/cruiser-production/2018/05/4415895f-0f6b-4798-b66d-4803118521c9/838_043_mc_lc14_berlin_mc0342.jpg)
-
->« [L]es pensées de la classe dominante sont aussi, à toutes les époques, les pensées dominantes […] [car] la classe qui dispose des moyens de la production matérielle dispose, du même coup, des moyens de la production intellectuelle. »
->**Marx** et **Engels**, _L'Idéologie allemande_
 
 
 

@@ -261,7 +261,24 @@ Essentialisation : / sexisme, racisme
 - Comparaison avec Beauvoir : “on ne naît pas femme, on le devient”
 
 cf. Eribon, Retour à Reims
- -->
+
+- Définition du terme “essence”
+L'essence : vient du latin _esse_ (= verbe être)
+= l'être d'une chose, ce qu'est cette chose, ce qui la définit
+= les propriétés fondamentales qui permettent de définir une chose
+≠ les propriétés secondaires, non-essentielles, "accidentelles"
+Exemple : L'essence d'un triangle est d'être une figure géométrique avec trois côtés.
+Autrement dit : avoir trois côté fait partie de l'essence d'un triangle.
+Être de couleur rouge ne fait pas partie de l'essence d'un triangle
+
+- Sartre s'intéresse ici non pas à l'essence d'un être humain en général (propriétés fondamentales qui permettent de caractériser l'espèce humaine (ou le genre humain)), mais à l'essence d'un être humain en particulier (propr. fondamen. qui permettent de définir qui je suis, c'est-à-dire mon identité personnelle)
+La question est donc la suivante : Y a-t-il des propriétés fondamentales qui permettent de définir qui je suis ?
+
+- Si certains aspects de nous-mêmes semblent secondaires, non-essentielles (avoir de la barbe aujourd'hui…), on pourrait penser qu'il y a des traits stables de notre caractère qui nous définissent et caractérisent notre personnalité.
+
+- Mais pour Sartre …
+
+-->
 
 ---
 <!-- _class: sanspuces fppp -->
