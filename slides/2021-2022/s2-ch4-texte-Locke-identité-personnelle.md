@@ -428,6 +428,11 @@ https://www.youtube.com/watch?v=XeZDt43Pij8
 Chauvier, Stéphane. « La question philosophique de l’identité personnelle », Catherine Halpern éd., Identité(s). L'individu, le groupe, la société. Éditions Sciences Humaines, 2016, pp. 15-27.
 https://www.cairn.info/identites--9782361063283-page-15.htm
 Ceci suggère qu’on ne doit pas dire qu’une personne a une certaine conscience de soi, puisque la disparition de celle-ci ou le changement radical de son contenu entraîne la disparition de la personne. Il faut plutôt dire qu’une personne est une certaine conscience de soi, de sorte que si cette conscience de soi se trouvait radicalement changée, la personne le serait aussi.
+
+Contre Descartes : 
+Contre Hume :
+Le moi existe, il n'est pas une fiction
+Il n'y a pas seulement une multiplicité de perceptions : ces perceptions sont unifiées au sein d'une conscience
  -->
 
 
@@ -451,7 +456,7 @@ ul, ol {margin-top:0;}
 ol {padding-top:0}
 </style>
 ### “Mais l’identité personnelle […] s’étend aussi loin que peut remonter la conscience dans ses pensées et ses actes passés […].”
-1) L'identité repose sur la capacité de se souvenir de son passé : le critère de l'identité est psychologique et non pas physique et Locke défend plus précisément une conception mémorielle de l'identité. 
+1) Le critère de l'identité est psychologique et non pas physique et Locke défend plus précisément une conception mémorielle de l'identité : l'identité repose sur la capacité de se souvenir de son passé.
 2) Exemples intéressants à mobiliser : <span data-marpit-fragment="1">(i) les changements physiques,</span><span data-marpit-fragment="2"> (ii) les changements dans la manière d'être, le caractère, les croyances ou les valeurs (_cf_. le cas de Stanley “Tookie” Williams),</span><span data-marpit-fragment="3"> (iii) l'amnésie ou la maladie d'Alzheimer (_cf_. le film _Still Alice_),</span><span data-marpit-fragment="4"> (iv) le film _Memento_.</span>
 
 <!-- 
@@ -474,7 +479,7 @@ ul, ol {margin-top:0;}
 
 1) L'identité personnelle ne repose pas sur l'identité d'une substance matérielle ou psychique (le corps, l'âme) qui resterait la même à travers les changements.
 2) Il peut y avoir une même personne qui existe malgré le changement de substance.
-3) Exemples intéressants à mobiliser : (i) le transfert d'une conscience dans un autre corps (le prince et le savetier, la transplantation de cerveau, …), (ii) la possibilité d'une vie antérieure.
+3) Exemples intéressants à mobiliser : <span data-marpit-fragment="1">(i) le transfert d'une conscience dans un autre corps </span><span data-marpit-fragment="2">(le prince et le savetier</span><span data-marpit-fragment="3">, la transplantation de cerveau, …)</span><span data-marpit-fragment="4">, (ii) la possibilité d'une vie antérieure.</span>
 
 <!-- 
 Il peut y avoir une même personne qui existe dans deux substances différentes.
@@ -498,7 +503,7 @@ ol {padding-top:0}
 
 1) On vient de voir le cas où A et B sont la même personne, alors qu'il y a deux substances différentes.
 2) Mais il peut aussi y avoir deux personnes différentes qui existent dans la même substance, s'il n'y a pas de continuité psychique entre ces deux personnes.
-3) Exemples intéressants à mobiliser : les fictions avec des personnes multiples dans un même corps (Locke : l'homme du jour et l'homme de la nuit, Stevenson : _L'Étrange Cas du docteur Jekyll et de M. Hyde_, …), des cas réels à discuter (les troubles dissociatifs de l'identité, les cerveaux divisés …)
+3) Exemples intéressants à mobiliser : <span data-marpit-fragment="1">les fictions avec des personnes multiples dans un même corps</span> <span data-marpit-fragment="2">(Locke : l'homme du jour et l'homme de la nuit</span><span data-marpit-fragment="3">, Stevenson : _L'Étrange Cas du docteur Jekyll et de M. Hyde_, …)</span><span data-marpit-fragment="4">, des cas réels à discuter </span><span data-marpit-fragment="5">(les troubles dissociatifs de l'identité</span><span data-marpit-fragment="6">, les cerveaux divisés …)</span>
 
 
 
@@ -541,6 +546,14 @@ La notion d'identité est en partie narrative : elle repose sur un récit que l'
 L'identité réelle déborde la conscience que nous en avons. On ne peut pas assimiler l'identité à la conscience.
 Ce que nous sommes véritablement échappe en partie à notre conscience.
 
+---
+La mémoire est sélective.
+- elle est partielle (je ne retiens pas tout)
+- elle est partiale (je ne retiens que ce qui m'arrange)
+La mémoire semble participer à la construction d'une image de soi
+≠ représentation fidèle de la réalité
+Exemple : construction d'une image de soi sur les réseaux sociaux (Instagram)
+Plus précisément, la notion d'identité est en partie narrative : elle repose sur un récit que l'on fait à propos de soi, et ce récit n'est pas une garantie de vérité.
  -->
 
 ---
