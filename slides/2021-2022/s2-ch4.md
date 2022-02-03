@@ -23,20 +23,19 @@ ol {
     flex-direction:column;
     flex-wrap: wrap;
     padding:0px;
-    height:770px!important;
+    height:660px!important;
     max-width:470px;
 	margin-left:0px;
-    padding-top:10px;
-    justify-content: space-evenly;
 }
 ol li {
     margin:0;
 	padding:0;
 	padding-top:6px;
-    padding-right:20px;
+    padding-right:10px;
 	margin-left:52px;
     text-align:justify;
 }
+
 span {font-size:0.90em}
 </style>
 1) Un ovule fécondé, un embryon, un fœtus, un nourrisson sont-ils des personnes ?
