@@ -222,8 +222,18 @@ Serions-nous plus libres sans l’État ?
 # II – Le <br>contractualisme <!-- fit -->
 Deuxième partie
 
-<!-- Ce qui fonde le pouvoir c'est un consentement à être gouverné
-Le pouvoir est fondé sur un droit de gouverner que nous lui accordons / concédons -->
+<!--
+Le pouvoir de l'État n'est pas un pouvoir de fait (dont on peut constater l'existence).
+C'est un pouvoir de droit, fondé sur un consentement des invididus à être gouvernés.
+Le pouvoir est ainsi justifié par une sorte de contrat qui accorde à l'État le droit de gouverner..
+
+Ce qui fonde le pouvoir c'est un consentement à être gouverné
+Le pouvoir est fondé sur un droit de gouverner que nous lui accordons / concédons
+
+≠ modèle des monarchives de droit divin : théocratique
+Le pouvoir n'est plus fondé sur Dieu, mais sur le peuple
+
+ -->
 
 ---
 <!-- _class: souspartie -->
@@ -235,7 +245,25 @@ Le pouvoir est fondé sur un droit de gouverner que nous lui accordons / concéd
 
 ![bg](https://upload.wikimedia.org/wikipedia/commons/9/9d/Leviathan_livre.jpg)
 
+---
+<!-- _class:  -->
+Problèmes :
+1) La finalité de la sécurité est certes légitime, mais cela justifie-t-il vraiment l'existence d'un pouvoir absolu ? Ne faut-il pas des limites au pouvoir ?
+2) Faut-il rechercher la sécurité au prix de la liberté ?
+
+
 <!-- 
+Point de départ : 
+une anthropologie pessimiste
+Par nature, les êtres humains désirent la puissance, sans limites
+Par conséquent : l'état de nature est un état de guerre
+Mais : c'est un état de misère (pas de coopération, pas de progrès possible, crainte permanente)
+Donc : il faut absolument sortir de cette situation
+
+
+
+
+
 « [La démarche de Hobbes] consiste à déduire la nécessité du souverain de la structure des choses humaines. Hobbes y entreprend de fonder ce qu'il appelle une “science politique” [...] Au fond le projet de Hobbes est d'opérer en politique la même révolution que Galilée vient d'opérer en physique. [...] On ne lit plus dans la nature les desseins divins, mais le logos mathématique ; et l'étendue physique s'appréhende désormais géométriquement ; de même, les êtres humains [...] ne sont pas connaissables en tant que “créatures”, mais comme corps, autrement dit comme quasi-machines, [...] mus par les passions et par le désir. » 
 
 Gérard Mairet, Le principe de souveraineté
