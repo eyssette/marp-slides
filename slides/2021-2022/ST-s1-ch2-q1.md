@@ -420,7 +420,7 @@ ol{margin-top:0.2em}
 
 1) L'interdiction de la détention arbitraire : _Magna Carta_ (1215), _Habeas Corpus_ (1679)
 2) La séparation des pouvoirs
-3) L'organisation du droit pour limiter l'arbitraire : les principes de publicité<span data-marpit-fragment="1">, de clarté</span><span data-marpit-fragment="2">, de non-rétroactivité</span><span data-marpit-fragment="3">, de hiérarchie des normes juridiques</span>
+3) L'organisation du droit pour limiter l'arbitraire : les principes de publicité<span data-marpit-fragment="1">, de clarté</span><span data-marpit-fragment="2">, de non-rétroactivité</span><span data-marpit-fragment="3">, de [hiérarchie des normes juridiques](https://www.vie-publique.fr/sites/default/files/styles/large_full/public/infographie/hierarchie-normes.png?itok=VBNBhE2A)</span>
 4) Les déclarations des droits humains
 5) Le droit de résistance à l'oppression
 6) Le droit d'asile
