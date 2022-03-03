@@ -312,6 +312,14 @@ ol li {padding-top:10px!important; font-size:1.2em;}
 
 
 ---
+<!-- _class:  -->
+
+Kant ne dit pas que la création artistique repose sur le rejet de toutes les règles.
+
+1) Il souligne que « chaque art a [...] besoin de certaines règles mécaniques fondamentales ».
+Le génie ne signifie pas l'absence de toute règle, mais se définit par l'invention de nouvelles règles ou plutôt par l'invention d'un style.
+
+---
 <!-- _class: i1t0 pp -->
 
 [![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg/757px-Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg/2560px-Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg)
@@ -338,18 +346,7 @@ p:nth-of-type(2) img {left:550px}
 
 
 ---
-<!-- _class: i2t0 contain pp -->
-<style scoped>
-img {height:650px!important; margin-top:-30px}
-</style>
-
-![](http://www.folio-lesite.fr/gallimard/download/imagehd/9782070373635)
-
-![](https://lh6.googleusercontent.com/X6-6f9R6h0s7ZH1rNdvp9UG-3CQc1cJIUUsavzOsoU_w_uqeoRlmpnzmt2DSTbyU7ucr6XkcsaYF5wDS5SlCunZqbROPFVZWgiOqpynzwHJJVAIcGy0JD4E-dUAtsehRFzTlklGzwdg)
-
-
----
-<!-- _class:  -->
+<!-- _class: i1t0 pp -->
 ![](https://ec56229aec51f1baff1d-185c3068e22352c56024573e929788ff.ssl.cf1.rackcdn.com/attachments/large/4/1/6/005402416.jpg)
 
 ---
