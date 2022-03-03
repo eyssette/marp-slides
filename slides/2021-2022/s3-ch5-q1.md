@@ -154,10 +154,10 @@ h3{text-align:justify; }
 2) *L'objection des désaccords irréductibles :* on ne voit pas comment on pourrait parvenir à un accord sur ce qui est beau
 
 ---
-<!-- _class: i1t1 horizontal  -->
+<!-- _class: i1t1 horizontal f -->
 <style scoped>
-p:nth-of-type(1){width:350px; margin-left:-20px!important}
-p:nth-of-type(2){width:500px; text-align:justify; margin-left:5px!important}
+p:nth-of-type(1){width:350px; margin-left:0px!important}
+p:nth-of-type(2){width:430px; text-align:justify; margin-left:-20px!important}
 </style>
 ![](https://vl-media.fr/wp-content/uploads/2017/12/oiseau-dans-lespace.jpg)
 
@@ -188,8 +188,8 @@ De fait, les artistes ne se sont pas limités au Beau : les artistes se sont int
 ---
 <!-- _class: i1t1 horizontal -->
 <style scoped>
-p:nth-of-type(1){margin-left:-20px!important}
-p:nth-of-type(2){font-size:1.7em; margin-left:-10px!important}
+p:nth-of-type(1){margin-left:10px!important; width:460px}
+p:nth-of-type(2){font-size:1.7em; margin-left:-30px!important}
 </style>
 [![](https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Albrecht_D%C3%BCrer_004b.jpg/491px-Albrecht_D%C3%BCrer_004b.jpg?20121220142011)](https://upload.wikimedia.org/wikipedia/commons/0/08/Albrecht_D%C3%BCrer_004b.jpg)
 
@@ -243,24 +243,31 @@ Deuxième partie
 ---
 <!-- _class: definition fpppppppppp -->
 ### Définition
-* Une **esthétique du génie** affirme qu'on ne peut pas imposer des règles du Beau à la création artistique : l'art est avant tout l'expression du génie de l'artiste.
+- Une **esthétique du génie** affirme qu'on ne peut pas imposer des règles du Beau à la création artistique : l'art est avant tout l'expression du génie de l'artiste.
 
 ---
 <!-- _class: souspartie -->
 ## A. La conception<br> kantienne<br> du génie
 
 ---
-<!--: _class: citationC fmmmmm -->
+<!-- _class: citationC fmm -->
+<style scoped>
+blockquote blockquote {margin-top:-10px}
+figure {margin-right:-40px!important}
+</style>
 
-![bg left:30%](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Kant_gemaelde_3.jpg/459px-Kant_gemaelde_3.jpg?20180929063043)
+![bg left:26%](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Kant_gemaelde_3.jpg/459px-Kant_gemaelde_3.jpg?20180929063043)
 
->« Le talent de l’invention s’appelle génie. […] on ne le donne pas […] à un artiste qui ne fait qu’imiter, mais seulement à celui qui a des dispositions à produire originellement son monde, et enfin à celui-là seul encore dont le produit est digne de servir de modèle.[…] Le champ propre au génie est celui de l’imagination. Parce que cette faculté est créatrice, et que, moins soumise à la discipline des règles, elle est par là même d’autant plus capable d’originalité. — Le mécanisme de l’instruction, qui astreint constamment l’élève à l’imitation, est toujours contraire à l’éclosion du génie, en ce qui regarde l’originalité. Mais chaque art a pourtant besoin de certaines règles mécaniques fondamentales »
+>« Le talent de l’invention s’appelle génie. […] on ne le donne pas […] à un artiste qui ne fait qu’imiter, mais seulement à celui qui a des dispositions à produire originellement son monde, et enfin à celui-là seul encore dont le produit est digne de servir de modèle. […] Le champ propre au génie est celui de l’imagination. Parce que cette faculté est créatrice, et que, moins soumise à la discipline des règles, elle est par là même d’autant plus capable d’originalité. — Le mécanisme de l’instruction, qui astreint constamment l’élève à l’imitation, est toujours contraire à l’éclosion du génie, en ce qui regarde l’originalité. Mais chaque art a pourtant besoin de certaines règles mécaniques fondamentales »
 >>**Kant**, _Anthropologie du point de vue pragmatique_, I, §57
 
 ---
-<!-- _class: exercice tableau colonnes fmmm-->
+<!-- _class: exercice tableau colonnes fmmmmmm -->
 <style scoped>
+table {position:absolute; top:-170px; }
 td {font-size:80%}
+ol {position:absolute; top:-10px; max-height:350px!important; }
+ol li {padding-top:10px!important; font-size:1.2em;}
 </style>
 
 |Le génie|Le contraire du génie|
@@ -274,12 +281,12 @@ td {font-size:80%}
 1. inventer
 2. La créativité de l'imagination
 3. Le mécanisme de l'instruction
-4. produire originellement son monde 
+4. produire originellement son monde
 5. se servir de modèles
-6. imiter
+6. l'originalité
 7. reproduire ce que d'autres ont fait
-8. la conformité aux règles
-9. l'originalité
+8. la conformité aux règles (la discipline)
+9. imiter
 10. servir de modèles
 
 
@@ -288,10 +295,10 @@ td {font-size:80%}
 
 |Le génie|Le contraire du génie|
 |:-:|:-:|
-|_1_ inventer|_6_ imiter|
+|_1_ inventer|_9_ imiter|
 |_2_ la créativité de l'imagination |_3_ le mécanisme de l'instruction|
 |_4_ produire originellement son monde|_7_ reproduire ce que d'autres ont fait|
-|_9_ l'originalité|_8_ la conformité aux règles|
+|_6_ l'originalité|_8_ la conformité aux règles|
 |_10_ servir de modèles|_5_ se servir de modèles|
 
 <!--
