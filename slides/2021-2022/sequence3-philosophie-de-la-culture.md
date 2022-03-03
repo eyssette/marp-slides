@@ -37,7 +37,6 @@ ul {margin-top:0px;}
 </style>
 #### Exercice préalable :
 - Trouver un maximum d’expressions formées à partir du mot “culture” ou du mot “culturel”. Par exemple : “agriculture”, “voyage culturel”, …
-- Qu'est-ce que ces expressions ont en commun ?
 
 ---
 <!-- _class: exercice tableau colonnes fmmmmmmmmm pp -->
@@ -86,7 +85,7 @@ ul ul {margin-left:-40px}
 </style>
 
 - Quel est le sens de la notion de culture dans les sujets suivants ?
-	- Peut-on se libérer de sa culture ?
-	- La culture nous rend-elle plus humains ?
-	- Les différences culturelles sont-elles un obstacle à la cohésion sociale ?
-	- Faut-il être cultivé pour pouvoir apprécier une œuvre d’art ?
+	* Peut-on se libérer de sa culture ?
+	* La culture nous rend-elle plus humains ?
+	* Les différences culturelles sont-elles un obstacle à la cohésion sociale ?
+	* Faut-il être cultivé pour pouvoir apprécier une œuvre d’art ?
