@@ -257,6 +257,43 @@ Deuxième partie
 >« Le talent de l’invention s’appelle génie. […] on ne le donne pas […] à un artiste qui ne fait qu’imiter, mais seulement à celui qui a des dispositions à produire originellement son monde, et enfin à celui-là seul encore dont le produit est digne de servir de modèle.[…] Le champ propre au génie est celui de l’imagination. Parce que cette faculté est créatrice, et que, moins soumise à la discipline des règles, elle est par là même d’autant plus capable d’originalité. — Le mécanisme de l’instruction, qui astreint constamment l’élève à l’imitation, est toujours contraire à l’éclosion du génie, en ce qui regarde l’originalité. Mais chaque art a pourtant besoin de certaines règles mécaniques fondamentales »
 >>**Kant**, _Anthropologie du point de vue pragmatique_, I, §57
 
+---
+<!-- _class: exercice tableau colonnes fmmm-->
+<style scoped>
+td {font-size:80%}
+</style>
+
+|Le génie|Le contraire du génie|
+|:-:|:-:|
+|?|?|
+|?|?|
+|?|?|
+|?|?|
+|?|?|
+
+1. inventer
+2. La créativité de l'imagination
+3. Le mécanisme de l'instruction
+4. produire originellement son monde 
+5. se servir de modèles
+6. imiter
+7. reproduire ce que d'autres ont fait
+8. la conformité aux règles
+9. l'originalité
+10. servir de modèles
+
+
+---
+<!-- _class: exercice tableau-r fm-->
+
+|Le génie|Le contraire du génie|
+|:-:|:-:|
+|_1_ inventer|_6_ imiter|
+|_2_ la créativité de l'imagination |_3_ le mécanisme de l'instruction|
+|_4_ produire originellement son monde|_7_ reproduire ce que d'autres ont fait|
+|_9_ l'originalité|_8_ la conformité aux règles|
+|_10_ servir de modèles|_5_ se servir de modèles|
+
 <!--
 Qu'est-ce qui distingue l'œuvre d'art d'un objet quelconque ?
 Qu'admire-t-on dans une œuvre d'art ?
