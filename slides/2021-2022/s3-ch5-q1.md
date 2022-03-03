@@ -139,6 +139,9 @@ h3 {margin-top:1em!important; text-align:center!important}
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vS-HnUwQuD6KVESvOH5yfjuamq10ifDmVZcPm4taFTlzhjTOd4Q5IwOtoMbJe-Hoih9xTLOqw7swuzh/embed?start=false&loop=false&delayms=3000" frameborder="0" width="660" height="449" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
+---
+<!-- _class: souspartie -->
+## B. Les limites <br>des esthétiques objectives du Beau
 
 ---
 <!-- _class: partie -->
