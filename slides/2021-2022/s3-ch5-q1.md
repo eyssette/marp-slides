@@ -239,3 +239,31 @@ Les chorégraphes doivent-ils se plier aux formes du ballet classique ?
 <!-- _class: partie -->
 # II – Les esthétiques du génie
 Deuxième partie
+
+---
+<!-- _class: definition fpppppppppp -->
+### Définition
+* Une **esthétique du génie** affirme qu'on ne peut pas imposer des règles du Beau à la création artistique : l'art est avant tout l'expression du génie de l'artiste.
+
+---
+<!-- _class: souspartie -->
+## A. La conception<br> kantienne<br> du génie
+
+---
+<!--: _class: citationC fmmmmm -->
+
+![bg left:30%](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Kant_gemaelde_3.jpg/459px-Kant_gemaelde_3.jpg?20180929063043)
+
+>« Le talent de l’invention s’appelle génie. […] on ne le donne pas […] à un artiste qui ne fait qu’imiter, mais seulement à celui qui a des dispositions à produire originellement son monde, et enfin à celui-là seul encore dont le produit est digne de servir de modèle.[…] Le champ propre au génie est celui de l’imagination. Parce que cette faculté est créatrice, et que, moins soumise à la discipline des règles, elle est par là même d’autant plus capable d’originalité. — Le mécanisme de l’instruction, qui astreint constamment l’élève à l’imitation, est toujours contraire à l’éclosion du génie, en ce qui regarde l’originalité. Mais chaque art a pourtant besoin de certaines règles mécaniques fondamentales »
+>>**Kant**, _Anthropologie du point de vue pragmatique_, I, §57
+
+<!--
+Qu'est-ce qui distingue l'œuvre d'art d'un objet quelconque ?
+Qu'admire-t-on dans une œuvre d'art ?
+L'art nous détourne-t-il de la réalité ?
+L'art n'est-il qu'un mensonge ?
+Une œuvre d'art est-elle utile ?
+L'être humain a-t-il besoin de l'art ?
+Y a-t-il des règles de l'art ?
+Peut-on démontrer qu'une œuvre d'art est belle ?
+ -->
