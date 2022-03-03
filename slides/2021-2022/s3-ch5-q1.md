@@ -21,8 +21,22 @@ https://eyssette.github.io/
 
 ---
 <!-- _class: partie -->
-# I – La conception<br> pythagoricienne<br> du Beau <!-- fit -->
+<style scoped>
+h1 {font-size:2.3em; padding:0; margin-top:-0.3em!important}
+</style>
+# I – Les esthétiques objectives du Beau
 Première partie
+
+
+---
+<!-- _class: definition fpppp-->
+### Définition
+* Une **esthétique** est une théorie de l'art.
+* Une **esthétique objective du Beau** affirme que l'art vise le Beau et que le Beau se définit par des propriétés objectives qui se trouvent dans les œuvres elles-mêmes.
+
+---
+<!-- _class: souspartie -->
+## A. La conception<br> pythagoricienne<br> du Beau 
 
 ---
 <!-- _class: citationC fmmmmmmmmm  -->
@@ -48,9 +62,7 @@ blockquote blockquote {margin-right:0; margin-top:10px; font-size:0.9em}
 
 ---
 <!-- _class:  -->
-On a là une **esthétique objective du Beau**, qui repose sur l'idée que le Beau se définit par des propriétés objectives des choses elles-mêmes.
-
-Pour Pythagore, le Beau réside dans l'harmonie qui se définit par des propriétés mathématiques.
+On a ici une esthétique objective du Beau :  pour Pythagore, le Beau réside dans l'harmonie qui se définit par des propriétés mathématiques.
 
 ---
 <!-- _class: i1t1 vertical fpppppp -->
@@ -79,11 +91,15 @@ L'harmonie est une propriété objective des choses et plus généralement du mo
 
 ---
 <!-- _class: i1t1 horizontal contain fpp -->
+<style scoped>
+span {display:block; position:absolute; top:545px; font-size:0.6em; width:300px; left:580px; }
+</style>
 En architecture, des théoriciens vont prescrire des règles du Beau.
 <br>Les proportions d'un beau bâtiment doivent pour Vitruve respecter les proportions idéales du corps humain.
 
-[![](https://lh4.googleusercontent.com/TCsPikOGgAo-ABztLgrw1kLU91ZR_98JUcHxXHQQctf0keXzbcx6MbdZ82hiP8AeFaE9xl9SntCjeR2dSxvwI8pz2Dng24tTLKKfgFZ5B9PptYXQmgMsKWU5layItuRXT4Z_V7Vt-jM)](https://fr.wikipedia.org/wiki/Homme_de_Vitruv)e
+[![](https://lh4.googleusercontent.com/TCsPikOGgAo-ABztLgrw1kLU91ZR_98JUcHxXHQQctf0keXzbcx6MbdZ82hiP8AeFaE9xl9SntCjeR2dSxvwI8pz2Dng24tTLKKfgFZ5B9PptYXQmgMsKWU5layItuRXT4Z_V7Vt-jM)](https://fr.wikipedia.org/wiki/Homme_de_Vitruv)
 
+<span>_L'homme de Vitruve_</span>
 
 ---
 <!-- _class: i1t1 vertical -->
@@ -122,3 +138,10 @@ h3 {margin-top:1em!important; text-align:center!important}
 ### Le Beau comme harmonie [:link:](https://docs.google.com/presentation/d/e/2PACX-1vS-HnUwQuD6KVESvOH5yfjuamq10ifDmVZcPm4taFTlzhjTOd4Q5IwOtoMbJe-Hoih9xTLOqw7swuzh/embed?start=false&loop=false&delayms=3000)
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vS-HnUwQuD6KVESvOH5yfjuamq10ifDmVZcPm4taFTlzhjTOd4Q5IwOtoMbJe-Hoih9xTLOqw7swuzh/embed?start=false&loop=false&delayms=3000" frameborder="0" width="660" height="449" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+
+---
+<!-- _class: partie -->
+# II – Les esthétiques du génie
+Deuxième partie
+
