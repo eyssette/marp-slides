@@ -235,6 +235,15 @@ Les chorégraphes doivent-ils se plier aux formes du ballet classique ?
 
 ![](https://lh6.googleusercontent.com/BkkwPjVvH9PgP-leJF5O3ky2tdZM731VMrF-8DMaNvS1ua9NopgoGPZyMtNzE9rS-cq4jg9rzwG0OxaMyk-u9G8Vsl7fe-Htm188Rp2Acb1kfb4ZCiEDBI1LnCqS0I-g8UXv80xPPsE)
 
+
+---
+<!-- _class: i1t1 vertical fmmm  -->
+
+[![](https://lh5.googleusercontent.com/zkmOzGiMhMMUhi0wSwTQqbKvQBXBiGIipyXm-qExbyw54DMDK6K2hk4Cb4G9ABqJjFrA1MJyPFXJgWPnWeRkJOHqY2GEd0bw-uTZNuBPJL6bGKmEkl8rLe3F3wRT9gcUx9StAL07oDw)](https://ladigitale.dev/digiplay/#/v/6220bdb0249a0)
+
+Maurice Béjart : « Le Sacre du printemps » d'Igor Stravinsky
+
+
 ---
 <!-- _class: partie -->
 # II – Les esthétiques du génie
@@ -300,6 +309,86 @@ ol li {padding-top:10px!important; font-size:1.2em;}
 |_4_ produire originellement son monde|_7_ reproduire ce que d'autres ont fait|
 |_6_ l'originalité|_8_ la conformité aux règles|
 |_10_ servir de modèles|_5_ se servir de modèles|
+
+
+---
+<!-- _class: i1t0 pp -->
+
+[![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg/757px-Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg/2560px-Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg)
+
+
+---
+<!-- _class: i1t0 pp -->
+[![](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/The_Scream.jpg/470px-The_Scream.jpg?20160501101333)](https://upload.wikimedia.org/wikipedia/commons/f/f4/The_Scream.jpg)
+
+
+---
+<!-- _class: pp -->
+<style scoped>
+img {position:absolute;}
+img {max-height:700px;}
+p:nth-of-type(1) img, p:nth-of-type(2) img{top:10px}
+p:nth-of-type(1) img {left:20px}
+p:nth-of-type(2) img {left:550px}
+</style>
+
+![](https://www.centrepompidou.fr/media/picture/02/0d/020d4b4e3a959ff688c0e716ff4c1e2f/thumb_large.jpg)
+
+![](https://jouvencez-vous.com/wp-content/uploads/2018/01/alberto-giacometti-l-homme-qui-marche-photographies-sculptures-tableaux-oeuvres-art-images-prix-de-vente-record-plus-chers-cheres-millions-classement-top-liste-prix-eleves.jpg)
+
+
+---
+<!-- _class: i2t0 contain pp -->
+<style scoped>
+img {height:650px!important; margin-top:-30px}
+</style>
+
+![](http://www.folio-lesite.fr/gallimard/download/imagehd/9782070373635)
+
+![](https://lh6.googleusercontent.com/X6-6f9R6h0s7ZH1rNdvp9UG-3CQc1cJIUUsavzOsoU_w_uqeoRlmpnzmt2DSTbyU7ucr6XkcsaYF5wDS5SlCunZqbROPFVZWgiOqpynzwHJJVAIcGy0JD4E-dUAtsehRFzTlklGzwdg)
+
+
+---
+<!-- _class:  -->
+![](https://ec56229aec51f1baff1d-185c3068e22352c56024573e929788ff.ssl.cf1.rackcdn.com/attachments/large/4/1/6/005402416.jpg)
+
+---
+<!-- _class: souspartie -->
+## B. Les limites des esthétiques du génie
+
+
+---
+<!-- _class: etape -->
+### 1) Une conception mystérieuse de la création artistique
+
+
+---
+<!-- _class:  -->
+#### a/ La création artistique ne se fait pas _ex nihilo_
+
+
+---
+<!-- _class:  -->
+#### b/ La création artistique est le fruit d'un travail de l'artiste
+
+
+
+---
+<!-- _class: etape fppppppp -->
+<style scoped>
+p {text-align:justify}
+</style>
+### 2) La question des <br>limites de l'originalité
+
+Cette question se pose surtout dans le contexte des mutations qu'a connues l'art dans la période moderne et contemporaine.
+
+Afin de mieux comprendre le sens concret de cette question, voici quelques éléments d'histoire de l'art moderne et contemporain.
+
+
+---
+<!-- _class:  -->
+À partir du XIXe siècle, on observe de plus en plus dans l’art un éclatement des règles et une exploration du chaos, des dysharmonies, de la dispersion dans le multiple.
+
 
 <!--
 Qu'est-ce qui distingue l'œuvre d'art d'un objet quelconque ?
