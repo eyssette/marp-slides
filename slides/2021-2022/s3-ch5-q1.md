@@ -144,7 +144,98 @@ h3 {margin-top:1em!important; text-align:center!important}
 ## B. Les limites <br>des esthétiques objectives du Beau
 
 ---
+<!-- _class: fppp etape -->
+<style scoped>
+h3{text-align:justify; }
+</style>
+### 1) Est-il vraiment possible de définir objectivement le Beau ?
+
+1) *L'objection de la relativité culturelle :* selon l'époque, la culture, les formes de beauté semblent très différentes. Les canons de beauté ne sont-ils pas simplement l'expression des normes culturelles dominantes ?
+2) *L'objection des désaccords irréductibles :* on ne voit pas comment on pourrait parvenir à un accord sur ce qui est beau
+
+---
+<!-- _class: i1t1 horizontal  -->
+<style scoped>
+p:nth-of-type(1){width:350px; margin-left:-20px!important}
+p:nth-of-type(2){width:500px; text-align:justify; margin-left:5px!important}
+</style>
+![](https://vl-media.fr/wp-content/uploads/2017/12/oiseau-dans-lespace.jpg)
+
+**Le procès Brâncuși**<br>
+Aux Etats-Unis, la circulation des œuvres d'art ne donnait pas lieu à des frais de douanes. Mais la douane américaine a refusé de considérer comme des œuvres d'art les créations du sculpteur Brâncuși. L'affaire est jugée au tribunal en 1928.
+
+---
+<!-- _class: i1t1 vertical  -->
+<style scoped>
+p:nth-of-type(1){}
+p:nth-of-type(2){text-align:justify; }
+</style>
+![](https://live.staticflickr.com/1457/26526500751_0e5ce83f1b_b.jpg)
+
+Les colonnes de Buren (1986)
+
+
+---
+<!-- _class: etape  -->
+<style scoped>
+h3{margin-bottom:1em; text-align:justify; font-size:1em}
+p{text-align:justify}
+</style>
+### 2) L'art doit-il nécessairement viser le Beau ?
+
+De fait, les artistes ne se sont pas limités au Beau : les artistes se sont intéressés aussi à la laideur, à la dysharmonie
+
+---
+<!-- _class: i1t1 horizontal -->
+<style scoped>
+p:nth-of-type(1){margin-left:-20px!important}
+p:nth-of-type(2){font-size:1.7em; margin-left:-10px!important}
+</style>
+[![](https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Albrecht_D%C3%BCrer_004b.jpg/491px-Albrecht_D%C3%BCrer_004b.jpg?20121220142011)](https://upload.wikimedia.org/wikipedia/commons/0/08/Albrecht_D%C3%BCrer_004b.jpg)
+
+Dürer,<br>*Avarice*<br>(1507)
+
+---
+<!-- _class: i1t1 horizontal -->
+<style scoped>
+p:nth-of-type(1){margin-left:-20px!important}
+p:nth-of-type(2){font-size:1.4em; margin-left:-10px!important}
+</style>
+[![](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Rembrandt%2C_bue_squartato%2C_1655%2C_02.JPG/450px-Rembrandt%2C_bue_squartato%2C_1655%2C_02.JPG?20140119200601)](https://upload.wikimedia.org/wikipedia/commons/e/e8/Rembrandt%2C_bue_squartato%2C_1655%2C_02.JPG)
+
+Rembrandt,<br>*Le Bœuf écorché*<br>(1507)
+
+
+---
+<!-- _class: fpppp etape -->
+<style scoped>
+h3{margin-bottom:0; text-align:justify; font-size:1em}
+</style>
+### 3) Imposer le respect d'un canon de beauté, n'est-ce pas limiter la créativité artistique ?
+
+---
+<!-- _class: i1t1 vertical fpppppppp-->
+<style scoped>
+p:nth-of-type(1) {margin:0px 30px!important;}
+img {height:300px; margin-top:20px!important}
+</style>
+
+Les musiciens doivent-ils nécessairement respecter les règles harmoniques de la musique classique ?
+
+![](https://www.apprendrelesolfege.com/_cache/img_responsive/280/_dl/images/regle-redoublement-sons.webp)
+
+---
+<!-- _class: i1t1 vertical fppppp-->
+<style scoped>
+p:nth-of-type(1) {margin:0px 30px!important;}
+img {height:500px; margin-top:10px!important}
+</style>
+
+Les chorégraphes doivent-ils se plier aux formes du ballet classique ?
+
+![](https://lh6.googleusercontent.com/BkkwPjVvH9PgP-leJF5O3ky2tdZM731VMrF-8DMaNvS1ua9NopgoGPZyMtNzE9rS-cq4jg9rzwG0OxaMyk-u9G8Vsl7fe-Htm188Rp2Acb1kfb4ZCiEDBI1LnCqS0I-g8UXv80xPPsE)
+
+---
 <!-- _class: partie -->
 # II – Les esthétiques du génie
 Deuxième partie
-
