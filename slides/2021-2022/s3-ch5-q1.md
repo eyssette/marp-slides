@@ -316,8 +316,8 @@ ol li {padding-top:10px!important; font-size:1.2em;}
 
 Kant ne dit pas que la création artistique repose sur le rejet de toutes les règles.
 
-1) Il souligne que « chaque art a [...] besoin de certaines règles mécaniques fondamentales ».
-Le génie ne signifie pas l'absence de toute règle, mais se définit par l'invention de nouvelles règles ou plutôt par l'invention d'un style.
+1) Il souligne tout d'abord que « chaque art a [...] besoin de certaines règles mécaniques fondamentales ».
+2) Et surtout : le génie ne signifie pas l'absence de toute règle, mais se définit par l'invention de nouvelles règles ou plutôt par l'invention d'un style.
 
 ---
 <!-- _class: i1t0 pp -->

@@ -57,7 +57,7 @@ D'ordinaire, ce qui fait la valeur d'une œuvre, cela semble être : son caract�
 
 1) par sa disposition
 2) par son titre
-3) par le fait d'exposer l'objet et de la signer
+3) par le fait d'exposer l'objet et de le signer
 4) par des jeux de mots
 
 <!-- 
@@ -70,7 +70,7 @@ D'ordinaire, ce qui fait la valeur d'une œuvre, cela semble être : son caract�
 
 ---
 <!-- _class:  -->
-### Une œuvre qui chercher à renverser l'art lui-même :
+### Une œuvre qui cherche à renverser l'art lui-même :
 
 1) par les propriétés de l'urinoir qui s'opposent à tout ce qu'on attend d'ordinaire d'une œuvre d'art
 2) par des jeux de mots
