@@ -461,10 +461,23 @@ Mais, on peut observer ce travail dans les manuscrits, les brouillons, les esqui
 
 
 
+---
+<!-- _class: citationC fpppppppppppp -->
+<style scoped>
+figure{margin-left:-170px!important;
+-webkit-transform: scaleX(-1)!important;
+  transform: scaleX(-1)!important;}
+blockquote blockquote{margin-left:0; font-size:0.9em; margin-top:-10px}
+</style>
+
+![bg left:25%](https://upload.wikimedia.org/wikipedia/commons/1/1d/Portrait_of_Friedrich_Nietzsche.jpg)
+
+>« Le génie ne fait rien que d’apprendre d’abord à poser des pierres, ensuite à bâtir, que de chercher toujours des matériaux et de travailler toujours à y mettre la forme »
+>>**Nietzsche**, _Humain, trop humain_, chap. IV
 
 
 ---
-<!-- _class: etape fppppppp -->
+<!-- _class: etape fppppp -->
 <style scoped>
 p {text-align:justify}
 </style>
@@ -472,12 +485,8 @@ p {text-align:justify}
 
 Cette question se pose surtout dans le contexte des mutations qu'a connues l'art dans la période moderne et contemporaine.
 
-Afin de mieux comprendre le sens concret de cette question, voici quelques éléments d'histoire de l'art moderne et contemporain.
+Afin de mieux comprendre le sens concret de cette question, voici quelques éléments d'histoire de l'art moderne et contemporain [:link:](https://docs.google.com/presentation/d/1i3uTia5XyFiIP3Mvdqtcmo1MO_5rIOjicgq6-WVMxKY/edit?usp=sharing)
 
-
----
-<!-- _class:  -->
-À partir du XIXe siècle, on observe de plus en plus dans l’art un éclatement des règles et une exploration du chaos, des dysharmonies, de la dispersion dans le multiple.
 
 
 <!--
@@ -489,4 +498,15 @@ Une œuvre d'art est-elle utile ?
 L'être humain a-t-il besoin de l'art ?
 Y a-t-il des règles de l'art ?
 Peut-on démontrer qu'une œuvre d'art est belle ?
+
+
+Qu'admire-t-on dans une œuvre d'art ?
+Y a-t-il des règles de l'art ?
+L'habileté technique suffit-elle à définir l'artiste ?
+L'activité de l'artiste est-elle un travail ?
+Faut-il distinguer la création artistique de l'invention technique ?
+Pourquoi dit-on de l'artiste qu'il crée ?
+L'art est-il évasion hors du monde ?
+Les artistes nous aident-ils à être libres ?
+
  -->
