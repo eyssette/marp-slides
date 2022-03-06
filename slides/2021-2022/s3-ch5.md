@@ -58,7 +58,7 @@ D'ordinaire, ce qui fait la valeur d'une œuvre, cela semble être : son caract�
 1) par sa disposition
 2) par son titre
 3) par le fait d'exposer l'objet et de le signer
-4) par des jeux de mots
+<!-- 4) par des jeux de mots -->
 
 <!-- 
 1) l'urinoir est renversé
@@ -73,8 +73,8 @@ D'ordinaire, ce qui fait la valeur d'une œuvre, cela semble être : son caract�
 ### Une œuvre qui cherche à renverser l'art lui-même :
 
 1) par les propriétés de l'urinoir qui s'opposent à tout ce qu'on attend d'ordinaire d'une œuvre d'art
-2) par des jeux de mots
-3) par la forme même de l'objet
+2) par un jeu de mot
+<!-- 3) par la forme même de l'objet -->
 
 <!-- 
 1) c'est un objet pauvre, sans qualités, sans expression, sans originalité, seulement fonctionnel, sans signification, qui ne suscite aucune émotion si ce n'est de dégoût, et n'est pas le fruit de la créativité d'un artiste génial
@@ -84,16 +84,13 @@ D'ordinaire, ce qui fait la valeur d'une œuvre, cela semble être : son caract�
 
 
 ---
-<!-- _class: fppp -->
+<!-- _class: -->
 
-<span data-marpit-fragment="1">_Fountain_ de Duchamp est un objet destiné à nous faire réfléchir à l'art lui-même, à ce qu'on attend d'une œuvre.</span>
+_Fountain_ de Duchamp est un objet destiné à nous faire réfléchir à l'art lui-même, à ce qu'on attend d'une œuvre :
 
-<span data-marpit-fragment="2">D'ordinaire, ce qui fait la valeur d'une œuvre, cela semble être : son caractère exceptionnel, sa beauté, sa signification profonde, les émotions qu'elles communiquent …</span>
-
-<span data-marpit-fragment="3">Mais existe-t-il vraiment une définition de ce qui fait la valeur de l'art ? Le geste provoquant de Duchamp nous invite à examiner cette question et à prendre conscience du problème qu'elle pose.</span>
-
+Peut-on vraiment définir ce qui est de l'art ?
 
 ---
 <!-- _class: i1t0 -->
 
-![](https://lh6.googleusercontent.com/VhqMNjnEXEWxdAHUwizxeY3OXGaeo1QlxiGRdI239Y4xfAUIVmAQSig3HhmIOpkPGLSLgzT7p29U_pABBjFURhVknjCAXkrtKPMrbXtwBlU5sxw9GsBzi_K927TH5ZigvNH-6ZuPylA)
+![](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/probl%C3%A8me-d%C3%A9finition-art.dot.svg)
