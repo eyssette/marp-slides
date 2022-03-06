@@ -42,15 +42,15 @@ Première partie
 <!-- _class: citationC fmmmmmmmmm  -->
 <style scoped>
 figure {margin-left:-90px!important}
-blockquote {padding:8px}
-blockquote blockquote {margin-right:0; margin-top:10px; font-size:0.9em}
+blockquote {padding:2px}
+blockquote blockquote {margin-right:0; margin-top:10px; font-size:0.8em}
 </style>
 ![bg left:12.5%](https://upload.wikimedia.org/wikipedia/commons/1/1a/Kapitolinischer_Pythagoras_adjusted.jpg)
 
 ><span data-marpit-fragment="1">« L’affirmation fondamentale de Pythagore est simple […] : le principe de toutes choses est dans le nombre.</span><span data-marpit-fragment="2"> […] Pythagore aurait eu cette intuition fondamentale un jour qu’il passait devant l’atelier d’un forgeron. […] [I]l aurait constaté que le marteau qui rendait le son d’octave pesait la moitié du poids du plus lourd, celui qui produisait la quinte pesait les deux tiers du poids du plus lourd, et celui qui donnait la quarte pesait les trois-quarts du poids du plus lourd […]. Pythagore aurait renouvelé l’expérience avec une corde tendue sur un chevalet, divisée en parties égales, et aurait eu la confirmation de cette découverte.</span><span data-marpit-fragment="3"> […] Celle-ci ne concerne pas seulement la musique : elle vaut pour toute chose et s’étend même jusqu’au _cosmos_. […] [C]omme les intervalles des sons, les mouvements des astres se réduisent à des rapports numériques. Nous retrouvons là le thème […] de « l’harmonie des sphères »  […]. Cette vision mystico-mathématique du monde s’applique aussi à la beauté et notamment à la beauté artistique.</span><span data-marpit-fragment="4"> […] Vitruve s’appuie sur ce fonds pythagoricien pour fixer, à l’intention des architectes, les proportions architecturales optimales. Le nombre d’or constitue le meilleur et le plus célèbre de ces rapports mathématiques.</span><span data-marpit-fragment="5"> […] Cette conception pythagoricienne du beau a trouvé dans la statuaire un terrain d’élection. L’exigence de symétrie et de proportions, c’est-à-dire de rapports justes et harmonieux entre les différentes parties qui composent le corps, a été formulée de façon remarquable par le sculpteur Polyclète […] auteur d’un texte technique et pratique à destination des sculpteurs, connu sous le titre de Canon. […] Ces principes théoriques, Polyclète les a appliqués à l’une de ses sculptures, nommée elle aussi _Canon_, en référence au traité théorique dont elle réalise les principes. »</span>
 >> Carole **Talon-Hugon**, _L’antiquité grecque_ (2014), chapitre II : « Qu’est-ce que le beau ? »
 
-
+<!-- Faire plutôt texte + commentaire petit à petit -->
 
 ---
 <!-- _class: citationC  -->
@@ -195,6 +195,11 @@ p:nth-of-type(2){font-size:1.7em; margin-left:-30px!important}
 
 Dürer,<br>*Avarice*<br>(1507)
 
+<!-- 
+Autres exemples sur Art et laideur :
+https://docs.google.com/presentation/d/e/2PACX-1vTUR8caFnZGFwiirudNPWKqNgTD3tKMORfcIfi0NEdUlA0UKwDYglx_Ro0x4mA6C40nyLqaW0lLyFFY/pub?start=false&loop=false&delayms=60000
+ -->
+
 ---
 <!-- _class: i1t1 horizontal -->
 <style scoped>
@@ -253,6 +258,19 @@ Deuxième partie
 <!-- _class: definition fpppppppppp -->
 ### Définition
 - Une **esthétique du génie** affirme qu'on ne peut pas imposer des règles du Beau à la création artistique : l'art est avant tout l'expression du génie de l'artiste.
+
+
+---
+<!-- _class: i1t1 vertical  -->
+<style scoped>
+img {height:500px}
+p:nth-of-type(2){margin-top:-40px}
+</style>
+
+[![](https://lh3.googleusercontent.com/_j13hbJ_FGs1b40cugqS8UPAtXE5HxGCQVoddgFFIkEA4FAChlQDysMuOmisofnGjmlhvigwM8yTzqtbWwSfLhDLfMcsVMNVRc7hyZwbyV1RhdBrhipTlmQIJzHRAxs51ltE-udQ2Mo)](https://drive.google.com/file/d/1-zBOPDDkmgu2fso9s20TU8K3hSrXJVd6/view)
+
+_Amadeus_ (1984)
+
 
 ---
 <!-- _class: souspartie -->
@@ -329,6 +347,9 @@ Kant ne dit pas que la création artistique repose sur le rejet de toutes les r�
 <!-- _class: i1t0 pp -->
 [![](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/The_Scream.jpg/470px-The_Scream.jpg?20160501101333)](https://upload.wikimedia.org/wikipedia/commons/f/f4/The_Scream.jpg)
 
+<!-- 
+cinq versions réalisées entre 1893 et 1917.
+Edvard Munch -->
 
 ---
 <!-- _class: pp -->
@@ -345,28 +366,100 @@ p:nth-of-type(2) img {left:550px}
 ![](https://jouvencez-vous.com/wp-content/uploads/2018/01/alberto-giacometti-l-homme-qui-marche-photographies-sculptures-tableaux-oeuvres-art-images-prix-de-vente-record-plus-chers-cheres-millions-classement-top-liste-prix-eleves.jpg)
 
 
+<!-- Alberto Giacometti -->
+
 ---
 <!-- _class: i1t0 pp -->
 ![](https://ec56229aec51f1baff1d-185c3068e22352c56024573e929788ff.ssl.cf1.rackcdn.com/attachments/large/4/1/6/005402416.jpg)
 
 ---
 <!-- _class: souspartie -->
-## B. Les limites des esthétiques du génie
+## B. Les limites<br>des esthétiques<br>du génie
 
 
 ---
-<!-- _class: etape -->
-### 1) Une conception mystérieuse de la création artistique
+<!-- _class: etape fppp -->
+<style scoped>
+h3 {padding-bottom:20px}
+p {text-align:justify; margin-top:15px}
+</style>
+### 1) Une conception mystérieuse<br>de la création artistique
+
+<span data-marpit-fragment="1">Dans l'Antiquité on a souvent considéré l'artiste comme inspiré par les dieux.</span>
+<span data-marpit-fragment="2">La faculté d'invention pour Kant est un fait de nature, mais elle est toujours considérée comme un don, que l'artiste lui-même ne peut expliquer.</span>
+<span data-marpit-fragment="3">Toutefois n'est-il pas possible d'expliquer, au moins en partie, les sources de la création artistique ?</span>
+
+---
+<!-- _class:  -->
+<style scoped>
+h4{text-align:justify}
+h4 span {font-weight:normal}
+</style>
+#### a/ La création artistique ne se fait pas _ex nihilo_ <span>(= à partir de rien)</span>
+
+
+---
+<!-- _class: citationC fppppp -->
+<style scoped>
+figure{margin-left:-170px!important;
+-webkit-transform: scaleX(-1)!important;
+  transform: scaleX(-1)!important;}
+blockquote blockquote{margin-left:0; font-size:0.9em; margin-top:-10px}
+</style>
+
+![bg left:25%](https://upload.wikimedia.org/wikipedia/commons/1/1d/Portrait_of_Friedrich_Nietzsche.jpg)
+
+>« Nous sommes accoutumés, devant toute chose parfaite, à omettre la question de sa genèse, et à jouir de sa présence comme si elle avait surgi du sol d'un coup de baguette magique. »
+>« Les artistes ont quelque intérêt à ce que l’on croie à leurs intuitions subites,  à leurs prétendues inspirations ; comme si l’idée de l’œuvre d’art, du poème […] tombaient du ciel tel un rayon de la grâce. »
+>>**Nietzsche**, _Humain, trop humain_, chap. IV
 
 
 ---
 <!-- _class:  -->
-#### a/ La création artistique ne se fait pas _ex nihilo_
+<style scoped>
+h5{text-align:justify; padding:0px 65px; margin-bottom:1em}
+</style>
+##### Une œuvre est toujours la trace de son temps
+
+Une œuvre s'inscrit dans un contexte historique et social particulier. Elle est toujours l'expression, le reflet d'une époque, d'une culture.
 
 
 ---
 <!-- _class:  -->
+####  Quelques exemples [:link:](https://docs.google.com/presentation/d/e/2PACX-1vSq2BDwG4JxtWx554weWDKDorYzqtjyMOwXT-mPcjvvlL5PviTFyJJrUTATArcl_NX1uS_VMJhb4pCV/pub?start=false&loop=false&delayms=60000) : 
+1) Le pop art
+2) La perspective à la Renaissance
+3) Les différences entre le temple grec et la cathédrale gothique
+
+
+
+---
+<!-- _class: fppp -->
+<style scoped>
+h5{text-align:justify; padding:0px 65px; margin-bottom:0.6em}
+</style>
+##### Une œuvre est toujours le fruit d'influences artistiques [:link:](https://docs.google.com/presentation/d/e/2PACX-1vS8U5167AK4n2ebt70bU1WBDqR7Jegcmzw3rHRpRmXCpTfaD3_ZtrUGBOaLrhwftdd0e_DoV66WFL4w/pub?start=false&loop=false&delayms=60000)
+
+Tout artiste s'inspire de ce qu'ont fait et ce que font les autres artistes. La création artistique se nourrit des œuvres de l'histoire de l'art et de l'art présent.
+Beaucoup d'œuvres sont une forme de reprise, d'adaptation, d'élaboration à partir d'une autre œuvre.
+On peut ainsi faire une histoire des courants artistiques et repérer les influences et  trajectoires qui mènent d'une forme d'art à une autre.
+
+
+---
+<!-- _class:  -->
+<style scoped>
+h4 {text-align:justify}
+</style>
 #### b/ La création artistique est le fruit d'un travail de l'artiste
+
+
+---
+<!-- _class: -->
+L'idée de génie masque la réalité du travail de l’artiste, au profit d’une représentation illusoire qui fait de la créativité artistique un surgissement inexplicable et spontané. 
+
+Mais, on peut observer ce travail dans les manuscrits, les brouillons, les esquisses, les répétitions avant une représentation, les témoignages des artistes [:link:](https://docs.google.com/presentation/d/e/2PACX-1vR-TcbkVhmW9xxxt5pHfv1z6uVrkONsn0T4ShCbMsQaDyExsX3TU5xj4FWq3zpJQYAB7pTlq0c_T3tD/pub?start=false&loop=false&delayms=60000).
+
+
 
 
 
