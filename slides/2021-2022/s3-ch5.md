@@ -91,6 +91,14 @@ _Fountain_ de Duchamp est un objet destiné à nous faire réfléchir à l'art l
 Peut-on vraiment définir ce qui est de l'art ?
 
 ---
-<!-- _class: i1t0 -->
+<!-- _class: i1t0  -->
+<style scoped>
+img {position:absolute!important; top:10px; left:50px; width:90%!important; display:block;  margin: 40px 0px; }
+</style>
 
-![](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/probl%C3%A8me-d%C3%A9finition-art.dot.svg)
+1. ![](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/probl%C3%A8me-d%C3%A9finition-art-part1.dot.svg)
+2) ![](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/probl%C3%A8me-d%C3%A9finition-art-part2.dot.svg)
+3) ![](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/probl%C3%A8me-d%C3%A9finition-art-part3.dot.svg)
+4) ![](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/probl%C3%A8me-d%C3%A9finition-art-part4.dot.svg)
+5) ![](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/probl%C3%A8me-d%C3%A9finition-art-part5.dot.svg)
+6) ![](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/probl%C3%A8me-d%C3%A9finition-art.dot.svg)
