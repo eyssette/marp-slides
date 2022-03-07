@@ -26,14 +26,32 @@ https://eyssette.github.io/
 Première partie
 
 
----
-<!-- _class: citationC fmmmmmmmm -->
-<style scoped>
-blockquote {padding:7px}
-blockquote blockquote{font-size:0.9em;}
-</style>
-![bg left:25%](https://actualites.uqam.ca/upload/images/nouvelles-2011/02_fevrier_2011/gilles_dostaler.jpg)
 
->« Le libéralisme s’applique à plusieurs dimensions de la réalité humaine et sociale. Il désigne ainsi la tolérance face aux actions et aux opinions d’autrui, dont on respecte l’indépendance et la liberté individuelle. On peut le qualifier alors d’individuel ou de moral. Dans un deuxième sens, le libéralisme s’applique au domaine politique. Il émerge comme opposition à l’absolutisme des monarchies de droit divin et s’identifie à la démocratie. Un troisième sens est économique. Le libéralisme s’identifie alors au laisser-faire, au libre-échange, à la liberté d’entreprise et à la limitation stricte des interventions gouvernementales dans l’économie.  […]
->Dans ses _Recherches sur la nature et les causes de la richesse des nations_ (1776), œuvre fondatrice de la pensée économique libérale, A. Smith illustre par la fameuse parabole de la main invisible l’une des idées fondamentales du libéralisme : poursuivant ses intérêts matériels personnels sans égard pour ceux de ses concurrents, chaque individu est amené, comme par une main invisible, « à remplir une fin qui n’entre nullement dans ses intentions (…). Tout en ne cherchant que son intérêt personnel, il travaille souvent d’une manière bien plus efficace pour l’intérêt de la société que s’il avait réellement pour but d’y travailler. »
->>Gilles **Dostaler**,  “Capitalisme et libéralisme économique”, _in_ R. Chartoire, _Dix questions sur le capitalisme aujourd'hui_
+---
+<!-- _class: i1t0  -->
+<style scoped>
+img {position:absolute!important; top:55px; left:40px; width:92.2%!important; display:block;  margin: 40px 0px; }
+</style>
+
+1. ![](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/libéralisme-trois-formes-part0.dot.svg)
+2) ![](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/libéralisme-trois-formes-part1.dot.svg)
+3) ![](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/libéralisme-trois-formes-part2.dot.svg)
+4) ![](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/libéralisme-trois-formes-part3.dot.svg)
+5) ![](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/libéralisme-trois-formes-part4.dot.svg)
+6) ![](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/libéralisme-trois-formes-part5.dot.svg)
+7) ![](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/libéralisme-trois-formes.dot.svg)
+
+
+---
+<!-- _class:  -->
+
+### Deux arguments en faveur du libéralisme économique
+
+1) L'argument moral de la défense de l'autonomie
+2) L'argument de l'efficacité
+
+
+---
+<!-- _class: partie -->
+# II – Les théories<br>de la justice<br>redistributive <!-- fit -->
+Deuxième partie
