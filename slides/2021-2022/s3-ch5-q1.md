@@ -489,24 +489,37 @@ Afin de mieux comprendre le sens concret de cette question, voici quelques élé
 
 
 
+---
+<!-- _class: partie -->
+# Mise en<br> pratique <!-- fit -->
+
+---
+<!-- _class: exercice application fmmmmmmmm -->
+<style scoped>
+h3 {margin-bottom:15px}
+ul {margin-left:24px;}
+ul ul {font-size:100%; margin-left:-40px}
+span {font-size:90%;}
+</style>
+
+### Exercice d'application
+
+- Choisir un sujet ci-dessous :
+	- Qu'est-ce qui distingue l'œuvre d'art d'un objet quelconque ?
+  - Qu'admire-t-on dans une œuvre d'art ?
+  - L'art nous détourne-t-il de la réalité ?
+  - L'art n'est-il qu'un mensonge ?
+  - Une œuvre d'art est-elle utile ?
+  - L'être humain a-t-il besoin de l'art ?
+  - Y a-t-il des règles de l'art ?
+  - Peut-on démontrer qu'une œuvre d'art est belle ?
+  - L'habileté technique suffit-elle à définir l'artiste ?
+  - Faut-il distinguer la création artistique de l'invention technique ?
+  - Pourquoi dit-on de l'artiste qu'il crée ?
+- Rédiger une sous-partie de dissertation <span>(autour de 300 mots)</span><br> :warning:  <span>il faut défendre une seule réponse, mobiliser le cours, et utiliser le modèle _ARES_</span>
+
 <!--
-Qu'est-ce qui distingue l'œuvre d'art d'un objet quelconque ?
-Qu'admire-t-on dans une œuvre d'art ?
-L'art nous détourne-t-il de la réalité ?
-L'art n'est-il qu'un mensonge ?
-Une œuvre d'art est-elle utile ?
-L'être humain a-t-il besoin de l'art ?
-Y a-t-il des règles de l'art ?
-Peut-on démontrer qu'une œuvre d'art est belle ?
-
-
-Qu'admire-t-on dans une œuvre d'art ?
-Y a-t-il des règles de l'art ?
-L'habileté technique suffit-elle à définir l'artiste ?
 L'activité de l'artiste est-elle un travail ?
-Faut-il distinguer la création artistique de l'invention technique ?
-Pourquoi dit-on de l'artiste qu'il crée ?
 L'art est-il évasion hors du monde ?
 Les artistes nous aident-ils à être libres ?
-
  -->
