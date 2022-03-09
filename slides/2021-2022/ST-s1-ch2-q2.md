@@ -130,3 +130,23 @@ Deuxième partie
 <!-- _class: souspartie -->
 ## A. La théorie de la justice de Rawls
 
+---
+<!-- _class: fmmmm -->
+Une hiérarchie entre quatre types de société :
+1) Le déterminisme social : les places sociales sont fixées par la naissance dans un groupe social particulier (système de castes, inégalités entre classes sociales)
+2) L'égalité formelle des chances : les places sociales ne sont pas réservées à un groupe particulier, elles sont ouvertes à une concurrence libre entre individus, et fondées sur les compétences des individus.
+3) L'égalité réelle des chances : on compense les inégalités de départ pour que chacun parte avec les mêmes chances réelles d'accéder aux différentes places sociales.
+4) Les sociétés justes au sens de Rawls : il faut aussi égaliser les places sociales ; les différences entre les places sociales ne sont justes que si elles contribuent à améliorer la situation de tout le monde et surtout des plus défavorisés.
+
+---
+<!-- _class: souspartie -->
+## B. Les limites de<br>la théorie de la justice de Rawls
+
+
+---
+<!-- _class:  -->
+
+1) Que faut-il égaliser ?
+2) La justice sociale se réduit-elle à la justice redistributive ?
+
+<!-- Ressources réelles, capabilités ? -->
