@@ -120,6 +120,8 @@ Mais :
 2) L'appel à la responsabilité individuelle et à l'autorégulation par le marché fonctionnent-ils vraiment ?
 3) La concurrence libre conduit-elle vraiment à un progrès général qui bénéficie à tout le monde ?
 
+<!-- La main invisible du marché -->
+
 ---
 <!-- _class: partie -->
 # II – Les théories<br>de la justice<br>redistributive <!-- fit -->
