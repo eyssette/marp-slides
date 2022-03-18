@@ -124,7 +124,7 @@ ol li {padding-top:10px!important; font-size:1.2em;}
 
 ---
 <!-- _class: i1t0 -->
-![](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/trois-formes-d-experience.svg)
+[![](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/trois-formes-d-experience.svg)](https://docs.google.com/presentation/d/e/2PACX-1vR7yFXvV-t-t7e4nCm-BDbmHjQBktUt2WecX2KlHlpxvr4vSHz3D2PiP6z0mC82qE3LLcmeX6mRug0l/pub?start=false&loop=false&delayms=60000)
 
 
 ---
