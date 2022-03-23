@@ -54,7 +54,7 @@ On peut appeler expérience esthétique, l'expérience particulière que nous av
 
 [![](https://i.ytimg.com/vi/Dq_V0FksBRw/maxresdefault.jpg)](https://ladigitale.dev/digiplay/#/v/62313291a9a16)
 
-Un tour de magie
+Un tour de magie [:link:](https://ladigitale.dev/digiplay/#/v/623133dfa5bdc) [:link:](https://ladigitale.dev/digiplay/#/v/623133c3a401d) [:link:](https://ladigitale.dev/digiplay/#/v/623134548bc65)
 
 <!-- 
 
@@ -123,13 +123,87 @@ ol li {padding-top:10px!important; font-size:1.2em;}
 ## B. De la perception esthétique<br> à l'expérience esthétique<br>au sens large <!-- fit -->
 
 ---
-<!-- _class: i1t0 -->
-[![](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/trois-formes-d-experience.svg)](https://docs.google.com/presentation/d/e/2PACX-1vR7yFXvV-t-t7e4nCm-BDbmHjQBktUt2WecX2KlHlpxvr4vSHz3D2PiP6z0mC82qE3LLcmeX6mRug0l/pub?start=false&loop=false&delayms=60000)
+<!-- _class:  -->
+On peut distinguer trois formes d'expérience, qui ne sont pas exclusives l'une de l'autre : 
+
+1) L'expérience perceptive (perception, sensations)
+2) L'expérience affective (émotions, sentiments)
+3) L'expérience de pensée (réflexion, compréhension)
+
+---
+<!-- _class: etape -->
+### 1) L'œuvre d'art comme expérience perceptive
+
+
+---
+<!-- _class: citationC -->
+<style scoped>
+blockquote {font-size:1.4em}
+blockquote blockquote {font-size:1em}
+</style>
+![bg left:36%](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Paul_Klee_1911.jpg/440px-Paul_Klee_1911.jpg)
+
+>« L'art ne reproduit pas le visible, il rend visible »
+>>Paul **Klee**
+
+
+---
+<!-- _class:  -->
+L'œuvre d'art nous apprend à voir autrement, à percevoir de manière
+plus intense et plus fine le monde [:link:](https://docs.google.com/presentation/d/e/2PACX-1vQrN7m3dFsYslLaMjhtgWxt6IQEh0wyayedQBzNlUhISoQE-etyg7EoUjzNvaRTZbFxwzkHHYWQ262B/pub?start=false&loop=false&delayms=60000)
+
+
+---
+<!-- _class: etape -->
+### 2) L'œuvre d'art comme expérience affective
+
+
+---
+<!-- _class: citationC -->
+<style scoped>
+blockquote {font-size:1.35em}
+blockquote blockquote {font-size:1em}
+</style>
+![bg left:36%](https://upload.wikimedia.org/wikipedia/commons/8/8a/Schopenhauer.jpg)
+
+>« La musique révèle tous les mouvements les plus intimes de notre être. »
+>>**Schopenhauer**
+
+---
+<!-- _class:  -->
+Les émotions auxquelles l'œuvre d'art nous conduit sont fortes, subtiles et profondes [:link:](https://docs.google.com/presentation/d/e/2PACX-1vQ6Va1nhxT86PV-392Ih_RIDKnBIlcLb2I_yo5SZQPXKpnYLPilQsMUtMS9GjOoDoNfg9noP0Ah6AIe/pub?start=false&loop=false&delayms=60000).
+
+
+---
+<!-- _class: etape -->
+### 3) L'œuvre d'art comme expérience de pensée
+
+
+---
+<!-- _class: citationC fpp -->
+<style scoped>
+figure  {margin-right:-200px!important}
+</style>
+![bg left:30%](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Martha_Nussbaum_wikipedia_10-10.jpg/520px-Martha_Nussbaum_wikipedia_10-10.jpg)
+
+>« La littérature est une extension de la vie, non seulement horizontalement, mettant le lecteur en contact avec des événements ou des lieux ou des personnes ou des problèmes qu’il n’a pas rencontrés en dehors de cela, mais également, pour ainsi dire, verticalement, donnant au lecteur une expérience qui est plus profonde, plus aiguë et plus précise qu’une bonne partie des choses qui se passent dans la vie »
+>>Martha **Nussbaum**, _Love’s Knowledge. Essays on Philosophy and Literature_, p. 48
+
+
+---
+<!-- _class:  -->
+
+L'œuvre d'art nous questionne, enrichit notre imagination, nous permet de nous comprendre, et de comprendre le monde, par une pensée incarnée, concrète et plus vive [:link:](https://docs.google.com/presentation/d/e/2PACX-1vQbsMblhX843Y0amKLY4kA_c9M78drMFwpfMQM9deLqKGlh5uM1i5RV-ZAkhtdseMuMkmzaIpPesIOS/pub?start=false&loop=false&delayms=60000).
+
+
+
 
 
 ---
 <!-- _class: i1t0 -->
 ![](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/experience-esthetique.svg)
+
+
 
 
 
