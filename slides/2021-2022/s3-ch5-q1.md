@@ -440,9 +440,9 @@ h5{text-align:justify; padding:0px 65px; margin-bottom:0.6em}
 </style>
 ##### Une œuvre est toujours le fruit d'influences artistiques [:link:](https://docs.google.com/presentation/d/e/2PACX-1vS8U5167AK4n2ebt70bU1WBDqR7Jegcmzw3rHRpRmXCpTfaD3_ZtrUGBOaLrhwftdd0e_DoV66WFL4w/pub?start=false&loop=false&delayms=60000)
 
-Tout artiste s'inspire de ce qu'ont fait et ce que font les autres artistes. La création artistique se nourrit des œuvres de l'histoire de l'art et de l'art présent.
-Beaucoup d'œuvres sont une forme de reprise, d'adaptation, d'élaboration à partir d'une autre œuvre.
-On peut ainsi faire une histoire des courants artistiques et repérer les influences et  trajectoires qui mènent d'une forme d'art à une autre.
+<span data-marpit-fragment="1">Tout artiste s'inspire de ce qu'ont fait et ce que font les autres artistes. La création artistique se nourrit des œuvres de l'histoire de l'art et de l'art présent.</span>
+<span data-marpit-fragment="2">Beaucoup d'œuvres sont une forme de reprise, d'adaptation, d'élaboration à partir d'une autre œuvre.</span>
+<span data-marpit-fragment="3">On peut ainsi faire une histoire des courants artistiques et repérer les influences et  trajectoires qui mènent d'une forme d'art à une autre.</span>
 
 
 ---
@@ -455,9 +455,9 @@ h4 {text-align:justify}
 
 ---
 <!-- _class: -->
-L'idée de génie masque la réalité du travail de l’artiste, au profit d’une représentation illusoire qui fait de la créativité artistique un surgissement inexplicable et spontané. 
+<span data-marpit-fragment="1">L'idée de génie masque la réalité du travail de l’artiste, au profit d’une représentation illusoire qui fait de la créativité artistique un surgissement inexplicable et spontané. </span>
 
-Mais, on peut observer ce travail dans les manuscrits, les brouillons, les esquisses, les répétitions avant une représentation, les témoignages des artistes [:link:](https://docs.google.com/presentation/d/e/2PACX-1vR-TcbkVhmW9xxxt5pHfv1z6uVrkONsn0T4ShCbMsQaDyExsX3TU5xj4FWq3zpJQYAB7pTlq0c_T3tD/pub?start=false&loop=false&delayms=60000).
+<span data-marpit-fragment="1">Mais, on peut observer ce travail dans les manuscrits, les brouillons, les esquisses, les répétitions avant une représentation, les témoignages des artistes [:link:](https://docs.google.com/presentation/d/e/2PACX-1vR-TcbkVhmW9xxxt5pHfv1z6uVrkONsn0T4ShCbMsQaDyExsX3TU5xj4FWq3zpJQYAB7pTlq0c_T3tD/pub?start=false&loop=false&delayms=60000).</span>
 
 
 
