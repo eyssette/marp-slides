@@ -273,7 +273,7 @@ La transmission sociale se fait : de manière explicite (inculcation) / et de ma
 h3{margin-bottom:0em}
 </style>
 ### Argument 1
-1) Les croyances morales d'une personne sont façonnées par le code moral de la culture à laquelle il appartient.
+1) Les croyances morales d'une personne sont façonnées par le code moral de la culture à laquelle elle appartient.
 2) Les codes moraux diffèrent selon les cultures.
 3) Donc : il n'y a pas de vérités morales universelles.
 
