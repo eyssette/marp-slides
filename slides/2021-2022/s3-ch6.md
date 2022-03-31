@@ -81,19 +81,29 @@ h4 {margin-bottom:0}
 
 
 ---
-<!-- _class: fppppppp -->
+<!-- _class: fpppp -->
 <span data-marpit-fragment="1">Pour poser un problème intéressant, il faut passer des techniques particulières à la place générale de la technique dans notre existence.</span>
 
-<span data-marpit-fragment="2">Les techniques ne sont effet pas de simples savoir-faire que nous mobilisons, à l'occasion, pour parvenir à tel objectif précis : elles sont omniprésentes et notre monde est façonné par des techniques et les produits de ces techniques.</span>
+<span data-marpit-fragment="2">La technique est en effet omniprésente : notre existence, notre monde sont façonnés par des techniques et les produits de ces techniques. </span>
+
+* Dans quelle mesure la technique est-elle essentielle aux êtres humains ? <!-- Pas un simple "avantage" -->
+* Sommes-nous sous l'emprise de la technique ?  <!-- pas un simple inconvénient -->
 
 ---
-<!-- _class: fppppppppp -->
-C'est cette place de la technique qu'il faut interroger :
+<!-- _class: fmmmmmm pp -->
+<style scoped>
+ol {margin:0; padding:0;}
+ol li {margin-left:60px; margin-right:40px; padding:0}
+</style>
 
-1) Dans quelle mesure notre existence est-elle transformée par la technique ?
-2) Faut-il avoir peur de ces transformations ?
-
-<span data-marpit-fragment="1">**Référence :** le mythe de Prométhée racontée par Platon</span>
+1) La technique est-elle le propre des êtres humains ? Y a-t-il de la technique chez les animaux ?
+2) Pourquoi le progrès technologique moderne semble-t-il sans précédent ? Qu'y a-t-il de nouveau dans les nouvelles technologies ?
+3) L'introduction des machines dans le travail au XIXe, la généralisation de l'informatique et du numérique au XXe ont-elles transformé les conditions de travail ?
+4) Que pensez-vous des progrès dans le domaine de l'intelligence artificielle (I.A.) ?
+5) Notre attachement à la technologie (notamment les écrans) est-il une servitude ?
+6) Les biotechnologies et les nanotechnologies pourront probablement permettre de modifier le cerveau humain : qu'en pensez-vous ?
+7) Étant donné les problèmes environnementaux contemporains (changement climatique, érosion de la biodiversité, dégradation des environnements naturels), que faut-il penser du progrès technologique ?
+8) Peut-on contrôler le développement technologique ?
 
 
 ---
@@ -122,19 +132,3 @@ img {position:absolute!important; top:10px; left:50px; width:90%!important; disp
 1) ![](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/mythe-promethee-v2.dot-part6.svg)
 1) ![](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/mythe-promethee-v2.dot.svg)
 
-
----
-<!-- _class: fmmmmmm pp -->
-<style scoped>
-ol {margin:0; padding:0;}
-ol li {margin-left:60px; margin-right:40px; padding:0}
-</style>
-
-1) La technique est-elle le propre des êtres humains ? Y a-t-il de la technique chez les animaux ?
-2) Pourquoi le progrès technologique moderne semble-t-il sans précédent ? Qu'y a-t-il de nouveau dans les nouvelles technologies ?
-3) L'introduction des machines dans le travail au XIXe, la généralisation de l'informatique et du numérique au XXe ont-elles transformé les conditions de travail ?
-4) Que pensez-vous des progrès dans le domaine de l'intelligence artificielle (I.A.) ?
-5) Notre attachement à la technologie (notamment les écrans) est-il une servitude ?
-6) Les biotechnologies et les nanotechnologies pourront probablement permettre de modifier le cerveau humain : qu'en pensez-vous ?
-7) Étant donné les problèmes environnementaux contemporains (changement climatique, érosion de la biodiversité, dégradation des environnements naturels), que faut-il penser du progrès technologique ?
-8) Peut-on contrôler le développement technologique ?
