@@ -134,33 +134,25 @@ Deuxième partie
 
 
 ---
-<!-- _class: etape fppppppp -->
-### 1) Premier argument
-Classification des formes d'injustice et analyse progressive des exigences de la justice sociale.
+<!-- _class: etape  -->
+### 1) Formes d'injustice<br>et principes de justice
 
 ---
-<!-- _class:  -->
-#### a/ Première forme d'injustice
-La tyrannie, l'arbitraire du pouvoir, l'inégalité des droits
-
-**Qu'est-ce qui est juste ?**
-L'égalité des droits, l'Etat de droit, la protection des libertés fondamentales
-
----
-<!-- _class:  -->
-#### b/ Etape 2
-**Deuxième forme d'injustice :** le déterminisme social, qui fait que les places sociales sont fixées par la naissance dans un groupe social particulier
-
-**Sens de la justice :** la méritocratie qui garantit l'égalité formelle des chances
+<!-- _class: i1t0 -->
 
 
 ---
-<!-- _class: definition -->
+<!-- _class: i1t0 pp -->
+<style scoped>
+img {position:absolute!important; top:10px; left:50px; width:90%!important; display:block;  margin: 0px 0px; }
+</style>
+
+1.
+1) 
 
 
----
-<!-- _class: etape -->
-### 2) Deuxième argument
+<!-- ![](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/formes-injustice-principes-justice-Rawls.dot.svg) -->
+
 
 
 ---
