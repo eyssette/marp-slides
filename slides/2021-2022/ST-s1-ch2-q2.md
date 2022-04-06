@@ -134,47 +134,44 @@ Deuxième partie
 
 
 ---
-<!-- _class: etape fppppppp -->
-### 1) Premier argument
-Classification des formes d'injustice et analyse progressive des exigences de la justice sociale.
-
----
-<!-- _class:  -->
-#### a/ Première forme d'injustice
-La tyrannie, l'arbitraire du pouvoir, l'inégalité des droits
-
-**Qu'est-ce qui est juste ?**
-L'égalité des droits, l'Etat de droit, la protection des libertés fondamentales
-
----
-<!-- _class:  -->
-#### b/ Etape 2
-**Deuxième forme d'injustice :** le déterminisme social, qui fait que les places sociales sont fixées par la naissance dans un groupe social particulier
-
-**Sens de la justice :** la méritocratie qui garantit l'égalité formelle des chances
+<!-- _class: etape -->
+### 1) Formes d'injustice<br>et principes de justice
 
 
 ---
-<!-- _class: definition -->
+<!-- _class: i1t0 pp -->
+<style scoped>
+img {position:absolute!important; top:-20px; left:33px; width:93%!important; display:block;  margin: 0px 0px; }
+</style>
 
+1. ![](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/formes-injustice-principes-justice-Rawls.dot-part1.svg)
+1) ![](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/formes-injustice-principes-justice-Rawls.dot-part2.svg)
+1) ![](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/formes-injustice-principes-justice-Rawls.dot-part3.svg)
+1) ![](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/formes-injustice-principes-justice-Rawls.dot-part4.svg)
+1) ![](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/formes-injustice-principes-justice-Rawls.dot-part5.svg)
+1) ![](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/formes-injustice-principes-justice-Rawls.dot-part6.svg)
+1) ![](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/formes-injustice-principes-justice-Rawls.dot-part7.svg)
+1) ![](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/formes-injustice-principes-justice-Rawls.dot-part8.svg)
+1) ![](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/formes-injustice-principes-justice-Rawls.dot-part9.svg)
+1) ![](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/formes-injustice-principes-justice-Rawls.dot-part10.svg)
+1) ![](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/formes-injustice-principes-justice-Rawls.dot-part11.svg)
+1) ![](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/formes-injustice-principes-justice-Rawls.dot-part12.svg)
+1) ![](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/formes-injustice-principes-justice-Rawls.dot.svg)
+
+<!-- Une hiérarchie entre quatre types de société :
+1) Le déterminisme social : les places sociales sont fixées par la naissance dans un groupe social particulier (système de castes, inégalités entre classes sociales)
+2) L'égalité formelle des chances : les places sociales ne sont pas réservées à un groupe particulier, elles sont ouvertes à une concurrence libre entre individus, et fondées sur les compétences des individus.
+3) L'égalité réelle des chances : on compense les inégalités de départ pour que chacun parte avec les mêmes chances réelles d'accéder aux différentes places sociales.
+4) Les sociétés justes au sens de Rawls : il faut aussi égaliser les places sociales ; les différences entre les places sociales ne sont justes que si elles contribuent à améliorer la situation de tout le monde et surtout des plus défavorisés. -->
 
 ---
 <!-- _class: etape -->
-### 2) Deuxième argument
-
-
----
-<!-- _class: etape -->
-### 3) Les limites de la théorie de la justice de Rawls
+### 2) Les limites de la théorie<br>de la justice de Rawls
 
 
 ---
 <!-- _class: fmmmm -->
-Une hiérarchie entre quatre types de société :
-1) Le déterminisme social : les places sociales sont fixées par la naissance dans un groupe social particulier (système de castes, inégalités entre classes sociales)
-2) L'égalité formelle des chances : les places sociales ne sont pas réservées à un groupe particulier, elles sont ouvertes à une concurrence libre entre individus, et fondées sur les compétences des individus.
-3) L'égalité réelle des chances : on compense les inégalités de départ pour que chacun parte avec les mêmes chances réelles d'accéder aux différentes places sociales.
-4) Les sociétés justes au sens de Rawls : il faut aussi égaliser les places sociales ; les différences entre les places sociales ne sont justes que si elles contribuent à améliorer la situation de tout le monde et surtout des plus défavorisés.
+
 
 ---
 <!-- _class: souspartie -->
