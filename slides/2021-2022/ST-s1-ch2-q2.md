@@ -134,39 +134,124 @@ Deuxième partie
 
 
 ---
-<!-- _class: etape  -->
+<!-- _class: etape -->
 ### 1) Formes d'injustice<br>et principes de justice
-
----
-<!-- _class: i1t0 -->
 
 
 ---
 <!-- _class: i1t0 pp -->
 <style scoped>
-img {position:absolute!important; top:10px; left:50px; width:90%!important; display:block;  margin: 0px 0px; }
+img {position:absolute!important; top:-20px; left:33px; width:93%!important; display:block;  margin: 0px 0px; }
 </style>
 
-1.
-1) 
+1. ![](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/formes-injustice-principes-justice-Rawls.dot-part1.svg)
+1) ![](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/formes-injustice-principes-justice-Rawls.dot-part2.svg)
+1) ![](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/formes-injustice-principes-justice-Rawls.dot-part3.svg)
+1) ![](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/formes-injustice-principes-justice-Rawls.dot-part4.svg)
+1) ![](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/formes-injustice-principes-justice-Rawls.dot-part5.svg)
+
+
+---
+<!-- _class: i1t0 -->
+[![](https://static.fnac-static.com/multimedia/Images/FR/NR/35/8a/86/8817205/1540-1/tsp20170512110356/Nes-sous-la-meme-etoile.jpg)](https://ladigitale.dev/digiplay/#/v/624d3f97f4169)
+
+---
+<!-- _class: definition -->
+### Définition
+Il y a un **déterminisme social** quand la trajectoire sociale d'un individu est fixée par son origine sociale (sa naissance dans un groupe social particulier).
+
+
+<!-- 
+2) L'égalité formelle des chances : les places sociales ne sont pas réservées à un groupe particulier, elles sont ouvertes à une concurrence libre entre individus, et fondées sur les compétences des individus.
+3) L'égalité réelle des chances : on compense les inégalités de départ pour que chacun parte avec les mêmes chances réelles d'accéder aux différentes places sociales.
+4) Les sociétés justes au sens de Rawls : il faut aussi égaliser les places sociales ; les différences entre les places sociales ne sont justes que si elles contribuent à améliorer la situation de tout le monde et surtout des plus défavorisés. -->
+
+
+---
+<!-- _class: i1t0 pp -->
+<style scoped>
+img {position:absolute!important; top:-20px; left:33px; width:93%!important; display:block;  margin: 0px 0px; }
+</style>
+
+1. ![](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/formes-injustice-principes-justice-Rawls.dot-part5.svg)
+1) ![](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/formes-injustice-principes-justice-Rawls.dot-part6.svg)
+1) ![](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/formes-injustice-principes-justice-Rawls.dot-part7.svg)
 
 
 <!-- ![](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/formes-injustice-principes-justice-Rawls.dot.svg) -->
 
+---
+<!-- _class: definition fppppp-->
+### Définition
+Il y a **égalité formelle des chances** quand les places sociales ne sont pas réservées à un groupe particulier, mais ouvertes à une concurrence libre entre tous les individus, et que la sélection se fonde sur les compétences des individus.
 
 
 ---
+<!-- _class: i1t0 pp -->
+<style scoped>
+img {position:absolute!important; top:-20px; left:33px; width:93%!important; display:block;  margin: 0px 0px; }
+</style>
+
+1. ![](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/formes-injustice-principes-justice-Rawls.dot-part8.svg)
+
+---
+<!-- _class: i1t1 vertical -->
+<style scoped>
+img {height:600px; margin-top:5px!important}
+</style>
+
+[![](https://fr.web.img5.acsta.net/r_1280_720/medias/nmedia/18/36/21/60/18818641.jpg)](https://drive.google.com/file/d/1EqvCaLn3VWGkQ1gLYzBiaXV8JINRyYDr/view)
+
+Rocky Balboa (2006)
+
+
+---
+<!-- _class: i1t1 vertical -->
+<style scoped>
+img {height:600px; margin-top:5px!important}
+</style>
+
+[![](https://lh6.googleusercontent.com/xsw-UYF3sx-4AdKwCZpXqpx-OevWdOiP7lAAtF8MQkKDBTQiRFD4sq9uNWtEu9NE79hWD_fFUNpCc_FBUGoRky9dihKakZyrM7UO3F7Jq9igp0hjriTF3TfO7NHgHVEr-U5vujIJY6Q)](https://drive.google.com/open?id=1Q4iNwiLnE5S5IJrikA_Bx38i8rpXEHCv)
+
+Run Fat Boy Run (2007)
+
+---
+<!-- _class: i1t0 pp -->
+<style scoped>
+img {position:absolute!important; top:-20px; left:33px; width:93%!important; display:block;  margin: 0px 0px; }
+</style>
+
+1. ![](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/formes-injustice-principes-justice-Rawls.dot-part8.svg)
+1) ![](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/formes-injustice-principes-justice-Rawls.dot-part9.svg)
+1) ![](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/formes-injustice-principes-justice-Rawls.dot-part10.svg)
+
+
+---
+<!-- _class: definition -->
+### Définition
+Il y a **égalité réelle des chances** quand on compense les inégalités de départ pour que chacun parte avec réellement les mêmes chances d'accéder aux différentes places sociales.
+
+---
+<!-- _class: i1t0 pp -->
+<style scoped>
+img {position:absolute!important; top:-20px; left:33px; width:93%!important; display:block;  margin: 0px 0px; }
+</style>
+
+1. ![](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/formes-injustice-principes-justice-Rawls.dot-part8.svg)
+1) ![](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/formes-injustice-principes-justice-Rawls.dot-part9.svg)
+1) ![](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/formes-injustice-principes-justice-Rawls.dot-part10.svg)
+1) ![](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/formes-injustice-principes-justice-Rawls.dot-part11.svg)
+1) ![](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/formes-injustice-principes-justice-Rawls.dot-part12.svg)
+1) ![](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/formes-injustice-principes-justice-Rawls.dot.svg)
+
+---
 <!-- _class: etape -->
-### 3) Les limites de la théorie de la justice de Rawls
+### 2) Les limites de la théorie<br>de la justice de Rawls
 
 
 ---
 <!-- _class: fmmmm -->
-Une hiérarchie entre quatre types de société :
-1) Le déterminisme social : les places sociales sont fixées par la naissance dans un groupe social particulier (système de castes, inégalités entre classes sociales)
-2) L'égalité formelle des chances : les places sociales ne sont pas réservées à un groupe particulier, elles sont ouvertes à une concurrence libre entre individus, et fondées sur les compétences des individus.
-3) L'égalité réelle des chances : on compense les inégalités de départ pour que chacun parte avec les mêmes chances réelles d'accéder aux différentes places sociales.
-4) Les sociétés justes au sens de Rawls : il faut aussi égaliser les places sociales ; les différences entre les places sociales ne sont justes que si elles contribuent à améliorer la situation de tout le monde et surtout des plus défavorisés.
+
 
 ---
 <!-- _class: souspartie -->
