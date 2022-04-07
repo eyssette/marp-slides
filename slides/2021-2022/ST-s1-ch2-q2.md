@@ -134,11 +134,6 @@ Deuxième partie
 
 
 ---
-<!-- _class: etape -->
-### 1) Formes d'injustice<br>et principes de justice
-
-
----
 <!-- _class: i1t0 pp -->
 <style scoped>
 img {position:absolute!important; top:-20px; left:33px; width:93%!important; display:block;  margin: 0px 0px; }
@@ -168,6 +163,11 @@ Il y a un **déterminisme social** quand la trajectoire sociale d'un individu es
 
 
 ---
+<!-- _class: i1t0 -->
+
+[![](../images/table-destinée.png)](https://public.flourish.studio/visualisation/9306102/)
+
+---
 <!-- _class: i1t0 pp -->
 <style scoped>
 img {position:absolute!important; top:-20px; left:33px; width:93%!important; display:block;  margin: 0px 0px; }
@@ -183,7 +183,7 @@ img {position:absolute!important; top:-20px; left:33px; width:93%!important; dis
 ---
 <!-- _class: definition fppppp-->
 ### Définition
-Il y a **égalité formelle des chances** quand les places sociales ne sont pas réservées à un groupe particulier, mais ouvertes à une concurrence libre entre tous les individus, et que la sélection se fonde sur les compétences des individus.
+Il y a **égalité formelle des chances** quand les places sociales ne sont pas réservées à un groupe particulier, mais ouvertes à une compétition libre entre tous les individus, et que la sélection se fonde sur les compétences des individus.
 
 
 ---
@@ -243,14 +243,6 @@ img {position:absolute!important; top:-20px; left:33px; width:93%!important; dis
 1) ![](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/formes-injustice-principes-justice-Rawls.dot-part11.svg)
 1) ![](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/formes-injustice-principes-justice-Rawls.dot-part12.svg)
 1) ![](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/formes-injustice-principes-justice-Rawls.dot.svg)
-
----
-<!-- _class: etape -->
-### 2) Les limites de la théorie<br>de la justice de Rawls
-
-
----
-<!-- _class: fmmmm -->
 
 
 ---
