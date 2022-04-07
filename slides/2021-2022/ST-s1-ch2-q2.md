@@ -165,7 +165,7 @@ Il y a un **déterminisme social** quand la trajectoire sociale d'un individu es
 ---
 <!-- _class: i1t0 -->
 
-[![](../images/table-destinée.png)](https://public.flourish.studio/visualisation/9306102/)
+[![](../images/destinée-fils-en-fonction-catégorie-sociale-pères.png)](https://public.flourish.studio/visualisation/9306102/)
 
 ---
 <!-- _class: i1t0 pp -->
