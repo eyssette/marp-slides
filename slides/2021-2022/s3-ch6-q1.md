@@ -135,7 +135,16 @@ La technologie repose sur **l'objectivation** de la nature par la science et un 
 
 La **maîtrise théorique** des lois de la nature va permettre la **maîtrise pratique** des forces et ressources de la nature.
 
+<span data-marpit-fragment="1">Il s'agit d'une conception **instrumentale** et **anthropocentrique** de la nature </span>
+
 ---
 <!-- _class: partie -->
 # II – <br>La question<br> écologique <!-- fit -->
 Deuxième partie
+
+---
+<!-- _class: citationC fppppppppp-->
+
+![bg left:40%](https://1.bp.blogspot.com/-jcOWcBDi1WE/V-qBdeCq_EI/AAAAAAADiSg/2O1z9Fjq67Iok39b2Gdzwe9Qqn0gb-HDQCLcB/s1600/hansjonas.jpg)
+>« [L]'essence de l'agir humain s'est transformée ; et […] la transformation de la nature de l'agir humain rend également nécessaire une transformation de l'éthique »
+>> Hans **Jonas**, _Le principe responsabilité_, ch. 1
