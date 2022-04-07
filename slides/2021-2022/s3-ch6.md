@@ -104,31 +104,3 @@ ol li {margin-left:60px; margin-right:40px; padding:0}
 6) Les biotechnologies et les nanotechnologies pourront probablement permettre de modifier le cerveau humain : qu'en pensez-vous ?
 7) Étant donné les problèmes environnementaux contemporains (changement climatique, érosion de la biodiversité, dégradation des environnements naturels), que faut-il penser du progrès technologique ?
 8) Peut-on contrôler le développement technologique ?
-
-
----
-<!-- _class: citationC fmmmmm-->
-![bg left:22%](https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Plato_Pio-Clemetino_Inv305.jpg/520px-Plato_Pio-Clemetino_Inv305.jpg)
-
-><span data-marpit-fragment="1">« [Les dieux] chargèrent Prométhée et Épiméthée de répartir les capacités entre chacune [des races mortelles], en bon ordre, comme il convient.</span> <span data-marpit-fragment="2">Épiméthée demande alors avec insistance à Prométhée de le laisser seul opérer la répartition : « Quand elle sera faite, dit-il, tu viendras la contrôler. » L’ayant convaincu de la sorte, il opère la répartition.</span><span data-marpit-fragment="3"> […] Cependant, comme il n’était pas précisément sage, Épiméthée, sans y prendre garde, avait dépensé toutes les capacités pour les bêtes, qui ne parlent pas ; il restait encore la race humaine, qui n’avait rien reçu, et il ne savait pas quoi faire.</span><span data-marpit-fragment="4"> Alors qu’il était dans l’embarras, Prométhée arrive pour inspecter la répartition, et il voit tous les vivants harmonieusement pourvus en tout, mais l’homme nu, sans chaussures, sans couverture, sans armes. […] Face à cet embarras, ne sachant pas comment il pouvait préserver l’homme, Prométhée dérobe à Héphaïstos et à Athéna le savoir technique avec le feu […] et c’est ainsi qu’il en fait don à l’homme »</span>
->>**Platon**, _Protagoras_, 320d-321d
-
-<!-- 
-- Dans ce mythe, qu'est-ce qui montre que la technique joue un rôle essentiel pour les êtres humains ?
-- Dans ce mythe, qu'est-ce qui montre que la technique représente une puissance qui peut nous dépasser et nous échapper ?
- -->
-
----
-<!-- _class: i1t0 pp -->
-<style scoped>
-img {position:absolute!important; top:10px; left:50px; width:90%!important; display:block;  margin: 0px 0px; }
-</style>
-
-1. ![](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/mythe-promethee-v2.dot-part1.svg)
-1) ![](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/mythe-promethee-v2.dot-part2.svg)
-1) ![](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/mythe-promethee-v2.dot-part3.svg)
-1) ![](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/mythe-promethee-v2.dot-part4.svg)
-1) ![](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/mythe-promethee-v2.dot-part5.svg)
-1) ![](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/mythe-promethee-v2.dot-part6.svg)
-1) ![](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/mythe-promethee-v2.dot.svg)
-
