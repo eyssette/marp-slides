@@ -104,3 +104,11 @@ ol li {margin-left:60px; margin-right:40px; padding:0}
 6) Les biotechnologies et les nanotechnologies pourront probablement permettre de modifier le cerveau humain : qu'en pensez-vous ?
 7) Étant donné les problèmes environnementaux contemporains (changement climatique, érosion de la biodiversité, dégradation des environnements naturels), que faut-il penser du progrès technologique ?
 8) Peut-on contrôler le développement technologique ?
+
+
+---
+<!-- _class: fpppp -->
+### Enquête philosophique sur la technique
+
+1) Choisir un objet technique, une technique ou une technologie. Décrire ce qu'il y a de particulier dans cet objet ou cette technique.
+2) Quelles sont les questions philosophiques que l'on peut poser à propos de cet objet ou de cette technique ? Explorer les enjeux de cette question.
