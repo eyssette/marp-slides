@@ -167,6 +167,8 @@ L'œuvre d'art nous apprend à voir autrement, à percevoir de manière
 plus intense et plus fine le monde [:link:](https://docs.google.com/presentation/d/e/2PACX-1vQrN7m3dFsYslLaMjhtgWxt6IQEh0wyayedQBzNlUhISoQE-etyg7EoUjzNvaRTZbFxwzkHHYWQ262B/pub?start=false&loop=false&delayms=60000)
 
 
+<!-- TODO : liens Digiplay à faire + lien vers exemples avant la petite synthèse -->
+
 ---
 <!-- _class: etape -->
 ### 2) L'œuvre d'art comme expérience affective
@@ -183,10 +185,13 @@ blockquote blockquote {font-size:1em}
 >« La musique révèle tous les mouvements les plus intimes de notre être. »
 >>**Schopenhauer**
 
+<!-- TODO : Lien vers vidéo de Zygel sur majeur/mineur -->
+
 ---
 <!-- _class:  -->
 Les émotions auxquelles l'œuvre d'art nous conduit sont fortes, subtiles et profondes [:link:](https://docs.google.com/presentation/d/e/2PACX-1vQ6Va1nhxT86PV-392Ih_RIDKnBIlcLb2I_yo5SZQPXKpnYLPilQsMUtMS9GjOoDoNfg9noP0Ah6AIe/pub?start=false&loop=false&delayms=60000).
 
+<!-- TODO : liens Digiplay à faire + lien vers exemples avant la petite synthèse -->
 
 ---
 <!-- _class: etape -->
@@ -209,6 +214,7 @@ figure  {margin-right:-200px!important}
 
 L'œuvre d'art nous questionne, enrichit notre imagination, nous permet de nous comprendre, et de comprendre le monde, par une pensée incarnée, concrète et plus vive [:link:](https://docs.google.com/presentation/d/e/2PACX-1vQbsMblhX843Y0amKLY4kA_c9M78drMFwpfMQM9deLqKGlh5uM1i5RV-ZAkhtdseMuMkmzaIpPesIOS/pub?start=false&loop=false&delayms=60000).
 
+<!-- TODO : liens Digiplay à faire + lien vers exemples avant la petite synthèse -->
 
 ---
 <!-- _class: partie -->
