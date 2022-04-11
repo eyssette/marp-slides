@@ -210,7 +210,7 @@ p:nth-of-type(1) {border:none; margin-bottom:0.5em; font-size:1.1em; padding:0}
 Hans Jonas critique le solutionnisme technologique, qui ne représente pour lui qu'une fuite en avant.
 
 ### Définition
-Le **solutionnisme technologique** désigne l'idée qu'on peut toujours une solution technologique aux problèmes que rencontrent les êtres humains
+Le **solutionnisme technologique** désigne l'idée qu'on peut toujours trouver une solution technologique aux problèmes que rencontrent les êtres humains
 
 
 ---
