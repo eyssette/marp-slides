@@ -17,7 +17,7 @@ http://eyssette.github.io
 ul {margin-top:0px; margin-bottom:30px}
 </style>
 **Les notions principales travaillées dans cette séquence :**
-- La culture, l'existence humaine, l'art, la technique, le travail, le langage
+- La culture, l'existence humaine, l'art, la technique, la nature, le travail, le&nbsp;langage
 
 **Une question directrice :**
 - Quelle est la place de la culture dans l'identité d'un être humain ?
