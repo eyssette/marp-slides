@@ -253,7 +253,7 @@ img {position:absolute!important; top:-20px; left:33px; width:93%!important; dis
 ---
 <!-- _class:  -->
 
-1) Que faut-il égaliser ?
-2) La justice sociale se réduit-elle à la justice redistributive ?
+1) Une conception trop abstraite de la citoyenneté ?
+2) Une conception trop étroite de la justice sociale ?
 
 <!-- Ressources réelles, capabilités ? -->
