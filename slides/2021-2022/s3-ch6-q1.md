@@ -18,7 +18,7 @@ https://eyssette.github.io/
 <!-- _class: citationC fmmmmm-->
 ![bg left:22%](https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Plato_Pio-Clemetino_Inv305.jpg/520px-Plato_Pio-Clemetino_Inv305.jpg)
 
-><span data-marpit-fragment="1">« [Les dieux] chargèrent Prométhée et Épiméthée de répartir les capacités entre chacune [des races mortelles], en bon ordre, comme il convient.</span> <span data-marpit-fragment="2">Épiméthée demande alors avec insistance à Prométhée de le laisser seul opérer la répartition : « Quand elle sera faite, dit-il, tu viendras la contrôler. » L’ayant convaincu de la sorte, il opère la répartition.</span><span data-marpit-fragment="3"> […] Cependant, comme il n’était pas précisément sage, Épiméthée, sans y prendre garde, avait dépensé toutes les capacités pour les bêtes, qui ne parlent pas ; il restait encore la race humaine, qui n’avait rien reçu, et il ne savait pas quoi faire.</span><span data-marpit-fragment="4"> Alors qu’il était dans l’embarras, Prométhée arrive pour inspecter la répartition, et il voit tous les vivants harmonieusement pourvus en tout, mais l’homme nu, sans chaussures, sans couverture, sans armes. […] Face à cet embarras, ne sachant pas comment il pouvait préserver l’homme, Prométhée dérobe à Héphaïstos et à Athéna le savoir technique avec le feu […] et c’est ainsi qu’il en fait don à l’homme »</span>
+><span data-marpit-fragment="1">« [Les dieux] chargèrent Prométhée et Épiméthée de répartir les capacités entre chacune [des races mortelles], en bon ordre, comme il convient.</span> <span data-marpit-fragment="2">Épiméthée demande alors avec insistance à Prométhée de le laisser seul opérer la répartition : « Quand elle sera faite, dit-il, tu viendras la contrôler. » L’ayant convaincu de la sorte, il opère la répartition.</span><span data-marpit-fragment="3"> […] Cependant, comme il n’était pas précisément sage, Épiméthée, sans y prendre garde, avait dépensé toutes les capacités pour les bêtes, qui ne parlent pas ; il restait encore la race humaine, qui n’avait rien reçu, et il ne savait pas quoi faire.</span><span data-marpit-fragment="4"> Alors qu’il était dans l’embarras, Prométhée arrive pour inspecter la répartition, et il voit tous les vivants harmonieusement pourvus en tout, mais l’homme nu, sans chaussures, sans couverture, sans armes. […] Face à cet embarras, ne sachant pas comment il pouvait préserver l’homme, Prométhée dérobe à Héphaïstos et à Athéna le savoir technique avec le feu […] et c’est ainsi qu’il en fait don à l’homme »</span>
 >>**Platon**, _Protagoras_, 320d-321d
 
 <!-- 
@@ -142,9 +142,105 @@ La **maîtrise théorique** des lois de la nature va permettre la **maîtrise pr
 # II – <br>La question<br> écologique <!-- fit -->
 Deuxième partie
 
+
+---
+<!-- _class: souspartie -->
+## A. Hans Jonas
+
 ---
 <!-- _class: citationC fppppppppp-->
 
 ![bg left:40%](https://1.bp.blogspot.com/-jcOWcBDi1WE/V-qBdeCq_EI/AAAAAAADiSg/2O1z9Fjq67Iok39b2Gdzwe9Qqn0gb-HDQCLcB/s1600/hansjonas.jpg)
 >« [L]'essence de l'agir humain s'est transformée ; et […] la transformation de la nature de l'agir humain rend également nécessaire une transformation de l'éthique »
->> Hans **Jonas**, _Le principe responsabilité_, ch. 1
+>> Hans **Jonas**, _Le principe responsabilité_ (1979), ch. 1
+
+
+---
+<!-- _class:  -->
+
+« [L]'essence de l'agir humain s'est transformée »
+
+- Qu'y a-t-il de nouveau dans les technologies modernes par rapport aux techniques traditionnelles ?
+
+
+---
+<!-- _class: f -->
+
+|Techniques traditionnelles | Technologies<br>modernes |
+|:----------:|:---------:|
+<span data-marpit-fragment="1">Exploitation limitée <br>des ressources </span>|<span data-marpit-fragment="2"> Exploitation considérable <br>des ressources</span>
+<span data-marpit-fragment="3">Portée locale </span>|<span data-marpit-fragment="4"> Portée globale</span>
+<span data-marpit-fragment="5">Effets temporaires, réversibles, cohérents avec les équilibres écosystémiques</span> | <span data-marpit-fragment="6">Effets durables, voire irréversibles, qui perturbent certains équilibres écosystémiques</span>
+<span data-marpit-fragment="7">Transformations peu profondes</span> | <span data-marpit-fragment="8">Transformations en profondeur </span>
+
+
+<!-- 
+
+Quantitatif
+Espace
+Temps
+Qualitatif
+Modalités
+
+
+https://journals.openedition.org/alter/295
+Jonas ne se limite donc pas à souligner le changement d’échelle des effets de l’agir technologique humain – sur la base du constat, souvent repris, que l’homme agit désormais comme une force géologique, c’est-à-dire comme une force de perturbation globale et irréversible des grands équilibres écosystémiques, et non plus seulement comme une force de perturbation locale et réversible comme cela a toujours été le cas : Jonas souligne aussi, plus profondément en un sens, que la transformation de l’agir humain porte surtout sur les modalités de cet agir, sur les échelles d’intervention et sur la nature des chaînes opératoires mises en jeu
+
+une quatrième caractéristique de la technologie moderne réside dans le changement d’échelle, à la fois spatiale et temporelle. Jonas constate tout d’abord un changement d’échelle dans la mise en œuvre des technologies, du côté du sujet : l’individu ne compte plus, c’est la société qui agit technologiquement. Il souligne également un changement d’échelle du côté du monde, dans l’ampleur des effets de l’agir technologique moderne 
+---
+https://www.colval.qc.ca/images/interphilo/Steve_Fyfle_texte_Hans_Jonas_version_preliminaire.pdf
+
+
+Un pouvoir sur la biosphère entière de la planète
+
+Dans ce contexte, ce qui est le plus inquiétant, c’est que l’agir humain ne se
+limite plus uniquement aux effets directs et intentionnels de
+l’action, car celle-ci engendre des effets secondaires souvent
+cumulatifs et pouvant causer des dommages irréversibles tels que
+la pollution des océans par les déchets nucléaires ou encore
+l’accumulation de métaux lourds dans la chaîne alimentaire
+
+ -->
+
+---
+<!-- _class: definition fpppp -->
+<style scoped>
+p:nth-of-type(1) {border:none; margin-bottom:0.5em; font-size:1.1em; padding:0}
+</style>
+Hans Jonas critique le solutionnisme technologique, qui ne représente pour lui qu'une fuite en avant.
+
+### Définition
+Le **solutionnisme technologique** désigne l'idée qu'on peut toujours une solution technologique aux problèmes que rencontrent les êtres humains
+
+
+---
+<!-- _class: citationC fm -->
+
+![bg left:23%](https://1.bp.blogspot.com/-jcOWcBDi1WE/V-qBdeCq_EI/AAAAAAADiSg/2O1z9Fjq67Iok39b2Gdzwe9Qqn0gb-HDQCLcB/s1600/hansjonas.jpg)
+>« Un impératif adapté au nouveau type de l'agir humain et qui s'adresse au nouveau type de sujets de l'agir s'énoncerait à peu près ainsi : « Agis de façon que les effets de ton action soient compatibles avec la Permanence d'une vie authentiquement humaine sur terre » ; ou pour l'exprimer négativement : « Agis de façon que les effets de ton action ne soient pas destructeurs pour la possibilité future d'une telle vie » ; ou simplement : « Ne compromets pas les conditions pour la survie indéfinie de l'humanité sur terre » ; ou encore, formulé de nouveau positivement : « Inclus dans ton choix actuel l'intégrité future de l'homme comme objet secondaire de ton vouloir ». »
+ >> Hans **Jonas**, _Le principe responsabilité_ (1979)
+
+
+ ---
+ <!-- _class:  souspartie-->
+ ## B. Les éthiques environnementales
+
+---
+<!-- _class:  -->
+1) Une critique de **l'anthropocentrisme**
+2) Une défense de la **valeur intrinsèque** de la nature
+
+
+---
+<!-- _class: fp -->
+<style scoped>
+h3{margin-bottom:0; margin-top:0.25em!important}
+</style>
+### Quelques arguments :
+
+1) L'argument pragmatique : inefficacité de la défense de la nature sans reconnaissance de sa valeur intrinsèque
+2) L'argument esthétique
+3) L'argument du dernier homme (Richard Routley)
+4) L'argument moral de l'extension du statut moral à la nature
+5) L'argument métaphysique du Soi relationnel (Arne Næss)
+6) L'argument politique de la critique de la domination
