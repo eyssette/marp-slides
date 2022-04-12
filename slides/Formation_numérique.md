@@ -370,8 +370,8 @@ Risques possibles :
 ol ul {margin-left:-40px;}
 </style>
 1) Usages ordinaires
-	* Utiliser un logiciel de dessin [:link:](https://excalidraw.com/) [:link:](https://docs.google.com/drawings/u/0/create)
-	* Utiliser un logiciel simple pour faire une carte mentale [:link:](http://mindmaps.app/) [:link:](https://coggle.it/) [:link:](https://www.zenmindmap.com/) [:link:](https://gitmind.com/)
+	* Utiliser un logiciel de dessin [:link:](https://excalidraw.com/) [:link:](https://docs.google.com/drawings/u/0/create) [:link:]( [🔗](https://www.tldraw.com/))
+	* Utiliser un logiciel simple pour faire une carte mentale [:link:](http://mindmaps.app/) [:link:](https://coggle.it/) [:link:](https://www.zenflowchart.com/) [:link:](https://gitmind.com/)
 	* Utiliser un logiciel simple qui convertit du texte en une carte mentale [:link:](https://tobloef.com/text2mindmap/) [:link:](https://flowchart.fun/)
 2) Usages avancés
 	* Créer des schémas pour représenter des arguments [:link:](https://eyssette.github.io/argument-map/) [:link:](http://argument.mindmup.com) [:link:](https://argdown.org/)
@@ -569,7 +569,7 @@ ol ul {margin-left:-30px}
 <!-- _class: etape fp -->
 ### f) Faire travailler les élèves sur des exercices
 
-1) Faire ou faire des exercices en ligne (pour vérifier la compréhension, pour des révisions) : avec LearningApps [:link:](https://learningapps.org/), avec Digistorm [:link:](https://digistorm.app/), avec la QuiZinière [:link:](https://www.quiziniere.com/), avec H5P sur l'ENT [:link:](https://www.skolengo.com/fr/blog/exerciseur-skolengo) ou via Digiquiz [:link:](https://ladigitale.dev/digiquiz/), avec Pronote [:link:](https://www.index-education.com/fr/tutoriels-video-pronote-1795-29-donner-un-qcm-a-faire-depuis-le-cahier-de-textes-espace-professeurs.php), avec GoogleForms [:link:](https://support.google.com/docs/answer/7032287?hl=fr)
+1) Faire ou faire des exercices en ligne (pour vérifier la compréhension, pour des révisions) : avec Text2quiz [:link:](http://text2quiz.vercel.app/), avec LearningApps [:link:](https://learningapps.org/), avec Digistorm [:link:](https://digistorm.app/), avec la QuiZinière [:link:](https://www.quiziniere.com/), avec H5P sur l'ENT [:link:](https://www.skolengo.com/fr/blog/exerciseur-skolengo) ou via Digiquiz [:link:](https://ladigitale.dev/digiquiz/), avec Pronote [:link:](https://www.index-education.com/fr/tutoriels-video-pronote-1795-29-donner-un-qcm-a-faire-depuis-le-cahier-de-textes-espace-professeurs.php), avec GoogleForms [:link:](https://support.google.com/docs/answer/7032287?hl=fr)
 2) Créer un parcours pédagogique en ligne complet avec des exercices auto-correctifs [:link:](https://sites.google.com/view/eyssette2021tg/s%C3%A9quence-3-%C3%A0-distance/chapitre-1-quest-ce-qui-fait-la-valeur-dune-%C5%93uvre-dart?authuser=0)
 
 ---
