@@ -72,9 +72,9 @@ Deuxième partie
 
 
 ---
-<!-- _class: definition fpp -->
+<!-- _class: definition fp -->
 <style scoped>
-p:nth-of-type(1){border:none; margin-bottom:0; padding:0}
+p:nth-of-type(1){border:none; margin-bottom:0; padding:0;}
 h3{margin-top:0.25em}
 </style>
 Nous allons discuter ici la thèse du **déterminisme technique**.
@@ -84,16 +84,19 @@ Nous allons discuter ici la thèse du **déterminisme technique**.
 - Le **déterminisme technique** est l'idée que l'introduction de certains dispositifs techniques détermine, ou du moins participe, à produire des transformations importantes dans l'économie, la société, les individus eux-mêmes, ou encore l'environnement
 
 ---
-<!-- _class: etape -->
-### 1) Une transformation de <br>l'économie et de la société ?
+<!-- _class: souspartie -->
+<style scoped>
+h2{font-size:1.6em}
+</style>
+## A. Une transformation<br>de l'économie et<br> de la société ? 
 
 ---
 
 On ne peut pas parler abstraitement des effets possibles de la technique sur l'économie et la société. Sur cette question, il y a plus précisément, quatre débats intéressants.
 
 ---
-<!-- _class:  -->
-### a) La mécanisation (XIXe siècle)
+<!-- _class: etape -->
+### 1) La mécanisation (XIXe siècle)
 
 - Dans quelle mesure l'introduction de machines dans le travail à partir du XIXe siècle change-t-elle les conditions de travail ?
 
@@ -127,8 +130,12 @@ L'ouvrier est dépossédé de tout savoir-faire. Le travail se réduit à un ges
 ![](../../images/modern-times.png)
 
 ---
-<!-- _class: fppp -->
-### b) Les TIC au XXe siècle
+<!-- _class: etape -->
+### 2) Les TIC au XXe siècle
+
+
+---
+<!-- _class: fpppp -->
 
 Au XXe siècle, l'organisation du travail se modifie, à partir des années 60-70. On parle de post-taylorisme, de **post-fordisme**, ou parfois de toyotisme en généralisant le mode de production inventé par Toyota à cette période.
 
@@ -159,33 +166,41 @@ extrait du documentaire _Attention Danger Travail_ [+](https://drive.google.com/
 
 Usage de la commande vocale pour les préparateurs de commande : extrait du documentaire _Travail, ton univers impitoyable_ [+](https://youtu.be/s5uHC6TN2wo?t=1100)
 
+
+---
+<!-- _class: etape -->
+### 3) L'IA au XXIe siècle
+
 ---
 <!-- _class: entete discussion fppp -->
 <style scoped>
-    p:nth-of-type(1) {font-size:110%;}
-    p:nth-of-type(2) {margin-top:-35px;}
-    ul{margin-top:-35px}
+    p:nth-of-type(1) {margin-top:5px; padding:0 60px}
+    ul{margin-top:-35px; padding:0 60px}
 </style>
 ### Discussion
-
-**c) L'IA au XXIe siècle**
 
 Le développement contemporain de l'intelligence artificielle semble pouvoir lui aussi transformer l'économie et la structure du travail.
 
 - Le travail des êtres humains pourra-t-il être effectué par des machines intelligentes ?
 - Si une telle évolution est possible, faut-il s'en réjouir ou bien s'en inquiéter ?
 
+
+---
+<!-- _class: etape -->
+### 4) De nouveaux dispositifs <br>de contrôle social ?
+
 ---
 <style scoped>
     h3 {text-align:justify;}
     </style>
-### d) De nouveaux dispositifs de contrôle social ?
 
 Nous nous sommes surtout focalisés sur la manière dont la technique peut transformer l'économie, mais de manière générale, les nouvelles technologies semblent rendre possibles de nouvelles formes de contrôle social.
 
 ---
 <!-- _class: entete discussion fppp -->
-
+<style scoped>
+p, ul {padding:0 60px}
+</style>
 ### Discussion
 
 Dans la science-fiction, le genre des dystopies a souvent imaginé des sociétés dont les individus sont sous le contrôle de certaines technologies.
@@ -213,8 +228,8 @@ Un épisode de la série _Black Mirror_
 
 
 ---
-<!-- _class: etape -->
-### 2) Une transformation des<br> individus eux-mêmes ?
+<!-- _class: souspartie -->
+## B. <br>Une transformation des<br> individus eux-mêmes ? <!-- fit -->
 
 ---
 

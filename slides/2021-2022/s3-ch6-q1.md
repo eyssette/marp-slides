@@ -227,9 +227,9 @@ h3{margin-bottom:0; margin-top:0.25em!important}
 </style>
 ### Quelques arguments :
 
+1) L'argument moral de l'extension du statut moral à la nature
 1) L'argument pragmatique : la défense de l'environnement ne serait efficace que si l'on reconnaît la valeur intrinsèque de la nature
-2) L'argument esthétique
-3) L'argument du dernier homme (Richard Routley)
-4) L'argument moral de l'extension du statut moral à la nature
-5) L'argument métaphysique du Soi relationnel (Arne Næss)
-6) L'argument politique de la critique de la domination
+1) L'argument du dernier homme (Richard Routley)
+1) L'argument esthétique
+1) L'argument métaphysique du Soi relationnel (Arne Næss)
+1) L'argument politique de la critique de la domination
