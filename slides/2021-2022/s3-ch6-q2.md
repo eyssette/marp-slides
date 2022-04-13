@@ -67,22 +67,21 @@ Bergson suggère en ce sens qu'on devrait nommer notre espèce _homo faber_ plut
 
 ---
 <!-- _class: partie -->
-#
+# II –<br>Des transformations<br> inquiétantes ? <!-- fit -->
 Deuxième partie
 
 
 ---
-<!-- _class:  -->
-
-Nous allons discuter ici la thèse
-du **déterminisme technique**.
-
----
-<!-- _class: definition fppp -->
+<!-- _class: definition fpp -->
+<style scoped>
+p:nth-of-type(1){border:none; margin-bottom:0; padding:0}
+h3{margin-top:0.25em}
+</style>
+Nous allons discuter ici la thèse du **déterminisme technique**.
 
 ### Définition
 
-- Le déterminisme technique est l'idée que l'introduction de certains dispositifs techniques détermine, ou du moins participe, à produire des transformations importantes dans l'économie, la société, les individus eux-mêmes, ou encore l'environnement
+- Le **déterminisme technique** est l'idée que l'introduction de certains dispositifs techniques détermine, ou du moins participe, à produire des transformations importantes dans l'économie, la société, les individus eux-mêmes, ou encore l'environnement
 
 ---
 <!-- _class: etape -->
@@ -96,9 +95,7 @@ On ne peut pas parler abstraitement des effets possibles de la technique sur l'�
 <!-- _class:  -->
 ### a) La mécanisation (XIXe siècle)
 
-L'introduction de machines participe à la transformation du travail à partir du XIXe siècle.
-
-- La description que Marx fait de ce nouveau mode de production vous semble-t-elle pertinente ?
+- Dans quelle mesure l'introduction de machines dans le travail à partir du XIXe siècle change-t-elle les conditions de travail ?
 
 ---
 <!-- _class: citationM1 fm -->
