@@ -17,9 +17,11 @@ https://eyssette.github.io/
 
 ---
 <!-- _class: i1t1 vertical -->
-![](https://img.lemde.fr/2019/01/30/0/0/4000/2666/1328/0/45/0/e2cbe08_ZSUkM8uwp-RLIugIiO_nKshD.JPG)
+[![](https://img.lemde.fr/2019/01/30/0/0/4000/2666/1328/0/45/0/e2cbe08_ZSUkM8uwp-RLIugIiO_nKshD.JPG)](https://video.link/w/yismd)
 
 Le transhumanisme
+
+<!-- https://www.youtube.com/watch?v=bTMS9y8OVuY -->
 
 ---
 <!-- _class: partie -->
@@ -48,8 +50,9 @@ Bergson suggère en ce sens qu'on devrait nommer notre espèce _homo faber_ plut
 
 ---
 <!-- _class: i1t0 -->
+[![](https://i.ibb.co/8dMCPcP/techniques-animaux-t.jpg)](https://www.youtube.com/playlist?list=PLyNuTVPEjAXLqqBHSoHa_KtT1VNpXio9e)
 
-![](https://i.ibb.co/8dMCPcP/techniques-animaux-t.jpg)
+<!-- [:link:](https://ladigitale.dev/digiplay/#/v/6257af41a5787) -->
 
 ---
 <!-- _class: fmmmmmmm-->
@@ -62,7 +65,7 @@ Bergson suggère en ce sens qu'on devrait nommer notre espèce _homo faber_ plut
 |<span data-marpit-fragment="10">**Les finalités visées**</span>|<span data-marpit-fragment="11">usage déterminé / finalité simplement biologique</span>|<span data-marpit-fragment="12">usage complexe / diversité <br>des finalités</span>|
 
 
-<!-- Les techniques humaines manifestent l'inventivité spécifique des êtres humains -->
+<!-- Les techniques humaines sont l'expression de l'inventivité spécifique des êtres humains -->
 
 
 ---
@@ -90,9 +93,7 @@ h2{font-size:1.6em}
 </style>
 ## A. Une transformation<br>de l'économie et<br> de la société ? 
 
----
-
-On ne peut pas parler abstraitement des effets possibles de la technique sur l'économie et la société. Sur cette question, il y a plus précisément, quatre débats intéressants.
+<!-- On ne peut pas parler abstraitement des effets possibles de la technique sur l'économie et la société. Sur cette question, il y a plus précisément, quatre débats intéressants. -->
 
 ---
 <!-- _class: etape -->
@@ -101,50 +102,51 @@ On ne peut pas parler abstraitement des effets possibles de la technique sur l'�
 - Dans quelle mesure l'introduction de machines dans le travail à partir du XIXe siècle change-t-elle les conditions de travail ?
 
 ---
-<!-- _class: citationM1 fm -->
+<!-- _class: citationC fp -->
+<style scoped>
+figure {margin-left:-100px!important}
+</style>
 
-![](https://upload.wikimedia.org/wikipedia/commons/1/14/Karl-Marx.jpg)
+![bg left:25%](https://upload.wikimedia.org/wikipedia/commons/d/d4/Karl_Marx_001.jpg)
 
 > « Dans la manufacture et le métier, l’ouvrier se sert de son outil ; dans la fabrique il sert la machine […] [L]e travail mécanique […] empêche le jeu varié des muscles et comprime toute activité libre du corps et de l’esprit. […] [L]a machine ne délivre pas l’ouvrier du travail mais dépouille le travail de son intérêt. […] L'habileté de l'ouvrier apparaît chétive devant la science prodigieuse, les énormes forces natu­relles, […] incorporées au système mécanique […]. La subordination technique de l'ouvrier […] [crée] une discipline de caserne »
 >> Karl **Marx**, _Le Capital_, I, XV, IV
 
----
-
-La mécanisation du travail va être principalement théorisée par Taylor, puis Ford, et donner lieu à une forme d'organisation du travail que l'on nomme le **taylorisme** (ou le fordisme), et qui repose avant tout sur une **double division du travail** : une division verticale et une division horizontale du travail.
 
 ---
-<!-- _class: definition fm -->
-### Définition
+<!-- _class: i1t0 pp-->
+![](../../images/modern-times.png)
 
-- Dans le taylorisme, il y a une **division verticale** du travail, entre les ingénieurs, qui conçoivent le produit et la manière la plus efficace de le produire, et les ouvriers, qui doivent simplement exécuter les tâches qu'on leur indique de faire.
-- Il y a aussi une **division horizontale** du travail qui décompose le processus de production en une série d'opérations partielles, afin que l'ouvrier n'ait qu'une tâche élémentaire à accomplir, de la manière la plus rapide possible.
+
+---
+<!-- _class: i1t0 pp -->
+
+![](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/taylorisme-fordisme-double-division-du-travail.dot.svg)
 
 ---
 <!-- _class: fppppp -->
 
 L'ouvrier est dépossédé de tout savoir-faire. Le travail se réduit à un geste mécanique, et il est soumis au contrôle d'une hiérarchie qui cherche à le rendre le plus productif possible.
 
-- Comment peut-on utiliser le film de Charlie Chaplin, _Les temps modernes_ (_cf._ diapositive suivante), pour décrire le taylorisme ?
----
-<!-- _class: i1t0 pp-->
-![](../../images/modern-times.png)
-
 ---
 <!-- _class: etape -->
 ### 2) Les TIC au XXe siècle
-
 
 ---
 <!-- _class: fpppp -->
 
 Au XXe siècle, l'organisation du travail se modifie, à partir des années 60-70. On parle de post-taylorisme, de **post-fordisme**, ou parfois de toyotisme en généralisant le mode de production inventé par Toyota à cette période.
 
-Au lieu de produire des stocks de marchandises standardisées, les entreprises cherchent à s'adapter à des demandes variables et fluctuantes. C'est le principe du flux tendu ou du juste-à-temps (gestion _lean_).
+
+---
+<!-- _class: i1t0 -->
+![](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/post-fordisme-toyotisme-cinq-z%C3%A9ros.dot.svg)
+
 
 ---
 <!-- _class: fp -->
 
-Ce système suppose une transmission rapide de l'information et un contrôle, idéalement en temps réel, de la qualité du travail. La généralisation et l'extension d'un tel système n'aurait pas été possible sans l'usage des nouvelles technologies de l'information et de la communication, qui participent donc à la transformation de l'organisation du travail.
+La généralisation et l'extension d'un tel système n'aurait pas été possible sans l'usage des nouvelles technologies de l'information et de la communication, qui participent donc à la transformation de l'organisation du travail.
 
 - De manière générale, et ensuite à partir des exemples des deux diapositives suivantes : que peut-il y avoir d'inquiétant dans cette transformation du travail ?
 
@@ -254,8 +256,10 @@ C'est par exemple la thèse d'Albert Borgmann (_cf._ diapositive suivante).
 ---
 <!-- _class: entete discussion f -->
 <style scoped>
-    p {margin-top:-20px; padding-top:0}
-    </style>
+p{margin-top:-20px;
+padding:0px 60px!important;}
+ul {padding:0px 60px!important;}
+</style>
 
 ### Discussion
 
