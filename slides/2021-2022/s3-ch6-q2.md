@@ -84,7 +84,7 @@ Nous allons discuter ici la thèse du **déterminisme technique**.
 
 ### Définition
 
-- Le **déterminisme technique** est l'idée que l'introduction de certains dispositifs techniques détermine, ou du moins participe, à produire des transformations importantes dans l'économie, la société, les individus eux-mêmes, ou encore l'environnement
+Le **déterminisme technique** est l'idée que l'introduction de certains dispositifs techniques détermine, ou du moins participe, à produire des transformations importantes dans l'économie, la société, les individus eux-mêmes, ou encore l'environnement
 
 ---
 <!-- _class: souspartie -->
@@ -131,6 +131,7 @@ L'ouvrier est dépossédé de tout savoir-faire. Le travail se réduit à un ges
 ---
 <!-- _class: etape -->
 ### 2) Les TIC au XXe siècle
+TIC : Technologies de l'information<br> et de la communication
 
 ---
 <!-- _class: fpppp -->
@@ -191,12 +192,7 @@ Le développement contemporain de l'intelligence artificielle semble pouvoir lui
 <!-- _class: etape -->
 ### 4) De nouveaux dispositifs <br>de contrôle social ?
 
----
-<style scoped>
-    h3 {text-align:justify;}
-    </style>
-
-Nous nous sommes surtout focalisés sur la manière dont la technique peut transformer l'économie, mais de manière générale, les nouvelles technologies semblent rendre possibles de nouvelles formes de contrôle social.
+<!-- Nous nous sommes surtout focalisés sur la manière dont la technique peut transformer l'économie, mais de manière générale, les nouvelles technologies semblent rendre possibles de nouvelles formes de contrôle social. -->
 
 ---
 <!-- _class: entete discussion fppp -->
@@ -240,40 +236,25 @@ On peut se demander si la technologie peut avoir un effet sur la psychologie des
 - Certaines techniques peuvent-elles avoir un effet sur nos désirs, sur nos manières de penser … ?
 
 ---
-<!-- _class: fppp -->
-Les théories critiques de la société de consommation ont souvent cherché à montrer que la multiplication des produits technologiques nous conduit à une forme de vie consumériste, appauvrie et désengagée qui nous détourne d'un lien riche et engagé avec le monde et les autres.
-
-C'est par exemple la thèse d'Albert Borgmann (_cf._ diapositive suivante).
-
-- Que pensez-vous de cette affirmation de Borgmann ? Est-ce convaincant ?
-
----
-<!-- _class: citationL fmm -->
-
->« Un dispositif technique […] ne requiert pas notre engagement : il fonctionne pour nous, sans nécessiter d’implication de notre part. […] Les dispositifs incitent à la simple consommation […] La technologie cherche à enrichir la vie humaine par les agréments qu’elle fournit, mais il est difficile de voir comment la simple relation consumériste à des agréments peut contribuer à une existence humaine pleine de sens. […] L’incarnation la plus représentative de ce mode d’existence consumériste nous est donné par l’individu vautré dans son canapé, qui passe des heures à regarder, seul, de la télévision le plus souvent de pur divertissement : son existence est privée de tout engagement réel avec le monde ou avec d’autres personnes, comme celui qu’impliqueraient par exemple une conversation, la lecture d’un livre, ou un jeu entre amis […] Borgmann décrit l’émergence de ce mode d’existence consumériste comme une ironie de la technologie : elle promet l’enrichissement, mais ne conduit qu’à une vie appauvrie. »
->> Peter-Paul **Verbeek**, _What Things Do_, ch. 6
-
----
-<!-- _class: entete discussion f -->
+<!-- _class: fpppp -->
 <style scoped>
-p{margin-top:-20px;
-padding:0px 60px!important;}
-ul {padding:0px 60px!important;}
+span, ol {font-size:0.97em!important}
+</style>
+**Rappel** : _cf._ cours sur le bonheur <span>[(Q2&nbsp;:&nbsp;&laquo;&nbsp;Désirer, est-ce souffrir ? &raquo;)](https://eyssette.github.io/marp-slides/slides/2021-2022/s1-ch1-q2-Desirer-est-ce-souffrir.html#18)</span>
+
+1) L'image du tonneau percé (Platon)
+2) La critique de la société de consommation (court métrage : _Happiness_)
+3) Analyse critique de l'image publicitaire (Dior)
+4) Le jeu _Fortnite_ : les techniques de rétention des joueurs, l'économie de l'attention
+5) La série documentaire _Dopamine_ et notamment l'épisode sur _Snapchat_
+
+---
+<!-- _class: citationC fp-->
+<style scoped>
+figure{margin-right:-100px!important}
 </style>
 
-### Discussion
-
-Les thèses générales sur la société de consommation se heurtent très vite à des objections, mais l'analyse peut se focaliser sur des technologies particulières.
-
-Il y a en effet des technologies contemporaines de captation de l'attention qui posent de manière plus vive la question des effets de la technique sur la psychologie des individus.
-
-- Quels exemples peut-on donner de technologies de captation de l'attention ?
-- Ces technologies représentent-elles un problème important selon vous ?
-
----
-<!-- _class: citationM1 fm-->
-
-![](https://extranet.editis.com/it-yonixweb/IMAGES/DEC/P3/9782707186621.JPG)
+![bg left:30%](https://cdn.radiofrance.fr/s3/cruiser-production/2016/02/eea6be7a-34f0-4521-820e-418d3fe21a55/838_crawford_credit_robert_adamo.webp)
 
 >« Notre environnement technologique en pleine évolution engendre  un besoin de stimulation toujours croissant. […] Notre vie mentale est plus décousue, et plus vulnérable aux sollicitations du moments. […] Notre dispersion mentale ne peut pas simplement être attribuée à la publicité, à Internet, … […] il s’agit d’un phénomène plus global qui relève de tout un style de vie. […] Si nous ne sommes pas capables de maîtriser l'orientation de notre attention, nous sommes à la merci de ceux qui souhaitent l'orienter en fonction de leurs intérêts. »
 >> Matthew B. **Crawford**, _Contact_
