@@ -184,8 +184,8 @@ Usage de la commande vocale pour les préparateurs de commande : extrait du docu
 
 Le développement contemporain de l'intelligence artificielle semble pouvoir lui aussi transformer l'économie et la structure du travail.
 
-- Le travail des êtres humains pourra-t-il être effectué par des machines intelligentes ?
-- Si une telle évolution est possible, faut-il s'en réjouir ou bien s'en inquiéter ?
+* Le travail des êtres humains pourra-t-il être effectué par des machines intelligentes ?
+* Si une telle évolution est possible, faut-il s'en réjouir ou bien s'en inquiéter ?
 
 
 ---
