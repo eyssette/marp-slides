@@ -129,10 +129,14 @@ figure {margin-left:-100px!important}
 
 L'aliénation du travail désigne une forme de dépossession de soi. Notre travail ne nous appartient plus. -->
 
----
-<!-- _class: i1t0 pp -->
 
-![](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/taylorisme-fordisme-double-division-du-travail.dot.svg)
+---
+<!-- _class: pp -->
+<style scoped>
+iframe {margin:auto; border:none!important}
+</style>
+
+<iframe height="90%" width="90%" scrolling="no" src="https://mymarkmap.vercel.app/##%20Double%20division%C2%A0%5C%5C%20du%20travail%0A%0A##%20Division%20%5C%5C%20%3Cu%3Everticale%3C/u%3E%20%5C%5C%20du%20travail%20%3C!--fold--%3E%0A%0A-%20Les%20**ing%C3%A9nieurs**%20con%C3%A7oivent%20%5C%5C%20le%20produit%20et%20la%20mani%C3%A8re%20la%20%5C%5C%20plus%20efficace%20de%20le%20produire%0A%0A-%20Les%20**ouvriers**%20doivent%0Asimplement%20ex%C3%A9cuter%0Ales%20t%C3%A2ches%20qu'on%20leur%0Aindique%20de%20faire%0A%0A##%20Division%20%5C%5C%20%3Cu%3Ehorizontale%3C/u%3E%20%5C%5C%20du%20travail%20%3C!--fold--%3E%0A%0A-%20Le%20processus%20de%20production%0Aest%20d%C3%A9compos%C3%A9%20en%20**une%20s%C3%A9rie%0Ad'op%C3%A9ration%20partielles**.%0A%0A-%20L'ouvrier%20doit%20accomplir%20des%0A**t%C3%A2ches%20%C3%A9l%C3%A9mentaires,%0Ar%C3%A9p%C3%A9titives%20et%20cadenc%C3%A9es**"></iframe>
 
 ---
 
@@ -160,8 +164,12 @@ Au XXe siècle, l'organisation du travail se modifie, à partir des années 60-7
 
 
 ---
-<!-- _class: i1t0 -->
-![](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/post-fordisme-toyotisme-cinq-z%C3%A9ros.dot.svg)
+<!-- _class: pp -->
+<style scoped>
+iframe {margin:auto; border:none!important}
+</style>
+
+<iframe height="90%" width="90%" scrolling="no" src="https://mymarkmap.vercel.app/#---%0AmaxWidth:%20140%0A---%0A%0A#%20Les%20cinq%20z%C3%A9ros%0A%0A##%20Z%C3%A9ro%20%7B%7Bd%C3%A9lai%7D%7D%0A%0A-%20%7B%7BPrincipe%20du%20flux%20tendu%20(du%20%E2%80%9Cjuste%20%C3%A0%20temps%E2%80%9D)%7D%7D%0A%0A##%20Z%C3%A9ro%20%7B%7Bstock%7D%7D%0A%0A-%20%7B%7BPas%20de%20stock%20de%20marchandises%20standardis%C3%A9es%20(gestion%20_lean_)%7D%7D%0A%0A##%20Z%C3%A9ro%20%7B%7Bpapier%7D%7D%0A%0A-%20%7B%7BTransmission%20rapide%20de%20l'information%7D%7D%0A%0A##%20Z%C3%A9ro%20%7B%7Bpanne%7D%7D%20%5C%5C%20&%20z%C3%A9ro%20%7B%7Bd%C3%A9faut%7D%7D%0A%0A-%20%7B%7BContr%C3%B4le%20permanent%20de%20la%20qualit%C3%A9%20du%20travail%7D%7D%0A%0A"></iframe>
 
 
 ---
