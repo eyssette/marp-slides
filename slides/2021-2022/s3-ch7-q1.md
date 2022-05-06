@@ -148,7 +148,7 @@ Première partie
 
 ---
 <!-- _class:  souspartie -->
-## B. Argument principal : <br>la structure du langage <!-- fit -->
+## A. Argument principal : <br>la structure du langage <!-- fit -->
 
 
 ---
@@ -159,6 +159,13 @@ La structure du langage humain permet d'exprimer un nombre de significations qua
 ---
 <!-- _class: etape -->
 ### 1. Les phonèmes
+
+<!-- 
+= les sons caractéristiques d'une langue
+Exemple de sons dans différentes langues
+
+Définition : Une unité de son, élémentaire, indécomposable, qui peut produire une différence de sens
+ -->
 
 ---
 <!-- _class: i1t0 -->
@@ -176,11 +183,16 @@ La structure du langage humain permet d'exprimer un nombre de significations qua
 <!-- _class: etape -->
 ### 2. Les morphèmes
 
+<!-- 
+Une unité de sens, élémentaire, indécomposable, qui permet de construire des mots
+ -->
+
 ---
 <!-- _class: -->
 “inacceptables”
 
 <span data-marpit-fragment="1">“anticonstitutionnellement”</span>
+<!-- intergouvernementalisations -->
 
 <span data-marpit-fragment="2">“Rindfleisch­etikettierungs­überwachungs­aufgaben­übertragungs­gesetz” : loi sur le transfert des obligations de surveillance de l'étiquetage de la viande bovine</span>
 
@@ -198,6 +210,9 @@ Le cas des langues agglutinantes et des langues polysynthétiques
 ---
 <!-- _class: etape -->
 ### 3. La syntaxe
+
+<!-- les règles qui permettent de construire une phrase correcte du point de vue grammatical -->
+
 
 ---
 <!-- _class: i1t0 -->
@@ -294,6 +309,12 @@ img {width:750px;}
 #### Nécessité de faire des inférences<br> en fonction du contexte
 ![](https://i.ibb.co/syfG4q6/Capture-d-e-cran-2021-03-31-a-04-35-05.png)
 
+<!-- 
+inférences, raisonnements, suppositions
+ambiguïté => interprétation
+malentendu, incompréhension possibles
+ -->
+
 ---
 <!-- _class: f -->
 La communication par le biais de signes linguistiques suppose elle aussi de nombreuses **inférences** : il ne suffit pas de connaître le sens des mots pour pouvoir **comprendre l'implicite** et **décrypter l'intention du locuteur**.
@@ -331,3 +352,6 @@ Quelques exemples :
 //  Un ensemble d'étiquettes
 //        générales : valent pour plusieurs choses, situations, personnes => suppriment la singularité du réel
 //        abstraites : ne retiennent du réel qu'un aspect => suppriment les nuances et la richesse du réel -->
+
+
+<!-- chacun de nous a sa manière d’aimer et de haïr, et cet amour, cette haine, reflètent sa personnalité tout entière. Cependant le langage désigne ces états par les mêmes mots chez tous les hommes aussi n’a-t-il pu fixer que l’aspect objectif et impersonnel de l’amour, de la haine, et des mille sentiments qui agitent l’âme. Nous jugeons du talent d’un romancier à la puissance avec laquelle il tire du domaine public, où le langage les avait fait descendre, des sentiments et des idées auxquels il essaie de rendre, par une multiplicité de détails qui se juxtaposent, leur primitive et vivante individualité -->
