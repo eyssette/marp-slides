@@ -316,19 +316,13 @@ malentendu, incompréhension possibles
  -->
 
 ---
-<!-- _class: f -->
-La communication par le biais de signes linguistiques suppose elle aussi de nombreuses **inférences** : il ne suffit pas de connaître le sens des mots pour pouvoir **comprendre l'implicite** et **décrypter l'intention du locuteur**.
+<!-- _class: i1t1 vertical fm -->
+<style scoped>
+p {text-align:justify!important; padding: 0px 60px}
+</style>
+La communication par le biais de signes linguistiques suppose elle aussi de nombreuses **inférences** : il faut comprendre **l'implicite** en fonction du contexte, afin de décrypter **l'intention** du locuteur.
 
-<div data-marpit-fragment>
-
-Quelques exemples : 
-1. « Peux-tu me passer le sel ? »
-2. « Tu peux changer de disque ! »
-3. « J'ai un stylo. »
-4. « Monsieur Zieuvifs regardait tous ses élèves avec admiration et émotion. Ils étaient tous en tenue, avec leurs ceintures noires, marron ou orange et l’applaudissaient chaleureusement.  »
-
-</div>
-
+[![](https://i.ibb.co/YZ2Gqcp/exact-instructions-challenge-t.jpg)](https://ladigitale.dev/digiplay/#/v/627fbeb7e9859)
 
 ---
 <!-- _class: souspartie -->
@@ -355,3 +349,10 @@ Quelques exemples :
 
 
 <!-- chacun de nous a sa manière d’aimer et de haïr, et cet amour, cette haine, reflètent sa personnalité tout entière. Cependant le langage désigne ces états par les mêmes mots chez tous les hommes aussi n’a-t-il pu fixer que l’aspect objectif et impersonnel de l’amour, de la haine, et des mille sentiments qui agitent l’âme. Nous jugeons du talent d’un romancier à la puissance avec laquelle il tire du domaine public, où le langage les avait fait descendre, des sentiments et des idées auxquels il essaie de rendre, par une multiplicité de détails qui se juxtaposent, leur primitive et vivante individualité -->
+
+
+---
+<!-- _class: i1t0 -->
+
+[![](https://i.ibb.co/HpJq5sK/langage-bergson.jpg)](https://mymarkmap.vercel.app/#https://github.com/eyssette/mindmap/blob/main/Langage-d-apr%C3%A8s-Bergson-HIDE.md)
+

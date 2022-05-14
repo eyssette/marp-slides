@@ -172,7 +172,7 @@ Deuxième partie
 
 |Techniques traditionnelles | Technologies<br>modernes |
 |:----------:|:---------:|
-<span data-marpit-fragment="1">Exploitation limitée <br>des ressources </span>|<span data-marpit-fragment="2"> Exploitation considérable <br>des ressources</span>
+<span data-marpit-fragment="1">Exploitation limitée <br>des ressources </span>|<span data-marpit-fragment="2"> Exploitation massive <br>des ressources</span>
 <span data-marpit-fragment="3">Portée locale </span>|<span data-marpit-fragment="4"> Portée globale</span>
 <span data-marpit-fragment="5">Effets temporaires, réversibles, cohérents avec les équilibres écosystémiques</span> | <span data-marpit-fragment="6">Effets durables, voire irréversibles, qui perturbent certains équilibres écosystémiques</span>
 <span data-marpit-fragment="7">Transformations peu profondes</span> | <span data-marpit-fragment="8">Transformations en profondeur </span>
@@ -206,8 +206,9 @@ Le **solutionnisme technologique** désigne l'idée qu'on peut toujours trouver 
 
 <!-- 
 Une nouvelle forme de responsabilité :
-- orientée vers le futur
-- soucieuse des conditions d'existence des êtres humains
+Responsabilité orientée vers le futur
+Responsabilité envers l'humanité tout entière
+Responsabilité qui implique des devoirs envers la nature, qui indirectement sont des devoirs envers les êtres humains
 -->
 
  ---
