@@ -26,17 +26,24 @@ Point de départ :
 
 ---
 <!-- _class: partie -->
-# I – C'est nous qui <br>exerçons un pouvoir<br> sur le langage <!-- fit -->
+<style scoped>
+h1 {padding:30px; margin-top:-0.2em!important}
+</style>
+# I – <br>Le langage ne semble pas <br>agir sur nous : il ne fait<br> qu'exprimer une pensée<!-- fit -->
 Première partie
 
+<!-- Le langage est un simple véhicule de notre pensée : il n'exerce pas de pouvoir sur nous
+
+Utiliser le langage, ce n'est pas agir, c'est simplement exprimer une pensée
+Le langage ne semble pas agir sur nous : il ne fait qu'exprimer une pensée
+
+Le langage n'est pas un 
+Le langage nous donne le pouvoir de nommer les choses et d'enrichir notre pensée
+ -->
 
 ---
 <!-- _class: souspartie -->
-## A. La distinction signe / signal
-
----
-<!-- _class:  -->
-Un signe linguistique n'est pas un signal qui déclenche un comportement
+## A. Langage humain ≠ <br> communication animale <!-- fit -->
 
 ---
 <!-- _class: i1t0 pp -->
@@ -62,26 +69,65 @@ Un signe linguistique n'est pas un signal qui déclenche un comportement
 
 
 ---
-<!-- _class: souspartie -->
-## B. Le langage est l'expression de notre pouvoir sur les choses
+<!-- _class: definition -->
+### Définition
+Un **signal** est un signe qui vise à déclencher un comportement
+
 
 ---
 <!-- _class:  -->
-Nous nous servons du langage comme un moyen pour nommer des choses et fixer notre pensée.
+Le langage humain ne se réduit pas à des signaux. Il est de l'ordre de la communication d'une pensée qui peut être interprétée et discutée.
+
 
 ---
-<!-- _class: i1t1 vertical fmmmmmm -->
+<!-- _class: souspartie -->
+## B. Le langage n'exerce pas <br> un pouvoir sur nous :<br> il nous donne du pouvoir <!-- fit -->
+
+
+<!-- Nous nous servons du langage comme un moyen pour nommer des choses et fixer notre pensée. -->
+
+
+---
+<!-- _class: etape -->
+### 1) Le langage nous donne le pouvoir de nommer les choses
+
+
+---
+<!-- _class: i1t0 -->
+
+[![](https://i.ibb.co/GVNH17d/trois-types-signes.png)](https://mymarkmap.netlify.app/#https://raw.githubusercontent.com/eyssette/mindmap/main/Trois-types-de-signes-FOLD.md)
+
+
+
+---
+<!-- _class: etape -->
+### 2) Le langage nous donne le pouvoir d'enrichir notre pensée
+
+
+---
+<!-- _class: citationC fmmmm-->
 <style scoped>
-img {width:800px; margin-top:15px!important;}
-table{border:1px grey solid!important; width:830px; padding:0;}
+blockquote blockquote {padding-top:8px}
+</style>
+![bg left:31%](https://upload.wikimedia.org/wikipedia/commons/0/08/Hegel_portrait_by_Schlesinger_1831.jpg)
+
+>« C'est dans les mots que nous pensons. Nous n'avons conscience de nos pensées déterminées et réelles que lors­que nous leur donnons [une] forme objective […]  On croit ordinairement, il est vrai, que ce qu'il y a de plus haut, c'est l'ineffable. Mais c'est là une opinion superficielle et sans fondement ; car, en réalité, l'ineffable, c'est la pensée obscure, la pensée à l'état de fermentation, et qui ne devient claire que lorsqu'elle trouve le mot. Ainsi le mot donne à la pensée son existence la plus haute et la plus vraie. Sans doute on peut se perdre dans un flux de mots sans saisir la chose. Mais la faute en est à la pensée imparfaite, indéterminée et vide, elle n'en est pas au mot. […] Par conséquent, l'intelligence, en se remplissant de mots, se remplit aussi de la nature des choses. »
+>>**Hegel**, _Encyclopédie des sciences philosophiques_, Philosophie de l'Esprit
+
+
+<!-- // Nous pouvons avoir l'impression que nous avons une intuition riche que nous ne parvenons pas à formuler.
+// Mais cette incapacité n'est que le signe d'une pensée en train de se construire.
+// C'est avec les mots que la pensée devient riche et précise.  -->
+
+---
+<!-- _class: i2t0 pp horizontal -->
+<style scoped>
+p:nth-of-type(1) img {object-position:-40px}
 </style>
 
+![](https://upload.wikimedia.org/wikipedia/commons/4/40/Medecine_Echographie.jpg)
 
-|Indices|Icônes|Symboles|
-|:-:|:-:|:-:|
-|![](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/D1206_manche_%C3%A0_air_J7.jpg/1600px-D1206_manche_%C3%A0_air_J7.jpg)|![](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/France_road_sign_A13b.svg/2560px-France_road_sign_A13b.svg.png)|![](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/France_road_sign_AB6.svg/2560px-France_road_sign_AB6.svg.png)|
-|Lien dans le réel lui&#8209;même : lien causal, succession temporelle, contiguïté spatiale|Lien de similarité, de ressemblance|Lien conventionnel : “l'arbitraire du signe”|
-
+![](https://upload.wikimedia.org/wikipedia/commons/d/d3/Quebrada_de_Cafayate%2C_Salta_%28Argentina%29.jpg)
 
 
 ---
@@ -262,28 +308,4 @@ table tH:nth-of-type(2) {padding-left:40px; padding-right:40px;}
 
 Une pensée sans mots pour l'exprimer reste une pensée obscure : le langage rend possible une pensée claire et précise
 
----
-<!-- _class: citationC fmmmm-->
-<style scoped>
-blockquote blockquote {padding-top:8px}
-</style>
-![bg left:31%](https://upload.wikimedia.org/wikipedia/commons/0/08/Hegel_portrait_by_Schlesinger_1831.jpg)
-
->« C'est dans les mots que nous pensons. Nous n'avons conscience de nos pensées déterminées et réelles que lors­que nous leur donnons [une] forme objective […]  On croit ordinairement, il est vrai, que ce qu'il y a de plus haut, c'est l'ineffable. Mais c'est là une opinion superficielle et sans fondement ; car, en réalité, l'ineffable, c'est la pensée obscure, la pensée à l'état de fermentation, et qui ne devient claire que lorsqu'elle trouve le mot. Ainsi le mot donne à la pensée son existence la plus haute et la plus vraie. Sans doute on peut se perdre dans un flux de mots sans saisir la chose. Mais la faute en est à la pensée imparfaite, indéterminée et vide, elle n'en est pas au mot. […] Par conséquent, l'intelligence, en se remplissant de mots, se remplit aussi de la nature des choses. »
->>**Hegel**, _Encyclopédie des sciences philosophiques_, Philosophie de l'Esprit
-
-
-<!-- // Nous pouvons avoir l'impression que nous avons une intuition riche que nous ne parvenons pas à formuler.
-// Mais cette incapacité n'est que le signe d'une pensée en train de se construire.
-// C'est avec les mots que la pensée devient riche et précise.  -->
-
----
-<!-- _class: i2t0 pp horizontal -->
-<style scoped>
-p:nth-of-type(1) img {object-position:-40px}
-</style>
-
-![](https://upload.wikimedia.org/wikipedia/commons/4/40/Medecine_Echographie.jpg)
-
-![](https://upload.wikimedia.org/wikipedia/commons/d/d3/Quebrada_de_Cafayate%2C_Salta_%28Argentina%29.jpg)
 
