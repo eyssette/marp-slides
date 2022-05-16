@@ -15,13 +15,19 @@ Cédric Eyssette (2021-2022)
 https://eyssette.github.io/
 
 
+
 ---
-<!-- _class:  -->
-Point de départ :
+<!-- _class: i1t0 -->
 
-* Quel effet peut avoir une insulte ?
-* Pourquoi le langage est-il important d'un point de vue politique ?
+[![](https://miro.medium.com/max/1400/0*IWmN1XWZ6VOyK_lo.jpg)](https://ladigitale.dev/digiplay/#/v/6281dfdb9f6b2)
 
+---
+<!-- _class: citationC fmmm-->
+
+![bg left:30%](https://upload.wikimedia.org/wikipedia/commons/b/bf/JudithButler2013.jpg)
+
+>« Le langage pourrait-il nous blesser si nous n'étions pas, en un sens, des êtres de langage, des êtres qui ont besoin du langage pour être ? Sommes-nous vulnérables parce que les termes du langage nous constituent ? […] Être insulté est l'une des premières formes de blessure linguistique dont nous avons l'expérience. Mais tous les noms que l'on nous donne ne sont pas injurieux. Recevoir un nom est aussi l'une des conditions de la constitution d'un sujet dans le langage […]. Le nom utilisé pour nous appeler ne nous fige pas purement et simplement. Recevoir un nom injurieux nous porte atteinte et nous humilie. Mais ce nom recèle par ailleurs une autre possibilité : recevoir un nom, c'est aussi recevoir la possibilité d'exister socialement. »
+>>Judith **Butler**, _Le Pouvoir des mots. Discours de haine et politique du performatif_
 
 
 ---
@@ -29,10 +35,20 @@ Point de départ :
 <style scoped>
 h1 {padding:30px; margin-top:-0.2em!important}
 </style>
-# I – <br>Le langage ne semble pas <br>agir sur nous : il ne fait<br> qu'exprimer une pensée<!-- fit -->
+# I – Le langage <br>comme pouvoir <br>que nous exerçons<!-- fit -->
 Première partie
 
-<!-- Le langage est un simple véhicule de notre pensée : il n'exerce pas de pouvoir sur nous
+---
+<!-- _class:  -->
+### Idée :
+
+Le langage n'exerce pas un pouvoir sur nous. C'est nous qui exerçons un pouvoir grâce au langage
+
+<!-- 
+
+Le langage ne semble pas <br>agir sur nous : il ne fait<br> qu'exprimer une pensée
+
+Le langage est un simple véhicule de notre pensée : il n'exerce pas de pouvoir sur nous
 
 Utiliser le langage, ce n'est pas agir, c'est simplement exprimer une pensée
 Le langage ne semble pas agir sur nous : il ne fait qu'exprimer une pensée
@@ -76,12 +92,12 @@ Un **signal** est un signe qui vise à déclencher un comportement
 
 ---
 <!-- _class:  -->
-Le langage humain ne se réduit pas à des signaux. Il est de l'ordre de la communication d'une pensée qui peut être interprétée et discutée.
+Le langage humain ne se réduit pas à des signaux. Il rend possible la communication d'une pensée qui peut être interprétée et discutée.
 
 
 ---
 <!-- _class: souspartie -->
-## B. Le langage n'exerce pas <br> un pouvoir sur nous :<br> il nous donne du pouvoir <!-- fit -->
+## B. Le langage étend <br>notre pouvoir de penser<!-- fit -->
 
 
 <!-- Nous nous servons du langage comme un moyen pour nommer des choses et fixer notre pensée. -->
@@ -132,84 +148,14 @@ p:nth-of-type(1) img {object-position:-40px}
 
 ---
 <!-- _class: partie -->
-# II – Le langage exerce <br>un pouvoir sur nous <!-- fit -->
+# II – Le langage <br>comme pouvoir <br>que nous subissons <!-- fit -->
 Deuxième partie
 
 
 ---
 <!-- _class: souspartie -->
-## A. Nous pouvons exercer un pouvoir sur les autres à travers le langage
+## A. Le langage peut appauvrir la pensée
 
-
----
-<!-- _class:  -->
-
-1) À travers le langage, nous pouvons chercher à exercer un pouvoir d'influence sur les autres
-2) À travers le langage nous définissons socialement les autres et nous-même
-
----
-<!-- _class: citationC fmmm-->
-
-![bg left:30%](https://upload.wikimedia.org/wikipedia/commons/b/bf/JudithButler2013.jpg)
-
->« Le langage pourrait-il nous blesser si nous n'étions pas, en un sens, des êtres de langage, des êtres qui ont besoin du langage pour être ? Sommes-nous vulnérables parce que les termes du langage nous constituent ? […] Être insulté est l'une des premières formes de blessure linguistique dont nous avons l'expérience. Mais tous les noms que l'on nous donne ne sont pas injurieux. Recevoir un nom est aussi l'une des conditions de la constitution d'un sujet dans le langage […]. Le nom utilisé pour nous appeler ne nous fige pas purement et simplement. Recevoir un nom injurieux nous porte atteinte et nous humilie. Mais ce nom recèle par ailleurs une autre possibilité : recevoir un nom, c'est aussi recevoir la possibilité d'exister socialement. »
->>Judith **Butler**, _Le Pouvoir des mots. Discours de haine et politique du performatif_
-
-
----
-<!-- _class: souspartie -->
-## B. Le langage exerce-t-il par lui-même un pouvoir sur nous ?
-
-
----
-<!-- _class: etape f -->
-### 1) L'hypothèse du <br>déterminisme linguistique
-
----
-<!-- _class: definition fppppppp -->
-### Définition
-- D'après le **déterminisme linguistique** (= hypothèse de Sapir-Whorf), la langue que nous utilisons pour penser a un effet sur notre manière de penser
-
-<!-- // La question est la suivante : 
-// - La langue que nous utilisons pour penser a-t-elle un effet sur notre manière de penser ? -->
-<!-- // Une grande partie de nos pensées sont verbales : nous utilisons des mots pour penser, nous formons des idées qui peuvent s'exprimer sous la forme de phrases.
-// Or : nous avons appris une langue particulière. La question est donc la suivante : 
-// Les caractéristiques syntaxiques et morphologiques d'une langue particulière nous font-ils penser d'une certaine manière ? -->
-
----
-<!-- _class: fpppppp -->
-<style scoped>
-ol {list-style-type:none;}
-ol li {margin-left:-50px;}
-ol li:nth-of-type(3) {margin-top:30px; border-top:1px solid grey; padding-top:30px;}
-</style>
-1) :x: Ce n'est pas une thèse sur la nécessité du **langage**, en général, pour pouvoir penser <!-- // Travaux contemporains sur les aphasiques et sur la cognition animale -->
-2) :x: Ce n'est pas une thèse sur l'effet de certaines **paroles** particulières (insultes, stéréotypes) sur notre esprit <!-- // cf. travaux sur la menace du stéréotype : même activité présentée comme un "dessin" ou comme des "maths" -->
-3) :white_check_mark: C'est l'idée que les caractéristiques particulières d'une **langue** (sa syntaxe, son lexique) ont un effet sur les manières de penser [<span>:link:</span>](![](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/evolution/determinisme-linguistique.svg))
-
----
-<!-- _class: fp -->
-
-Plusieurs points remettent en cause l'idée d'un **déterminisme linguistique fort** [<span>:link:</span>](https://blogterrain.hypotheses.org/12774) :
-1) Les similarités dans le fonctionnement cognitif des êtres humains et l'absence de frontières absolues entre les langues ;
-2) La possibilité d'avoir certaines pensées sans avoir les mots correspondants ;
-3) La difficulté de distinguer les effets de la langue elle-même et les effets de la culture environnante.
-
-+ Mais n'y a-t-il pas au moins une forme de **déterminisme linguistique faible** ?
-
-<!-- // http://htl.linguist.univ-paris-diderot.fr/_media/fortis/relativisme_2012_long-1.pdf -->
-<!-- // https://plato.stanford.edu/entries/culture-cogsci/#Lan
-// - https://plato.stanford.edu/entries/linguistics/#Who
-// - https://www.philo52.com/articles.php?lng=fr&pg=2032
-// - https://www.ted.com/talks/lera_boroditsky_how_language_shapes_the_way_we_think/transcript?language=fr#t-180267
-// Dehaene : https://www.college-de-france.fr/site/stanislas-dehaene/course-2020-09-15-09h30.htm -->
-
-<!-- // Cas de l'arithmétique : Pirahã 
-// https://www.sciencesetavenir.fr/fondamental/que-sont-les-nombres-sans-les-mots_22679 -->
-
----
-<!-- _class: etape fmmmmm-->
-### 2) Le langage peut appauvrir la pensée
 
 ---
 <!-- _class: i2t0 contain -->
@@ -225,87 +171,86 @@ Plusieurs points remettent en cause l'idée d'un **déterminisme linguistique fo
 
 
 ---
-<!-- _class: i1t0 pp -->
-
-![](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/formes-de-novlangue-2.svg)
-
+<!-- _class: definition fmm -->
+### Définition
+* La **novlangue** dans _1984_ est une simplification de la langue destinée à rendre impossible l'expression d'une critique sociale et politique
+* De manière générale, une **novlangue** est une manière de parler qui a pour fonction d'empêcher la contestation et de protéger un pouvoir établi.
 
 
 ---
-<!-- _class: fmmmmmmmmmm pp -->
+<!-- _class: etape -->
+### 1) Première forme de novlangue : <br>_parler pour ne rien dire_<br>(= la langue de bois)
+
+---
+<!-- _class: citationC fmmmmmmm -->
 <style scoped>
-h4{text-align:center; font-size:1.32em}
-h4 span {font-size:0.9em}
-table {margin-top:-20px;}
-table td {padding:5px;}
-table td:nth-of-type(1){width:250px}
-table td:nth-of-type(2){width:300px}
-table td:nth-of-type(3){padding-left:10px;}
-p{font-size:0.8em; text-align:center;}
+figure {margin-right:-140px!important}
+blockquote blockquote {margin:0; padding:0}
+section:after {color:white}
 </style>
-#### a/ Discours positif creux <span>(« Ne rien dire »)</span>
+![bg left:24%](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Jean-Philippe_Toussaint%2C_Florence_%28Italie%29%2C_2013.JPG/440px-Jean-Philippe_Toussaint%2C_Florence_%28Italie%29%2C_2013.JPG)
 
-_À vous de faire un discours :  « Mesdames, messieurs …_
+>« Des débats ont été engagés, dirait l'ambassadeur, des suggestions émises, des conclusions tirées et des programmes adoptés. Ces projets, qui ont été élaborés dans le sens de l’harmonisation des textes, visent, à travers une définition précise des études préalables, à renforcer la mise en œuvre des dispositions établies lors de la précédente réunion. Les mêmes dispositions tendent, du reste, à inspirer aux participants une programmation plus rigoureuse de leurs activités d’étude pour une meilleure maîtrise des projets, de manière à mettre en œuvre les modalités d’une amélioration de l’efficacité pratique des capacités. Compte tenu des grands espoirs nourris par les participants, ils se sont entendus pour conjuguer leurs efforts dans les domaines de la responsabilité, de la fidélité et de la cohésion. Davantage. Ils attendent – et l’expression est de la bouche même du président de la séance – une multiplication des efforts en vue de réaliser les principaux objectifs assignés. Vous avez un saladier ? Demanda Kabrowinski. Pardon ? Un saladier, répéta-t-il en mimant approximativement un saladier. »
+>>Jean-Philippe **Toussaint**, _La Salle de Bain_, éd. Minuit, p.34-35
 
-||||
-|--|--|--|
-|À l'heure de la mondialisation … |… notre mission est de savoir nous adapter aux transformations  de notre société … |… et je le dis en toute transparence : nous devons reconstruire le pacte républicain. »|
-|Les attentes des Français sont claires|… les réformes nécessaires doivent être mises en œuvre …|… c'est pourquoi je m'engage à mettre en place un véritable plan d'action courageux et ambitieux. »|
-|Dans un pays moderne comme la France …|… l'État se doit d'agir en rupture avec les méthodes du passé …|… je souhaite ainsi repenser les conditions d'un dialogue social juste. »|
-|La démocratie, nous le savons, est en crise, …|… notre responsabilité est grande et nous devons faire face aux enjeux de la conjoncture actuelle …|… je crois que nous pouvons relever ensemble ce défi. »|
 
 ---
-<!-- _class: fmmmmmm -->
+<!-- _class: i1t0 -->
+
+[![h-100](https://i.ytimg.com/vi/ZR_9szJKAPU/maxresdefault.jpg)](https://www.youtube.com/watch?v=ZR_9szJKAPU)
+
+---
+<!-- _class: etape fmmmmmm -->
 <style scoped>
-h4{text-align:center; font-size:1.4em}
-h4 span {font-size:0.9em}
-table{margin-top:10px}
-table td:nth-of-type(1) {width:540px; border-right:1px dashed grey; padding-right:30px}
-table tH:nth-of-type(2) {padding-left:40px; padding-right:40px;}
+h3 {padding-bottom:0.6em; margin-bottom:0.2em}
 </style>
-#### b/ Euphémisation <span>(« Ne pas dire »)</span>
+### 2) Deuxième forme de novlangue : <br>_masquer le réel ou un certain aspect de la réalité<br> qui remet en question un pouvoir établi_
 
-|Novlangue|Réalité masquée|
-|--|--|
-|« Les événements d'Algérie »||
-|« Un plan social »||
-|« Les collaborateurs »||
-|« Un drame familial »||
-|« Faire preuve de pédagogie » [<span>:link:</span>](https://www.youtube.com/watch?v=1kBy0NhalGw)||
-|« Le cinéaste franco-polonais est assigné en résidence en Suisse […] pour une affaire de moeurs qui remonte à plus de 30 ans » [<span>:link:</span>](https://www.liberation.fr/societe/2010/01/07/les-avocats-de-polanski-demandent-une-condamnation-par-contumace_603123)||
+1) « Les événements d'Algérie »
+1) Un « plan social »
+1) Les « collaborateurs »
+1) « Le cinéaste franco-polonais est assigné en résidence en Suisse […] pour une affaire de moeurs qui remonte à plus de 30 ans »
+1) Un « drame familial »
+1) La « vidéoprotection »
+1) Les « charges sociales »
+1) Les « réformes nécessaires »
+1) Les « émeutes urbaines »
+1) « Cette grève prend les français en otage »
+
+
+---
+<!-- _class: souspartie -->
+## B. Le langage s'inscrit<br> dans des formes<br> de domination <!-- fit -->
+
+
+---
+<!-- _class: etape -->
+### 1) Le langage est un <br>moyen d'influence
+
+---
+<!-- _class: definition -->
+### Définition
+La **rhétorique** est un ensemble de techniques du discours qui permettent de parler avec **éloquence**, avec aisance et d'être capable de persuader son auditoire.
+
+
+---
+<!-- _class: etape -->
+### 2) Le langage est <br>un marqueur social
 
 
 
 ---
-<!-- _class: f -->
+<!-- _class: definition -->
+### Définition
+La **sociolinguistique** étudie le langage d'un point de vue sociologique et s'intéresse aux variations dans l'usage d'une langue en fonction du contexte social
+
+---
+<!-- _class: i1t1 pp vertical -->
 <style scoped>
-h4{text-align:center; font-size:1.3em; margin-top:-10px!important;}
-h4 span {font-size:0.9em}
-table{margin-top:20px}
-table td:nth-of-type(1) {width:540px; border-right:1px dashed grey; padding-right:30px}
-table tH:nth-of-type(2) {padding-left:40px; padding-right:40px;}
+img{height:570px}
+p:nth-child(2){font-size:60%; padding:0; margin-top:-13px;}
 </style>
-#### c/ Effets de cadrage <span>(« Dire d'une certaine manière »)</span>
 
-|Novlangue|Angle adopté|
-|--|--|
-|« Les charges sociales »||
-|« La vidéoprotection »||
-|« Prendre les français en otage » [<span>:link:</span>](https://www.youtube.com/watch?v=E4kpR8NLFXQ)||
-|« Les réformes nécessaires »||
-|« Les émeutes urbaines » ||
+[![](../images/baisemains-et-mocassins.jpg)](https://www.dailymotion.com/video/x2kbvlx)
 
-<!-- // Des termes qui véhiculent une grille de lecture particulière, qui cadrent, orientent la discussion, qui empêchent le débat  -->
-
-
----
-<!-- _class: etape fmmmmm-->
-### 3) Le langage peut enrichir la pensée
-
----
-<!-- _class:  -->
-
-
-Une pensée sans mots pour l'exprimer reste une pensée obscure : le langage rend possible une pensée claire et précise
-
-
+Antoine Gallien, _Baisemains et mocassins_ (2005)<br/>Enquête de l'émission _Strip-tease_ sur la pratique<br/> des rallyes dans la haute bourgeoisie
