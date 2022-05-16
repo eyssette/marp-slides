@@ -25,7 +25,7 @@ p {margin-top:1em; text-align:center; font-size:1.3em}
 ---
 <!-- _class: i1t0 pp -->
 
-![](https://www.tate.org.uk/art/images/work/T/T07/T07573_10.jpg)
+![](http://web.archive.org/web/20220507004551if_/http://www.tate.org.uk/art/images/work/T/T07/T07573_10.jpg)
 
 
 ---
@@ -35,7 +35,7 @@ p:nth-of-type(1){width:350px!important; margin-left:-70px!important}
 ol {margin-left:20px!important; margin-top:-30px!important}
 ol li{width:410px!important; text-align:justify; margin-top:30px!important}
 </style>
-![](https://www.tate.org.uk/art/images/work/T/T07/T07573_10.jpg)
+![](http://web.archive.org/web/20220507004551if_/http://www.tate.org.uk/art/images/work/T/T07/T07573_10.jpg)
 
 1) Pourquoi cet objet ne semble-t-il pas, à première vue, être une œuvre d’art ? Qu’attendons-nous d’une œuvre d’art que nous ne retrouvons pas ici ?
 2) Quel est, à votre avis, le sens du geste de Duchamp ? <br>Que cherche-t-il à faire ?
