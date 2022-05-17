@@ -21,14 +21,6 @@ https://eyssette.github.io/
 
 [![](https://miro.medium.com/max/1400/0*IWmN1XWZ6VOyK_lo.jpg)](https://ladigitale.dev/digiplay/#/v/6281dfdb9f6b2)
 
----
-<!-- _class: citationC fmmm-->
-
-![bg left:30%](https://upload.wikimedia.org/wikipedia/commons/b/bf/JudithButler2013.jpg)
-
->« Le langage pourrait-il nous blesser si nous n'étions pas, en un sens, des êtres de langage, des êtres qui ont besoin du langage pour être ? Sommes-nous vulnérables parce que les termes du langage nous constituent ? […] Être insulté est l'une des premières formes de blessure linguistique dont nous avons l'expérience. Mais tous les noms que l'on nous donne ne sont pas injurieux. Recevoir un nom est aussi l'une des conditions de la constitution d'un sujet dans le langage […]. Le nom utilisé pour nous appeler ne nous fige pas purement et simplement. Recevoir un nom injurieux nous porte atteinte et nous humilie. Mais ce nom recèle par ailleurs une autre possibilité : recevoir un nom, c'est aussi recevoir la possibilité d'exister socialement. »
->>Judith **Butler**, _Le Pouvoir des mots. Discours de haine et politique du performatif_
-
 
 ---
 <!-- _class: partie -->
@@ -131,6 +123,12 @@ blockquote blockquote {padding-top:8px}
 >>**Hegel**, _Encyclopédie des sciences philosophiques_, Philosophie de l'Esprit
 
 
+
+---
+<!-- _class: i1t0 -->
+
+[![](https://i.ibb.co/47NkqrY/langage-Bergson-Hegel.png)](https://mymarkmap.netlify.app/#https://github.com/eyssette/mindmap/blob/main/langage-opposition-Bergson-Hegel.md)
+
 <!-- // Nous pouvons avoir l'impression que nous avons une intuition riche que nous ne parvenons pas à formuler.
 // Mais cette incapacité n'est que le signe d'une pensée en train de se construire.
 // C'est avec les mots que la pensée devient riche et précise.  -->
@@ -220,7 +218,7 @@ h3 {padding-bottom:0.6em; margin-bottom:0.2em}
 
 ---
 <!-- _class: souspartie -->
-## B. Le langage s'inscrit<br> dans des formes<br> de domination <!-- fit -->
+## B. Le langage s'inscrit<br> dans des rapports<br> de domination <!-- fit -->
 
 
 ---
@@ -254,3 +252,12 @@ p:nth-child(2){font-size:60%; padding:0; margin-top:-13px;}
 [![](../images/baisemains-et-mocassins.jpg)](https://www.dailymotion.com/video/x2kbvlx)
 
 Antoine Gallien, _Baisemains et mocassins_ (2005)<br/>Enquête de l'émission _Strip-tease_ sur la pratique<br/> des rallyes dans la haute bourgeoisie
+
+
+---
+<!-- _class: citationC fmmm-->
+
+![bg left:30%](https://upload.wikimedia.org/wikipedia/commons/b/bf/JudithButler2013.jpg)
+
+>« Le langage pourrait-il nous blesser si nous n'étions pas, en un sens, des êtres de langage, des êtres qui ont besoin du langage pour être ? Sommes-nous vulnérables parce que les termes du langage nous constituent ? […] Être insulté est l'une des premières formes de blessure linguistique dont nous avons l'expérience. Mais tous les noms que l'on nous donne ne sont pas injurieux. Recevoir un nom est aussi l'une des conditions de la constitution d'un sujet dans le langage […]. Le nom utilisé pour nous appeler ne nous fige pas purement et simplement. Recevoir un nom injurieux nous porte atteinte et nous humilie. Mais ce nom recèle par ailleurs une autre possibilité : recevoir un nom, c'est aussi recevoir la possibilité d'exister socialement. »
+>>Judith **Butler**, _Le Pouvoir des mots. Discours de haine et politique du performatif_
