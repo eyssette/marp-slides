@@ -179,6 +179,8 @@ Deuxième partie
 <!-- _class: etape -->
 ### 1) Première forme de novlangue : <br>_parler pour ne rien dire_<br>(= la langue de bois)
 
+<!-- Discours positif creux -->
+
 ---
 <!-- _class: citationC fmmmmmmm -->
 <style scoped>
@@ -202,7 +204,7 @@ section:after {color:white}
 <style scoped>
 h3 {padding-bottom:0.6em; margin-bottom:0.2em}
 </style>
-### 2) Deuxième forme de novlangue : <br>_masquer le réel ou un certain aspect de la réalité<br> qui remet en question un pouvoir établi_
+### 2) Deuxième forme de novlangue : <br>_dire d'une certaine manière pour masquer un aspect de la réalité qui remet en question un pouvoir établi_
 
 1) « Les événements d'Algérie »
 1) Un « plan social »
@@ -235,7 +237,7 @@ La **rhétorique** est un ensemble de techniques du discours qui permettent de p
 <!-- _class: etape -->
 ### 2) Le langage est <br>un marqueur social
 
-
+<!-- pas une stratégie consciente -->
 
 ---
 <!-- _class: definition -->
@@ -261,3 +263,7 @@ Antoine Gallien, _Baisemains et mocassins_ (2005)<br/>Enquête de l'émission _S
 
 >« Le langage pourrait-il nous blesser si nous n'étions pas, en un sens, des êtres de langage, des êtres qui ont besoin du langage pour être ? Sommes-nous vulnérables parce que les termes du langage nous constituent ? […] Être insulté est l'une des premières formes de blessure linguistique dont nous avons l'expérience. Mais tous les noms que l'on nous donne ne sont pas injurieux. Recevoir un nom est aussi l'une des conditions de la constitution d'un sujet dans le langage […]. Le nom utilisé pour nous appeler ne nous fige pas purement et simplement. Recevoir un nom injurieux nous porte atteinte et nous humilie. Mais ce nom recèle par ailleurs une autre possibilité : recevoir un nom, c'est aussi recevoir la possibilité d'exister socialement. »
 >>Judith **Butler**, _Le Pouvoir des mots. Discours de haine et politique du performatif_
+
+<!-- Nous sommes des "êtres de langage" (Butler) : nous existons à travers le langage.
+
+Le langage n'est pas un simple moyen extérieur que nous utilisons, il nous constitue intérieurement -->
