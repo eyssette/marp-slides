@@ -195,10 +195,69 @@ img {height:640px!important; margin-top:-60px}
 
 <!-- Danseuse étoile Aurélie Dupont -->
 
+
+---
+<!-- _class: citationC  -->
+<style scoped>
+figure{margin-left:-170px!important;
+-webkit-transform: scaleX(-1)!important;
+  transform: scaleX(-1)!important;}
+blockquote blockquote{margin-left:0; font-size:0.9em; margin-top:-10px}
+</style>
+
+![bg left:35%](https://upload.wikimedia.org/wikipedia/commons/1/1d/Portrait_of_Friedrich_Nietzsche.jpg)
+
+>« Nous sommes accoutumés, devant toute chose parfaite, à omettre la question de sa genèse, et à jouir de sa présence comme si elle avait surgi du sol d'un coup de baguette magique. »
+>>**Nietzsche**, _Humain, trop humain_, chap. IV
+
+---
+<!-- _class: citationC  -->
+<style scoped>
+figure{margin-left:-170px!important;
+-webkit-transform: scaleX(-1)!important;
+  transform: scaleX(-1)!important;}
+blockquote blockquote{margin-left:0; font-size:0.9em; margin-top:-10px}
+</style>
+
+![bg left:35%](https://upload.wikimedia.org/wikipedia/commons/1/1d/Portrait_of_Friedrich_Nietzsche.jpg)
+
+>« Le génie ne fait rien que d’apprendre d’abord à poser des pierres, ensuite à bâtir, que de chercher toujours des matériaux et de travailler toujours à y mettre la forme »
+>>**Nietzsche**, _Humain, trop humain_, chap. IV
+
 ---
 <!-- _class:  -->
 
 2) N'y a-t-il pas des limites à la recherche de l'originalité ?
+
+---
+<!-- _class: i1t1 horizontal -->
+
+![](https://lh6.googleusercontent.com/eYszHUFlwQMi6c6fWGX0z-sgXxSysRB9YKcMYVH1YokUwoD_aqUEYAGERyPYbptT2ckMXcnhzpPXCVW57QPedLiz04J9easDlpVBuLZfVw1IqKA25O4fhzkTk2F8Ku098nXzUgtHarUq4soqjzeWaQ)
+
+Andres Serrano,
+_Piss Christ_
+(1987)
+
+
+---
+<!-- _class: i1t1 vertical -->
+<style scoped>
+img {height:600px}
+</style>
+![](https://lh4.googleusercontent.com/7oq97uVDEnfN-Ml9ZKbiuYAsb5IGjVF25eZAkh4SJ-Ocp3AbJRBumTa9N6J0NrZrJCvxpSPb4eXH_CBUVpQkq20r3DWtyEhtd4BWTixIYWnv9r7GdzdSX0oFEsVFobqz1KP1wOunk3qy241SuZNupQ)
+
+Piero Manzoni, _Merda d'Artista_ (1961)
+
+
+---
+<!-- _class: i1t1 vertical -->
+<style scoped>
+img {height:600px}
+</style>
+
+![](https://lh5.googleusercontent.com/HvLZI_NPZUN2aPiogWFTSq14L8uIv0kuhLR7FJpBrVNuNL7GixJmq2rS7-dHpoynGUBauTPKyI3e_Jj8vIFTAnrhrrnFl7kTu_xyscbeb7zb0lKLZz2kN92A3BzLqcjDpVMdiiR6aq-acEXDT2-xCA)
+
+Marco Evaristti, _Helena_ (2000)
 
 ---
 <!-- _class: i1t0 pp -->
@@ -216,6 +275,23 @@ img {transform:scale(1.35); margin-left:180px; margin-top:-10px}
 <!-- _class: partie -->
 # III – Les esthétiques <br> de la réception <!-- fit -->
 Troisième partie
+
+---
+<!-- _class: i4t0 pp -->
+
+
+![](https://download.vikidia.org/vikidia/fr/images/5/5c/Claude_Monet%2C_Impression%2C_soleil_levant%2C_1872.jpg)
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Pierre-Auguste_Renoir%2C_Le_Moulin_de_la_Galette.jpg/1600px-Pierre-Auguste_Renoir%2C_Le_Moulin_de_la_Galette.jpg?20090114100504)
+
+![](https://lh3.googleusercontent.com/B3TAVW6UO7TFwb_WFLyt3EoNcZ38BmGMm0smerQlbWBLLUMGNEsHyYxotlia6tGu90Kpzz1kw2QTaEkxQ8W9w2rTQIQKdKWKiCUsa0lxRVQaNyV3OolhKyyP6yinf3bQ-0WQ7BXCWtnjZCHVdKZG)
+
+![](https://lh3.googleusercontent.com/ShapKt80ihVVN_RLE0M3noemW5rtx5Rb_Op69IzTgt5l74QE6Aeq0b8imVzxIT6WJEq3bAFr-VhNyAyT5gt8wWQkxUiR4J-G5tByvSW9N74yA879eXbM74-LTj_zfs4Sm7Xm0apill_cP0ss5YG2)
+
+---
+<!-- _class: i1t0 -->
+
+![](https://cdn.radiofrance.fr/s3/cruiser-production/2019/10/7273dd80-0a46-4928-83c2-6529206ef247/1200x680_les_indes_galantes_une.jpg)
 
 ---
 <!-- _class: i1t0 pp -->
