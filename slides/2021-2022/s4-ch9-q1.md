@@ -106,7 +106,7 @@ section.sanspuces ul li:before{content:""}
 
 #### <span data-marpit-fragment="1">Première idée : le déterminisme économique</span>
 * Les phénomènes humains s'expliquent essentiellement par des facteurs économiques.
-* C'est une forme de matérialisme : pour comprendre les humains, il faut se focaliser sur les conditions matérielles d'existence, les moyens matériels par lesquels les êtres humains existent, agissent, pensent.
+* C'est une forme de matérialisme : pour comprendre les humains, il faut comprendre leurs conditions matérielles d'existence.
 
 
 ---
@@ -172,13 +172,14 @@ h4 {text-align:justify!important}
 ### 3/ Que faut-il faire d'après le marxisme ?
 
 #### <span data-marpit-fragment="1">Première idée : la lutte pour une société sans domination</span>
-* Le but idéal d'un point de vue marxiste serait de parvenir à une société sans domination et par conséquent sans classes sociales. Mais, un tel changement ne peut arriver sans une lutte. La classe dominante fait et fera tout son possible pour empêcher cette révolution.
+* Il faut parvenir à une société sans classes sociales.
+* Mais, un tel changement ne peut arriver sans une révolution.
 
 
 ---
 <!-- _class: sanspuces   -->
 #### Deuxième idée : la dictature du prolétariat
-* La classe dominée doit donc d'après le marxisme s'emparer du pouvoir de l'État pour lutter contre la classe dominante (c'est ce qu'on appelle la phase de “dictature du prolétariat”) et mettre en place progressivement une société sans domination.
+* La classe dominée doit s'emparer du pouvoir de l'État pour lutter contre la classe dominante et mettre en place une société sans domination.
 
 ---
 #### Problèmes
@@ -302,7 +303,7 @@ Il faut absolument trouver un moyen de **sortir de l'état de guerre**.
 <!-- _class: sanspuces fpppppp -->
 
 * Même si la théorie de Hobbes a pour point de départ le **consentement** des individus à être gouvernés, elle conduit à justifier un **pouvoir absolu**, qui ne demande pas le consentement des individus dans son fonctionnement : le pouvoir a tous les droits.
-* La raison principale qui justifie un tel pouvoir pour Hobbes, c'est la finalité de **la sécurité**. Le consentement à un pouvoir absolu est fondé sur le fait qu'il faut absolument **sortir de l'état de guerre**.
+* La raison principale qui justifie un tel pouvoir pour Hobbes, c'est la finalité de **la sécurité** : il faut absolument **sortir de l'état de guerre**.
 
 
 ---
@@ -405,7 +406,7 @@ ici : une condition de la liberté
 
 ---
 <!-- _class: sanspuces fppp -->
-* L'État, pour Locke, a pour finalité de préserver non pas simplement la sécurité, mais **la liberté** des individus, c'est-à-dire la possibilité de disposer de soi et de ses biens sans interférence arbitraire.
+* _[RAPPEL]_ L'État, pour Locke, a pour finalité de préserver non pas simplement la sécurité, mais **la liberté** des individus, c'est-à-dire la possibilité de disposer de soi et de ses biens sans interférence arbitraire.
 * Cependant **le pouvoir de l'État** pourrait interférer de manière arbitraire dans l'existence des individus.
 * Il faut donc aussi soumettre l'État à des lois qui encadrent l'exercice du pouvoir et protègent les individus contre l'arbitraire : c’est ce qu’on appelle **l’État de droit**, qui s'oppose au pouvoir absolu. L'État n'a pas tous les droits.
 
