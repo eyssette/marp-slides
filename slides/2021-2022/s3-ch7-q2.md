@@ -257,7 +257,7 @@ Antoine Gallien, _Baisemains et mocassins_ (2005)<br/>Enquête de l'émission _S
 
 
 ---
-<!-- _class: citationC fmmm-->
+<!-- _class: citationC fmmmm-->
 
 ![bg left:30%](https://upload.wikimedia.org/wikipedia/commons/b/bf/JudithButler2013.jpg)
 
