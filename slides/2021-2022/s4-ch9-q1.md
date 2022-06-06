@@ -290,20 +290,23 @@ contrat racial : Charles W. Mills
 * Mais cet état de guerre est un **état de misère** : <span data-marpit-fragment="1">crainte permanente</span><span data-marpit-fragment="2"> → pas de coopération possible</span><span data-marpit-fragment="3"> → pas de progrès possible.</span>
 
 ---
-<!-- _class: sanspuces fppppppp -->
+<!-- _class: sanspuces  -->
 Il faut absolument trouver un moyen de **sortir de l'état de guerre**.
 * Le seul moyen d'en sortir, c'est d'accepter l'existence d'un pouvoir supérieur qui imposera le respect de règles qui vont **limiter le désir de puissance** de chacun.
-* Pour imposer le respect des règles et empêcher un retour à l'état de guerre, ce pouvoir doit être **absolu**, sans limites, et il doit inspirer la crainte.
 
 ---
 <!-- _class: etape -->
 ### 2) Quels droits <br>accordons-nous à l'État ?
 
 ---
-<!-- _class: sanspuces fpppppp -->
+<!-- _class: sanspuces -->
 
-* Même si la théorie de Hobbes a pour point de départ le **consentement** des individus à être gouvernés, elle conduit à justifier un **pouvoir absolu**, qui ne demande pas le consentement des individus dans son fonctionnement : le pouvoir a tous les droits.
-* La raison principale qui justifie un tel pouvoir pour Hobbes, c'est la finalité de **la sécurité** : il faut absolument **sortir de l'état de guerre**.
+* Pour imposer le respect des règles, ce pouvoir doit être **absolu**, sans limites, et doit inspirer la crainte.
+* Le pouvoir donc donc avoir tous les droits afin de pouvoir garantir la sécurité
+
+<!-- Même si la théorie de Hobbes a pour point de départ le **consentement** des individus à être gouvernés, elle conduit à justifier un **pouvoir absolu**, qui ne demande pas le consentement des individus dans son fonctionnement : le pouvoir a tous les droits. 
+La raison principale qui justifie un tel pouvoir pour Hobbes, c'est la finalité de **la sécurité** : il faut absolument **sortir de l'état de guerre**.
+-->
 
 
 ---
@@ -372,16 +375,20 @@ La politique est-elle l’affaire de tous ?
 ### 1) Pourquoi accordons-nous à l'État un droit de gouverner ?
 
 ---
-<!-- _class: sanspuces fpppppppp -->
+<!-- _class: sanspuces  -->
 * D'après Locke, ce que les êtres humains désirent, ce n'est pas essentiellement la puissance sans limites, mais la **liberté**.
 * La liberté ne consiste pas à pouvoir tout faire, mais à pouvoir disposer de soi et de ses biens, **sans craindre l'interférence arbitraire d'autrui**.
-* Quand il n'y a pas d'État, les individus n'ont pas à craindre l'interférence d'un pouvoir supérieur, mais sont-ils vraiment libres pour autant ?
+<!-- * Quand il n'y a pas d'État, les individus n'ont pas à craindre l'interférence d'un pouvoir supérieur, mais sont-ils vraiment libres pour autant ? -->
 
 ---
-<!-- _class: sanspuces fpppppp -->
-* **Sans lois** pour fixer le domaine de liberté de chacun, chaque individu est juge de ce qui lui appartient.
+<!-- _class: sanspuces  -->
+* Sans lois pour nous protéger de l'interférence arbitraire d'autrui, notre liberté n'est pas garantie
+* Il faut accepter l'existence d'un pouvoir qui établit des lois pour garantir les libertés
+* Les lois légitimes ne sont pas un obstacle à la liberté, mais une condition de la liberté, car elles font obstacle à ce qui fait obstacle à la liberté
+
+<!-- * **Sans lois** pour fixer le domaine de liberté de chacun, chaque individu est juge de ce qui lui appartient.
 * Donc : sans lois, chacun peut craindre l'interférence des autres et personne ne peut disposer librement de soi et de ses biens.
-* Afin d'être libre, il faut accepter l'existence d'un pouvoir qui va établir des lois (pouvoir législatif), les appliquer (pouvoir exécutif) et juger les cas de conflit (pouvoir judiciaire).
+* Afin d'être libre, il faut accepter l'existence d'un pouvoir qui va établir des lois (pouvoir législatif), les appliquer (pouvoir exécutif) et juger les cas de conflit (pouvoir judiciaire). -->
 
 <!-- Parler du passage de la vengeance privée à la justice publique ? -->
 
@@ -391,23 +398,14 @@ La politique est-elle l’affaire de tous ?
 >« Là où il n'y a pas de loi, il n'y a pas de liberté. Car la liberté consiste à être délivré de la contrainte et de la violence exercées par autrui, ce qui ne peut être lorsqu'il n'y a point de loi »
 >>John **Locke**, _Second traité du gouvernement_, chap. 6, §57
 
----
-Les lois légitimes ne sont **pas un obstacle** à la liberté, mais **une condition** de la liberté, car elles font obstacle à ce qui fait obstacle à la liberté.
-
-<!--
-Lois parfois vu comme un obstacle à la liberté
-ici : une condition de la liberté
-//Kant : il faut faire obstacle à ce qui fait obstacle à la liberté
--->
 
 ---
 <!-- _class: etape -->
 ### 2) Quels droits <br>accordons-nous à l'État ?
 
 ---
-<!-- _class: sanspuces fppp -->
-* _[RAPPEL]_ L'État, pour Locke, a pour finalité de préserver non pas simplement la sécurité, mais **la liberté** des individus, c'est-à-dire la possibilité de disposer de soi et de ses biens sans interférence arbitraire.
-* Cependant **le pouvoir de l'État** pourrait interférer de manière arbitraire dans l'existence des individus.
+<!-- _class: sanspuces  -->
+* Mais le pouvoir de l'État peut lui aussi interférer de manière arbitraire dans l'existence des individus.
 * Il faut donc aussi soumettre l'État à des lois qui encadrent l'exercice du pouvoir et protègent les individus contre l'arbitraire : c’est ce qu’on appelle **l’État de droit**, qui s'oppose au pouvoir absolu. L'État n'a pas tous les droits.
 
 

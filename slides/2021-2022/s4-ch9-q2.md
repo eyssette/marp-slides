@@ -17,7 +17,7 @@ https://eyssette.github.io/
 
 1) Imaginons trois enfants et une flûte. Anne affirme que la flûte lui revient parce qu’elle est la seule qui sache en jouer ; Bob parce qu’il est pauvre au point de n’avoir aucun jouet ; Carla parce que c'est elle qui l'a fabriquée. C'est à vous de régler ce litige : que décidez-vous ?
 2) Faut-il abolir l'héritage ?
-3) Quelles sont les inégalités entre les hommes et les femmes, et que faut-il faire ?
+3) Les injustices sont-elles seulement liées à des inégalités économiques ?
 
 
 ---
