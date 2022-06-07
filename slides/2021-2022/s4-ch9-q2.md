@@ -17,8 +17,7 @@ https://eyssette.github.io/
 
 1) Imaginons trois enfants et une flûte. Anne affirme que la flûte lui revient parce qu’elle est la seule qui sache en jouer ; Bob parce qu’il est pauvre au point de n’avoir aucun jouet ; Carla parce que c'est elle qui l'a fabriquée. C'est à vous de régler ce litige : que décidez-vous ?
 2) Faut-il abolir l'héritage ?
-3) Les injustices sont-elles seulement liées à des inégalités économiques ?
-
+3) Quelles formes d'injustices peuvent subir les femmes ?
 
 ---
 <!-- _class: partie -->
@@ -82,11 +81,11 @@ ol li:nth-of-type(4){list-style-type:none; margin-left:-1em}
 
 
 ---
-<!-- _class:  -->
+<!-- _class: fpp -->
 Mais : 
-1) Suis-je vraiment propriétaire de moi-même et de mes aptitudes ?
-2) Les biens que j'ai acquis le sont-ils seulement grâce à mes aptitudes ?
-3) La propriété des biens implique-t-elle que toute contrainte est illégitime ?
+1) Les biens que j'ai acquis le sont-ils seulement grâce à mes aptitudes ? Les biens acquis par héritage ne sont pas le résultat d'un effort de l'individu.
+2) Suis-je simplement propriétaire de moi-même et de mes aptitudes ? Toute aptitude dépend d'un contexte social qui a rendu possible le développement de cette aptitude.
+3) La propriété des biens implique-t-elle que toute contrainte est illégitime ? N'y a-t-il pas des valeurs qui justifient d'imposer une certaine redistribution des richesses ?
 
 <!-- Suis-je vraiment propriétaire de moi-même et de mes aptitudes ?
 Les biens que j'ai acquis le sont-ils seulement grâce à mes aptitudes ?
@@ -98,29 +97,23 @@ Les biens que j'ai acquis le sont-ils seulement grâce à mes aptitudes ?
 ### 2) L'argument de l'efficacité
 
 ---
-<!-- _class: fpppppp -->
-Cet argument repose sur trois idées :
-
-1) L'inefficacité de la gestion collective et des interventions étatiques dans le champ de l'économie
-2) La supériorité de la responsabilité individuelle et de l'autorégulation par le marché
-3) La concurrence libre est le meilleur moyen d'obtenir un progrès général qui bénéficie à tout le monde
-
-<!-- Vouloir contrôler d'en haut les échanges économiques est voué à l'échec : il faut laisser faire les individus qui sont sur le terrain -->
-
-<!-- 
-L'intervention de l'État serait inefficace : l'État n'aurait pas la connaissance des situations locales, ne pourrait pas s'adapter rapidement, et ce type d'intervention n'inciterait pas les individus ou les entreprises à trouver de nouvelles solutions.
-La concurrence libre serait le meilleur moyen d'obtenir un progrès économique général, qui bénéficie à tout le monde.
-La concurrence libre permettrait d'abolir les privilèges de statut et les inégalités qui reposent sur des hiérarchies traditionnelles instituées. -->
+<!-- _class:  -->
+### Deux idées principales :
+1/ L'intervention étatique dans le champ de l'économie est moins efficace que l'autorégulation par le marché, car le volume d'informations à gérer est trop important et l'absence de responsabilité individuelle n'incite pas à l'efficacité
 
 ---
 <!-- _class:  -->
+2/ La concurrence libre est le meilleur moyen d'obtenir un progrès général qui bénéficie à tout le monde
+(= la “main invisible” du marché)
+
+
+---
+<!-- _class: fpppppp -->
 
 Mais : 
-1) Une gestion collective est-elle nécessairement inefficace ?
-2) L'appel à la responsabilité individuelle et à l'autorégulation par le marché fonctionnent-ils vraiment ?
-3) La concurrence libre conduit-elle vraiment à un progrès général qui bénéficie à tout le monde ?
+1) L'autorégulation par le marché est-elle toujours supérieure à l'intervention étatique ? L'autorégulation par le marché peut conduire à des dysfonctionnements (= les “défaillances du marché”)
+2) La concurrence libre conduit-elle vraiment à un progrès général qui bénéficie à tout le monde ? La concurrence peut produire des situations d'inégalités, d'injustice
 
-<!-- La main invisible du marché -->
 
 ---
 <!-- _class: partie -->
@@ -251,12 +244,26 @@ img {position:absolute!important; top:-20px; left:33px; width:93%!important; dis
 
 
 ---
+<!-- _class: etape -->
+
+### 1/ Une conception trop abstraite de la justice sociale?
+
+
+---
+<!-- _class: fpppp -->
+Pour savoir ce qui est juste, il faut d'après Rawls faire abstraction de son point de vue particulier et réfléchir à ce qui peut rendre possible l'égalité des droits et l'égalité des chances. Mais :
+1) Peut-on vraiment faire abstraction de son point de vue particulier ?
+2) Au lieu de réfléchir de manière abstraite au juste, ne faut-il pas plutôt partir du vécu des personnes qui subissent des situations d'injustice ?
+
+---
+<!-- _class: etape -->
+
+### 2/ Une conception trop étroite de la justice sociale ?
+
+
+---
 <!-- _class:  -->
+Rawls s'intéresse surtout à la justice dans la répartition des ressources. Mais il y a d'autres aspects à prendre en compte :
 
-1) Une conception trop abstraite de la citoyenneté ?
-2) Une conception trop étroite de la justice sociale ?
-
-<!-- 
-Peut-on vraiment faire abstraction de son point de vue particulier ?
-Une procédure trop abstraite : pour savoir ce qui est juste, ne faut-il pas plutôt partir du vécu des personnes qui subissent des situations d'injustice ?
- -->
+1) Les possibilités réelles d'agir
+2) Les injustices qui ne sont pas liées aux inégalités économiques
