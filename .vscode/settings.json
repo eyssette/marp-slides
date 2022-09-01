@@ -5,7 +5,8 @@
 		"titleBar.activeForeground": "#e7e7e7",
 		"titleBar.inactiveBackground": "#03002e99",
 		"titleBar.inactiveForeground": "#e7e7e799",
-		"sash.hoverBorder": "#060061"
+		"sash.hoverBorder": "#060061",
+		"commandCenter.border": "#e7e7e799"
 	},
 	"markdown.marp.themes": [
 		"./themes/teaching.css"
