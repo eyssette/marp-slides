@@ -141,6 +141,7 @@ span {font-size:0.9em}
 <!-- _class:  -->
 ## Le quotidien
 1) Plus de carnets de correspondance
+1) Règlement intérieur, charte de l'EPS
 1) Casiers <!-- (groupes de 3 élèves)<br>:warning: sur un bout de feuille : écrire trois noms d'élèves -->
 1) Accès aux ordinateurs du lycée : identifiants à vérifier
 1) Cartes de cantine
