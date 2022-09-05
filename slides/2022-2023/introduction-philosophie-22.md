@@ -121,17 +121,17 @@ Exemples :
 <style scoped>
 ol li {margin-top:1px;}
 </style>
-1. La liberté n’est-elle qu’une illusion ?
-2. Y a-t-il une vérité en morale ?
-3. Croire en l’existence d’un dieu, est-ce rationnel ?
-4. Qu’est-ce qu’une loi juste ?
-5. À quoi bon travailler ?
-6. Est-il possible de connaître quelque chose avec certitude ?
-7. À quoi servent les artistes ?
+1) La liberté n’est-elle qu’une illusion ?
+1) Y a-t-il une vérité en morale ?
+1) Croire en l’existence d’un dieu, est-ce rationnel ?
+1) Qu’est-ce qu’une loi juste ?
+1) À quoi bon travailler ?
+1) Est-il possible de connaître quelque chose avec certitude ?
+1) À quoi servent les artistes ?
 
-- Qu’est-ce que ces questions ont de particulier ?
-- Qu’est-ce qui distingue ces questions d’une question ordinaire comme : « quelle heure est-il ? »
-- Qu’est-ce qui distingue ces questions d’une question d’une autre discipline comme : « que s’est-il passé pendant la Révolution française ? »
+* Qu’est-ce que ces questions ont de particulier ?
+* Qu’est-ce qui distingue ces questions d’une question ordinaire comme : « quelle heure est-il ? »
+* Qu’est-ce qui distingue ces questions d’une question d’une autre discipline comme : « que s’est-il passé pendant la Révolution française ? »
 
 ---
 <!-- _class: definition pm -->
