@@ -16,7 +16,7 @@ http://eyssette.github.io
 
 ![](https://i.ibb.co/1mjwxZB/image.png)
 
-<!-- Matière nouvelle : peur, craintes / attente, excitation intellectuelle -->
+<!-- Matière nouvelle : peur, craintes / attente, excitation intellectuelle, curiosité -->
 
 ---
 <!-- _class: fppppppppp -->
@@ -60,12 +60,15 @@ Faire de la philosophie : c'est …
 Un philosophe, c'est …
 La philosophie, c'est …
 
+
+
 ---
 <!-- _class: i1t0 pp -->
 
 ![affiche du film : Pas son genre](https://fr.web.img6.acsta.net/pictures/14/03/12/15/46/479126.jpg)
 
-<!-- La philosophie semble avant tout être une activité ………(intellectuelle ≠ manuelle)………… où l’on fait usage de son …… (esprit ≠ corps)……… pour se questionner, s’interroger, penser, réfléchir.
+<!--
+La philosophie semble avant tout être une activité ………(intellectuelle ≠ manuelle)………… où l’on fait usage de son …… (esprit ≠ corps)……… pour se questionner, s’interroger, penser, réfléchir.
 [Interrogation sur ces distinctions] -->
 
 
@@ -82,15 +85,23 @@ Rembrandt, _Le philosophe en méditation_ (1632)
 <!-- On s'est souvent moqué de la philosophie. On pense parfois que la philosophie est abstraite et déconnectée du réel. -->
 
 ---
-<!-- _class: grille pp pm -->
+<!-- _class: pp pm -->
 <style scoped>
-section *:nth-child(1) {font-size:inherit;grid-area: 2 / 2 / -2 / -2 }
-section *:nth-child(2) {font-size:inherit;grid-area: 10 / 35 / -12 / -1; }
+img {position:absolute; top:10px; left:0}
+ol {list-style-type:none}
+ol:nth-of-type(1) img {height:700px; left:30px}
+ol:nth-of-type(2) img {height:510px; left:350px; top:100px}
 </style>
 
-![Image de Thalès qui regarde le ciel et va tomber dans l'eau](../images/thales.png)
+1. ![Image de Thalès qui regarde le ciel et va tomber dans l'eau](../images/thales.png)
+1) ![Image de Socrate tel qu'il est représenté dans les Nuées d'Aristophane : dans une corbeille dans les airs](../images/socrate-aristophane.png)
 
-![Image de Socrate tel qu'il est représenté dans les Nuées d'Aristophane : dans une corbeille dans les airs](../images/socrate-aristophane.png)
+
+<!-- La philosophie est avant tout une forme de réflexion, une manière de penser.
+Pour cette raison, on estime parfois que la philosophie est abstraite et déconnectée du réel.
+Exemples : 
+- L'histoire de Thalès : perdu dans ses pensées, ne regarde pas autour de lui, tombe dans un puits
+- La moquerie d'Aristophane contre Socrate : le philosophe Socrate est représenté comme un être perché dans un panier-->
 
 
 ---
@@ -99,24 +110,11 @@ section *:nth-child(2) {font-size:inherit;grid-area: 10 / 35 / -12 / -1; }
 - En philosophie, c'est très utile de partir de ses représentations spontanées ou de lieux communs à propos d'une notion.
 - C'est un premier matériau qu'on peut analyser, avec de l'esprit critique.
 
-
-
-
 ---
-<!-- _class: i1t0  pm -->
+<!-- _class: i1t0  -->
 
 ![Image du penseur de Rodin qui se pose la question : qu'est-ce que je vais préparer à manger ce soir ?](../images/penseur-rodin.png)
 
----
-<!-- _class: pointmethode fpppppp -->
-<style scoped>
-img {float:left; height:150px; margin-right:50px; }
-</style>
-
-### Point méthode
-Pour analyser une notion, on peut partir d'une approche très générale, et chercher ensuite à préciser cette approche.
-
-![image d'un entonnoir](../images/entonnoir.png)  Terme technique :  « définition par genre et différence spécifique »
 
 ---
 <!-- _class: fmm -->
@@ -136,7 +134,7 @@ ol li {margin-top:1px;}
 - Qu’est-ce qui distingue ces questions d’une question d’une autre discipline comme : « que s’est-il passé pendant la Révolution française ? »
 
 ---
-<!-- _class: definition -->
+<!-- _class: definition pm -->
 <style scoped>
 span {font-size:90%}
 </style>
@@ -145,19 +143,21 @@ span {font-size:90%}
 
 **Faire de la philosophie**, c'est réfléchir à des questions qui portent sur des **notions générales et fondamentales** de notre existence <span>(la liberté, le bien et le mal, la vérité, …)</span>.
 
+
+---
+<!-- _class: pointmethode fpppppp -->
+<style scoped>
+img {float:left; height:150px; margin-right:50px; }
+</style>
+
+### Point méthode
+Pour analyser une notion, on peut partir d'une approche très générale, et chercher ensuite à préciser cette approche.
+
+![image d'un entonnoir](../images/entonnoir.png)  Terme technique :  « définition par genre et différence spécifique »
+
 ---
 <!-- _class: souspartie -->
 ## B. Trois démarches essentielles
-
----
-<style scoped>
-section {font-size:4em}
-p:nth-of-type(1){margin-bottom:0.75em;}
-</style>
-:facepalm:  « En philosophie, les notes sont aléatoires. »
-:facepalm:  « Il faut penser comme le prof. »
-
-:point_right:  **Non** : On juge le travail d'après ces démarches !
 
 ---
 <!-- _class: etape -->
@@ -344,15 +344,6 @@ Le rouge évoque la tension, le conflit.
 Or problématiser, c'est dégager les tensions entre différentes idées.
 
 ---
-<style scoped>
-section {font-size:3.1em}
-p:nth-of-type(1){margin-bottom:0.75em;}
-</style>
-:facepalm:  « La philosophie, c'est trop “perché” »
-
-:point_right:  **Non** : <br>Certes, il y a des problèmes philosophiques pointus, techniques. <br>Mais en terminale, on va s'intéresser à des problèmes vifs, que nous pouvons rencontrer dans notre expérience.
-
----
 <!-- _class: etape -->
 ### 3/Argumenter
 
@@ -436,7 +427,6 @@ p:nth-of-type(1){margin-bottom:0.75em;}
 :facepalm:  « La philosophie ça ne sert à rien »
 
 :point_right:  **Non** : Vous allez développer vos capacités à analyser des idées, à problématiser, à argumenter. C'est essentiel !
-
 
 ---
 <!-- _class: etape -->
@@ -545,6 +535,17 @@ Or mobiliser ses connaissances permet d'enrichir sa réflexion.
 |<span data-marpit-fragment="10">Mobiliser ses connaissances</span>|<span data-marpit-fragment="11">Comment approfondir ?</span>|<span data-marpit-fragment="1é">:yellow_circle:</span>|
 
 </div>
+
+
+---
+<style scoped>
+section {font-size:4em}
+p:nth-of-type(1){margin-bottom:0.75em;}
+</style>
+:facepalm:  « En philosophie, les notes sont aléatoires. »
+:facepalm:  « Il faut penser comme le prof. »
+
+:point_right:  **Non** : On juge le travail d'après ces quatre démarches !
 
 ---
 <!-- _class: exercice application -->
