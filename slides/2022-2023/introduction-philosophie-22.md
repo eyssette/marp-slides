@@ -9,7 +9,7 @@ size: 4:3
 
 # Introduction à<br> la philosophie <!-- fit -->
 Cédric Eyssette (2022-2023)
-http://eyssette.github.io
+https://eyssette.github.io/
 
 ---
 <!-- _class: i1t0 pp -->
