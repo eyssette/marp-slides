@@ -243,20 +243,11 @@ img {height:500px}
 ![Photo d'un tee-shirt avec la formule : being a philosopher, i have a problem for every solution](../images/being_a_philosopher_tee_shirt.png)
 
 ---
-<!-- _class: i1t1 fpppppp -->
-<style scoped>
-    ul, p {text-align:center!important;}
-p{width:75%!important; margin:auto!important;}
-img {width:100%; }
-ul {padding-top:50px;margin-bottom:5px;}
-p:last-child{font-size:30px; margin-top:-7px!important; padding-bottom:40px;}
-</style>
+<!-- _class: i1t1 fpppppp vertical -->
 
-- Peut-on lancer un nain qui le veut bien ?
+**L'affaire du “lancer de nain”**
 
 ![Photogramme du film Le Loup de Wall Street : scène du lancer de nain](../images/loup_wall_street_lancer_de_nain.png)
-
-Martin Scorsese, _Le Loup de Wall Street_ (2013)
 
 <!-- 1/ Jurisprudence de la Cour européenne des droits de l'homme autour de certaines affaires de sadomasochisme
 – Arrêt du 19 février 1997, Laskey, Jaggard et Brown c/ Royaume-Uni 
@@ -299,11 +290,23 @@ ul {margin-top:-5px;}
 **Problématiser**, c'est saisir la complexité et les enjeux d'une question, en montrant qu'il y a un véritable débat à ce sujet entre plusieurs réponses possibles
 
 ---
+<style scoped>
+section {font-size:3.1em}
+p:nth-of-type(1){margin-bottom:0.75em;}
+</style>
+:facepalm:  « La philosophie, c'est trop “perché” »
+
+:point_right:  **Pas toujours !** : <br>Certes, il y a des problèmes philosophiques pointus, techniques. <br>Mais en terminale, on va s'intéresser à des problèmes vifs, que nous pouvons rencontrer dans notre expérience.
+
+---
 <!-- _class: citationC fppp -->
 
 ![bg left:45%  Photo d'un buste de Socrate](https://upload.wikimedia.org/wikipedia/commons/a/a4/Socrates_Louvre.jpg)
 
+<div data-marpit-fragment="1">
+
 >« SOCRATE – […] Vous ne trouverez pas facilement un autre homme comme moi […], attaché à la cité […] comme le serait un taon au flanc d'un cheval […] qui se montrerait un peu mou » (Platon, _Apologie de Socrate_, 31a)
+</div>
 
 <!-- À faire noter aux élèves : Problématiser, c'est comme être un taon qui pique un cheval un peu mou (Socrate) -->
 
@@ -352,14 +355,18 @@ Or problématiser, c'est dégager les tensions entre différentes idées.
 <style scoped>
 ol{list-style-type:none!important; font-size:1.45em!important; margin-left:5px; text-align:center}
 ol li {margin-bottom:2em!important}
+ol:nth-of-type(1) {margin-top:80px!important}
+ol:nth-of-type(2) {margin-top:-45px!important}
 </style>
 
-1) Argumenter &rarr;<br> Convaincre ≠ persuader
-2) Argumenter ≠ démontrer
+1. Argumenter &rarr;<br> Convaincre ≠ persuader
+1) Argumenter ≠ démontrer
 
 <!-- Pour 1 : raison / émotion (rapidement : pas si simple)
-Pour 2 : pas de preuve définitive / preuve définitive
-+ la discussion peut se poursuivre / la discussion est close  -->
+Pour 2 :
+
+pas de preuve définitive / preuve définitive
++ la discussion peut se poursuivre (une discussion est toujours possible) / la discussion est close (pas de discussion possible)  -->
 
 ---
 <!-- _class: definition -->
@@ -401,16 +408,13 @@ Or argumenter, c'est chercher les raisons qui me donnent le droit d'avancer une 
 ---
 <!-- _class:  -->
 <style scoped>
-section{font-size:3.1em}
+section{font-size:3.7em}
 ol {margin-top:-0.2em; margin-left:1em; margin-right:1em;}
 ol li{padding-left:0.4em}
 </style>
 #### Attitudes importantes :
-1) L'ouverture d'esprit 
-2) L'humilité
-3) La prise en compte des objections
-4) La cohérence 
-5) La rigueur dans le raisonnement 
+1) L'ouverture d'esprit et la prise en compte des objections
+2) La cohérence et la rigueur dans le raisonnement 
 
 <!-- 
 1. L'ouverture d'esprit (accepter les désaccords)
@@ -551,14 +555,16 @@ p:nth-of-type(1){margin-bottom:0.75em;}
 <!-- _class: exercice application -->
 <style scoped>
 ul, h3 {font-size:42px!important;}
-ul ul {font-size:95%!important; margin-top:10px;}
+ul ul {font-size:95%!important; margin-top:10px; margin-left:-60px; font-size:0.9em!important}
 </style>
 
 ### Exercice à faire à la maison
 
-- Pourquoi peut-on dire que réfléchir, comme en philosophie, c'est dire non ?
+- Pourquoi peut-on dire que réfléchir c'est dire non ?
   - Rédigez un paragraphe (150 mots minimum) sur une feuille à part.
-  - Utilisez au moins un élément de ce cours d'introduction à la philosophie.
+  - Demandez-vous : “Dire non à quoi ?”
+  - Faites des liens avec le cours :
+    - si réfléchir, c'est analyser / problématiser / argumenter, à quoi dit-on non quand on adopte ce type de démarches ?
 
 ---
 
@@ -620,6 +626,8 @@ ol li{margin-left:-1em; margin-bottom:0.5em; }
 2) pour vos dossiers post-bac (Parcoursup) ;
 3) pour l'obtention du baccalauréat.
 
+<!-- Ajouter : Si vous voulez faire : une prépa, Sciences-Po, médecine … : il y aura de la philosophie dans votre cursus, et il vaut mieux vous préparer et approfondir votre travail (demandez-moi des suggestions) -->
+
 ---
 <!-- _class: f -->
 <style scoped>
@@ -641,19 +649,19 @@ _Travail noté :_
 
 
 ---
-<!-- _class: fpppppp -->
+<!-- _class: fpppp -->
 <style scoped>
 ol {margin-top:0}
 </style>
 
 #### Les notes 
 
-1) En cas de _retard non justifié_ : retard indiqué dans l'appréciation et pénalité au niveau de la note en fonction du retard.
+1) En cas de _retard non justifié_ : retard indiqué dans l'appréciation et pénalité possible au niveau de la note en fonction du retard.
 2) En cas de _[plagiat](https://eyssette.github.io/ressources-generales-enseignement-philosophie/remarques-sur-le-plagiat)_ ou de _fraude_ : 0.
 3) Possibilité de demander un _travail supplémentaire_ pour remplacer une note.
 4) _Travaux facultatifs_ : pris en compte en bonus (seulement si c'est à votre avantage).
 
-<!-- Ajouter : Si vous voulez faire : une prépa, Sciences-Po, médecine … : il y aura de la philosophie dans votre cursus, et il vaut mieux vous préparer et approfondir votre travail (demandez-moi des suggestions) -->
+
 
 ---
 <!-- _class: souspartie -->
@@ -690,6 +698,8 @@ ul{margin-top:0;}
 - *Pour approfondir* : manuels et revue [PhiloMag](https://www.philomag.com/) au CDI, conseils de lecture pour chaque chapitre, conseils de lecture sur un thème qui vous intéresse.
 - *À éviter* : les annabacs, les livres de méthode.
 </div>
+
+<!-- Ajouter : Si vous voulez faire : une prépa, Sciences-Po, médecine … : il y aura de la philosophie dans votre cursus, et il vaut mieux vous préparer et approfondir votre travail (demandez-moi des suggestions) -->
 
 ---
 <!-- _class: etape -->
