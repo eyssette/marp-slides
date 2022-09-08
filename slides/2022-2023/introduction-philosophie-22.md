@@ -661,7 +661,34 @@ ol {margin-top:0}
 3) Possibilité de demander un _travail supplémentaire_ pour remplacer une note.
 4) _Travaux facultatifs_ : pris en compte en bonus (seulement si c'est à votre avantage).
 
+---
+<!-- _class: etape -->
+### 3/ L'organisation <br>générale du cours
 
+
+---
+<!-- _class: pp -->
+<style scoped>
+ol {list-style-type:none!important; margin-left:80px}
+ol li {
+  width: 700px;
+  height: 700px;
+  line-height: 120px;
+  border-radius: 50%;
+  font-size: 50px;
+  color: white;
+  font-weight: bold;
+  text-align: center;
+}
+ol li {position:absolute; top:10px}
+ol li:nth-of-type(1) {background-color: #020024}
+ol li:nth-of-type(2) {background-color: #14145e; width:500px; height:500px; margin:100px; line-height: 150px; font-size:0.9em}
+ol li:nth-of-type(3) {background-color: #8786c6; width:280px; height:280px; margin:210px; line-height: 240px; font-size:0.8em}
+</style>
+
+1) Séquences
+2) Chapitres
+3) Questions
 
 ---
 <!-- _class: souspartie -->
