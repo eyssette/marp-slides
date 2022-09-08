@@ -36,17 +36,20 @@ span {font-size:90%}
 1) Que pensez-vous de ce métier ?<br><span>Pensez-vous que c'est bien qu'il y ait une personne responsable du bonheur dans une entreprise ?</span>
 2) De manière générale, peut-on dire aux autres ce qu'ils doivent faire pour être heureux ?
 
-<!-- Si aucun élève ne voit de problème possible dans ce type de métier : montrer l'extrait de la Mise à mort du travail (/ Carglass) -->
+<!-- Si aucun élève ne voit de problème possible dans ce type de métier : montrer l'extrait de la Mise à mort du travail (/ Carglass)
+https://drive.google.com/file/d/1droEUxvFSiNfFPgkV3190JXhBcVEuHWM/view?usp=sharing
+ -->
 
 ---
-<!-- _class: definition fpppppp-->
+<!-- _class: definition fppp-->
 <style scoped>
 p:last-of-type{position:absolute; border:none; top:30px; left:740px; font-size:0.5em}
+span {font-size:0.8em}
 </style>
 
 ### Définitions
 
-* Le **paternalisme** consiste à imposer ou à faire un choix à la place d'une personne en prétendant savoir ce qui est bien pour elle.
+* Être **paternaliste** vis-à-vis d'une personne consiste à croire qu'on sait mieux qu'elle ce qui est bon pour elle <span>(comme un père, _pater_, vis-à-vis de ses enfants)</span> <!-- Le **paternalisme** consiste à imposer ou à faire un choix à la place d'une personne en prétendant savoir ce qui est bien pour elle. --> <!-- consiste à croire qu'on sait mieux qu'une personne elle-même ce qui est bon pour elle. / croire qu'on sait mieux qu'autrui ce qui est bon pour lui / croire qu'on sait mieux que la personne elle-même ce qui est bien pour elle / Être paternaliste vis-à-vis d'une personne consiste à croire qu'on sait mieux qu'elle ce qui est bon pour elle-->
 * Une **conception normative du bonheur** prétend qu'il y a une règle à suivre afin de parvenir au bonheur.
 
 :large_blue_circle:
