@@ -169,6 +169,9 @@ mais  focalisation importante sur les savoirs techniques plutôt que sur les hum
 
 ---
 <!-- _class:  -->
+<style scoped>
+ol {list-style-type:lower-alpha}
+</style>
 Quelques lignes de force :
 
 1) Constitution progressive des sciences humaines
