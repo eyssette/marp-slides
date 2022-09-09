@@ -376,6 +376,8 @@ p {font-size:1.1em; margin: 0 100px}
 ### Définition
 **Argumenter**, c'est chercher à construire un raisonnement qui permet de justifier une idée.
 
+<!--! TODO : définition perfectible -->
+
 ---
 <!-- _class: citationC fpppp-->
 <style scoped>
@@ -504,7 +506,11 @@ ul{text-align:justify!important; padding-left:35px; padding-right:35px;}
 
 <!-- Vomir ce qu'on a appris, ce serait simplement recracher ses connaissances, sans les avoir intégrées, et sans organisation.
 Digérer ce qu'on a appris, c'est s'approprier des connaissances afin de les faire siennes et pouvoir ainsi les mobiliser pour développer sa propre réflexion.
-Faire noter aux élèves : Il ne faut pas vomir ce qu'on a appris, mais le digérer. -->
+Faire noter aux élèves : Il ne faut pas vomir ce qu'on a appris, mais le digérer.
+
+Trier ce qui est utile + utiliser ses connaissances pour développer sa réflexion -->
+
+<!-- Image de l'athlète : focaliser sur la nécessité de l'entraînement -->
 
 ---
 <!-- _class:  -->
@@ -540,6 +546,12 @@ Or mobiliser ses connaissances permet d'enrichir sa réflexion.
 
 </div>
 
+<!--! TODO : Ajouter la comparaison ("c'est comme…") dans le tableau récapitulatif 
+Regarder ses propres lunettes
+Piquer le cheval un peu mou
+Mettre les idées sur la balance
+Digérer et non pas vomir
+-->
 
 ---
 <style scoped>
@@ -554,17 +566,18 @@ p:nth-of-type(1){margin-bottom:0.75em;}
 ---
 <!-- _class: exercice application -->
 <style scoped>
-ul, h3 {font-size:42px!important;}
+ul, h3 {font-size:33px!important;}
 ul ul {font-size:95%!important; margin-top:10px; margin-left:-60px; font-size:0.9em!important}
 </style>
 
 ### Exercice à faire à la maison
 
 - Pourquoi peut-on dire que réfléchir c'est dire non ?
-  - Rédigez un paragraphe (150 mots minimum) sur une feuille à part.
-  - Demandez-vous : “Dire non à quoi ?”
-  - Faites des liens avec le cours :
-    - si réfléchir, c'est analyser / problématiser / argumenter, à quoi dit-on non quand on adopte ce type de démarches ?
+  * Rédigez un paragraphe (150 mots minimum) sur une feuille à part.
+  * Ne faites pas d'introduction, défendez directement votre idée
+  * Ne faites pas une dissertation avec plusieurs parties, défendez seulement UNE idée
+  * Demandez-vous : “Dire non à quoi ?”
+  * Faites des liens avec le cours : si réfléchir, c'est analyser / problématiser / argumenter, à quoi dit-on non quand on adopte ce type de démarches ?
 
 ---
 
@@ -721,9 +734,9 @@ ul{margin-top:0;}
 
 <div class="puces">
 
-- *Obligatoires* : textes distribués régulièrement + une œuvre suivie.
-- *Pour approfondir* : manuels et revue [PhiloMag](https://www.philomag.com/) au CDI, conseils de lecture pour chaque chapitre, conseils de lecture sur un thème qui vous intéresse.
-- *À éviter* : les annabacs, les livres de méthode.
+* *Obligatoires* : textes distribués régulièrement + une œuvre suivie.
+* *Pour approfondir* : manuels et revue [PhiloMag](https://www.philomag.com/) au CDI, conseils de lecture pour chaque chapitre, conseils de lecture sur un thème qui vous intéresse.
+* *À éviter* : les annabacs, les livres de méthode.
 </div>
 
 <!-- Ajouter : Si vous voulez faire : une prépa, Sciences-Po, médecine … : il y aura de la philosophie dans votre cursus, et il vaut mieux vous préparer et approfondir votre travail (demandez-moi des suggestions) -->
@@ -740,5 +753,5 @@ ul li{margin-top:5px!important;}
 
 - [Site du cours de philosophie](https://eyssette.github.io/cours/)
 - [Sélection de chaînes vidéo intéressantes](https://eyssette.github.io/ressources-generales-enseignement-philosophie/chaines-video-interessantes)
-- [Mon moteur de recherche](https://cse.google.com/cse?cx=005941353090358050370:-rxleq99qm0)
+- [Moteurs de recherche](https://cse.google.com/cse?cx=005941353090358050370:-rxleq99qm0)
 </div>

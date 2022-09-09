@@ -26,6 +26,12 @@ Première partie
 <!-- _class: etape -->
 ### 1) Les arts libéraux <br>(Antiquité et Moyen Âge)
 
+---
+<!-- _class:  -->
+|Arts mécaniques|Arts libéraux|
+|:-:|:-:|
+|<span data-marpit-fragment="1">Formation technique<br>Apprentissage d'un métier particulier</span>|<span data-marpit-fragment="2">Formation générale de l'esprit</span>|
+|<span data-marpit-fragment="3">Transformation <br>de la matière</span>|<span data-marpit-fragment="4">Transformation <br>de soi</span>|
 
 ---
 <!-- _class: pp i1t0 -->
@@ -33,6 +39,74 @@ Première partie
 img {height:920px!important; position:absolute; top:-10px}
 </style>
 ![](https://upload.wikimedia.org/wikipedia/commons/4/49/Hortus_Deliciarum%2C_Die_Philosophie_mit_den_sieben_freien_K%C3%BCnsten.JPG?uselang=fr)
+
+---
+<!-- _class: f  -->
+<style scoped>
+span {font-weight:normal; font-size:0.8em}
+ol {list-style-type:"–  "; margin-left:80px; margin-bottom:0; line-height:1em}
+h4 {margin:10px 40px}
+ol span {font-size:0.6em; display:block;}
+strong {position:absolute; font-weight:normal; width:350px; color:maroon; /* border-left:1px solid maroon; padding-left:40px */}
+p:nth-of-type(1) {margin-top:80px!important}
+p:nth-of-type(2) strong {top:200px; left:460px; height:160px}
+p:nth-of-type(3) strong:nth-of-type(1) {top:510px; left:390px; padding-left:25px}
+p:nth-of-type(3) strong:nth-of-type(2) {top:590px; left:390px; padding-left:25px}
+p:nth-of-type(3) strong:nth-of-type(3) {top:500px; left:550px; width:300px; padding-left:30px}
+</style>
+
+Il y a 7 arts libéraux
+
+#### Le trivium <span>(= “trois voies”)</span>
+
+1) La grammaire
+2) La rhétorique <span>(art de bien parler)</span>
+3) La dialectique <span>(art de construire un <br>raisonnement convaincant)</span>
+
+**<span data-marpit-fragment="4">➜ Formation centrée sur la langue et l'expression de la pensée</span>**
+
+#### Le quadrivium <span>(= "quatre voies”)</span>
+
+1) L'arithmétique
+2) La musique
+3) La géométrie
+4) L'astronomie
+
+**<span data-marpit-fragment="9">Nombres</span>**
+**<span data-marpit-fragment="10">Espace</span>**
+**<span data-marpit-fragment="11">➜ Formation scientifique centrée sur les mathématiques</span>**
+
+
+---
+<!-- _class: -->
+<style scoped>
+ol {list-style-type:none; margin-left:-10px;}
+</style>
+
+Les humanités s'inscrivent dans la lignée des arts libéraux et plus précisément du <span data-marpit-fragment="1">*trivium*</span>
+
+1) Le terme “humanités” (au pluriel) n'existe pas encore, mais il y a déjà l'idée que cette formation générale de l'esprit permet de développer notre humanité (au singulier).
+
+
+---
+<!-- _class:  -->
+Deux sens de la notion d'humanité :
+
+1) Sens descriptif : l'espèce humaine
+2) Sens moral : des qualités humaines qui nous rendraient meilleurs
+
+
+---
+<!-- _class:  -->
+<style scoped>
+ol {list-style-type:none; }
+</style>
+L'éducation : étymologiquement signifie “conduire hors de” (*ex - ducere*).
+
+1) = une élévation
+2) = une sortie de la barbarie
+3) = un processus de civilisation
+
 
 ---
 <!-- _class: etape -->
@@ -43,6 +117,13 @@ img {height:920px!important; position:absolute; top:-10px}
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Vitruvian_Man_by_Leonardo_da_Vinci.jpg/1920px-Vitruvian_Man_by_Leonardo_da_Vinci.jpg)
 
+<!-- Un univers qui part de l'être humain
+Redécouverte de l'Antiquité
+Étude des textes anciens, conçus comme une réflexion sur l'être humain
+= base des humanités (studia humanitatis)
+≠ études religieuses
+-->
+
 ---
 <!-- _class: etape -->
 ### 3) Les humanités et <br>les sciences de la nature <br>(Âge classique et Lumières)
@@ -51,19 +132,58 @@ img {height:920px!important; position:absolute; top:-10px}
 <!-- _class: i1t0 -->
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Rembrandt_-_The_Anatomy_Lesson_of_Dr_Nicolaes_Tulp.jpg/2880px-Rembrandt_-_The_Anatomy_Lesson_of_Dr_Nicolaes_Tulp.jpg)
 
+<!-- Développement de l'observation scientifique : corps humain
+mais aussi monde -->
+
 
 ---
 <!-- _class: i1t0 -->
 ![](https://cdn.britannica.com/77/136777-050-687FCA21/system-Copernican-engraving-French.jpg?w=400&h=300&c=crop)
+
+<!-- invention du télescope
+révolution scientifique
+géocentrisme => héliocentrisme
+monde clos : univers infini
+
+Montée en puissance des sciences de la nature
+Transformation possible de la matière (Descartes : "maître et possesseur de la nature")
+
+éclipse les humanités
+distinction progressive entre sciences de la nature et humanités --> -->
 
 ---
 <!-- _class: i1t0 -->
 ![](https://actualitte.com/uploads/images/diderot_dalembert-fb5fd318-4da0-4449-b8f6-5785039bddb3.jpg)
 
 
+<!-- Création de l'Encyclopédie : Diderot et d'Alembert
+Encyclopédie ou Dictionnaire raisonné des sciences, des arts et des métiers
+Diffusion des savoirs
+Une forme d'humanisme : développement de l'être humain
+mais  focalisation importante sur les savoirs techniques plutôt que sur les humanités -->
+
 ---
 <!-- _class: etape -->
 ### 4) La place des humanités à l'époque contemporaine
+
+
+---
+<!-- _class:  -->
+Quelques lignes de force :
+
+1) Constitution progressive des sciences humaines
+2) Institutionnalisation des humanités dans des programmes éducatifs
+3) Émergence de critiques des humanités
+4) Renouveau récent des humanités
+
+<!--
+Nationalisation des humanités, rétrécissement autour d'un corpus (= ensemble de texte) national
+
+élitisme des humanités, ethnocentrisme, remise en question de l'utilité des humanités
+
+
+ -->
+
 
 <!--
 faire ses humanités
