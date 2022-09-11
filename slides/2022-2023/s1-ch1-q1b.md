@@ -9,7 +9,7 @@ size: 4:3
 <style scoped>
 h1{padding:110px!important}
 </style>
-# Q1b – Le désir <br>nous fait-il<br> nécessairement<br> souffrir ? ? <!-- fit -->
+# Q1b – Le désir <br>nous fait-il<br> nécessairement<br> souffrir ? <!-- fit -->
 Cédric Eyssette (2022-2023)
 https://eyssette.github.io/
 
