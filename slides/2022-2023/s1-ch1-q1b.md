@@ -80,26 +80,16 @@ vs.
 
 <!-- Textes : https://docs.google.com/presentation/d/1gcoDJfp6Mj6GYOBzhRsaO9dqzREWVjnHbqKm5WAmDTQ/edit?usp=sharing -->
 
----
-<!-- _class:  -->
-<style scoped>
-p {text-indent:2em; line-height:1.25em; padding:5px 40px}
-</style>
-
-À première vue, le désir est …………………………………………………………………………………………………………………………………………………………………………<!-- un état psychique qui nous motive à agir, en vue de la satisfaction de nos besoins, de nos envies ou d'un objectif particulier. Nous ressentons comme agréable le fait de parvenir à réaliser nos désirs. Le désir semble par conséquent avoir pour finalité le plaisir plutôt que la souffrance. -->
-
-Mais est-ce si simple ? En effet, …………………………………………………………………………………………………………………………………………………………………………
-
 
 ---
 <!-- _class: partie -->
-# I – Schopenhauer : <br>Le désir comme<br> souffrance <!-- fit -->
+# I – Le désir <br>est un état de <br>manque insatiable <br>(Schopenhauer) <!-- fit -->
 Première partie
 
 
 ---
 <!-- _class: souspartie -->
-## A. Première étape
+## A. Le désir <br>comme manque
 
 ---
 <!-- _class: citationC -->
@@ -190,7 +180,7 @@ Cette publicité repose sur … :
 
 ---
 <!-- _class: souspartie -->
-## B. Deuxième étape
+## B. Le désir insatiable
 
 <!-- 
 1ère étape : Le désir est frustration
@@ -275,9 +265,10 @@ Aversion à la perte
 
 ---
 <!-- _class: partie -->
-# II – Épicure : <br>Le simple plaisir<br> d'exister plutôt que<br> les désirs vains <!-- fit -->
+# II – La recherche du <br>plaisir ne nous conduit <br>pas nécessairement à <br>l'insatisfaction (Épicure) <!-- fit -->
 Deuxième partie
 
+<!-- La recherche du plaisir ne nous conduit pas nécessairement à désirer toujours plus  -->
 
 ---
 <!-- _class: souspartie f -->
