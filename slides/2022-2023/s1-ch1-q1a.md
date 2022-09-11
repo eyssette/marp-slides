@@ -22,6 +22,12 @@ https://eyssette.github.io/
 Situation initiale : un nouveau métier “Chief Happiness Officer” (Responsable du bonheur en entreprise) -->
 
 
+<!-- 
+Autre possibilité : commencer par les mesures du bonheur
+ou : la psychologie positive
+ -->
+
+
 ---
 <!-- _class: i1t1 horizontal fppp -->
 <style scoped>
@@ -89,7 +95,7 @@ Textes : https://docs.google.com/presentation/d/1PIW6iC90f960AL5U-EVbKIkcbczR1Ab
 
 ---
 <!-- _class: partie pm -->
-# I – Kant : <br>Le bonheur <br>comme idéal de<br> l'imagination <!-- fit -->
+# I – On ne peut pas<br> vraiment définir<br> ce qu'est le<br> bonheur (Kant) <!-- fit -->
 PREMIÈRE PARTIE
 
 ---
@@ -281,7 +287,7 @@ ul {margin-top:-50px}
 
 ---
 <!-- _class: partie -->
-# II – Les sagesses <br>antiques : <br>La réflexion sur <br>la vie bonne <!-- fit -->
+# II –  Le bonheur repose sur<br> la connaissance de ce<br>qui trouble notre esprit <br>(les sagesses antiques) <!-- fit -->
 DEUXIÈME PARTIE
 
 ---
@@ -305,10 +311,6 @@ DEUXIÈME PARTIE
 
 </div>
 
-<!-- Sagesse ≠ 1 savoir théorique abstrait
-= une pratique concrète
-= un art de vivre ≠ une science du bonheur -->
-
 ---
 <!-- _class: citationC fmm -->
 <style scoped>
@@ -323,15 +325,11 @@ DEUXIÈME PARTIE
 
 <div class="comment" data-marpit-fragment="1">
 
-1) Une pratique de transformation de soi
-1) Il y a des modes de vie qui constituent un obstacle au bonheur.
+1) La sagesse <br>= une pratique de transformation de soi
+1) Il y a des modes de vie qui constituent un obstacle au bonheur
 1) Une réflexion sur soi est nécessaire
 
 </div>
-
-<!-- Une pratique de transformation de soi.
-Il y a des modes de vie qui constituent un obstacle au bonheur.
-Une réflexion sur soi est nécessaire.-->
 
 ---
 <!-- _class: citationC fpp -->
@@ -373,6 +371,11 @@ GroundHog Day ?
 https://film-cred.com/groundhog-day-harold-ramis-bill-murray-philopsophy/
 https://nepascene.com/2021/02/how-philosophy-groundhog-day-can-help-us-through-pandemic-times/#:~:text=As%20a%20scholar%20of%20communication,us%20a%20lesson%20in%20mindfulness  -->
 
+
+---
+<!-- _class: i1t0 pm -->
+![](https://images-na.ssl-images-amazon.com/images/I/81cn6SOOq8L.jpg)
+
 ---
 <!-- _class: partie -->
 # Mise en pratique
@@ -411,3 +414,14 @@ span {font-size:90%}
 - Rédiger une sous-partie de dissertation <span>(un paragraphe de 200 mots minimum)</span>.
 	- :warning: Il faut développer une seule réponse et utiliser soit Kant, soit les sagesses antiques.
 	- :warning: Il faut utiliser le modèle _ARES_
+
+
+
+<!-- 
+Approfondissement
+1. Lire cet [article sur l'injonction au bonheur](https://www.lemonde.fr/m-perso/article/2016/05/27/le-retour-de-la-mere-parfaite_4927830_4497916.html) que véhiculent les “mères parfaites” sur Instagram
+2. Regarder la vidéo de la chaîne _Méta_ sur [la dictature du bonheur](https://www.youtube.com/watch?v=oqq96UQAaXo)
+3. Consulter ce lien sur [le bonheur comme norme sociale et économique](https://docs.google.com/document/d/1Bo9T9oGNag4bkaGGVzyd5i-DDI19vf0smo-qq60H0_M/edit?usp=sharing)
+3. Lire le livre [Happycratie d'Eva Illouz](https://laviedesidees.fr/Bonheur-obligatoire.html), ou bien seulement des extraits sélectionnés (me les demander)
+4. Découvrir l'[analyse critique du développement personnel par Julia de Funès](https://www.arte.tv/fr/videos/092170-010-A/philosophie/)
+ -->
