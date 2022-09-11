@@ -15,7 +15,7 @@ https://eyssette.github.io/
 ---
 <!-- _class: i1t0 pp -->
 
-[![Photogramme de la vidéo sur Lesly Chief Happiness Officer](../images/lesly-CHO.jpg)](https://drive.google.com/open?id=1tee8gsgxvwIQt8yHLuc22AofNq6BQslh)
+[![Photogramme de la vidéo sur Lesly Chief Happiness Officer](../images/lesly-CHO.jpg)](https://drive.google.com/file/d/1tee8gsgxvwIQt8yHLuc22AofNq6BQslh/view?usp=sharing)
 
 <!-- 
 À faire noter :
@@ -31,26 +31,25 @@ ol li {margin-left:-30px!important; padding-right:0px!important; width:405px!imp
 span {font-size:90%}
 </style>
 
-[![Photogramme de la vidéo sur Lesly Chief Happiness Officer](../images/lesly-CHO.jpg)](https://drive.google.com/open?id=1tee8gsgxvwIQt8yHLuc22AofNq6BQslh)
+[![Photogramme de la vidéo sur Lesly Chief Happiness Officer](../images/lesly-CHO.jpg)](https://drive.google.com/file/d/1tee8gsgxvwIQt8yHLuc22AofNq6BQslh/view?usp=sharing)
 
 1) Que pensez-vous de ce métier ?<br><span>Pensez-vous que c'est bien qu'il y ait une personne responsable du bonheur dans une entreprise ?</span>
 2) De manière générale, peut-on dire aux autres ce qu'ils doivent faire pour être heureux ?
 
 <!-- Si aucun élève ne voit de problème possible dans ce type de métier : montrer l'extrait de la Mise à mort du travail (/ Carglass)
-https://drive.google.com/file/d/1droEUxvFSiNfFPgkV3190JXhBcVEuHWM/view?usp=sharing
+https://drive.google.com/file/d/1droEUxvFSiNfFPgkV3190JXhBcVEuHWM/view?usp=sharing	
  -->
 
 ---
-<!-- _class: definition fppp-->
+<!-- _class: definition fpppppp-->
 <style scoped>
 p:last-of-type{position:absolute; border:none; top:30px; left:740px; font-size:0.5em}
-span {font-size:0.8em}
 </style>
 
 ### Définitions
 
-* Être **paternaliste** vis-à-vis d'une personne consiste à croire qu'on sait mieux qu'elle ce qui est bon pour elle <span>(comme un père, _pater_, vis-à-vis de ses enfants)</span> <!-- Le **paternalisme** consiste à imposer ou à faire un choix à la place d'une personne en prétendant savoir ce qui est bien pour elle. --> <!-- consiste à croire qu'on sait mieux qu'une personne elle-même ce qui est bon pour elle. / croire qu'on sait mieux qu'autrui ce qui est bon pour lui / croire qu'on sait mieux que la personne elle-même ce qui est bien pour elle / Être paternaliste vis-à-vis d'une personne consiste à croire qu'on sait mieux qu'elle ce qui est bon pour elle-->
 * Une **conception normative du bonheur** prétend qu'il y a une règle à suivre afin de parvenir au bonheur.
+* Le **paternalisme** consiste à imposer ou à faire un choix à la place d'une personne en prétendant savoir ce qui est bien pour elle.
 
 :large_blue_circle:
 
@@ -88,35 +87,29 @@ Textes : https://docs.google.com/presentation/d/1PIW6iC90f960AL5U-EVbKIkcbczR1Ab
  -->
 
 
-
----
-<!-- _class:  -->
-### Objectifs de ce cours
-
-1) Être capable de définir la notion de bonheur :large_blue_circle:
-2) Comprendre l'opposition principale entre Kant et les sagesses antiques :red_circle:
-3) Comprendre comment on construit son argumentation dans une sous-partie de dissertation :green_circle:
-
 ---
 <!-- _class: partie pm -->
 # I – Kant : <br>Le bonheur <br>comme idéal de<br> l'imagination <!-- fit -->
 PREMIÈRE PARTIE
 
 ---
-<!-- _class: pointmethode -->
+<!-- _class: pointmethode fpppppppp-->
+<style scoped>
+ul {list-style-type:none; }
+ul li {margin-left:-40px}
+</style>
 ### Point Méthode
-:warning:   Le cours n'est pas organisé comme une dissertation.
-
-Dans une dissertation, on ne fait pas une partie sur un auteur.
+* :warning:   Le cours n'est pas organisé comme une dissertation.
+* Dans une dissertation, on ne fait pas une partie sur un auteur.
+* Un auteur doit simplement être un moyen d'approfondir sa réflexion 
 
 ---
-<!-- _class: pointmethode fppp -->
+<!-- _class: pointmethode fppppppppp -->
 <style scoped>
 ul {margin-top:-50px!important}
 </style>
 ### Point Méthode
 
-:yellow_circle:  C'est bien de mobiliser une référence à un auteur, mais :
 * Il faut **utiliser** la référence pour répondre à la question (:warning: Attention au lien avec le sujet).
 * Il faut **justifier** la référence : ce n'est pas parce que l'auteur l'a dit que c'est vrai.
 
@@ -125,7 +118,7 @@ ul {margin-top:-50px!important}
 <style scoped>
 ul {font-size:140%;}
 ul li {text-align:left!important;}
-p{width:600px;}
+p{width:500px;}
 </style>
 
 ![](../images/manger-chocolat.png)
@@ -181,9 +174,9 @@ Le bonheur exige davantage : ce n'est pas seulement une expérience ici, mainten
 <style scoped>
 ul{padding-top:10px;}
 </style>
-:large_blue_circle:  Il y a plusieurs stratégies pour analyser une notion, notamment :
-- partir d'exemples
-- trouver une opposition ou une distinction
+:large_blue_circle:  Il y a plusieurs **stratégies** pour analyser une notion, notamment :
+- partir d'**exemples**
+- trouver une **opposition** ou une **distinction**
 
 
 ---
@@ -202,7 +195,7 @@ blockquote blockquote{font-size:95%;}
 <style scoped>
 ol{font-size:95%; margin-top:-5px!important; padding-left:0!important; margin-left:-15px!important;}
 </style>
-|Une conception du bonheur n'est jamais …|Une conception du bonheur est toujours …|
+|Une conception du bonheur n'est pas …|Une conception du bonheur, c'est …|
 |:-:|:-:|
 |?|?|
 |?|?|
@@ -220,7 +213,7 @@ ol{font-size:95%; margin-top:-5px!important; padding-left:0!important; margin-le
 <style scoped>
 ol{font-size:95%; margin-top:-5px!important; padding-left:0!important; margin-left:-15px!important;}
 </style>
-|Une conception du bonheur n'est jamais<br/>…|Une conception du <br>bonheur est toujours<br/>…|
+|Une conception du bonheur n'est pas<br/>…|Une conception du <br>bonheur, c'est <br/>…|
 |:-:|:-:|
 |*1* un savoir objectif<br> et universel|*4* une représentation <br>subjective et particulière|
 |*5* un concept <br>précis et clair|*2* une image <br>vague et confuse|
@@ -238,6 +231,12 @@ Il s'agit d'une déception éprouvée alors qu'on est parvenu à son objectif. -
 
 
 ---
+<!-- _class:  -->
+Non seulement les autres ne peuvent pas prétendre savoir ce que je dois faire pour être heureux, mais … moi non plus.
+
+<span data-marpit-fragment="1">On ne sait pas vraiment ce qu'on veut. Le bonheur n'est qu'une image qu'on se fait. On croit qu'on obtiendra le bonheur en suivant cette image, mais la déception est toujours possible.</span>
+
+---
 <!-- _class: i1t1 horizontal pp  -->
 <style scoped>
 blockquote{font-size:72%; width:360px!important;}
@@ -248,7 +247,7 @@ blockquote{font-size:72%; width:360px!important;}
 >« Au milieu des années 1950, April et Frank Wheeler forment un jeune couple américain qui, en apparence, a tout pour être heureux (enfants, maison, travail...) […] ils finissent par devenir tout ce qu'ils ne voulaient pas être : un homme coincé par son métier et dont la désinvolture peine à cacher le manque d'assurance et une femme au foyer morose rêvant d'une autre vie. » ([source](https://fr.wikipedia.org/wiki/Les_Noces_rebelles)).
 
 ---
-<!-- _class: i2t0 pp contain pm -->
+<!-- _class: i2t0 pp contain -->
 <style scoped>
 img{height:670px!important; margin-top:-40px!important}
 </style>
@@ -256,6 +255,16 @@ img{height:670px!important; margin-top:-40px!important}
 ![Affiche du film Citizen Kane](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Citizen_Kane_poster%2C_1941_%28Style_B%2C_unrestored%29.jpg/1920px-Citizen_Kane_poster%2C_1941_%28Style_B%2C_unrestored%29.jpg)
 
 ![Affiche du film Into The Wild](https://fr.web.img4.acsta.net/medias/nmedia/18/64/47/78/18869162.jpg)
+
+
+---
+<!-- _class: pm  -->
+<style scoped>
+section {font-size:3.1em}
+</style>
+La déception dont il s'agit dans ces exemples n'est pas la déception de ne pas être parvenu à son objectif.
+
+Il s'agit d'une déception éprouvée alors qu'on est parvenu à son objectif, qui souligne le fait qu'on ne peut pas savoir véritablement ce qu'est le bonheur.
 
 ---
 <!-- _class: pointmethode fpppp-->
@@ -276,12 +285,25 @@ ul {margin-top:-50px}
 DEUXIÈME PARTIE
 
 ---
+
 <!-- _class: citationC fpppp -->
+<style scoped>
+.comment {background:rgba(0, 0, 0, 0.8); display: flex; justify-content: center; align-items: center; position:absolute; height:100%; width:100%}
+.comment ol {list-style-type:none; background:white; border:1px solid black; border-radius:30px; width:370px; padding:30px;}
+</style>
 
 ![bg left:38% Photographie de Pierre Hadot](https://journals.openedition.org/lettre-cdf/docannexe/image/864/img-2.jpg)
 
 >« [Pour les philosophes de l'Antiquité], la philosophie ne consiste pas dans l'enseignement d'une théorie abstraite, encore moins dans une exégèse de textes, mais dans un art de vivre, dans une attitude concrète, dans un style de vie déterminé, qui engage toute l'existence. »
 >>Pierre **Hadot**, _Exercices spirituels et philosophie antique_
+
+<div class="comment" data-marpit-fragment="1">
+
+1) La sagesse <br>≠ un savoir théorique abstrait
+1) = une pratique concrète
+1) = 1 art de vivre <br>(≠ science)
+
+</div>
 
 <!-- Sagesse ≠ 1 savoir théorique abstrait
 = une pratique concrète
@@ -289,11 +311,23 @@ DEUXIÈME PARTIE
 
 ---
 <!-- _class: citationC fmm -->
+<style scoped>
+.comment {background:rgba(0, 0, 0, 0.8); display: flex; justify-content: center; align-items: center; position:absolute; height:100%; width:100%}
+.comment ol {list-style-type:none; background:white; border:1px solid black; border-radius:30px; width:350px; padding:30px; margin:auto; font-size:1.1em}
+</style>
 
 ![bg left:38% Photographie de Pierre Hadot](https://journals.openedition.org/lettre-cdf/docannexe/image/864/img-2.jpg)
 
 >« L'acte philosophique ne se situe pas seulement dans l'ordre de la connaissance, mais dans l'ordre du “soi” et de l'être : c'est un progrès qui nous fait plus être, qui nous rend meilleurs. C'est une conversion qui bouleverse toute la vie, qui change l'être de celui qui l'accomplit. Elle le fait passer d'un état de vie inauthentique, obscurci par l'inconscience, rongé par le souci, à un état de vie authentique, dans lequel l'homme atteint la conscience de soi, la vision exacte du monde, la paix et la liberté intérieures. »
 >>Pierre **Hadot**, _Exercices spirituels et philosophie antique_
+
+<div class="comment" data-marpit-fragment="1">
+
+1) Une pratique de transformation de soi
+1) Il y a des modes de vie qui constituent un obstacle au bonheur.
+1) Une réflexion sur soi est nécessaire
+
+</div>
 
 <!-- Une pratique de transformation de soi.
 Il y a des modes de vie qui constituent un obstacle au bonheur.
@@ -301,11 +335,25 @@ Une réflexion sur soi est nécessaire.-->
 
 ---
 <!-- _class: citationC fpp -->
+<!-- _class: citationC fpppp -->
+<style scoped>
+.comment {background:rgba(0, 0, 0, 0.8); display: flex; justify-content: center; align-items: center; position:absolute; height:100%; width:100%}
+.comment ol {list-style-type:none; background:white; border:1px solid black; border-radius:30px; width:370px; padding:30px; font-size:0.8em}
+.comment ol span {font-size:0.9em}
+</style>
 
 ![bg left:38% Photographie de Pierre Hadot](https://journals.openedition.org/lettre-cdf/docannexe/image/864/img-2.jpg)
 
 >« Pour toutes les écoles philosophiques, la principale cause de souffrance, de désordre, d'inconscience, pour l'homme, ce sont les passions : désirs désordonnés, craintes exagérées. La domination du souci l'empêche de vivre vraiment. La philosophie apparaîtra donc, en premier lieu, comme une thérapeutique des passions. »
 >>Pierre **Hadot**, _Exercices spirituels et philosophie antique_
+
+<div class="comment" data-marpit-fragment="1">
+
+1) L'obstacle principal au bonheur se situe dans notre affectivité <span>(émotions, craintes, désirs …)</span>
+1) La sagesse = une vie guidée par la raison ≠ soumise à nos affects
+1) = une forme de thérapie de l'âme <span>(rétablir un équilibre intérieur, chasser les troubles de notre esprit)</span>
+
+</div>
 
 <!-- L'obstacle principal au bonheur se situe dans notre affectivité (émotions, sentiments, craintes, désirs …).
 La sagesse : une vie guidée par la raison ≠ soumise à nos affects

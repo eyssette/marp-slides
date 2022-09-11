@@ -386,7 +386,7 @@ blockquote{padding:20px}
 </style>
 ![bg left:40% Représentation d'Epictète](https://upload.wikimedia.org/wikipedia/commons/0/00/Epicteti_Enchiridion_Latinis_versibus_adumbratum_%28Oxford_1715%29_frontispiece.jpg)
 
->« Voilà le point de départ de la philosophie : prendre conscience des désaccords entre les hommes, […] condamner ce qui n'est qu'une simple opinion et s'en méfier, examiner les idées pour en connaître la justesse. […]<br>[Quel que soit le sujet sur lequel tu te penches], soumets-le à la règle, place-le sur la balance. »
+>« Voilà le point de départ de la philosophie : prendre conscience des désaccords entre les hommes, […] <span data-marpit-fragment="1">condamner ce qui n'est qu'une simple opinion et s'en méfier</span><span data-marpit-fragment="2">, examiner les idées pour en connaître la justesse. […]</span><span data-marpit-fragment="3"><br>[Quel que soit le sujet sur lequel tu te penches], soumets-le à la règle, place-le sur la balance.</span> »
 >>**Épictète**, _Entretiens_, II, XI 
 
 
@@ -489,7 +489,7 @@ ol li{margin-left:-1em; margin-bottom:0.75em;}
 
 ![bg left:40% Représentation d'Epictète](https://upload.wikimedia.org/wikipedia/commons/0/00/Epicteti_Enchiridion_Latinis_versibus_adumbratum_%28Oxford_1715%29_frontispiece.jpg)
 
->« Ceux qui reçoivent simplement les principes veulent les rendre immédiatement, comme les estomacs malades vomissent les aliments. Digère-les d'abord et, ensuite, ne vomis pas ainsi ; sinon il advient cette chose sale et répugnante que sont les aliments vomis. Mais les principes une fois digérés, montre-nous un changement dans [ton esprit], comme les athlètes montrent leurs épaules qu’élargissent l’exercice et la nourriture […]. »
+>« Ceux qui reçoivent simplement les principes veulent les rendre immédiatement, comme les estomacs malades vomissent les aliments. <span data-marpit-fragment="1">Digère-les d'abord et, ensuite, ne vomis pas ainsi ; sinon il advient cette chose sale et répugnante que sont les aliments vomis.</span><span data-marpit-fragment="2"> Mais les principes une fois digérés, montre-nous un changement dans [ton esprit], comme les athlètes montrent leurs épaules qu’élargissent l’exercice et la nourriture […].</span> »
 >>**Épictète**, _Entretiens_, III, XXI
 
 ---
