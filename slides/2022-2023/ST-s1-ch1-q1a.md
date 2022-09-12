@@ -24,17 +24,22 @@ p {position:absolute}
 p:nth-of-type(1), p:nth-of-type(4) {font-size:2.75em; width:100%; text-align:center; margin:auto;}
 p:nth-of-type(4) {font-size:1.3em; padding-bottom:15px}
 p:nth-of-type(2), p:nth-of-type(3) {color:white; bottom:50px; font-size:1.1em; background-color:black; text-align:center}
-p:nth-of-type(2) {left: 130px; margin-bottom:45px;}
-p:nth-of-type(3) {left:500px}
+p:nth-of-type(2) {left: 100px; margin-bottom:270px; padding:20px}
+p:nth-of-type(3) {left:600px; margin-bottom:270px; padding:20px}
 </style>
 
-![bg]()
-![bg](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Arthur_Schopenhauer_by_J_Sch%C3%A4fer%2C_1859b.jpg/1920px-Arthur_Schopenhauer_by_J_Sch%C3%A4fer%2C_1859b.jpg)
+![bg](http://www.tonnellerie-allary.com/medias/4d74f1a23e954/images/fonds_accueil/img_2184%20-%20copie.jpg)
 
 :red_circle:
 
 Calliclès
 
-Schopenhauer
+Socrate
 
 vs.
+
+
+---
+<!-- _class: partie -->
+# I – 
+Première partie
