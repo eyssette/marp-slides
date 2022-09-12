@@ -28,8 +28,8 @@ p:nth-of-type(2) {left: 130px; margin-bottom:45px;}
 p:nth-of-type(3) {left:500px}
 </style>
 
-![bg](https://upload.wikimedia.org/wikipedia/commons/f/f2/Kant_gemaelde_3.jpg)
-![bg](https://upload.wikimedia.org/wikipedia/commons/0/03/Efez_Celsus_Library_3_RB.jpg?uselang=fr)
+![bg]()
+![bg](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Arthur_Schopenhauer_by_J_Sch%C3%A4fer%2C_1859b.jpg/1920px-Arthur_Schopenhauer_by_J_Sch%C3%A4fer%2C_1859b.jpg)
 
 :red_circle:
 
