@@ -279,14 +279,14 @@ Troisième partie
 
 
  ---
- <!-- _class: citationC f -->
+ <!-- _class: citationC fppp -->
  
  ![bg left:30%](https://upload.wikimedia.org/wikipedia/commons/e/ed/Henri_Bergson_%28Nobel%29.jpg)
 
  >« [N]ous ne voyons pas les choses mêmes ; nous nous bornons, le plus souvent, à lire des étiquettes collées sur elles. »
 >
- >« Auxiliaire de l'action, la perception isole, dans l'ensemble de la réalité ce qui nous intéresse; elle nous montre moins les choses mêmes que le parti que nous pouvons en tirer. […] Mais […] quand [les artistes] regardent une chose, ils la voient pour elle, et non plus pour eux. Ils ne perçoivent plus simplement en vue d’agir ; ils perçoivent pour percevoir […]. »
- >>**Bergson**, _Le Rire_, III (première citation) & _La pensée et le mouvant_, “la perception du changement” (deuxième citation)
+ >« Mais […] quand [les artistes] regardent une chose, ils la voient pour elle, et non plus pour eux. Ils ne perçoivent plus simplement en vue d’agir ; ils perçoivent pour percevoir »
+ >>**Bergson**, _Le Rire_, III  & _La pensée et le mouvant_, “la perception du changement”
 
 ---
 <!-- _class: i1t1 vertical fm-->

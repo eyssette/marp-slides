@@ -354,5 +354,5 @@ La communication par le biais de signes linguistiques suppose elle aussi de nomb
 ---
 <!-- _class: i1t0 -->
 
-[![](https://i.ibb.co/HpJq5sK/langage-bergson.jpg)](https://mymarkmap.vercel.app/#https://github.com/eyssette/mindmap/blob/main/Langage-d-apr%C3%A8s-Bergson-HIDE.md)
 
+[![](https://i.ibb.co/c8BVSgD/langage-bergson.png)](https://mymarkmap.vercel.app/#https://github.com/eyssette/mindmap/blob/main/Langage-d-apr%C3%A8s-Bergson-HIDE.md)

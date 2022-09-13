@@ -192,14 +192,3 @@ span, ol {font-size:0.97em!important}
 3) Analyse critique de l'image publicitaire (Dior)
 4) Le jeu _Fortnite_ : les techniques de rétention des joueurs, l'économie de l'attention
 5) La série documentaire _Dopamine_ et notamment l'épisode sur _Snapchat_
-
----
-<!-- _class: citationC fp-->
-<style scoped>
-figure{margin-right:-100px!important}
-</style>
-
-![bg left:30%](https://cdn.radiofrance.fr/s3/cruiser-production/2016/02/eea6be7a-34f0-4521-820e-418d3fe21a55/838_crawford_credit_robert_adamo.webp)
-
->« Notre environnement technologique en pleine évolution engendre  un besoin de stimulation toujours croissant. […] Notre vie mentale est plus décousue, et plus vulnérable aux sollicitations du moments. […] Notre dispersion mentale ne peut pas simplement être attribuée à la publicité, à Internet, … […] il s’agit d’un phénomène plus global qui relève de tout un style de vie. […] Si nous ne sommes pas capables de maîtriser l'orientation de notre attention, nous sommes à la merci de ceux qui souhaitent l'orienter en fonction de leurs intérêts. »
->> Matthew B. **Crawford**, _Contact_
