@@ -88,12 +88,14 @@ Les humanités s'inscrivent dans la lignée des arts libéraux et plus précisé
 1) Le terme “humanités” (au pluriel) n'existe pas encore, mais il y a déjà l'idée que cette formation générale de l'esprit permet de développer notre humanité (au singulier).
 
 
+<!-- Le terme “humanité” a deux sens différents : quels sont ces deux sens ? -->
+
 ---
 <!-- _class:  -->
 Deux sens de la notion d'humanité :
 
-1) Sens descriptif : l'espèce humaine
-2) Sens moral : des qualités humaines qui nous rendraient meilleurs
+1) Sens **descriptif** : l'espèce humaine
+2) Sens **moral** : des qualités humaines qui nous rendraient meilleurs
 
 
 ---
@@ -111,6 +113,8 @@ L'éducation : étymologiquement signifie “conduire hors de” (*ex - ducere*)
 ---
 <!-- _class: etape -->
 ###  2) L'humanisme <br>de la Renaissance
+*  Qu'est-ce qui caractérise cette période (la Renaissance) et ce courant de pensée (l'humanisme) ?
+
 
 ---
 <!-- _class: i1t0 -->
@@ -124,16 +128,50 @@ Redécouverte de l'Antiquité
 ≠ études religieuses
 -->
 
+
+---
+<!-- _class:  -->
+<style scoped>
+ol {list-style-type:disc}
+</style>
+L'humanisme de la Renaissance se caractérise par :
+1) une focalisation sur l'être humain et son expérience du monde
+2) une redécouverte de l'Antiquité
+
+
+<!--
+1/ Exemple de la perspective
+2/ Analyse de l'Homme de Vitruve / proportions du corps humain
+ -->
+
+
+---
+<!-- _class:  -->
+On nomme à l'époque _“studia humanitatis”_ (étude de l'humanité) cette réflexion sur l'être humain, qui se distingue des _“studia divinitatis”_ (étude de Dieu).
+
+Ce qui est étudié avant tout ce sont les textes anciens, en latin et en grec (et non les textes religieux).
+
+<!-- distinction ≠ opposition
+≠ athéisme
+ -->
+
 ---
 <!-- _class: etape -->
 ### 3) Les humanités et <br>les sciences de la nature <br>(Âge classique et Lumières)
+
 
 ---
 <!-- _class: i1t0 -->
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Rembrandt_-_The_Anatomy_Lesson_of_Dr_Nicolaes_Tulp.jpg/2880px-Rembrandt_-_The_Anatomy_Lesson_of_Dr_Nicolaes_Tulp.jpg)
 
-<!-- Développement de l'observation scientifique : corps humain
-mais aussi monde -->
+<!--
+Développement de l'observation scientifique
+On à cherche à comprendre les mécanismes qui expliquent un phénomène
+≠ un rapport magique au monde
+= un processus de rationalisation
+Ici : une dissection qui cherche à mettre en évidence un mécanisme (fonctionnement du muscle fléchisseur superficiel des doigts)
+https://www.academie-medecine.fr/la-lecon-danatomie-du-docteur-tulp-2/
+ -->
 
 
 ---
@@ -146,9 +184,10 @@ géocentrisme => héliocentrisme
 monde clos : univers infini
 
 Montée en puissance des sciences de la nature
+Conscience du potentiel de maîtrise et de transformation de la nature
 Transformation possible de la matière (Descartes : "maître et possesseur de la nature")
 
-éclipse les humanités
+Éclipse en partie les humanités
 distinction progressive entre sciences de la nature et humanités --> -->
 
 ---
@@ -158,46 +197,78 @@ distinction progressive entre sciences de la nature et humanités --> -->
 
 <!-- Création de l'Encyclopédie : Diderot et d'Alembert
 Encyclopédie ou Dictionnaire raisonné des sciences, des arts et des métiers
-Diffusion des savoirs
+Un projet de diffusion des savoirs qui reste humaniste (au sens large : vise le développement de l'être humain, de sa réflexion et de son autonomie)
 Une forme d'humanisme : développement de l'être humain
-mais  focalisation importante sur les savoirs techniques plutôt que sur les humanités -->
+mais  focalisation sur les savoirs techniques
+ -->
 
 ---
 <!-- _class: etape -->
 ### 4) La place des humanités à l'époque contemporaine
 
+<span data-marpit-fragment="1">Quelques lignes de force</span>
+
+---
+<!-- _class: fppppp -->
+<style scoped>
+ol {list-style-type:disc; margin-top:5px}
+</style>
+
+#### a/ constitution progressive des sciences humaines
+
+1) Psychologie, sociologie, ethnologie …
+2) Institutionnalisation de l'histoire comme discipline
+3) Tout cela conduit à un élargissement des humanités (l'étude de l'être humain ne se limite pas à l'étude des textes anciens)
+
+---
+<!-- _class: fppppppp -->
+<style scoped>
+ol {list-style-type:disc; margin-top:5px}
+</style>
+
+#### b/ Institutionnalisation des humanités dans des programmes éducatifs
+1) L'expression “faire ses humanités”
+2) Importance de l'apprentissage du latin et du grec
+3) Un processus de nationalisation des humanités : rétrécissement autour d'un corpus (= ensemble de textes) national
 
 ---
 <!-- _class:  -->
 <style scoped>
-ol {list-style-type:lower-alpha}
+ol {list-style-type:disc; margin-top:5px}
 </style>
-Quelques lignes de force :
 
-1) Constitution progressive des sciences humaines
-2) Institutionnalisation des humanités dans des programmes éducatifs
-3) Émergence de critiques des humanités
-4) Renouveau récent des humanités
+#### c/ Critique des humanités
+1) Élitisme
+2) Ethnocentrisme
+3) Inutilité (clivage entre les sciences de la nature et les humanités)
 
-<!--
-Nationalisation des humanités, rétrécissement autour d'un corpus (= ensemble de texte) national
+---
+<!-- _class: fpppp -->
+<style scoped>
+ol {list-style-type:disc; margin-top:5px}
+</style>
 
-élitisme des humanités, ethnocentrisme, remise en question de l'utilité des humanités
+#### d/ Renouveau récent des humanités
+1) Importance des humanités pour développer l'empathie, la sensibilité aux autres, l'ouverture à l'expérience humaine dans sa diversité
+2) Importance des humanités d'un point de vue démocratique pour que chaque citoyen·ne puisse participer à une discussion active et critique autour de questions morales et politiques 
+
+---
+<!-- _class: entete fpppppp -->
+<style scoped>
+p, ul {padding-left:60px; padding-right:60px}
+ul {padding-top:0.5em}
+ul ul {padding:1em 0}
+</style>
+### :page_with_curl: Lecture
+
+Lecture de trois textes sur les humanités [:link:](https://nuage03.apps.education.fr/index.php/s/iTtSx5Yg9T92tfd)
 
 
- -->
+- Pour chaque texte :
+	- Quel sens peut-on donner aux humanités d'après ce texte ?
+	- Quel passage semble le plus important ?
 
 
-<!--
-faire ses humanités
-Nationalisation des humanités
-
-Développement des sciences et techniques
-
-Critique impéralisme européen => critique des humanités, ou au contraire : élargissement des humanités
-
-Élargissement des humanités : constitution des sciences humaines
--->
 
 ---
 <!-- _class: souspartie -->
