@@ -315,11 +315,13 @@ se comprendre, ancrage dans des questions contemporaines
 un temps de l'étude, de la concentration, de l'attention
 comprendre par la distance
 critique de l'immédiateté, comprendre la généalogie du présent
+Une profondeur du présent
 "dénaturalise notre relation à la contemporanéité"
 Que sommes-nous aujourd’hui ?
 
 
-Rapport au futur : dynamique de transformation de soi, se cultiver ≠ simplement engranger des savoirs, = développer des qualités humaines (imagination, sensibilité, réflexion …)
+Rapport au futur :
+Dynamique de transformation de soi, se cultiver ≠ simplement engranger des savoirs, = développer des qualités humaines (imagination, sensibilité, réflexion …)
 -->
 
 
@@ -333,7 +335,20 @@ Rapport au futur : dynamique de transformation de soi, se cultiver ≠ simplemen
 
 deux sens possibles : 
 perfectionnisme classique : accomplir sa nature d'être humain
-perfectionnisme moderne -->
+perfectionnisme moderne
+
+
+La vie bonne est une vie accomplie :
+il s'agit de chercher à se perfectionner
+
+La vie accomplie repose sur l'exercice et le développement de facultés proprement humaines
+
+Le perfectionnisme ancien visait un idéal universel d'excellence, mais dans le perfectionnisme moderne, c'est le développement de son individualité qui est valorisé (il n'y a pas une seule norme possible de l'excellence)
+
+une vie profonde, riche et pleine de sens
+
+
+ -->
 
 
 ---
@@ -352,6 +367,17 @@ Deuxième partie
 ### 1/ Le programme officiel
 
 [:link:](https://eduscol.education.fr/document/24328/download)
+
+
+---
+<!-- _class: fpppppp -->
+<style scoped>
+ol {list-style-type:disc}
+</style>
+1) Deux disciplines : Littérature / Philosophie
+2) Deux types d'exercices type bac : interprétation d'un texte / essai
+3) Deux objets d'études : les pouvoirs de la parole / les représentations du monde
+4) Deux périodes privilégiés :  De l'Antiquité à l'Âge classique / Renaissance, Âge classique, Lumières
 
 ---
 <!-- _class: etape -->
@@ -380,7 +406,7 @@ _Travail non noté, mais pris en compte dans l'appréciation :_
 
 _Travail noté :_
 1) Interrogations orales et quiz
-2) Exercices et travaux à l'écrit
+2) Exercices et travaux à l'écrit ou à l'oral<br> (exposés) en individuel ou en groupe
 3) Contrôles de connaissance
 4) Devoirs type bac
 
@@ -402,4 +428,55 @@ ol {margin-top:0}
 
 ---
 <!-- _class: souspartie -->
-## B. 
+## B. Pour réussir
+
+
+
+---
+<!-- _class: etape fpppp -->
+<style scoped>
+p{text-align:justify;}
+p, ul{font-size:90%}
+</style>
+### 1/ Votre professeur
+
+N'hésitez pas à me poser vos questions, à me partager vos réflexions, vos doutes ! 
+
+<div class="puces">
+
+Pour discuter avec moi :
+- de préférence en direct, ou par l'ENT, 
+- en cas de souci avec l'ENT : par [mail](mailto:&#99;&#101;dri%63&#46;%65y&#115;&#115;%65%74t%65&#64;a%63%2d%6cy%6f%6e%2e&#102;%72"). <br>Faites attention à l'écriture de mon nom, je risque de ne pas recevoir votre mail.
+</div>
+
+---
+<!-- _class: etape fppppppp -->
+<style scoped>
+h3{padding-bottom:25px; font-size:130%;}
+ul{margin-top:0;}
+</style>
+### 2/ Lectures
+
+<div class="puces">
+
+* *Obligatoires* : textes distribués régulièrement (+ une œuvre suivie ?).
+* *Pour approfondir* : conseils de lecture pour chaque chapitre, conseils de lecture sur des thèmes qui vous intéressent.
+* *À éviter* : les annabacs, les livres de méthode.
+</div>
+
+<!-- Ajouter : Si vous voulez faire : une prépa, Sciences-Po, médecine … : il y aura de la philosophie dans votre cursus, et il vaut mieux vous préparer et approfondir votre travail (demandez-moi des suggestions) -->
+
+---
+<!-- _class: etape -->
+<style scoped>
+h3{padding-bottom:15px; margin-bottom:0;}
+ul li{margin-top:5px!important;}
+</style>
+### 3/ Internet
+
+<div class="puces">
+
+- [Site du cours de philosophie](https://eyssette.github.io/cours/)
+- [Sélection de chaînes vidéo intéressantes](https://eyssette.github.io/ressources-generales-enseignement-philosophie/chaines-video-interessantes)
+- [Moteurs de recherche](https://cse.google.com/cse?cx=005941353090358050370:-rxleq99qm0)
+</div>
