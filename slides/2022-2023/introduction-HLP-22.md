@@ -426,6 +426,23 @@ ol {margin-top:0}
 
 <!-- Ajouter : Si vous voulez faire : une prépa, Sciences-Po, médecine … : il y aura de la philosophie dans votre cursus, et il vaut mieux vous préparer et approfondir votre travail (demandez-moi des suggestions) -->
 
+
+---
+<!-- _class: etape -->
+### 3/ L'organisation de l'année
+
+
+---
+<!-- _class:  -->
+<style scoped>
+section {font-size:4.5em; padding-left:40px; padding-top:1em}
+ol {list-style-type:disc; margin:20px;}
+</style>
+1) Semestres
+	1) Séquences
+		1) Chapitres
+			1) Questions
+
 ---
 <!-- _class: souspartie -->
 ## B. Pour réussir
