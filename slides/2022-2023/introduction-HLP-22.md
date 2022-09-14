@@ -146,61 +146,121 @@ L'humanisme de la Renaissance se caractérise par :
 
 
 ---
-<!-- _class:  -->
-On nomme à l'époque _“studia humanitatis”_ (étude de l'humanité) cette réflexion sur l'être humain, qui se distingue des _“studia divinitatis”_ (étude de Dieu).
+<!-- _class: fpppppp -->
+<style scoped>
+ol {list-style-type:circle; font-size:0.9em;}
+ol li {padding-left:0.5em}
+</style>
+On nomme à l'époque _studia humanitatis_ (étude de l'humanité) cette réflexion sur l'être humain, qui se distingue des _studia divinitatis_ (étude de Dieu).
 
-Ce qui est étudié avant tout ce sont les textes anciens, en latin et en grec (et non les textes religieux).
+1) Cette distinction n'est pas une opposition : l'humanisme de la Renaissance n'est pas un athéisme ou un anticléricalisme.
 
-<!-- distinction ≠ opposition
-≠ athéisme
+<span data-marpit-fragment="2">Ce qui est étudié avant tout ce sont les textes anciens, en latin et en grec.</span><span data-marpit-fragment="2"> Ces textes sont considérés comme une source de réflexions sur l'expérience humaine.</span>
+
+<!-- Définir "athéisme" + "anticléricalisme"
  -->
 
 ---
 <!-- _class: etape -->
-### 3) Les humanités et <br>les sciences de la nature <br>(Âge classique et Lumières)
+<style scoped>
+h3 {padding-bottom:1.2em}
+span {position:absolute; top:435px; font-size:0.45em; font-weight:normal; font-style:italic}
+span:nth-of-type(1) {left:300px}
+span:nth-of-type(2) {left:600px}
+</style>
+### 3) Les humanités et <br>les sciences de la nature <br>(Âge classique <span>= XVII<sup> e</sup></span> et Lumières <span>= XVIII<sup> e</sup></span>)
 
 
 ---
-<!-- _class: i1t0 -->
+<!-- _class:  -->
+<style scoped>
+ol {list-style-type:none}
+</style>
+#### a/ L'Âge classique (XVII<sup>e</sup>)
+<span data-marpit-fragment="1">L'Âge classique se caractérise par un développement de l'esprit scientifique.</span>
+
+<span data-marpit-fragment="2">On cherche à comprendre les mécanismes qui expliquent les phénomènes.</span>
+
+1) = un processus de rationalisation du monde<br>≠ un rapport magique au monde
+
+
+<!-- ≠ Renaissance : cabinets de curiosité -->
+
+---
+<!-- _class: i1t1 vertical fpp pp-->
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Rembrandt_-_The_Anatomy_Lesson_of_Dr_Nicolaes_Tulp.jpg/2880px-Rembrandt_-_The_Anatomy_Lesson_of_Dr_Nicolaes_Tulp.jpg)
 
+Rembrandt, _La leçon d'anatomie du Dr Tulp_ (1632)
+
 <!--
-Développement de l'observation scientifique
-On à cherche à comprendre les mécanismes qui expliquent un phénomène
-≠ un rapport magique au monde
-= un processus de rationalisation
 Ici : une dissection qui cherche à mettre en évidence un mécanisme (fonctionnement du muscle fléchisseur superficiel des doigts)
 https://www.academie-medecine.fr/la-lecon-danatomie-du-docteur-tulp-2/
- -->
+-->
 
+
+---
+<!-- _class: fppppppppp -->
+L'observation scientifique se développe (notamment avec l'invention <span data-marpit-fragment="1">du télescope).</span>
+
+<span data-marpit-fragment="2">Plusieurs philosophes réfléchissent à ce que doit être la méthode scientifique (Bacon, Descartes).</span>
+
+<span data-marpit-fragment="3">L'astronomie poursuit et développe sa révolution scientifique qui conduit à un changement considérable dans les représentations du monde.</span>
 
 ---
 <!-- _class: i1t0 -->
 ![](https://cdn.britannica.com/77/136777-050-687FCA21/system-Copernican-engraving-French.jpg?w=400&h=300&c=crop)
 
-<!-- invention du télescope
-révolution scientifique
+<!-- 
 géocentrisme => héliocentrisme
 monde clos : univers infini
 
-Montée en puissance des sciences de la nature
-Conscience du potentiel de maîtrise et de transformation de la nature
-Transformation possible de la matière (Descartes : "maître et possesseur de la nature")
 
-Éclipse en partie les humanités
-distinction progressive entre sciences de la nature et humanités --> -->
+ --> -->
 
 ---
-<!-- _class: i1t0 -->
+<!-- _class:  -->
+<style scoped>
+ol {list-style-type:disc}
+</style>
+1) Montée en puissance des sciences de la nature
+1) Conscience du potentiel de maîtrise et de transformation de la nature
+
+<span data-marpit-fragment="3"> Tout cela éclipse en partie les humanités au sens de l'étude de l'humain à travers les textes anciens.</span>
+
+<!-- Descartes : "comme maître et possesseur de la nature"
+Distinction progressive entre sciences de la nature et humanités
+-->
+
+
+---
+<!-- _class:  -->
+<style scoped>
+section {font-size:3.8em}
+</style>
+#### b/ Les Lumières (XVIII<sup>e</sup>)
+
+*  Qu'est-ce qui caractérise les Lumières  ?
+
+---
+<!-- _class: i1t1 vertical fppppp -->
+<style scoped>
+span span {font-size:0.55em; display:block; margin-top:-5px!important}
+</style>
 ![](https://actualitte.com/uploads/images/diderot_dalembert-fb5fd318-4da0-4449-b8f6-5785039bddb3.jpg)
 
+<span data-marpit-fragment="1">Diderot et D'Alembert, _L'Encyclopédie <span>ou Dictionnaire raisonné des sciences, des arts et des métiers_</span></span>
 
-<!-- Création de l'Encyclopédie : Diderot et d'Alembert
-Encyclopédie ou Dictionnaire raisonné des sciences, des arts et des métiers
-Un projet de diffusion des savoirs qui reste humaniste (au sens large : vise le développement de l'être humain, de sa réflexion et de son autonomie)
-Une forme d'humanisme : développement de l'être humain
-mais  focalisation sur les savoirs techniques
- -->
+
+---
+<!-- _class:  -->
+<style scoped>
+ol {list-style-type:disc}
+span {font-size:0.9em; display:inline-block;}
+</style>
+1) Un projet de diffusion des savoirs qui reste humaniste au sens large <span>(vise le développement de l'être humain, de sa réflexion et de son autonomie)</span>
+2) Une focalisation sur les sciences et les savoirs techniques (comme l'indique le sous-titre)
+
+
 
 ---
 <!-- _class: etape -->
@@ -209,12 +269,12 @@ mais  focalisation sur les savoirs techniques
 <span data-marpit-fragment="1">Quelques lignes de force</span>
 
 ---
-<!-- _class: fppppp -->
+<!-- _class: fpppp -->
 <style scoped>
 ol {list-style-type:disc; margin-top:5px}
 </style>
 
-#### a/ constitution progressive des sciences humaines
+#### a/ Constitution progressive des sciences humaines
 
 1) Psychologie, sociologie, ethnologie …
 2) Institutionnalisation de l'histoire comme discipline
@@ -224,12 +284,13 @@ ol {list-style-type:disc; margin-top:5px}
 <!-- _class: fppppppp -->
 <style scoped>
 ol {list-style-type:disc; margin-top:5px}
+span {font-size:0.9em}
 </style>
 
 #### b/ Institutionnalisation des humanités dans des programmes éducatifs
-1) L'expression “faire ses humanités”
+1) Une expression : “faire ses humanités”
 2) Importance de l'apprentissage du latin et du grec
-3) Un processus de nationalisation des humanités : rétrécissement autour d'un corpus (= ensemble de textes) national
+3) Un processus de nationalisation des humanités : rétrécissement autour d'un corpus <span>(= ensemble de textes)</span> national
 
 ---
 <!-- _class:  -->
@@ -237,7 +298,7 @@ ol {list-style-type:disc; margin-top:5px}
 ol {list-style-type:disc; margin-top:5px}
 </style>
 
-#### c/ Critique des humanités
+#### c/ Critiques des humanités
 1) Élitisme
 2) Ethnocentrisme
 3) Inutilité (clivage entre les sciences de la nature et les humanités)
@@ -279,34 +340,93 @@ Lecture de trois textes sur les humanités [:link:](https://nuage03.apps.educati
 <!-- _class: etape -->
 ### 1) Comprendre les humanités <br>par leur rapport au temps
 
+
 ---
-<!-- _class:  -->
+<!-- _class: fpppppppp -->
 <style scoped>
-section {font-size:4.7em}
-ol {margin-left:60px; list-style-type:lower-alpha}
+ul {margin-bottom:0.75em}
+</style>
+#### a/ Un rapport au passé
+
+- Quel rapport les humanités ont avec le passé ?
+
+<span data-marpit-fragment="1">Les humanités sont avant tout fondées sur l'étude de textes anciens et la confrontation avec différentes traditions de pensée.</span> <span data-marpit-fragment="2">Mais le concept de tradition, dans les humanités, a un sens spécifique.</span>
+
+---
+<!-- _class: fppp -->
+<style scoped>
+strong {text-align:center; display:block;}
+span span {font-size:0.7em; display:inline-block;}
 </style>
 
-1) Par rapport au passé
-2) Par rapport au présent
-3) Par rapport au futur
+**La tradition selon les humanités**
 
-<!-- Rapport au passé : lecture des textes, rapport à une tradition critique
+|||
+|:-:|:-:|
+|<span data-marpit-fragment="1">≠ un cadre rigide qui m'enferme dans un modèle à suivre</span>|<span data-marpit-fragment="2"> = un tremplin qui me permet d'élever et d'élargir ma réflexion</span>|
+|<span data-marpit-fragment="3">≠ une contrainte, <br>une prison <span>(“le poids des tradition”)</span></span>|<span data-marpit-fragment="4">= un facteur <br>de liberté</span>|
+|<span data-marpit-fragment="5">≠ une norme qui impose une simple répétition</span>|<span data-marpit-fragment="6">= des textes ouverts <br>à la réinterprétation</span>|
 
-Un autre concept de la tradition, du passé :
-Monolithique
-Lourd pesant
-Fermé
-Cadre fixe rigide statique 
-Prison
-Condamne à la répétition 
 
-≠
-Plurielle
-Source d'inspiration,
-Élévation
-Ouverture
-Dynamisme d'interprétation
-Tremplin
+
+
+---
+<!-- _class: entete fp -->
+<style scoped>
+p, ul {padding-left:60px; padding-right:60px}
+ul {padding-top:0.5em}
+ul ul {padding:1em 0}
+</style>
+### :page_with_curl: Lecture
+
+Lecture de trois textes sur la notion de tradition [:link:](https://nuage03.apps.education.fr/index.php/s/gbB9T3y4tsgeMG2)
+
+
+* Quels sont les textes qui développent une conception de la tradition proche de celle des humanités ?
+* Chaque texte est construit autour d'une opposition centrale. Retrouvez cette opposition en complétant la phrase pour chaque texte : « On pourrait croire que la tradition …, mais en fait, la tradition … »
+
+<!-- 
+D'Holbach
+distinction autonomie / autorité
+Critique de la prétendue autorité de la tradition
+Lien avec les Lumières
+
+MacIntyre : 
+théoriciens politiques conservateurs
+Contre-Lumières
+stabilité de la tradition vs. désaccord et discussion continue
+
+Ricœur :
+un dépôt inerte, mort  (répétition stérile) ≠ tradition vivante : transmission génératrice de sens (réinterprétation)
+L'innovation ne se fait pas ex nihilo mais à partir du passé
+ -->
+
+
+---
+<!-- _class: fpppp -->
+#### b/ Un rapport au présent
+
+<span data-marpit-fragment="1">Le rapport au passé dans les humanités implique un décentrement, mais le but n'est pas de se libérer du présent.</span>
+
+<span data-marpit-fragment="2">Il s'agit au contraire de mieux le comprendre, de lui restituer de la profondeur et du sens.</span>
+
+<span data-marpit-fragment="3"> Car l'expérience du présent est bien souvent l'expérience de l'immédiateté, de la soudaineté des événements qui peut conduire à de l'incompréhension, voire à un sentiment d'absurdité.
+
+
+---
+<!-- _class:  -->
+
+#### c/ Un rapport au futur
+
+<span data-marpit-fragment="1">Les humanités s'inscrivent dans une dynamique de transformation de soi.</span>
+
+<span data-marpit-fragment="2">Le but n'est pas l'érudition. Il ne s'agit pas simplement d'accumuler des connaissances.</span>
+
+<span data-marpit-fragment="3">Le but est de développer des qualités humaines (imagination, sensibilité, réflexion.</span>
+
+
+
+<!-- 
 
 
 Rapport au présent :
@@ -327,27 +447,31 @@ Dynamique de transformation de soi, se cultiver ≠ simplement engranger des sav
 
 ---
 <!-- _class: etape -->
-### 2/ Une conception <br>de l'être humain
-
-<!-- perfectibilité de l'être humain
-≠ déjà donné, être humain : à construire
+### 2) Une conception <br>de l'être humain
 
 
-deux sens possibles : 
-perfectionnisme classique : accomplir sa nature d'être humain
-perfectionnisme moderne
+---
+<!-- _class:  -->
+D'après les humanités, l'être humain n'est pas un être déjà donné, déjà fait, c'est un être à construire par le biais d'une éducation.
+
+<span data-marpit-fragment="1">Les humanités reposent sur l'idée que l'être humain est perfectible : il peut se développer, s'améliorer.</span>
 
 
-La vie bonne est une vie accomplie :
-il s'agit de chercher à se perfectionner
+---
+<!-- _class: fppppppppp -->
+<style scoped>
+aside {display:inline-block; font-size:0.8em}
+</style>
+Non seulement l'être humain peut se développer, mais il doit le faire. <span data-marpit-fragment="1">C'est une forme de perfectionnisme moral.</span>
 
-La vie accomplie repose sur l'exercice et le développement de facultés proprement humaines
+<span data-marpit-fragment="2">Deux sens possibles :</span>
 
-Le perfectionnisme ancien visait un idéal universel d'excellence, mais dans le perfectionnisme moderne, c'est le développement de son individualité qui est valorisé (il n'y a pas une seule norme possible de l'excellence)
+1) Il faut chercher à accomplir sa nature d'être humain <aside>(= le perfectionnisme antique)</aside>
+2) Il faut être en quête de soi et développer sa propre individualité <aside>(= le perfectionnisme moderne)</aside>
 
-une vie profonde, riche et pleine de sens
 
-
+<!-- 
+Renaissance / M.A. : affirmation de la dignité humaine
  -->
 
 
@@ -370,14 +494,14 @@ Deuxième partie
 
 
 ---
-<!-- _class: fpppppp -->
+<!-- _class: fpppppppp -->
 <style scoped>
 ol {list-style-type:disc}
 </style>
-1) Deux disciplines : Littérature / Philosophie
-2) Deux types d'exercices type bac : interprétation d'un texte / essai
-3) Deux objets d'études : les pouvoirs de la parole / les représentations du monde
-4) Deux périodes privilégiés :  De l'Antiquité à l'Âge classique / Renaissance, Âge classique, Lumières
+1) **Deux disciplines :** <br>Littérature / Philosophie
+2) **Deux types d'exercices type bac :** <br>Interprétation d'un texte / Essai
+3) **Deux objets d'études :** <br>Les pouvoirs de la parole / <br>Les représentations du monde
+4) **Deux périodes privilégiés :**  <br>De l'Antiquité à l'Âge classique / <br>Renaissance, Âge classique, Lumières
 
 ---
 <!-- _class: etape -->
