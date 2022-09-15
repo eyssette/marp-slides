@@ -254,7 +254,7 @@ Les likes -> Besoin de reconnaissance sociale
 ---
 <!-- _class: i1t0 -->
 
-[![Image de présentation de la série Dopamine ; ici : épisode sur Snapchat](https://i.ibb.co/RbpZRBP/dopamine-t.jpg)](https://ladigitale.dev/digiplay/#/v/6142db5ee80cd)
+[![Image de présentation de la série Dopamine ; ici : épisode sur Snapchat](https://i.ibb.co/RbpZRBP/dopamine-t.jpg)](https://tube.ac-lyon.fr/w/d505387e-e89d-46c0-8e5a-d0b7e9b8ee3e)
 
 <!-- 
 Effet Ikea
