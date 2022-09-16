@@ -364,7 +364,7 @@ span span {font-size:0.7em; display:inline-block;}
 |||
 |:-:|:-:|
 |<span data-marpit-fragment="1">≠ un cadre rigide qui m'enferme dans un modèle à suivre</span>|<span data-marpit-fragment="2"> = un tremplin qui me permet d'élever et d'élargir ma réflexion</span>|
-|<span data-marpit-fragment="3">≠ une contrainte, <br>une prison <span>(“le poids des tradition”)</span></span>|<span data-marpit-fragment="4">= un facteur <br>de liberté</span>|
+|<span data-marpit-fragment="3">≠ une contrainte, <br>une prison <span>(“le poids des traditions”)</span></span>|<span data-marpit-fragment="4">= un facteur <br>de liberté</span>|
 |<span data-marpit-fragment="5">≠ une norme qui impose une simple répétition</span>|<span data-marpit-fragment="6">= des textes ouverts <br>à la réinterprétation</span>|
 
 
