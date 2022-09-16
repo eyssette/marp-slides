@@ -45,22 +45,38 @@ vs.
 Première partie
 
 ---
-<!-- _class: citationC  -->
+<!-- _class: citationC fppppppp -->
 
->« [S]i on veut vivre comme il faut, on doit laisser aller ses propres passions, si grandes soient-elles, et ne pas les réprimer. Au contraire, il faut être capable de mettre son courage et son intelligence au service de si grandes passions et de les assouvir avec tout ce qu'elles peuvent désirer. »
+>« [S]i on veut vivre comme il faut, on doit laisser aller ses propres passions, si grandes soient-elles, et ne pas les réprimer. Au contraire, il faut être capable de mettre son courage et son intelligence au service de si grandes passions et de les assouvir avec tout ce qu'elles peuvent désirer. Seulement, tout le monde n'est pas capable, j'imagine, de vivre comme cela. C'est pourquoi la masse des gens blâme les hommes qui vivent ainsi, gênée qu'elle est de devoir dissimuler sa propre incapacité à le faire. »
 >>**Platon**, _Gorgias_
 
+<!-- La liberté : licence
+absence de limites, de contraintes
+ne pas se limiter
+critique de la sagesse, de la tempérance, de la modération, de l'absence d'excès
+
+La critique de la licence < ressentiment, frustration, désir de se venger, envie …
+ -->
 
 ---
-<!-- _class: citationC -->
->« Seulement, tout le monde n'est pas capable, j'imagine, de vivre comme cela. C'est pourquoi la masse des gens blâme les hommes qui vivent ainsi, gênée qu'elle est de devoir dissimuler sa propre incapacité à le faire. »
->>**Platon**, _Gorgias_
+<!-- _class: i1t0 -->
+[![Couverture du livre Le Portrait de Dorian Gray](https://images-na.ssl-images-amazon.com/images/I/81WmjDniBuL.jpg)](https://drive.google.com/file/d/0B33DtpyVkjZFU2tXRFVRMUtkTVU/view?usp=sharing&resourcekey=0-LwAn0XIbydd2oiAjgzYnSg)
 
 ---
 <!-- _class: citationC fpppp -->
 
 >« [L]es hommes qui peuvent jouir de leurs biens, sans que personne y fasse obstacle [...] se mettraient eux-mêmes un maître sur le dos, en supportant les lois, les formules et les blâmes de la masse des hommes ! [...] Écoute, Socrate, tu prétends que tu poursuis la vérité, eh bien, voici la vérité : si la facilité de la vie, le dérèglement, la liberté de faire ce qu'on veut, demeurent dans l'impunité, ils font la vertu et le bonheur ! Tout le reste, ce ne sont que des manières, des conventions, faites par les hommes, à l'encontre de la nature. Rien que des paroles en l'air, qui ne valent rien ! »
 >>**Platon**, _Gorgias_
+
+<!-- Les lois : instrument des faibles contre les forts
+La licence implique de ne pas se contraindre à respecter les lois
+
+éloge de la puissance, de la force
+sans se plier au jugement d'autrui
+critique des conventions
+affirmation de soi
+Masse des faibles vs. minorité des forts
+ -->
 
 
 ---
