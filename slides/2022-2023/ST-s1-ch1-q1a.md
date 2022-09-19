@@ -93,6 +93,27 @@ Masse des faibles vs. minorité des forts
 # II – La liberté <br>comme maîtrise<br>de soi (Socrate) <!-- fit -->
 Deuxième partie
 
+---
+<!-- _class: pointmethode fpppppppp-->
+<style scoped>
+ul {list-style-type:none; }
+ul li {margin-left:-40px}
+</style>
+### Point Méthode
+* :warning:   Le cours n'est pas organisé comme une dissertation.
+* Dans une dissertation, on ne fait pas une partie sur un auteur.
+* Un auteur doit simplement être un moyen d'approfondir sa réflexion 
+
+---
+<!-- _class: pointmethode fppppppppp -->
+<style scoped>
+ul {margin-top:-50px!important}
+</style>
+### Point Méthode
+
+* Il faut **utiliser** la référence pour répondre à la question (attention au lien avec le sujet).
+* Il faut **justifier** la référence : ce n'est pas parce que l'auteur l'a dit que c'est vrai.
+
 
 
 ---
@@ -161,7 +182,20 @@ Effet Ikea
 Principe du don / contre-don
 Désinhibition
 Aversion à la perte
- -->
+-->
+
+
+---
+<!-- _class: pointmethode f-->
+<style scoped>
+span {display:inline-block; margin-top:0.25em}
+h3 {margin-bottom:1em}
+</style>
+
+### Point méthode
+:yellow_circle:  Il faut mobiliser des exemples pour ancrer sa réflexion dans le réel et dégager la pertinence concrète de ses idées.
+<span data-marpit-fragment="1">On peut utiliser : un exemple inventé ou mieux : un exemple issu de sa culture ou du cours.</span>
+<span data-marpit-fragment="2">Les exemples doivent rester secondaires : le principal, c'est la construction générale du raisonnement et l'usage des connaissances philosophiques.</span>
 
 ---
 <!-- _class: partie -->
