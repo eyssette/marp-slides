@@ -29,6 +29,7 @@ Montage : toujours désirer autre chose
 Présence massive de la publicité : (notamment référence au _Meilleur des mondes_ : “soma”)
 Scène “Disney” : illusion, on retombe vite dans l'insatisfaction (chute)
 piège à rat à la fin : coincés, prisonniers ?
+Destination (au début) : nowhere
  -->
 
 ---
@@ -99,6 +100,12 @@ Première partie
 >« Tout vouloir naît du besoin, donc du manque, donc de la souffrance »
 >>**Schopenhauer**, _Le Monde comme volonté et comme représentation_, Livre III, §38
 
+<!--
+1. Attention d'ordinaire on distingue : le désir, la volonté, le besoin, qui ne sont pas à confondre
+2. Première analyse : le désir est un manque, car on désire ce qu'on n'a pas
+Désirer quelque chose suppose que cette chose me manque pour que je sois pleinement heureux
+ -->
+
 ---
 <!-- _class: i1t1 vertical  -->
 <style scoped>
@@ -109,8 +116,20 @@ Le mythe d'Aristophane
 [![Représentation du mythe d'Aristophane](../images/mythe-Aristophane.png)](https://ladigitale.dev/digiplay/#/v/6142dd4d774ba) <!-- https://www.youtube.com/watch?v=fmDpwXCyFOI -->
 
 
-<!-- L'amour : quête de plénitude, recherche d'une fusion avec autrui.
-Le désir amoureux : l'expression d'un manque, d'un vide affectif en nous => une forme d'incomplétude.
+<!--
+Éléments à retenir du mythe :
+1. Au début de l'humanité, nous étions come des sphères avec 2 têtes, 4 bras …
+2. Zeus nous punit de notre orgueil et nous sépare en deux
+3. Dès lors, nous sommes à la recherche de notre moitié.
+
+Le désir amoureux = la quête d'une plénitude, d'une complétude
+c'est la recherche d'une fusion avec une personne pour ne faire qu'un avec elle
+(fusion psychique et physique : cf. )
+
+Suite du mythe :
+Cette recherche est incessante et la fusion n'est jamais absolue 
+
+d'incomplétude.
 Mais : 1/ On ne peut jamais avoir la certitude d'avoir trouvé notre “moitié”.
 2/ La fusion est impossible : nous restons à jamais des individus séparés.
 => Le désir amoureux est une souffrance
@@ -171,6 +190,19 @@ Cette publicité repose sur … :
 4) La prétendue transformation de l'individu grâce à l'objet <span><br>&rarr; L'ambivalence du “Je” dans “J'adore”, “_le féminin absolu_”, l'analogie entre la forme du parfum et le corps de la femme, la référence inversée au mythe de Midas</span>
 
 
+<!-- 
+Analyse de différentes formes de manque :
+
+- Manque ressenti directement dans le corps
+- Manque par comparaison, produit par l'esprit
+  - Comparaison avec un modèle idéal
+  - Comparaison avec les autres
+
+Plus profondément le désir n'est-il pas l'expression d'un manque d'être ?
+Le désir : manque existentiel
+
+-->
+
 ---
 <!-- _class:  -->
 ### Exercice facultatif
@@ -195,6 +227,11 @@ Donc : le désir est une souffrance perpétuelle
 
 >« [L]e sujet du vouloir […] remplit éternellement le tonneau des Danaïdes »
 >>**Schopenhauer**, _Le Monde comme volonté et comme représentation_, Livre III, §38
+
+<!-- Ambiguïté de la formule “le sujet du vouloir”
+1. Désigne la personne qui veut, qui a des préférences personnelles, qui exprime son identité, ce qu'elle est
+2. Désigne la personne assujettie à ses désirs, esclave de ses désirs 
+-->
 
 ---
 <!-- _class: i1t0 pp -->
@@ -243,9 +280,15 @@ p{margin-bottom:5px!important; margin-left:30px; margin-right:30px!important;}
 </div>
 
 <!--
+Extrait 1 : Noter au tableau les termes (en anglais) à définir
+Qu'est-ce qui fait que les individus qui jouent à Fortnite vont avoir envie de rejouer ?
+
+Extrait 2 : Qu'est-ce que l'économie de l'attention ?
+Comment les entreprises procèdent-elles pour capter l'attention des individus ?
+
 Le succès du jeu Fortnite provient en partie de l'utilisation de techniques de rétention qui cherchent à retenir les personnes qui jouent dans le jeu, et à leur donner envie de jouer toujours plus. Exemples : systèmes de mission, d'objectifs, de customisation du jeu, de variantes (random, campagnes …)
 
-Fortnite s'inscrit dans une économie de l'attention où l'enjeu économique est de capter l'attention des individus, par le biais de techniques fondées sur la connaisance de la psychologie humaine.
+Fortnite s'inscrit dans une économie de l'attention où l'enjeu économique est de capter l'attention des individus, par le biais de techniques fondées sur la connaissance de la psychologie humaine.
 Exemples :
 L'auto-play -> tendance à en rester à l'option par défaut (= le biais de statu quo)
 Les likes -> Besoin de reconnaissance sociale
@@ -257,6 +300,8 @@ Les likes -> Besoin de reconnaissance sociale
 [![Image de présentation de la série Dopamine ; ici : épisode sur Snapchat](https://i.ibb.co/RbpZRBP/dopamine-t.jpg)](https://tube.ac-lyon.fr/w/d505387e-e89d-46c0-8e5a-d0b7e9b8ee3e)
 
 <!-- 
+Sur quels principes psychologiques repose l'application Snapchat ?
+
 Effet Ikea
 Principe du don / contre-don
 Désinhibition
@@ -505,4 +550,4 @@ span {font-size:90%}
   - La réflexion est-elle un obstacle au bonheur ?
   - Le bonheur peut-il s’apprendre ?
   - Y a-t-il des désirs naturels ?
-- Rédiger une sous-partie de dissertation <span>(200 mots minimum)</span> : :warning: <span>il faut défendre une seule réponse, mobiliser le cours (Schopenhauer ou Épicure), et utiliser le modèle ARES</span>
+- Rédiger un paragraphe <span>(200 mots minimum)</span> : :warning: <span>il faut défendre une seule réponse, mobiliser le cours (Schopenhauer ou Épicure), et utiliser le modèle ARES</span>
