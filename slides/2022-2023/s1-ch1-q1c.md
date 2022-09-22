@@ -126,17 +126,6 @@ vs.
 
 <!-- Textes : https://docs.google.com/presentation/d/1Jvs7uTexFzgP-wCuUYxRpHTqtgcASHxnYCCt9yhcRcI/edit?usp=sharing -->
 
----
-<!-- _class: fppppp -->
-<style scoped>
-h3 {margin-bottom:0}
-</style>
-
-### Les objectifs de ce cours
-1) Comprendre ce qu'est le tragique et les différentes attitudes possibles face au tragique :large_blue_circle:
-2) Comprendre l'opposition principale entre les philosophes tragiques et le stoïcisme d'Épictète :red_circle:
-3) Être capable de problématiser une question dans l'introduction d'une dissertation  :red_circle:
-
 
 ---
 <!-- _class:  -->
