@@ -6,21 +6,21 @@ size: 4:3
 ---
 
 <!-- _class: titre -->
-
-# Q1b – Suffit-il de<br> réfléchir pour être<br> maître de soi ? <!-- fit -->
+<style scoped>
+h1 {padding:25px}
+</style>
+# Q1b – Suffit-il <br>d'être maître de soi <br>pour être libre ? <!-- fit -->
 Cédric Eyssette (2021-2022)
 https://eyssette.github.io/
 
 ---
-<!-- _class: i1t1 vertical -->
-<style scoped>
-img {height:437px; margin-left:2px!important}
-p {font-size:1.3em}
-</style>
+<!-- _class: i1t0 pp-->
 
-[![](https://i.ibb.co/gSkGBbG/experience-chamallow3-t.jpg)](https://ladigitale.dev/digiplay/#/v/615aec3d70284)
+[![Affiche du film Invictus](https://fr.web.img3.acsta.net/medias/nmedia/18/72/82/16/19187639.jpg)](https://drive.google.com/file/d/12mCc9CNQtZjqS9q86sBFT5gQlULTovaJ/view)
 
-L'expérience du chamallow
+<!-- >« _Invictus_ est un poème écrit par William Ernest Henley (1849-1903), qui témoigne de son long combat contre la douleur et la maladie. En raison d’une tuberculose osseuse déclarée à l’âge de 12 ans, Henley doit subir l’amputation de sa jambe gauche entre 1868 et 1869, puis luttera de nombreuses années pour sauver sa deuxième jambe. […] Après la fin de l’apartheid en Afrique du Sud, le poème devient indissociable de Nelson Mandela. On apprend en effet que _Invictus_ est son poème préféré, et qui l’a inspiré et soutenu dans les moments les plus noirs de ses 27 années de captivité. » ([source](https://deniscougot.wordpress.com/le-poeme-invictus/)) -->
+
+
 
 
 ---
@@ -201,6 +201,16 @@ ne pas être esclave de ses affects / être maître de soi, se gouverner par la 
 <!-- - “Être comme un roc face aux vagues” : qu'est-ce que cela veut dire ? -->
 
 
+---
+<!-- _class: i1t1 vertical -->
+<style scoped>
+img {height:437px; margin-left:2px!important}
+p {font-size:1.3em}
+</style>
+
+[![](https://i.ibb.co/gSkGBbG/experience-chamallow3-t.jpg)](https://ladigitale.dev/digiplay/#/v/615aec3d70284)
+
+L'expérience du chamallow
 
 ---
 <!-- _class: partie -->

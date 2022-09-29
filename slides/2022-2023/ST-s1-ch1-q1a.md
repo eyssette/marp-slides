@@ -236,4 +236,4 @@ span {font-size:90%}
   - Peut-on apprendre à être libre ?
   - La maîtrise de soi est-elle la condition d'une vie libre ?
   - Agir spontanément, est-ce agir librement ?
-- Rédiger une sous-partie de dissertation <span>(200 mots minimum)</span> : :warning: <span>il faut défendre une seule réponse, mobiliser le cours (Schopenhauer ou Épicure), et utiliser le modèle ARES</span>
+- Rédiger une sous-partie de dissertation <span>(200 mots minimum)</span> : :warning: <span>il faut défendre une seule réponse, mobiliser le cours (Calliclès ou Socrate), et utiliser le modèle ARES</span>
