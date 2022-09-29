@@ -7,162 +7,140 @@ size: 4:3
 
 <!-- _class: titre -->
 
-# Q1b – Que faut-il <br>maîtriser en nous<br> pour être libre ? <!-- fit -->
-Cédric Eyssette (2022-2023)
-https://eyssette.github.io
+# Q1b – Suffit-il de<br> réfléchir pour être<br> maître de soi ? <!-- fit -->
+Cédric Eyssette (2021-2022)
+https://eyssette.github.io/
 
+---
+<!-- _class: i1t1 vertical -->
+<style scoped>
+img {height:437px; margin-left:2px!important}
+p {font-size:1.3em}
+</style>
+
+[![](https://i.ibb.co/gSkGBbG/experience-chamallow3-t.jpg)](https://ladigitale.dev/digiplay/#/v/615aec3d70284)
+
+L'expérience du chamallow
 
 
 ---
 <!-- _class: partie -->
-<style scoped>
-h1 {padding-left:50px; padding-right:50px}
-</style>
-# I – Il faut maîtriser<br> les désirs qui nous<br>conduisent à désirer <br>toujours plus (Épicure) <!-- fit -->
+# I – La raison permet de maîtriser ses désirs
 Première partie
 
 
 ---
-<!-- _class: citationC -->
-
-![Buste d'Épicure bg left:44%](https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Epikouros_BM_1843.jpg/1920px-Epikouros_BM_1843.jpg)
-
->« Il faut se rendre compte que parmi nos désirs les uns sont naturels les autres vains »
->>**Épicure**, _Lettre à Ménécée_
-
----
-<!-- _class: cinema -->
-
-[![Affiche du film Scarface](../images/scarface.png)](https://ladigitale.dev/digiplay/#/v/614c0b0e88d6a)
-
-> « Antonio “Tony” Montana (Al Pacino) […] est un petit malfrat cubain qui migre vers Miami dans l'espoir de faire fortune. Il trouve au départ un petit boulot dans une baraque à frites de Miami. Mais travailler pour quelques dollars ne correspond pas à l'idée qu'il se fait du « rêve américain ». Il se fait alors embaucher par un malfrat local puis par Frank Lopez, son patron]. […] Tony apprend vite le métier de mafioso de la drogue : il monte en grade […] Il a les dents beaucoup plus longues que ses collègues, il est mégalomane, ambitieux et d'une intelligence plus perverse. Il prend pour adage : _The World is Yours_ (Le monde est à toi) [...] Mais il commence à faire des erreurs dans ce monde qui ne pardonne pas, où l'on est vite remplacé. Il prend conscience que d'être arrivé au sommet de la mafia ne le rend pas aussi heureux qu'il l'avait espéré, qu'il n'est pas capable de rendre heureuses les personnes qu'il aime&nbsp;» (source : [wikipedia](https://fr.wikipedia.org/wiki/American_History_X))
+<!-- _class: souspartie -->
+## A. La métaphore de l'attelage (Platon)
 
 
 ---
-<!-- _class: -->
-<style scoped>
-img {position:absolute!important; top:0; left:0; width:90%!important; display:block; height:640px; margin: 40px 50px; }
-</style>
+<!-- _class: citationC fppppp -->
+![bg left:45%](https://upload.wikimedia.org/wikipedia/commons/4/4a/Plato-raphael.jpg)
 
-1) ![](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/epicurisme-desirs-vains-3.dot-part1.svg)
-1) ![](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/epicurisme-desirs-vains-3.dot-part2.svg)
-1) ![](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/epicurisme-desirs-vains-3.dot-part3.svg)
-1) ![](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/epicurisme-desirs-vains-3.dot-part4.svg)
-1) ![](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/epicurisme-desirs-vains-3.dot-part5.svg)
-1) ![](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/epicurisme-desirs-vains-3.dot.svg)
+>« Comparons l'âme aux forces réunies d'un attelage […] et d'un cocher. […] : le cocher dirige l'attelage, mais des coursiers l'un est beau et bon et d'une nature excellente, l'autre est d'une nature bien différente : d'où il suit que chez nous l'attelage est pénible et difficile à guider. »
+>>**Platon**, _Phèdre_
 
+---
+<!-- _class: i1t0  -->
+![](https://i.ibb.co/QC00NSZ/chariot-allegory-t.jpg)
 
 
 
 ---
-<!-- _class:  -->
+ <!-- _class: fppppppp -->
+ 
+<div data-marpit-fragment>
 
-<div class="data-marpit-fragment">
-
-1. Les désirs vains <br><span data-marpit-fragment="1">&rarr; Il faut y renoncer, il faut s'en libérer</span>
-2. Les désirs naturels <br><span data-marpit-fragment="2">&rarr; Ils correspondent à des besoins fondamentaux qu'il faut satisfaire, mais il faut rester prudent</span>
+|Le cocher|Le bon <br>cheval|Le mauvais cheval|
+|:-:|:-:|:-:|
+|<span data-marpit-fragment="1">Dirige l'attelage</span>|<span data-marpit-fragment="2">Fait avancer l'attelage en obéissant au cocher</span>|<span data-marpit-fragment="3">S'égare en suivant ses impulsions</span>|
+|<span data-marpit-fragment="4">La raison</span>|<span data-marpit-fragment="5">La volonté</span>|<span data-marpit-fragment="6">Le désir</span>|
 
 </div>
 
----
-<!-- _class: cinema fmmm -->
+<!-- Revenir sur la distinction désir / volonté
+Dans les deux cas : une tendance vers une finalité
 
-[![Affiche du film Shame](https://fr.web.img3.acsta.net/medias/nmedia/18/81/98/98/19841064.jpg)](https://ladigitale.dev/digiplay/#/v/614c0ca5e9bc2)
-
->« Michael Fassbender se mue ici en cadre supérieur new yorkais à la vie très cloisonnée, incapable de vivre sa sexualité autrement que par le recours à la pornographie, à la prostitution, aux rencontres sans lendemain. [...] Steve McQueen dessine le portrait d’un homme perdu, esclave de ses démons. Captant un monde quadrillé à l’extrême (rues, façades de verre, bureaux, écrans…), jouant sur le paradoxe d’une infranchissable transparence, le réalisateur explore les méandres d’une solitude très contemporaine. » ([source](http://www.la-croix.com/Culture-Loisirs/Culture/Cinema/Shame-l-infranchissable-mur-de-la-vraie-rencontre-_EG_-2011-12-06-744235))
-
-
----
-<!-- _class: partie -->
-<style scoped>
-h1 {padding-left:50px; padding-right:50px}
-</style>
-# II – Il faut maîtriser <br>notre désir que le<br> monde soit conforme<br> à nos désirs (Épictète) <!-- fit -->
-Deuxième partie
-
-
----
-<!-- _class: citationC -->
-<style scoped>
-p{font-size:110%;}
-</style>
-
-![Dessin représentant Épictète bg left:45%](https://upload.wikimedia.org/wikipedia/commons/9/90/Epictetus.jpg)
-
->« Parmi les choses qui existent, certaines dépendent de nous, d'autres non. »
->>**Épictète**, _Manuel_
+tendance spontanée / tendance réfléchie
+pas de réflexion sur les moyens  / réflexion sur les moyens 
+une finalité vague : un simple souhait / une finalité précise : un but déterminé
+multiplicité des désirs / unité de la volonté
+dispersion / focalisation
+irrésolution, indécision / détermination à agir, résolution
+une impulsion qui naît en nous sous l'effet de l'attraction
+élan dont on ignore souvent l'origine / élan qui est le fruit d'un raisonnement
+À l'origine : un raisonnement et un choix conscient
+Dimension passive : on est attiré par quelque chose ou quelqu'un
+Dimension active : on fait un choix et on décide d'agir
+Une détermination à agir en vue d'un but déterminé
+Il y a un but déterminé et un effort pour agir en vue de ce but
+La finalité reste vague 
+Il y a souvent de l'indétermination : on ne sait pas vraiment ce qu'on recherche et on en reste à un simple souhait sans véritable action ou réflexion pour réaliser  / Il y a un but déterminé et un effort pour agir en vue de ce but
+C'est un simple souhait sans véritable action ou réflexion sur les moyens à mettre en œuvre / C'est une détermination à agir, un effort véritable
+Un effort de réflexion sur les moyens à mettre en œuvre, et de concentration dans l'action
 
 
----
-<!-- _class: exercice tableau fm -->
-<style scoped>
-table {margin-top:-0.6em!important}
-table tbody {font-size:0.9em}
-</style>
-| Ce qui dépend <br>de nous | Ce qui ne dépend <br>pas de nous |
-|:-:|:-:|
-| ? | ? | 
-| ? | ? | 
-| ? | ? | 
 
-1. Exemples : le corps, l'argent, la réputation …<br>
-2. Ce qui est intérieur<br>
-3. Ce qui est totalement soumis à notre volonté
-4. Exemples : notre manière de penser, nos choix …<br>
-5. Ce qui échappe en partie à notre volonté<br>
-6. Ce qui est extérieur à nous
-
----
-<!-- _class: exercice tableau-r fpppp -->
-| Ce qui dépend <br>de nous | Ce qui ne dépend <br>pas de nous |
-|:-:|:-:|
-| _4_ Exemples : <br>notre manière de penser, nos choix … | _1_ Exemples : <br>le corps, l'argent, <br>la réputation … | 
-| _2_ Ce qui est<br> intérieur | _6_ Ce qui est extérieur à nous| 
-| _3_ Ce qui est totalement soumis à notre volonté | _5_ Ce qui échappe en partie à notre volonté| 
+Un élan dont on ignore souvent l'origine / Un élan qui est le fruit d'un raisonnement
+Dimension passive : on est attiré par quelque chose ou quelqu'un / Dimension active : on fait un choix (on se fixe un objectif) et on décide d'agir
+On peut en être esclave / On est maître de soi
+Il y a souvent de l'indétermination (on ne sait pas vraiment ce qu'on recherche) / Il y a un but déterminé (on se représente plus précisément l'objectif à atteindre)
+Un simple souhait sans véritable action ou réflexion sur les moyens à mettre en œuvre / Un effort de réflexion sur les moyens à mettre en œuvre, et de concentration dans l'action
 
 
-<!-- 
-Le tragique de l'existence : fait partie de ce qui ne dépend pas de nous
+
+
+
  -->
 
 ---
-<!-- _class: souspartie -->
-## A. Accepter ce qui ne dépend pas de nous
+<!-- _class: i1t0  -->
+![](https://i.ibb.co/fXrwFPB/stop-cigarettes-t.jpg)
 
 ---
-<!-- _class: -->
+<!-- _class: exercice tableau colonnes fmmmm  -->
 <style scoped>
-ul {list-style-type:none}
-ul li {margin-left:-2em}
 </style>
-1) Il faut accepter le tragique au lieu de chercher à l'oublier dans l'illusion du divertissement
-	* &rArr; il faut affronter le réel
-2) Il faut accepter le tragique au lieu de se morfondre dans la tristesse et l'espérance
-	* &rArr; il faut se focaliser sur ce qu'on peut faire
+| Le désir | La volonté |
+|:-:|:-:|
+| ? | ? | 
+| ? | ? | 
+| ? | ? | 
 
-<!-- Précisions sur 1 :
-Exercices de préparation (pas seulement affronter sur le moment) : exemple du pot en terre …
-Précisions sur 2 :
-≠ un refus des émotions / = un refus de se laisser emporter par les émotions
-(cf. exemple des pleurs)
-≠ une philosophie de la résignation / = une philosophie de l'action (Marc-Aurèle, Pensées VI 51 : « L'homme raisonnable juge que le bien, c'est sa propre activité ») -->
+1. Un élan dont on ignore souvent l'origine<br>
+2. Dimension active : on se fixe un objectif <!--(on se fixe un objectif)--> et on décide d'agir<br>
+3. Un simple souhait sans projet précis d'action <!-- sans véritable action ou réflexion sur les moyens à mettre en œuvre--><br>
+4. Un élan qui est le fruit d'un raisonnement<br>
+5. Un effort de réflexion sur les moyens à mettre en œuvre, et de concentration dans l'action<br>
+6. Dimension passive : on est attiré par quelque chose ou quelqu'un<br>
 
 ---
-<!-- _class: citationC -->
+<!-- _class: exercice tableau-r fmm pm -->
+<style scoped>
 
-![Dessin représentant Épictète bg left:45%](https://upload.wikimedia.org/wikipedia/commons/9/90/Epictetus.jpg)
+</style>
+| Le désir | La volonté |
+|:-:|:-:|
+| _1_ Un élan dont on ignore souvent l'origine | _4_ Un élan qui est le <br>fruit d'un raisonnement | 
+| _6_ Dimension passive : on est attiré par quelque chose ou quelqu'un | _2_ Dimension active : <br>on fait un choix et<br> on décide d'agir | 
+| _3_ Un simple souhait sans projet précis d'action | _5_ Un effort de réflexion sur les moyens à mettre en œuvre, et de concentration dans l'action | 
 
->« N'attends pas que les événements arrivent comme tu le souhaites ; décide de vouloir ce qui arrive comme cela arrive et tu seras heureux »
->>**Épictète**, _Manuel_
 
-<!-- 
-Lien avec "amor fati"
-Citation pas vraiment utile : à supprimer ? -->
+---
+<!-- _class: pointmethode -->
+### Point méthode
+<style scoped>
+ul{padding-top:10px;}
+</style>
+:large_blue_circle:  Il y a plusieurs stratégies pour analyser une notion, notamment :
+- partir d'exemples
+- trouver une opposition ou une distinction
+
 
 ---
 <!-- _class: souspartie -->
-
-## B. Maîtriser ce qui dépend<br>de nous
+## B. Maîtriser notre jugement (Epictète)
 
 ---
 <!-- _class: citationC fpppppp -->
@@ -173,9 +151,6 @@ blockquote blockquote {margin-top:-10px!important;}
 
 >« Pour tout objet qui t'attire, te sert ou te plaît, représente-toi bien ce qu'il est […] Quand tu te prépares à faire quoi que ce soit, représente-toi bien de quoi il s'agit. […] Ce qui tourmente les hommes, ce n'est pas la réalité mais les jugements qu'ils portent sur elle. […] »
 >>**Épictète**, _Manuel_
-
-<!-- Prolongement avec les thérapies cognitives : agir sur les représentations pour guérir certains troubles de l'âme
- -->
 
 ---
 <!-- _class: i1t1 vertical fpp-->
@@ -189,16 +164,11 @@ ul li{text-align:justify!important; margin-left:30px!important; margin-right:30p
 - Comment réagissons-nous face à une insulte ou une injure ?
 - Quelle attitude pourrait recommander Épictète ?
 
-<!-- “Souviens-toi que ce qui te cause du tort, ce n'est pas qu'on t'insulte ou qu'on te frappe, mais l'opinion que tu as qu'on te fait du tort. Donc, si quelqu'un t'a mis en colère, sache que c'est ton propre jugement qui est le responsable de ta colère. Essaye de ne pas céder à la violence de l'imagination: car, une fois que tu auras examiné la chose, tu seras plus facilement maître de toi.”
-Epictète, Manuel, XX.
- -->
-
 ---
 <!-- _class: cinema fp-->
-[![Affiche du film Detachment](https://i.pinimg.com/originals/a5/9e/4d/a59e4da1f5b31fdbf6238c6cebb921df.jpg)](https://drive.google.com/file/d/13HeeYKcGmw7T9hZnFranNOvxf79fsnb7/view)
+[![Affiche du film Detachment](https://i.pinimg.com/originals/a5/9e/4d/a59e4da1f5b31fdbf6238c6cebb921df.jpg)](https://drive.google.com/file/d/13HeeYKcGmw7T9hZnFranNOvxf79fsnb7/view?usp=sharing)
 
 >« Henry Barthes est professeur remplaçant de littérature anglaise dans les lycées. […] Quand il arrive à son nouveau poste, il est immédiatement confronté à la violence environnante : le lycée est dans une zone difficile. Les enfants sont irrespectueux, agressifs. Henry ne s'émeut pas, il a une mission [à accomplir] » ([source](https://fr.wikipedia.org/wiki/Detachment))
-
 
 
 ---
@@ -225,22 +195,32 @@ ne pas être esclave de ses affects / être maître de soi, se gouverner par la 
  -->
 
 ---
-<!-- _class: souspartie -->
-## C. Être comme un roc face aux vagues
-
-
----
 <!-- _class:  -->
-<style scoped>
-ul {position:absolute; bottom:20px; left:-10px; background-color:#EEE; border:1px solid black; font-size:0.6em; border-radius:10px; width:400px}
-</style>
 ![bg](https://i.ibb.co/gwLSDZ8/rock-wave-t.webp)
 
 <!-- - “Être comme un roc face aux vagues” : qu'est-ce que cela veut dire ? -->
 
+
+
 ---
-<!-- _class: cinema fmmmm-->
+<!-- _class: partie -->
+# Mise en pratique
 
-[![Affiche du film Invictus](https://fr.web.img3.acsta.net/medias/nmedia/18/72/82/16/19187639.jpg)](https://drive.google.com/file/d/12mCc9CNQtZjqS9q86sBFT5gQlULTovaJ/view)
+---
+<!-- _class: exercice application fmm -->
+<style scoped>
+h3 {margin-bottom:10px}
+ul ul {font-size:100%; margin-left:-30px}
+span {font-size:90%}
+</style>
 
->« _Invictus_ est un poème écrit par William Ernest Henley (1849-1903), qui témoigne de son long combat contre la douleur et la maladie. En raison d’une tuberculose osseuse déclarée à l’âge de 12 ans, Henley doit subir l’amputation de sa jambe gauche entre 1868 et 1869, puis luttera de nombreuses années pour sauver sa deuxième jambe. […] Après la fin de l’apartheid en Afrique du Sud, le poème devient indissociable de Nelson Mandela. On apprend en effet que _Invictus_ est son poème préféré, et qui l’a inspiré et soutenu dans les moments les plus noirs de ses 27 années de captivité. » ([source](https://deniscougot.wordpress.com/le-poeme-invictus/))
+### Exercice d'application
+
+- Choisir un sujet ci-dessous :
+  - Suis-je maître de moi-même ?
+  - Nos désirs sont-ils nos faiblesses ?
+  - Peut-on manquer de volonté ?
+  - Sommes-nous maîtres de nos désirs ?
+  - L'usage de la violence est-il un signe de faiblesse ?
+  - Être libre est-ce agir spontanément ?
+- Rédiger une sous-partie de dissertation <span>(200 mots minimum)</span> : :warning: <span>il faut défendre une seule réponse, mobiliser le cours (le stoïcisme d'Épictète ou Platon), et utiliser le modèle ARES</span>

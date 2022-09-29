@@ -197,6 +197,8 @@ h3 {margin-bottom:1em}
 <span data-marpit-fragment="1">On peut utiliser : un exemple inventé ou mieux : un exemple issu de sa culture ou du cours.</span>
 <span data-marpit-fragment="2">Les exemples doivent rester secondaires : le principal, c'est la construction générale du raisonnement et l'usage des connaissances philosophiques.</span>
 
+<!-- ! TODO : L'année prochaine : ajouter distinction désir / volonté + image de l'attelage + point méthode sur l'analyse des concepts par exemple + oppositions -->
+
 ---
 <!-- _class: partie -->
 # Mise en pratique
