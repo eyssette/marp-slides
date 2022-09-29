@@ -114,7 +114,7 @@ ul {margin-top:-50px!important}
 * Il faut **utiliser** la référence pour répondre à la question (attention au lien avec le sujet).
 * Il faut **justifier** la référence : ce n'est pas parce que l'auteur l'a dit que c'est vrai.
 
-
+<!-- ! TODO : à mettre plutôt en début de partie I l'année prochaine -->
 
 ---
 <!-- _class: i1t0 pp -->
