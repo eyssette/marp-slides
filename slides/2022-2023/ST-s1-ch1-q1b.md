@@ -7,221 +7,114 @@ size: 4:3
 
 <!-- _class: titre -->
 <style scoped>
-h1 {padding:25px}
+
 </style>
-# Q1b – Suffit-il <br>d'être maître de soi <br>pour être libre ? <!-- fit -->
-Cédric Eyssette (2021-2022)
-https://eyssette.github.io/
+# Q1b – Suis-je <br>vraiment maître<br> de moi-même ? <!-- fit -->
+Cédric Eyssette (2022-2023)
+https://eyssette.github.io
+
 
 ---
 <!-- _class: i1t0 pp-->
+[![](https://i.ibb.co/Zhvz0m8/conformisme-social-t.jpg)](https://ladigitale.dev/digiplay/#/v/61a63c606c865)
 
-[![Affiche du film Invictus](https://fr.web.img3.acsta.net/medias/nmedia/18/72/82/16/19187639.jpg)](https://drive.google.com/file/d/12mCc9CNQtZjqS9q86sBFT5gQlULTovaJ/view)
-
-<!-- >« _Invictus_ est un poème écrit par William Ernest Henley (1849-1903), qui témoigne de son long combat contre la douleur et la maladie. En raison d’une tuberculose osseuse déclarée à l’âge de 12 ans, Henley doit subir l’amputation de sa jambe gauche entre 1868 et 1869, puis luttera de nombreuses années pour sauver sa deuxième jambe. […] Après la fin de l’apartheid en Afrique du Sud, le poème devient indissociable de Nelson Mandela. On apprend en effet que _Invictus_ est son poème préféré, et qui l’a inspiré et soutenu dans les moments les plus noirs de ses 27 années de captivité. » ([source](https://deniscougot.wordpress.com/le-poeme-invictus/)) -->
+<!-- https://www.youtube.com/watch?v=QOZRim9SKm8 -->
 
 
-<!-- Question : Nelson Mandela est-il libre ?
-Qu'est-ce qui montre qu'il n'est pas libre ?
-Qu'est-ce qui montre qu'il est libre ? -->
+
+---
+<!-- _class: pp -->
+<style scoped>
+p {position:absolute}
+p:nth-of-type(1), p:nth-of-type(4) {font-size:2.4em; width:100%; text-align:center; margin:auto; margin-left:-0.2em}
+p:nth-of-type(4) {font-size:1.3em; padding-bottom:15px;}
+p:nth-of-type(2), p:nth-of-type(3) {color:white; bottom:50px; font-size:0.8em; background-color:black; text-align:center; padding: 10px 30px}
+p:nth-of-type(2) {left:60px; bottom:25px}
+p:nth-of-type(3) {left:540px; bottom:25px; width:240px!important}
+</style>
+
+![bg](https://i.ibb.co/N9YSh7P/thomas-d-aquin.png)
+![bg](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Spinoza.jpg/1032px-Spinoza.jpg)
+
+:red_circle:
+
+Thomas d'Aquin
+
+Spinoza
+
+vs.
+
 
 ---
 <!-- _class: partie -->
 <style scoped>
-h1 {padding:40px}
 span span {font-weight:normal}
 </style>
-# I – Oui, car la liberté<br> est intérieure <br><span>(le stoïcisme <br>d'Épictète)</span> <!-- fit -->
+# I – <br>La raison permet <br>la maîtrise de soi <br><span>(Thomas d'Aquin)</span><!-- fit -->
 Première partie
 
-
-
 ---
-<!-- _class: citationC -->
+<!-- _class: citationC fp-->
 <style scoped>
-p{font-size:110%;}
+figure {margin-left:-2em!important}
 </style>
 
-![Dessin représentant Épictète bg left:45%](https://upload.wikimedia.org/wikipedia/commons/9/90/Epictetus.jpg)
+![bg left:38%](https://i.ibb.co/N9YSh7P/thomas-d-aquin.png)
 
->« Parmi les choses qui existent, certaines dépendent de nous, d'autres non. »
->>**Épictète**, _Manuel_
-
+>« Pour établir la preuve de la liberté, considérons d’abord que certains êtres agissent sans aucun jugement, comme la pierre qui tombe vers le bas […] D’autres êtres agissent d’après un certain jugement, mais qui n’est pas libre. Ainsi les animaux telle la brebis qui, voyant le loup, juge qu’il faut le fuir […] par un instinct naturel. […] Mais l’homme agit d'après […] un rapprochement de données opéré par la raison. »
+>>**Thomas d'Aquin**, _Somme théologique_, I, question 83, réponse
 
 ---
-<!-- _class: exercice tableau fm -->
+<!-- _class: i1t1 pp -->
 <style scoped>
-table {margin-top:-0.6em!important}
-table tbody {font-size:0.9em}
+p:nth-child(1){font-size:80%; padding:0; margin-top:-20px!important;}
+p:nth-child(2){padding:0}
+img{height:550px; }
 </style>
-| Ce qui dépend <br>de nous | Ce qui ne dépend <br>pas de nous |
+
+Exemple 1 : le roulement des œufs chez l'oie cendrée
+
+[![](https://i.ibb.co/KGcWZ88/egg-rolling.jpg)](https://video.link/w/Ej9mb)
+
+---
+<!-- _class: i1t1 pp -->
+<style scoped>
+p:nth-child(1){font-size:100%; text-align:center; padding:0; margin-top:-20px!important;}
+p:nth-child(2){padding:0}
+img{height:550px; }
+</style>
+
+Exemple 2 : l'agressivité de l’épinoche
+
+[![](https://i.ibb.co/7g2vvBq/epinoches.png)](https://video.link/w/Nj9mb)
+
+---
+<!-- _class: exercice tableau colonnes fmm-->
+<style scoped>
+td {font-size:80%}
+</style>
+
+|Agir par instinct|Agir après réflexion|
 |:-:|:-:|
-| ? | ? | 
-| ? | ? | 
-| ? | ? | 
+|?|?|
+|?|?|
+|?|?|
 
-1. Exemples : le corps, l'argent, la réputation …<br>
-2. Ce qui est intérieur<br>
-3. Ce qui est totalement soumis à notre volonté
-4. Exemples : notre manière de penser, nos choix …<br>
-5. Ce qui échappe en partie à notre volonté<br>
-6. Ce qui est extérieur à nous
+1. Point de départ : une situation qui est analysée et examinée
+2. Conséquence : un comportement flexible et inventif …
+3. Point de départ : un stimulus qui déclenche immédiatement une réaction
+4. Conséquence : un mécanisme rigide et automatique … 
+5. … qui est toujours le même pour tous les individus de la même espèce
+6. … qui peut être différent selon l'individu et la situation
 
 ---
-<!-- _class: exercice tableau-r fpppp -->
-| Ce qui dépend <br>de nous | Ce qui ne dépend <br>pas de nous |
+<!-- _class: exercice tableau-r fm pm-->
+
+|Agir par instinct|Agir après réflexion|
 |:-:|:-:|
-| _4_ Exemples : <br>notre manière de penser, nos choix … | _1_ Exemples : <br>le corps, l'argent, <br>la réputation … | 
-| _2_ Ce qui est<br> intérieur | _6_ Ce qui est extérieur à nous| 
-| _3_ Ce qui est totalement soumis à notre volonté | _5_ Ce qui échappe en partie à notre volonté| 
-
----
-<!-- _class: citationC fpppppp -->
-<style scoped>
-blockquote blockquote {margin-top:-10px!important;}
-</style>
-![Dessin représentant Épictète bg left:40%](https://upload.wikimedia.org/wikipedia/commons/9/90/Epictetus.jpg)
-
->« Pour tout objet qui t'attire, te sert ou te plaît, représente-toi bien ce qu'il est […] Quand tu te prépares à faire quoi que ce soit, représente-toi bien de quoi il s'agit. […] Ce qui tourmente les hommes, ce n'est pas la réalité mais les jugements qu'ils portent sur elle. […] »
->>**Épictète**, _Manuel_
-
-<!-- Prolongement avec les thérapies cognitives : agir sur les représentations pour guérir certains troubles de l'âme
- -->
-
----
-<!-- _class: i1t1 vertical fpp-->
-<style scoped>
-img {height:400px}
-ul li{text-align:justify!important; margin-left:30px!important; margin-right:30px!important;}
-</style>
-
-![Dessin stylisé représentant une personne qui en insulte une autre](https://i.ibb.co/hZHVtGM/insulte-t.jpg)
-
-- Comment réagissons-nous face à une insulte ou une injure ?
-- Quelle attitude pourrait recommander Épictète ?
-
-<!-- “Souviens-toi que ce qui te cause du tort, ce n'est pas qu'on t'insulte ou qu'on te frappe, mais l'opinion que tu as qu'on te fait du tort. Donc, si quelqu'un t'a mis en colère, sache que c'est ton propre jugement qui est le responsable de ta colère. Essaye de ne pas céder à la violence de l'imagination: car, une fois que tu auras examiné la chose, tu seras plus facilement maître de toi.”
-Epictète, Manuel, XX.
- -->
-
----
-<!-- _class: cinema fp-->
-[![Affiche du film Detachment](https://i.pinimg.com/originals/a5/9e/4d/a59e4da1f5b31fdbf6238c6cebb921df.jpg)](https://drive.google.com/file/d/13HeeYKcGmw7T9hZnFranNOvxf79fsnb7/view)
-
->« Henry Barthes est professeur remplaçant de littérature anglaise dans les lycées. […] Quand il arrive à son nouveau poste, il est immédiatement confronté à la violence environnante : le lycée est dans une zone difficile. Les enfants sont irrespectueux, agressifs. Henry ne s'émeut pas, il a une mission [à accomplir] » ([source](https://fr.wikipedia.org/wiki/Detachment))
-
-
-
----
-<!-- _class: -->
-<style scoped>
-img {position:absolute!important; top:0; left:0; width:90%!important; display:block; height:640px; margin: 40px 50px; }
-</style>
-
-1) ![](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/stoicisme-exemple-insulte.dot-part1.svg)
-1) ![](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/stoicisme-exemple-insulte.dot-part2.svg)
-1) ![](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/stoicisme-exemple-insulte.dot.svg)
-
-<!-- Ajouter : ce qui ne dépend pas de moi / ce qui dépend de moi -->
-
----
-<!-- _class: citationC -->
-![Dessin représentant Épictète bg left:42%](https://upload.wikimedia.org/wikipedia/commons/9/90/Epictetus.jpg)
-
->« Devant tout ce qui t'arrive, pense à rentrer en toi-même et cherche quelle faculté tu possèdes pour y faire face. […] En t'exerçant ainsi tu ne seras plus le jouet de tes représentations »
->>**Épictète**, _Manuel_
-
-<!-- “ne plus être le jouet de ses représentations“ => être maître de ses représentations
-ne pas être esclave de ses affects / être maître de soi, se gouverner par la raison
- -->
-
-
----
-<!-- _class:  -->
-<style scoped>
-ul {position:absolute; bottom:20px; left:-10px; background-color:#EEE; border:1px solid black; font-size:0.6em; border-radius:10px; width:400px}
-</style>
-![bg](https://i.ibb.co/gwLSDZ8/rock-wave-t.webp)
-
-<!-- - “Être comme un roc face aux vagues” : qu'est-ce que cela veut dire ? -->
-
-
-
-
----
-<!-- _class: partie -->
-<style scoped>
-h1 {padding:40px}
-span span {font-weight:normal}
-</style>
-# II – <br>Non, car la liberté est avant<br> tout extérieure et dépend<br> de conditions sociales <br><span>(Bakounine)</span> <!-- fit -->
-Deuxième partie
-
-
-
----
-<!-- _class: souspartie -->
-## A. La liberté intérieure <br>ne suffit pas
-
-
----
-<!-- _class: citationC fmmm-->
-![bg left:30%](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Bakunin.png/1036px-Bakunin.png)
-
->« [N]ous aimons trop la liberté – n’est-ce pas ? – pour nous contenter de son fantôme. Nous en voulons la réalité. Mais qu’est-ce qui constitue le fond réel et la condition positive de la liberté ? C’est le développement intégral et la pleine jouissance de toutes les facultés corporelles, intellectuelles et morales pour chacun. C’est par conséquent tous les moyens matériels nécessaires à l’existence humaine de chacun […]. Un homme qui meurt d’inanition, qui se trouve écrasé par la misère, qui se meurt chaque jour de froid et de faim, et qui, voyant souffrir tous ceux qu’il aime, ne peut venir à leur aide, n’est pas un homme libre, c’est un esclave. »
->>**Bakounine**, _Trois conférences faites aux ouvriers du val de Saint-Imier_, 2e conférence
-
-
----
-<!-- _class: -->
-<style scoped>
-section {font-size:4.5em; padding:0.4em}
-ol {list-style-type:none}
-ol li {margin-left:-0.7em!important}
-</style>
-Au sens commun, être libre, c'est …
-
-1) pouvoir faire ce que je veux
-
----
-<!-- _class: -->
-<style scoped>
-img {position:absolute!important; top:0; left:0; width:90%!important; display:block; height:640px; margin: 40px 50px; }
-</style>
-
-1. ![](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/liberte-action-liberte-volonte.dot-part1.svg)
-1) ![](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/liberte-action-liberte-volonte.dot-part2.svg)
-1) ![](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/liberte-action-liberte-volonte.dot-part3.svg)
-1) ![](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/liberte-action-liberte-volonte.dot-part4.svg)
-1) ![](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/liberte-action-liberte-volonte.dot-part5.svg)
-1) ![](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/liberte-action-liberte-volonte.dot-part6.svg)
-1) ![](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/liberte-action-liberte-volonte.dot.svg)
-
-<!-- 
-« Pouvoir faire … » : Liberté d'action : pouvoir d'agir => ne pas être empêché de faire ce qu'on a choisi de faire (liberté extérieure : focalisation sur la réalisation, dans le monde extérieur, de ses choix)
-« … Ce que je veux » : Liberté de la volonté (libre arbitre) : pouvoir de choisir et de décider par soi-même => être maître de ses actes (liberté intérieure : focalisation sur la capacité intérieure de contrôler ce que l'on fait)
-– Condition des alternatives : plusieurs choix sont possibles, il y a plusieurs possibilités alternatives parmi lesquelles je peux choisir ; avoir réellement le choix entre plusieurs possibilités alternatives
-– Condition de la source : je suis vraiment la source de mes propres actes, par les choix que je fais ; être véritablement la source de ses actes
- -->
-
-
----
-<!-- _class: fm -->
-<style scoped>
-h3{text-align:center; margin-bottom:0.5em}
-table td {width:400px; padding:32px}
-hr{padding:1px!important; background-color:#777!important}
-</style>
-
-### Exemples typiques
-
-<div data-marpit-fragment>
-
-|Liberté d'action|Liberté de la volonté|
-|:-:|:-:|
-|<span data-marpit-fragment="1">Les droits civils <br>et politiques</span><br><span>Les moyens matériels <br>pour pouvoir agir</span><hr><span data-marpit-fragment="2">≠ La prison<br>≠ La dictature <br>≠ La pauvreté</span>|<span data-marpit-fragment="3">Penser par soi-même<br>Être capable de maîtriser ses<br> impulsions</span><hr><span data-marpit-fragment="4">≠ Être endoctriné <br>≠ Être impulsif<br>≠ Avoir une addiction</span>|
-
-</div>
+|_3_ Point de départ : un stimulus qui déclenche immédiatement une réaction|_1_ Point de départ : une situation qui est analysée et examinée|
+|_4_ Conséquence : un mécanisme rigide et automatique … |_2_ Conséquence : un comportement flexible et inventif …|
+|_5_… qui est toujours le même pour tous les individus de la même espèce|_6_ … qui peut être différent selon l'individu et la situation|
 
 
 ---
@@ -234,29 +127,64 @@ ul{padding-top:10px;}
 - partir d'exemples
 - trouver une opposition ou une distinction
 
+---
+<!-- _class: i1t0 -->
+
+[![](https://upload.wikimedia.org/wikipedia/commons/3/33/Jumping-spider.jpg)](https://video.link/w/Tx9mb)
+
+
 
 ---
-<!-- _class:  -->
+<!-- _class: citationC fpp-->
 <style scoped>
-p {font-size:1.6em}
+figure {margin-left:-2em!important}
 </style>
-La liberté de la volonté ne suffit pas.
 
-La liberté requiert des possibilités réelles d'agir dans le monde.
+![bg left:38%](https://i.ibb.co/N9YSh7P/thomas-d-aquin.png)
+
+>« [C]’est pourquoi l’homme agit selon un jugement libre, car il a la faculté de se porter à divers objets. En effet, […] la raison peut suivre des directions opposées […]. [L]e jugement rationnel […] peut aller dans un sens ou dans l’autre, et n’est pas déterminé à une seule chose. En conséquence, il est nécessaire que l’homme ait le libre arbitre, par le fait même qu’il est doué de raison. »
+>>**Thomas d'Aquin**, _Somme théologique_, I, question 83, réponse
 
 ---
-<!-- _class: souspartie -->
-## B. La liberté dépend de conditions sociales
+<!-- _class: i1t0 -->
+
+![](https://i.ibb.co/DYMFbt6/coup-de-tete-zidane.jpg)
+
+<!-- Coup de tête de Zidane contre Materazzi (juillet 2006) lors de la finale de la Coupe du monde de football -->
 
 ---
-<!-- _class: citationC fmmmmmmm-->
-<style scoped>
-blockquote blockquote {margin-right:0; padding-top:5px; font-size:0.8em;}
-</style>
-![bg left:20%](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Bakunin.png/1036px-Bakunin.png)
+<!-- _class: i1t0  -->
+![](https://i.ibb.co/QC00NSZ/chariot-allegory-t.jpg)
 
->« Un homme condamné à rester toute la vie un être brutal, faute d’éducation humaine, un homme privé d’instruction, un ignorant, est nécessairement un esclave […]. Ce n’est pas tout. La liberté des individus n’est point un fait individuel, c’est un fait, un produit collectif. aucun homme ne saurait être libre en dehors et sans le concours de toute l’humaine société. […] Imaginez-vous l’homme doué par la nature des facultés les plus géniales, jeté dès son bas âge en dehors de toute société humaine, dans un désert. S’il ne périt pas misérablement, ce qui le plus probable, il ne sera rien qu’une brute, un singe, privé de parole et de pensée, — car la pensée est inséparable de la parole […]. Mais qu’est-ce que la parole ? C’est la communication, c’est la conversation d’un individu humain avec beaucoup d’autres individus. L’homme animal ne se transforme en être humain, c’est-à-dire pensant, que par cette conversation, que dans cette conversation. Son individualité, en tant qu’humaine, sa liberté, est donc le produit de la collectivité. L’homme ne s’émancipe de la pression tyrannique qu’exerce sur chacun la nature extérieure que par le travail collectif […]. Être libre dans l’isolement absolu est une absurdité […]. Pour être libre, j’ai besoin de me voir entouré, et reconnu comme tel, par des hommes libres.  »
->>**Bakounine**, _Trois conférences faites aux ouvriers du val de Saint-Imier_, 2e conférence
+
+---
+<!-- _class: citationC fppppp -->
+![bg left:45%](https://upload.wikimedia.org/wikipedia/commons/4/4a/Plato-raphael.jpg)
+
+>« Comparons l'âme aux forces réunies d'un attelage […] et d'un cocher. […] : le cocher dirige l'attelage, mais des coursiers l'un est beau et bon et d'une nature excellente, l'autre est d'une nature bien différente : d'où il suit que chez nous l'attelage est pénible et difficile à guider. »
+>>**Platon**, _Phèdre_
+
+
+
+---
+ <!-- _class: fppppppp -->
+ 
+<div data-marpit-fragment>
+
+|Le cocher|Le bon <br>cheval|Le mauvais cheval|
+|:-:|:-:|:-:|
+|<span data-marpit-fragment="1">Dirige l'attelage</span>|<span data-marpit-fragment="2">Fait avancer l'attelage en obéissant au cocher</span>|<span data-marpit-fragment="3">S'égare en suivant ses impulsions</span>|
+|<span data-marpit-fragment="4">La raison</span>|<span data-marpit-fragment="5">La volonté</span>|<span data-marpit-fragment="6">Le désir</span>|
+
+</div>
+
+
+---
+<!-- _class: i1t0  -->
+![](https://i.ibb.co/fXrwFPB/stop-cigarettes-t.jpg)
+
+<!-- Rappel de la distinction désir / volonté -->
+
 
 
 ---
@@ -271,28 +199,84 @@ p {font-size:1.3em}
 L'expérience du chamallow
 
 
+---
+<!-- _class: partie -->
+<style scoped>
+span span {font-weight:normal}
+</style>
+# II – Des influences <br>s'exercent sur nous <br><span>(Spinoza)</span> <!-- fit -->
+Deuxième partie
 
+
+---
+<!-- _class: citationC -->
+
+![bg left:40%](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Spinoza.jpg/1032px-Spinoza.jpg)
+
+>« Telle est cette liberté humaine que tous les hommes se vantent d'avoir et qui consiste en cela seul que les hommes sont conscients de leurs désirs et ignorants des causes qui les déterminent ! »
+>>**Spinoza**, _Lettre 58_ à Schuller
+
+
+---
+<!-- _class: i1t1  vertical -->
+<style scoped>
+img{height:570px}
+p:nth-child(2){font-size:70%; padding:0; margin-top:-13px;}
+</style>
+
+[![](../images/baisemains-et-mocassins.jpg)](https://www.dailymotion.com/video/x2kbvlx)
+
+Antoine Gallien, _Baisemains et mocassins_ (2005)
+
+
+---
+<!-- _class: i1t1  horizontal -->
+<style scoped>
+p{text-align:justify!important; font-size:86%; }
+p:nth-child(1){margin-left:-40px!important; margin-right:20px!important;}
+p:nth-child(2){padding:0}
+</style>
+
+[![](https://fr.web.img6.acsta.net/medias/nmedia/18/35/18/16/18370240.jpg)](https://www.youtube.com/watch?v=Vl05QUPnHTc)
+
+Dans le film _L'esquive_, d'Abdelattif Kechiche, Un groupe d'adolescents d'une cité HLM répète, pour leur cours de français, un passage de la pièce _Le Jeu de l'amour et du hasard_ de Marivaux.
+
+---
+<!-- _class: i1t0 pp -->
+
+[![](../images/homogamie-sociale.png)](https://www.inegalites.fr/Couples-qui-se-ressemble-s-assemble)
+
+
+---
+<!-- _class: citationC  -->
+
+![bg left:37% Photographie de Karl Marx](https://upload.wikimedia.org/wikipedia/commons/d/d4/Karl_Marx_001.jpg)
+
+>« Ce n’est pas la conscience des hommes qui détermine leur existence, c’est au contraire leur existence sociale qui détermine leur conscience. »
+>>Karl **Marx**, *Contribution à la critique de l’économie politique*, préface
 
 
 ---
 <!-- _class: partie -->
-# Mise en pratique
+# Mise en<br> pratique <!-- fit -->
 
 ---
-<!-- _class: exercice application fmm -->
+<!-- _class: exercice application fmmm -->
 <style scoped>
-h3 {margin-bottom:10px}
-ul ul {font-size:100%; margin-left:-30px}
-span {font-size:90%}
+h3 {margin-bottom:15px}
+ul {margin-left:24px;}
+ul ul {font-size:100%; margin-left:-40px}
+span {font-size:90%;}
 </style>
 
 ### Exercice d'application
 
 - Choisir un sujet ci-dessous :
-  - Suis-je maître de moi-même ?
-  - Nos désirs sont-ils nos faiblesses ?
-  - Peut-on manquer de volonté ?
-  - Sommes-nous maîtres de nos désirs ?
-  - L'usage de la violence est-il un signe de faiblesse ?
-  - Être libre est-ce agir spontanément ?
-- Rédiger une sous-partie de dissertation <span>(200 mots minimum)</span> : :warning: <span>il faut défendre une seule réponse, mobiliser le cours (le stoïcisme d'Épictète ou Platon), et utiliser le modèle ARES</span>
+	- La liberté est-elle une illusion ?
+	- Un être humain est-il responsable de tout ce qu'il fait ?
+	- L’idée d’une liberté totale a-t-elle un sens ?
+	- Sommes-nous déterminés par notre passé ?
+  	- Les humains sont-ils des êtres à part dans la nature ?
+  	- La conscience est-elle ce qui me rend libre ?
+	- Faut-il être seul pour être libre ?
+- Rédiger une sous-partie de dissertation <span>(autour de 300 mots)</span><br> :warning:  <span>il faut défendre une seule réponse, mobiliser le cours, et utiliser le modèle _ARES_</span>

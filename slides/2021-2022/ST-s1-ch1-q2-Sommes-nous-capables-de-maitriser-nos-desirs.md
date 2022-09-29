@@ -203,7 +203,7 @@ Quand la vue d'un objet propre à exciter le désir agit sur le cocher, embrase 
 
 
  ---
- <!-- _class: fppppppppp -->
+ <!-- _class: fppppppp -->
  
 <div data-marpit-fragment>
 
