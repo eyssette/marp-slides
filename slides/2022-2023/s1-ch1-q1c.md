@@ -139,16 +139,47 @@ ol li:nth-of-type(2){top:114px; left:130px }
 
 À première vue, le tragique, c'est  ……………………………………………………………………………………………………………………………………………………………………………………
 
-Mais est-ce si simple ? En effet, ……………………………………………………………………………………………………………………………………………………………………………………
+Cependant, ………………………..
+……………………………………………………………………………………………………………………………………………………………………………………
 
 1) R1 : Première réponse possible au sujet
 2) R2 : Deuxième réponse possible au sujet,<br> opposée à R1
 
 <!-- 100-150 mots -->
 
+
+---
+<!-- _class: pointmethode -->
+### Point méthode
+Dans l'introduction d'une dissertation, il faut problématiser le sujet, c'est-à-dire montrer que la question posée pose problème.
+
+
+---
+<!-- _class: pointmethode fpppp -->
+<style scoped>
+p {padding-bottom:20px}
+</style>
+Pour cela : 
+1) On commence par justifier une première réponse possible au sujet **[R1]** à partir d'un début d'analyse de la notion principale
+2) On montre ensuite que ce n'est pas si simple et qu'on peut penser autrement : on justifie une deuxième réponse **[R2]**, opposée à la première
+
+---
+<!-- _class: pointmethode fpp -->
+<style scoped>
+p {padding-bottom:20px}
+</style>
+Attention : 
+1) R1 et R2 doivent être justifiées
+2) R1 et R2 doivent être en tension : il doit y avoir un véritable débat
+3) Ce n'est qu'une introduction, donc pas d'auteurs, pas de vocabulaire philosophique complexe (on garde tout cela pour le développement)
+4) La formulation doit manifester un questionnement, et non pas déjà une conclusion
+
 ---
 <!-- _class: partie -->
-# I - Les philosophes tragiques
+<style scoped>
+span span {font-weight:normal; font-size:0.9em}
+</style>
+# I - Nous ne pouvons <br>rien face au tragique <br><span>(les philosophes tragiques)</span> <!-- fit -->
 Première partie
 
 ---
@@ -303,8 +334,9 @@ Pascal reconnaît qu'il est très humain de vouloir se divertir. Il ne faut pas 
 <!-- _class: partie -->
 <style scoped>
 h1 {padding:40px}
+span span {font-weight:normal; font-size:0.9em}
 </style>
-# II - Le stoïcisme <br>d'Épictète<!-- fit -->
+# II - Nous pouvons faire <br>face au tragique <br><span>(Le stoïcisme d'Épictète)</span><!-- fit -->
 Deuxième partie
 
 ---
