@@ -200,6 +200,16 @@ Quand on analyse une notion, c'est bien de chercher à distinguer plusieurs sens
 >« Dans l'expérience amère de l'irréversible se concentre pour nous l'objectivité […] d'un temps désobéissant, pour ne pas dire indomptable, et qui échappe à notre contrôle. On ne peut s'y soustraire. […] L'objectivité du temps est sans commune mesure avec la résistance d'une matière palpable et tangible et massive qu'on peut façonner par l'effort et le travail, et sur laquelle nos outils ont des prises […]. [P]ar rapport au temps tout-puissant, la volonté elle-même apparaît impuissante […]. »
 >>Vladimir **Jankélévitch**, _L'irréversible et la nostalgie_
 
+
+---
+<!-- _class: fppppppp -->
+
+|Matière|Temps|
+|:-:|:-:|
+|<span data-marpit-fragment="1">Résistance relative</span>|<span data-marpit-fragment="2">Résistance absolue</span>|
+|<span data-marpit-fragment="3">On peut agir sur <br>la matière. <br>On peut avoir une prise sur elle</span>|<span data-marpit-fragment="4">Nous subissons <br>le temps. <br>Le temps a une emprise sur nous</span>|
+|<span data-marpit-fragment="5">Expression de notre puissance</span>|<span data-marpit-fragment="6">Expression de <br>notre impuissance</span>|
+
 ---
 <!-- _class: i1t1 horizontal pp -->
 <style scoped>
@@ -239,6 +249,21 @@ ul{width:300px!important; margin-top:-50px!important;}
 >« [E]n regardant l’univers muet et l’homme sans lumière, abandonné à lui-même, et comme égaré dans ce recoin de l’univers, sans savoir qui l’y a mis, ce qu’il y est venu faire, ce qu’il deviendra en mourant, incapable de toute connaissance, j’entre en effroi comme un homme qu’on aurait porté endormi dans une île déserte et effroyable, et qui s’éveillerait sans connaître où il est, et sans moyen d’en sortir »
 >>**Pascal**, _Pensées_, L.198 - B.693
 
+<!-- 
+"univers muet"
+l'être humain est "abandonné à lui-même"
+
+Terre au centre de l'univers (géocentrisme)
+Univers fini et ordonné de manière harmonieuse
+=>
+Pas de centre de l'univers
+Univers infini
+
+Divinités présentes dans la vie de la cité
+=> Dieu transcendant, Dieu absent
+
+=> sentiment d'insignifiance, voire d'absurdité
+-->
 
 ---
 <!-- _class: citationC fpppp  -->
@@ -264,7 +289,6 @@ img {position:absolute!important; top:0; left:0; width:90%!important; display:bl
 1) ![](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/divertissement-Pascal-v3.dot-part5.svg)
 1) ![](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/divertissement-Pascal-v3.dot.svg)
 
-
 ---
 <!-- _class: i1t1 vertical f -->
 <style scoped>
@@ -274,6 +298,16 @@ img {height:16em}
 [![](https://i.ibb.co/N1Xd738/bree-van-de-kamp-rex-death-t.jpg)](https://ladigitale.dev/digiplay/#/v/61533ff29c681)
 
 _Desperate Housewiwes_ (saison 1, épisode 23) :<br>Bree Van de Kamp apprend la mort de son mari
+
+
+---
+<!-- _class:  -->
+
+Le divertissement peut avoir pour origine un événement particulier (ex. : Bree Van de Kamp)<span data-marpit-fragment="1">, mais pour Pascal il est plus profondément lié à la **misère** de la condition humaine.</span>
+
+<span data-marpit-fragment="2">La misère ici :
+≠ la misère économique (ne rien avoir)</span>
+<span data-marpit-fragment="3">= la misère existentielle (n'être rien)</span>
 
 ---
 <!-- _class: exercice tableau fp-->
@@ -309,6 +343,8 @@ em {font-size:70%!important;}
 |*1* tourné vers l'extérieur|*4* tourné vers soi|
 |*5* rempli d'occupations, <br>de choses à faire|*2* angoissé par le vide de sens de<br> notre existence|
 
+<!-- ! TODO :Mettre plutôt le tableau de distinction avant l'exemple de Bree v.d.k. -->
+
 ---
 <!-- _class: citationC  -->
 
@@ -317,8 +353,12 @@ em {font-size:70%!important;}
 >« [C]eux qui font sur cela les philosophes et qui croient que le monde est bien peu raisonnable de passer tout le jour à courir après un lièvre qu’ils ne voudraient pas avoir acheté, ne connaissent guère notre nature. »
 >>**Pascal**, _Pensées_, L.136 - B.139
 
-<!-- Les demi-habiles : ceux qui critiquent le divertissement comme une forme de bêtise
-Pascal reconnaît qu'il est très humain de vouloir se divertir. Il ne faut pas se croire supérieur face à ceux qui ne font que se divertir.  -->
+<!-- 
+Pascal reconnaît qu'il est très humain de vouloir se divertir. Il ne faut pas se croire supérieur face à ceux qui ne font que se divertir. 
+
+Les demi-habiles : ceux qui critiquent le divertissement comme une forme de bêtise
+
+-->
 
 ---
 <!-- _class: citationC fppppppppp -->
@@ -388,34 +428,26 @@ Le tragique de l'existence : fait partie de ce qui ne dépend pas de nous
 ## A. Accepter ce qui ne dépend pas de nous
 
 ---
-<!-- _class: -->
+<!-- _class: fpppppp -->
 <style scoped>
 ul {list-style-type:none}
 ul li {margin-left:-2em}
 </style>
-1) Il faut accepter le tragique au lieu de chercher à l'oublier dans l'illusion du divertissement
+1) Accepter le tragique ≠ se divertir
 	* &rArr; il faut affronter le réel
-2) Il faut accepter le tragique au lieu de se morfondre dans la tristesse et l'espérance
+2) Accepter le tragique &rarr; ne pas se morfondre dans la tristesse et l'espérance
 	* &rArr; il faut se focaliser sur ce qu'on peut faire
+3) Accepter ≠ se résigner
+	* &rArr; accepter ce qui est là maintenant ne signifie pas qu'il faut rester dans l'inaction
 
-<!-- Précisions sur 1 :
+<!--
+Précisions sur 1 :
 Exercices de préparation (pas seulement affronter sur le moment) : exemple du pot en terre …
+
 Précisions sur 2 :
 ≠ un refus des émotions / = un refus de se laisser emporter par les émotions
 (cf. exemple des pleurs)
 ≠ une philosophie de la résignation / = une philosophie de l'action (Marc-Aurèle, Pensées VI 51 : « L'homme raisonnable juge que le bien, c'est sa propre activité ») -->
-
----
-<!-- _class: citationC -->
-
-![Dessin représentant Épictète bg left:45%](https://upload.wikimedia.org/wikipedia/commons/9/90/Epictetus.jpg)
-
->« N'attends pas que les événements arrivent comme tu le souhaites ; décide de vouloir ce qui arrive comme cela arrive et tu seras heureux »
->>**Épictète**, _Manuel_
-
-<!-- 
-Lien avec "amor fati"
-Citation pas vraiment utile : à supprimer ? -->
 
 ---
 <!-- _class: souspartie -->
