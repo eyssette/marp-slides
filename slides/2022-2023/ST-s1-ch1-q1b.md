@@ -150,7 +150,10 @@ figure {margin-left:-2em!important}
 
 ![](https://i.ibb.co/DYMFbt6/coup-de-tete-zidane.jpg)
 
-<!-- Coup de tête de Zidane contre Materazzi (juillet 2006) lors de la finale de la Coupe du monde de football -->
+<!-- Coup de tête de Zidane contre Materazzi (juillet 2006) lors de la finale de la Coupe du monde de football
+
+Nous agissons parfois par impulsion : notre acte est alors spontané, mais il n’est pas pour autant libre, car il n’exprime pas un véritable choix
+-->
 
 ---
 <!-- _class: i1t0  -->
@@ -178,12 +181,14 @@ figure {margin-left:-2em!important}
 
 </div>
 
+<!-- Distinction désir / volonté
+Volonté : un effort de réflexion sur les moyens à mettre en œuvre, une détermination dans l'action
+Désir : un simple souhait sans projet précis d'action
+ -->
 
 ---
 <!-- _class: i1t0  -->
 ![](https://i.ibb.co/fXrwFPB/stop-cigarettes-t.jpg)
-
-<!-- Rappel de la distinction désir / volonté -->
 
 
 
@@ -198,6 +203,7 @@ p {font-size:1.3em}
 
 L'expérience du chamallow
 
+<!-- Tiraillement entre la volonté d'avoir 2 chamallows et le désir de manger le chamallow devant soi -->
 
 ---
 <!-- _class: partie -->
@@ -215,6 +221,9 @@ Deuxième partie
 
 >« Telle est cette liberté humaine que tous les hommes se vantent d'avoir et qui consiste en cela seul que les hommes sont conscients de leurs désirs et ignorants des causes qui les déterminent ! »
 >>**Spinoza**, _Lettre 58_ à Schuller
+
+
+<!-- Nous n'avons qu'une connaissance partielle de nous-mêmes : nous avons généralement conscience de nos actes et de nos raisons d'agir. Mais n'y a-t-il pas des facteurs qui exercent de manière inconsciente une influence sur nous ? -->
 
 
 ---
