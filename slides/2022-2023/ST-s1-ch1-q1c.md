@@ -219,7 +219,7 @@ hr{padding:1px!important; background-color:#777!important}
 
 |Liberté d'action|Liberté de la volonté|
 |:-:|:-:|
-|<span data-marpit-fragment="1">Les droits civils <br>et politiques</span><br><span>Les moyens matériels <br>pour pouvoir agir</span><hr><span data-marpit-fragment="2">≠ La prison<br>≠ La dictature <br>≠ La pauvreté</span>|<span data-marpit-fragment="3">Penser par soi-même<br>Être capable de maîtriser ses<br> impulsions</span><hr><span data-marpit-fragment="4">≠ Être endoctriné <br>≠ Être impulsif<br>≠ Avoir une addiction</span>|
+|<span data-marpit-fragment="1">Les droits civils <br>et politiques</span><br><span data-marpit-fragment="2">Les moyens matériels <br>pour pouvoir agir</span><hr><span data-marpit-fragment="3">≠ La prison<br>≠ La dictature <br>≠ La pauvreté</span>|<span data-marpit-fragment="4">Penser par soi-même<br>Être capable de maîtriser ses<br> impulsions</span><hr><span data-marpit-fragment="5">≠ Être endoctriné <br>≠ Être impulsif<br>≠ Avoir une addiction</span>|
 
 </div>
 
@@ -268,7 +268,10 @@ span {font-size:90%}
 ### Exercice d'application
 
 - Choisir un sujet ci-dessous :
-  - Faut-il être seul pour être libre ?
-  - La réflexion personnelle est-elle ce qui me rend libre ?
-  - 
+  - Les autres sont-ils un obstacle à ma liberté ?
+  - Suffit-il de réfléchir pour être libre ?
+  - Peut-on apprendre à être libre ?
+  - Devons-nous nous libérer de nos désirs ?
+  - Éduquer l'individu, est-ce porter atteinte à sa liberté ?
+  - Être libre, est-ce ne subir aucune influence ?
 - Rédiger une sous-partie de dissertation <span>(200 mots minimum)</span> : :warning: <span>il faut défendre une seule réponse, mobiliser le cours (le stoïcisme d'Épictète ou Bakounine), et utiliser le modèle ARES</span>
