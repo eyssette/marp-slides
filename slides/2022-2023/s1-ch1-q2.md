@@ -244,12 +244,9 @@ blockquote blockquote{font-size:0.88em;}
 
 ---
 <!-- _class:  -->
-<style scoped>
-ol {list-style-type:none}
-ol li{margin-left:-1em}
-</style>
-1) Une vie avec plus de plaisirs n'est pas nécessairement une vie meilleure, car ce qui compte ce n'est pas la **quantité** des plaisirs (en nombre, en intensité, en durée), mais la **qualité**.
-1) La vie bonne n'est pas une simple **somme de plaisirs**, mais repose sur certaines **valeurs** : une vie proprement humaine, la réflexion, la conscience morale
+Une vie avec plus de plaisirs n'est pas nécessairement une vie meilleure, car ce qui compte ce n'est pas la **quantité** des plaisirs (en nombre, en intensité, en durée), mais la **qualité**.
+
+<span data-marpit-fragment="1">La vie bonne n'est pas une simple **somme de plaisirs**, mais repose sur certaines **valeurs** : une vie proprement humaine, la réflexion, la conscience morale</span>
 
 <!-- 
 Approfondissement possible : distinction Mill / Bentham
@@ -284,16 +281,19 @@ blockquote blockquote{font-size:0.88em;}
 
 
 ---
-<!-- _class: fppppp -->
+<!-- _class: fpppp -->
 <style scoped>
-ol {list-style-type:none}
-ol li{margin-left:-1em; line-height:1.25em}
+ul {background:transparent!important; margin:0; margin-bottom:10px; padding-top:0; padding-left:80px; padding-right:70px; list-style-position: inside; list-style-type:circle}
+ul li:before{content:""!important;}
+ul li{margin-left:-1em; line-height:1.25em;}
 </style>
-1) La vie bonne repose sur l'exercice et le **développement de nos facultés** :
-   * la réflexion, la conscience morale ;
-   * mais aussi : nos facultés physiques, l'imagination, la créativité, le lien social …
-1) La vie bonne est une vie **accomplie** : le bien suprême, c'est le **perfectionnement de soi**
-1) Cela n'implique **pas un modèle déterminé** que chacun devrait suivre. Il y a au contraire une valorisation de **l'individualité**, de la **recherche de soi**.
+La vie bonne repose sur l'exercice et le **développement de nos facultés** :
+* la réflexion, la conscience morale ;
+* mais aussi : nos facultés physiques, l'imagination, la créativité, le lien social …
+
+<span data-marpit-fragment="2">La vie bonne est une vie **accomplie** : le bien suprême, c'est le **perfectionnement de soi**</span>
+
+<span data-marpit-fragment="3">Cela n'implique **pas un modèle déterminé** que chacun devrait suivre. Il y a au contraire une valorisation de **l'individualité**, de la **recherche de soi**.</span>
 
 <!-- Approfondissement possible :
 Perfectionnisme moderne (idéal de développement de son individualité : pas une seule forme possible d'excellence)
@@ -313,13 +313,11 @@ blockquote blockquote{font-size:0.88em;}
 
 ---
 <!-- _class:  -->
-<style scoped>
-ol {list-style-type:none}
-ol li{margin-left:-1em}
-</style>
-1) Le bonheur n'est pas l'idéal d'une vie **pleine de satisfactions**.
-2) Le bonheur est l'idéal d'une vie accomplie, **pleine de sens**, riche et profonde.
-3) En ce sens, le bonheur inclut les autres valeurs importantes : la liberté, la justice, la vérité, …
+Le bonheur n'est pas l'idéal d'une vie **pleine de satisfactions**.
+
+<span data-marpit-fragment="1">Le bonheur est l'idéal d'une vie accomplie, **pleine de sens**, riche et profonde.</span>
+
+<span data-marpit-fragment="2">En ce sens, le bonheur inclut les autres valeurs importantes : la liberté, la justice, la vérité, …</span>
 
 <!-- 
 Refaire le lien avec la question posée :
