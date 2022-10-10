@@ -25,13 +25,67 @@ https://eyssette.github.io/
 Qu'est-ce qui montre qu'il n'est pas libre ?
 Qu'est-ce qui montre qu'il est libre ? -->
 
+
+---
+<!-- _class: -->
+<style scoped>
+section {font-size:4.5em; padding:0.4em}
+ol {list-style-type:none}
+ol li {margin-left:-0.7em!important}
+</style>
+Au sens commun, être libre, c'est …
+
+1) pouvoir faire ce que je veux
+
+---
+<!-- _class: -->
+<style scoped>
+img {position:absolute!important; top:0; left:0; width:90%!important; display:block; height:640px; margin: 40px 50px; }
+</style>
+
+1. ![](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/liberte-action-liberte-volonte.dot-part1.svg)
+1) ![](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/liberte-action-liberte-volonte.dot-part2.svg)
+1) ![](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/liberte-action-liberte-volonte.dot-part3.svg)
+1) ![](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/liberte-action-liberte-volonte.dot-part4.svg)
+1) ![](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/liberte-action-liberte-volonte.dot-part5.svg)
+1) ![](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/liberte-action-liberte-volonte.dot-part6.svg)
+1) ![](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/liberte-action-liberte-volonte.dot.svg)
+
+<!-- 
+« Pouvoir faire … » : Liberté d'action : pouvoir d'agir => ne pas être empêché de faire ce qu'on a choisi de faire (liberté extérieure : focalisation sur la réalisation, dans le monde extérieur, de ses choix)
+« … Ce que je veux » : Liberté de la volonté (libre arbitre) : pouvoir de choisir et de décider par soi-même => être maître de ses actes (liberté intérieure : focalisation sur la capacité intérieure de contrôler ce que l'on fait)
+– Condition des alternatives : plusieurs choix sont possibles, il y a plusieurs possibilités alternatives parmi lesquelles je peux choisir ; avoir réellement le choix entre plusieurs possibilités alternatives
+– Condition de la source : je suis vraiment la source de mes propres actes, par les choix que je fais ; être véritablement la source de ses actes
+-->
+
+
+---
+<!-- _class: fm -->
+<style scoped>
+h3{text-align:center; margin-bottom:0.5em}
+table td {width:400px; padding:32px}
+hr{padding:1px!important; background-color:#777!important}
+</style>
+
+### Exemples typiques
+
+<div data-marpit-fragment>
+
+|Liberté d'action|Liberté de la volonté|
+|:-:|:-:|
+|<span data-marpit-fragment="1">Avoir des droits <br>civils et politiques</span><br><span data-marpit-fragment="2">Avoir des moyens matériels pour agir</span><hr><span data-marpit-fragment="3">≠ La prison<br>≠ La dictature <br>≠ La pauvreté</span>|<span data-marpit-fragment="4">Penser par soi-même<br>Être capable de maîtriser ses<br> impulsions</span><hr><span data-marpit-fragment="5">≠ Être endoctriné <br>≠ Être impulsif<br>≠ Avoir une addiction</span>|
+
+</div>
+
+
+
 ---
 <!-- _class: partie -->
 <style scoped>
 h1 {padding:40px}
-span span {font-weight:normal}
+span span {font-weight:normal; font-size:0.9em}
 </style>
-# I – Oui, car la liberté<br> est intérieure <br><span>(le stoïcisme <br>d'Épictète)</span> <!-- fit -->
+# I – <br>La maîtrise de soi suffit<br> pour être libre car la <br>liberté est intérieure <br><span>(le stoïcisme d'Épictète)</span> <!-- fit -->
 Première partie
 
 
@@ -88,6 +142,11 @@ blockquote blockquote {margin-top:-10px!important;}
 <!-- Prolongement avec les thérapies cognitives : agir sur les représentations pour guérir certains troubles de l'âme
  -->
 
+<!-- “ne plus être le jouet de ses représentations“ => être maître de ses représentations
+ne pas être esclave de ses affects / être maître de soi, se gouverner par la raison
+-->
+
+
 ---
 <!-- _class: i1t1 vertical fpp-->
 <style scoped>
@@ -124,16 +183,7 @@ img {position:absolute!important; top:0; left:0; width:90%!important; display:bl
 
 <!-- Ajouter : ce qui ne dépend pas de moi / ce qui dépend de moi -->
 
----
-<!-- _class: citationC -->
-![Dessin représentant Épictète bg left:42%](https://upload.wikimedia.org/wikipedia/commons/9/90/Epictetus.jpg)
 
->« Devant tout ce qui t'arrive, pense à rentrer en toi-même et cherche quelle faculté tu possèdes pour y faire face. […] En t'exerçant ainsi tu ne seras plus le jouet de tes représentations »
->>**Épictète**, _Manuel_
-
-<!-- “ne plus être le jouet de ses représentations“ => être maître de ses représentations
-ne pas être esclave de ses affects / être maître de soi, se gouverner par la raison
- -->
 
 
 ---
@@ -147,14 +197,13 @@ ul {position:absolute; bottom:20px; left:-10px; background-color:#EEE; border:1p
 
 
 
-
 ---
 <!-- _class: partie -->
 <style scoped>
 h1 {padding:40px}
 span span {font-weight:normal}
 </style>
-# II – <br>Non, car la liberté est avant<br> tout extérieure et dépend<br> de conditions sociales <br><span>(Bakounine)</span> <!-- fit -->
+# II – <br>La maîtrise de soi ne suffit<br> pas, car la liberté est avant<br> tout extérieure et dépend<br> de conditions sociales <br><span>(Bakounine)</span> <!-- fit -->
 Deuxième partie
 
 
@@ -172,56 +221,8 @@ Deuxième partie
 >>**Bakounine**, _Trois conférences faites aux ouvriers du val de Saint-Imier_, 2e conférence
 
 
----
-<!-- _class: -->
-<style scoped>
-section {font-size:4.5em; padding:0.4em}
-ol {list-style-type:none}
-ol li {margin-left:-0.7em!important}
-</style>
-Au sens commun, être libre, c'est …
-
-1) pouvoir faire ce que je veux
-
----
-<!-- _class: -->
-<style scoped>
-img {position:absolute!important; top:0; left:0; width:90%!important; display:block; height:640px; margin: 40px 50px; }
-</style>
-
-1. ![](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/liberte-action-liberte-volonte.dot-part1.svg)
-1) ![](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/liberte-action-liberte-volonte.dot-part2.svg)
-1) ![](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/liberte-action-liberte-volonte.dot-part3.svg)
-1) ![](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/liberte-action-liberte-volonte.dot-part4.svg)
-1) ![](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/liberte-action-liberte-volonte.dot-part5.svg)
-1) ![](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/liberte-action-liberte-volonte.dot-part6.svg)
-1) ![](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/liberte-action-liberte-volonte.dot.svg)
-
-<!-- 
-« Pouvoir faire … » : Liberté d'action : pouvoir d'agir => ne pas être empêché de faire ce qu'on a choisi de faire (liberté extérieure : focalisation sur la réalisation, dans le monde extérieur, de ses choix)
-« … Ce que je veux » : Liberté de la volonté (libre arbitre) : pouvoir de choisir et de décider par soi-même => être maître de ses actes (liberté intérieure : focalisation sur la capacité intérieure de contrôler ce que l'on fait)
-– Condition des alternatives : plusieurs choix sont possibles, il y a plusieurs possibilités alternatives parmi lesquelles je peux choisir ; avoir réellement le choix entre plusieurs possibilités alternatives
-– Condition de la source : je suis vraiment la source de mes propres actes, par les choix que je fais ; être véritablement la source de ses actes
- -->
 
 
----
-<!-- _class: fm -->
-<style scoped>
-h3{text-align:center; margin-bottom:0.5em}
-table td {width:400px; padding:32px}
-hr{padding:1px!important; background-color:#777!important}
-</style>
-
-### Exemples typiques
-
-<div data-marpit-fragment>
-
-|Liberté d'action|Liberté de la volonté|
-|:-:|:-:|
-|<span data-marpit-fragment="1">Les droits civils <br>et politiques</span><br><span data-marpit-fragment="2">Les moyens matériels <br>pour pouvoir agir</span><hr><span data-marpit-fragment="3">≠ La prison<br>≠ La dictature <br>≠ La pauvreté</span>|<span data-marpit-fragment="4">Penser par soi-même<br>Être capable de maîtriser ses<br> impulsions</span><hr><span data-marpit-fragment="5">≠ Être endoctriné <br>≠ Être impulsif<br>≠ Avoir une addiction</span>|
-
-</div>
 
 
 ---
