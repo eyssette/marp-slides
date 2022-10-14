@@ -5,10 +5,17 @@ paginate: true
 size: 4:3
 ---
 
-<!-- _class: titre -->
+<!-- _class: titre pm -->
 # Q2 – Le bonheur <br>est-il le but de<br> l'existence ? <!-- fit -->
 Cédric Eyssette (2021-2022)
 https://eyssette.github.io/
+
+
+---
+<!-- _class: pointmethode -->
+### Point méthode
+
+Il faut être attentif à tous les termes d'un sujet.<br>Même un petit mot (un article, …) peut avoir de l'importance.
 
 ---
 <!-- _class: i1t1 pp -->
