@@ -221,16 +221,28 @@ Deuxième partie
 >>**Bakounine**, _Trois conférences faites aux ouvriers du val de Saint-Imier_, 2e conférence
 
 
+---
+<!-- _class:  -->
+Bakounine défend une **conception perfectionniste** de la liberté.
+
+<span data-marpit-fragment="1">La liberté repose sur la possibilité d'exercer et de développer ses facultés. Elle consiste en une forme d'autonomie réelle et de perfectionnement de soi.</span>
 
 
+---
+<!-- _class:  -->
+Pour être réellement autonome, il faut avoir les ressources nécessaires pour pouvoir effectivement réaliser ce que l'on veut.
+
+<span data-marpit-fragment="1">La **liberté réelle** (= avoir la capacité) se distingue de la **liberté formelle** (= avoir simplement le droit).</span>
+
+<!-- Exemple : liberté réelle de mouvement -->
 
 
 ---
 <!-- _class:  -->
 <style scoped>
-p {font-size:1.6em}
+p {font-size:1.24em}
 </style>
-La liberté de la volonté ne suffit pas.
+Donc : la liberté de la volonté et la maîtrise de soi ne suffisent pas.
 
 La liberté requiert des possibilités réelles d'agir dans le monde.
 
@@ -249,17 +261,26 @@ blockquote blockquote {margin-right:0; padding-top:5px; font-size:0.8em;}
 >>**Bakounine**, _Trois conférences faites aux ouvriers du val de Saint-Imier_, 2e conférence
 
 
+---
+<!-- _class: definition -->
+### Définition
+
+Un bien rival est un bien tel que si j'ai plus de ce bien, alors les autres en ont moins.
 
 
+---
+<!-- _class:  -->
 
+On conçoit souvent la liberté comme un bien rival : c'est l'idée que si j'ai plus de libertés, alors les autres en ont moins. On conçoit alors les autres comme un obstacle à ma liberté.
 
+<span data-marpit-fragment="1">Mais pour Bakounine, la liberté n'est pas un bien rival. Les autres ne sont pas un obstacle, mais une condition de ma liberté</span>
 
 ---
 <!-- _class: partie -->
 # Mise en pratique
 
 ---
-<!-- _class: exercice application fmm -->
+<!-- _class: exercice application fmmmmmm -->
 <style scoped>
 h3 {margin-bottom:10px}
 ul ul {font-size:100%; margin-left:-30px}
@@ -275,4 +296,7 @@ span {font-size:90%}
   - Devons-nous nous libérer de nos désirs ?
   - Éduquer l'individu, est-ce porter atteinte à sa liberté ?
   - Être libre, est-ce ne subir aucune influence ?
-- Rédiger une sous-partie de dissertation <span>(200 mots minimum)</span> : :warning: <span>il faut défendre une seule réponse, mobiliser le cours (le stoïcisme d'Épictète ou Bakounine), et utiliser le modèle ARES</span>
+  - Ma liberté s'arrête-t-elle là où commence celle des autres ?
+  - La liberté de chacun a-t-elle pour condition la liberté de tous ?
+  -  La vie sociale est-elle toujours conflictuelle ?
+- Rédiger une sous-partie de dissertation <span>(200 mots minimum)</span> :<br> :warning: <span>il faut défendre une seule réponse, mobiliser le cours (le stoïcisme d'Épictète ou Bakounine), et utiliser le modèle ARES</span>
