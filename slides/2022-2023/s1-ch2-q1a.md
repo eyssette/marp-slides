@@ -11,6 +11,9 @@ Cédric Eyssette (2022-2023)
 https://eyssette.github.io/
 
 
+---
+<!-- _class: i1t0  -->
+![](https://cdn.pixabay.com/photo/2013/11/26/20/01/turkey-218742_960_720.jpg)
 
 ---
 <!-- _class: partie -->
