@@ -12,6 +12,10 @@ https://eyssette.github.io/
 
 
 ---
+<!-- _class: i1t0 pp -->
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Madrid_Bullfight.JPG/800px-Madrid_Bullfight.JPG?20211030232823)
+
+---
 <!-- _class: partie -->
 <style scoped>
 span span {font-size:0.9em; font-weight:normal}
