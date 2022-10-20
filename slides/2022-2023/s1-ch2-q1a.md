@@ -215,10 +215,11 @@ Pour justifier la consommation de viande, on entend parfois ce type d'arguments 
 1) La viande, mmm... c'est super bon !
 2) Les animaux qu'on mange ne souffrent pas !
 3) On s'en fiche : ce ne sont que des animaux !
-4) On a besoin de manger de la viande
+4) On a besoin de manger de la viande !
 5) Tout le monde le fait !
 6) Les êtres humains ont toujours chassé et pêché !
 7) C'est la loi du plus fort !
+8) Chacun fait ce qu'il veut !
 
 ---
 <!-- _class: partie -->
