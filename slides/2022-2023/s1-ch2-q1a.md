@@ -167,10 +167,16 @@ Les intuitions morales sont parfois contestables -->
 ---
 <!-- _class: fppppppppp -->
 Cependant :
-1) Les intuitions morales sont générales : elles ne permettent pas de savoir ce qu'il faut faire dans toutes les situations particulières
+1) Les intuitions morales ne permettent pas de savoir ce qu'il faut faire dans toutes les situations particulières
 2) Rien ne garantit que nos intuitions morales soient pertinentes : elles sont peut-être le produit d'une idéologie, ou le fruit d'une manière de penser biaisée. 
 
-<!-- Exemples : 
+<!--
+Ne pas faire souffrir autrui pour le plaisir
+Mais : cas du consentement à la souffrance ?
+
+Autrui : seulement les êtres humains ?
+
+Exemples : 
 Spécisme
 Critique des intuitions morales par Peter Singer
 Formes limitées d'altruisme : seulement pour le groupe d'appartenance
@@ -181,15 +187,18 @@ Formes limitées d'altruisme : seulement pour le groupe d'appartenance
 ### 2/ Il est possible de raisonner en morale et de distinguer des bons et des mauvais raisonnements
 
 ---
-<!-- _class: pointmethode fpp-->
+<!-- _class: pointmethode fmm-->
 <style scoped>
-ol {padding-top:0.25em}
+h3 {padding-bottom:1em; margin-bottom:0}
+ol {padding-top:0.25em;padding-bottom:0.5em}
+p {padding-top:0.5em}
 </style>
 ### Point méthode
 
-Il y a deux stratégies pour critiquer un raisonnement :
+Il y a trois stratégies pour critiquer un raisonnement :
 1) La stratégie "Ah bon ?" : on remet en cause la vérité d'une des prémisses ou de la conclusion.
 2) La stratégie "Et alors ?" : on montre que les prémisses, même si elles sont vraies, ne permettent pas de justifier la conclusion.
+3) La stratégie "Euh... Quel est l'argument ?" : on montre qu'il n'y a pas d'argument car il y a une prémisse qui n'a pas de sens ou bien qui ne fait que répéter la conclusion (= argument circulaire).
 
 <!-- _class: citationC fppp 
 ![bg left:37%](https://upload.wikimedia.org/wikipedia/commons/c/c7/Nicolas_Malebranche_-_Versailles_MV_2929.jpg)
@@ -198,26 +207,18 @@ Il y a deux stratégies pour critiquer un raisonnement :
 -->
 
 ---
-<!-- _class: fpppp -->
-<style scoped>
-h3 {margin-bottom:0}
-</style>
+<!-- _class: fp -->
 ### Exemples de raisonnements incorrects
 
-1) Les raisonnements motivés par l'intérêt personnel plutôt que par des raisons proprement morales : [exemple](https://eyssette.github.io/argument-map/#[{%22id%22:%22ezm8v%22,%22type%22:%22donc%22,%22from%22:[%22p1%22],%22to%22:%22c1%22},{%22id%22:%227od4t%22,%22type%22:%22objection%20!%22,%22from%22:[%22x6exp%22],%22to%22:%22p1%22},{%22id%22:%22p1%22,%22text%22:%22J'aime%20bien%20manger%20de%20la%20viande%22,%22x%22:383,%22y%22:176,%22lineType%22:%22solid%22},{%22id%22:%22c1%22,%22text%22:%22La%20consommation%20de%20viande%20ne%20pose%20aucun%20probl%C3%A8me%20%C3%A9thique%22,%22x%22:384,%22y%22:380,%22lineType%22:%22solid%22},{%22id%22:%22x6exp%22,%22text%22:%22Le%20simple%20fait%20d'aimer%20quelque%20chose%20ou%20d'avoir%20un%20int%C3%A9r%C3%AAt%20pour%20quelque%20chose%20ne%20justifie%20pas%20que%20c'est%20bien%20!%22,%22x%22:714,%22y%22:181,%22lineType%22:%22dashed%22}])
-2) Les raisonnements qui se fondent sur des prémisses factuelles fausses : [exemple](https://eyssette.github.io/argument-map/#[{%22id%22:%22c1%22,%22text%22:%22La%20consommation%20de%20viande%20ne%20pose%20aucun%20probl%C3%A8me%20%C3%A9thique%22,%22x%22:232,%22y%22:300,%22lineType%22:%22solid%22},{%22id%22:%22ezm8v%22,%22type%22:%22donc%22,%22from%22:[%22p1%22],%22to%22:%22c1%22},{%22id%22:%2293nvp%22,%22type%22:%22objection%20!%22,%22from%22:[%22x6exp%22],%22to%22:%22p1%22},{%22id%22:%22p1%22,%22text%22:%22La%20production%20de%20viande%20ne%20cause%20jamais%20aucune%20souffrance%20aux%20animaux%22,%22x%22:236,%22y%22:111,%22lineType%22:%22solid%22},{%22id%22:%22x6exp%22,%22text%22:%22Les%20atteintes%20au%20bien-%C3%AAtre%20des%20animaux%20sont%20nombreuses%20et%20document%C3%A9es%22,%22x%22:568,%22y%22:155,%22lineType%22:%22dashed%22}])
-3) Les raisonnements incohérents ou qui conduisent à des incohérences : [exemple](https://eyssette.github.io/argument-map/#[{%22id%22:%22c1%22,%22text%22:%22La%20consommation%20de%20viande%20ne%20pose%20aucun%20probl%C3%A8me%20%C3%A9thique%22,%22x%22:308,%22y%22:335,%22lineType%22:%22solid%22},{%22id%22:%22ezm8v%22,%22type%22:%22donc%22,%22from%22:[%22p1%22],%22to%22:%22c1%22},{%22id%22:%2293nvp%22,%22type%22:%22objection%20!%22,%22from%22:[%22x6exp%22],%22to%22:%22p1%22},{%22id%22:%22p1%22,%22text%22:%22On%20s'en%20fiche%20de%20ce%20que%20subissent%20les%20animaux%22,%22x%22:312,%22y%22:136,%22lineType%22:%22solid%22},{%22id%22:%22x6exp%22,%22text%22:%22On%20ne%20s'en%20fiche%20pas%20dans%20le%20cas%20des%20animaux%20domestiques%22,%22x%22:647,%22y%22:174,%22lineType%22:%22dashed%22}])
-4) Les raisonnements non valides d'un point de vue logique : [exemple](https://eyssette.github.io/argument-map/#[{%22id%22:%22ezm8v%22,%22type%22:%22donc%22,%22from%22:[%22p1%22],%22to%22:%22c1%22},{%22id%22:%22d7z7n%22,%22type%22:%22donc%22,%22from%22:[%22ox8zg%22],%22to%22:%22c1%22},{%22id%22:%22c1%22,%22text%22:%22La%20consommation%20de%20viande%20ne%20pose%20aucun%20probl%C3%A8me%20%C3%A9thique%22,%22x%22:637,%22y%22:551,%22lineType%22:%22solid%22},{%22id%22:%22zacss%22,%22type%22:%22objection%20!%22,%22from%22:[%223sq9c%22],%22to%22:%22p1%22},{%22id%22:%227y0kb%22,%22type%22:%22objection%20!%22,%22from%22:[%223sq9c%22],%22to%22:%22ox8zg%22},{%22id%22:%22ox8zg%22,%22text%22:%22Consommer%20de%20la%20viande%20:%20tout%20le%20monde%C2%A0le%C2%A0fait%20!%22,%22x%22:781,%22y%22:380,%22lineType%22:%22solid%22},{%22id%22:%22p1%22,%22text%22:%22Consommer%20de%20la%20viande,%20c'est%20naturel%22,%22x%22:480,%22y%22:373,%22lineType%22:%22solid%22},{%22id%22:%223sq9c%22,%22text%22:%22Cela%20ne%C2%A0justifie%20pas%20la%20conclusion%C2%A0:%20ce%20n'est%20pas%C2%A0parce%20que%20quelque%20chose%20est%20naturel,%20ou%20parce%20que%20tout%20le%20monde%20le%20fait,%20que%20c'est%20bien%20!%22,%22x%22:636,%22y%22:121,%22lineType%22:%22dashed%22}])
+Pour justifier la consommation de viande, on entend parfois ce type d'arguments :
 
-<!-- Exemples / éthique animale ?
-1. « Manger de la viande, c'est trop bon ! »
-2. « Les animaux ne souffrent pas », « Les animaux sont bien traités » (https://www.l214.com/animaux/statistiques-pourcentage-elevage-intensif-viande-lait-oeufs/)
-3. « On s'en fiche de la souffrance des animaux » (alors qu'en fait on n'accepte pas d'autres formes de souffrances animales)
-4. « C'est la tradition », « C'est naturel »
-
-Pour l'année prochaine : prendre plus de temps sur ce point ?
- -->
-
+1) La viande, mmm... c'est super bon !
+2) Les animaux qu'on mange ne souffrent pas !
+3) On s'en fiche : ce ne sont que des animaux !
+4) On a besoin de manger de la viande
+5) Tout le monde le fait !
+6) Les êtres humains ont toujours chassé et pêché !
+7) C'est la loi du plus fort !
 
 ---
 <!-- _class: partie -->
