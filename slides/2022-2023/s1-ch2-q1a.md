@@ -132,26 +132,70 @@ Un jugement de préférence exprime un simple goût personnel.
 <!-- _class: etape -->
 ### 1/ Il est possible de faire appel à certaines intuitions morales
 
+
 ---
-<!-- _class: citationC -->
+<!-- _class:  -->
+<style scoped>
+ul {background:none; list-style-type:disc; margin-top:0}
+ul li {margin-left:1em; padding-left:20px;}
+ul li:before{content:"";}
+</style>
+
+Il semble y avoir certaines évidences morales :
+- torturer un enfant pour le plaisir est un mal
+- se soucier des autres est un bien
+
+<span data-marpit-fragment="1">Ces évidences constituent des intuitions qui peuvent fournir une première approche de ce qui est moral.</span>
+
+<!-- Certains philosophes défendent ainsi une forme d’intuitionnisme moral -->
+
+<!-- Notion de raisonnement défaisable ; intuition _prima facie_
+La souffrance est prima facie un mal
+-->
+
+<!-- Cependant :
+Les intuitions morales sont générales : il peut y avoir des cas particuliers
+Les intuitions morales sont parfois contestables -->
+
+<!-- _class: citationC
 ![bg left:37%](https://upload.wikimedia.org/wikipedia/commons/c/c7/Nicolas_Malebranche_-_Versailles_MV_2929.jpg)
 >« Je vois par exemple que 2 fois 2 font 4, et qu'il faut préférer son ami à son chien, et je suis certain qu'il n'y a point d'homme au monde qui ne le puisse voir aussi bien que moi. »
 >>**Malebranche**, _De la recherche de la vérité_, Xᵉ éclaircissement
+-->
 
-<!--
-Il y a des intuitions morales robustes
-Comment pourrait-on prétendre que torturer un enfant pour le plaisir est quelque chose de bien ? Il semble légitime de dire que la souffrance est _prima facie_ un mal, et que se soucier des autres est_prima facie_ un bien. Même si nos intuitions restent vagues, elles peuvent fournir une première approche du domaine de la morale (certains philosophes défendent ainsi une forme d’intuitionnisme moral). -->
+
+---
+<!-- _class: fppppppppp -->
+Cependant :
+1) Les intuitions morales sont générales : elles ne permettent pas de savoir ce qu'il faut faire dans toutes les situations particulières
+2) Rien ne garantit que nos intuitions morales soient pertinentes : elles sont peut-être le produit d'une idéologie, ou le fruit d'une manière de penser biaisée. 
+
+<!-- Exemples : 
+Spécisme
+Critique des intuitions morales par Peter Singer
+Formes limitées d'altruisme : seulement pour le groupe d'appartenance
+-->
 
 ---
 <!-- _class: etape -->
 ### 2/ Il est possible de raisonner en morale et de distinguer des bons et des mauvais raisonnements
 
 ---
-<!-- _class: citationC fppp -->
+<!-- _class: pointmethode fpp-->
+<style scoped>
+ol {padding-top:0.25em}
+</style>
+### Point méthode
+
+Il y a deux stratégies pour critiquer un raisonnement :
+1) La stratégie "Ah bon ?" : on remet en cause la vérité d'une des prémisses ou de la conclusion.
+2) La stratégie "Et alors ?" : on montre que les prémisses, même si elles sont vraies, ne permettent pas de justifier la conclusion.
+
+<!-- _class: citationC fppp 
 ![bg left:37%](https://upload.wikimedia.org/wikipedia/commons/c/c7/Nicolas_Malebranche_-_Versailles_MV_2929.jpg)
 >« Lorsqu'un homme préfère la vie de son cheval à celle de son cocher, il a ses raisons, mais ce sont des raisons particulières dont tout homme raisonnable a horreur. Ce sont des raisons qui dans le fond ne sont pas raisonnables, parce qu'elles ne sont pas conformes à la souveraine raison, ou à la raison universelle que tous les hommes consultent. »
 >>**Malebranche**, _De la recherche de la vérité_, Xᵉ éclaircissement
-
+-->
 
 ---
 <!-- _class: fpppp -->
