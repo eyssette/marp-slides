@@ -33,7 +33,7 @@ Première partie
 
 ![bg left:42% photographie de Lévi Strauss](https://i.ibb.co/Mk6RR8X/Levi-Strauss.jpg)
 
->« [D]ès notre naissance, l’entourage fait pénétrer en nous, par mille démarches conscientes et inconscientes, un système complexe de références consistant en jugements de valeur, motivations, centres d’intérêt »
+>« [D]ès notre naissance, l’entourage fait pénétrer en nous, par mille démarches conscientes et inconscientes, un système complexe de références consistant en jugements de valeur, motivations, centres d’intérêt […]. »
 >>Claude **Lévi-Strauss**, _Race et histoire_
 
 <!-- 
@@ -63,6 +63,16 @@ h3{margin-bottom:0em}
 2) Les codes moraux diffèrent selon les cultures.
 3) Donc : il n'y a pas de vérités morales universelles.
 
+
+
+---
+<!-- _class: i1t1 vertical fppp -->
+<style scoped>
+img {width:780px;}
+</style>
+[![](https://i.ibb.co/GnZfz1Z/six-feet-under-deuil-t.jpg)](https://drive.google.com/file/d/1uKRCNHLSdnqoryWPJ2GJPkCyXOlNfCLm/view?usp=sharing)
+
+Un exemple dans la série _Six Feet Under_ : <br>différentes manières d'exprimer le deuil
 
 ---
 <!-- _class: citationC fm -->
