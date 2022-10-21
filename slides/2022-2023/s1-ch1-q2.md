@@ -333,7 +333,7 @@ Ce qui est le bien suprême ce n'est pas de vivre une vie pleine de satisfaction
 Il ne peut donc y avoir de véritable bonheur sans : liberté, vérité, justice …
 La recherche du bonheur n'est pas une simple recherche de satisfactions égoïstes
 Approfondissement : cf. texte de Singer 
- -->
+-->
 
 ---
 <!-- _class: citationC  -->
@@ -375,7 +375,7 @@ span {font-size:90%;}
   - Y a-t-il un faux bonheur ?
   - Faut-il rechercher le bonheur ?
   - Le bonheur est-il une quête de soi ?
-- Rédiger une sous-partie de dissertation <span>(autour de 300 mots)</span><br> :warning:  <span>il faut défendre une seule réponse, mobiliser le cours (les critiques féministes du “bonheur” ou John Stuart Mill), et utiliser le modèle _ARES_</span>
+- Rédiger une sous-partie de dissertation <span>(autour de 300 mots)</span><br> :warning:  <span>il faut défendre une seule réponse, mobiliser le cours et utiliser le modèle _ARES_</span>
 
 <!-- Le bonheur se trouve-t-il dans le plaisir ?
 Le bonheur est-il le bien suprême ?

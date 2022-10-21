@@ -251,7 +251,7 @@ La liberté requiert des possibilités réelles d'agir dans le monde.
 ## B. La liberté dépend de conditions sociales
 
 ---
-<!-- _class: citationC fmmmmmmm-->
+<!-- _class: citationC fmmmmmmmm-->
 <style scoped>
 blockquote blockquote {margin-right:0; padding-top:5px; font-size:0.8em;}
 </style>
