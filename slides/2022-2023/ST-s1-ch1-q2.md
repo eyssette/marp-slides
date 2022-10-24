@@ -120,15 +120,13 @@ ul li:before {content:"↳"; position:absolute; margin-left:-2.4em}
 >« [D]ès notre naissance, l’entourage fait pénétrer en nous, par mille démarches conscientes et inconscientes, un système complexe de références consistant en jugements de valeur, motivations, centres d’intérêt […]. »
 >>Claude **Lévi-Strauss**, _Race et histoire_
 
-<!-- Lévi-Strauss montre que nous avons une tendance à l'ethnocentrisme -->
+<!-- Lévi-Strauss souligne que chaque société transmet, explicitement (=inculcation) et implicitement (= imprégnation), des valeurs et des normes.
+Nous avons ainsi une tendance à l'ethnocentrisme. -->
 
 ---
 <!-- _class: definition -->
 ### Définition
 **L'ethnocentrisme** désigne le fait de percevoir les choses à travers le filtre de notre propre culture
-
-<!-- Cette tendance : pas biologiquement innée / mais socialement acquise
-La transmission sociale se fait : de manière explicite (inculcation) / et de manière implicite (imprégnation) -->
 
 
 ---
