@@ -331,13 +331,122 @@ Pour justifier la consommation de viande, on entend parfois ce type d'arguments 
 
 ---
 <!-- _class: souspartie -->
-## C. La réflexion nous permet<br> de mieux savoir ce que<br> nous devons faire <!-- fit -->
+## C. La réflexion nous permet de<br>mieux déterminer les limites<br> morales de notre liberté <!-- fit -->
 
 
 ---
 <!-- _class: etape -->
-### 1/ On peut réfléchir aux conséquences <!-- fit -->
+### 1/ Nous devons réfléchir à ce que <br>les autres représentent pour nous<!-- fit -->
+
+
+---
+<!-- _class: fppppppp -->
+**Autrui**
+≠ simple moyen
+<span data-marpit-fragment="1">≠ un objet que je peux utiliser comme je le souhaite</span>
+<span data-marpit-fragment="2">≠ un obstacle dont je peux me débarrasser si ça m'arrange</span>
+<span data-marpit-fragment="3">≠ un simple paramètre que je peux négliger</span>
+
+<span data-marpit-fragment="4">**Autrui**
+= une personne, qui a une volonté, une autonomie, une dignité que je dois respecter</span>
+
+---
+<!-- _class: fppppp -->
+Les autres ne sont pas des êtres inférieurs à moi.
+
+<span data-marpit-fragment="1">Je dois moralement considérer les autres comme ayant un statut égal et je ne peux pas m'accorder un droit d'exception par rapport aux autres.</span>
+
+<span data-marpit-fragment="2">Je dois pouvoir me mettre à la place d'autrui.</span>
+
+<span data-marpit-fragment="3">Cela ressemble au principe : “Ne fais pas à autrui ce que tu ne voudrais pas qu'il te fasse”.</span>
+
+
+---
+<!-- _class: i1t0-->
+
+[![Couverture du film Le Loup de Wall Street](https://fr.web.img6.acsta.net/pictures/210/604/21060483_20131125114549726.jpg)](https://drive.google.com/file/d/0B33DtpyVkjZFX0ZtUGFpaGR6UlE/edit?usp=sharing)
+
+<!-- Dans le film _Le Loup de Wall-Street_, Jordan Belfort, un trader, téléphone à des personnes peu aisées qui veulent placer leurs maigres économies, et leur ment sur la valeur des actions qu'il leur propose (« _I was selling them shit_ »). Ces personnes ne sont pour lui qu'un simple moyen de gagner plus d'argent : il les méprise et les considére comme de vulgaires bouseux. Vers la fin du film, quand sa femme lui annonce qu'elle veut divorcer, il ne la voit plus que comme un obstacle entre lui et ses enfants qu'il veut garder avec lui. Il devient violent jusqu'à la frapper dans l'estomac.
+-->
 
 ---
 <!-- _class: etape -->
-### 2/ On peut réfléchir aux grands <br>principes que nous devons respecter <!-- fit -->
+### 2/ Nous devons réfléchir aux <br>conséquences de nos actes<!-- fit -->
+
+
+---
+<!-- _class: definition -->
+### Définition
+L'**utilitarisme** soutient que notre devoir moral est de viser un minimum de souffrances et un maximum de bonheur pour le plus grand nombre
+
+---
+Nous imaginons parfois les conséquences que pourrait avoir telle ou telle décision, mais nous pouvons nous tromper.
+
+<span data-marpit-fragment="1">Il faut parvenir à dépasser ses impressions premières et procéder à un examen **objectif** des conséquences.</span>
+
+---
+<!-- _class: i1t1 pp -->
+<style scoped>
+p:nth-of-type(1){font-size:71%; margin:0; margin-top:0px!important; margin-bottom:20px; text-align:center; font-weight:bold;}
+p:nth-of-type(2){overflow:hidden!important; display:inline-block!important;}
+img{transform:scale(1.5); object-position:-10px -30px}
+</style>
+Les politiques de réduction des risques liés aux drogues
+
+![Photographie d'une distribox de seringues à Lyon](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Lyon_-_Distribox_de_seringues_pour_les_toxicomanes_%C3%A0_Perrache_3_%28mars_2019%29.jpg/800px-Lyon_-_Distribox_de_seringues_pour_les_toxicomanes_%C3%A0_Perrache_3_%28mars_2019%29.jpg)
+
+
+
+---
+<!-- _class: i1t1 pp -->
+<style scoped>
+p:nth-of-type(1){font-size:85%; margin:0; margin-top:0px!important; margin-bottom:15px; text-align:center; font-weight:bold;}
+p:nth-of-type(2){overflow:hidden!important; display:inline-block!important;}
+</style>
+L'homoparentalité
+
+![Photographie d'un couple lesbien avec deux enfants](https://upload.wikimedia.org/wikipedia/commons/c/cf/Stephaniehaynes_family.jpg)
+
+
+---
+Nous avons tendance à n’envisager que les conséquences proches, directes et immédiates, ainsi que les conséquences pour nous et nos proches.
+
+<span data-marpit-fragment="1">Mais agir moralement implique d'envisager les conséquences de nos décisions de manière plus **globale**.</span>
+
+---
+<!-- _class: i1t0 pp-->
+[![](../../images/impacts-changement-climatique-t.jpeg)](https://fr.wikipedia.org/wiki/R%C3%A9chauffement_climatique)
+
+---
+<!-- _class: i1t1 pp -->
+<style scoped>
+p:nth-of-type(1){font-size:75%; margin:0; margin-top:-10px!important; margin-bottom:20px; text-align:center; font-weight:bold;}
+p:nth-of-type(2){overflow:hidden!important; display:inline-block!important; width:960px; margin:0; height:600px}
+img{height:600px}
+</style>
+La critique de la production industrielle de viande
+
+![Photographie de l'entassement de poulets industriels](https://i.ibb.co/TmP73HH/poulets-industriels.jpg)
+
+
+---
+<!-- _class: exercice application fmmmmmm -->
+<style scoped>
+h3 {margin-bottom:10px}
+ul ul {font-size:100%; margin-left:-30px}
+span {font-size:90%}
+</style>
+
+### Exercice d'application
+
+- Choisir un sujet ci-dessous :
+    - La liberté exclut-elle toute limite ?
+    - La liberté d'expression doit-elle être absolue ?
+    - La conscience morale n’est-elle que le résultat de l’éducation ?
+    - Avons-nous des devoirs envers les animaux ?
+    - La morale peut-elle se passer d’un fondement religieux ?
+    - En morale, y a-t-il des certitudes ?
+    - Le progrès technique peut-il conduire à de nouveaux problèmes moraux ?
+- Rédiger une sous-partie de dissertation <span>(±300 mots)</span> :<br> :warning: <span>il faut défendre une seule réponse, mobiliser le cours et utiliser le modèle ARES</span>
+
+
