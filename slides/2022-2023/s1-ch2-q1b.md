@@ -26,7 +26,8 @@ Première partie
 
 ---
 <!-- _class: etape -->
-### 1/ Premier argument
+### 1/ Sens descriptif
+
 
 ---
 <!-- _class: citationC fppppppppp-->
@@ -36,34 +37,22 @@ Première partie
 >« [D]ès notre naissance, l’entourage fait pénétrer en nous, par mille démarches conscientes et inconscientes, un système complexe de références consistant en jugements de valeur, motivations, centres d’intérêt […]. »
 >>Claude **Lévi-Strauss**, _Race et histoire_
 
-<!-- 
-Quels exemples peut-on donner de la relativité des croyances morales ?
 
-/ deuil : https://drive.google.com/file/d/1uKRCNHLSdnqoryWPJ2GJPkCyXOlNfCLm/view?usp=sharing
+---
+<!-- _class:  -->
+<style scoped>
+p {font-size:0.9em}
+</style>
+Chaque société transmet, explicitement (_inculcation_) et implicitement (_imprégnation_), des valeurs et des normes.
 
--->
+<span data-marpit-fragment="1">Nous avons ainsi tendance à penser le bien et le mal d'après ce code moral qui a façonné nos croyances.</span>
+
+<span data-marpit-fragment="2">C'est une forme d'ethnocentrisme.</span>
 
 ---
 <!-- _class: definition -->
 ### Définition
-**L'ethnocentrisme**, au **sens faible**, désigne un biais cognitif : nous avons tendance à percevoir les choses à travers le filtre de notre propre culture
-
-<!-- Cette tendance : pas biologiquement innée / mais socialement acquise
-La transmission sociale se fait : de manière explicite (inculcation) / et de manière implicite (imprégnation)
- -->
-
-
----
-<!-- _class: sanspuces -->
-<style scoped>
-h3{margin-bottom:0em}
-</style>
-### Argument 1
-1) Les croyances morales d'une personne sont façonnées par le code moral de la culture à laquelle elle appartient.
-2) Les codes moraux diffèrent selon les cultures.
-3) Donc : il n'y a pas de vérités morales universelles.
-
-
+**L'ethnocentrisme**, au **sens faible**, désigne le fait de percevoir les choses à travers le filtre de notre propre culture
 
 ---
 <!-- _class: i1t1 vertical fppp -->
@@ -87,8 +76,17 @@ figure {margin-left:-3em!important}
 <!-- Exemple de l'endocannibalisme funéraire -->
 
 ---
+<!-- _class:  -->
+Au sens descriptif, le relativisme culturel soutient que nous avons une tendance à l'ethnocentrisme au sens faible et que les croyances morales sont ainsi différentes selon la culture.
+
+---
 <!-- _class: etape -->
-### 2/ Deuxième argument
+<style scoped>
+p {text-align:justify!important}
+</style>
+### 2/ Sens normatif
+<span data-marpit-fragment="1">Au sens normatif, le relativisme culturel soutient qu'il n'y a pas de vérité morale universelle et que penser le contraire est une forme d'ethnocentrisme au sens fort</span>
+
 
 ---
 <!-- _class: citationC fppp-->
@@ -130,12 +128,9 @@ img{height:700px!important;}
 ![Affiche du film Avatar](https://i.ibb.co/s24pF7r/avatar-t.webp)
 
 
+
 ---
-<!-- _class: sanspuces -->
-<style scoped>
-h3{margin-bottom:0em}
-</style>
-### Argument 2
+<!-- _class:  -->
 1) Croire qu'il existe des vérités en morale, c'est souvent croire en la supériorité de sa propre culture.
 2) Cela peut nous conduire à une forme d'intolérance qui n'est pas acceptable
 3) Donc : il faut se méfier de la croyance en des vérités en morale.
@@ -157,6 +152,9 @@ img {height:570px;}
 # II – <br>Le relativisme culturel<br> se heurte à des <br>objections majeures <!-- fit -->
 Deuxième partie
 
+---
+<!-- _class:  -->
+Au sens descriptif, le risque du relativisme culturel est d'exagérer la diversité des croyances morales et de nous conduire à une conception stéréotypée, trop homogène et trop figée d'une culture.
 
 ---
 <!-- _class:  -->
@@ -166,7 +164,7 @@ abbr {text-decoration:none; font-style:italic}
 <style scoped>
 ol ul {margin-left:-1.5em!important}
 </style>
-### Deux objections principales
+Au sens normatif, le relativisme culturel se heurte à deux objections :
 
 1) Le <abbr title="relativisme culturel">RC</abbr> est contradictoire :
     * Il affirme qu'il n'y a pas de vérités universelles en morale …

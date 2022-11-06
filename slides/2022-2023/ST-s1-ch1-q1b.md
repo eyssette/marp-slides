@@ -233,7 +233,7 @@ img{height:570px}
 p:nth-child(2){font-size:70%; padding:0; margin-top:-13px;}
 </style>
 
-[![](../images/baisemains-et-mocassins.jpg)](https://www.dailymotion.com/video/x2kbvlx)
+[![](../images/baisemains-et-mocassins.jpg)](https://drive.google.com/file/d/1mekwiTlJzmrMroH9K26U7szn66uXTXJF/view?usp=share_link)
 
 Antoine Gallien, _Baisemains et mocassins_ (2005)
 
