@@ -131,9 +131,11 @@ img{height:700px!important;}
 
 ---
 <!-- _class:  -->
-1) Croire qu'il existe des vérités en morale, c'est souvent croire en la supériorité de sa propre culture.
-2) Cela peut nous conduire à une forme d'intolérance qui n'est pas acceptable
-3) Donc : il faut se méfier de la croyance en des vérités en morale.
+Croire qu'il existe des vérités en morale, c'est souvent croire en la supériorité de sa propre culture.
+
+<span data-marpit-fragment="1">Cela peut nous conduire à une forme d'intolérance qui n'est pas acceptable</span>
+
+<span data-marpit-fragment="2">Donc : il faut se méfier de la croyance en des vérités en morale.</span>
 
 
 ---
