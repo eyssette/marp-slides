@@ -295,7 +295,7 @@ Formes limitées d'altruisme : seulement pour le groupe d'appartenance
 Un raisonnement consiste à partir de certaines affirmations (qu'on appelle prémisses) pour en tirer une conclusion.
 
 ---
-<!-- _class: pointmethode fmm-->
+<!-- _class: pointmethode fppp -->
 <style scoped>
 h3 {padding-bottom:1em; margin-bottom:0}
 ol {padding-top:0.25em;padding-bottom:0.5em}
@@ -303,10 +303,9 @@ p {padding-top:0.5em}
 </style>
 ### Point méthode
 
-Il y a trois stratégies pour critiquer un raisonnement :
+Il y a deux stratégies pour critiquer un raisonnement :
 1) La stratégie "Ah bon ?" : on remet en cause la vérité d'une des prémisses ou de la conclusion.
 2) La stratégie "Et alors ?" : on montre que les prémisses, même si elles sont vraies, ne permettent pas de justifier la conclusion.
-3) La stratégie "Euh... Quel est l'argument ?" : on montre qu'il n'y a pas d'argument car il y a une prémisse qui n'a pas de sens ou bien qui ne fait que répéter ou supposer la conclusion (= argument circulaire).
 
 <!-- _class: citationC fppp 
 ![bg left:37%](https://upload.wikimedia.org/wikipedia/commons/c/c7/Nicolas_Malebranche_-_Versailles_MV_2929.jpg)
@@ -315,7 +314,7 @@ Il y a trois stratégies pour critiquer un raisonnement :
 -->
 
 ---
-<!-- _class: fp -->
+<!-- _class: fppp -->
 ### Exemples de raisonnements incorrects
 
 Pour justifier la consommation de viande, on entend parfois ce type d'arguments :
@@ -323,11 +322,9 @@ Pour justifier la consommation de viande, on entend parfois ce type d'arguments 
 1) La viande, mmm... c'est super bon !
 2) Les animaux qu'on mange ne souffrent pas !
 3) On s'en fiche : ce ne sont que des animaux !
-4) On a besoin de manger de la viande !
-5) Tout le monde le fait !
-6) Les êtres humains ont toujours chassé et pêché !
-7) C'est la loi du plus fort !
-8) Chacun fait ce qu'il veut !
+4) Tout le monde le fait !
+5) Les êtres humains ont toujours chassé et pêché !
+6) C'est la loi du plus fort !
 
 ---
 <!-- _class: souspartie -->
