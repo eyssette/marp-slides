@@ -205,7 +205,7 @@ p {padding-top:0.5em}
 Il y a trois stratégies pour critiquer un raisonnement :
 1) La stratégie "Ah bon ?" : on remet en cause la vérité d'une des prémisses ou de la conclusion.
 2) La stratégie "Et alors ?" : on montre que les prémisses, même si elles sont vraies, ne permettent pas de justifier la conclusion.
-3) La stratégie "Euh... Quel est l'argument ?" : on montre qu'il n'y a pas d'argument car il y a une prémisse qui n'a pas de sens ou bien qui ne fait que répéter ou supposer la conclusion (= argument circulaire).
+3) La stratégie "Euh... Quel est l'argument ?" : on montre qu'il n'y a pas d'argument car il y a une prémisse qui n'a pas de sens, qui est hors sujet ou bien qui ne fait que répéter ou supposer la conclusion (= argument circulaire).
 
 <!-- _class: citationC fppp 
 ![bg left:37%](https://upload.wikimedia.org/wikipedia/commons/c/c7/Nicolas_Malebranche_-_Versailles_MV_2929.jpg)
