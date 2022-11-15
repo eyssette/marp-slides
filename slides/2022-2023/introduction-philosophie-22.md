@@ -247,7 +247,7 @@ img {height:500px}
 
 **L'affaire du “lancer de nain”**
 
-![Photogramme du film Le Loup de Wall Street : scène du lancer de nain](../images/loup_wall_street_lancer_de_nain.png)
+![Photogramme du film Le Loup de Wall Street](../images/loup_wall_street.png)
 
 <!-- 1/ Jurisprudence de la Cour européenne des droits de l'homme autour de certaines affaires de sadomasochisme
 – Arrêt du 19 février 1997, Laskey, Jaggard et Brown c/ Royaume-Uni 
@@ -270,7 +270,7 @@ h3 {margin-top:20px!important;}
 ul {margin-top:-5px;}
 </style>
 
-### Une véritable affaire juridique : l’affaire du “lancer de nain”
+### Une véritable affaire juridique : l’“affaire du lancer de nain”
 
 <div class="puces">
 

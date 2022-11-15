@@ -208,9 +208,9 @@ ul {padding-top:50px;margin-bottom:5px;}
 p:last-child{font-size:30px; margin-top:-7px!important; padding-bottom:40px;}
 </style>
 
-- Peut-on lancer un nain qui le veut bien ?
+- “L'affaire du lancer de nain”
 
-![Photogramme du film Le Loup de Wall Street : scène du lancer de nain](images/loup_wall_street_lancer_de_nain.png)
+![Photogramme du film Le Loup de Wall Street](images/loup_wall_street.png)
 
 Martin Scorsese, _Le Loup de Wall Street_ (2013)
 
@@ -221,7 +221,7 @@ h3 {margin-top:20px!important;}
 ul {margin-top:-5px;}
 </style>
 
-### L’affaire du “lancer de nain” en résumé
+### “L’affaire du lancer de nain” en résumé
 
 <div class="puces">
 
@@ -483,7 +483,7 @@ h4{text-align:justify}
 2. Comment Aristophane représente-t-il Socrate dans Les Nuées ? Quel est le sens de cette image ?
 3. Quelles sont les trois démarches essentielles en philosophie ? Pour chaque démarche, quelle est la question qu'il faut se poser ?
 4. On peut dire que faire de la philosophie, c'est comme regarder ses propres lunettes. Quel est le sens de cette idée ?
-5. Quel problème philosophique peut-on poser à partir de l'affaire du lancer de nain ?
+5. Quel problème philosophique peut-on poser à partir de l'“affaire du lancer de nain” ?
 6. On peut dire, avec Socrate, que faire de la philosophie, c'est être comme un taon qui pique un cheval un peu mou. Quel est le sens de cette idée ?
 7. On peut dire, avec Épictète, que faire de la philosophie, c'est comme placer les idées sur une balance. Quel est le sens de cette idée ?
 8. Penser par soi-même, ce n’est pas penser tout seul. Quel est le sens de cette idée ?

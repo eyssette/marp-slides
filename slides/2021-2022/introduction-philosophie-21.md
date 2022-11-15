@@ -254,9 +254,9 @@ ul {padding-top:50px;margin-bottom:5px;}
 p:last-child{font-size:30px; margin-top:-7px!important; padding-bottom:40px;}
 </style>
 
-- Peut-on lancer un nain qui le veut bien ?
+- “L'affaire du lancer de nain”
 
-![Photogramme du film Le Loup de Wall Street : scène du lancer de nain](../images/loup_wall_street_lancer_de_nain.png)
+![Photogramme du film Le Loup de Wall Street](../images/loup_wall_street.png)
 
 Martin Scorsese, _Le Loup de Wall Street_ (2013)
 
@@ -281,7 +281,7 @@ h3 {margin-top:20px!important;}
 ul {margin-top:-5px;}
 </style>
 
-### Une véritable affaire juridique : l’affaire du “lancer de nain”
+### Une véritable affaire juridique : “l’affaire du lancer de nain”
 
 <div class="puces">
 
