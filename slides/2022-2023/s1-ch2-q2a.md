@@ -118,3 +118,15 @@ La pratique du massacre emprunte des mots à des activités diverses  (la chasse
 Deuxième partie
 
 
+---
+<!-- _class: i1t0 pp -->
+
+![](https://cdn.masto.host/scholarsocial/media_attachments/files/109/347/887/016/020/257/original/e20a7092ef1dc975.png)
+
+
+---
+<!-- _class:  -->
+<style scoped>
+section {font-size:3.5em}
+</style>
+Plutôt qu'une morale fondée sur le sentiment (_sentimentalisme moral_), ne faut-il pas alors une morale fondée sur la raison (_rationalisme moral_) ?
