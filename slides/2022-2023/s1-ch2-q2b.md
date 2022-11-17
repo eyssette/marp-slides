@@ -243,7 +243,7 @@ h4{margin-bottom:5px!important;}
 
 #### Exemple 2 : la tricherie à un examen
 
-![Image d'une tricherie à un examen](https://www.nextplz.fr/wp-content/uploads/2018/05/18993137511184466-758x502.jpg)
+![Image d'une tricherie à un examen](https://insights.gostudent.org/hubfs/Insights_GoStudent_Blog_Images/exams-cheating.jpg)
 
 ---
 <!-- _class: pp -->
