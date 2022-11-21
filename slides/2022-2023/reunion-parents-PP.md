@@ -83,3 +83,22 @@ Le détail du calendrier de Parcoursup : [https://www.parcoursup.fr/index.php?de
 ---
 <!-- _class:  -->
 [https://eyssette.github.io/cours/pp22/c/C-orientation.html](https://eyssette.github.io/cours/pp22/c/C-orientation.html)
+
+---
+<!-- _class: fpppp -->
+####  Si votre enfant n'a pas d'idées, ou des idées très vagues :
+1) Prendre un RV rapidement avec les Psy-EN du lycée ou dans un CIO
+2) [Présentation des filières post-bac par les Psy-EN du lycée](https://drive.google.com/file/d/1IvUiAFNcRYdG6_Be7c3niqe0tlnUqx4Q/view)
+3) http://www.onisep.fr/Decouvrir-les-metiers
+4) https://www.onisep.fr/Choisir-mes-etudes/Apres-le-bac#Principaux-domaines-d-etudes
+
+---
+<!-- _class: fpppp -->
+####  Si votre enfant a déjà des idées
+1) [Salons et portes ouvertes](https://eyssette.github.io/cours/pp22/c/C-orientation.html#2-des-dates-%C3%A0-ne-pas-manquer)
+2) Discuter avec des élèves : https://www.inspire-orientation.org/ et
+https://www.studyadvisor.fr/
+3) https://dossier.parcoursup.fr/Candidat/carte
+4) http://www.letudiant.fr/
+5) [MOOC sur l'orientation](https://eyssette.github.io/cours/pp22/c/C-orientation.html#8-mooc-sur-lorientation)
+6) Voir les Masters
