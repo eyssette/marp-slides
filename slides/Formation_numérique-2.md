@@ -72,6 +72,7 @@ ol {margin-left:40px;}
 ---
 <!-- _class: fpp -->
 1) Se faire une programmation générale
+	* Faire une carte mentale [:link:](https://mymarkmap.netlify.app/#https://github.com/eyssette/mindmap/blob/main/programmation-2022.md)
 	* Utiliser un modèle de tableau [:link:](https://nuage03.apps.education.fr/index.php/s/ZZSZwxN94JkWSEe) pour vérifier la répartition des notions dans ses cours
 	* Utiliser un tableur [:link:](https://docs.google.com/spreadsheets/d/1ZJQn8ZNyncv9BA1cmWkf-uT3k_jZQR3ylywSdynabtU/edit?usp=sharing)
 	* Utiliser un modèle en markdown [:link:](https://codimd.apps.education.fr/XM96D6ryRKaYnpV9rNGqYg?view) [:link:](https://codimd.apps.education.fr/m3VCX1O-Qb2807Cd7fzQ3A?view) [:link:](https://codimd.apps.education.fr/247TltkBTB2i_ifuENdO9A?view)
