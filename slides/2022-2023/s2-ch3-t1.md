@@ -261,11 +261,11 @@ On avance très progressivement dans le texte, et on se focalise à chaque fois 
 ol {padding-top:0.5em}
 </style>
 ### Point méthode
-On se pose des questions en mobilisant les 4 démarches  :
+Au brouillon, on se pose des questions en mobilisant les 4 démarches  :
 1) Analyser : « Qu'est-ce que cela veut dire ? » 
 2) Argumenter : « Qu'est-ce qui permet de dire cela ? »
 3) Problématiser : « Est-ce si simple ? »
-4) Approfondir : « Quels exemples et quelles références puis-je utiliser ? »
+4) Mobiliser ses connaissances : « Quels exemples concrets et quelles références théoriques puis-je utiliser ? »
 
 
 ---
