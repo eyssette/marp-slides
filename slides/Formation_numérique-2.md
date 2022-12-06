@@ -378,10 +378,10 @@ ol ul {margin-left:-40px;}
 1) Usages ordinaires
 	* Utiliser un logiciel de dessin [:link:](https://excalidraw.com/) [:link:](https://docs.google.com/drawings/u/0/create) [:link:]( [🔗](https://www.tldraw.com/))
 	* Utiliser un logiciel simple pour faire une carte mentale [:link:](http://mindmaps.app/) [:link:](https://coggle.it/) [:link:](https://www.zenflowchart.com/) [:link:](https://gitmind.com/)
-	* Utiliser un logiciel simple qui convertit du texte en une carte mentale [:link:](https://mymarkmap.vercel.app/) [:link:](https://tobloef.com/text2mindmap/) [:link:](https://flowchart.fun/) [:link:](https://markmap.js.org/repl)
+	* Utiliser un logiciel simple qui convertit du texte en une carte mentale [:link:](https://mymarkmap.netlify.app/) [:link:](https://tobloef.com/text2mindmap/) [:link:](https://flowchart.fun/) [:link:](https://markmap.js.org/repl)
 2) Usages avancés
 	* Créer des schémas pour représenter des arguments [:link:](https://eyssette.github.io/argument-map/) [:link:](http://argument.mindmup.com) [:link:](https://argdown.org/)
-	* Utiliser un langage de programmation de graphiques : GraphViz [:link:](https://github.com/eyssette/graphviz-examples)
+	* Utiliser un langage de programmation de graphiques : GraphViz [:link:](https://github.com/eyssette/graphviz-examples), Mermaid [:link:](https://eyssette.github.io/mermaid-diagrams/) [:link:](https://codimd.apps.education.fr/o1E9rMaMTg2rik93decJUg?both)
 	* Créer une frise chronologique [:link:](https://outilstice.com/2020/06/outils-creer-frises-chronologiques/) [:link:](https://dynalist.io/d/AVblXCS_wLyhYa5Vv09X0cFJ#z=lMqVNIBrVvEdqSVLcxavgyhY)
 	* Rendre son schéma interactif avec des éléments à cliquer pour découvrir différentes informations  [:link:](https://www.genial.ly/)
 	* Utiliser un logiciel plus complet mais plus complexe de dessin vectoriel [:link:](draw.io)
@@ -452,7 +452,7 @@ ol ul {margin-left:-30px;}
 	* Utiliser une caméra de document (un “visualiseur”) pour projeter le travail que l'on accomplit sur le texte [:link:](https://profjourde.wordpress.com/2015/06/02/un-visualiseur-et-un-ideateur-pour-les-gestes-du-travail-intellectuel/)
 	* Rendre le texte cliquable et interactif [:link:](https://www.genial.ly/)
 	* Produire, éventuellement avec les élèves, un texte ou un livre enrichi 
-	* Discuter un texte ou une œuvre en ligne [:link:](https://dialoguea.fr/forum/)
+	* Discuter un texte ou une œuvre en ligne [:link:](https://codimd.apps.education.fr/a8oECv4nSeu6LMsGUfxqVQ?both) [:link:](https://dialoguea.fr/forum/)
 
 ---
 <!-- _class: fm -->
