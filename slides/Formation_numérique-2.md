@@ -235,7 +235,7 @@ ol ul {margin-left:-30px;}
 
 1) Usages ordinaires
 	* Utiliser un logiciel libre : LibreOffice [:link:](https://fr.libreoffice.org/download/telecharger-libreoffice/) ou OnlyOffice [:link:](https://www.onlyoffice.com/fr/desktop.aspx) 
-	* Utiliser un logiciel en ligne [:link:](http://docs.google.com/)
+	* Utiliser un logiciel en ligne [:link:](https://nuage.apps.education.fr/) [:link:](http://docs.google.com/)
 	* Respecter les règles de la typographie et de la mise en page [:link:](http://ufr3.univ-montp3.fr/IMG/pdf/Regle_d_or_edition_memoire_version_juin_2013_-_Masters_MOBILITES_Transport_cle81b1f6.pdf)
 	* Utiliser une police lisible même en petit format [:link:](http://www.dafont.com/fr/philosopher.font), ou une police pour les élèves dyslexiques [:link:](http://opendyslexic.org/)
 2) Usages avancés
