@@ -158,13 +158,13 @@ h4 {text-align:justify!important}
 ---
 <!-- _class: sanspuces fppppp -->
 
-#### Deuxième idée : la notion d'idéologie
+#### La notion d'idéologie
 * L'État est, dans les faits, au service d'une classe sociale particulière (la classe dominante), mais il se présente, idéologiquement, comme étant au service de tous.
 * L'idéologie désigne ici un ensemble d'idées, de représentations qui visent à rendre légitime une pratique ou une situation en masquant la réalité des rapports de domination
 
 ---
 <!-- _class: sanspuces  -->
-#### Troisième idée : la critique des apparences démocratiques
+#### La critique des apparences démocratiques
 * La démocratie se présente comme au service du peuple, mais l'est-elle vraiment ? (cf. [infographie](https://pbs.twimg.com/media/FJ9c9LbXwAsvVOa?format=jpg&name=4096x4096), [document](https://www.inegalites.fr/L-Assemblee-nationale-ne-compte-quasiment-plus-de-representants-des-milieux))
 * Le vote est-il le reflet des pensées des individus ?
 
