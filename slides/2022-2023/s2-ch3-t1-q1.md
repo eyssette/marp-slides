@@ -13,6 +13,19 @@ size: 4:3
 Cédric Eyssette (2022-2023)
 https://eyssette.github.io/
 
+
+---
+<!-- _class: i1t0 pp -->
+
+![](https://d2r55xnwy6nx47.cloudfront.net/uploads/2018/12/MirrorMonkey_AndreMouton_2880x1620.jpg)
+
+
+---
+<!-- _class: pp fp-->
+![bg left:60% contain](https://www.moma.org/d/assets/W1siZiIsIjIwMTgvMTAvMzEvMnkzOXFvdGNheV85MTk2OC5qcGciXSxbInAiLCJjb252ZXJ0IiwiLXF1YWxpdHkgOTAgLXJlc2l6ZSAyMDAweDIwMDBcdTAwM2UiXV0/91968.jpg?sha=05e2fc3bb98b6deb)
+
+Magritte,<br>_La reproduction interdite_ (1937)
+
 ---
 <!-- _class: partie -->
 # I – La conscience <br>de soi permet <br>d'accéder à ce <br>que je suis <!-- fit -->
