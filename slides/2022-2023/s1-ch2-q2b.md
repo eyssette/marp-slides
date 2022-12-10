@@ -20,6 +20,14 @@ https://eyssette.github.io/
 
 ![](https://cdn.theatlantic.com/thumbor/nKRyWEw8e7rWWEpwHD0p0zIY1l8=/166x0:2833x2000/1200x900/media/img/mt/2017/10/NUP_178287_0528/original.jpg)
 
+<!-- 
+https://photos.google.com/share/AF1QipPPfbUkTBXiHp4v_f2w1s7rO70wTBpButb8zOzUDxWelwUJr5emIEucfTlt3yc7lA?key=djQzRTFJa05jNnR6Mk9FV09YcWdwVWhPbGNFWW53
+
+https://docs.google.com/document/d/14JTNcMAKF95SZn66McfHrrX9kOgKRwjBJqPQQe_3tpA/edit?userstoinvite=vincentvejdovsky%40gmail.com&actionButton=1
+
+https://ladigitale.dev/digiplay/#/v/637735a7702aa
+ -->
+
 ---
 <!-- _class: partie -->
 # I – La morale requiert<br> une réflexion sur <br>les conséquences <!-- fit -->
