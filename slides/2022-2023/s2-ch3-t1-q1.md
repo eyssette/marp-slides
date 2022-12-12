@@ -20,6 +20,25 @@ https://eyssette.github.io/
 ![](https://d2r55xnwy6nx47.cloudfront.net/uploads/2018/12/MirrorMonkey_AndreMouton_2880x1620.jpg)
 
 
+<!-- Conscience :
+conscience morale
+"cas de conscience", "avoir mauvaise conscience", "avoir la conscience tranquille", "avoir un poids sur la conscience", "avoir sa conscience pour soi"
+capacité de juger du bien et du mal et de juger ses propres actes
+
+conscience psychologique
+"prendre conscience", "perdre conscience"
+une forme de connaissance directe présente à l'esprit
+
+conscience du monde extérieur / conscience de soi-même
+sous la forme de représentations mentales (conscience d'accès) / sous la forme de sensations (conscience phénoménale)
+conscience immédiate / conscience réfléchie
+
+
+Termes liés : 
+"avoir une conscience politique"
+-->
+
+
 ---
 <!-- _class: pp fp-->
 ![bg left:60% contain](https://www.moma.org/d/assets/W1siZiIsIjIwMTgvMTAvMzEvMnkzOXFvdGNheV85MTk2OC5qcGciXSxbInAiLCJjb252ZXJ0IiwiLXF1YWxpdHkgOTAgLXJlc2l6ZSAyMDAweDIwMDBcdTAwM2UiXV0/91968.jpg?sha=05e2fc3bb98b6deb)
