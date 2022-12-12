@@ -8,8 +8,6 @@ size: 4:3
 <!-- _class: titre -->
 
 # T1/Q1 – Puis-je<br> vraiment saisir <br>ce que je suis ? <!-- fit -->
-
-
 Cédric Eyssette (2022-2023)
 https://eyssette.github.io/
 
@@ -30,14 +28,24 @@ conscience psychologique
 une forme de connaissance directe présente à l'esprit
 
 conscience du monde extérieur / conscience de soi-même
-sous la forme de représentations mentales (conscience d'accès) / sous la forme de sensations (conscience phénoménale)
+sous la forme de représentations mentales (conscience d'accès) / sous la forme de sensations, d'une expérience vécue, un certain ressenti subjectif intérieur (conscience phénoménale)
 conscience immédiate / conscience réfléchie
+premier ordre (conscience de X) / second ordre (conscience d'avoir conscience de X)
 
 
 Termes liés : 
 "avoir une conscience politique"
 -->
 
+
+---
+<!-- _class: i1t1 vertical pp -->
+<style scoped>
+img {height:700px}
+</style>
+Le robot _Kismet_
+
+[![](https://www.robaid.com/wp-content/gallery/robots/kismet.jpg)](https://ladigitale.dev/digiview/#/v/6396e31eaab13)
 
 ---
 <!-- _class: pp fp-->
@@ -96,9 +104,13 @@ https://www.youtube.com/watch?v=XeZDt43Pij8
 # Retour au texte
 
 ---
-<!-- _class: sanspuces -->
-1) Pour Locke, le moi n'est pas une chose à laquelle la conscience permet d'accéder.
-2) Le moi est l'activité même de la conscience, qui rassemble en une personne un ensemble de vécus présents et passés.
+<!-- _class: fpppp -->
+Pour Locke :
+
+1) Contre Descartes : le moi n'est pas une chose, une substance à laquelle la conscience permet d'accéder.
+2) Contre Hume : le moi n'est pas une fiction. Il n'y a pas seulement une multiplicité de perceptions.
+
+<span data-marpit-fragment="1">Le moi est l'activité même de la conscience, qui rassemble en une personne un ensemble de vécus présents et passés.</span>
 
 
 <!-- 
