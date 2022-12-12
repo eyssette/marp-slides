@@ -70,3 +70,25 @@ https://plato.stanford.edu/entries/buddha/#NonSel
 https://www.youtube.com/watch?v=XeZDt43Pij8
 
  -->
+
+
+---
+<!-- _class: partie -->
+# Retour au texte
+
+---
+<!-- _class: sanspuces -->
+1) Pour Locke, le moi n'est pas une chose à laquelle la conscience permet d'accéder.
+2) Le moi est l'activité même de la conscience, qui rassemble en une personne un ensemble de vécus présents et passés.
+
+
+<!-- 
+Chauvier, Stéphane. « La question philosophique de l’identité personnelle », Catherine Halpern éd., Identité(s). L'individu, le groupe, la société. Éditions Sciences Humaines, 2016, pp. 15-27.
+https://www.cairn.info/identites--9782361063283-page-15.htm
+Ceci suggère qu’on ne doit pas dire qu’une personne a une certaine conscience de soi, puisque la disparition de celle-ci ou le changement radical de son contenu entraîne la disparition de la personne. Il faut plutôt dire qu’une personne est une certaine conscience de soi, de sorte que si cette conscience de soi se trouvait radicalement changée, la personne le serait aussi.
+
+Contre Descartes : 
+Contre Hume :
+Le moi existe, il n'est pas une fiction
+Il n'y a pas seulement une multiplicité de perceptions : ces perceptions sont unifiées au sein d'une conscience
+ -->
