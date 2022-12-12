@@ -15,13 +15,35 @@ https://eyssette.github.io/
 
 ---
 <!-- _class: partie -->
-# I – 
+# I – <br>L'identité personnelle <br>semble être une<br> notion centrale <!-- fit -->
 Première partie
 
 
 ---
+<!-- _class: souspartie -->
+## A. Une notion centrale pour l'individu lui-même
+
+---
+<!-- _class: fppp-->
+
+1) Nous cherchons à nous maintenir et à maintenir notre identité dans le temps.
+2) D'un point de vue rationnel, il semble important de prendre des décisions en envisageant aussi les conséquences pour notre soi futur. <span data-marpit-fragment="1">C'est le principe de la prudence qui conduit à ne pas prendre en compte seulement l'intérêt immédiat, mais aussi l'intérêt sur le long terme.</span>
+3) D'un point de vue moral, il semble important de considérer que chaque personne a une identité, son propre vécu et ses propres fins, qu'il s'agit de respecter
+
+
+---
+<!-- _class: souspartie -->
+## B. Une notion centrale d'un point de vue social
+
+---
+<!-- _class:  -->
+1) Le droit et la justice reposent sur la possibilité d'identifier un individu responsable d'un fait.
+2) S'il n'y a plus de continuité psychique entre l'auteur passé d'un fait et la personne actuelle, la peine est-elle légitime ? <span data-marpit-fragment="1">Exemples intéressants à mobiliser :</span> <span data-marpit-fragment="2">le cas de Stanley “Tookie” Williams</span>,<span data-marpit-fragment="3"> la question de la prescription.</span>
+
+
+---
 <!-- _class: partie -->
-# I – 
+# II – <br>On peut remettre en<br>cause l'importance de<br> l'identité personnelle <!-- fit -->
 Deuxième partie
 
 

@@ -24,7 +24,7 @@ conscience morale
 capacité de juger du bien et du mal et de juger ses propres actes
 
 conscience psychologique
-"prendre conscience", "perdre conscience"
+"prendre conscience", "perdre conscience", "j'en ai bien conscience"
 une forme de connaissance directe présente à l'esprit
 
 conscience du monde extérieur / conscience de soi-même
@@ -117,9 +117,4 @@ Pour Locke :
 Chauvier, Stéphane. « La question philosophique de l’identité personnelle », Catherine Halpern éd., Identité(s). L'individu, le groupe, la société. Éditions Sciences Humaines, 2016, pp. 15-27.
 https://www.cairn.info/identites--9782361063283-page-15.htm
 Ceci suggère qu’on ne doit pas dire qu’une personne a une certaine conscience de soi, puisque la disparition de celle-ci ou le changement radical de son contenu entraîne la disparition de la personne. Il faut plutôt dire qu’une personne est une certaine conscience de soi, de sorte que si cette conscience de soi se trouvait radicalement changée, la personne le serait aussi.
-
-Contre Descartes : 
-Contre Hume :
-Le moi existe, il n'est pas une fiction
-Il n'y a pas seulement une multiplicité de perceptions : ces perceptions sont unifiées au sein d'une conscience
- -->
+-->
