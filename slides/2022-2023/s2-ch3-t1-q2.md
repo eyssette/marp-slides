@@ -14,7 +14,7 @@ https://eyssette.github.io/
 
 
 ---
-<!-- _class: i1t0 -->
+<!-- _class: i1t0 pp -->
 
 ![](https://fr.web.img2.acsta.net/medias/nmedia/18/36/06/10/18449315.jpg)
 
@@ -23,6 +23,18 @@ https://eyssette.github.io/
 <!-- _class: partie -->
 # I – La conception mémorielle de l'identité
 Première partie
+
+
+---
+<!-- _class:  -->
+### Différents types de mémoire
+
+1) Mémoire de travail
+2) Mémoire sensorielle et mémoire perceptive
+3) Mémoire sémantique
+4) Mémoire procédurale
+5) Mémoire épisodique
+
 
 ---
 <!-- _class: fpppp -->
@@ -58,7 +70,14 @@ Deuxième partie
 
 ---
 <!-- _class: souspartie -->
-## A. Il y a plusieurs concepts du Soi
+<style scoped>
+h2 {font-size:1.2em}
+</style>
+
+## A. La conscience de soi peut prendre plusieurs formes
+
+Elle ne se réduit pas à la
+conscience mémorielle de soi
 
 ---
 <!-- _class: fppppppppp -->
@@ -104,17 +123,19 @@ La mémoire peut produire des faux-souvenirs.
 
 <span data-marpit-fragment="1">Par conséquent, suis-je vraiment la personne que je crois être ?</span>
 
+[Mind Field (Ep 8): Do You Know Yourself?](https://ladigitale.dev/digiview/#/v/6396d7de3decd)
+
 
 ---
-<!-- _class: fpp -->
+<!-- _class: fp -->
 La mémoire est sélective.
 <span data-marpit-fragment="1">– elle est partielle (je ne retiens pas tout)</span>
 <span data-marpit-fragment="2">– elle est partiale (je ne retiens que ce qui m'arrange)</span>
 
-<span data-marpit-fragment="3">La mémoire semble participer à la construction d'une image de soi</span>
-<span data-marpit-fragment="4">≠ représentation fidèle de la réalité</span>
+<span data-marpit-fragment="3">La mémoire semble participer à la construction d'une image de soi</span> <span data-marpit-fragment="4">≠ représentation fidèle de la réalité</span>
 
 <span data-marpit-fragment="5">Exemple : construction d'une image de soi sur les réseaux sociaux (Instagram)</span>
+
 <span data-marpit-fragment="6">Plus précisément, la notion d'identité est en partie narrative : elle repose sur un récit que l'on fait à propos de soi, et ce récit n'est pas une garantie de vérité.</span>
 
 <!-- 
