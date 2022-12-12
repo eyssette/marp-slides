@@ -70,14 +70,9 @@ Deuxième partie
 
 ---
 <!-- _class: souspartie -->
-<style scoped>
-h2 {font-size:1.2em}
-</style>
 
-## A. La conscience de soi peut prendre plusieurs formes
 
-Elle ne se réduit pas à la
-conscience mémorielle de soi
+## A. La conscience <br>de soi ne se réduit pas à la mémoire
 
 ---
 <!-- _class: fppppppppp -->
@@ -111,6 +106,13 @@ Cas : schizophrénie
 => semble correspondre au 2e paragraphe
 
 -->
+
+
+---
+<!-- _class:  -->
+Le Soi autobiographique lui-même ne semble pas seulement reposer sur la mémoire.
+
+<span data-marpit-fragment="1">Il intègre d'autres formes de connexions psychiques : notamment tout ce qui relève de notre caractère, de nos manières de réagir, de nos projets, de nos valeurs.</span>
 
 ---
 <!-- _class: souspartie -->
