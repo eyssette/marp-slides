@@ -62,19 +62,28 @@ Point de départ : une description **pessimiste** de l'être humain.
 <span data-marpit-fragment="3">Mais cet état de guerre est un **état de misère** : </span><span data-marpit-fragment="4">crainte permanente</span><span data-marpit-fragment="5"> → pas de coopération possible</span><span data-marpit-fragment="6"> → pas de progrès possible.</span>
 
 ---
-<!-- _class: fppppppp -->
+<!-- _class: fpppppppp -->
 Il faut absolument trouver un moyen de **sortir de l'état de guerre**.
 
 <span data-marpit-fragment="1">Le seul moyen d'en sortir, c'est d'accepter l'existence d'un pouvoir supérieur qui imposera le respect de règles qui vont **limiter le désir de puissance** de chacun.</span>
 
-<span data-marpit-fragment="2">Pour imposer le respect des règles et empêcher un retour à l'état de guerre, ce pouvoir doit être **absolu**, sans limites, et il doit inspirer la crainte.</span>
-
+<span data-marpit-fragment="2">L'anarchie comme absence d'ordre (sens&nbsp;1) s'explique par l'anarchie comme absence de pouvoir supérieur (sens 2).</span>
 
 ---
-<!-- _class:  -->
+
+Pour imposer le respect des règles et empêcher un retour à l'état de guerre, le pouvoir doit être **absolu**, sans limites, et il doit inspirer la crainte.
+
+<span data-marpit-fragment="1">L'État doit être un Léviathan, un monstre.</span>
+
+---
+<!-- _class: fppppppp  -->
+<style scoped>
+ul {margin-top:-0.2em!important}
+</style>
 ###  Problèmes :
-* La finalité de la sécurité est certes légitime, mais cela justifie-t-il vraiment l'existence d'un pouvoir absolu ? Ne faut-il pas des limites au pouvoir ?
-* Faut-il rechercher la sécurité au prix de la liberté ?
+* Les êtres humains sont-ils seulement guidés par le désir de puissance égoïste ?
+* L'absence de pouvoir supérieur conduit-elle nécessairement au chaos ?
+* Faut-il rechercher la sécurité au prix de la liberté ? Ne faut-il pas limiter le pouvoir de l'État ?
 
 
 <!--
@@ -106,18 +115,12 @@ Selon Hobbes, seule l’instauration d’un pouvoir supérieur peut imposer des 
 La raison humaine suggère, indique une piste. Si les individus parvenaient à se mettre d'accord pour que chacun accepte de limiter son désir de puissance, alors il serait possible d'éviter les causes de l'état de guerre (notamment : le meurtre, la violence, le vol). Mais on ne peut pas faire confiance à l'intelligence humaine et au bon sens. L'individu peut certes saisir rationnellement que la coopération avec les autres est dans l'intérêt bien compris de chacun ; tant que l'individu n'a pas de garantie qu'autrui va coopérer, la stratégie de la défiance semble logique et inévitable.
 
 
-
-
 L’État doit-il rendre les citoyens meilleurs ?
 La démocratie est-elle la garantie de lois justes ?
-Les être humains ont-ils besoin d’être gouvernés ?
-La liberté individuelle est-elle un danger pour l'État ?
 La politique est-elle une science ou un art ?
 La politique a-t-elle besoin de la morale ?
 La politique est-elle l’affaire de tous ?
-
-
- -->
+-->
 
 
 ---
@@ -160,7 +163,7 @@ Cependant le pouvoir de l'État pourrait interférer de manière arbitraire dans
 
 
 ---
-<!-- _class: fppp -->
+<!-- _class: fmmm -->
 <style scoped>
 h3{margin-bottom:0}
 ol{margin-top:0.2em}
@@ -168,13 +171,14 @@ ol{margin-top:0.2em}
 ### Exemples :
 
 1) L'interdiction de la détention arbitraire : _Magna Carta_ (1215), _Habeas Corpus_ (1679)
-2) La séparation des pouvoirs
-3) L'organisation du droit pour limiter l'arbitraire : les principes de publicité<span data-marpit-fragment="1">, de clarté</span><span data-marpit-fragment="2">, de non-rétroactivité</span><span data-marpit-fragment="3">, de [hiérarchie des normes juridiques](https://www.vie-publique.fr/sites/default/files/styles/large_full/public/infographie/hierarchie-normes.png?itok=VBNBhE2A)</span>
-4) Les déclarations des droits humains
-5) Le droit de résistance à l'oppression
-6) Le droit d'asile
+2) La séparation des trois pouvoirs : <span data-marpit-fragment="1">législatif, exécutif, judiciaire</span>
+3) Au sein de chaque pouvoir, d'autres formes de séparation : <span data-marpit-fragment="1">bicéphalisme pour l'exécutif</span><span data-marpit-fragment="2">, bicamérisme pour le législatif</span><span data-marpit-fragment="3">, double degré de juridiction pour le judiciaire</span>
+3) [La hiérarchie des normes juridiques](https://www.vie-publique.fr/infographie/23806-infographie-la-hierarchie-des-normes) <span data-marpit-fragment="1"> : bloc réglementaire < bloc législatif < bloc conventionnel < bloc constitutionnel</span>
+4) Les déclarations des droits humains, et notamment : <span data-marpit-fragment="1">les grandes libertés politiques (droit de vote, liberté d'expression ...)</span><span data-marpit-fragment="2">, le droit de résistance à l'oppression</span><span data-marpit-fragment="3">, le droit d'asile</span>
 
 <!--
+https://www.vie-publique.fr/sites/default/files/styles/large_full/public/infographie/hierarchie-normes.png?itok=VBNBhE2A
+
 la séparation des pouvoirs législatifs, exécutifs et judiciaires (cf. le système des checks and balances dans la Constitution américaine) ;
 le bicamérisme : la distinction au sein du pouvoir législatif entre deux chambres (en France : l’Assemblée nationale et le Sénat)
 le bicéphalisme : la distinction au sein du pouvoir exécutif entre le chef de l’État et le gouvernement.
@@ -196,3 +200,17 @@ Etat de droit : checklist
 https://www.venice.coe.int/images/SITE%20IMAGES/Publications/Rule_of_Law_Checklist_FRA.pdf
 
  -->
+
+
+ ---
+ <!-- _class:  -->
+ 
+Les être humains ont-ils besoin d’être gouvernés ?
+
+La liberté individuelle est-elle un danger pour l'État ?
+
+Faut-il se méfier du pouvoir de l'État ?
+
+L'État est-il au dessus des lois ?
+
+L'usage de la force par l'État est-il légitime ?
