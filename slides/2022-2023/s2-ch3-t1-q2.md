@@ -100,7 +100,7 @@ Shaun Gallagher
 cf. cours sur le libre arbitre
 Cas : schizophrénie
 
-=> semble correspondre à ce que dit Locke dans le 1er pargraphe
+=> semble correspondre à ce que dit Locke dans le 1er paragraphe
 
 3/ soi autobiographique
 => semble correspondre au 2e paragraphe
@@ -140,11 +140,21 @@ La mémoire est sélective.
 
 <span data-marpit-fragment="6">Plus précisément, la notion d'identité est en partie narrative : elle repose sur un récit que l'on fait à propos de soi, et ce récit n'est pas une garantie de vérité.</span>
 
+
+---
+<!-- _class:  -->
+Notre identité réelle ne correspond pas toujours à la conscience que nous en avons. 
+
+Ce que nous sommes véritablement nous échappe en partie.
+
+<!-- 
+Progression dans la connaissance de soi possible : grâce à autrui ? quête de soi ?
+-->
+
+
 <!-- 
 L'identité réelle déborde la conscience que nous en avons. On ne peut pas assimiler l'identité à la conscience.
 Ce que nous sommes véritablement échappe en partie à notre conscience.
-
-
 
 Question de la vérité, place du témoignage d'autrui ; récit de soi (identité narrative), image de soi : illusions sur soi
 
@@ -159,21 +169,4 @@ Conscience de soi : partielle et partiale.
 
 Ne pouvons-nous pas apprendre des autres des vérités sur nous-mêmes ?
 
-La mémoire est sélective. Nous retenons ce qui nous arrange (?)
-
-Exemple : construction d'une image de soi sur les réseaux sociaux (Instagram)
-
-La conscience de soi : une simple image de soi ? Un simple récit sur soi ?
-La notion d'identité est en partie narrative : elle repose sur un récit que l'on fait à propos de soi, et ce récit n'est pas une garantie de vérité.
-
-
-
----
-La mémoire est sélective.
-- elle est partielle (je ne retiens pas tout)
-- elle est partiale (je ne retiens que ce qui m'arrange)
-La mémoire semble participer à la construction d'une image de soi
-≠ représentation fidèle de la réalité
-Exemple : construction d'une image de soi sur les réseaux sociaux (Instagram)
-Plus précisément, la notion d'identité est en partie narrative : elle repose sur un récit que l'on fait à propos de soi, et ce récit n'est pas une garantie de vérité.
- -->
+-->

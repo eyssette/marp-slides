@@ -27,8 +27,8 @@ Première partie
 <!-- _class: fppp-->
 
 1) Nous cherchons à nous maintenir et à maintenir notre identité dans le temps.
-2) D'un point de vue rationnel, il semble important de prendre des décisions en envisageant aussi les conséquences pour notre soi futur. <span data-marpit-fragment="1">C'est le principe de la prudence qui conduit à ne pas prendre en compte seulement l'intérêt immédiat, mais aussi l'intérêt sur le long terme.</span>
-3) D'un point de vue moral, il semble important de considérer que chaque personne a une identité, son propre vécu et ses propres fins, qu'il s'agit de respecter
+2) D'un point de vue rationnel, il semble important de prendre des décisions en envisageant aussi les conséquences pour notre soi futur. <span data-marpit-fragment="1">C'est le principe de la prudence (prise en compte de l'intérêt sur le long terme ≠ intérêt immédiat).</span>
+3) D'un point de vue moral, il semble important de considérer que chaque personne a une identité, son propre vécu et ses propres fins, qu'il s'agit de respecter.
 
 
 ---

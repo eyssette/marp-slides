@@ -27,6 +27,8 @@ conscience psychologique
 "prendre conscience", "perdre conscience", "j'en ai bien conscience"
 une forme de connaissance directe présente à l'esprit
 
+Une forme de connaissance présente à l'esprit sur le moment présent
+
 conscience du monde extérieur / conscience de soi-même
 sous la forme de représentations mentales (conscience d'accès) / sous la forme de sensations, d'une expérience vécue, un certain ressenti subjectif intérieur (conscience phénoménale)
 conscience immédiate / conscience réfléchie
@@ -58,6 +60,9 @@ Magritte,<br>_La reproduction interdite_ (1937)
 # I – La conscience <br>de soi permet <br>d'accéder à ce <br>que je suis <!-- fit -->
 Première partie
 
+<!-- 
+La conscience semble rendre possible une connaissance directe, plus fiable que l'interprétation par les autres du comportement et des paroles d'un individu
+-->
 
 ---
 <!-- _class: citationC fmmmmmm -->
@@ -78,6 +83,21 @@ blockquote blockquote{padding-top:0.3em!important;}
 Deuxième partie
 
 
+<!-- 
+Expérience :
+* cherchez un stylo dans votre trousse
+* cherchez votre moi intérieur
+
+Pourquoi est-ce différent ?
+
+
+Il y a une différence entre chercher un stylo dans une trousse et chercher son propre moi intérieur :
+- le moi n'est pas une chose extérieure qu'on peut localiser précisément dans l'espace (le cerveau ≠ le moi)
+- on n'a pas une idée préalable précise de ce qu'est le moi (pas de définition stable)
+- le moi n'a pas des contours précis qui permettraient de le saisir (indétermination du moi, caractère fluctuant du moi)
+
+ -->
+
 ---
 <!-- _class: citationC fmmmm -->
 ![bg left:22%](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Painting_of_David_Hume.jpg/520px-Painting_of_David_Hume.jpg)
@@ -86,6 +106,10 @@ Deuxième partie
 ><span data-marpit-fragment="2">Pour ma part, quand je pénètre au plus intime de ce que j’appelle moi, je tombe toujours sur telle ou telle perception particulière, de chaud ou de froid, de lumière ou d’ombre, d’amour ou de haine, de douleur ou de plaisir. À aucun moment je ne puis me saisir moi sans saisir une perception, ni ne puis observer autre chose que la dite perception.</span><span data-marpit-fragment="3"> […] [J’]ose affirmer du reste des hommes qu’ils ne sont rien d’autre qu’un faisceau ou une collection de différentes perceptions qui se succèdent les unes les autres avec une inconcevable rapidité et qui sont dans un perpétuel flux et mouvement. »</span>
 >>**Hume**, _Traité de la nature humaine_, I, IV, VI
 
+
+<!-- 
+
+ -->
 
 <!-- 
 

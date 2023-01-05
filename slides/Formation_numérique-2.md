@@ -452,7 +452,7 @@ ol ul {margin-left:-30px;}
 	* Utiliser une caméra de document (un “visualiseur”) pour projeter le travail que l'on accomplit sur le texte [:link:](https://profjourde.wordpress.com/2015/06/02/un-visualiseur-et-un-ideateur-pour-les-gestes-du-travail-intellectuel/)
 	* Rendre le texte cliquable et interactif [:link:](https://www.genial.ly/)
 	* Produire, éventuellement avec les élèves, un texte ou un livre enrichi 
-	* Discuter un texte ou une œuvre en ligne [:link:](https://codimd.apps.education.fr/a8oECv4nSeu6LMsGUfxqVQ?both) [:link:](https://dialoguea.fr/forum/)
+	* Discuter un texte ou une œuvre en ligne [:link:](https://dialoguea.fr/forum/)
 
 ---
 <!-- _class: fm -->

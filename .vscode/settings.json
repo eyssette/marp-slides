@@ -9,6 +9,9 @@
 		"commandCenter.border": "#e7e7e799"
 	},
 	"markdown.marp.themes": [
-		"./themes/teaching.css"
+		"./themes/teaching.css",
+		"./themes/moja-teal-a4.css",
+		"./themes/moja-teal.css",
+		"./themes/a4-3c.css",
 	  ]
 }

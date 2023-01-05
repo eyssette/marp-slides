@@ -173,7 +173,7 @@ ol{margin-top:0.2em}
 1) L'interdiction de la détention arbitraire : _Magna Carta_ (1215), _Habeas Corpus_ (1679)
 2) La séparation des trois pouvoirs : <span data-marpit-fragment="1">législatif, exécutif, judiciaire</span>
 3) Au sein de chaque pouvoir, d'autres formes de séparation : <span data-marpit-fragment="1">bicéphalisme pour l'exécutif</span><span data-marpit-fragment="2">, bicamérisme pour le législatif</span><span data-marpit-fragment="3">, double degré de juridiction pour le judiciaire</span>
-3) [La hiérarchie des normes juridiques](https://www.vie-publique.fr/infographie/23806-infographie-la-hierarchie-des-normes) <span data-marpit-fragment="1"> : bloc réglementaire < bloc législatif < bloc conventionnel < bloc constitutionnel</span>
+3) [La hiérarchie des normes juridiques](https://www.vie-publique.fr/infographie/23806-infographie-la-hierarchie-des-normes) <span data-marpit-fragment="1"> : bloc réglementaire < bloc législatif < bloc conventionnel & bloc constitutionnel</span>
 4) Les déclarations des droits humains, et notamment : <span data-marpit-fragment="1">les grandes libertés politiques (droit de vote, liberté d'expression ...)</span><span data-marpit-fragment="2">, le droit de résistance à l'oppression</span><span data-marpit-fragment="3">, le droit d'asile</span>
 
 <!--

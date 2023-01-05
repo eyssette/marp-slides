@@ -50,7 +50,7 @@ I – Lecture globale
 
 ---
 <!-- _class: souspartie -->
-## A. Repérer les notions importantes et le thème du texte
+## A. Notions + Thème
 
 ---
 <!-- _class: citationL pp-->
@@ -59,18 +59,42 @@ blockquote{text-indent:1.5em; font-size:20px;  background-color:white; margin:0p
 </style>
 ><p>« [I]l y a au moins un être chez qui l'existence précède l'essence, un être qui existe avant de pouvoir être défini par aucun concept et […] cet être c'est l'homme […]. Qu'est-ce que signifie ici que l'existence précède l'essence ? Cela signifie que l'homme existe d'abord, se rencontre, surgit dans le monde, et qu'il se définit après. L'homme, tel que le conçoit l'existentialiste, s'il n'est pas définissable, c'est qu'il n'est d'abord rien. Il ne sera qu'ensuite, et il sera tel qu'il se sera fait. […] L'existentialiste déclare volontiers que l'homme est angoisse. Cela signifie ceci : l'homme qui s'engage et qui se rend compte qu'il est […] celui qu'il choisit d'être […] ne saurait échapper au sentiment de sa totale et profonde responsabilité. Certes, beaucoup de gens ne sont pas anxieux ; mais nous prétendons qu'ils se masquent leur angoisse, qu'ils la fuient […]. [O]n n'échappe à cette pensée inquiétante que par une sorte de mauvaise foi. […] La doctrine que je vous présente […] déclare : il n'y a de réalité que dans l'action ; elle va plus loin d'ailleurs, puisqu'elle ajoute : l'homme n'est rien d'autre que son projet, il n'existe que dans la mesure où il se réalise, il n'est donc rien d'autre que l'ensemble de ses actes, rien d'autre que sa vie. […] [I]l n'y a pas d'amour autre que celui qui se construit […] ; il n'y a pas de génie autre que celui qui s'exprime dans des œuvres d'art : le génie de Proust c'est la totalité des œuvres de Proust. […] Un homme s'engage dans sa vie, dessine sa figure, et en dehors de cette figure il n'y a rien. […] Ce que nous voulons dire, c'est qu'un homme n'est rien d'autre qu'une série d'entreprises, qu'il est la somme, l'organisation, l'ensemble des relations qui constituent ces entreprises. […] Mais la subjectivité que nous atteignons là […] n'est pas une subjectivité rigoureusement individuelle […]. Pour obtenir une vérité quelconque sur moi, il faut que je passe par l'autre. L'autre est indispensable à mon existence, aussi bien d'ailleurs qu'à la connaissance que j'ai de moi. […] Ainsi découvrons-nous tout de suite un monde que nous appellerons l'intersubjectivité, et c'est dans ce monde que l'homme décide ce qu'il est et ce que sont les autres. »</p>
 
+
+---
+<!-- _class: fmmm -->
+<style scoped>
+ol {margin-top:0; padding-top:0;}
+ol li {list-style-type:none!important; margin:0px 0 0 -1.5em}
+ol li:before{content:"– "; margin-right:1em}
+</style>
+#### Notions importantes :
+1) existence de l'être humain
+1) essence de l'être humain (ce qu'il est), définition, concept
+1) se rencontrer, surgir dans le monde, s'engager, choisir, dessiner sa figure
+1) n'être rien
+1) angoisse, anxiété, pensée inquiétante
+1) responsabilité
+1) mauvaise foi
+1) action, projet, se réaliser, actes, sa vie, entreprises
+1) amour
+1) art
+1) subjectivité
+1) vérité, connaissance
+1) l'autre, les autres
+1) l'intersubjectivité
+
 <!-- 
 Notions importantes :
 - existence de l'être humain
-- essence de l'être humain, définition, concept
+- essence de l'être humain (ce qu'il est), définition, concept
 - se rencontrer, surgir dans le monde, s'engager, choisir, dessiner sa figure
 - n'être rien
 - angoisse, anxiété, pensée inquiétante
 - responsabilité
 - mauvaise foi
-- l'action, projet, se réaliser, actes, sa vie, entreprises
-- l'amour
-- l'art
+- action, projet, se réaliser, actes, sa vie, entreprises
+- amour
+- art
 - subjectivité
 - vérité, connaissance
 - l'autre, les autres
@@ -79,7 +103,18 @@ Notions importantes :
 Thème du texte :
 l'existence et l'essence de l'être humain
 
- -->
+-->
+
+
+---
+<!-- _class:  -->
+<style scoped>
+section {font-size:4em}
+</style>
+#### Thème 
+
+L'essence de l'être humain
+
 
 ---
 <!-- _class: souspartie -->
@@ -93,16 +128,19 @@ blockquote{text-indent:1.5em; font-size:20px;  background-color:white; margin:0p
 ><p>« [I]l y a au moins un être chez qui l'existence précède l'essence, un être qui existe avant de pouvoir être défini par aucun concept et […] cet être c'est l'homme […]. Qu'est-ce que signifie ici que l'existence précède l'essence ? Cela signifie que l'homme existe d'abord, se rencontre, surgit dans le monde, et qu'il se définit après. L'homme, tel que le conçoit l'existentialiste, s'il n'est pas définissable, c'est qu'il n'est d'abord rien. Il ne sera qu'ensuite, et il sera tel qu'il se sera fait. […] L'existentialiste déclare volontiers que l'homme est angoisse. Cela signifie ceci : l'homme qui s'engage et qui se rend compte qu'il est […] celui qu'il choisit d'être […] ne saurait échapper au sentiment de sa totale et profonde responsabilité. Certes, beaucoup de gens ne sont pas anxieux ; mais nous prétendons qu'ils se masquent leur angoisse, qu'ils la fuient […]. [O]n n'échappe à cette pensée inquiétante que par une sorte de mauvaise foi. […] La doctrine que je vous présente […] déclare : il n'y a de réalité que dans l'action ; elle va plus loin d'ailleurs, puisqu'elle ajoute : l'homme n'est rien d'autre que son projet, il n'existe que dans la mesure où il se réalise, il n'est donc rien d'autre que l'ensemble de ses actes, rien d'autre que sa vie. […] [I]l n'y a pas d'amour autre que celui qui se construit […] ; il n'y a pas de génie autre que celui qui s'exprime dans des œuvres d'art : le génie de Proust c'est la totalité des œuvres de Proust. […] Un homme s'engage dans sa vie, dessine sa figure, et en dehors de cette figure il n'y a rien. […] Ce que nous voulons dire, c'est qu'un homme n'est rien d'autre qu'une série d'entreprises, qu'il est la somme, l'organisation, l'ensemble des relations qui constituent ces entreprises. […] Mais la subjectivité que nous atteignons là […] n'est pas une subjectivité rigoureusement individuelle […]. Pour obtenir une vérité quelconque sur moi, il faut que je passe par l'autre. L'autre est indispensable à mon existence, aussi bien d'ailleurs qu'à la connaissance que j'ai de moi. […] Ainsi découvrons-nous tout de suite un monde que nous appellerons l'intersubjectivité, et c'est dans ce monde que l'homme décide ce qu'il est et ce que sont les autres. »</p>
 
 
-<!-- 
-Question directrice :
-Qu'est-ce qui constitue l'essence de l'être humain ?
-La question n'est pas de savoir ce qui fait l'essence d'un être humain en général, mais de déterminer ce qui définit un être humain en particulier.
-Plus précisément, la question est la suivante : qu'est-ce qui définit ce que je suis ?
+---
+<!-- _class: f -->
+#### Question directrice :
+Qu'est-ce qui constitue l'essence d'un être humain ?
 
-Thèse :
-Ce que je suis n'est pas défini à l'avance, c'est, à travers mon existence, par mes choix, par mes actes que je me définis
+<span data-marpit-fragment="1">Mais la question n'est pas de savoir ce qui fait l'essence d'un être humain en général, mais de déterminer ce qui définit un être humain en particulier.</span>
 
- -->
+<span data-marpit-fragment="2">Plus précisément, la question est la suivante : qu'est-ce qui définit ce que je suis ?</span>
+
+#### Thèse :
+
+<span data-marpit-fragment="3">Ce que je suis n'est pas défini à l'avance, c'est, à travers mon existence, par mes choix, par mes actes que je me définis</span>
+
 
 ---
 <!-- _class: souspartie -->
@@ -141,10 +179,10 @@ ol li:nth-of-type(4){top:600px; display:none}
 </style>
 ><p>« [I]l y a au moins un être chez qui l'existence précède l'essence, un être qui existe avant de pouvoir être défini par aucun concept et […] cet être c'est l'homme […]. Qu'est-ce que signifie ici que l'existence précède l'essence ? Cela signifie que l'homme existe d'abord, se rencontre, surgit dans le monde, et qu'il se définit après. L'homme, tel que le conçoit l'existentialiste, s'il n'est pas définissable, c'est qu'il n'est d'abord rien. Il ne sera qu'ensuite, et il sera tel qu'il se sera fait. […] <span class="separation1"></span> L'existentialiste déclare volontiers que l'homme est angoisse. Cela signifie ceci : l'homme qui s'engage et qui se rend compte qu'il est […] celui qu'il choisit d'être […] ne saurait échapper au sentiment de sa totale et profonde responsabilité. Certes, beaucoup de gens ne sont pas anxieux ; mais nous prétendons qu'ils se masquent leur angoisse, qu'ils la fuient […]. [O]n n'échappe à cette pensée inquiétante que par une sorte de mauvaise foi. […] <span class="separation2"></span> La doctrine que je vous présente […] déclare : il n'y a de réalité que dans l'action ; elle va plus loin d'ailleurs, puisqu'elle ajoute : l'homme n'est rien d'autre que son projet, il n'existe que dans la mesure où il se réalise, il n'est donc rien d'autre que l'ensemble de ses actes, rien d'autre que sa vie. […] [I]l n'y a pas d'amour autre que celui qui se construit […] ; il n'y a pas de génie autre que celui qui s'exprime dans des œuvres d'art : le génie de Proust c'est la totalité des œuvres de Proust. […] Un homme s'engage dans sa vie, dessine sa figure, et en dehors de cette figure il n'y a rien. […] Ce que nous voulons dire, c'est qu'un homme n'est rien d'autre qu'une série d'entreprises, qu'il est la somme, l'organisation, l'ensemble des relations qui constituent ces entreprises. […] <span class="separation3"></span> Mais la subjectivité que nous atteignons là […] n'est pas une subjectivité rigoureusement individuelle […]. Pour obtenir une vérité quelconque sur moi, il faut que je passe par l'autre. L'autre est indispensable à mon existence, aussi bien d'ailleurs qu'à la connaissance que j'ai de moi. […] Ainsi découvrons-nous tout de suite un monde que nous appellerons l'intersubjectivité, et c'est dans ce monde que l'homme décide ce qu'il est et ce que sont les autres. »<span class="separation4"></span></p>
 
-1. A
-2. B
-3. C
-4. D
+1. I
+2. II
+3. III
+4. IV
 
 <!--
 A. Ce que je suis n'est pas défini à l'avance : je suis ce que je fais de moi
@@ -171,10 +209,10 @@ ol li:nth-of-type(4){top:600px; display:none}
 </style>
 ><p>« [I]l y a au moins un être chez qui l'existence précède l'essence, un être qui existe avant de pouvoir être défini par aucun concept et […] cet être c'est l'homme […]. Qu'est-ce que signifie ici que l'existence précède l'essence ? Cela signifie que l'homme existe d'abord, se rencontre, surgit dans le monde, et qu'il se définit après. L'homme, tel que le conçoit l'existentialiste, s'il n'est pas définissable, c'est qu'il n'est d'abord rien. Il ne sera qu'ensuite, et il sera tel qu'il se sera fait. […] <span class="separation1"></span> L'existentialiste déclare volontiers que l'homme est angoisse. Cela signifie ceci : l'homme qui s'engage et qui se rend compte qu'il est […] celui qu'il choisit d'être […] ne saurait échapper au sentiment de sa totale et profonde responsabilité. Certes, beaucoup de gens ne sont pas anxieux ; mais nous prétendons qu'ils se masquent leur angoisse, qu'ils la fuient […]. [O]n n'échappe à cette pensée inquiétante que par une sorte de mauvaise foi. […] <span class="separation2"></span> La doctrine que je vous présente […] déclare : il n'y a de réalité que dans l'action ; elle va plus loin d'ailleurs, puisqu'elle ajoute : l'homme n'est rien d'autre que son projet, il n'existe que dans la mesure où il se réalise, il n'est donc rien d'autre que l'ensemble de ses actes, rien d'autre que sa vie. […] [I]l n'y a pas d'amour autre que celui qui se construit […] ; il n'y a pas de génie autre que celui qui s'exprime dans des œuvres d'art : le génie de Proust c'est la totalité des œuvres de Proust. […] Un homme s'engage dans sa vie, dessine sa figure, et en dehors de cette figure il n'y a rien. […] Ce que nous voulons dire, c'est qu'un homme n'est rien d'autre qu'une série d'entreprises, qu'il est la somme, l'organisation, l'ensemble des relations qui constituent ces entreprises. […] <span class="separation3"></span> Mais la subjectivité que nous atteignons là […] n'est pas une subjectivité rigoureusement individuelle […]. Pour obtenir une vérité quelconque sur moi, il faut que je passe par l'autre. L'autre est indispensable à mon existence, aussi bien d'ailleurs qu'à la connaissance que j'ai de moi. […] Ainsi découvrons-nous tout de suite un monde que nous appellerons l'intersubjectivité, et c'est dans ce monde que l'homme décide ce qu'il est et ce que sont les autres. »<span class="separation4"></span></p>
 
-1. A
-2. B
-3. C
-4. D
+1. I
+2. II
+3. III
+4. IV
 
 <!--
 A. Ce que je suis n'est pas défini à l'avance : je suis ce que je fais de moi
@@ -200,9 +238,9 @@ ol li:nth-of-type(4){top:600px; display:none}
 </style>
 ><p>« [I]l y a au moins un être chez qui l'existence précède l'essence, un être qui existe avant de pouvoir être défini par aucun concept et […] cet être c'est l'homme […]. Qu'est-ce que signifie ici que l'existence précède l'essence ? Cela signifie que l'homme existe d'abord, se rencontre, surgit dans le monde, et qu'il se définit après. L'homme, tel que le conçoit l'existentialiste, s'il n'est pas définissable, c'est qu'il n'est d'abord rien. Il ne sera qu'ensuite, et il sera tel qu'il se sera fait. […] <span class="separation1"></span> L'existentialiste déclare volontiers que l'homme est angoisse. Cela signifie ceci : l'homme qui s'engage et qui se rend compte qu'il est […] celui qu'il choisit d'être […] ne saurait échapper au sentiment de sa totale et profonde responsabilité. Certes, beaucoup de gens ne sont pas anxieux ; mais nous prétendons qu'ils se masquent leur angoisse, qu'ils la fuient […]. [O]n n'échappe à cette pensée inquiétante que par une sorte de mauvaise foi. […] <span class="separation2"></span> La doctrine que je vous présente […] déclare : il n'y a de réalité que dans l'action ; elle va plus loin d'ailleurs, puisqu'elle ajoute : l'homme n'est rien d'autre que son projet, il n'existe que dans la mesure où il se réalise, il n'est donc rien d'autre que l'ensemble de ses actes, rien d'autre que sa vie. […] [I]l n'y a pas d'amour autre que celui qui se construit […] ; il n'y a pas de génie autre que celui qui s'exprime dans des œuvres d'art : le génie de Proust c'est la totalité des œuvres de Proust. […] Un homme s'engage dans sa vie, dessine sa figure, et en dehors de cette figure il n'y a rien. […] Ce que nous voulons dire, c'est qu'un homme n'est rien d'autre qu'une série d'entreprises, qu'il est la somme, l'organisation, l'ensemble des relations qui constituent ces entreprises. […] <span class="separation3"></span> Mais la subjectivité que nous atteignons là […] n'est pas une subjectivité rigoureusement individuelle […]. Pour obtenir une vérité quelconque sur moi, il faut que je passe par l'autre. L'autre est indispensable à mon existence, aussi bien d'ailleurs qu'à la connaissance que j'ai de moi. […] Ainsi découvrons-nous tout de suite un monde que nous appellerons l'intersubjectivité, et c'est dans ce monde que l'homme décide ce qu'il est et ce que sont les autres. »<span class="separation4"></span></p>
 
-1. A
-2. B
-3. C
+1. I
+2. II
+3. III
 4. D
 
 <!--
@@ -229,10 +267,21 @@ ol li:nth-of-type(4){top:600px}
 </style>
 ><p>« [I]l y a au moins un être chez qui l'existence précède l'essence, un être qui existe avant de pouvoir être défini par aucun concept et […] cet être c'est l'homme […]. Qu'est-ce que signifie ici que l'existence précède l'essence ? Cela signifie que l'homme existe d'abord, se rencontre, surgit dans le monde, et qu'il se définit après. L'homme, tel que le conçoit l'existentialiste, s'il n'est pas définissable, c'est qu'il n'est d'abord rien. Il ne sera qu'ensuite, et il sera tel qu'il se sera fait. […] <span class="separation1"></span> L'existentialiste déclare volontiers que l'homme est angoisse. Cela signifie ceci : l'homme qui s'engage et qui se rend compte qu'il est […] celui qu'il choisit d'être […] ne saurait échapper au sentiment de sa totale et profonde responsabilité. Certes, beaucoup de gens ne sont pas anxieux ; mais nous prétendons qu'ils se masquent leur angoisse, qu'ils la fuient […]. [O]n n'échappe à cette pensée inquiétante que par une sorte de mauvaise foi. […] <span class="separation2"></span> La doctrine que je vous présente […] déclare : il n'y a de réalité que dans l'action ; elle va plus loin d'ailleurs, puisqu'elle ajoute : l'homme n'est rien d'autre que son projet, il n'existe que dans la mesure où il se réalise, il n'est donc rien d'autre que l'ensemble de ses actes, rien d'autre que sa vie. […] [I]l n'y a pas d'amour autre que celui qui se construit […] ; il n'y a pas de génie autre que celui qui s'exprime dans des œuvres d'art : le génie de Proust c'est la totalité des œuvres de Proust. […] Un homme s'engage dans sa vie, dessine sa figure, et en dehors de cette figure il n'y a rien. […] Ce que nous voulons dire, c'est qu'un homme n'est rien d'autre qu'une série d'entreprises, qu'il est la somme, l'organisation, l'ensemble des relations qui constituent ces entreprises. […] <span class="separation3"></span> Mais la subjectivité que nous atteignons là […] n'est pas une subjectivité rigoureusement individuelle […]. Pour obtenir une vérité quelconque sur moi, il faut que je passe par l'autre. L'autre est indispensable à mon existence, aussi bien d'ailleurs qu'à la connaissance que j'ai de moi. […] Ainsi découvrons-nous tout de suite un monde que nous appellerons l'intersubjectivité, et c'est dans ce monde que l'homme décide ce qu'il est et ce que sont les autres. »<span class="separation4"></span></p>
 
-1. A
-2. B
-3. C
-4. D
+1. I
+2. II
+3. III
+4. IV
+
+
+---
+<!-- _class: f -->
+**I – <span data-marpit-fragment="1">Sartre définit ce qui fait l'essence d'un être humain :**</span> <span data-marpit-fragment="2">mon essence (ce que je suis) n'est pas défini à l'avance : je suis ce que je fais de moi</span>
+
+<span data-marpit-fragment="3">**II – Sartre dégage une conséquence du fait d'avoir à choisir ce que je suis:**</span> <span data-marpit-fragment="4">la responsabilité d'avoir à définir ce que je suis est source d'angoisse</span>
+
+<span data-marpit-fragment="5">**III – Sartre précise que les choix qui définissent mon identité sont ceux que je réalise véritablement** :</span> <span data-marpit-fragment="6">c'est avant tout par mes actes que je me définis</span>
+
+<span data-marpit-fragment="7">**IV – Sartre souligne l'importance des autres dans la définition de mon identité :**</span> <span data-marpit-fragment="8">C'est aussi à travers les autres que je me définis</span>
 
 <!--
 A. Ce que je suis n'est pas défini à l'avance : je suis ce que je fais de moi
