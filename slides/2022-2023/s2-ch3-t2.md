@@ -345,46 +345,130 @@ figure{margin-left:-40px!important}
 
 ### 1) La distinction <br>essence / existence
 
+
+---
+<!-- _class: definition fpp -->
+<style scoped>
+ul li {}
+</style>
+### Définition 
+* L'**essence** : du latin _esse_ (verbe être)
+* Désigne l'être d'une chose, ce qu'est cette chose, ce qui la définit
+* On distingue ainsi : l'essence (les propriétés fondamentales sans lesquelles la chose ne peut pas être ce qu'elle est) et les “accidents” (les propriétés secondaires, non-essentielles, sans lesquelles la chose peut malgré tout être ce qu'elle est)
+ 
+<!-- Exemple : L'essence d'un triangle est d'être une figure géométrique avec trois côtés.
+Autrement dit : avoir trois côté fait partie de l'essence d'un triangle.
+Être de couleur rouge ne fait pas partie de l'essence d'un triangle -->
+
+---
+<!-- _class:  -->
+Ici : on s'intéresse à l'essence d'un être humain en particulier, c'est-à-dire à la question suivante : « Qu'est-ce qui me définit ? »
+
+<span data-marpit-fragment="1">Certains aspects de nous-mêmes semblent secondaires, non-essentielles (p.ex. : avoir de la barbe aujourd'hui…), mais y a-t-il des des propriétés fondamentales qui caractérisent notre identité ?</span>
+
+<!-- Sartre s'intéresse ici non pas à l'essence d'un être humain en général (propriétés fondamentales qui permettent de caractériser l'espèce humaine (ou le genre humain)), mais à l'essence d'un être humain en particulier (propr. fondamen. qui permettent de définir qui je suis, c'est-à-dire mon identité personnelle)
+La question est donc la suivante : Y a-t-il des propriétés fondamentales qui permettent de définir qui je suis ? -->
+
+---
+<!-- _class: citationC fppp -->
+
+![bg left:27%](http://commons.wikimedia.org/wiki/Special:FilePath/Schopenhauer.jpg?width=300)
+
+>« Le caractère de l'homme est invariable : il reste le même pendant toute la durée de sa vie. Sous l'enveloppe changeante des années, des circonstances où il se trouve, même de ses connaissances et de ses opinions, demeure, comme l'écrevisse sous son écaille, l'homme identique et individuel, absolument immuable et toujours le même. […] L'homme même ne change jamais : comme il a agi dans un cas, il agira encore, si les mêmes circonstances se présentent […]. »
+>>**Schopenhauer**, _Essai sur le libre arbitre_
+
+
+---
+<!-- _class:  -->
+Schopenhauer défend une conception essentialiste et fixiste de l'identité ([“On ne change pas …”](https://ladigitale.dev/digiview/#/v/63bfeec90b77c)) : nous sommes définis par notre caractère.
+
+<span data-marpit-fragment="1">&rArr; une forme de fatalité : nous ne pouvons pas choisir qui nous sommes, nous héritons d'un caractère.</span>
+
+<!-- 
+le caractère : des traits stables qui caractérisent notre personnalité.
+-->
+
+
+---
+<!-- _class:  -->
+<style scoped>
+section {font-size:3.4em}
+</style>
+De manière plus générale, nous avons parfois tendance à essentialiser les autres.
+
+- Qu'est-ce que cela veut dire ?
+
+---
+<!-- _class: definition -->
+
+### Définition
+L'**essentialisation** est le processus consistant à réduire une personne ou un groupe à une identité présupposée, fondée sur des stéréotypes ou des préjugés.
+
+<!-- Essentialisation : / sexisme, racisme
+(stéréotypes sexistes, racistes)
+/ autres cultures
+Lien avec l'ethnocentrisme
+-->
+
+---
+<!-- _class:  -->
+<style scoped>
+	blockquote {margin-top:0.75em}
+blockquote p {text-align:center; margin:0.25em}
+</style>
+Sartre s'oppose à l'essentialisme et à toute essentialisation et défend au contraire une conception existentialiste de l'identité.
+
+> « L'existence précède l'essence »
+
+
+---
+<!-- _class: fmm -->
+<style scoped>
+table {layout:fixed; font-size: 1em; margin-top:0.5em}
+td:nth-of-type(1) {width:380px}
+p {margin-top:0.75em; text-align:center;}
+</style>
+
+### Dans le cas des objets techniques, c'est l'inverse :
+
+|L'essence|précède |l'existence |
+|:-:|:-:|:-:|
+|<span data-marpit-fragment="1">= la définition de l'objet, <br>les fonctionnalités prévues, le cahier des charges, <br>les plans, le prototype</span>||<span data-marpit-fragment="2">= la réalisation concrète <br>de l'objet</span>|
+|<span data-marpit-fragment="3">la conception <br>d'un modèle</span>||<span data-marpit-fragment="4">la production</span>|
+
+<span data-marpit-fragment="5">&rArr; “La conception précède la confection”</span>
+
+
+
+---
+<!-- _class:  -->
+Dans le cas des êtres humains, l'existence précède l'essence.
+
+<span data-marpit-fragment="1">= nous ne sommes pas produits d'après un modèle qui était préalablement conçu.</span>
+
+<span data-marpit-fragment="2">&rArr; Pas de fatalité, mais au contraire une liberté fondamentale dans la définition de notre identité.</span>
+
+<!-- 
+L'homme n'est d'abord rien : Le "rien" dont parle Sartre est l'absence d'une essence prédéfinie ou d'une nature fixe chez l'homme.
+-->
+
 ---
 <!-- _class:  -->
 
-<!--
-- Définition de l'existence et de l'essence
-essence : nature d'un être, propriétés fondamentales qui définissent un être
-≠ accident : propriétés non fondamentales, qui peuvent ne pas être
-ex - istence : être jeté dans le monde 
-- Comparaison avec les objets techniques :
-la conception précède la confection / la production
-- Différence avec l'essentialisme
-Schopenhauer : caractère qui définit l'être humain
-conception fixiste, figée de l'identité (“On ne change pas …”)
-fatalité de l'identité
-Essentialisation : / sexisme, racisme
-(stéréotypes sexistes, racistes)
-- Il se définit après : 
-≠ il est défini après
-(≠ construction sociale
-≠ déterminisme social)
+Sartre s'oppose non seulement à l'essentialisme, mais aussi au déterminisme.
+
+Non seulement il n'y a pas d'essence préalable qui me définit, mais je ne suis pas non plus défini par des facteurs extérieurs.
+
+Chaque être humain se définit, librement, à travers son existence.
+
+
+<!-- ex - istence : être jeté dans le monde 
+
+"l'homme existe d'abord, se rencontre, surgit dans le monde, et qu'il se définit après. L'homme, tel que le conçoit l'existentialiste, s'il n'est pas définissable, c'est qu'il n'est d'abord rien. Il ne sera qu'ensuite, et il sera tel qu'il se sera fait."
+
 - Comparaison avec Beauvoir : “on ne naît pas femme, on le devient”
 
-cf. Eribon, Retour à Reims
-
-- Définition du terme “essence”
-L'essence : vient du latin _esse_ (= verbe être)
-= l'être d'une chose, ce qu'est cette chose, ce qui la définit
-= les propriétés fondamentales qui permettent de définir une chose
-≠ les propriétés secondaires, non-essentielles, "accidentelles"
-Exemple : L'essence d'un triangle est d'être une figure géométrique avec trois côtés.
-Autrement dit : avoir trois côté fait partie de l'essence d'un triangle.
-Être de couleur rouge ne fait pas partie de l'essence d'un triangle
-
-- Sartre s'intéresse ici non pas à l'essence d'un être humain en général (propriétés fondamentales qui permettent de caractériser l'espèce humaine (ou le genre humain)), mais à l'essence d'un être humain en particulier (propr. fondamen. qui permettent de définir qui je suis, c'est-à-dire mon identité personnelle)
-La question est donc la suivante : Y a-t-il des propriétés fondamentales qui permettent de définir qui je suis ?
-
-- Si certains aspects de nous-mêmes semblent secondaires, non-essentielles (avoir de la barbe aujourd'hui…), on pourrait penser qu'il y a des traits stables de notre caractère qui nous définissent et caractérisent notre personnalité.
-
-- Mais pour Sartre …
-
+- cf. Eribon, Retour à Reims
 -->
 
 ---
@@ -396,12 +480,28 @@ La question est donc la suivante : Y a-t-il des propriétés fondamentales qui p
 
 ---
 <!-- _class:  -->
+La responsabilité d'avoir à choisir qui je suis est source d'angoisse.
+
+L'angoisse se distingue de la peur et de l'inquiétude ou de la crainte.
+
+---
+<!-- _class:  -->
+La peur : une réaction à une menace précise ou à un danger imminent.
+
+L'inquiétude, la crainte : une préoccupation face à certaines possibilités envisagées dans l'avenir.
+
+L'angoisse : sans objet précis.
 
 <!--
 Angoisse ≠ peur, crainte, inquiétude face à quelque chose de précis, ou à certaines possibilités déterminées dans l'avenir
 Angoisse / vide
 / sa propre liberté : la liberté est angoissante
  -->
+
+---
+<!-- _class:  -->
+
+Pour ne pas avoir à ressentir cette angoisse, nous avons tendance à être de mauvaise foi.
 
 
 <!--
