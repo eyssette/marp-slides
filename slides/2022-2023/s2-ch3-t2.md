@@ -83,29 +83,6 @@ ol li:before{content:"– "; margin-right:1em}
 1) l'autre, les autres
 1) l'intersubjectivité
 
-<!-- 
-Notions importantes :
-- existence de l'être humain
-- essence de l'être humain (ce qu'il est), définition, concept
-- se rencontrer, surgir dans le monde, s'engager, choisir, dessiner sa figure
-- n'être rien
-- angoisse, anxiété, pensée inquiétante
-- responsabilité
-- mauvaise foi
-- action, projet, se réaliser, actes, sa vie, entreprises
-- amour
-- art
-- subjectivité
-- vérité, connaissance
-- l'autre, les autres
-- l'intersubjectivité
-
-Thème du texte :
-l'existence et l'essence de l'être humain
-
--->
-
-
 ---
 <!-- _class:  -->
 <style scoped>
@@ -353,4 +330,170 @@ figure{margin-left:-40px!important}
 ---
 <!-- _class: souspartie -->
 ## B. Compréhension précise de chaque passage
+
+
+---
+<!-- _class: pointmethode -->
+
+### Point méthode
+[RAPPEL] Même si la connaissance de l'auteur n'est pas requise, des connaissances sont utiles pour mieux comprendre le texte.
+
+
+---
+<!-- _class: etape -->
+
+
+### 1) La distinction <br>essence / existence
+
+---
+<!-- _class:  -->
+
+<!--
+- Définition de l'existence et de l'essence
+essence : nature d'un être, propriétés fondamentales qui définissent un être
+≠ accident : propriétés non fondamentales, qui peuvent ne pas être
+ex - istence : être jeté dans le monde 
+- Comparaison avec les objets techniques :
+la conception précède la confection / la production
+- Différence avec l'essentialisme
+Schopenhauer : caractère qui définit l'être humain
+conception fixiste, figée de l'identité (“On ne change pas …”)
+fatalité de l'identité
+Essentialisation : / sexisme, racisme
+(stéréotypes sexistes, racistes)
+- Il se définit après : 
+≠ il est défini après
+(≠ construction sociale
+≠ déterminisme social)
+- Comparaison avec Beauvoir : “on ne naît pas femme, on le devient”
+
+cf. Eribon, Retour à Reims
+
+- Définition du terme “essence”
+L'essence : vient du latin _esse_ (= verbe être)
+= l'être d'une chose, ce qu'est cette chose, ce qui la définit
+= les propriétés fondamentales qui permettent de définir une chose
+≠ les propriétés secondaires, non-essentielles, "accidentelles"
+Exemple : L'essence d'un triangle est d'être une figure géométrique avec trois côtés.
+Autrement dit : avoir trois côté fait partie de l'essence d'un triangle.
+Être de couleur rouge ne fait pas partie de l'essence d'un triangle
+
+- Sartre s'intéresse ici non pas à l'essence d'un être humain en général (propriétés fondamentales qui permettent de caractériser l'espèce humaine (ou le genre humain)), mais à l'essence d'un être humain en particulier (propr. fondamen. qui permettent de définir qui je suis, c'est-à-dire mon identité personnelle)
+La question est donc la suivante : Y a-t-il des propriétés fondamentales qui permettent de définir qui je suis ?
+
+- Si certains aspects de nous-mêmes semblent secondaires, non-essentielles (avoir de la barbe aujourd'hui…), on pourrait penser qu'il y a des traits stables de notre caractère qui nous définissent et caractérisent notre personnalité.
+
+- Mais pour Sartre …
+
+-->
+
+---
+<!-- _class: etape -->
+
+
+### 2) L'angoisse et la mauvaise foi
+
+
+---
+<!-- _class:  -->
+
+<!--
+Angoisse ≠ peur, crainte, inquiétude face à quelque chose de précis, ou à certaines possibilités déterminées dans l'avenir
+Angoisse / vide
+/ sa propre liberté : la liberté est angoissante
+ -->
+
+
+<!--
+Sens ordinaire : "Indécence caractérisée par une volonté d'affirmer un propos que l'on sait foncièrement faux ou injustifié"
+
+"Couramment, on dit de mauvaise foi celui qui, par amour-propre ou par intérêt, s'obstine contre toute évidence à soutenir qu'il a raison, alors qu'il sait pertinemment qu'il a tort. Sourd à l'argumentation rationnelle, il échafaude de fausses bonnes raisons, s'enfermant dans un système de défense absurde."
+http://pierre.campion2.free.fr/mornej_sartre.htm
+
+Exemple du garçon de café
+refuser sa liberté, tentative d'échapper à la responsabilité de soi
+face à angoisse du néant, se donner un certain être
+chosification de soi-même réconfortante
+(pour soi / en soi)
+
+Chercher à se masquer à soi-même sa liberté
+
+-->
+
+---
+<!-- _class: etape -->
+
+
+### 3) L'être humain comme projet
+
+
+---
+<!-- _class:  -->
+
+
+<!-- actes ≠ paroles, croyances, velléités, rêves
+Ce qui me définit, ce n'est pas ce que j'aimerais être, ce que je crois être
+rapport au monde / ce que je fais dans le monde
+Illusion possible : je crois être ceci / mais que suis-je réellement ?
+-->
+
+<!-- 
+// “il n'y a pas d'amour, il n'y a que des preuves d'amour ”. L'amour ≠ un simple sentiment intérieur. La réalité de l'amour = des actes d'amour
+Exemple de l'artiste : Notre vie // une œuvre d'art.
+ -->
+
+<!-- 
+L'être humain se définit “sur la route”
+Critique de l'intériorité : l'identité n'est pas à chercher en soi
+Exemple : La vie rêvée de Walter Mitty (voir bande annonce)
+Retour / angoisse : c'est en agissant qu'on va définir ce qu'on est, on ne peut pas d'abord chercher à savoir qui on est, puis agir
+ -->
+
+---
+<!-- _class: etape -->
+
+
+### 4) Autrui comme condition de soi
+
+
+
+---
+
+
+<!-- 
+Soi personnel et soi collectif : les sources d’un malentendu
+https://journals.openedition.org/teth/523
+
+Identité constituante, identité constituée
+https://journals.openedition.org/teth/615
+ -->
+
+
+<!-- 
+Honneth / théories de la reconnaissance / affirmation de son existence
+- enfant : famille / reconnaissance affective / 
+- adulte : 
+	- citoyen, sujet de droit / reconnaissance politique / 
+	- individu / reconnaissance sociale / 
+
+/ connaissance de soi : par les autres
+ -->
+
+<!-- 
+Importance regard des autres
+-->
+
+
+
+---
+
+### Partie 1 : Qu'est-ce qui me définit ?
+
+
+
+### Vivons-nous de manière authentique ?
+
+
+### Quelle est la place d'Autrui dans mon existence ?
+
 
