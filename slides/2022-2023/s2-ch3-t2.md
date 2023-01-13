@@ -482,15 +482,15 @@ Chaque être humain se définit, librement, à travers son existence.
 <!-- _class:  -->
 La responsabilité d'avoir à choisir qui je suis est source d'angoisse.
 
-L'angoisse se distingue de la peur et de l'inquiétude ou de la crainte.
+L'angoisse se distingue de la peur et de la crainte.
 
 ---
 <!-- _class:  -->
 La peur : une réaction à une menace précise ou à un danger imminent.
 
-L'inquiétude, la crainte : une préoccupation face à certaines possibilités envisagées dans l'avenir.
+<span data-marpit-fragment="1">La crainte : une préoccupation face à certaines possibilités envisagées dans l'avenir.</span>
 
-L'angoisse : sans objet précis.
+<span data-marpit-fragment="2">L'angoisse : sans objet précis. Ce qui nous angoisse, c'est la conscience de notre propre liberté.</span>
 
 <!--
 Angoisse ≠ peur, crainte, inquiétude face à quelque chose de précis, ou à certaines possibilités déterminées dans l'avenir
@@ -503,6 +503,16 @@ Angoisse / vide
 
 Pour ne pas avoir à ressentir cette angoisse, nous avons tendance à être de mauvaise foi.
 
+- Qu'est-ce que la mauvaise foi ?
+
+
+---
+<!-- _class:  -->
+Sens ordinaire : = soutenir qu'on a raison alors qu'on sait pertinemment qu'on a tort.
+
+<span data-marpit-fragment="1">Sens sartrien : refuser sa liberté, alors qu'on sait qu'on est libre</span>
+
+<span data-marpit-fragment="2">Exemple du garçon de café.</span>
 
 <!--
 Sens ordinaire : "Indécence caractérisée par une volonté d'affirmer un propos que l'on sait foncièrement faux ou injustifié"
@@ -530,6 +540,9 @@ Chercher à se masquer à soi-même sa liberté
 ---
 <!-- _class:  -->
 
+Ce qui me définit, ce n'est pas ce que j'aimerais être, ce que je crois être. C'est ce que je fais réellement.
+
+<span data-marpit-fragment="1">Il peut y avoir un écart entre ce que je crois être et ce que je suis : illusion possible sur soi.</span>
 
 <!-- actes ≠ paroles, croyances, velléités, rêves
 Ce qui me définit, ce n'est pas ce que j'aimerais être, ce que je crois être
@@ -537,10 +550,25 @@ rapport au monde / ce que je fais dans le monde
 Illusion possible : je crois être ceci / mais que suis-je réellement ?
 -->
 
+
+---
+<!-- _class:  -->
+Exemple de l'amour
+
+<span data-marpit-fragment="1">Exemple de l'art</span>
+
+
 <!-- 
 // “il n'y a pas d'amour, il n'y a que des preuves d'amour ”. L'amour ≠ un simple sentiment intérieur. La réalité de l'amour = des actes d'amour
 Exemple de l'artiste : Notre vie // une œuvre d'art.
  -->
+
+
+---
+<!-- _class:  -->
+L'être humain se définit “sur la route”. L'identité n'est pas à chercher en soi, mais dans le monde.
+
+<span data-marpit-fragment="1">Exemples : Le bildungsroman</span><span data-marpit-fragment="2">, un film : La vie rêvée de Walter Mitty</span>
 
 <!-- 
 L'être humain se définit “sur la route”
@@ -554,8 +582,6 @@ Retour / angoisse : c'est en agissant qu'on va définir ce qu'on est, on ne peut
 
 
 ### 4) Autrui comme condition de soi
-
-
 
 ---
 
