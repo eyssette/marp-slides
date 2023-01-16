@@ -457,9 +457,9 @@ L'homme n'est d'abord rien : Le "rien" dont parle Sartre est l'absence d'une ess
 
 Sartre s'oppose non seulement à l'essentialisme, mais aussi au déterminisme.
 
-Non seulement il n'y a pas d'essence préalable qui me définit, mais je ne suis pas non plus défini par des facteurs extérieurs.
+<span data-marpit-fragment="1">Non seulement il n'y a pas d'essence préalable qui me définit, mais je ne suis pas non plus défini par des facteurs extérieurs.</span>
 
-Chaque être humain se définit, librement, à travers son existence.
+<span data-marpit-fragment="2">Chaque être humain se définit, librement, à travers son existence.</span>
 
 
 <!-- ex - istence : être jeté dans le monde 
@@ -482,21 +482,39 @@ Chaque être humain se définit, librement, à travers son existence.
 <!-- _class:  -->
 La responsabilité d'avoir à choisir qui je suis est source d'angoisse.
 
-L'angoisse se distingue de la peur et de la crainte.
+<span data-marpit-fragment="1">L'angoisse se distingue de la peur et de la crainte.</span>
 
 ---
 <!-- _class:  -->
 La peur : une réaction à une menace précise ou à un danger imminent.
 
-<span data-marpit-fragment="1">La crainte : une préoccupation face à certaines possibilités envisagées dans l'avenir.</span>
+<span data-marpit-fragment="1">La crainte : une préoccupation face à certains événements qui risquent d'arriver dans le futur.</span>
 
-<span data-marpit-fragment="2">L'angoisse : sans objet précis. Ce qui nous angoisse, c'est la conscience de notre propre liberté.</span>
+<!-- Ajouter exemples :
+peur des serpents
+crainte de l'échec à un examen
+
+Peur, crainte : pas forcément justifiées ; il peut y avoir des peurs ou des craintes imaginaires
+
+Distinction : sentiment de peur / disposition à ressentir ce sentiment de peur
+-->
+
+---
+<!-- _class:  -->
+
+L'angoisse : sans objet précis. Ce qui nous angoisse, c'est la conscience de notre propre liberté.
+
+<span data-marpit-fragment="1">Il faut faire un choix, mais il n'y a pas de chemin déjà tracé : nous faisons l'expérience d'un vide de repères intérieurs.</span>
 
 <!--
-Angoisse ≠ peur, crainte, inquiétude face à quelque chose de précis, ou à certaines possibilités déterminées dans l'avenir
+Exemples : peur du vide, crise d'angoisse, angoisse du passage à l'adolescence ...
+L'angoisse est existentielle
+
 Angoisse / vide
 / sa propre liberté : la liberté est angoissante
- -->
+Un vide de repères intérieurs.
+Il faut faire un choix, mais il n'y a pas de chemin déjà tracé.
+-->
 
 ---
 <!-- _class:  -->
@@ -540,9 +558,9 @@ Chercher à se masquer à soi-même sa liberté
 ---
 <!-- _class:  -->
 
-Ce qui me définit, ce n'est pas ce que j'aimerais être, ce que je crois être. C'est ce que je fais réellement.
+Ce qui me définit, ce n'est pas ce que j'aimerais être, ce que je crois être. C'est ce que je fais réellement dans le monde.
 
-<span data-marpit-fragment="1">Il peut y avoir un écart entre ce que je crois être et ce que je suis : illusion possible sur soi.</span>
+<span data-marpit-fragment="1">Il peut y avoir un écart entre ce que je crois être et ce que je suis &rArr; illusion possible sur soi.</span>
 
 <!-- actes ≠ paroles, croyances, velléités, rêves
 Ce qui me définit, ce n'est pas ce que j'aimerais être, ce que je crois être
@@ -553,28 +571,39 @@ Illusion possible : je crois être ceci / mais que suis-je réellement ?
 
 ---
 <!-- _class:  -->
-Exemple de l'amour
+**Exemple de l'amour :** <span data-marpit-fragment="1">l'amour n'est pas un simple sentiment intérieur. La réalité de l'amour, ce sont des actes d'amour.</span>
 
-<span data-marpit-fragment="1">Exemple de l'art</span>
+<span data-marpit-fragment="2">“Il n'y a pas d'amour, il n'y a que des preuves d'amour” (Pierre Reverdy)</span>
+
+<span data-marpit-fragment="3">**Exemple de l'art :**</span><span data-marpit-fragment="4">ce qui fait qu'une personne est artiste, ce sont ses œuvres.</span>
 
 
 <!-- 
-// “il n'y a pas d'amour, il n'y a que des preuves d'amour ”. L'amour ≠ un simple sentiment intérieur. La réalité de l'amour = des actes d'amour
+Amour : des actes d'attention, de care
+
 Exemple de l'artiste : Notre vie // une œuvre d'art.
  -->
 
 
 ---
 <!-- _class:  -->
-L'être humain se définit “sur la route”. L'identité n'est pas à chercher en soi, mais dans le monde.
+L'identité n'est pas à chercher en soi, mais dans le monde. <span data-marpit-fragment="1">Sartre critique l'idée qu'on pourrait comprendre qui on est par simple introspection.</span><span data-marpit-fragment="2"> L'être humain se définit “sur la route”.</span>
 
-<span data-marpit-fragment="1">Exemples : Le bildungsroman</span><span data-marpit-fragment="2">, un film : La vie rêvée de Walter Mitty</span>
+<span data-marpit-fragment="3">Exemples : Le bildungsroman</span><span data-marpit-fragment="4">, les road movies</span><span data-marpit-fragment="5"> (p.ex. : [La vie rêvée de Walter Mitty](https://ladigitale.dev/digiview/#/v/63c4fcaec47a3)</span>
 
 <!-- 
 L'être humain se définit “sur la route”
 Critique de l'intériorité : l'identité n'est pas à chercher en soi
 Exemple : La vie rêvée de Walter Mitty (voir bande annonce)
+
+
+https://www.erudit.org/fr/revues/cine/2008-v18-n2-3-cine2294/018415ar/
+https://stringfixer.com/fr/Road_movie
+road movies + "recherche de soi"
+
+
 Retour / angoisse : c'est en agissant qu'on va définir ce qu'on est, on ne peut pas d'abord chercher à savoir qui on est, puis agir
+
  -->
 
 ---
@@ -585,8 +614,18 @@ Retour / angoisse : c'est en agissant qu'on va définir ce qu'on est, on ne peut
 
 ---
 
+Autrui est condition de la connaissance de soi : Sartre souligne l'importance du regard d'Autrui.
+
+<span data-marpit-fragment="1">Ambivalence : ce regard est à la fois ce qui permet une conscience authentique de soi</span><span data-marpit-fragment="2">, mais aussi ce qui peut conduire à la mauvaise foi et à figer l'individu dans une identité subie.</span>
+
 
 <!-- 
+male gaze
+
+autrui est « le médiateur indispensable entre moi et moi-même ».
+
+http://iphilo.fr/2016/12/03/jeanpaul-sartre-conscience-de-soi-et-conscience-dautrui-daniel-guillon-legeay/#:~:text=Autrui%20est%20l'%C3%AAtre%20par,plan%20moral%2C%20intellectuel%20et%20spirituel.
+
 Soi personnel et soi collectif : les sources d’un malentendu
 https://journals.openedition.org/teth/523
 
@@ -594,6 +633,11 @@ Identité constituante, identité constituée
 https://journals.openedition.org/teth/615
  -->
 
+---
+<!-- _class:  -->
+Autrui est aussi condition de mon existence. Sartre souligne l'importance de la reconnaissance de soi par autrui.
+
+<span data-marpit-fragment="1">Idée développée par les théories de la reconnaissance, notamment par Axel Honneth.</span>
 
 <!-- 
 Honneth / théories de la reconnaissance / affirmation de son existence
@@ -608,18 +652,4 @@ Honneth / théories de la reconnaissance / affirmation de son existence
 <!-- 
 Importance regard des autres
 -->
-
-
-
----
-
-### Partie 1 : Qu'est-ce qui me définit ?
-
-
-
-### Vivons-nous de manière authentique ?
-
-
-### Quelle est la place d'Autrui dans mon existence ?
-
 
