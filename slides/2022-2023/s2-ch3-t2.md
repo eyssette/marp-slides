@@ -533,6 +533,15 @@ Sens ordinaire : = soutenir qu'on a raison alors qu'on sait pertinemment qu'on a
 <span data-marpit-fragment="2">Exemple du garçon de café.</span>
 
 <!--
+Se donner un être, une consistance
+(refuser le vide de l'angoisse existentielle)
+Le garçon de café incarne son rôle sans distance critique : il est défini par son rôle
+
+Autre exemple : rôle de pouvoir, "c'est la loi" (croire qu'on n'exerce pas un jugement), se réfugier derrière un rôle, une position sociale, un statut
+
+Notion de chosification
+
+
 Sens ordinaire : "Indécence caractérisée par une volonté d'affirmer un propos que l'on sait foncièrement faux ou injustifié"
 
 "Couramment, on dit de mauvaise foi celui qui, par amour-propre ou par intérêt, s'obstine contre toute évidence à soutenir qu'il a raison, alors qu'il sait pertinemment qu'il a tort. Sourd à l'argumentation rationnelle, il échafaude de fausses bonnes raisons, s'enfermant dans un système de défense absurde."
@@ -554,6 +563,12 @@ Chercher à se masquer à soi-même sa liberté
 
 ### 3) L'être humain comme projet
 
+<!-- L'être humain est projet
+et non "a des projets"
+
+Projet // projection, projectile
+L'être humain est projeté, lancé dans le monde, en mouvement et défini par la manière dont il se réalise par ses actes -->
+
 
 ---
 <!-- _class:  -->
@@ -566,6 +581,9 @@ Ce qui me définit, ce n'est pas ce que j'aimerais être, ce que je crois être.
 Ce qui me définit, ce n'est pas ce que j'aimerais être, ce que je crois être
 rapport au monde / ce que je fais dans le monde
 Illusion possible : je crois être ceci / mais que suis-je réellement ?
+
+
+Exemple : croire être féministe, se dire féministe
 -->
 
 
@@ -580,8 +598,10 @@ Illusion possible : je crois être ceci / mais que suis-je réellement ?
 
 <!-- 
 Amour : des actes d'attention, de care
+On peut aussi découvrir qu'on est amoureux ; la conscience de l'amour peut venir après la réalité des actes d'amour.
 
 Exemple de l'artiste : Notre vie // une œuvre d'art.
+Se croire artiste
  -->
 
 
@@ -592,10 +612,12 @@ L'identité n'est pas à chercher en soi, mais dans le monde. <span data-marpit-
 <span data-marpit-fragment="3">Exemples : Le bildungsroman</span><span data-marpit-fragment="4">, les road movies</span><span data-marpit-fragment="5"> (p.ex. : [La vie rêvée de Walter Mitty](https://ladigitale.dev/digiview/#/v/63c4fcaec47a3)</span>
 
 <!-- 
-L'être humain se définit “sur la route”
-Critique de l'intériorité : l'identité n'est pas à chercher en soi
-Exemple : La vie rêvée de Walter Mitty (voir bande annonce)
+Angoisse fondamentale : on ne peut pas d'abord chercher à se connaître, puis faire des choix en fonction de qui on est.
+C'est le contraire : on doit choisir, et on est défini par nos choix.
 
+
+roman d'apprentissage
+voyage
 
 https://www.erudit.org/fr/revues/cine/2008-v18-n2-3-cine2294/018415ar/
 https://stringfixer.com/fr/Road_movie
