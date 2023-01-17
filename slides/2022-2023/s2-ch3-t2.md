@@ -532,6 +532,14 @@ Sens ordinaire : = soutenir qu'on a raison alors qu'on sait pertinemment qu'on a
 
 <span data-marpit-fragment="2">Exemple du garçon de café.</span>
 
+
+---
+<!-- _class:  -->
+Être de mauvaise foi, c'est se donner un être, une consistance
+(refuser le vide de l'angoisse existentielle)
+Le garçon de café incarne son rôle sans distance critique : il est défini par son rôle
+
+
 <!--
 Se donner un être, une consistance
 (refuser le vide de l'angoisse existentielle)
@@ -593,7 +601,7 @@ Exemple : croire être féministe, se dire féministe
 
 <span data-marpit-fragment="2">“Il n'y a pas d'amour, il n'y a que des preuves d'amour” (Pierre Reverdy)</span>
 
-<span data-marpit-fragment="3">**Exemple de l'art :**</span><span data-marpit-fragment="4">ce qui fait qu'une personne est artiste, ce sont ses œuvres.</span>
+<span data-marpit-fragment="3">**Exemple de l'art :**</span> <span data-marpit-fragment="4">ce qui fait qu'une personne est artiste, ce sont ses œuvres.</span>
 
 
 <!-- 
