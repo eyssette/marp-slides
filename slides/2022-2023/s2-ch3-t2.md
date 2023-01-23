@@ -676,10 +676,9 @@ Honneth / théories de la reconnaissance / affirmation de son existence
 	- citoyen, sujet de droit / reconnaissance politique / 
 	- individu / reconnaissance sociale / 
 
-/ connaissance de soi : par les autres
- -->
+https://journals.openedition.org/ethiquepublique/1796
 
-<!-- 
-Importance regard des autres
+https://theses.univ-lyon2.fr/documents/getpart.php?id=lyon2.2008.sey-buhrig_am&part=155805
+
+
 -->
-
