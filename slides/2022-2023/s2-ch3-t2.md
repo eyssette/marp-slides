@@ -231,7 +231,7 @@ ol li:nth-of-type(4){top:600px}
 
 ---
 <!-- _class: fm -->
-**I – <span data-marpit-fragment="1">Sartre définit ce qui fait l'essence d'un être humain :**</span> <span data-marpit-fragment="2">mon essence (ce que je suis) n'est pas défini à l'avance : je suis ce que je fais de moi</span>
+**I – <span data-marpit-fragment="1">Sartre définit ce qui fait l'essence d'un être humain :**</span> <span data-marpit-fragment="2">mon essence (ce que je suis) n'est pas définie à l'avance : je suis ce que je fais de moi</span>
 
 <span data-marpit-fragment="3">**II – Sartre dégage une conséquence du fait d'avoir à choisir ce que je suis:**</span> <span data-marpit-fragment="4">la responsabilité d'avoir à définir ce que je suis est source d'angoisse</span>
 
