@@ -54,9 +54,13 @@ h3 {margin-bottom:0}
 
 ### L'expérience de Libet
 
-[![](https://pbs.twimg.com/media/C4KbF5lUkAA2QP3.jpg:large)](https://ladigitale.dev/digiplay/#/v/61a479ee0e918)
+[![](https://i.ibb.co/r59Gfss/Vsauce-freedom-of-choice.jpg)](https://ladigitale.dev/digiview/#/v/63d786cd948be)
 
-<!-- Analyse critique de cette expérience : voir la thèse de Jean-Baptiste Guillon, p.403-411 -->
+
+<!--
+https://ladigitale.dev/digiplay/#/v/61a479ee0e918
+
+Analyse critique de cette expérience : voir la thèse de Jean-Baptiste Guillon, p.403-411 -->
 
 
 ---
@@ -85,16 +89,6 @@ Au **sens faible**, l'action volontaire est un acte qui provient de mon intentio
 [![](https://www.placegrenet.fr/wp-content/uploads/2018/01/danse-de-saint-guy.jpg)](https://ladigitale.dev/digiplay/#/v/61a63a15aecec)
 
 
----
-<!-- _class: citationC fmmmmmm -->
-<style scoped>
-blockquote blockquote {margin-top:-0.5em}
-figure {margin-left:-80px!important}
-</style>
-![bg left:16% Portrait de Maine de Biran](https://upload.wikimedia.org/wikipedia/commons/c/c5/Maine_de_Biran.JPG)
-
->« Quand je meus un de mes membres ou que je transporte mon corps sans obstacle et comme je le veux, je suis libre. Quand le pouvoir que je sens est contrarié, comme si je suis poussé, entraîné malgré moi ou contre ma volonté, je suis non libre [...]. Le fait de sens intime suffit pour nous donner l'idée la plus claire possible de deux états pareils [...]. Mettre la liberté en problème c'est y mettre le sentiment de l'existence ou du moi, qui n'en diffère point [...]. La liberté […], prise dans sa source réelle, n'est autre chose que le sentiment même de notre activité ou de ce pouvoir d'agir [...]. La nécessité qui lui est opposée est le sentiment de notre passivité […]. [L]a liberté, considérée comme le sentiment d'un pouvoir en exercice, suppose la réalité de ce pouvoir, comme le sentiment intime de notre existence nous prouve sa réalité. [...] Je me sens libre, donc je le suis. Si ce sentiment de pouvoir me trompait, si je pouvais douter encore, si, au moment où je me détermine, où je fais un effort, c'est un autre être, une autre puissance invisible qui est cause de ma détermination, qui exerce mon effort ou exécute mon vouloir ; je pourrais douter également si, lorsque je sens ou aperçois mon existence individuelle, ce n'est pas un autre être qui existe à ma place. »
->>Maine **de Biran**, *Essai sur les fondements de la psychologie*
 
 
 
@@ -111,6 +105,23 @@ ol ul {margin-left:-0.5em}
 	* ni l'effet d'un automatisme interne physiologique ou neurologique (maladie de Huntington, battements de cœur).
 3) Au sens faible, l'action volontaire semble manifester que je suis la source de mon acte et maître de la décision que je prends.
 
+
+
+---
+<!-- _class: citationC fmmmmmm -->
+<style scoped>
+blockquote blockquote {margin-top:-0.5em}
+figure {margin-left:-80px!important}
+</style>
+![bg left:16% Portrait de Maine de Biran](https://upload.wikimedia.org/wikipedia/commons/c/c5/Maine_de_Biran.JPG)
+
+>« Quand je meus un de mes membres ou que je transporte mon corps sans obstacle et comme je le veux, je suis libre. Quand le pouvoir que je sens est contrarié, comme si je suis poussé, entraîné malgré moi ou contre ma volonté, je suis non libre [...]. Le fait de sens intime suffit pour nous donner l'idée la plus claire possible de deux états pareils [...]. Mettre la liberté en problème c'est y mettre le sentiment de l'existence ou du moi, qui n'en diffère point [...]. La liberté […], prise dans sa source réelle, n'est autre chose que le sentiment même de notre activité ou de ce pouvoir d'agir [...]. La nécessité qui lui est opposée est le sentiment de notre passivité […]. [L]a liberté, considérée comme le sentiment d'un pouvoir en exercice, suppose la réalité de ce pouvoir, comme le sentiment intime de notre existence nous prouve sa réalité. [...] Je me sens libre, donc je le suis. Si ce sentiment de pouvoir me trompait, si je pouvais douter encore, si, au moment où je me détermine, où je fais un effort, c'est un autre être, une autre puissance invisible qui est cause de ma détermination, qui exerce mon effort ou exécute mon vouloir ; je pourrais douter également si, lorsque je sens ou aperçois mon existence individuelle, ce n'est pas un autre être qui existe à ma place. »
+>>Maine **de Biran**, *Essai sur les fondements de la psychologie*
+
+
+---
+<!-- _class:  -->
+Pour Maine de Biran, le libre arbitre est une évidence, aussi certaine que notre existence, qui est ancrée dans le sentiment de notre propre activité.
 
 
 ---
