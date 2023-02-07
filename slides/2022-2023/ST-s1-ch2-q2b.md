@@ -218,7 +218,8 @@ Il y a **égalité réelle des chances** quand on compense les inégalités de d
 
 ---
 <!-- _class:  -->
-Une société juste pour Rawls doit assurer un progrès social au service de tous et surtout des plus défavorisés.
+
+<!-- Une société juste pour Rawls doit assurer un progrès social au service de tous et surtout des plus défavorisés. -->
 
 
 ---
