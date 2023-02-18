@@ -209,7 +209,20 @@ Rappel : Westworld -->
 >> **D'Holbach**, Système de la nature, 1770, chap. XI
 
 
+
 ---
 <!-- _class: i1t0 pp -->
 
 ![](https://svgsilh.com/svg/311699.svg)
+
+
+
+---
+<!-- _class: i2t0 -->
+
+![](https://upload.wikimedia.org/wikipedia/commons/a/a3/Julien_Offray_de_La_Mettrie.jpg?uselang=fr)
+
+![](https://www.edition-originale.com/media/h-3000-la-mettrie_lhomme-machine_1948_tirage-de-tete_0_24935.JPG)
+
+<!-- automate spirituel
+Homme-machine -->
