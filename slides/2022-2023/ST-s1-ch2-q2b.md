@@ -232,15 +232,4 @@ Il y a **égalité réelle des chances** quand on compense les inégalités de d
 ---
 <!-- _class:  -->
 
-<!-- Une société juste pour Rawls doit assurer un progrès social au service de tous et surtout des plus défavorisés. -->
-
-
----
-<!-- _class:  -->
-
-#### Quelques questions :
-
-1) Une conception trop abstraite de la citoyenneté ?
-2) Une conception trop étroite de la justice sociale ?
-
-<!-- Ressources réelles, capabilités ? -->
+Les seules inégalités qui sont justifiables pour Rawls sont celles qui sont nécessaires pour assurer un progrès social au service de tous et surtout des plus défavorisés.
