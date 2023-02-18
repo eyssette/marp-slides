@@ -24,6 +24,15 @@ https://eyssette.github.io/
 Première partie
 
 ---
+<!-- _class: i1t0 -->
+
+![](https://i.ibb.co/DYMFbt6/coup-de-tete-zidane.jpg)
+
+<!-- Coup de tête de Zidane contre Materazzi (juillet 2006) lors de la finale de la Coupe du monde de football -->
+
+<!-- Rappel sur le stoïcisme, le film Detachment -->
+
+---
 <!-- _class: citationC fp-->
 <style scoped>
 figure {margin-left:-2em!important}
@@ -133,15 +142,18 @@ hr {background-color:#666; padding:1px}
 <!-- (https://eyssette.github.io/argument-map/#[{%22id%22:%22a6ryk%22,%22text%22:%22Quand%20je%20r%C3%A9fl%C3%A9chis%20avant%20d'agir,%20je%20peux%20envisager%20plusieurs%20possibilit%C3%A9s%22,%22x%22:1356,%22y%22:380,%22lineType%22:%22solid%22},{%22id%22:%22zpt26%22,%22text%22:%22Quand%20j'agis,%20je%20fais%20un%20choix%20mais%20j'aurais%20pu%20faire%20un%20autre%20choix%22,%22x%22:1233,%22y%22:539,%22lineType%22:%22solid%22},{%22id%22:%22awn8d%22,%22text%22:%22Je%20suis%20capable%20de%20r%C3%A9fl%C3%A9chir%20avant%20d'agir%22,%22x%22:1106,%22y%22:371,%22lineType%22:%22solid%22},{%22id%22:%22gneop%22,%22type%22:%22donc%22,%22from%22:[%22zpt26%22],%22to%22:%22jozk6%22},{%22id%22:%22be0s9%22,%22type%22:%22donc%22,%22from%22:[%22jozk6%22],%22to%22:%22levpg%22},{%22id%22:%22s4jo6%22,%22type%22:%22donc%22,%22from%22:[%22awn8d%22,%22a6ryk%22],%22to%22:%22zpt26%22},{%22id%22:%22jozk6%22,%22text%22:%22Quand%20j'agis,%20je%20suis%20ma%C3%AEtre%20de%20la%20d%C3%A9cision%20que%C2%A0je%20prends%22,%22x%22:1232,%22y%22:694,%22lineType%22:%22solid%22},{%22id%22:%22levpg%22,%22text%22:%22Quand%20j'agis,%20j'ai%20un%C2%A0libre%C2%A0arbitre%22,%22x%22:1235,%22y%22:828,%22lineType%22:%22solid%22}] -->
 
 
-
 ---
-<!-- _class: i1t0 -->
+<!-- _class: i1t1 pp -->
+<style scoped>
+p:nth-child(1){font-size:99%; padding:0; text-align:center; padding-bottom:30px;}
+p:nth-child(2){padding:0 ; margin:0;}
+img {width:960px;}
+</style>
 
-![](https://i.ibb.co/DYMFbt6/coup-de-tete-zidane.jpg)
+Vincent Bierrewaerts, _Le portefeuille_ (2003)
 
-<!-- Coup de tête de Zidane contre Materazzi (juillet 2006) lors de la finale de la Coupe du monde de football -->
+[![](https://www.transmettrelecinema.com/wp-content/uploads/2013/06/portefeuille-le.jpg)](https://ladigitale.dev/digiplay/#/v/61a478d08a127)
 
-<!-- Rappel sur le stoïcisme, le film Detachment -->
 
 
 ---
