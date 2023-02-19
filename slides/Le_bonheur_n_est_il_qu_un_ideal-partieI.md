@@ -278,7 +278,7 @@ img{margin-bottom:10px;}
 p{margin-bottom:5px!important; margin-left:30px; margin-right:30px!important;}
 </style>
 
-![Image représentant la chaîne Game Spectrum à propos de Fortnite](images/game-spectrum-fortnite.png)
+![Image représentant la chaîne Game Spectrum à propos de Fortnite](https://pic.clubic.com/v1/images/1915399/raw)
 
 <div class="puces">
 
