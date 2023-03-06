@@ -20,6 +20,32 @@ Première partie
 
 
 ---
+<!-- _class: definition fppppppppp-->
+### Définition
+= Des théories fondées sur le point de vue du spectateur qui reçoit l'oeuvre : ce que nous recherchons dans l'art, c'est une expérience particuliere, l'expérience esthétique, qui est plus intense et plus profonde que l'expérience ordinaire.
+
+---
+<!-- _class: i1t1 vertical -->
+
+[![](https://i.ytimg.com/vi/Dq_V0FksBRw/maxresdefault.jpg)](https://ladigitale.dev/digiplay/#/v/62313291a9a16)
+
+Un tour de magie [:link:](https://ladigitale.dev/digiplay/#/v/623133dfa5bdc) [:link:](https://ladigitale.dev/digiplay/#/v/623133c3a401d) [:link:](https://ladigitale.dev/digiplay/#/v/623134548bc65)
+
+<!-- 
+
+Selective attention test
+https://ladigitale.dev/digiplay/#/v/623133dfa5bdc
+
+https://ladigitale.dev/digiplay/#/v/623133c3a401d
+
+Door study
+
+https://ladigitale.dev/digiplay/#/v/623134548bc65
+
+ -->
+
+
+---
 <!-- _class: citationC fppp -->
 
 ![bg left:30%](https://upload.wikimedia.org/wikipedia/commons/e/ed/Henri_Bergson_%28Nobel%29.jpg)
@@ -28,6 +54,33 @@ Première partie
 >
 >« Mais […] quand [les artistes] regardent une chose, ils la voient pour elle, et non plus pour eux. Ils ne perçoivent plus simplement en vue d’agir ; ils perçoivent pour percevoir »
 >>**Bergson**, _Le Rire_, III  & _La pensée et le mouvant_, “la perception du changement”
+
+
+---
+<!-- _class: exercice tableau colonnes fmmmmm -->
+<style scoped>
+table {position:absolute; top:-170px; }
+td {font-size:80%}
+ol {position:absolute; top:-25px; max-height:350px!important; }
+ol li {padding-top:10px!important; font-size:1.2em;}
+</style>
+
+|Perception ordinaire|Perception esthétique|
+|:-:|:-:|
+|?|?|
+|?|?|
+|?|?|
+|?|?|
+
+1. Perception pauvre
+2. Sélection des informations utiles
+3. Percevoir pour percevoir
+4. Être attentif à toutes les nuances de ce qu'on contemple
+5. Percevoir pour agir
+6. Perception riche
+7. Placer des étiquettes abstraites et générales sur <br>les choses
+8. Fascination et absorption dans ce qu'on regarde
+
 
 ---
 <!-- _class: i1t1 vertical fm-->
@@ -38,13 +91,20 @@ span {font-size:0.8em}
 
 L'impressionnisme <span>(Monet : série des Cathédrales de Rouen)</span>
 
+
 ---
-<!-- _class: i1t1 vertical fmm -->
+<!-- _class:  -->
 
-[![](https://cdn.radiofrance.fr/s3/cruiser-production/2019/10/7273dd80-0a46-4928-83c2-6529206ef247/1200x680_les_indes_galantes_une.jpg)]((https://ladigitale.dev/digiplay/#/v/6293e6604dfab))
+Le lycée est un espace utilitaire, dont vous faites usage quotidiennement mais vous ne le regardez pas vraiment pour lui-même.
 
-Une adaptation moderne des _Indes Galantes_ de Rameau
+- Votre défi : faire une photographie artistique dans le lycée et essayer de saisir un aspect du lycée auquel vous n'avez jamais été attentif ! 
 
+
+---
+<!-- _class:  -->
+### Généralisation de l'idée 
+
+Nous pouvons grâce à l'art accéder à des nuances plus riches de sensation, d'émotions, de pensée et de réflexion.
 
 ---
 <!-- _class: i1t0 -->
@@ -53,10 +113,14 @@ Une adaptation moderne des _Indes Galantes_ de Rameau
 
 <!-- Primo Levi, Si c'est un homme -->
 
+
+---
+<!-- _class: partie -->
+# II - Les limites
+
 ---
 <!-- _class:  -->
 
-### Problèmes :
 
 1) L'expérience esthétique n'est-elle pas simplement une interprétation relative à l'individu ?
 
