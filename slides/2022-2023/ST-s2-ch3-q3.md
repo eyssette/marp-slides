@@ -117,20 +117,20 @@ Nous pouvons grâce à l'art accéder à des nuances plus riches de sensation, d
 ---
 <!-- _class: partie -->
 # II - Les limites
+Deuxième partie
 
 ---
 <!-- _class:  -->
 
 
-1) L'expérience esthétique n'est-elle pas simplement une interprétation relative à l'individu ?
+1. L'expérience esthétique n'est-elle pas simplement une interprétation relative à l'individu ?
 
 
 ---
 <!-- _class:  -->
 Une réponse possible : celle de Hume.
 
-* Tous les jugements de valeur sur l'art ne se valent pas
-* Le goût peut s'éduquer : parallèle avec le goût pour le vin
+Hume propose un parallèle avec le goût pour le vin
 
 ---
 <!-- _class: citationC fmm-->
@@ -142,10 +142,27 @@ blockquote blockquote {padding-top:0.5em}
 >« ll y a une bonne raison, dit Sancho au chevalier au grand nez, si je prétends être juge en matière de vin car c’est une qualité héréditaire dans notre famille. Deux de mes parents furent un jour appelés à donner leur opinion sur un tonneau de vin qu’on supposait excellent, vu son âge et son bon cru. L’un des deux le goûte, le considère et, après mûre réflexion, déclare que le vin est bon, si ce n’est un léger goût de cuir qu’il perçoit en lui. L’autre, après avoir usé des mêmes précautions, donne aussi son verdict en faveur du vin mais avec cette réserve : un goût de fer qu’il peut aisément distinguer. Vous ne sauriez imaginer comme leurs jugements furent tournés en ridicule. Mais qui fut le dernier à rire ? Quand le vin fut bu, on trouva au fond du tonneau une vieille clef attachée à une lanière de cuir. »
 >>**Hume**, _De la norme du goût_
 
+
+---
+<!-- _class:  -->
+Tous les jugements de valeur sur l'art ne se valent pas.
+
+Juger d'une œuvre sans expérience n'a pas de sens.
+
+---
+<!-- _class:  -->
+<style scoped>
+ol  {list-style-type:disc}
+</style>
+Le goût peut s'éduquer : on peut apprendre à apprécier une œuvre d'art, grâce :
+1. au contact répété avec l'art
+2. à des connaissances techniques et théoriques
+3. à une pratique artistique
+
 ---
 <!-- _class:  -->
 
-2) L'expérience esthétique est-elle vraiment authentique ? N'est-elle pas parfois une forme de snobisme social ?
+2. L'expérience esthétique est-elle vraiment authentique ? N'est-elle pas parfois une forme de snobisme social ?
 
 
 ---
@@ -164,11 +181,19 @@ img{height:700px; width:600px!important}
 
 > ![](https://i.pinimg.com/originals/3e/69/09/3e69093a36774327d4631f6f48e95882.jpg)
 
----
-<!-- _class: i1t0 pp -->
-<style scoped>
-/* p {overflow: hidden;} */
-img {transform:scale(1.35); margin-left:170px; margin-top:-10px}
-</style>
 
-![](https://svgshare.com/i/hpe.svg)
+---
+<!-- _class:  -->
+La sociologie de l'art montre que :
+
+1) les jugements sur l'art sont en partie déterminés par la classe sociale à laquelle on appartient.
+2) les jugements sur l'art font l'objet d'une stratégie de distinction sociale et il existe une hiérarchie sociale des goûts
+3) nous jugeons les autres à travers leurs jugements sur l'art
+
+
+---
+<!-- _class: i1t1 vertical -->
+
+[![](https://www.leparisien.fr/resizer/7VsGGmTzCX3XxMuXmuabs3Yc9zw=/932x582/cloudfront-eu-central-1.images.arcpublishing.com/leparisien/L2QXWK5VQF5NJC26ASSYNOW7OM.jpg)](https://drive.google.com/file/d/0B4KsTzP5vzxvRThHWmpucE1NaVE/view?resourcekey=0-zX2rEDH1f3MI_WVvldsbpw)
+
+Agnès Jaoui, _Le Goût des autres_ (2000)
