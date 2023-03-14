@@ -67,6 +67,8 @@ ol {list-style-type:disc}
 
 [![](https://raw.githubusercontent.com/eyssette/mindmap/main/problematiser-manieres.svg)](https://eyssette.github.io/mindmap/problematiser-manieres.html)
 
+<!-- TODO: Ajouter les exemples des annexes + autres exemples -->
+
 ---
 <!-- _class:  -->
 ### 2/ Exemples de cours
@@ -74,6 +76,7 @@ ol {list-style-type:disc}
 1) Marine De Préneuf : un exemple de cours sur la nature et la liberté en série technologique
 2) Cédric Eyssette : Un exemple de cours sur le bonheur
 
+<!-- TODO: Ajouter liens vers ces deux cours -->
 
 ---
 <!-- _class: partie -->
@@ -111,10 +114,13 @@ Deuxième partie
 
 </div>
 
+<!-- TODO: ajouter lien vers travail de Nicolas Laurent + ouvrage autour de cette méthode -->
 
 ---
 <!-- _class:  -->
 ### 2/ « Problématiser, c'est comme … » <!-- fit -->
+
+<!-- TODO: ajouter les comparaisons pour les autres démarches : analyser, argumenter, mobiliser ses connaissances -->
 
 
 ---
@@ -157,7 +163,10 @@ Deuxième partie
 <!-- _class:  -->
 ### 3/ La méthode « R1 ou bien R2 »
 
-
+<!-- TODO: ajouter exemple du canevas 
+TODO: ajouter question autour du risque de bloquer les élèves à 2 parties oui/non ; une réponse possible : travailler les différentes manières de progresser dans un plan (critiquer / améliorer / réinterpréter) + exercices
+TODO: ajouter version améliorée de R1/R2 : R1=>problème/R2=>problème
+-->
 
 ---
 <!-- _class:  -->
@@ -177,10 +186,15 @@ Deuxième partie
 5) légal / légitime
 6) objectif / subjectif
 
+<!-- TODO: ajouter des exemples de sujets pour lesquels ces repères sont utiles -->
 
 ---
 <!-- _class:  -->
 ### 6/ Des exemples qui servent de modèles
+
+<!-- TODO: ajouter le lien vers le document Eduscol sur les exercices en cours de philosophie
+TODO: ajouter lien vers modèle de dissertation rédigée. Bien préciser que le mieux est de rédiger son propre modèle
+TODO: ajouter autres suggestions des collègues : évidence/remise en cause ; semi-habile / habile -->
 
 ---
 <!-- _class: partie -->

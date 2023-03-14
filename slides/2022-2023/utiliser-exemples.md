@@ -123,7 +123,7 @@ img{height:570px;}
 
 [![Affiche du film Scarface](../images/scarface.png)](https://ladigitale.dev/digiplay/#/v/614c0b0e88d6a)
 
-> « Antonio “Tony” Montana (Al Pacino) […] est un petit malfrat cubain qui migre vers Miami dans l'espoir de faire fortune. Il trouve au départ un petit boulot dans une baraque à frites de Miami. Mais travailler pour quelques dollars ne correspond pas à l'idée qu'il se fait du « rêve américain ». Il se fait alors embaucher par un malfrat local puis par Frank Lopez, son patron]. […] Tony apprend vite le métier de mafioso de la drogue : il monte en grade […] Il a les dents beaucoup plus longues que ses collègues, il est mégalomane, ambitieux et d'une intelligence plus perverse. Il prend pour adage : _The World is Yours_ (Le monde est à toi) [...] Mais il commence à faire des erreurs dans ce monde qui ne pardonne pas, où l'on est vite remplacé. Il prend conscience que d'être arrivé au sommet de la mafia ne le rend pas aussi heureux qu'il l'avait espéré, qu'il n'est pas capable de rendre heureuses les personnes qu'il aime&nbsp;» (source : [wikipedia](https://fr.wikipedia.org/wiki/American_History_X))
+> « Antonio “Tony” Montana (Al Pacino) […] est un petit malfrat cubain qui migre vers Miami dans l'espoir de faire fortune. Il trouve au départ un petit boulot dans une baraque à frites de Miami. Mais travailler pour quelques dollars ne correspond pas à l'idée qu'il se fait du « rêve américain ». Il se fait alors embaucher par un malfrat local puis par Frank Lopez, son patron. […] Tony apprend vite le métier de mafioso de la drogue : il monte en grade […] Il a les dents beaucoup plus longues que ses collègues, il est mégalomane, ambitieux et d'une intelligence plus perverse. Il prend pour adage : _The World is Yours_ (Le monde est à toi) [...] Mais il commence à faire des erreurs dans ce monde qui ne pardonne pas, où l'on est vite remplacé. Il prend conscience que d'être arrivé au sommet de la mafia ne le rend pas aussi heureux qu'il l'avait espéré, qu'il n'est pas capable de rendre heureuses les personnes qu'il aime&nbsp;» (source : [wikipedia](https://fr.wikipedia.org/wiki/American_History_X))
 
 
 ---
@@ -174,7 +174,7 @@ ol {margin-top:-0.2em!important}
 
 ---
 <!-- _class: souspartie -->
-## Pour construire une définition par analyse de cas
+## B. Pour construire une définition par analyse de cas
 
 
 ---
@@ -194,7 +194,7 @@ img {height:555px; margin-left:1px!important}
 p:nth-of-type(2) {font-size:16px; margin-top:-80px; opacity:0.8}
 </style>
 
-![](https://live.staticflickr.com/372/32229172326_963405a18c_b.jpg)
+![Photographie d'une personne qui nous menace avec une arme](https://live.staticflickr.com/372/32229172326_963405a18c_b.jpg)
 
 Radio Alfa - https://www.flickr.com/photos/radioalfa/32229172326
 
@@ -216,7 +216,7 @@ Un film de Xavier Dolan : _Mommy_ (2014)
 
 ---
 <!-- _class: souspartie -->
-## Pour construire une distinction conceptuelle
+## C. Pour construire une distinction conceptuelle
 
 
 ---
@@ -355,7 +355,7 @@ L'expérience du chamallow
 
 ---
 <!-- _class: souspartie -->
-## Pour bien faire comprendre le sens d'une thèse
+## A. Pour bien faire comprendre le sens d'une thèse
 
 
 ---
@@ -408,7 +408,7 @@ Dans le film _L'esquive_, d'Abdelattif Kechiche, Un groupe d'adolescents d'une c
 
 ---
 <!-- _class: souspartie -->
-## Pour dégager les implications concrètes et contemporaines d'une thèse
+## B. Pour dégager les <br>implications concrètes et<br> contemporaines d'une thèse <!-- fit -->
 
 
 ---
@@ -515,7 +515,7 @@ Les politiques de réduction des risques liés aux drogues
 
 ---
 <!-- _class: souspartie -->
-## Pour construire une objection
+## C. Pour construire une objection
 
 
 ---
