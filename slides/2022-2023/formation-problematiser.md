@@ -71,9 +71,8 @@ ol {list-style-type:disc}
 <!-- _class:  -->
 ### 2/ Exemples de cours
 
-**Cet après-midi** :
-Mme De Préneuf présentera d'un cours sur la nature et la liberté en série technologique
-
+1) Marine De Préneuf : un exemple de cours sur la nature et la liberté en série technologique
+2) Cédric Eyssette : Un exemple de cours sur le bonheur
 
 
 ---
@@ -89,8 +88,8 @@ Deuxième partie
 1. « Problématiser, c'est comme ... »
 1. La méthode « R1 ou bien R2 »
 1. La méthode VELIBs pour dégager les enjeux
-1. Des exemples qui servent de modèles
 1. Les repères pour problématiser
+1. Des exemples qui servent de modèles
 
 
 ---
@@ -118,6 +117,70 @@ Deuxième partie
 ### 2/ « Problématiser, c'est comme … » <!-- fit -->
 
 
+---
+<!-- _class: definition -->
+### Définition
+**Problématiser**, c'est saisir la complexité et les enjeux d'une question, en montrant qu'il y a un véritable débat à ce sujet entre plusieurs réponses possibles
+
+---
+<!-- _class: citationC fppp -->
+
+![bg left:45%  Photo d'un buste de Socrate](https://upload.wikimedia.org/wikipedia/commons/a/a4/Socrates_Louvre.jpg)
+
+>« SOCRATE – […] Vous ne trouverez pas facilement un autre homme comme moi […], attaché à la cité […] comme le serait un taon au flanc d'un cheval […] qui se montrerait un peu mou » (Platon, _Apologie de Socrate_, 31a)
+
+<!-- À faire noter aux élèves : Problématiser, c'est comme être un taon qui pique un cheval un peu mou (Socrate) -->
+
+---
+<!-- _class: i1t1 horizontal contain pp -->
+
+![Image d'un cheval mou et d'un taon](../images/cheval_mou_taon.png)
+
+- Que représente le cheval un peu mou ?
+- Que représente le taon qui pique ce cheval ?
+- Pourquoi faire de la philosophie, c’est être comme un taon qui pique un cheval un peu mou ?
+
+---
+<!-- _class: fpppppppppppp -->
+
+<div data-marpit-fragment>
+
+|||
+|:-:|:-:|
+|Cheval un <br>peu mou|<span data-marpit-fragment="1">Notre esprit, endormi <br>dans des préjugés,<br> des prétendues certitudes</span>|
+|<span data-marpit-fragment="2">Piquer le cheval</span>|<span data-marpit-fragment="3">Questionner ses <br>idées et réveiller<br> son esprit critique</span>|
+
+</div>
+
+
+---
+<!-- _class:  -->
+### 3/ La méthode « R1 ou bien R2 »
+
+
+
+---
+<!-- _class:  -->
+### 4/ La méthode VELIBs pour dégager les enjeux
+
+
+[![](https://i.ibb.co/LNtZR5X/Les-enjeux-la-m-thode-VELIBs.png)](https://i.ibb.co/LNtZR5X/Les-enjeux-la-m-thode-VELIBs.png)
+
+---
+<!-- _class:  -->
+### 5/ Les repères pour problématiser
+
+1) relatif / absolu
+2) particulier / universel
+3) en fait / en droit
+4) idéal / réel
+5) légal / légitime
+6) objectif / subjectif
+
+
+---
+<!-- _class:  -->
+### 6/ Des exemples qui servent de modèles
 
 ---
 <!-- _class: partie -->
