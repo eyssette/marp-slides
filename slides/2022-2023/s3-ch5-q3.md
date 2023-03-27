@@ -95,7 +95,7 @@ L'impressionnisme <span>(Monet : série des Cathédrales de Rouen)</span>
 
 Le lycée est un espace utilitaire, dont vous faites usage quotidiennement mais vous ne le regardez pas vraiment pour lui-même.
 
-- Votre défi : faire une photographie artistique dans le lycée et essayer de saisir un aspect du lycée auquel vous n'avez jamais été attentif ! 
+* Votre défi : faire une photographie artistique dans le lycée et essayer de saisir un aspect du lycée auquel vous n'avez jamais été attentif ! 
 
 
 ---
@@ -116,11 +116,7 @@ blockquote blockquote {font-size:1em}
 >« L'art ne reproduit pas le visible, il rend visible »
 >>Paul **Klee**
 
-
----
-<!-- _class:  -->
-L'œuvre d'art nous apprend à voir autrement, à percevoir de manière
-plus intense et plus fine le monde [:link:](https://docs.google.com/presentation/d/e/2PACX-1vQrN7m3dFsYslLaMjhtgWxt6IQEh0wyayedQBzNlUhISoQE-etyg7EoUjzNvaRTZbFxwzkHHYWQ262B/pub?start=false&loop=false&delayms=60000)
+[:link:](https://docs.google.com/presentation/d/e/2PACX-1vQrN7m3dFsYslLaMjhtgWxt6IQEh0wyayedQBzNlUhISoQE-etyg7EoUjzNvaRTZbFxwzkHHYWQ262B/pub?start=false&loop=false&delayms=60000)
 
 
 
@@ -136,40 +132,23 @@ blockquote blockquote {font-size:1em}
 >« La musique révèle tous les mouvements les plus intimes de notre être. »
 >>**Schopenhauer**
 
-<!-- TODO : Lien vers vidéo de Zygel sur majeur/mineur -->
+[:link:](https://ladigitale.dev/digiview/#/v/642150abe34e9) [:link:](https://docs.google.com/presentation/d/e/2PACX-1vQ6Va1nhxT86PV-392Ih_RIDKnBIlcLb2I_yo5SZQPXKpnYLPilQsMUtMS9GjOoDoNfg9noP0Ah6AIe/pub?start=false&loop=false&delayms=60000)
 
----
-<!-- _class:  -->
-Les émotions auxquelles l'œuvre d'art nous conduit sont fortes, subtiles et profondes [:link:](https://docs.google.com/presentation/d/e/2PACX-1vQ6Va1nhxT86PV-392Ih_RIDKnBIlcLb2I_yo5SZQPXKpnYLPilQsMUtMS9GjOoDoNfg9noP0Ah6AIe/pub?start=false&loop=false&delayms=60000).
-
-<!-- TODO : liens Digiplay à faire + lien vers exemples avant la petite synthèse -->
+<!-- TODO : liens Digiplay à faire  -->
 
 
 
 ---
-<!-- _class: citationC fpp -->
+<!-- _class: citationC fp -->
 <style scoped>
 figure  {margin-right:-200px!important}
 </style>
 ![bg left:30%](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Martha_Nussbaum_wikipedia_10-10.jpg/520px-Martha_Nussbaum_wikipedia_10-10.jpg)
 
 >« La littérature est une extension de la vie, non seulement horizontalement, mettant le lecteur en contact avec des événements ou des lieux ou des personnes ou des problèmes qu’il n’a pas rencontrés en dehors de cela, mais également, pour ainsi dire, verticalement, donnant au lecteur une expérience qui est plus profonde, plus aiguë et plus précise qu’une bonne partie des choses qui se passent dans la vie »
->>Martha **Nussbaum**, _Love’s Knowledge. Essays on Philosophy and Literature_, p. 48
+>>Martha **Nussbaum**, _Love’s Knowledge. Essays on Philosophy and Literature_, p. 48 [:link:](https://docs.google.com/presentation/d/e/2PACX-1vQbsMblhX843Y0amKLY4kA_c9M78drMFwpfMQM9deLqKGlh5uM1i5RV-ZAkhtdseMuMkmzaIpPesIOS/pub?start=false&loop=false&delayms=60000)
 
-
----
-<!-- _class:  -->
-
-L'œuvre d'art nous questionne, enrichit notre imagination, nous permet de nous comprendre, et de comprendre le monde, par une pensée incarnée, concrète et plus vive [:link:](https://docs.google.com/presentation/d/e/2PACX-1vQbsMblhX843Y0amKLY4kA_c9M78drMFwpfMQM9deLqKGlh5uM1i5RV-ZAkhtdseMuMkmzaIpPesIOS/pub?start=false&loop=false&delayms=60000).
-
-<!-- TODO : liens Digiplay à faire + lien vers exemples avant la petite synthèse -->
-
----
-<!-- _class: i1t0 -->
-
-![](https://lh6.googleusercontent.com/1L9896xSbGBI7dnOgekEk7Wb8impCbRtDblQWPNOof7GpFhTUJvCw5l5ZH7T5J7T3D5qlx9ZbjR6rNTH9mw83dKxe7u3j4n9nyqYnf2mIWg0VLKdsSmm5Fp_x-6CMvwAl9X2m_hW_STNPQAgvzrl)
-
-<!-- Primo Levi, Si c'est un homme -->
+<!-- TODO : liens Digiplay à faire -->
 
 
 ---
