@@ -174,7 +174,7 @@ L'œuvre d'art nous questionne, enrichit notre imagination, nous permet de nous 
 
 ---
 <!-- _class: partie -->
-# II - <br>Deux problèmes <!-- fit -->
+# II - <br>Deux questions<!-- fit -->
 Deuxième partie
 
 
@@ -190,7 +190,12 @@ D'après le **relativisme esthétique**, les jugements sur la valeur d'une œuvr
 
 <!-- rappeler :
 subjectif donc : pas objectif
-particuliers donc : pas universels -->
+particuliers donc : pas universels
+
+"des goûts et des couleurs on ne discute pas"
+de gustibus et coloribus non est disputandum
+
+ -->
 
 
 ---
@@ -205,33 +210,29 @@ blockquote blockquote {padding-top:0.5em}
 
 
 ---
-<!-- _class: fmmm -->
-<style scoped>
-ul {margin-top:0}
-</style>
-Le relativisme esthétique conduit à considérer que tous les jugements esthétiques se valent, étant donné l'absence de critère objectif, mais cela est très discutable.
+<!-- _class: fppp -->
+Si le relativisme esthétique est vrai, alors tous les jugements esthétiques se valent. Mais …
 
-* Si une personne affirme que « le rap, le heavy metal c'est très mauvais et cela ne vaut rien », alors qu'elle ne connaît rien à ces musiques, son jugement est-il acceptable ?
+1. Les jugements esthétiques qui ne reposent que sur des préjugés ne valent rien.
+2. On peut parvenir à un meilleur jugement esthétique quand on a plus d'expérience d'un art : on peut davantage comparer la valeur des œuvres.
+3. La pratique d'un art et des connaissances théoriques ou techniques peuvent nous faire davantage apprécier une œuvre.
+
+<!-- * Si une personne affirme que « le rap, le heavy metal c'est très mauvais et cela ne vaut rien », alors qu'elle ne connaît rien à ces musiques, son jugement est-il acceptable ?
 * Si un enfant affirme que la chanson « Je serai (ta meilleure amie) » de Lorie est géniale, alors qu'un critique musical aurait quelques doutes sur la valeur de cette chanson, faut-il penser que ces deux jugements se valent ?
-* Quelqu'un qui pratique un instrument de musique et qui a certaines connaissances sur l'harmonie musicale est-il davantage capable d'apprécier la musique classique ou le jazz ?
-
-
-
----
-<!-- _class: i1t0 -->
-
-![](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/critique-relativisme-esth%C3%A9tique.dot.svg)
-
+* Quelqu'un qui pratique un instrument de musique et qui a certaines connaissances sur l'harmonie musicale n'est-il pas davantage capable d'apprécier la musique classique ou le jazz ? -->
 
 
 ---
-<!-- _class: citationC fmm-->
+En définitive, tous les jugements de valeur sur l'art ne se valent pas et le goût peut s'éduquer : nous pouvons apprendre à apprécier une œuvre d'art.
+
+---
+<!-- _class: citationC f-->
 <style scoped>
 blockquote blockquote {padding-top:0.5em}
 </style>
-![bg left:20%](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Painting_of_David_Hume.jpg/520px-Painting_of_David_Hume.jpg)
+![bg left:23%](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Painting_of_David_Hume.jpg/520px-Painting_of_David_Hume.jpg)
 
->« ll y a une bonne raison, dit Sancho au chevalier au grand nez, si je prétends être juge en matière de vin car c’est une qualité héréditaire dans notre famille. Deux de mes parents furent un jour appelés à donner leur opinion sur un tonneau de vin qu’on supposait excellent, vu son âge et son bon cru. L’un des deux le goûte, le considère et, après mûre réflexion, déclare que le vin est bon, si ce n’est un léger goût de cuir qu’il perçoit en lui. L’autre, après avoir usé des mêmes précautions, donne aussi son verdict en faveur du vin mais avec cette réserve : un goût de fer qu’il peut aisément distinguer. Vous ne sauriez imaginer comme leurs jugements furent tournés en ridicule. Mais qui fut le dernier à rire ? Quand le vin fut bu, on trouva au fond du tonneau une vieille clef attachée à une lanière de cuir. »
+>« Deux de mes parents furent un jour appelés à donner leur opinion sur un tonneau de vin qu’on supposait excellent, vu son âge et son bon cru. L’un des deux le goûte, le considère et, après mûre réflexion, déclare que le vin est bon, si ce n’est un léger goût de cuir qu’il perçoit en lui. L’autre, après avoir usé des mêmes précautions, donne aussi son verdict en faveur du vin mais avec cette réserve : un goût de fer qu’il peut aisément distinguer. Vous ne sauriez imaginer comme leurs jugements furent tournés en ridicule. Mais qui fut le dernier à rire ? Quand le vin fut bu, on trouva au fond du tonneau une vieille clef attachée à une lanière de cuir. »
 >>**Hume**, _De la norme du goût_
 
 
@@ -240,49 +241,13 @@ blockquote blockquote {padding-top:0.5em}
 
 Hume compare le goût pour l'art au goût pour le vin.
 
-On retrouve ici la même idée : le goût peut s'éduquer, on peut apprendre à apprécier un vin, et à développer ce que Hume appelle une délicatesse de goût qui va nous permettre de faire des comparaisons et d'avoir un jugement plus fin.
-
-
----
-<!-- _class:  -->
-Une réponse possible : celle de Hume.
-
-Hume propose un parallèle avec le goût pour le vin
-
----
-<!-- _class: citationC fmm-->
-<style scoped>
-blockquote blockquote {padding-top:0.5em}
-</style>
-![bg left:20%](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Painting_of_David_Hume.jpg/520px-Painting_of_David_Hume.jpg)
-
->« ll y a une bonne raison, dit Sancho au chevalier au grand nez, si je prétends être juge en matière de vin car c’est une qualité héréditaire dans notre famille. Deux de mes parents furent un jour appelés à donner leur opinion sur un tonneau de vin qu’on supposait excellent, vu son âge et son bon cru. L’un des deux le goûte, le considère et, après mûre réflexion, déclare que le vin est bon, si ce n’est un léger goût de cuir qu’il perçoit en lui. L’autre, après avoir usé des mêmes précautions, donne aussi son verdict en faveur du vin mais avec cette réserve : un goût de fer qu’il peut aisément distinguer. Vous ne sauriez imaginer comme leurs jugements furent tournés en ridicule. Mais qui fut le dernier à rire ? Quand le vin fut bu, on trouva au fond du tonneau une vieille clef attachée à une lanière de cuir. »
->>**Hume**, _De la norme du goût_
-
-
----
-<!-- _class:  -->
-Tous les jugements de valeur sur l'art ne se valent pas.
-
-Juger d'une œuvre sans expérience n'a pas de sens.
-
----
-<!-- _class:  -->
-<style scoped>
-ol  {list-style-type:disc}
-</style>
-Le goût peut s'éduquer : on peut apprendre à apprécier une œuvre d'art, grâce :
-1. au contact répété avec l'art
-2. à des connaissances techniques et théoriques
-3. à une pratique artistique
+<span data-marpit-fragment="1">On peut apprendre à apprécier une œuvre d'art comme un vin, et à développer ce que Hume appelle une délicatesse de goût qui va nous permettre d'avoir un jugement plus fin.</span>
 
 
 
 ---
 <!-- _class: souspartie -->
 ## B. Une forme de snobisme social ?
-
-
 
 ---
 <!-- _class: i1t1 vertical fp-->
@@ -307,20 +272,12 @@ img{height:700px; width:600px!important}
 
 
 ---
-<!-- _class:  -->
+<!-- _class: fppp -->
 La sociologie de l'art montre que :
 
-1) les jugements sur l'art sont en partie déterminés par la classe sociale à laquelle on appartient.
-2) les jugements sur l'art font l'objet d'une stratégie de distinction sociale et il existe une hiérarchie sociale des goûts
-3) nous jugeons les autres à travers leurs jugements sur l'art
-
-
-
----
-<!-- _class:  -->
-De manière générale, nos jugements de goût nous jugent : ils fonctionnent comme un signe social de reconnaissance entre personnes qui ont les même goûts, et d'exclusion des personnes qui ne le partagent pas.
-
-<span data-marpit-fragment="1">Pierre Bourdieu affirme en ce sens qu'il y a un espace social des goûts : les goûts expriment largement l'appartenance à une classe sociale.</span>
+1) Les jugements sur l'art sont en partie déterminés par la classe sociale à laquelle on appartient : il y a un “espace social des goûts”.
+2) Les jugements sur l'art font l'objet d'une stratégie de distinction sociale et il existe une hiérarchie sociale des goûts.
+3) « Nos jugements de goût nous jugent » : ils fonctionnent comme un signe social de reconnaissance entre personnes qui ont les même goûts, et d'exclusion des personnes qui ne le partagent pas
 
 
 ---

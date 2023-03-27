@@ -35,7 +35,7 @@ C'est la beauté de l'œuvre qui fait la valeur d'une œuvre et le Beau réside 
 <!-- _class: citationC  -->
 <style scoped>
 p {font-size:2em}
-blockquote blockquote {font-size:0.9em}
+blockquote blockquote {font-size:0.85em}
 </style>
 ![bg left:46%](https://upload.wikimedia.org/wikipedia/commons/1/1a/Kapitolinischer_Pythagoras_adjusted.jpg)
 
