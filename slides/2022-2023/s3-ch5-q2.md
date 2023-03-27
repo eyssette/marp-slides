@@ -118,16 +118,6 @@ img {margin-top:-150px; transform:scale(1.5)}
 ![](https://www.pigmentropie.fr/wp-content/uploads/2016/10/fauvisme-recherche_qwant.jpg)
 
 
----
-<!-- _class: i1t0 -->
-
-[![](https://static.fnac-static.com/multimedia/Images/FR/NR/6d/8e/74/7638637/1507-1/tsp20160503160803/Giant-steps.jpg)](https://ladigitale.dev/digiplay/#/v/621f120360eed)
-
-<!-- John Coltrane, _Giant Steps_ -->
-
-
-
-
 
 ---
 <!-- _class: partie -->
