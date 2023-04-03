@@ -192,9 +192,9 @@ blockquote blockquote {padding-top:0.5em}
 <!-- _class: fppp -->
 Si le relativisme esthétique est vrai, alors tous les jugements esthétiques se valent. Mais …
 
-1. Les jugements esthétiques qui ne reposent que sur des préjugés ne valent rien.
-2. On peut parvenir à un meilleur jugement esthétique quand on a plus d'expérience d'un art : on peut davantage comparer la valeur des œuvres.
-3. La pratique d'un art et des connaissances théoriques ou techniques peuvent nous faire davantage apprécier une œuvre.
+1) Les jugements esthétiques qui ne reposent que sur des préjugés ne valent rien.
+2) On peut parvenir à un meilleur jugement esthétique quand on a plus d'expérience d'un art : on peut davantage comparer la valeur des œuvres.
+3) La pratique d'un art et des connaissances théoriques ou techniques peuvent nous faire davantage apprécier une œuvre.
 
 <!-- * Si une personne affirme que « le rap, le heavy metal c'est très mauvais et cela ne vaut rien », alors qu'elle ne connaît rien à ces musiques, son jugement est-il acceptable ?
 * Si un enfant affirme que la chanson « Je serai (ta meilleure amie) » de Lorie est géniale, alors qu'un critique musical aurait quelques doutes sur la valeur de cette chanson, faut-il penser que ces deux jugements se valent ?
