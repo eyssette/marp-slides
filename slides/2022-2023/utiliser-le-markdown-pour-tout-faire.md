@@ -108,19 +108,6 @@ p {text-align:left;}
 1) Un balisage léger : compréhensible par un être humain et facile à apprendre.
 2) Un document structuré : facile à exploiter par un programme informatique.
 
-
-<!-- 
-Balise code
-
-
-Mettre ici comparaison entre markdown / html
-entre markdown / latex
-
-évoquer autres langages balisages
-
-fichier lisible par un être humain / qui intègre des informations faciles à exploiter par une machine, un programme
--->
-
 ---
 <!-- _class: etape fpp -->
 <style scoped>
@@ -153,9 +140,9 @@ Deuxième partie
 
 
 ---
-<!-- _class:  -->
+<!-- _class: i1t0 -->
 
-t
+![](https://raw.githubusercontent.com/eyssette/mindmap/main/utiliser-le-markdown-pour-tout-faire-comment.svg)
 
 ---
 <!-- _class: souspartie -->
@@ -164,20 +151,72 @@ t
 
 ---
 <!-- _class:  -->
-1) Une solution en ligne dans Apps edu: [CodiMD](https://codimd.apps.education.fr/)
-2) Des logiciels dédiés à l'édition en Markdown
+<style scoped>
+ol {font-size:1.15em}
+</style>
+1) Une solution en ligne dans Apps Edu : [CodiMD](https://codimd.apps.education.fr/)
+2) Un logiciel dédié à l'édition en Markdown
 3) Un logiciel d'édition de code avec des plugins pour le markdown
 
 
 ---
 <!-- _class:  -->
-Logiciel proposé : VS Codium
+### Logiciel proposé : [VS Codium](https://vscodium.com/)
+
+1) Une interface générale et un système de plugins très pratiques
+2) Des raccourcis claviers très efficaces
+3) Des snippets configurables
+
+<!-- Faire démonstration :
+correction de copies / création d'un diaporama
+-->
 
 ---
 <!-- _class: souspartie -->
+<style scoped>
+h2 {font-size:1.7em}
+p {font-size:1.4em; margin: 0 60px}
+</style>
 ## B. Pour sauvegarder et gérer l'historique
+
+<span data-marpit-fragment="1">→ utiliser une forge et git</span>
 
 ---
 <!-- _class: souspartie -->
 ## C. Pour transformer son fichier dans <br>un autre format
 
+
+---
+<!-- _class: etape fppppppp -->
+### 1) Document texte au format académique (thèse, article, …)
+
+* Fichier Bibtex pour les citations et [plugin pour autocompléter ses citations](https://marketplace.visualstudio.com/items?itemName=notZaki.pandocciter)
+* Fichier de style CSL pour les citations
+* [Pandoc](https://pandoc.org/) pour la transformation du markdown en PDF (ou un autre format)
+
+
+---
+<!-- _class: etape -->
+### 2) Diaporama
+
+* Plusieurs solutions possibles : [reveal.js](https://revealjs.com/), [Remark](https://remarkjs.com/#1), [Marp](https://marp.app/) …
+* Solution la plus simple : [reveal.js sur CodiMD](https://codimd.apps.education.fr/dj4bCWxPTVeoWWFnZ3uFiA?both)
+* Solution plus complète : [Marp](https://marp.app/).
+* Exemple de thème : [teaching](https://eyssette.github.io/teaching-theme-for-marp/)
+
+<!-- Montrer comment Marp fonctionne -->
+
+
+---
+<!-- _class: etape -->
+### 3) Sites webs
+
+* Plusieurs générateurs de sites statiques : jekyll, mkdocs, mdbook, Hugo …
+* Un même principe : des fichiers en markdown, des propriétés YAML exploitées par le thème, une syntaxe pour créer des modèles de page
+
+
+---
+<!-- _class: etape -->
+### 4) Cartes mentales
+
+Un logiciel en ligne : <br>[myMarkmap](https://mymarkmap.netlify.app/)
