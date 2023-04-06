@@ -89,14 +89,24 @@ p {margin:0px 60px; font-size:1.2em}
 h3 {padding-bottom:0.8em; font-size:1.2em}
 p {text-align:left;}
 </style>
+
 ### 1/ Une syntaxe simple
 
-- Titres : `# Titre 1` / `## Titre 2`
-- Gras / italiques : `**gras**` / `_italiques_`
-- Citations, code : `> citation` / ``` `code` ``` 
-- Listes : `- texte` / `1. texte`
-- Liens : `[texte](URL)`
-- Images : `![description](URL)`
+* Titres : `# Titre 1` / `## Titre 2`
+* Gras / italiques : `**gras**` / `_italiques_`
+* Citations, code : `> citation` / ``` `code` ``` 
+* Listes : `- texte` / `1. texte`
+* Liens : `[texte](URL)`
+* Images : `![description](URL)`
+
+
+---
+<!-- _class:  -->
+
+### Deux avantages
+
+1) Un balisage léger : compréhensible par un être humain et facile à apprendre.
+2) Un document structuré : facile à exploiter par un programme informatique.
 
 
 <!-- 
@@ -112,17 +122,18 @@ fichier lisible par un être humain / qui intègre des informations faciles à e
 -->
 
 ---
-<!-- _class: etape fpppp -->
+<!-- _class: etape fpp -->
 <style scoped>
 h3 {padding-bottom:0.5em; font-size:1.2em}
 </style>
-### 2/ Une syntaxe qui permet de créer des documents complexes
 
-- Possibilité d'intégrer du HTML, du $\LaTeX$
-- Des extensions possibles du Markdown
-- Possibilité d'avoir un en-tête en YAML
-- Des outils pour transformer le markdown en un autre format
-- Export HTML : intégration possible de styles CSS
+### 2/ Une syntaxe qui permet de <br>créer des documents complexes
+
+* Possibilité d'intégrer du HTML, du $\LaTeX$
+* Des extensions possibles du Markdown
+* Possibilité d'avoir un en-tête en YAML
+* Des outils pour transformer le markdown en un autre format : <span data-marpit-fragment="1">un pdf</span><span data-marpit-fragment="2">, un diaporama</span><span data-marpit-fragment="3">, un site web</span><span data-marpit-fragment="4">, une carte mentale, …</span>
+* Export HTML : intégration possible de styles CSS
 
 <!-- 
 Extensions du markdown :
@@ -139,3 +150,34 @@ fichier bibtex pour les
 <!-- _class: partie -->
 # II - <br>Comment ? <!-- fit -->
 Deuxième partie
+
+
+---
+<!-- _class:  -->
+
+t
+
+---
+<!-- _class: souspartie -->
+## A. Pour éditer <br>son texte
+
+
+---
+<!-- _class:  -->
+1) Une solution en ligne dans Apps edu: [CodiMD](https://codimd.apps.education.fr/)
+2) Des logiciels dédiés à l'édition en Markdown
+3) Un logiciel d'édition de code avec des plugins pour le markdown
+
+
+---
+<!-- _class:  -->
+Logiciel proposé : VS Codium
+
+---
+<!-- _class: souspartie -->
+## B. Pour sauvegarder et gérer l'historique
+
+---
+<!-- _class: souspartie -->
+## C. Pour transformer son fichier dans <br>un autre format
+
