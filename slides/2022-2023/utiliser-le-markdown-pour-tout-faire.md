@@ -261,7 +261,7 @@ h4 {text-align:center}
 * Des [flashcards](https://codimd.apps.education.fr/aHGYCpIiRtmiP7ewkoWOYQ?both)
 * Un [commentaire d'un texte](https://codimd.apps.education.fr/a8oECv4nSeu6LMsGUfxqVQ?both)
 * Un [mur d'images](https://codimd.apps.education.fr/rceCV-QSTIC-f1RJ7pHxIA?both)
-* Un [padlet](https://codimd.apps.education.fr/lClEnAoTSMenFPVDtmc92g?both)
+* Un [pad](https://codimd.apps.education.fr/lClEnAoTSMenFPVDtmc92g?both)
 * Un [dictionnaire](https://eyssette.github.io/dataview/?url=https://codimd.apps.education.fr/aYv4xF8ZQKCWg75h_UOaDQ) [:link:](https://codimd.apps.education.fr/aYv4xF8ZQKCWg75h_UOaDQ)
 * Une [frise chronologique](https://codimd.apps.education.fr/pWrVyaN7SMubB1k65zeJzA?both)
 * Des [cartes à jouer](https://codimd.apps.education.fr/zuKmY75LR6KmC79V-R5wKg?both)
