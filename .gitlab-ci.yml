@@ -2,6 +2,12 @@ pages:
   script:
     - mkdir .public
     - cp -r * .public
+    - mkdir .public/slides/
+    - cp -r slides/* .public/slides/
+    - mkdir .public/slides/2021-2022/
+    - cp -r slides/2021-2022/*.html .public/slides/2021-2022/
+    - mkdir .public/slides/2022-2023/
+    - cp -r slides/2022-2023/*.html .public/slides/2022-2023/
     - mv .public public
     - find public -type f -regex '.*\.\(htm\|html\|txt\|text\|js\|css\)$' -exec gzip -f -k {} \;
     - find public -type f -regex '.*\.\(htm\|html\|txt\|text\|js\|css\)$' -exec brotli -f -k {} \;
