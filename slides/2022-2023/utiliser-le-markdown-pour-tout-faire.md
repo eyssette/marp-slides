@@ -140,9 +140,12 @@ Deuxième partie
 
 
 ---
-<!-- _class: i1t0 -->
+<!-- _class: i1t0 pp -->
+<style scoped>
+</style>
 
 ![](https://raw.githubusercontent.com/eyssette/mindmap/main/utiliser-le-markdown-pour-tout-faire-comment.svg)
+
 
 ---
 <!-- _class: souspartie -->
@@ -156,7 +159,7 @@ ol {font-size:1.15em}
 </style>
 1) Une solution en ligne dans Apps Edu : [CodiMD](https://codimd.apps.education.fr/)
 2) Un logiciel dédié à l'édition en Markdown
-3) Un logiciel d'édition de code avec des plugins pour le markdown
+3) Un éditeur de texte brut avec des plugins pour le markdown
 
 
 ---
@@ -179,7 +182,8 @@ p {font-size:1.4em; margin: 0 60px}
 </style>
 ## B. Pour sauvegarder et gérer l'historique
 
-<span data-marpit-fragment="1">→ utiliser une forge et git</span>
+<span data-marpit-fragment="1">→ utiliser _git_ et une forge</span>
+<span data-marpit-fragment="2">→ utiliser _diff_</span>
 
 ---
 <!-- _class: souspartie -->
@@ -188,11 +192,14 @@ p {font-size:1.4em; margin: 0 60px}
 
 ---
 <!-- _class: etape fppppppp -->
-### 1) Document texte au format académique (thèse, article, …)
+<style scoped>
+span {font-size:0.7em}
+</style>
+### 1) Document texte au format académique <span>(thèse, article, poster …)</span>
 
 * Fichier Bibtex pour les citations et [plugin pour autocompléter ses citations](https://marketplace.visualstudio.com/items?itemName=notZaki.pandocciter)
 * Fichier de style CSL pour les citations
-* [Pandoc](https://pandoc.org/) pour la transformation du markdown en PDF (ou un autre format)
+* [Pandoc](https://pandoc.org/) pour la transformation du markdown en PDF (ou un autre format) [:link:](https://programminghistorian.org/fr/lecons/redaction-durable-avec-pandoc-et-markdown) [:link:](https://www.arthurperret.fr/cours/pandoc.html)
 
 
 ---
@@ -211,7 +218,7 @@ p {font-size:1.4em; margin: 0 60px}
 <!-- _class: etape -->
 ### 3) Sites webs
 
-* Plusieurs générateurs de sites statiques : jekyll, mkdocs, mdbook, Hugo …
+* Plusieurs générateurs de sites statiques : [jekyll](https://jekyllrb.com/), [mkdocs](https://www.mkdocs.org/), [mdbook](https://rust-lang.github.io/mdBook/), [Hugo](https://gohugo.io/) …
 * Un même principe : des fichiers en markdown, des propriétés YAML exploitées par le thème, une syntaxe pour créer des modèles de page
 
 
@@ -219,4 +226,33 @@ p {font-size:1.4em; margin: 0 60px}
 <!-- _class: etape -->
 ### 4) Cartes mentales
 
-Un logiciel en ligne : <br>[myMarkmap](https://mymarkmap.netlify.app/)
+* Intégration de [Mermaid](https://mermaid.js.org/). Possibilité de créer des [modèles](https://codimd.apps.education.fr/o1E9rMaMTg2rik93decJUg?both).
+* Un logiciel en ligne : [myMarkmap](https://mymarkmap.netlify.app/)
+
+<!-- Montrer comment myMarkmap fonctionne -->
+
+---
+<!-- _class: etape fppppppp -->
+### 5) Des modèles spécifiques
+
+* Idée : créer des modèles dédiés à un usage pédagogique précis
+* Des modèles utilisables soit par les collègues soit par les élèves dans le cadre d'une activité qu'on leur fait faire
+* Des modèles utilisables sur [CodiMD](https://codimd.apps.education.fr/) et sur [la forge](https://forge.aeif.fr/)
+
+
+---
+<!-- _class: fppp -->
+<style scoped>
+h4 {text-align:center}
+</style>
+#### Exemples
+
+* Un [dialogue](https://codimd.apps.education.fr/KsjwIfUJT8S8X0gs3lsMIA?both) sous la forme de SMS échangés
+* Un [cahier de textes](https://codimd.apps.education.fr/vLFQu2JITKey43EMqYi1FA?both)
+* Des [flashcards](https://codimd.apps.education.fr/aHGYCpIiRtmiP7ewkoWOYQ?both)
+* Un [commentaire d'un texte](https://codimd.apps.education.fr/a8oECv4nSeu6LMsGUfxqVQ?both)
+* Un [mur d'images](https://codimd.apps.education.fr/rceCV-QSTIC-f1RJ7pHxIA?both)
+* Un [padlet](https://codimd.apps.education.fr/lClEnAoTSMenFPVDtmc92g?both)
+* Un [dictionnaire](https://eyssette.github.io/dataview/?url=https://codimd.apps.education.fr/aYv4xF8ZQKCWg75h_UOaDQ) [:link:](https://codimd.apps.education.fr/aYv4xF8ZQKCWg75h_UOaDQ)
+* Une [frise chronologique](https://codimd.apps.education.fr/pWrVyaN7SMubB1k65zeJzA?both)
+* Des [cartes à jouer](https://codimd.apps.education.fr/zuKmY75LR6KmC79V-R5wKg?both)
