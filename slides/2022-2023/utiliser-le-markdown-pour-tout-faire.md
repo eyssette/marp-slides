@@ -128,6 +128,9 @@ notes de bas de page
 tableaux
 texte souligné / surligné / supprimé / exposant / indices
 
+https://github.com/CriticMarkup/CriticMarkup-toolkit
+
+
 Ajouter ?
 Des outils pour intégrer dans du markdown d'autres fichiers ?
 fichier bibtex pour les 
@@ -201,6 +204,12 @@ span {font-size:0.7em}
 * Fichier de style CSL pour les citations
 * [Pandoc](https://pandoc.org/) pour la transformation du markdown en PDF (ou un autre format) [:link:](https://programminghistorian.org/fr/lecons/redaction-durable-avec-pandoc-et-markdown) [:link:](https://www.arthurperret.fr/cours/pandoc.html)
 
+
+<!-- 
+https://ineed.coffee/post/how-to-write-an-acm-styled-conference-paper-using-markdownpandoc
+
+http://programminghistorian.org/en/lessons/sustainable-authorship-in-plain-text-using-pandoc-and-markdown
+ -->
 
 ---
 <!-- _class: etape -->
