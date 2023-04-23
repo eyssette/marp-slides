@@ -206,21 +206,18 @@ Peut-on penser des devoirs directs envers la nature ?
  ## B. Les éthiques environnementales
 
 ---
-<!-- _class:  -->
-1) Une critique de **l'anthropocentrisme**
-2) Une défense de la **valeur intrinsèque** de la nature
+<!-- _class: fpppppp -->
+1) Une critique de **l'anthropocentrisme** : on parle alors d'écocentrisme ou d'écologie profonde
+2) Une défense de la **valeur intrinsèque** de la nature : la nature a en elle-même une valeur et n'est pas seulement un ensemble de ressources utiles.
 
 
 ---
-<!-- _class: fp -->
+<!-- _class: citationC fmmmmmmmmm -->
 <style scoped>
-h3{margin-bottom:0; margin-top:0.25em!important}
+figure {margin-left:-11em!important}
+blockquote blockquote {padding-top:0.5em!important}
 </style>
-### Quelques arguments :
+![bg left:21%](https://vod.canal-u.tv/videos/media/images/utls/les.relations.entre.l.homme.et.l.animal_866/90041.jpg)
 
-1) L'argument moral de l'extension du statut moral à la nature
-1) L'argument pragmatique : la défense de l'environnement ne serait efficace que si l'on reconnaît la valeur intrinsèque de la nature
-1) L'argument du dernier homme (Richard Routley)
-1) L'argument esthétique
-1) L'argument métaphysique du Soi relationnel (Arne Næss)
-1) L'argument politique de la critique de la domination
+> « Un riche excentrique achète une propriété […]. La maison […] bénéficie de l’ombre d’arbres centenaires. Mais le nouveau propriétaire est un amoureux du soleil et, en outre, considère qu’entretenir un jardin génère trop de tracas. Il fait donc raser les arbres et recouvrir le jardin d’asphalte. <span data-marpit-fragment="1">Aucun droit de propriété n’a été violé, aucune perte de bien-être occasionné, le nombre de créatures sensibles qui ont eu à pâtir de cette décision est insignifiant.</span><span data-marpit-fragment="2"> Pourtant, même un observateur qui ne serait guère intéressé par la préservation de l’environnement ressentirait quelque chose comme un outrage et comme un malaise moral face à un tel agissement.</span> <span data-marpit-fragment="3">Pourquoi un tel malaise ? […] Ce qui est choquant chez lui, c’est son arrogance environnementale, disposition qui constitue un vice. _A contrario_, bien entendu, on tiendra l’humilité environnementale pour une vertu. […] L’arrogance environnementale consiste à se donner une importance excessive au sein de la nature. […] C’est […] le fait d’être incapable d’imaginer que les choses et les êtres puissent, indépendamment de tout contexte d’utilité, être valorisé pour eux-mêmes. […]</span> [L]’humilité environnementale est une reconnaissance de ses propres limites. […] Les Alpes, une tempête en mer, le grand canyon, des séquoias majestueux et le “ciel étoilé au-dessus de nos têtes” : tout cela incite les personnes à réfléchir sur l’insignifiance relative de nos préoccupations quotidiennes, et même de notre propre espèce. »
+>> Jean-Yves **Goffi**, « L’éthique des vertus et l’environnement »
