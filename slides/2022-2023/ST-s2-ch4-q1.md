@@ -182,6 +182,7 @@ Le **solutionnisme technologique** désigne l'idée qu'on peut toujours trouver 
 >« Un impératif adapté au nouveau type de l'agir humain et qui s'adresse au nouveau type de sujets de l'agir s'énoncerait à peu près ainsi : « Agis de façon que les effets de ton action soient compatibles avec la Permanence d'une vie authentiquement humaine sur terre » ; ou pour l'exprimer négativement : « Agis de façon que les effets de ton action ne soient pas destructeurs pour la possibilité future d'une telle vie » ; ou simplement : « Ne compromets pas les conditions pour la survie indéfinie de l'humanité sur terre » ; ou encore, formulé de nouveau positivement : « Inclus dans ton choix actuel l'intégrité future de l'homme comme objet secondaire de ton vouloir ». »
  >> Hans **Jonas**, _Le principe responsabilité_ (1979)
 
+
 ---
 <!-- _class:  -->
 ### Une nouvelle forme de responsabilité <!-- fit -->
