@@ -42,28 +42,6 @@ img {position:absolute!important; top:10px; left:50px; width:90%!important; disp
 
 
 
----
-<!-- _class: pp -->
-<style scoped>
-p {position:absolute}
-p:nth-of-type(1), p:nth-of-type(4) {font-size:2.4em; width:100%; text-align:center; margin:auto; margin-left:-0.2em}
-p:nth-of-type(4) {font-size:1.3em; padding-bottom:15px;}
-p:nth-of-type(2), p:nth-of-type(3) {color:white; bottom:50px; font-size:1em; background-color:black; text-align:center; padding: 10px 30px}
-p:nth-of-type(2) {left:60px; bottom:25px}
-p:nth-of-type(3) {left:540px; bottom:25px; width:240px!important}
-</style>
-
-![bg](https://upload.wikimedia.org/wikipedia/commons/7/73/Frans_Hals_-_Portret_van_Ren%C3%A9_Descartes.jpg)
-![bg](https://pedag.u-picardie.fr/moodle/upjv/pluginfile.php/515930/course/overviewfiles/21057c.jpg)
-
-:red_circle:
-
-Descartes
-
-Jonas
-
-vs.
-
 
 ---
 <!-- _class: partie -->
