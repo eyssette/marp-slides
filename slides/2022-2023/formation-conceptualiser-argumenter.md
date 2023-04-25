@@ -75,24 +75,31 @@ img {height:600px;}
 
 
 ---
-<!-- _class: fppp -->
+<!-- _class: fpp -->
+<style scoped>
+ol {margin-top:0}
+</style>
+
 #### Les obstacles à la conceptualisation
 
-<span data-marpit-fragment="1">Les élèves peuvent ne pas voir les enjeux et l'intérêt de faire des définitions et des distinctions</span>
-<span data-marpit-fragment="2">La difficulté à comprendre ce qu'est une véritable définition</span>
-<span data-marpit-fragment="3">La difficulté à passer au stade de l'abstraction</span>
-<span data-marpit-fragment="4">Le travail sur les distinctions de sens demande une flexibilité mentale importante</span>
-<span data-marpit-fragment="5">Le langage ordinaire ou bien certaines représentations très ancrées peuvent constituer un obstacle</span>
+1) Les élèves peuvent ne pas voir les enjeux et l'intérêt de faire des définitions et des distinctions
+2) La difficulté à comprendre ce qu'est une véritable définition
+3) La difficulté à passer au stade de l'abstraction
+4) Le travail sur les distinctions de sens demande une flexibilité mentale importante
+5) Le langage ordinaire ou bien certaines représentations très ancrées peuvent constituer un obstacle
 
 ---
-<!-- _class: fppppppppp -->
+<!-- _class: fppppppp -->
+<style scoped>
+ol {margin-top:0}
+</style>
 
 #### Les obstacles à l'argumentation
 
-<span data-marpit-fragment="1">La confusion entre argument et exemple</span>
-<span data-marpit-fragment="2">Le recours à des arguments anecdotiques, qui ne reposent que sur des cas très particuliers</span>
-<span data-marpit-fragment="3">La difficulté à construire un raisonnement avec de véritables liens logiques entre les idées</span>
-<span data-marpit-fragment="4">La difficulté à rester dans le sujet</span>
+1) La confusion entre argument et exemple
+2) Le recours à des arguments anecdotiques, qui ne reposent que sur des cas très particuliers
+3) La difficulté à construire un raisonnement avec de véritables liens logiques entre les idées
+4) La difficulté à rester dans le sujet
 
 
 ---
@@ -137,55 +144,123 @@ La manière dont vous avez l'utilisé
 Deuxième partie
 
 
----
-<!-- _class: souspartie -->
-## A. En travaillant à partir de quelque chose de concret
 
 ---
-<!-- _class: fppppp -->
+<!-- _class: souspartie -->
+## A. Quelques pratiques classiques 
+
+---
+<!-- _class: etape -->
+### 1/ En travaillant à partir de quelque chose de concret
+
+---
+<!-- _class: fpppp -->
 
 On peut utiliser les mêmes approches que pour la problématisation :
 
-<span data-marpit-fragment="1">- Analyser des expressions du langage courant [:link:](https://docs.google.com/document/d/1oErfo7cVkIo5Ag5_eGZArN9E4VWC61gtHr6aZZRImBM/edit)</span>
-<span data-marpit-fragment="2">- Partir d'un exemple précis issu d'un roman, d'un article de journal, ou directement d'un cas réel</span>
-<span data-marpit-fragment="3">- Utiliser un document audio, un document vidéo, une image, voire un objet</span>
-<span data-marpit-fragment="4">- Utiliser une expérience de pensée, voire faire une expérience</span>
+1) Analyser des expressions du langage courant [:link:](https://docs.google.com/document/d/1oErfo7cVkIo5Ag5_eGZArN9E4VWC61gtHr6aZZRImBM/edit) [:link:](https://docs.google.com/document/d/1ATAMlQouvBQ4qkWeMe4dj0-9iPW2O_xWUq2ffY2TmyQ/edit)
+2) Partir d'un exemple précis issu d'un roman, d'un article de journal, ou directement d'un cas réel
+3) Utiliser un document audio, un document vidéo, une image, voire un objet
+4) Utiliser une expérience de pensée, voire faire une expérience
 
 
 ---
-<!-- _class: souspartie -->
-## B. À travers des exercices
+<!-- _class: etape -->
+### 2/ À travers des exercices
 
 ---
 <!-- _class:  -->
 1) Des exercices d'abstraction à partir d'un ou plusieurs cas particuliers
-2) Des exercices de distinction
+2) Des exercices de distinction [:link:](https://docs.google.com/presentation/d/e/2PACX-1vRn0DE5O6ljBMaTTAPm6F8e43JgZdBly-FkyLUvONex26PlUZchKz93ghtTuALmmsRG17sYHh6PxDWO/pub?start=false&loop=false&delayms=60000)
 3) Des exercices sur les étapes d'un raisonnement
 
 <!-- Des exercices pour dépasser les obstacles pédagogiques -->
 
 ---
-<!-- _class: souspartie -->
-## C. En utilisant les repères du programme
+<!-- _class: etape -->
+### 3/ En utilisant les <br>repères du programme
 
 
 ---
-<!-- _class: pp fppp -->
+<!-- _class: pp f -->
 
 ![bg left:50%](https://lh5.googleusercontent.com/7Eb7oAFo1wWznt0PwXVXdcxpUn0hIZo-vOt4AUxtfIKk62UrjZwLk02E7qGVpLMHbggu48jGCoQrZss04N3slnPxRYlWxPCDQ10-_3HnAnx5WFnKpECKHvncyMTWEH1zAyzt697RTwwn_30pAIzAFKVo=s2048)
 
-Sur internet :
+**Sur internet :**
+1. [Production collaborative suite à un stage dans l'académie de Lyon](https://docs.google.com/presentation/d/e/2PACX-1vQ1yFF_bMJmU9da9bMGD76u7GXEGQOIrYee0huVK6r62q1QpjuxBSGWZZaSYrmZAyVFAke5mlbovYr5/pub?start=false&loop=false&delayms=3000&slide=id.g2992a7a3a6_0_0)
 1. [Un document de Sébastien Roman](https://docs.google.com/document/d/1NKdCtreMURx__PgLz_FRzYEvcvp0vR_q4DirxkuHIgc/edit?usp=sharing) 
 2. [Site du lycée de Vaucanson](http://www.ac-grenoble.fr/lycee/vaucanson/philosophie/reperes.xml)
 3. [LogPhil de Grenoble](http://web.archive.org/web/20200311132542/http://www.ac-grenoble.fr/PhiloSophie/logphil/reperes/abstrait.htm)
 4. [Site Microphilo](https://microphilo.wordpress.com/category/reperes/)
 5. [Site Levetoietpense](https://levetoietpense.files.wordpress.com/2014/05/repc3a8res-conceptuels1.pdf)
 
+
 ---
-par un travail sur du concret
-à partir des repères
-à partir d'un texte
-à travers des exercices
-grâce à une visualisation
-en explicitant les stratégies
-avec des outils de synthèse (fiches, dictionnaire, cartes mentales)
+<!-- _class: etape -->
+### 4/ À partir d'un texte
+
+
+---
+<!-- _class:  -->
+<style scoped>
+span {font-size:0.83em; margin-top:0.25em;}
+</style>
+
+#### Quelques sites pour trouver des textes<!-- fit -->
+
+1) [Sujets d'explication de texte du baccalauréat](https://eyssette.github.io/sujets-philosophie-bac/)
+2) [Philo52](https://philo52.com/)
+3) [Le PhiloLabo](https://philo-labo.fr/)
+4) [Un moteur de recherche de textes](https://eyssette.github.io/textes-philo/)
+
+
+<span data-marpit-fragment="1">Un outil : [pour imprimer des textes au format A4](https://eyssette.github.io/a4)</span>
+
+---
+<!-- _class: etape -->
+### 5/ Avec l'aide des collègues
+
+1) Réseaux sociaux
+2) [Moteur de recherche de ressources dans les sites de collègues de philosophie](https://cse.google.com/cse?cx=005941353090358050370:-rxleq99qm0)
+
+
+
+
+---
+<!-- _class: souspartie -->
+## B. D'autres pratiques moins communes
+
+---
+<!-- _class: etape -->
+### 1/ Grâce à une visualisation
+
+1) Les schémas en arbre pour les arguments [:link:](https://eyssette.github.io/argument-map/) [:link:](https://github.com/eyssette/arguments)
+2) Les cartes mentales pour les concepts et distinctions conceptuelles [:link:](https://eyssette.github.io/mymarkmap) [:link:](https://github.com/eyssette/graphviz-examples/tree/master/diagram)
+
+
+---
+<!-- _class: etape -->#
+### 2/ En explicitant les stratégies
+
+1) Discussion sur ViaEduc avec Ludovic Brumant [:link:](http://www.viaeduc.fr/group/12193)
+2) Un exemple de formalisation des stratégies [:link:](https://github.com/eyssette/graphviz-examples/blob/master/diagram/methode-strategies-analyse-sujet.svg)
+
+---
+<!-- _class: etape -->
+### 3/ Grâce à des outils de synthèse (fiches, dictionnaires, schémas)
+
+[Quelques propositions faites lors d'un précéent stage de l'académie de Lyon](https://docs.google.com/presentation/d/e/2PACX-1vQ1yFF_bMJmU9da9bMGD76u7GXEGQOIrYee0huVK6r62q1QpjuxBSGWZZaSYrmZAyVFAke5mlbovYr5/pub?start=false&loop=false&delayms=3000&slide=id.g58bfa6d48a_0_25)
+
+
+---
+<!-- _class: etape -->
+<style scoped>
+ol li {text-align:left}
+</style>
+
+### 4/ Lors du travail sur les devoirs ou<br>lors d'un contrôle de connaisance <!-- fit -->
+
+Quelques propositions faites lors d'un précéent stage de l'académie de Lyon :
+
+1) [à propos du travail sur les devoirs](https://docs.google.com/presentation/d/e/2PACX-1vQ1yFF_bMJmU9da9bMGD76u7GXEGQOIrYee0huVK6r62q1QpjuxBSGWZZaSYrmZAyVFAke5mlbovYr5/pub?start=false&loop=false&delayms=3000&slide=id.g5100dc735f_1_111)
+1) [à propos des contrôles de connaissance](https://docs.google.com/presentation/d/e/2PACX-1vQ1yFF_bMJmU9da9bMGD76u7GXEGQOIrYee0huVK6r62q1QpjuxBSGWZZaSYrmZAyVFAke5mlbovYr5/pub?start=false&loop=false&delayms=3000&slide=id.g5100dc735f_1_106)
