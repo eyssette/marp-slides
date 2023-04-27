@@ -89,7 +89,7 @@ ol {margin-top:0}
 5) Le langage ordinaire ou bien certaines représentations très ancrées peuvent constituer un obstacle
 
 ---
-<!-- _class: fppppppp -->
+<!-- _class: fpp -->
 <style scoped>
 ol {margin-top:0}
 </style>
@@ -100,7 +100,8 @@ ol {margin-top:0}
 2) Le recours à des arguments anecdotiques, qui ne reposent que sur des cas très particuliers
 3) La difficulté à construire un raisonnement avec de véritables liens logiques entre les idées
 4) La difficulté à rester dans le sujet
-
+5) La confusion entre argument et référence : le recours à des “arguments d'autorité”
+6) La répétition dans une copie du même argument, simplement formulé autrement
 
 ---
 <!-- _class:  -->
