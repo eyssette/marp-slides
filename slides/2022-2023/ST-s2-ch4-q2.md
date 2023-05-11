@@ -9,7 +9,7 @@ size: 4:3
 <style scoped>
 h1{padding:30px}
 </style>
-# Le développement <br>technique transforme-t-il<br> les êtres humains ? <!-- fit -->
+# Q2 – Le développement <br>technique transforme-t-il<br> les êtres humains ? <!-- fit -->
 Cédric Eyssette (2022-2023)
 https://eyssette.github.io/
 
