@@ -198,6 +198,17 @@ h2{font-size:1.6em}
 
 
 ---
+<!-- _class: pp -->
+<style scoped>
+iframe {margin:auto; border:none!important}
+</style>
+
+<iframe height="90%" width="90%" scrolling="no" src="https://mymarkmap.vercel.app/##%20Double%20%5C%5C%20division%20%5C%5C%20du%20travail%0A%0A##%20Division%20%5C%5C%20++verticale++%20%5C%5C%20du%20travail%20%3C!--fold--%3E%0A%0A-%20=%20Les%20**ing%C3%A9nieurs**%20con%C3%A7oivent%0Ale%20produit%20et%20la%20mani%C3%A8re%20la%0Aplus%20efficace%20de%20le%20produire%0A%0A-%20&rArr;%20Les%20**ouvriers**%20%7B%7B%20doivent%C2%A0%5C%5C%20simplement%20ex%C3%A9cuter%20%5C%5C%20les%20t%C3%A2ches%20qu'on%20leur%20%5C%5C%20indique%20de%20faire%20%7D%7D%0A%0A##%20Division%20%5C%5C%20++horizontale++%20%5C%5C%20du%20travail%20%3C!--fold--%3E%0A%0A-%20=%20une%20**parcellisation**%20%5C%5Cmaximale%20du%20travail%0A%0A-%20&rArr;%20Les%20ouvriers%20%7B%7B%20doivent%20%5C%5C%20accomplir%20%20des%20**t%C3%A2ches%20%5C%5C%20%C3%A9l%C3%A9mentaires,%20%C2%A0r%C3%A9p%C3%A9titives%20%5C%5Cet%20cadenc%C3%A9es**%20%7D%7D"></iframe>
+
+
+
+
+---
 <!-- _class: citationC fp -->
 <style scoped>
 figure {margin-left:-100px!important}
@@ -208,31 +219,59 @@ figure {margin-left:-100px!important}
 > « Dans la manufacture et le métier, l’ouvrier se sert de son outil ; dans la fabrique il sert la machine […] [L]e travail mécanique […] empêche le jeu varié des muscles et comprime toute activité libre du corps et de l’esprit. […] [L]a machine ne délivre pas l’ouvrier du travail mais dépouille le travail de son intérêt. […] L'habileté de l'ouvrier apparaît chétive devant la science prodigieuse, les énormes forces natu­relles, […] incorporées au système mécanique […]. La subordination technique de l'ouvrier […] [crée] une discipline de caserne »
 >> Karl **Marx**, _Le Capital_, I, XV, IV
 
-<!-- Marx critique une forme de travail particulière : le travail aliéné.
+<!-- 
 
-L'aliénation du travail désigne une forme de dépossession de soi. Notre travail ne nous appartient plus. -->
+L'aliénation désigne le fait de ne plus avoir quelque chose
+alius : autre
+-nus : indique la provenance, l'origine, l'appartenance
+
+=> Aliénation : dépossession, perte, privation
+
+- L'aliénation mentale désigne la folie, la perte de la raison (ne plus avoir la raison)
+- L'aliénation juridique désigne la transmission d'un bien (on ne le possède plus)  (ne plus avoir un bien)
+- Un droit inaliénable est un droit qu'on ne peut pas perdre, qu'on ne peut pas nous enlever (on ne peut pas faire en sorte que je ne l'ai plus)
+
+
+Perte de sens, insignifiance :
+un travail dans lequel l'individu se nie ≠ s'affirme
+(≠ activité libre du corps et de l'esprit)
+pas de réalisation, de reconnaissance de soi dans l'objet produit (qui devient étranger)
+= aliénation par rapport au produit de son travail
+perte de son humanité et de son individualité
+pas d'affirmation de soi en tant qu'être humain / en tant qu'individu
+
+(// division horizontale du travail)
+
+L'objet produit n'est plus à moi / n'est plus de moi / n'est plus la réalisation de moi
+
+Perte de puissance, impuissance :
+= aliénation par rapport au processus de production
+= aliénation par rapport à l'acte de travailler lui-même
+"dans l'acte de la production, à l'intérieur de l'activité productive elle-même"
+pas contrôlé par l'individu, pas choisi, soumis aux autres / soumis à la machine (“discipline de caserne”, “sert la machine”)
+Pas de reconnaissance de soi dans sa propre activité productive
+
+La manière de travailler n'est plus de moi
+
+(// division verticale du travail)
+
+
+= aliénation subjective
+
++ aliénation objective ("habileté… apparaît chétive devant la science prodigieuse, les énormes forces naturelles,… incorporées au système mécanique")
+aliénation du monde même dans lequel je vis
+
+les forces productives s'autonomisent et deviennent étrangères aux hommes : plus de maîtrise
+-->
 
 
 ---
-<!-- _class: pp -->
-<style scoped>
-iframe {margin:auto; border:none!important}
-</style>
 
-<iframe height="90%" width="90%" scrolling="no" src="https://mymarkmap.vercel.app/##%20Double%20division%C2%A0%5C%5C%20du%20travail%0A%0A##%20Division%20%5C%5C%20%3Cu%3Everticale%3C/u%3E%20%5C%5C%20du%20travail%20%3C!--fold--%3E%0A%0A-%20Les%20**ing%C3%A9nieurs**%20con%C3%A7oivent%20%5C%5C%20le%20produit%20et%20la%20mani%C3%A8re%20la%20%5C%5C%20plus%20efficace%20de%20le%20produire%0A%0A-%20Les%20**ouvriers**%20doivent%0Asimplement%20ex%C3%A9cuter%0Ales%20t%C3%A2ches%20qu'on%20leur%0Aindique%20de%20faire%0A%0A##%20Division%20%5C%5C%20%3Cu%3Ehorizontale%3C/u%3E%20%5C%5C%20du%20travail%20%3C!--fold--%3E%0A%0A-%20Le%20processus%20de%20production%0Aest%20d%C3%A9compos%C3%A9%20en%20**une%20s%C3%A9rie%0Ad'op%C3%A9ration%20partielles**.%0A%0A-%20L'ouvrier%20doit%20accomplir%20des%0A**t%C3%A2ches%20%C3%A9l%C3%A9mentaires,%0Ar%C3%A9p%C3%A9titives%20et%20cadenc%C3%A9es**"></iframe>
+[![](../../images/commande-vocale.png)](https://ladigitale.dev/digiview/#/v/645cb56d1efff)
 
+Usage de la commande vocale pour les préparateurs de commande : extrait du documentaire _Travail, ton univers impitoyable_ [+](https://ladigitale.dev/digiview/#/v/645cb56d1efff)
 
----
-<!-- _class: fppppp -->
-
-L'ouvrier est dépossédé de tout savoir-faire. Le travail se réduit à un geste mécanique, et il est soumis au contrôle d'une hiérarchie qui cherche à le rendre le plus productif possible.
-
-
----
-
-[![](../../images/commande-vocale.png)](https://youtu.be/s5uHC6TN2wo?t=1100)
-
-Usage de la commande vocale pour les préparateurs de commande : extrait du documentaire _Travail, ton univers impitoyable_ [+](https://youtu.be/s5uHC6TN2wo?t=1100)
+<!-- https://www.youtube.com/watch?v=s5uHC6TN2wo&t=1100s -->
 
 
 ---
