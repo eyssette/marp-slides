@@ -31,15 +31,56 @@ Le transhumanisme
  -->
 
 ---
+<!-- _class:  -->
+### Trois objectifs du transhumanisme <!-- fit -->
+
+<span data-marpit-fragment="1">**1/ Super longévité**</span>
+
+<span data-marpit-fragment="2">Refus de tout prétendu destin naturel : on pourrait supprimer la vieillesse et la mort.</span>
+
+<span data-marpit-fragment="3">Max More : _Lettre à Mère Nature_</span>
+
+---
+<!-- _class:  -->
+**2/ Super intelligence**
+
+Objectif fondé sur :
+
+<span data-marpit-fragment="1">– les progrès dans l'I.A. (intelligence artificielle)</span>
+
+<span data-marpit-fragment="2">– la possibilité d'une symbiose avec la technique </span><span data-marpit-fragment="3">(= intégration de la technique dans notre corps, dans notre cerveau ≠ simples outils externes).</span>
+
+---
+<!-- _class:  -->
+**3/ Super bien-être**
+
+<span data-marpit-fragment="1">Objectif fondé sur la possibilité de transformer les émotions humaines par des interventions biotechnologiques :</span><span data-marpit-fragment="2"> des pilules ou même des modifications génétiques.</span>
+
+---
+<!-- _class:  -->
+### Deux questions
+1) L'idéal transhumaniste est-il un objectif à poursuivre ?
+2) Le transhumanisme est-il vraiment une rupture radicale ? <span data-marpit-fragment="1">L'être humain n'est-il pas de toute façon déjà façonné par la technique ?</span>
+
+
+---
 <!-- _class: partie -->
 # I – <br>La technique <br>comme essence<br> de l'être humain <!-- fit -->
 Première partie
 
----
-<!-- _class: -->
-- La technique est-elle le propre des êtres humains ?
-- Y a-t-il de la technique chez les animaux ?
 
+---
+<!-- _class:  -->
+**Rappel :** <span data-marpit-fragment="1">le mythe de Prométhée souligne le statut essentiel de la technique pour l'être humain</span>
+
+
+---
+<!-- _class: fppp -->
+**En effet :**
+1) Par comparaison avec les animaux, la technique semble jouer un rôle fondamental pour l'être humain
+2) L'histoire de l'humanité montre que la technique a toujours joué un rôle essentiel :
+    1) dès la Préhistoire, les êtres humains ont façonné des outils
+    2) la technique est un facteur important de changements historiques
 
 ---
 <!-- _class: citationC fppp-->
@@ -49,27 +90,54 @@ Première partie
 >> **Bergson**, _L'évolution créatrice_, chapitre II 
 
 <!-- 
+
+Faire noter : 
+En ce sens, Bergson affirme que l'être humain ne devrait pas être nommé _homo sapiens_ (capable de penser), mais _homo faber_ (capable de fabriquer).
+
+---
 On caractérise souvent la spécificité de l'être humain par son intelligence, raison pour laquelle notre espèce est nommée _homo sapiens_. Mais l'intelligence des êtres humains ne se manifeste-t-elle pas avant tout dans la capacité à inventer des techniques, des moyens efficaces pour parvenir à ses fins, des outils et des objets qui sont les produits de cette intelligence pratique ?
 
 Bergson suggère en ce sens qu'on devrait nommer notre espèce _homo faber_ plutôt qu'_homo sapiens_ afin de mettre en évidence le caractère central de la technique dans l'évolution humaine.
- -->
+-->
 
 
 ---
-<!-- _class: i1t0 -->
-[![](https://i.ibb.co/8dMCPcP/techniques-animaux-t.jpg)](https://www.youtube.com/playlist?list=PLyNuTVPEjAXLqqBHSoHa_KtT1VNpXio9e)
+<!-- _class:  -->
+**Mais :**
 
-<!-- [:link:](https://ladigitale.dev/digiplay/#/v/6257af41a5787) -->
+- La technique est-elle vraiment le propre des êtres humains ?
+- N'y a-t-il pas de la technique chez les animaux ?
 
 ---
-<!-- _class: fp -->
+<!-- _class: i1t1 vertical f pp -->
+<style scoped>
+img {height:510px}
+p:nth-of-type(2) {margin-top:0px!important; position:absolute; left:40%;}
+</style>
+![](https://i.ibb.co/8dMCPcP/techniques-animaux-t.jpg)
+
+[:link:](https://ladigitale.dev/digiview/#/v/645ca37a761b2) [:link:](https://ladigitale.dev/digiview/#/v/645ca396a8789) [:link:](https://ladigitale.dev/digiview/#/v/645ca3aac83b6)
+
+<!--
+Loutres de mer : https://ladigitale.dev/digiview/#/v/645ca37a761b2
+
+Poulpe : https://ladigitale.dev/digiview/#/v/645ca396a8789
+
+Corbeaux : https://ladigitale.dev/digiview/#/v/645ca3aac83b6
+
+https://www.youtube.com/watch?v=_pFzgHTjuGQ&list=PLyNuTVPEjAXLqqBHSoHa_KtT1VNpXio9e&index=13&t=80s
+-->
+
+
+---
+<!-- _class: fmm -->
 <style scoped>
 span {display:block; margin-left:1.5em}
 </style>
 
 Les techniques humaines sont l'expression de l'inventivité spécifique des êtres humains :
 1) Transformation et invention de matériaux <span data-marpit-fragment="1">≠ usage simplement d'éléments naturels</span>
-2) Invention de procédés complexes qui supposent un contrôle conscient de son activité et une transmission culturelle riche <span data-marpit-fragment="2">≠ simple comportement instinctif</span>
+2) Invention de procédés complexes qui supposent un contrôle conscient de son activité et une transmission culturelle riche <span data-marpit-fragment="2">≠ simple comportement instinctif ou rares inventions et transmissions</span>
 3) Invention de gestes précis, d'outils, de machines <span data-marpit-fragment="3">≠ faible capacité manipulatoire et simples prolongements du corps</span>
 4) Invention d'objets pour des finalités très variées <span data-marpit-fragment="4">≠ finalités simplement biologiques</span>
 
@@ -84,14 +152,29 @@ Deuxième partie
 ---
 <!-- _class: definition fp -->
 <style scoped>
-p:nth-of-type(1){border:none; margin-bottom:0; padding:0;}
-h3{margin-top:0.25em}
+p:nth-of-type(1){border:none; margin-bottom:0; font-size:1.1em}
+p:nth-of-type(1) strong {color:black; font-weight:bold}
+h3{margin-top:0.4em}
 </style>
 Nous allons discuter ici la thèse du **déterminisme technique**.
 
 ### Définition
 
-Le **déterminisme technique** est l'idée que l'introduction de certains dispositifs techniques détermine, ou du moins participe, à produire des transformations importantes dans l'économie, la société, les individus eux-mêmes, ou encore l'environnement
+<span data-marpit-fragment="1">Le **déterminisme technique** est l'idée que l'introduction de certains dispositifs techniques détermine, ou du moins participe, à produire des transformations importantes </span><span data-marpit-fragment="2">dans l'économie, la société, les individus eux-mêmes, ou encore l'environnement</span>
+
+---
+<!-- _class: definition fpppp -->
+<style scoped>
+p:nth-of-type(1) {border:none; margin-bottom:0; font-size:1.1em;}
+p:nth-of-type(1) strong {color:black; font-weight:bold}
+h3{margin-top:0.2em}
+</style>
+Cette thèse s'oppose à la thèse de la **neutralité de la technique**
+
+### Définition
+
+<span data-marpit-fragment="1">C'est l'idée que la technique ne fait rien, elle est **neutre** : c'est l'être humain qui fait quelque chose avec la technique.</span>
+<span data-marpit-fragment="2">La technique n'est qu'un **moyen** à notre service, dont nous **maîtrisons** l'usage</span>
 
 ---
 <!-- _class: souspartie -->
