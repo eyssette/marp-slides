@@ -205,7 +205,9 @@ iframe {margin:auto; border:none!important}
 
 <iframe height="90%" width="90%" scrolling="no" src="https://mymarkmap.vercel.app/##%20Double%20%5C%5C%20division%20%5C%5C%20du%20travail%0A%0A##%20Division%20%5C%5C%20++verticale++%20%5C%5C%20du%20travail%20%3C!--fold--%3E%0A%0A-%20=%20Les%20**ing%C3%A9nieurs**%20con%C3%A7oivent%0Ale%20produit%20et%20la%20mani%C3%A8re%20la%0Aplus%20efficace%20de%20le%20produire%0A%0A-%20&rArr;%20Les%20**ouvriers**%20%7B%7B%20doivent%C2%A0%5C%5C%20simplement%20ex%C3%A9cuter%20%5C%5C%20les%20t%C3%A2ches%20qu'on%20leur%20%5C%5C%20indique%20de%20faire%20%7D%7D%0A%0A##%20Division%20%5C%5C%20++horizontale++%20%5C%5C%20du%20travail%20%3C!--fold--%3E%0A%0A-%20=%20une%20**parcellisation**%20%5C%5Cmaximale%20du%20travail%0A%0A-%20&rArr;%20Les%20ouvriers%20%7B%7B%20doivent%20%5C%5C%20accomplir%20%20des%20**t%C3%A2ches%20%5C%5C%20%C3%A9l%C3%A9mentaires,%20%C2%A0r%C3%A9p%C3%A9titives%20%5C%5Cet%20cadenc%C3%A9es**%20%7D%7D"></iframe>
 
-
+<!-- Le travail devient lui-même mécanique
+L'ouvrier devient une sorte de machine et sera d'ailleurs remplacé par des machines dès que ce sera possible
+-->
 
 
 ---
