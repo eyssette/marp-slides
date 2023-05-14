@@ -206,9 +206,35 @@ iframe {margin:auto; border:none!important}
 
 <iframe height="90%" width="90%" scrolling="no" src="https://mymarkmap.vercel.app/##%20Double%20%5C%5C%20division%20%5C%5C%20du%20travail%0A%0A##%20Division%20%5C%5C%20++verticale++%20%5C%5C%20du%20travail%20%3C!--fold--%3E%0A%0A-%20=%20Les%20**ing%C3%A9nieurs**%20con%C3%A7oivent%0Ale%20produit%20et%20la%20mani%C3%A8re%20la%0Aplus%20efficace%20de%20le%20produire%0A%0A-%20&rArr;%20Les%20**ouvriers**%20%7B%7B%20doivent%C2%A0%5C%5C%20simplement%20ex%C3%A9cuter%20%5C%5C%20les%20t%C3%A2ches%20qu'on%20leur%20%5C%5C%20indique%20de%20faire%20%7D%7D%0A%0A##%20Division%20%5C%5C%20++horizontale++%20%5C%5C%20du%20travail%20%3C!--fold--%3E%0A%0A-%20=%20une%20**parcellisation**%20%5C%5Cmaximale%20du%20travail%0A%0A-%20&rArr;%20Les%20ouvriers%20%7B%7B%20doivent%20%5C%5C%20accomplir%20%20des%20**t%C3%A2ches%20%5C%5C%20%C3%A9l%C3%A9mentaires,%20%C2%A0r%C3%A9p%C3%A9titives%20%5C%5Cet%20cadenc%C3%A9es**%20%7D%7D"></iframe>
 
-<!-- Le travail devient lui-même mécanique
-L'ouvrier devient une sorte de machine et sera d'ailleurs remplacé par des machines dès que ce sera possible
+
+---
+<!-- _class: fppppppp -->
+**Objectif visé :** <span data-marpit-fragment="1">la productivité (production rapide en masse, avec un coût le plus faible possible)</span>
+
+<span data-marpit-fragment="2">**Mais conséquence sur le travail :**</span><span data-marpit-fragment="3"> le travail lui-même devient mécanique ; l'ouvrier devient une sorte de machine.</span>
+
+<!-- L'ouvrier sera d'ailleurs remplacé par des machines dès que ce sera possible
 -->
+
+<span data-marpit-fragment="4">Pour approfondir l'analyse critique de ce type de travail, on peut mobiliser la notion d'**aliénation** que propose Marx (avant la mise en place du taylorisme)</span>
+
+
+---
+<!-- _class:  -->
+<style scoped>
+div {font-size:0.9em}
+</style>
+
+De manière générale, l'aliénation désigne le fait de ne plus avoir quelque chose. <span data-marpit-fragment="1">C'est une perte, une privation, une dépossession.</span>
+
+<!-- alius : autre / -nus : appartenance, provenance -->
+
+<div>
+
+<span data-marpit-fragment="2">“aliénation mentale” : ne plus avoir la raison</span>
+<span data-marpit-fragment="3">“aliénation juridique” : transmission d'un bien (on ne l'a plus)</span>
+<span data-marpit-fragment="4">“droits inaliénables” : on ne peut pas nous les enlever (on les a toujours)</span>
+</div>
 
 ---
 <!-- _class: citationC fp -->
@@ -220,6 +246,35 @@ figure {margin-left:-100px!important}
 
 > « Dans la manufacture et le métier, l’ouvrier se sert de son outil ; dans la fabrique il sert la machine […] [L]e travail mécanique […] empêche le jeu varié des muscles et comprime toute activité libre du corps et de l’esprit. […] [L]a machine ne délivre pas l’ouvrier du travail mais dépouille le travail de son intérêt. […] L'habileté de l'ouvrier apparaît chétive devant la science prodigieuse, les énormes forces natu­relles, […] incorporées au système mécanique […]. La subordination technique de l'ouvrier […] [crée] une discipline de caserne »
 >> Karl **Marx**, _Le Capital_, I, XV, IV
+
+
+---
+<!-- _class: fpppp -->
+Marx distingue deux formes possibles d'aliénation dans le travail.
+
+### a) L'aliénation par rapport au produit du travail <!-- fit --> 
+“L'objet produit n'est pas de moi”
+= je ne me reconnais pas dans l'objet car il n'exprime rien de moi (aucune capacité physique ou intellectuelle)
+&rarr;  je ne m'affirme pas dans mon travail, je suis nié en tant qu'être humain et en tant qu'individu
+&rArr; sentiment d'insignifiance : perte de sens
+
+
+---
+<!-- _class:  -->
+### b) L'aliénation par rapport à l'acte de travail
+“La manière de travailler n'est pas de moi”
+= je ne décide pas de ma manière de travailler, je ne contrôle pas ce que je fais
+&rarr; c'est un travail contraint, soumis
+&rArr; sentiment d'impuissance : perte de contrôle
+
+
+---
+<!-- _class:  -->
+Le taylorisme semble produire de l'aliénation :
+
+La division horizontale du travail produit de l'insignifiance = 1 aliénation par rapport au produit du travail
+
+La division verticale du travail produit de l'impuissance = 1 aliénation par rapport à l'acte de travail
 
 <!-- 
 
@@ -267,9 +322,13 @@ les forces productives s'autonomisent et deviennent étrangères aux hommes : pl
 -->
 
 
-
 ---
 
+<!-- Exemples et références pas contemporaines => actualité du taylorisme ?
+Taylorisme au départ lié au secteur secondaire
+Avec la tertiarisation des activités : ?
+Mais en fait : extension du taylorisme à d'autres domaines, notamment dans les services
+-->
 
 [![](../../images/commande-vocale.png)](https://ladigitale.dev/digiview/#/v/645cb56d1efff)
 
@@ -277,15 +336,10 @@ Usage de la commande vocale pour les préparateurs de commande : extrait du docu
 
 <!-- https://www.youtube.com/watch?v=s5uHC6TN2wo&t=1100s -->
 
----
-<!-- _class: fppppp -->
-
-L'ouvrier est dépossédé de tout savoir-faire. Le travail se réduit à un geste mécanique, et il est soumis au contrôle d'une hiérarchie qui cherche à le rendre le plus productif possible.
 
 ---
 <!-- _class: etape -->
-### 2) Les TIC au XXe siècle
-TIC : Technologies de l'information<br> et de la communication
+### 2) Le numérique au XXe siècle
 
 <!-- L'ordinateur et le numérique -->
 
@@ -379,6 +433,14 @@ Un épisode de la série _Black Mirror_
 ---
 <!-- _class: souspartie -->
 ## B. <br>Une transformation des<br> individus eux-mêmes ? <!-- fit -->
+
+<!-- 
+modifications biologiques
+biotechnologies ; notamment génétique
+cf. Bienvenue à Gattaca
+
+modifications psychiques
+ -->
 
 ---
 
