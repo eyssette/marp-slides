@@ -293,17 +293,30 @@ Machine learning -->
 ## B. <br>Une transformation des<br> individus eux-mêmes ? <!-- fit -->
 
 ---
+<!-- _class:   -->
+<style scoped> 
+img {height:480px; position:absolute; }
+p:nth-of-type(2) {margin-left:400px; margin-right:50px}
+h3 {margin-top:-100px!important}
+</style>
 
-On peut se demander si la technologie peut avoir un effet sur la psychologie des individus.
+### 1) La technologie peut-elle transformer<br> la biologie des individus ? <!-- fit -->
 
-- Certaines techniques peuvent-elles avoir un effet sur nos désirs, sur nos manières de penser … ?
+<span data-marpit-fragment="1">![](https://cosmopolis.nantes.fr/wp-content/uploads/2022/07/f5c46c65e8654b80acea48cc00d836e8.base_.image_-683x1024.jpg)</span>
+
+<span data-marpit-fragment="1">Film : _Bienvenue à Gattaca_</span>
+<span data-marpit-fragment="2">Technologie CRISPR-CAS9 : édition possible du génome humain ?</span>
+
 
 ---
-<!-- _class: fpppp -->
+<!-- _class: fpp -->
 <style scoped>
-span, ol {font-size:0.97em!important}
+ol {margin-top:-15px}
 </style>
-**Rappel** : _cf._ cours sur la liberté <span>[(Chapitre 1)](https://eyssette.github.io/cours/philo22t/c/s1-ch1-q1.html)</span>
+
+### 2) La technologie peut-elle transformer<br> la psychologie des individus <!-- fit -->
+
+**Rappel** (cours sur la liberté : [chapitre 1](https://eyssette.github.io/cours/philo22t/c/s1-ch1-q1.html))
 
 1) L'image du tonneau percé
 2) La critique de la société de consommation (court métrage : _Happiness_)

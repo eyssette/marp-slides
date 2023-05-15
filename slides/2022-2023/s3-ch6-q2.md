@@ -345,14 +345,17 @@ Usage de la commande vocale pour les préparateurs de commande : extrait du docu
 
 
 ---
-<!-- _class: fppppppp -->
+<!-- _class: fpppppppp -->
+<style scoped>
+h4+p {font-size: 0.93em}
+</style>
 Une nouvelle forme d'organisation du travail : le **post-taylorisme** (ou “post-fordime”, ou “toyotisme”)
 
-#### <span data-marpit-fragment="1">Principes : les cinq zéros</span>
+#### <span data-marpit-fragment="1">Principe : les cinq zéros</span>
 
-<span data-marpit-fragment="2">‑ Zéro panne, zéro défaut &rArr; contrôle de la qualité du travail</span>
-<span data-marpit-fragment="3">‑ Zéro stock, zéro délai &rArr; gestion _lean_, juste à temps, flux tendu</span>
-<span data-marpit-fragment="4">‑ Zéro papier &rArr; numérisation des données</span>
+<span data-marpit-fragment="2">‑ **Zéro panne, zéro défaut** &rArr; contrôle de la qualité du travail</span>
+<span data-marpit-fragment="3">‑ **Zéro stock, zéro délai** &rArr; gestion _lean_, juste à temps, flux tendu, production à la demande</span>
+<span data-marpit-fragment="4">‑ **Zéro papier** &rArr; numérisation des données</span>
 
 ---
 <!-- _class: i1t1 vertical fmmm-->
@@ -372,16 +375,6 @@ extrait du documentaire _Attention Danger Travail_ [+](https://drive.google.com/
 <!-- _class: etape -->
 ### 3) L'IA au XXIe siècle
 
----
-<!-- _class: entete discussion fppp -->
-<style scoped>
-    p:nth-of-type(1) {margin-top:5px; padding:0 60px}
-    ul{margin-top:-35px; padding:0 60px}
-</style>
-### Discussion
-
-Le développement contemporain de l'intelligence artificielle semble pouvoir lui aussi transformer l'économie et la structure du travail.
-
 * Le travail des êtres humains pourra-t-il être effectué par des machines intelligentes ?
 * Si une telle évolution est possible, faut-il s'en réjouir ou bien s'en inquiéter ?
 
@@ -395,18 +388,16 @@ Machine learning -->
 
 <!-- Nous nous sommes surtout focalisés sur la manière dont la technique peut transformer l'économie, mais de manière générale, les nouvelles technologies semblent rendre possibles de nouvelles formes de contrôle social. -->
 
+
 ---
-<!-- _class: entete discussion fppp -->
+<!-- _class:  -->
 <style scoped>
-p, ul {padding:0 60px}
+section {font-size: 3.5em}
 </style>
-### Discussion
+Un genre intéressant en science-fiction : les **dystopies**.
 
-Dans la science-fiction, le genre des dystopies a souvent imaginé des sociétés dont les individus sont sous le contrôle de certaines technologies.
-
-- Quelle dystopie connaissez-vous ?
-- Dans cette dystopie, quelles sont les technologies utilisées pour contrôler la population ?
-- Les univers dystopiques pourraient-ils devenir une réalité ?
+* Qu'est-ce qu'une dystopie ?
+* Quelle dystopie connaissez-vous ?
 
 ---
 <!-- _class:  i2t1 contain rapprocher fppppppppppp-->
@@ -430,26 +421,33 @@ Un épisode de la série _Black Mirror_
 <!-- _class: souspartie -->
 ## B. <br>Une transformation des<br> individus eux-mêmes ? <!-- fit -->
 
-<!-- 
-modifications biologiques
-biotechnologies ; notamment génétique
-cf. Bienvenue à Gattaca
-
-modifications psychiques
- -->
 
 ---
-
-On peut se demander si la technologie peut avoir un effet sur la psychologie des individus.
-
-- Certaines techniques peuvent-elles avoir un effet sur nos désirs, sur nos manières de penser … ?
-
----
-<!-- _class: fpppp -->
-<style scoped>
-span, ol {font-size:0.97em!important}
+<!-- _class:   -->
+<style scoped> 
+img {height:480px; position:absolute; }
+p:nth-of-type(2) {margin-left:400px; margin-right:50px}
+h3 {margin-top:-100px!important}
 </style>
-**Rappel** : _cf._ cours sur le bonheur <span>[(Q1b&nbsp;:&nbsp;&laquo;&nbsp;Désirer, est-ce souffrir ? &raquo;)](https://eyssette.github.io/cours/philo22g/c/s1-ch1-q1.html#q1b--le-d%C3%A9sir-nous-fait-il-n%C3%A9cessairement-souffrir-)</span>
+
+### 1) La technologie peut-elle transformer<br> la biologie des individus ? <!-- fit -->
+
+<span data-marpit-fragment="1">![](https://cosmopolis.nantes.fr/wp-content/uploads/2022/07/f5c46c65e8654b80acea48cc00d836e8.base_.image_-683x1024.jpg)</span>
+
+<span data-marpit-fragment="1">Film : _Bienvenue à Gattaca_</span>
+<span data-marpit-fragment="2">Technologie CRISPR-CAS9 : édition possible du génome humain ?</span>
+
+
+---
+<!-- _class: fpp -->
+<style scoped>
+span {font-size:0.6em;}
+ol {margin-top:-15px}
+</style>
+
+### 2) La technologie peut-elle transformer<br> la psychologie des individus <!-- fit -->
+
+**Rappel** (cours sur le bonheur <span>[Q1b&nbsp;:&nbsp;&laquo;&nbsp;Désirer, est-ce souffrir ? &raquo;](https://eyssette.github.io/cours/philo22g/c/s1-ch1-q1.html#q1b--le-d%C3%A9sir-nous-fait-il-n%C3%A9cessairement-souffrir-)</span>)
 
 1) L'image du tonneau percé
 2) La critique de la société de consommation (court métrage : _Happiness_)
