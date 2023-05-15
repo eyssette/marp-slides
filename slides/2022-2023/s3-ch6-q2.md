@@ -343,20 +343,16 @@ Usage de la commande vocale pour les préparateurs de commande : extrait du docu
 
 <!-- L'ordinateur et le numérique -->
 
----
-<!-- _class: fpppp -->
-
-Au XXe siècle, l'organisation du travail se modifie, à partir des années 60-70. On parle de post-taylorisme, de **post-fordisme**, ou parfois de toyotisme en généralisant le mode de production inventé par Toyota à cette période.
-
 
 ---
-<!-- _class: pp -->
-<style scoped>
-iframe {margin:auto; border:none!important}
-</style>
+<!-- _class: fppppppp -->
+Une nouvelle forme d'organisation du travail : le **post-taylorisme** (ou “post-fordime”, ou “toyotisme”)
 
-<iframe height="90%" width="90%" scrolling="no" src="https://mymarkmap.vercel.app/#---%0AmaxWidth:%20140%0A---%0A%0A#%20Les%20cinq%20z%C3%A9ros%0A%0A##%20Z%C3%A9ro%20%7B%7Bd%C3%A9lai%7D%7D%0A%0A-%20%7B%7BPrincipe%20du%20flux%20tendu%20(du%20%E2%80%9Cjuste%20%C3%A0%20temps%E2%80%9D)%7D%7D%0A%0A##%20Z%C3%A9ro%20%7B%7Bstock%7D%7D%0A%0A-%20%7B%7BPas%20de%20stock%20de%20marchandises%20standardis%C3%A9es%20(gestion%20_lean_)%7D%7D%0A%0A##%20Z%C3%A9ro%20%7B%7Bpapier%7D%7D%0A%0A-%20%7B%7BTransmission%20rapide%20de%20l'information%7D%7D%0A%0A##%20Z%C3%A9ro%20%7B%7Bpanne%7D%7D%20%5C%5C%20&%20z%C3%A9ro%20%7B%7Bd%C3%A9faut%7D%7D%0A%0A-%20%7B%7BContr%C3%B4le%20permanent%20de%20la%20qualit%C3%A9%20du%20travail%7D%7D%0A%0A"></iframe>
+#### <span data-marpit-fragment="1">Principes : les cinq zéros</span>
 
+<span data-marpit-fragment="2">‑ Zéro panne, zéro défaut &rArr; contrôle de la qualité du travail</span>
+<span data-marpit-fragment="3">‑ Zéro stock, zéro délai &rArr; gestion _lean_, juste à temps, flux tendu</span>
+<span data-marpit-fragment="4">‑ Zéro papier &rArr; numérisation des données</span>
 
 ---
 <!-- _class: i1t1 vertical fmmm-->
