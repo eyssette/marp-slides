@@ -83,9 +83,9 @@ Croire qu'il y a des vérités ≠ croire qu'on a la vérité. On peut accepter 
 
 
 ---
-<!-- _class: fppppp -->
-1) Il y a des jugements clairement subjectifs (p.ex. les jugements qui expriment nos préférences, nos désirs), mais tous les jugements ne se réduisent pas à ce type de jugement.
-2) Même si un jugement exprime en partie un point de vue particulier, on peut chercher à dépasser son jugement et viser l'objectivité
+<!-- _class: fppppppppp -->
+1) Il y a des jugements clairement subjectifs (p.ex. les jugements qui expriment nos préférences, nos désirs)<span data-marpit-fragment="1">, mais tous les jugements ne se réduisent pas à ce type de jugement.</span>
+2) Même si un jugement exprime en partie un point de vue particulier, on peut chercher à dépasser son opinion première et viser l'objectivité
 
 ---
 <!-- _class: souspartie -->
@@ -100,7 +100,7 @@ p {text-align:justify!important}
 
 ### 1/ Une confusion entre vérité et opinion <!-- fit -->
 
-“chacun sa vérité” signifie en fait “chacun a son opinion”.
+“Chacun sa vérité” signifie en fait “chacun son opinion”.
 
 <span data-marpit-fragment="1">Le relativisme refuse de distinguer l'opinion et la vérité.</span>
 
