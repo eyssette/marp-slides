@@ -71,11 +71,11 @@ Deuxième partie
 
 
 ---
-<!-- _class:  -->
+<!-- _class: fpppppppp -->
 
-1. Croire qu'il y a des vérités ≠ croire qu'on a la vérité. On peut accepter la possibilité d'être dans l'erreur
-2. croire qu'il y a des vérités permet de défendre l'existence de savoirs critiques indispensables pour s'opposer aux discours idéologiques des dominants
-3. Le relativisme conduit chacun à rester dans sa propre opinion sans véritable dialogue, sans écouter les arguments des autres
+Croire qu'il y a des vérités ≠ croire qu'on a la vérité. On peut accepter la possibilité d'être dans l'erreur
+<span data-marpit-fragment="1">Croire qu'il y a des vérités permet de défendre l'existence de savoirs critiques indispensables pour s'opposer aux discours idéologiques des dominants</span>
+<span data-marpit-fragment="2">Le relativisme conduit chacun à rester dans sa propre opinion sans véritable dialogue, sans écouter les arguments des autres</span>
 
 ---
 <!-- _class: souspartie -->
@@ -92,29 +92,35 @@ Deuxième partie
 ## C. Deux objections majeures <br>contre le relativisme <!-- fit -->
 
 ---
-<!-- _class: etape fmmm -->
+<!-- _class: etape -->
 <style scoped>
 h3 {padding-bottom:0.6em!important; margin-bottom:1.15em}
 p {text-align:justify!important}
 </style>
 
-### 1/ Le relativisme conduit à des confusions importantes à propos de la notion d'opinion
+### 1/ Une confusion entre vérité et opinion <!-- fit -->
 
-Si on dit que “chacun a sa vérité”, cela revient au fond à dire que “chacun a son opinion” : on fait comme si la vérité et l'opinion étaient des notions équivalentes. On refuse alors de distinguer les opinions vraies et les opinions fausses, ce qui semble illégitime au moins pour certains cas : dire que “2+2=5”, ou affirmer qu'il pleut alors qu'il ne pleut pas, tout cela constitue manifestement des opinions fausses. 
+“chacun sa vérité” signifie en fait “chacun a son opinion”.
 
-De plus, quand on exprime son opinion, on exprime un engagement envers la vérité de ce qu'on affirme. Cela n'aurait pas de sens de dire : “Je pense qu'il pleut, mais ce n'est pas vrai qu'il pleut”. 
+<span data-marpit-fragment="1">Le relativisme refuse de distinguer l'opinion et la vérité.</span>
+
+<span data-marpit-fragment="2">Or : il y a des opinions vraies et des opinions fausses (p.ex. “2+2=5”).</span>
 
 ---
-<!-- _class: etape f -->
-### 2/ Le relativisme conduit à une contradiction
+<!-- _class: etape fppppp -->
+### 2/ Le relativisme conduit à une contradiction <!-- fit -->
 <style scoped>
 h3 {padding-bottom:0.6em!important; margin-bottom:1.15em}
 p {text-align:justify!important}
 </style>
 
-Si on affirme que la vérité n'existe pas, cela signifie qu'on affirme que c'est vrai que la vérité n'existe pas. On présuppose donc qu'il y a au moins une vérité (que la vérité n'existe pas). Par conséquent : on se contredit. On affirme à la fois qu'il n'y a pas de vérité et qu'il y en a une.
+Le relativisme affirme que la vérité n'existe pas
+<span data-marpit-fragment="1">&rArr; il affirme que c'est vrai que la vérité n'existe pas</span>
+<span data-marpit-fragment="2">&rArr; il y a au moins une vérité !</span>
 
-Autre manière de formuler cet argument : défendre le relativisme, c'est affirmer la vérité du relativisme, mais le relativisme affirme qu'il n'y a pas de vérité, donc que le relativisme n'est pas une thèse vraie … 
+<span data-marpit-fragment="3">**Autre formulation :**</span>
+
+<span data-marpit-fragment="4">Le relativisme affirme qu'il n'y a pas de vérité, donc le relativisme n'est pas une thèse vraie.</span>
 
 ---
 <!-- _class: i1t1 horizontal contain -->

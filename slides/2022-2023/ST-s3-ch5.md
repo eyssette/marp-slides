@@ -23,14 +23,3 @@ La **vérité** se distingue de la **sincérité**.
 
 <!-- Une affirmation est vraie, si elle est conforme à la réalité, fausse si elle n'est pas conforme à la réalité.
  -->
-
----
-<!-- _class: i2t0 fmmm contain rapprocher -->
-- Un exemple de débat pour comprendre les enjeux de la notion de vérité : y a-t-il des vérités économiques ?
-<span style="font-size:1.3rem; display:block; margin-bottom:-8px!important;">(cliquez sur les images pour voir les extraits vidéo)</span>
-
-[![Couverture du livre de Cahuc et Zylbergerg : Le négationnisme économique](https://i.ibb.co/nfF1MnP/negationnisme-economique-r.png)](https://drive.google.com/file/d/1FIOA7onFmeCPf5Jucau1RYsOP1CC3ZQF/view?usp=sharing)
-
-[![Couverture du livre de Thomas Porcher : Traité d'économie hérétique](https://i.ibb.co/k3YbGWp/traite-economie-heretique-r.jpg)](https://drive.google.com/file/d/1R3VdPk5oX8yixMq7tG5zvb1CBDIFdclF/view?usp=sharing)
-
-
