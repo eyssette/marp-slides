@@ -73,17 +73,26 @@ On pourrait imaginer que nous sommes en fait dans un rêve, ou dans un univers v
 # II - Les limites du doute
 Deuxième partie
 
+---
+<!-- _class: citationC fppp -->
+
+![Portrait de Malebranche bg left:25%](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Nicolas_Malebranche_-_Versailles_MV_2929.jpg/479px-Nicolas_Malebranche_-_Versailles_MV_2929.jpg)
+
+>« [I]l y a bien de la différence entre douter et douter. On doute par emportement et par brutalité, par aveuglement et par malice ; et enfin par fantaisie, et parce que l'on veut douter. Mais on doute aussi par prudence […], par sagesse et par pénétration d'esprit… Le premier doute est un doute de ténèbres qui ne conduit point à la lumière, mais qui en éloigne toujours ; le second naît de la lumière et il aide en quelque façon à la produire à son tour. »
+>>**Malebranche**, _De la recherche de la vérité_, 1675, I, XX
+
 
 ---
 <!-- _class: souspartie -->
-## A. Il faut distinguer le doute radical et le doute raisonnable
+## A. Le doute doit être raisonnable
 
 
 ---
-<!-- _class: i1t0 fppppp-->
+<!-- _class:  -->
 
-![schéma pour distinguer les deux formes de doute](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/deux-formes-de-doute.svg)
+Le doute est déraisonnable quand les arguments avancés pour justifier le doute ne sont pas fondés.
 
+Le doute est raisonnable quand il y a une bonne raison de douter.
 
 ---
 <!-- _class:  -->
@@ -96,15 +105,40 @@ Deuxième partie
 
 ---
 <!-- _class: souspartie -->
-## B. Le doute doit être seulement méthodique
+## B. Le doute doit être méthodique
+
+<!-- ≠ doute de principe -->
 
 ---
-<!-- _class: citationC fmm -->
+<!-- _class: citationC fp -->
 <style scoped>
 figure {margin-right:-70px!important}
 </style>
 
-![bg left:25%](https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Karl_Popper.jpg/220px-Karl_Popper.jpg)
+![bg left:26%](https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Karl_Popper.jpg/220px-Karl_Popper.jpg)
 
->« [Le falsificationisme] considère les théories comme des conjectures ou des suppositions librement créées par l'esprit qui s'efforce de résoudre les problèmes posés par les théories précédentes […]. Une fois énoncées, les théories spéculatives doivent être confrontées rigoureusement et impitoyablement à l'observation et à l'expérience. Il faut éliminer les théories incapables de résister aux tests de l'observation ou de l'expérience […]. La science progresse par essais et erreurs, par conjectures et réfutations. Seules les théories les mieux adaptées survivent. On ne s'autorisera jamais à dire d'une théorie qu'elle est vraie, mais on tendra à affirmer qu'elle est la meilleure disponible, qu'elle dépasse toutes celles qui l'ont précédée. »
+>« [L]es théories [scientifiques sont] comme des conjectures ou des suppositions librement créées par l'esprit qui s'efforce de résoudre les problèmes posés par les théories précédentes […]. Une fois énoncées, les théories […] doivent être confrontées rigoureusement et impitoyablement à l'observation et à l'expérience. Il faut éliminer les théories incapables de résister aux tests de l'observation ou de l'expérience […]. La science progresse par essais et erreurs, par conjectures et réfutations. »
 >>**A. Chalmers**, _Qu'est-ce que la science ?_, chap. 4
+
+
+<!-- 
+La science n'est pas un domaine de certitudes prouvées par l'expérience
+La science se définit par l'idéal d'une démarche critique portée à un maximum de rigueur
+ -->
+
+
+---
+<!-- _class:  -->
+La démarche scientifique consiste à faire des hypothèses qui conduisent à des explications et des prédictions **précises**
+
+<span data-marpit-fragment="1">≠ faire des hypothèses **vagues** qui en restent à des remarques générales</span>
+
+<span data-marpit-fragment="2"><u>Exemple</u> : l'effet Barnum</span>
+
+
+---
+<!-- _class:  -->
+La démarche scientifique consiste à accepter la confrontation avec l'expérience et la communauté scientifique
+
+<span data-marpit-fragment="1">≠ refuser la critique (p.ex. en se présentant comme un génie incompris ou en interprétant la critique comme un signe de la vérité de sa théorie)</span>
+<span data-marpit-fragment="2">≠ ne pas prendre en compte les données observées</span>
