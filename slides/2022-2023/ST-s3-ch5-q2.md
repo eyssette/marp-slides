@@ -137,8 +137,9 @@ La démarche scientifique consiste à faire des hypothèses qui conduisent à de
 
 
 ---
-<!-- _class:  -->
-La démarche scientifique consiste à accepter la confrontation avec l'expérience et la communauté scientifique
+<!-- _class: fpppppppp -->
+La démarche scientifique consiste à accepter la **confrontation** avec l'expérience et la communauté scientifique
 
 <span data-marpit-fragment="1">≠ refuser la critique (p.ex. en se présentant comme un génie incompris ou en interprétant la critique comme un signe de la vérité de sa théorie)</span>
+
 <span data-marpit-fragment="2">≠ ne pas prendre en compte les données observées</span>
