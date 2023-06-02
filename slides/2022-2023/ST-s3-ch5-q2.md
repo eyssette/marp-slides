@@ -92,7 +92,7 @@ Deuxième partie
 
 Le doute est déraisonnable quand les arguments avancés pour justifier le doute ne sont pas fondés.
 
-Le doute est raisonnable quand il y a une bonne raison de douter.
+<span data-marpit-fragment="1">Le doute est raisonnable quand il y a une bonne raison de douter.</span>
 
 ---
 <!-- _class:  -->
