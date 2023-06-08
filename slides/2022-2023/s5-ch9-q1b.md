@@ -33,6 +33,17 @@ Première partie
 >Paresse et lâcheté sont les causes qui expliquent qu'un si grand nombre d'hommes, alors que la nature les a affranchis depuis longtemps de toute tutelle étrangère, restent cependant volontiers, leur vie durant, mineurs; et qu'il soit si facile à d'autres de les diriger. Il est si commode d'être mineur. »
 >>**Kant**, _Qu'est-ce que les Lumières ?_
 
+
+---
+<!-- _class: fppp -->
+Le doute semble nécessaire pour affirmer l'autonomie de notre pensée, pour réfléchir par soi-même.
+
+<span data-marpit-fragment="1">Il s'agit, comme le dit Kant, d'avoir “le courage de se servir de son propre entendement”.</span>
+
+<span data-marpit-fragment="2">Sinon nous sommes comme des mineurs sous tutelle, c'est-à-dire que nous sommes dirigés par d'autres, soumis à des préjugés et aux idées dominantes.</span>
+
+<span data-marpit-fragment="3">L'enjeu c'est donc ici la liberté et la lutte contre la domination.</span>
+
 ---
 <!-- _class: souspartie -->
 ## B. Le doute <br>est possible
