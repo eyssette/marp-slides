@@ -62,7 +62,7 @@ Première partie
 <!-- _class: fppp -->
 <style scoped>
 h3 {margin-bottom:0}
-ol ul {margin-left:-0.6em}
+ol ul {margin-left:-0.75em}
 </style>
 
 ### Problèmes :
@@ -121,30 +121,25 @@ ol ul {margin-left:-0.6em}
 
 ---
 <!-- _class: partie -->
-# II – La théorie <br>de la justice<br> de Rawls <!-- fit -->
+# II – Les théorie de <br>la justice sociale <!-- fit -->
 Deuxième partie
 
-
 ---
-<!-- _class:  -->
-Une société juste doit lutter contre 3&nbsp;formes d'injustice.
-
-<span data-marpit-fragment="1">**Première forme :** la tyrannie et l'inégalité des droits.</span>
-
-<span data-marpit-fragment="2">Une société juste doit garantir une liberté maximale et l'égalité des droits.</span>
-
+<!-- _class: citationC fpp-->
+![bg left:43%](https://i.ibb.co/3CdsZRY/fraser.png)
+>« Ce n’est qu’en regardant du côté des approches qui s’emploient à unir redistribution et reconnaissance que les conditions nécessaires à une justice pour tous pourront être remplies. »
+>>Nancy **Fraser**, _Qu'est-ce que la justice sociale ?_, chapitre 2
 
 
 ---
-<!-- _class:  -->
-**Deuxième forme d'injustice :** les inégalités sociales et économiques de départ.
-
-
-
-
+<!-- _class: souspartie -->
+## A. La redistribution
 
 ---
-<!-- _class: i1t0 -->
+<!-- _class: i1t1 horizontal contain -->
+
+Un constat : l'existence des **inégalités sociales et économiques de départ**
+
 [![](https://static.fnac-static.com/multimedia/Images/FR/NR/35/8a/86/8817205/1540-1/tsp20170512110356/Nes-sous-la-meme-etoile.jpg)](https://ladigitale.dev/digiplay/#/v/624d3f97f4169)
 
 ---
@@ -166,25 +161,28 @@ Il y a un **déterminisme social** quand la trajectoire sociale d'un individu es
 
 
 ---
-<!-- _class:  -->
-Contre les inégalité socio-économiques de départ, une société de juste doit garantir **l'égalité des chances**.
+<!-- _class: definition fpp-->
+<style scoped>
+p:nth-of-type(1) {border:none; margin-bottom:0}
+h3 {margin-top:0}
+</style>
 
----
-<!-- _class: definition fppppp-->
-### Définition
-Il y a **égalité formelle des chances** quand les places sociales ne sont pas réservées à un groupe particulier, mais ouvertes à une compétition libre entre tous les individus, et que la sélection se fonde sur les compétences des individus.
-
-
----
-<!-- _class:  -->
-L'égalité formelle des chances est au fondement de ce qu'on appelle la méritocratie.
-
-
----
-<!-- _class: definition -->
+Contre les inégalité socio-économiques de départ, une société juste doit garantir **l'égalité des chances**.
 
 ### Définition
-La **méritocratie** est un système dans lequel les individus sont sélectionnés et promus en fonction de leurs mérites et de leurs capacités, plutôt que de leur naissance ou de leur statut social
+<span data-marpit-fragment="1">Il y a **égalité formelle des chances** quand les places sociales ne sont pas réservées à un groupe particulier mais ouvertes à tout le monde, et que la sélection se fonde sur les compétences des individus.</span>
+
+---
+<!-- _class: definition fppp -->
+<style scoped>
+p:nth-of-type(1) {border:none; margin-bottom:0}
+h3 {margin-top:0}
+</style>
+
+L'égalité formelle des chances est au fondement de ce qu'on appelle **la méritocratie**.
+
+### Définition
+<span data-marpit-fragment="1">La **méritocratie** est un système dans lequel les individus sont sélectionnés et promus en fonction de leurs mérites et de leurs capacités, plutôt que de leur naissance ou de leur statut social</span>
 
 
 ---
@@ -198,22 +196,33 @@ img {height:600px; margin-top:5px!important}
 Rocky Balboa (2006)
 
 ---
-<!-- _class: definition -->
+<!-- _class: definition f -->
+<style scoped>
+p:nth-of-type(1) {border:none; margin-bottom:0}
+h3 {margin-top:0}
+</style>
+La méritocratie suppose que la réussite est purement attribuable à l'individu. <span data-marpit-fragment="1">Pour véritablement lutter contre le déterminisme social, il faudrait garantir une **égalité réelle des chances**.</span>
+
 ### Définition
 Il y a **égalité réelle des chances** quand on compense les inégalités de départ pour que chacun parte avec réellement les mêmes chances d'accéder aux différentes places sociales.
 
 
 ---
 <!-- _class:  -->
-**Troisième forme d'injustice :** les inégalités à l'arrivée entre les différentes places sociales.
+Cependant : même l'égalité réelle des chances peut conduire à de fortes inégalités à l'arrivée entre les différentes places sociales.
 
-
-<span data-marpit-fragment="1">Exemple : le salaire d'un joueur de foot.</span>
-
-<span data-marpit-fragment="2">Faut-il égaliser les places sociales ? Qu'est-ce qui justifie les inégalités entre les places sociales ?</span>
-
+- Les inégalités entre les places sociales sont-elles justifiées ?
 
 ---
-<!-- _class:  -->
+<!-- _class: fp -->
 
-Les seules inégalités qui sont justifiables pour Rawls sont celles qui sont nécessaires pour assurer un progrès social au service de tous et surtout des plus défavorisés.
+### Différentes propositions
+
+1) **Le suffisantisme** : les inégalités entre les places sociales ne sont justifiées que si on garantit un niveau suffisant de ressources et de libertés réelles pour tout le monde.
+2) **Rawls** : les inégalités entre les places sociales ne sont justifiées que si elles sont nécessaires pour assurer un progrès social et améliorer la situation de tous et surtout des plus défavorisés.
+3) **L'égalitarisme radical** : les inégalités entre les places sociales ne sont pas justifiées, il faut les supprimer.
+
+---
+<!-- _class: souspartie -->
+## B. La reconnaissance
+
