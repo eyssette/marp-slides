@@ -178,9 +178,10 @@ ol ul {margin-left:-0.5em; margin-bottom:0.5em;margin-top:-0.2em}
 
 1) **Interdiction de la détention arbitraire** :<br>_Magna Carta_ (1215), _Habeas Corpus_ (1679)
 2) **Séparation des trois pouvoirs** <span data-marpit-fragment="1">(législatif, exécutif, judiciaire)</span>
+	* La constitution américaine : _checks and balances_ [:link:](https://upload.wikimedia.org/wikipedia/commons/5/55/Separation_of_Powers.jpg)
 	* Au sein de chaque pouvoir, d'autres formes de séparation : <span data-marpit-fragment="1">_bicéphalisme_ pour l'exécutif</span><span data-marpit-fragment="2">, _bicamérisme_ pour le législatif</span><span data-marpit-fragment="3">, _double degré de juridiction_ pour le judiciaire</span>
 3) **Hiérarchie des normes juridiques** [:link:](https://www.vie-publique.fr/infographie/23806-infographie-la-hierarchie-des-normes) <span data-marpit-fragment="1"> <br>bloc réglementaire < bloc législatif < bloc conventionnel & bloc constitutionnel</span>
-4) **Déclarations des droits humains**<br>Notamment : <span data-marpit-fragment="1">les grandes libertés politiques (droit de vote, liberté d'expression ...)</span><span data-marpit-fragment="2">, le droit de résistance à l'oppression</span><span data-marpit-fragment="3">, le droit d'asile</span>
+4) **Déclarations des droits humains** [:link:](https://raw.githubusercontent.com/eyssette/graphviz-examples/master/diagram/droits-humains-premiere-generation.svg)<br>Notamment : <span data-marpit-fragment="1">les grandes libertés politiques (droit de vote, liberté d'expression ...)</span><span data-marpit-fragment="2">, le droit de résistance à l'oppression</span><span data-marpit-fragment="3">, le droit d'asile</span>
 
 <!--
 https://www.vie-publique.fr/sites/default/files/styles/large_full/public/infographie/hierarchie-normes.png?itok=VBNBhE2A
