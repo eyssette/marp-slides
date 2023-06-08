@@ -12,17 +12,6 @@ Cédric Eyssette
 http://eyssette.github.io
 
 
----
-<!-- _class: definition-->
-
-### Définition
-
-- Au sens large, le **scepticisme** est une attitude de doute vis-à-vis de nos croyances et de nos prétendues certitudes.
-
----
-Le scepticisme se distingue du relativisme de la vérité : il ne rejette pas l'existence de la vérité, mais seulement la possibilité de la connaître.
-
-<span data-marpit-fragment="1">D'après le scepticisme, aucune certitude n'est possible, il n'y a que des croyances.</span>
 
 
 ---
@@ -30,34 +19,10 @@ Le scepticisme se distingue du relativisme de la vérité : il ne rejette pas l'
 # I - <br>Les arguments <br>en faveur <br>du doute <!-- fit -->
 Première partie
 
----
-<!-- _class: souspartie -->
-## A. Le doute <br>est possible
-
-
----
-<!-- _class:  -->
-
-1) Nos facultés (nos sens, notre mémoire, …) peuvent nous tromper : nous pouvons être dans l'illusion [:link:](https://docs.google.com/document/d/1k0PyEjEYlJVcNk23j-RAzZANood-5VWihYIhd9ERlJ8/edit)
-2) Il peut y avoir un désaccord entre différentes théories
-3) On peut imaginer un “scénario sceptique” dans lequel notre expérience est identique, mais ce qu'on croit vrai est faux
-
----
-<!-- _class: i1t1 vertical contain -->
-
-[![photogramme du film _Dark Star_ de John Carpenter : dialogue entre un homme et une bombe qui va exploser](https://i.ibb.co/PGrW6WP/dark-star-r.png)](https://ladigitale.dev/digiview/#/v/6481b0a8aa5fe)
-
-John Carpenter, _Dark Star_ (1974)
-<span style="font-size:1.7rem; margin-top:-5px; display:block;">(Cliquer sur l'image pour voir la vidéo)</span>
-
-<!-- 
-On pourrait imaginer que nous sommes en fait dans un rêve, ou dans un univers virtuel (comme dans le film _Matrix_).
--->
 
 ---
 <!-- _class: souspartie -->
-## B. Le doute <br>est nécessaire
-
+## A. Le doute <br>est nécessaire
 
 ---
 <!-- _class: citationC fmm -->
@@ -67,6 +32,39 @@ On pourrait imaginer que nous sommes en fait dans un rêve, ou dans un univers v
 >« Les “Lumières” se définissent comme la sortie de l'homme hors de l'état de tutelle dont il est lui-même responsable. L'état de tutelle est l'incapacité de se servir de son entendement sans être dirigé par un autre. Elle est due à notre propre faute lorsqu'elle résulte non pas d'une insuffisance de l'entendement, mais d'un manque de résolution et de courage pour s'en servir sans être dirigé par un autre. _Sapere aude !_ Aie le courage de te servir de ton propre entendement ! Telle est la devise des Lumières.
 >Paresse et lâcheté sont les causes qui expliquent qu'un si grand nombre d'hommes, alors que la nature les a affranchis depuis longtemps de toute tutelle étrangère, restent cependant volontiers, leur vie durant, mineurs; et qu'il soit si facile à d'autres de les diriger. Il est si commode d'être mineur. »
 >>**Kant**, _Qu'est-ce que les Lumières ?_
+
+---
+<!-- _class: souspartie -->
+## B. Le doute <br>est possible
+
+
+---
+<!-- _class: definition-->
+
+### Définition
+
+* Le **scepticisme** affirme que l'on peut douter de la vérité de nos croyances
+* Il ne rejette pas l'existence de la vérité, mais seulement la possibilité de la connaître.
+
+---
+<!-- _class:  -->
+
+1) Nos facultés (nos sens, notre mémoire, …) peuvent nous tromper : nous pouvons être dans l'illusion [:link:](https://docs.google.com/document/d/1k0PyEjEYlJVcNk23j-RAzZANood-5VWihYIhd9ERlJ8/edit)
+2) Il peut y avoir un désaccord entre différentes théories
+3) On peut imaginer un “scénario sceptique” dans lequel notre expérience est identique, mais ce qu'on croit vrai est faux
+
+<!-- 
+On pourrait imaginer que nous sommes en fait dans un rêve, ou dans un univers virtuel (comme dans le film _Matrix_).
+-->
+
+---
+<!-- _class: i1t1 vertical contain -->
+
+[![photogramme du film _Dark Star_ de John Carpenter : dialogue entre un homme et une bombe qui va exploser](https://i.ibb.co/PGrW6WP/dark-star-r.png)](https://ladigitale.dev/digiview/#/v/6481b0a8aa5fe)
+
+John Carpenter, _Dark Star_ (1974)
+<span style="font-size:1.7rem; margin-top:-5px; display:block;">(Cliquer sur l'image pour voir la vidéo)</span>
+
 
 ---
 <!-- _class: partie -->
@@ -135,6 +133,7 @@ La démarche scientifique consiste à faire des hypothèses qui conduisent à de
 
 <span data-marpit-fragment="2"><u>Exemple</u> : l'effet Barnum</span>
 
+<!-- Le doute est nécessaire face à des hypothèses qui ne conduisent pas à des explications et des prédictions précises / Le doute n'est pas légitime s'il est issu d'une hypothèse vague -->
 
 ---
 <!-- _class: fpppppppp -->
@@ -143,3 +142,6 @@ La démarche scientifique consiste à accepter la **confrontation** avec l'expé
 <span data-marpit-fragment="1">≠ refuser la critique (p.ex. en se présentant comme un génie incompris ou en interprétant la critique comme un signe de la vérité de sa théorie)</span>
 
 <span data-marpit-fragment="2">≠ ne pas prendre en compte les données observées</span>
+
+
+<!-- Le doute est nécessaire face aux théories qui ne se confrontent pas avec l'expérience et la communauté scientifique, mais le doute n'est pas légitime s'il conduit à ne pas se confronter avec l'expérience ou la communauté scientifique -->
