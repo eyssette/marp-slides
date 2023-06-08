@@ -215,6 +215,9 @@ Cependant : même l'égalité réelle des chances peut conduire à de fortes in�
 
 ---
 <!-- _class: fp -->
+<style scoped>
+h3 {margin-bottom:0}
+</style>
 
 ### Différentes propositions
 
@@ -226,3 +229,25 @@ Cependant : même l'égalité réelle des chances peut conduire à de fortes in�
 <!-- _class: souspartie -->
 ## B. La reconnaissance
 
+---
+<!-- _class: i1t1 horizontal   -->
+Un constat : l'existence d'une autre forme d'injustice = **les injustices culturelles**
+
+[![](https://fr.web.img3.acsta.net/pictures/14/07/02/16/01/158254.jpg)](https://drive.google.com/open?id=1Qkvs8IxFsv_6AkFgsXGueudU_3vlZKRI)
+
+
+---
+<!-- _class: fpppppp -->
+<style scoped>
+h3 {margin-bottom:0}
+ol ul {margin-left:-1em}
+</style>
+
+### Différentes formes :
+
+1) Domination culturelle
+	* &rArr; invisibilisation, absence de représentation des minorités
+2) Mépris
+	* Violence symbolique (dévalorisation, stigmatisation, stéréotypes infériorisants)
+	* Marginalisation : mise à l'écart
+	* Violence physique
