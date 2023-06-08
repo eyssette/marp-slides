@@ -7,7 +7,7 @@ size: 4:3
 
 <!-- _class: titre -->
 
-# Q1 – Peut-on <br>dire : « à chacun <br>sa vérité » ? <!-- fit -->
+# Q1a – Peut-on <br>dire : « à chacun <br>sa vérité » ? <!-- fit -->
 Cédric Eyssette
 http://eyssette.github.io
 

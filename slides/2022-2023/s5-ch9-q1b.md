@@ -7,7 +7,7 @@ size: 4:3
 
 <!-- _class: titre -->
 
-# Q2 – <br>Faut-il douter<br> de tout ? <!-- fit -->
+# Q1b – <br>Faut-il douter<br> de tout ? <!-- fit -->
 Cédric Eyssette
 http://eyssette.github.io
 
