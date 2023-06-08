@@ -76,7 +76,9 @@ ol ul {margin-left:-0.75em}
 Laisser faire -> abandonner, délaisser
 
 2) 
-
+On pourrait aussi interroger la poursuite de l'accumulation des richesses d'un point de vue moral, éthique
+(cf. les critiques antiques de la richesse)
+vertu / vice moral
 -->
 
 
@@ -204,14 +206,14 @@ h3 {margin-top:0}
 La méritocratie suppose que la réussite est purement attribuable à l'individu. <span data-marpit-fragment="1">Pour véritablement lutter contre le déterminisme social, il faudrait garantir une **égalité réelle des chances**.</span>
 
 ### Définition
-Il y a **égalité réelle des chances** quand on compense les inégalités de départ pour que chacun parte avec réellement les mêmes chances d'accéder aux différentes places sociales.
+<span data-marpit-fragment="2">Il y a **égalité réelle des chances** quand on compense les inégalités de départ pour que chacun parte avec réellement les mêmes chances d'accéder aux différentes places sociales.</span>
 
 
 ---
 <!-- _class:  -->
 Cependant : même l'égalité réelle des chances peut conduire à de fortes inégalités à l'arrivée entre les différentes places sociales.
 
-- Les inégalités entre les places sociales sont-elles justifiées ?
+* Les inégalités entre les places sociales sont-elles justifiées ?
 
 ---
 <!-- _class: fp -->
@@ -221,9 +223,9 @@ h3 {margin-bottom:0}
 
 ### Différentes propositions
 
-1) **Le suffisantisme** : les inégalités entre les places sociales ne sont justifiées que si on garantit un niveau suffisant de ressources et de libertés réelles pour tout le monde.
-2) **Rawls** : les inégalités entre les places sociales ne sont justifiées que si elles sont nécessaires pour assurer un progrès social et améliorer la situation de tous et surtout des plus défavorisés.
-3) **L'égalitarisme radical** : les inégalités entre les places sociales ne sont pas justifiées, il faut les supprimer.
+1) **Le suffisantisme** : <span data-marpit-fragment="1">les inégalités entre les places sociales ne sont justifiées que si on garantit un niveau suffisant de ressources et de libertés réelles pour tout le monde.</span>
+2) **Rawls** : <span data-marpit-fragment="2">les inégalités entre les places sociales ne sont justifiées que si elles sont nécessaires pour assurer un progrès social et améliorer la situation de tous et surtout des plus défavorisés.</span>
+3) **L'égalitarisme radical** : <span data-marpit-fragment="3">les inégalités entre les places sociales ne sont pas justifiées, il faut les supprimer.</span>
 
 ---
 <!-- _class: souspartie -->
