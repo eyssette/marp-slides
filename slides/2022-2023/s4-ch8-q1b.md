@@ -129,6 +129,13 @@ La politique est-elle l’affaire de tous ?
 Deuxième partie
 
 ---
+<!-- _class: definition -->
+
+### Définition
+
+Le **libéralisme politique** défend les libertés politiques et les droits contre l'arbitraire du pouvoir. Il s'oppose à tout pouvoir absolu ou autoritaire.
+
+---
 <!-- _class:  -->
 ![bg](https://upload.wikimedia.org/wikipedia/commons/d/d1/JohnLocke.png)
 
@@ -136,8 +143,12 @@ Deuxième partie
 
 
 ---
-<!-- _class:  -->
-L'État, pour Locke, a pour finalité de préserver non pas simplement la sécurité, mais la liberté des individus, c'est-à-dire la possibilité de disposer de soi et de ses biens sans interférence arbitraire.
+
+Les lois ≠ un obstacle à la liberté
+<span data-marpit-fragment="1">= une condition de la liberté</span>
+
+<span data-marpit-fragment="2">Car : elles font obstacle à ce qui fait obstacle à la liberté.</span>
+<span data-marpit-fragment="3">Elles empêchent que les autres m'empêchent d'être libre.</span>
 
 ---
 <!-- _class: citationC -->
@@ -145,36 +156,31 @@ L'État, pour Locke, a pour finalité de préserver non pas simplement la sécur
 >« Là où il n'y a pas de loi, il n'y a pas de liberté. Car la liberté consiste à être délivré de la contrainte et de la violence exercées par autrui, ce qui ne peut être lorsqu'il n'y a point de loi »
 >>John **Locke**, _Second traité du gouvernement_, chap. 6, §57
 
----
-Les lois légitimes ne sont pas un obstacle à la liberté, mais une condition de la liberté, car elles font obstacle à ce qui fait obstacle à la liberté : elles empêchent que les autres m'empêchent d'être libre.
-
-<!--
-Lois parfois vu comme un obstacle à la liberté
-ici : une condition de la liberté
-//Kant : il faut faire obstacle à ce qui fait obstacle à la liberté
--->
 
 ---
 <!-- _class:  -->
 
-Cependant le pouvoir de l'État pourrait interférer de manière arbitraire dans l'existence des individus.
+Or : le pouvoir de l'État pourrait interférer de manière arbitraire dans l'existence des individus.
 
-<span data-marpit-fragment="1">Il faut donc aussi soumettre l'État à des lois qui encadrent l'exercice du pouvoir et protègent les individus contre l'arbitraire : c’est ce qu’on appelle **l’État de droit**, qui s'oppose au pouvoir absolu. L'État n'a pas tous les droits.</span>
+<span data-marpit-fragment="1">Donc : il faut soumettre l'État à des lois qui encadrent l'exercice du pouvoir et protègent les individus contre l'arbitraire</span>
+
+<span data-marpit-fragment="2">C’est ce qu’on appelle **l’État de droit**. L'État n'a pas tous les droits (≠ pouvoir absolu).</span>
 
 
 ---
-<!-- _class: fmmm -->
+<!-- _class: fmmmm -->
 <style scoped>
 h3{margin-bottom:0}
-ol{margin-top:0.2em}
+ol{margin-top:0.2em; margin-left:1em}
+ol ul {margin-left:-0.5em; margin-bottom:0.5em;margin-top:-0.2em}
 </style>
 ### Exemples :
 
-1) L'interdiction de la détention arbitraire : _Magna Carta_ (1215), _Habeas Corpus_ (1679)
-2) La séparation des trois pouvoirs : <span data-marpit-fragment="1">législatif, exécutif, judiciaire</span>
-3) Au sein de chaque pouvoir, d'autres formes de séparation : <span data-marpit-fragment="1">bicéphalisme pour l'exécutif</span><span data-marpit-fragment="2">, bicamérisme pour le législatif</span><span data-marpit-fragment="3">, double degré de juridiction pour le judiciaire</span>
-3) [La hiérarchie des normes juridiques](https://www.vie-publique.fr/infographie/23806-infographie-la-hierarchie-des-normes) <span data-marpit-fragment="1"> : bloc réglementaire < bloc législatif < bloc conventionnel & bloc constitutionnel</span>
-4) Les déclarations des droits humains, et notamment : <span data-marpit-fragment="1">les grandes libertés politiques (droit de vote, liberté d'expression ...)</span><span data-marpit-fragment="2">, le droit de résistance à l'oppression</span><span data-marpit-fragment="3">, le droit d'asile</span>
+1) **Interdiction de la détention arbitraire** :<br>_Magna Carta_ (1215), _Habeas Corpus_ (1679)
+2) **Séparation des trois pouvoirs** <span data-marpit-fragment="1">(législatif, exécutif, judiciaire)</span>
+	* Au sein de chaque pouvoir, d'autres formes de séparation : <span data-marpit-fragment="1">_bicéphalisme_ pour l'exécutif</span><span data-marpit-fragment="2">, _bicamérisme_ pour le législatif</span><span data-marpit-fragment="3">, _double degré de juridiction_ pour le judiciaire</span>
+3) **Hiérarchie des normes juridiques** [:link:](https://www.vie-publique.fr/infographie/23806-infographie-la-hierarchie-des-normes) <span data-marpit-fragment="1"> <br>bloc réglementaire < bloc législatif < bloc conventionnel & bloc constitutionnel</span>
+4) **Déclarations des droits humains**<br>Notamment : <span data-marpit-fragment="1">les grandes libertés politiques (droit de vote, liberté d'expression ...)</span><span data-marpit-fragment="2">, le droit de résistance à l'oppression</span><span data-marpit-fragment="3">, le droit d'asile</span>
 
 <!--
 https://www.vie-publique.fr/sites/default/files/styles/large_full/public/infographie/hierarchie-normes.png?itok=VBNBhE2A
