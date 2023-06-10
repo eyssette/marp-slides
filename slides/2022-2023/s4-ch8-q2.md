@@ -213,7 +213,26 @@ La méritocratie suppose que la réussite est purement attribuable à l'individu
 <!-- _class:  -->
 Cependant : même l'égalité réelle des chances peut conduire à de fortes inégalités à l'arrivée entre les différentes places sociales.
 
-* Les inégalités entre les places sociales sont-elles justifiées ?
+* Ces inégalités sont-elles justifiées ?
+* Pourrait-on proposer un revenu horaire identique quel que soit le métier ?
+
+---
+<!-- _class: fmm -->
+Le plus souvent, les inégalités entre places sociales sont justifiées par :
+
+1) La difficulté, la pénibilité du travail
+2) Les compétences, le niveau de qualification
+3) Les efforts, l'investissement personnel
+4) L'utilité économique
+5) L'utilité sociale
+6) Les responsabilités
+…
+
+**Mais :** 
+1) Si on accepte ces critères, comment les hiérarchiser ?
+2) Quelles inégalités ces critères justifient-ils ?
+
+
 
 ---
 <!-- _class: fp -->
@@ -251,5 +270,5 @@ ol ul {margin-left:-1em}
 	* &rArr; invisibilisation, absence de représentation des minorités
 2) Mépris
 	* Violence symbolique (dévalorisation, stigmatisation, stéréotypes infériorisants)
-	* Marginalisation : mise à l'écart
+	* Marginalisation (mise à l'écart), discriminations
 	* Violence physique
