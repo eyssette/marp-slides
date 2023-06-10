@@ -174,6 +174,12 @@ Contre les inégalité socio-économiques de départ, une société juste doit g
 ### Définition
 <span data-marpit-fragment="1">Il y a **égalité formelle des chances** quand les places sociales ne sont pas réservées à un groupe particulier mais ouvertes à tout le monde, et que la sélection se fonde sur les compétences des individus.</span>
 
+<!-- 
+=> Lutte contre les discriminations
+concours anonyme
+Exemple : CV anonyme (testing / discriminations)
+-->
+
 ---
 <!-- _class: definition fppp -->
 <style scoped>
@@ -207,6 +213,12 @@ La méritocratie suppose que la réussite est purement attribuable à l'individu
 
 ### Définition
 <span data-marpit-fragment="2">Il y a **égalité réelle des chances** quand on compense les inégalités de départ pour que chacun parte avec réellement les mêmes chances d'accéder aux différentes places sociales.</span>
+
+<!-- 
+Exemple insuffisance de la méritocratie : classes prépa, sciences-po (égalité formelle, mais pas égalité réelle)
+
+Notion d'équité
+-->
 
 
 ---
@@ -246,6 +258,12 @@ h3 {margin-bottom:0}
 2) **Rawls** : <span data-marpit-fragment="2">les inégalités entre les places sociales ne sont justifiées que si elles sont nécessaires pour assurer un progrès social et améliorer la situation de tous et surtout des plus défavorisés.</span>
 3) **L'égalitarisme radical** : <span data-marpit-fragment="3">les inégalités entre les places sociales ne sont pas justifiées, il faut les supprimer.</span>
 
+<!-- 
+Exemples :
+Pour le suffisantisme
+le revenu universel, revenu d'existence, revenu minimum garanti
+-->
+
 ---
 <!-- _class: souspartie -->
 ## B. La reconnaissance
@@ -255,6 +273,13 @@ h3 {margin-bottom:0}
 Un constat : l'existence d'une autre forme d'injustice = **les injustices culturelles**
 
 [![](https://fr.web.img3.acsta.net/pictures/14/07/02/16/01/158254.jpg)](https://drive.google.com/open?id=1Qkvs8IxFsv_6AkFgsXGueudU_3vlZKRI)
+
+
+---
+<!-- _class: definition fpppp-->
+### Définition
+* Les **injustices culturelles** sont les injustices qui reposent sur des représentations sociales associées à un groupe particulier de personnes
+* **Exemples :** les injustices subies en raison de représentations sexistes, racistes, homophobes, transphobes …
 
 
 ---
@@ -272,3 +297,8 @@ ol ul {margin-left:-1em}
 	* Violence symbolique (dévalorisation, stigmatisation, stéréotypes infériorisants)
 	* Marginalisation (mise à l'écart), discriminations
 	* Violence physique
+
+
+---
+<!-- _class:  -->
+Par opposition, la reconnaissance est une forme de réaffirmation des minorités au niveau des représentations et dans leurs droits.
