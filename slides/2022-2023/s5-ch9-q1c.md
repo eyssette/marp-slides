@@ -167,7 +167,7 @@ Les phonèmes permettent de constituer des morphèmes : “inacceptables” se d
 
 ---
 <!-- _class:  -->
-Les morphèmes permettent de constituer des mots et des phrases constitués de ces mots.
+Les morphèmes permettent de constituer des mots et des phrases constituées de ces mots.
 
 On arrive ainsi à l'idée de **productivité du langage** (voir la diapositive suivante) qui justifie le principe d'exprimabilité.
 
