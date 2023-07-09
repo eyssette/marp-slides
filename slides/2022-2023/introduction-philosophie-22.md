@@ -542,7 +542,7 @@ Or mobiliser ses connaissances permet d'enrichir sa réflexion.
 |<span data-marpit-fragment="1">Analyser</span>|<span data-marpit-fragment="2">Qu'est-ce que cela veut dire ?</span>|<span data-marpit-fragment="3">:large_blue_circle:</span>|
 |<span data-marpit-fragment="4">Problématiser</span>|<span data-marpit-fragment="5">Est-ce si simple ?</span>|<span data-marpit-fragment="6">:red_circle:</span>|
 |<span data-marpit-fragment="7">Argumenter</span>|<span data-marpit-fragment="8">Qu'est-ce qui permet de dire cela ?</span>|<span data-marpit-fragment="9">:green_circle:</span>|
-|<span data-marpit-fragment="10">Mobiliser ses connaissances</span>|<span data-marpit-fragment="11">Comment approfondir ?</span>|<span data-marpit-fragment="1é">:yellow_circle:</span>|
+|<span data-marpit-fragment="10">Mobiliser ses connaissances</span>|<span data-marpit-fragment="11">Comment approfondir ?</span>|<span data-marpit-fragment="12">:yellow_circle:</span>|
 
 </div>
 
