@@ -18,6 +18,11 @@
 			"linux": {"command": "brave ${file}"},
 			"osx": {"command": "open -a Brave\\ Browser ${file}"},
 			"group": "test"
+		},
+		{
+			"label": "Create RAW MD",
+			"type": "shell",
+			"osx": {"command": "python3 md-raw.py ${file}"}
 		}
 	]
 }
