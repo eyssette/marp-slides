@@ -22,6 +22,7 @@
 		{
 			"label": "Create RAW MD",
 			"type": "shell",
+			"linux": {"command": "python3 md-raw.py ${file}"},
 			"osx": {"command": "python3 md-raw.py ${file}"}
 		}
 	]
