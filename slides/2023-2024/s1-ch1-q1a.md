@@ -332,8 +332,7 @@ DEUXIÈME PARTIE
 </div>
 
 ---
-<!-- _class: citationC fpp -->
-<!-- _class: citationC fpppp -->
+<!-- _class: citationC fppp -->
 <style scoped>
 .comment {background:rgba(0, 0, 0, 0.8); display: flex; justify-content: center; align-items: center; position:absolute; height:100%; width:100%}
 .comment ol {list-style-type:none; background:white; border:1px solid black; border-radius:30px; width:370px; padding:30px; font-size:0.8em}
