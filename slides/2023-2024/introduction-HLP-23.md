@@ -536,15 +536,30 @@ ol {margin-top:0}
 
 
 ---
-<!-- _class:  -->
+<!-- _class: pp -->
 <style scoped>
-section {font-size:4.5em; padding-left:40px; padding-top:1em}
-ol {list-style-type:disc; margin:20px;}
+ol {list-style-type:none!important; margin-left:80px}
+ol li {
+  width: 700px;
+  height: 700px;
+  line-height: 120px;
+  border-radius: 50%;
+  font-size: 50px;
+  color: white;
+  font-weight: bold;
+  text-align: center;
+}
+ol li {position:absolute; top:10px}
+ol li:nth-of-type(1) {background-color: #2E4053}
+ol li:nth-of-type(2) {background-color: #020024; width:510px; height:510px; margin:100px; line-height: 130px; font-size:0.9em}
+ol li:nth-of-type(3) {background-color: #14145e; width:290px; height:290px; margin:210px; line-height: 80px; font-size:0.8em}
+ol li:nth-of-type(4) {background-color: #8786c6; width:140px; height:140px; margin:280px; line-height: 120px; font-size:0.6em}
 </style>
-1) Semestres
-	1) Séquences
-		1) Chapitres
-			1) Questions
+
+1. Semestre
+2. <span data-marpit-fragment="1">Séquence</span>
+3. <span data-marpit-fragment="2">Chapitre</span>
+4. <span data-marpit-fragment="3">Question</span>
 
 ---
 <!-- _class: souspartie -->
