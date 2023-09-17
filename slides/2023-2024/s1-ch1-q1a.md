@@ -116,7 +116,7 @@ ul {margin-top:-50px!important}
 </style>
 ### Point Méthode
 
-* Il faut **utiliser** la référence pour répondre à la question (:warning: Attention au lien avec le sujet).
+* Il faut **utiliser** la référence pour répondre à la question (:warning: au lien avec le sujet).
 * Il faut **justifier** la référence : ce n'est pas parce que l'auteur l'a dit que c'est vrai.
 
 ---
@@ -181,9 +181,8 @@ Le bonheur exige davantage : ce n'est pas seulement une expérience ici, mainten
 ul{padding-top:10px;}
 </style>
 :large_blue_circle:  Il y a plusieurs **stratégies** pour analyser une notion, notamment :
-- partir d'**exemples**
-- trouver une **opposition** ou une **distinction**
-
+* partir d'**exemples**
+* trouver une **opposition** ou une **distinction**
 
 ---
 <!-- _class: citationC -->
@@ -225,14 +224,10 @@ ol{font-size:95%; margin-top:-5px!important; padding-left:0!important; margin-le
 |*5* un concept <br>précis et clair|*2* une image <br>vague et confuse|
 |*3* une méthode<br>infaillible|*6* une projection incertaine qui n'est pas<br> à l'abri de la déception|
 
-<!-- Conclusion / Kant : pas de conception normative du bonheur.
-Pas de paternalisme. Les autres ne peuvent pas prétendre savoir ce que je dois faire pour parvenir au bonheur.
-Mais spécificité de la thèse de Kant : moi non plus ! D'après Kant, je ne sais pas pour-moi-même ce qu'est le bonheur.
-On ne sait pas vraiment ce qu'on veut.
-
-La déception est toujours possible.
-Attention : il ne s'agit pas de la déception de ne pas être parvenu à son objectif.
-Il s'agit d'une déception éprouvée alors qu'on est parvenu à son objectif. -->
+<!-- 
+Ajouter un PM sur la notion de pertinence ?
+Chercher la spécificité, la radicalité ≠ ce qu'on pense d'ordinaire
+-->
 
 
 
@@ -331,6 +326,9 @@ DEUXIÈME PARTIE
 
 </div>
 
+<!-- Cette réflexion sur soi ne se fait pas nécessairement tout seul.
+Importance de la discussion + d'un modèle -->
+
 ---
 <!-- _class: citationC fppp -->
 <style scoped>
@@ -347,33 +345,26 @@ DEUXIÈME PARTIE
 <div class="comment" data-marpit-fragment="1">
 
 1) L'obstacle principal au bonheur se situe dans notre affectivité <span>(émotions, craintes, désirs …)</span>
-1) La sagesse = une vie guidée par la raison ≠ soumise à nos affects
+1) La sagesse = une vie guidée par la raison (en tant que réflexion sur soi) ≠ soumise à nos affects
 1) = une forme de thérapie de l'âme <span>(rétablir un équilibre intérieur, chasser les troubles de notre esprit)</span>
 
 </div>
 
-<!-- L'obstacle principal au bonheur se situe dans notre affectivité (émotions, sentiments, craintes, désirs …).
-La sagesse : une vie guidée par la raison ≠ soumise à nos affects
-La sagesse : une forme de thérapie de l'âme.
-	- rétablir un équilibre intérieur
-	- chasser les troubles de notre esprit
-
-=> mais est-ce possible ? Transition vers la question suivante / le désir insatiable, le désir qui nous fait souffrir, la possibilité de maîtriser ses désirs -->
-
-<!-- 
-En définitive : une conception normative du bonheur
-Mais pas de paternalisme : c'est à chacun de réfléchir à son existe
-La sagesse repose sur un questionnement à avoir par soi-même, à propos de soi-même  -->
-
-<!-- !TODO : Ajouter un exemple à cette partie (notamment pour qu'il soit mobilisable lors de la mise en pratique avec ARES)
-GroundHog Day ?
-https://film-cred.com/groundhog-day-harold-ramis-bill-murray-philopsophy/
-https://nepascene.com/2021/02/how-philosophy-groundhog-day-can-help-us-through-pandemic-times/#:~:text=As%20a%20scholar%20of%20communication,us%20a%20lesson%20in%20mindfulness  -->
-
+<!-- Modèle de la santé : théorie des humeurs, équilibre / saignée pour évacuer le mal … -->
 
 ---
-<!-- _class: i1t0 pm -->
-![](https://images-na.ssl-images-amazon.com/images/I/81cn6SOOq8L.jpg)
+<!-- _class: i1t1 horizontal -->
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Eug%C3%A8ne_Ferdinand_Victor_Delacroix_031.jpg/1920px-Eug%C3%A8ne_Ferdinand_Victor_Delacroix_031.jpg)
+
+L'histoire de Médée
+
+<!-- 
+Médée : passion amoureuse pour Jason
+fratricide
+régicide
+infanticide
+-->
 
 ---
 <!-- _class: partie -->
@@ -423,4 +414,6 @@ Approfondissement
 3. Consulter ce lien sur [le bonheur comme norme sociale et économique](https://docs.google.com/document/d/1Bo9T9oGNag4bkaGGVzyd5i-DDI19vf0smo-qq60H0_M/edit?usp=sharing)
 3. Lire le livre [Happycratie d'Eva Illouz](https://laviedesidees.fr/Bonheur-obligatoire.html), ou bien seulement des extraits sélectionnés (me les demander)
 4. Découvrir l'[analyse critique du développement personnel par Julia de Funès](https://www.arte.tv/fr/videos/092170-010-A/philosophie/)
- -->
+
+La notion de mesure du bonheur, de science du bonheur
+-->
