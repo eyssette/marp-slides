@@ -353,18 +353,13 @@ Importance de la discussion + d'un modèle -->
 <!-- Modèle de la santé : théorie des humeurs, équilibre / saignée pour évacuer le mal … -->
 
 ---
-<!-- _class: i1t1 horizontal -->
+<!-- _class: i1t1 horizontal contain -->
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Eug%C3%A8ne_Ferdinand_Victor_Delacroix_031.jpg/1920px-Eug%C3%A8ne_Ferdinand_Victor_Delacroix_031.jpg)
+[![](https://static.wikia.nocookie.net/wikidoublage/images/5/53/Un_jour_sans_fin_-_Affiche_fran%C3%A7aise.jpg/revision/latest?cb=20220804221808&path-prefix=fr)](https://ladigitale.dev/digiview/#/v/65078b5456033)
 
-L'histoire de Médée
+Le film : <br>_Un jour sans fin_
 
-<!-- 
-Médée : passion amoureuse pour Jason
-fratricide
-régicide
-infanticide
--->
+<!--  https://www.youtube.com/watch?v=75foOdIsRh8 -->
 
 ---
 <!-- _class: partie -->
