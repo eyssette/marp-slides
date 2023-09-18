@@ -365,24 +365,8 @@ Le film : <br>_Un jour sans fin_
 <!-- _class: partie -->
 # Mise en pratique
 
-
 ---
-<!-- _class: pointmethode fppp -->
-<style scoped>
-h3{margin-bottom:60px!important}
-img {height:300px; float:left; margin-right:80px; margin-left:25px; margin-top:20px}
-</style>
-### Point méthode
-
-Pour structurer un paragraphe, on peut utiliser le modèle **ARES** :
-![Dessin qui représente le dieu de la guerre Arès](../images/ares-greek-god.jpg)
-–  A : Argumentation-Analyse
-–  R : Référence théorique
-–  E : Exemple concret
-–  S : Synthèse
-
----
-<!-- _class: exercice application f -->
+<!-- _class: exercice application f pm -->
 <style scoped>
 h3 {margin-bottom:10px}
 span {font-size:90%}
@@ -396,10 +380,18 @@ span {font-size:90%}
 	- Le bonheur dépend-il de nous ?
 	- Le bonheur peut-il s’apprendre ?
 	- La réflexion est-elle un obstacle au bonheur ?
-- Rédiger une sous-partie de dissertation <span>(un paragraphe de 200 mots minimum)</span>.
-	- :warning: Il faut développer une seule réponse et utiliser soit Kant, soit les sagesses antiques.
-	- :warning: Il faut utiliser le modèle _ARES_
+- Quelle serait la réponse de Kant ou des sagesses antiques à cette question ?
 
+
+
+---
+<!-- _class: pointmethode fpppp-->
+<style scoped>
+ul {margin-top:-50px}
+</style>
+
+### Point méthode
+Pour réfléchir à un sujet, il faut toujours partir du sujet lui-même mais on peut aussi s'aider du cours pour trouver des idées.
 
 
 <!-- 
