@@ -532,6 +532,21 @@ Vous pouvez lire un [document à propos de la simplicité volontaire](https://do
 # Mise en pratique
 
 ---
+<!-- _class: pointmethode fppp -->
+<style scoped>
+h3{margin-bottom:60px!important}
+img {height:300px; float:left; margin-right:80px; margin-left:25px; margin-top:20px}
+</style>
+### Point méthode
+
+Pour structurer un paragraphe, on peut utiliser le modèle **ARES** :
+![Dessin qui représente le dieu de la guerre Arès](../images/ares-greek-god.jpg)
+–  A : Argumentation-Analyse
+–  R : Référence théorique
+–  E : Exemple concret
+–  S : Synthèse
+
+---
 <!-- _class: exercice application fmmmm -->
 <style scoped>
 h3 {margin-bottom:10px}
