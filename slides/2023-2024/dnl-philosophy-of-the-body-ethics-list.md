@@ -31,7 +31,7 @@ ol li {margin-left:60px; }
 1) dietary restrictions for religious or ethical reasons
 1) choosing not to eat
 1) refusing medical treatment
-1) plastic sugery
+1) plastic surgery
 1) organ donation
 1) using the body after death
 1) abortion
