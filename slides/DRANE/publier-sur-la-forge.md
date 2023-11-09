@@ -45,7 +45,7 @@ section {background-image: linear-gradient(to right, #000, #fff)}
 div:nth-of-type(1){position:absolute; color:#EEE; left:60px}
 ul li {margin-bottom:0.1em}
 div:nth-of-type(2) {position:absolute; color:#EEE; right:30px; color:black; top:30px; font-weight:600!important; width:426px}
-h2 {width:400px; text-align:left}
+h2 {width:410px; text-align:left}
 header img {padding:0px 5px; background:white; margin-left:-5px}
 header img {opacity:0.4}
 </style>
@@ -76,7 +76,7 @@ header img {opacity:0.4}
 
 ---
 <style scoped>
-div:nth-of-type(1){position:absolute; left:40px; top:60px; width:370px}
+div:nth-of-type(1){position:absolute; left:40px; top:60px; width:386px}
 ul li {margin-bottom:0.1em; font-size:0.9em}
 div:nth-of-type(2) {position:absolute; right:30px; top:70px; width:400px}
 h2 {width:400px; text-align:left; font-size:1.4em}
