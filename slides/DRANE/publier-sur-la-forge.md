@@ -11,7 +11,7 @@ h2 {position:absolute; top:60px; left:200px; width:100%; text-align:left;}
 h3 {position:absolute; top:120px; left:300px; width:100%; text-align:left;}
 p {top:36%; left:32%}
 div:nth-of-type(1){position:absolute; left:45px; top:250px; width:365px}
-ul li {margin-bottom:0.1em}
+ul li {margin-bottom:0.1em; list-style-type: none; margin-left:-10px; font-size:0.9em}
 div:nth-of-type(2) {position:absolute; right:50px; top:260px; width:350px}
 </style>
 
@@ -20,11 +20,11 @@ div:nth-of-type(2) {position:absolute; right:50px; top:260px; width:350px}
 
 <div>
 
-- sites web
-- diaporamas
-- cartes mentales
-- exercices
-- bases de données
+- 🌐 sites web
+- 🎬 diaporamas
+- 🧠 cartes mentales
+- 📝 exercices
+- 🗄️ bases de données
 
 </div>
 
@@ -32,9 +32,9 @@ div:nth-of-type(2) {position:absolute; right:50px; top:260px; width:350px}
 
 <div>
 
-- outils éducatifs en ligne
-- moteur de recherche personnalisé
-- chatbot …
+- 🛠️ outils éducatifs en ligne
+- 🔍 moteur de recherche personnalisé
+- 🤖 chatbot …
 
 
 </div>
