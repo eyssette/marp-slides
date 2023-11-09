@@ -81,6 +81,9 @@ ul li {margin-bottom:0.1em; font-size:0.9em}
 div:nth-of-type(2) {position:absolute; right:30px; top:70px; width:400px}
 h2 {width:400px; text-align:left; font-size:1.4em}
 p {top:27%; left:31.5%}
+img[alt*="komit"] {height:300px; position:absolute;}
+img:nth-of-type(1) {margin-left:-70px}
+img:nth-of-type(2) {margin-left:50px!important}
 </style>
 
 <div>
@@ -93,6 +96,8 @@ p {top:27%; left:31.5%}
 
 </div>
 
+![komit fête](https://forge.aeif.fr/lium/masquotte-castor-forge/-/raw/main/komit_fete.svg)
+![komit fête](https://forge.aeif.fr/lium/masquotte-castor-forge/-/raw/main/komit_fete.svg)
 ![komit fête](https://forge.aeif.fr/lium/masquotte-castor-forge/-/raw/main/komit_fete.svg)
 
 <div>
