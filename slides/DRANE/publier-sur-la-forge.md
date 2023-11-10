@@ -7,104 +7,37 @@ footer: Image CC BY - Iza Marfisi, Bertrand Marne et Alexandra Freitas-Alves
 ---
 
 <style scoped>
-h2 {position:absolute; top:60px; left:200px; width:100%; text-align:left;}
-h3 {position:absolute; top:120px; left:300px; width:100%; text-align:left;}
-p {top:36%; left:32%}
-div:nth-of-type(1){position:absolute; left:45px; top:250px; width:365px}
-ul li {margin-bottom:0.1em; list-style-type: none; margin-left:-10px; font-size:0.9em}
-div:nth-of-type(2) {position:absolute; right:50px; top:260px; width:350px}
+h2 {position:absolute; top:0px; left:400px; font-size:1.4em}
+h3 {position:absolute; font-size:36px; left:35%; z-index:1}
+ul {columns:2; margin-top:70px; margin-left:-70px}
+ul li {width:650px; height:180px; background-color:white; list-style-type:none;}
+li img {max-height:180px; width:500px}
 </style>
 
-## Publier sur la forge :
-### des possibilités multiples !
-
-<div>
-
-- 🌐 sites web
-- 🎬 diaporamas
-- 🧠 cartes mentales
-- 📝 exercices
-- 🗄️ bases de données
-
-</div>
-
-![komit potterie](https://forge.aeif.fr/lium/masquotte-castor-forge/-/raw/main/potterie_komit.svg)
-
-<div>
-
-- 🛠️ outils éducatifs en ligne
-- 🔍 moteur de recherche personnalisé
-- 🤖 chatbot …
-
-
-</div>
-
----
-<style scoped>
-h2 {position:absolute; top:0; left:400px}
-h3 {position:absolute; font-size:28px; left:37%; z-index:1}
-ul {columns:2; margin-top:70px; margin-left:-80px}
-ul li {width:600px; height:200px; background-color:white; list-style-type:none;}
-li img {max-height:200px}
-</style>
-
-## Publier sur la forge :
+## Publier sur la forge
 ### des <br>possibilités <br>multiples !
 
-- ![](https://minio.apps.education.fr/codimd-prod/uploads/upload_6b32a134f78a69e2529c4b97b30fb444.png)
-- carte mentale
-- base de données<br>de sujet (NSI, maths, philo)
-- Exercice de maths
-- Flashmots
-- Chatbot
+- ![](https://minio.apps.education.fr/codimd-prod/uploads/upload_df350c5f66766eab70af0f87141e46e3.png)
+- ![](https://minio.apps.education.fr/codimd-prod/uploads/upload_bfd730a0711f70a94b8c72307d7187de.png)
+- ![](https://minio.apps.education.fr/codimd-prod/uploads/upload_60528786f295a82db838250f309ffe1d.png)
+- ![](https://minio.apps.education.fr/codimd-prod/uploads/upload_824fd686d930657d2736e96aa60813c2.png)
+- ![](https://minio.apps.education.fr/codimd-prod/uploads/upload_0486f1e1f30f9eab07fe752189acde82.png)
+- ![](https://minio.apps.education.fr/codimd-prod/uploads/upload_798bf54d6a8fc470539324f7912fcbb9.png)
 
 ![komit potterie](https://forge.aeif.fr/lium/masquotte-castor-forge/-/raw/main/potterie_komit.svg)
 
-
 ---
 <style scoped>
-section {background-image: linear-gradient(to right, #000, #fff)}
+section {background-image: linear-gradient(to right, #000 5%, #fff 80%)}
 div:nth-of-type(1){position:absolute; color:#EEE; left:60px}
-ul li {margin-bottom:0.1em}
+ul li {margin-bottom:0.1em; list-style-type:none; margin-left:-1em; height:300px}
+li img {width:410px; height:270px}
+div:nth-of-type(2) li img { height:330px}
 div:nth-of-type(2) {position:absolute; color:#EEE; right:30px; color:black; top:30px; font-weight:600!important; width:426px}
 h2 {width:410px; text-align:left}
 header img {padding:0px 5px; background:white; margin-left:-5px}
 header img {opacity:0.4}
-</style>
-
-<div>
-
-## Un nouvel univers
-
-- commit
-- branches
-- merge request
-- clone
-- pipeline
-
-</div>
-
-![komit de base](https://forge.aeif.fr/lium/masquotte-castor-forge/-/raw/main/komit_de_base.svg)
-
-<div>
-
-## Pas si compliqué !
-
-- Des usages simples possibles
-- Des modèles
-- Le Markdown : une syntaxe facile à apprendre
-
-</div>
-
----
-<style scoped>
-section {background-image: linear-gradient(to right, #000, #fff)}
-div:nth-of-type(1){position:absolute; color:#EEE; left:60px}
-ul li {margin-bottom:0.1em}
-div:nth-of-type(2) {position:absolute; color:#EEE; right:30px; color:black; top:30px; font-weight:600!important; width:426px}
-h2 {width:410px; text-align:left}
-header img {padding:0px 5px; background:white; margin-left:-5px}
-header img {opacity:0.4}
+p{left:31%!important}
 </style>
 
 <div>
@@ -113,8 +46,7 @@ header img {opacity:0.4}
 
 ## Un nouvel univers
 
-- image de 
-l'interface
+- ![](https://minio.apps.education.fr/codimd-prod/uploads/upload_093245fa82deeb34f31cd85083e52d1f.png)
 
 </div>
 
@@ -124,14 +56,14 @@ l'interface
 
 ## Pas si compliqué !
 
-- image de la syntaxe Markdown
+- ![](https://minio.apps.education.fr/codimd-prod/uploads/upload_5d090679753b27b40991cdff598f49e2.png)
 
 </div>
 
 ---
 <style scoped>
 div:nth-of-type(1){position:absolute; left:40px; top:60px; width:386px}
-ul li {margin-bottom:0.1em; font-size:0.9em}
+ul li {margin-bottom:0.3em; font-size:0.9em; list-style-type:none; margin-left:-1em}
 div:nth-of-type(2) {position:absolute; right:30px; top:70px; width:400px}
 h2 {width:400px; text-align:left; font-size:1.4em}
 p {top:27%; left:31.5%}
@@ -144,9 +76,9 @@ img[alt*="komit"]:nth-of-type(2) {margin-left:50px!important}
 
 ## Modifier<br>Réutiliser !
 
-- Gestion des versions
-- Changement facile du contenu et de l'apparence
-- Une même source &rarr; différents formats
+- 🖊️ Changement facile du contenu et de l'apparence
+- 💾 Gestion des versions
+- ♻️ Une même source &rarr; différents formats
 
 </div>
 
@@ -158,9 +90,9 @@ img[alt*="komit"]:nth-of-type(2) {margin-left:50px!important}
 
 ## Collaborer !
 
-- Les branches pour se répartir le travail
-- Les tickets pour faire des suggestions
-- Une communauté Tchap !
+- 🌿 Les branches pour se répartir le travail
+- 💬 Les tickets pour faire des suggestions
+- 👥 Une communauté Tchap !
 
 </div>
 
