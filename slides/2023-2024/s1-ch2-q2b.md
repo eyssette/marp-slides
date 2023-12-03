@@ -186,20 +186,34 @@ question de la légitimité de sacrifice de certains au profit d'un bien global 
 # II – La morale requiert une réflexion sur les principes
 Deuxième partie
 
-<!-- = un exemple de morale des principes
-déontologie / morale déontologique -->
+---
+<!-- _class:  -->
+#### &rarr; Les morales déontologiques
+
+<span data-marpit-fragment="1">Un exemple de morale déontologique : la philosophie morale de Kant</span>
 
 ---
 <!-- _class: souspartie -->
 <style scoped>
-span {text-align:left!important; display:block; margin:0px 70px;}
+span {text-align:justify!important; display:block; margin:0px 70px;}
 </style>
 
 ## A. Un principe
 
-<span data-marpit-fragment="1">Agir moralement, ce n'est pas agir par intérêt</span>
+<span data-marpit-fragment="1">Agir moralement, ce n'est pas agir par intérêt ou pour une satisfaction personnelle.</span>
 
-<span data-marpit-fragment="2">Agir moralement, c'est agir par devoir <br>(≠ agir conformément au devoir)<br>
+<span data-marpit-fragment="2">C'est agir par devoir.</span>
+
+<!-- 
+agir par devoir : c'est agir d'après un impératif catégorique
+
+impératif hypothétique / impératif catégorique -->
+
+---
+<!-- _class: -->
+#### Une précision :
+
+<span data-marpit-fragment="3">Agir par devoir ≠ agir conformément au devoir</span>.
 
 
 ---
@@ -216,6 +230,31 @@ greenwashing
 donner de l'argent à des associations humanitaires pour payer moins d'impôts -->
 
 ---
+<!-- _class: souspartie  -->
+<style scoped>
+span {text-align:left!important; display:block; margin:0px 70px;}
+</style>
+
+## A. Une méthode
+
+<span data-marpit-fragment="1">Il faut réfléchir à ce qui guide mon action.</span>
+
+
+---
+<!-- _class:  -->
+
+
+&rArr; La morale ne consiste pas à suivre une **autorité** extérieure qui me dit ce que je dois faire. Le devoir moral est une expression de notre **autonomie**.
+
+<!-- morale hétéronome -->
+
+<!-- l’autonomie ne signifie pas que chaque individu a sa morale propre et que chacun choisit les normes qu’il veut respecter en fonction de ses désirs, de ses préférences
+Le devoir moral n’est pas relatif, il ne varie pas selon les individus et leurs préférences, il vaut de manière universelle
+-->
+
+<span data-marpit-fragment="1">&rArr; La morale n'est pas une **contrainte** extérieure à notre liberté, mais une **obligation** que je reconnais intérieurement</span>
+
+---
 <!-- _class: etape -->
 <style scoped>
 h3 {text-align:left!important;}
@@ -226,15 +265,15 @@ ol li {list-style-type:disc; padding-left:20px}
 1) Agir moralement ≠ se considérer comme une exception
 2) = agir d'après une règle universalisable
 
+<!-- égoïsme, égocentrisme / moi je
+Le "connard"
+-->
+
+<!-- « Agis uniquement d’après la maxime qui fait que tu puisses vouloir en même temps qu’elle devienne une loi universelle » (ou également : « Agis comme si la maxime de ton action devait être érigée par ta volonté en loi universelle de la nature ») -->
+
 ---
-<!-- _class: souspartie -->
-<style scoped>
-span {text-align:left!important; display:block; margin:0px 70px;}
-</style>
-
-## A. Une méthode
-
-<span data-marpit-fragment="1">Il faut réfléchir à ce qui guide mon action</span>
+<!-- _class:  -->
+Pour savoir ce qui est moral, il faut faire un **test d'universalisation** de notre action : si je fais le choix d'agir ainsi, alors puis-je accepter que tout le monde fasse comme moi ?
 
 ---
 <!-- _class: i1t1 vertical fppppppp -->
@@ -259,6 +298,22 @@ h4{margin-bottom:5px!important;}
 
 ![Image d'une tricherie à un examen](https://insights.gostudent.org/hubfs/Insights_GoStudent_Blog_Images/exams-cheating.jpg)
 
+
+---
+<!-- _class:  -->
+Le test d'universalisation ressemble en apparence à ce qu'on appelle **la règle d'or** en morale <span data-marpit-fragment="1">("ne fais pas à autrui ce que tu n'aimerais pas qu'il te fasse").</span>
+
+<!-- en commun : dépassement du point de vue de la première personne ; dépassement de l'égocentrisme -->
+
+<span data-marpit-fragment="2">Mais le test d'universalisation est plus général et repose davantage sur l'idée que la morale est une question de cohérence rationnelle.</span>
+
+<!-- limites de la règle d'or : 
+- repose sur les désirs, les préférences de l'individu
+- logique seulement interindividuelle (qu'il me fasse), logique de la réciprocité (et si c'était lui qui me le faisait)
+-->
+
+<!-- pas une simple cohérence interne, mais une cohérence au sens large -->
+
 ---
 <!-- _class: etape -->
 <style scoped>
@@ -269,6 +324,8 @@ ol li {list-style-type:disc; padding-left:20px}
 
 1) Agir moralement ≠ traiter les autres comme de simples moyens
 2) = respecter la dignité des autres
+
+<!-- « Agis de telle sorte que tu traites l’humanité aussi bien dans ta personne que dans la personne de tout autre toujours en même temps comme une fin, et jamais simplement comme un moyen » -->
 
 ---
 <!-- _class: cinema fmmmm-->
