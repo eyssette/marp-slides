@@ -275,6 +275,8 @@ Le "connard"
 <!-- _class:  -->
 Pour savoir ce qui est moral, il faut faire un **test d'universalisation** de notre action : si je fais le choix d'agir ainsi, alors puis-je accepter que tout le monde fasse comme moi ?
 
+<!-- Pas un calcul complexe des conséquences comme dans le conséquentialisme -->
+
 ---
 <!-- _class: i1t1 vertical fppppppp -->
 <style scoped>
@@ -327,6 +329,18 @@ ol li {list-style-type:disc; padding-left:20px}
 
 <!-- « Agis de telle sorte que tu traites l’humanité aussi bien dans ta personne que dans la personne de tout autre toujours en même temps comme une fin, et jamais simplement comme un moyen » -->
 
+
+---
+<!-- _class:  -->
+Un être humain est :
+
+1) une personne, et non une chose
+2) un sujet autonome, capable de faire des choix et non un objet qu'on utilise comme on veut
+
+<!-- Lien avec importance de la notion de consentement
+-->
+
+
 ---
 <!-- _class: cinema fmmmm-->
 
@@ -340,9 +354,39 @@ ol li {list-style-type:disc; padding-left:20px}
 
 >Dans le film _Mesure d'urgence_, un médecin kidnappe des personnes sans abri afin de faire des expérimentations médicales sur eux, dans le but de trouver un remède contre des maladies pour le moment incurables. Il affirme que la vie de ces individus n'a pas beaucoup de sens : leur mort était de toute façon prévisible ; autant faire en sorte qu'elle soit utile ! Un grand médecin a, selon lui, le courage d'outrepasser les règles ordinaires : il serait légitime de sacrifier quelques vies sans significations, si cela permet d'améliorer de manière importante la vie d'un grand nombre de personnes.
 
-<!-- Ajouter : 
-bilan sur la morale kantienne
-+ limite : ambiguïté de la notion de dignité (faire schéma) -->
+
+---
+<!-- _class: fpppp -->
+La notion de dignité désigne la **valeur intrinsèque** (en lui-même) de tout être humain.
+
+<!-- un être qui a une valeur intrinsèque (en lui-même) et non pas une simple valeur instrumentale (pour faire quelque chose). -->
+
+Elle implique une **égalité fondamentale** de tous les êtres humains. La dignité ne dépend pas des talents personnels ou du statut social. 
+
+<!-- on retrouve ici le fait de ne pas se considérer comme une exception
+
+Lien avec extrait de Mesure d'urgence : il n'y a pas des êtres qui valent moins que les autres
+-->
+
+La dignité est **inconditionnelle et absolue** : aucun acte, aucune circonstance ne peuvent justifier de ne pas respecter la dignité d'autrui.
+
+<!-- Notamment :
+interdit de la torture
+
+Lien avec extrait de Mesure d'urgence : le bénéfice de l'utilisation d'humains non consentants ne peut pas être considéré comme un argument
+
+Permet de dépasser l'objection du sacrifice contre le conséquentialisme
+-->
+
+
+
+<!-- + limite : ambiguïté de la notion de dignité (faire schéma) ?
+avec exemple du lancer de nain
+
+Ne pas utiliser comme un simple moyen / ne pas traiter comme une chose
+Respecter l'autonomie de la personne
+
+-->
 
 
 ---
