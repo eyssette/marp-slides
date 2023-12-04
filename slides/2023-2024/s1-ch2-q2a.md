@@ -130,3 +130,30 @@ Deuxième partie
 section {font-size:3.5em}
 </style>
 Plutôt qu'une morale fondée sur le sentiment (= le _sentimentalisme moral_), ne faut-il pas alors une morale fondée sur la raison (= le _rationalisme moral_) ?
+
+
+---
+<!-- _class: partie -->
+# Mise en pratique
+
+---
+<!-- _class: exercice application fmmm -->
+<style scoped>
+h3 {margin-bottom:0px}
+ul {margin-left:36px;}
+ul ul {font-size:100%; margin-left:-30px}
+span {font-size:90%;}
+</style>
+
+### Exercice d'application
+
+- Choisir un sujet ci-dessous :
+    - Le bien et le mal sont-ils des conventions ?
+    - Peut-on s'accorder sur des vérités morales?
+    - La morale s'apprend-elle ?
+    - Faut-il se fier à ses sentiments pour agir moralement ?
+    - N’est-on moral que par intérêt ?
+    - La culture est-elle un obstacle à la barbarie ?
+    - La technique peut-elle transformer la morale ?
+    - La connaissance d'autrui est-elle possible ?
+- Rédiger une sous-partie de dissertation <span>(autour de 300 mots)</span><br> :warning:  <span>il faut défendre une seule réponse, mobiliser le cours, et utiliser le modèle _ARES_</span>
