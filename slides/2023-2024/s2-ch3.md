@@ -66,9 +66,18 @@ ol {list-style-type:disc; margin-left:1em; text-align:left}
 ### Points à retenir pour chaque cas
 
 #### Cas 1-3 (foetus / animaux / robots, IA)
-1) importance de la notion de conscience
-2) différentes formes de conscience : sensations, perceptions, émotions, compréhension, conscience de soi
-3) l'émergence de la conscience : comment l'expliquer ?
+1) Importance de la notion de conscience [:link:](https://mymarkmap.netlify.app/#https://raw.githubusercontent.com/eyssette/mindmap/main/conscience-sens-moral-sens-psychologique.md)
+
+<span data-marpit-fragment="1">![](https://raw.githubusercontent.com/eyssette/mindmap/main/conscience-sens-moral-sens-psychologique.svg)</span>
+
+
+---
+<!-- _class:  -->
+<style scoped>
+ol {list-style-type:disc; margin-left:1em; text-align:left}
+</style>
+2) Différentes formes de conscience : sensations, perceptions, émotions, compréhension, conscience de soi
+3) L'émergence de la conscience : comment l'expliquer ?
 
 
 ---
@@ -83,15 +92,16 @@ ol {list-style-type:disc; margin-left:1em; text-align:left}
 
 
 ---
-<!-- _class:  -->
+<!-- _class: fpppppp -->
 <style scoped>
 ol {list-style-type:disc; margin-left:1em; text-align:left}
 </style>
 
 #### Cas 5 (être différent selon le contexte social)
 
-1) Identité intérieure, pour soi ≠ identité extérieure, pour autrui
-2) Rôle social, image de soi : seulement une apparence extérieure ?
+1) À première vue : <br>identité intérieure, pour soi<br>≠ identité extérieure, pour autrui
+2) Mais : rôle social, image de soi <br>= seulement une apparence extérieure ?
+3) Dans quelle mesure mon rapport aux autres définit-il qui je suis ?
 
 
 ---
@@ -102,7 +112,7 @@ ol {list-style-type:disc; margin-left:1em; text-align:left}
 
 #### Cas 6-8 (l'identité personnelle dans le temps)
 
-1) qu'est-ce qui fait qu'un individu est toujours le même malgré les changements physiques et psychologiques ?
+1) Qu'est-ce qui fait qu'un individu est toujours le même malgré les changements physiques et psychologiques ?
 
 
 ---
@@ -113,7 +123,7 @@ ol {list-style-type:disc; margin-left:1em; text-align:left}
 
 #### Cas 9-11 (amnésie / photos du passé / choisir de perdre ses souvenirs)
 
-1) Place de la mémoire dans l'identité personnelle
+1) Quelle est la place de la mémoire, des souvenirs dans l'identité personnelle ?
 
 
 ---
@@ -122,24 +132,29 @@ ol {list-style-type:disc; margin-left:1em; text-align:left}
 ol {list-style-type:disc; margin-left:1em; text-align:left}
 </style>
 
-#### Cas 
+#### Cas 12 (transfert de cerveau)
 
-<!-- 
-Mise en commun : regrouper les cas
-1, 2, 3 : conscience / cas limites (quand apparaît ? quel degré de complexité de la conscience / types de conscience : sensations, perceptions, émotions, compréhension, conscience de soi)
-4 : conscience / connaissance ?
-5 : identité pour soi (intériorité) / identité pour autrui (rôle social, image de soi) (apparence extérieure)
-6-8 : identité personnelle dans le temps, changement dans le temps (physiques, psychologiques)
-9-11 : place de la mémoire dans l'identité
-12 : place du cerveau dans l'identité
-13 : troubles de l'esprit
-14 : critères de l'identité pas seulement internes (peut-on se tromper sur la personne qu'on est soi-même ?)
--->
+1) Le cerveau est-il le support de mon identité ?
 
 
 ---
 <!-- _class:  -->
+<style scoped>
+ol {list-style-type:disc; margin-left:1em; text-align:left}
+</style>
 
+### Cas 13 (plusieurs personnes dans un corps)
 
-Qu'est-ce que le moi ?
-Puis-je choisir qui je suis ?
+1) Dans quelle mesure les troubles neurologiques et les troubles de la conscience permettent-ils de mieux comprendre le fonctionnement de la conscience de soi ?
+
+---
+<!-- _class:  -->
+<style scoped>
+ol {list-style-type:disc; margin-left:1em; text-align:left}
+</style>
+
+### Cas 14 (le clone)
+
+1. Quelles sont les caractéristiques qui me définissent ?
+2. Si une autre personne a exactement les mêmes caractéristiques, s'agit-il d'un autre Moi ?
+3. Puis-je croire être une personne et me tromper ?
