@@ -273,7 +273,7 @@ Le "connard"
 
 ---
 <!-- _class:  -->
-Pour savoir ce qui est moral, il faut faire un **test d'universalisation** de notre action : si je fais le choix d'agir ainsi, alors puis-je accepter que tout le monde fasse comme moi ?
+Pour savoir ce qui est moral, il faut faire un **test d'universalisation** de notre action : <span data-marpit-fragment="1">si je fais le choix d'agir ainsi, alors puis-je accepter que tout le monde fasse comme moi ?</span>
 
 <!-- Pas un calcul complexe des conséquences comme dans le conséquentialisme -->
 
@@ -361,14 +361,14 @@ La notion de dignité désigne la **valeur intrinsèque** (en lui-même) de tout
 
 <!-- un être qui a une valeur intrinsèque (en lui-même) et non pas une simple valeur instrumentale (pour faire quelque chose). -->
 
-Elle implique une **égalité fondamentale** de tous les êtres humains. La dignité ne dépend pas des talents personnels ou du statut social. 
+<span data-marpit-fragment="1">Elle implique une **égalité fondamentale** de tous les êtres humains. La dignité ne dépend pas des talents personnels ou du statut social.</span> 
 
 <!-- on retrouve ici le fait de ne pas se considérer comme une exception
 
 Lien avec extrait de Mesure d'urgence : il n'y a pas des êtres qui valent moins que les autres
 -->
 
-La dignité est **inconditionnelle et absolue** : aucun acte, aucune circonstance ne peuvent justifier de ne pas respecter la dignité d'autrui.
+<span data-marpit-fragment="2">La dignité est **inconditionnelle et absolue** : aucun acte, aucune circonstance ne peuvent justifier de ne pas respecter la dignité d'autrui.</span>
 
 <!-- Notamment :
 interdit de la torture
