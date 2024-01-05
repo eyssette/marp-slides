@@ -51,9 +51,79 @@ Magritte,<br>_La reproduction interdite_ (1937)
 # I – La conscience <br>de soi semble être<br> le fondement d'une <br>connaissance de soi <!-- fit -->
 Première partie
 
-<!-- 
-La conscience semble rendre possible une connaissance directe, plus fiable que l'interprétation par les autres du comportement et des paroles d'un individu
--->
+
+---
+<!-- _class: fppp -->
+À première vue, je suis la personne la mieux placée pour me connaître.
+
+<span data-marpit-fragment="1">C'est ce qu'on appelle : **l'autorité de la première personne**.</span>
+
+<span data-marpit-fragment="2">La conscience de soi permet un **accès direct** à son propre esprit, alors que nous n'avons accès à l'esprit des autres que par l'**intermédiaire** de leur comportement et de leurs paroles.</span>
+
+<span data-marpit-fragment="3">&rArr; la conscience de soi semble permettre une **connaissance plus fiable** que l'interprétation des actes d'autrui</span>
+
+
+---
+<!-- _class: citationC -->
+
+![bg left:42%](https://upload.wikimedia.org/wikipedia/commons/7/73/Frans_Hals_-_Portret_van_Ren%C3%A9_Descartes.jpg)
+
+> « [L]a notion que nous avons de notre âme ou de notre pensée précède celle que nous avons du corps, et […] elle est plus certaine »
+>> **Descartes**, _Principes de philosophie_, 8
+
+
+---
+<!-- _class:  -->
+Descartes soutient que la conscience de soi est la forme de connaissance la plus certaine.
+
+- Comment parvient-il à cette idée ?
+
+<span data-marpit-fragment="1">La réflexion de Descartes ne porte pas directement sur le moi, mais plutôt sur la connaissance en général.</span>
+
+<!-- on retrouvera Descartes dans la dernière séquence de l'année qui portera sur ce type de sujets -->
+
+---
+<!-- _class:  -->
+#### Question principale
+<span data-marpit-fragment="1">= Y a-t-il des certitudes absolues ?</span>
+
+#### <span data-marpit-fragment="2">Une méthode</span>
+<span data-marpit-fragment="3">= tester nos croyances en les soumettant à un doute radical :</span><span data-marpit-fragment="4"> s'il y a la moindre raison de douter, alors il faut douter.</span>
+
+
+---
+<!-- _class: fpppppp -->
+#### Précisions sur le doute radical
+
+**≠ doute ordinaire** : le doute ordinaire est suscité par une situation, ou un état psychique particulier qui nous fait douter ; tandis que le doute radical est volontaire.
+
+**≠ un doute complotiste** : le doute radical ne s'applique pas à des faits particuliers, mais vise à déterminer le type de connaissance à laquelle on peut parvenir en général.
+
+
+---
+<!-- _class: fmmmmmm -->
+<style scoped>
+h4 {margin-bottom:0; margin-top:0.5em!important}
+ol {margin-top:0}
+ol li {margin-left:-0.75em; }
+ol li li {margin-left:-1.5em; line-height:1.2em; margin-right:-2em;}
+</style>
+#### Les étapes du doute radical
+
+1) Les connaissances qui proviennent des **autres**
+2) Les connaissances qui proviennent de **nos sens** et la croyance en l'existence du **monde extérieur**
+	1) L'argument des **illusions** des sens
+	2) L'argument du **rêve**.
+	3) Reformulation moderne : l'argument du cerveau dans la cuve, <span data-marpit-fragment="1">l'argument de la simulation</span>
+3) Les connaissances qui proviennent de **notre raison** : <br>les vérités **mathématiques**
+	1) L'argument du **malin génie**
+	2) Reformulation moderne : la distinction entre l'inconcevable et l'impossible
+	3) Des exemples dans l'histoire des mathématiques : <br><span data-marpit-fragment="2">les nombres imaginaires</span><span data-marpit-fragment="3">, les géométries non-euclidiennes</span><span data-marpit-fragment="4">, les nombres infinis à gauche</span>
+
+
+---
+<!-- _class:  -->
+
 
 ---
 <!-- _class: citationC fmmmmmm -->
