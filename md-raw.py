@@ -1,5 +1,7 @@
 import re
 import sys
+import pyperclip
+# Sur linux, installer xclip et xsel pour pouvoir conserver le contenu de pyperclip.copy dans le clipboard après la fermeture du script
 
 def remove_yaml_header(file_path):
     with open(file_path, 'r') as file:
@@ -106,5 +108,4 @@ content = process_file(input_file)
 
 output_file = input_file.rsplit('.', 1)[0] + '-RAW.md'
 
-with open(output_file, 'w') as file:
-	file.write(content.rstrip())
+pyperclip.copy(content.rstrip())
