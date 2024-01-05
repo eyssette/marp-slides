@@ -13,6 +13,7 @@ h1{font-size:2.5em}
 Cédric Eyssette (2023-2024)
 http://eyssette.github.io
 
+<!-- Changer titre du chapitre : "le sujet" (plutôt que "la notion de personne") -->
 
 <!-- Notions principales : l'existence humaine, la conscience, la connaissance -->
 
@@ -55,6 +56,73 @@ span {font-size:0.90em}
 13) Peut-il y avoir plusieurs personnes dans un même corps ?
 14) La personne que vous aimez (Charlie) décide, sans que vous le sachiez, que l’on fasse une copie parfaite d’elle-même car elle va bientôt mourir. Le clone vient alors vivre à vos côtés, tandis que Charlie décède, et vous ne vous rendez compte de rien. Aimez-vous toujours la même personne ?
 
+
+---
+<!-- _class: fppppppp -->
+<style scoped>
+ol {list-style-type:disc; margin-left:1em; text-align:left}
+</style>
+
+### Points à retenir pour chaque cas
+
+#### Cas 1-3 (foetus / animaux / robots, IA)
+1) importance de la notion de conscience
+2) différentes formes de conscience : sensations, perceptions, émotions, compréhension, conscience de soi
+3) l'émergence de la conscience : comment l'expliquer ?
+
+
+---
+<!-- _class:  -->
+<style scoped>
+ol {list-style-type:disc; margin-left:1em; text-align:left}
+</style>
+
+####  Cas 4 (qui suis-je ?)
+1) Conscience de soi = connaissance de soi ou illusion ?
+2) Une partie de ce que je suis <br>reste-t-elle inconsciente ?
+
+
+---
+<!-- _class:  -->
+<style scoped>
+ol {list-style-type:disc; margin-left:1em; text-align:left}
+</style>
+
+#### Cas 5 (être différent selon le contexte social)
+
+1) Identité intérieure, pour soi ≠ identité extérieure, pour autrui
+2) Rôle social, image de soi : seulement une apparence extérieure ?
+
+
+---
+<!-- _class:  -->
+<style scoped>
+ol {list-style-type:disc; margin-left:1em; text-align:left}
+</style>
+
+#### Cas 6-8 (l'identité personnelle dans le temps)
+
+1) qu'est-ce qui fait qu'un individu est toujours le même malgré les changements physiques et psychologiques ?
+
+
+---
+<!-- _class:  -->
+<style scoped>
+ol {list-style-type:disc; margin-left:1em; text-align:left}
+</style>
+
+#### Cas 9-11 (amnésie / photos du passé / choisir de perdre ses souvenirs)
+
+1) Place de la mémoire dans l'identité personnelle
+
+
+---
+<!-- _class:  -->
+<style scoped>
+ol {list-style-type:disc; margin-left:1em; text-align:left}
+</style>
+
+#### Cas 
 
 <!-- 
 Mise en commun : regrouper les cas
