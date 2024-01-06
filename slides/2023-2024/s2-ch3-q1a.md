@@ -104,9 +104,9 @@ Descartes soutient que la conscience de soi est la forme de connaissance la plus
 <!-- _class: fmmmmmm -->
 <style scoped>
 h4 {margin-bottom:0; margin-top:0.5em!important}
-ol {margin-top:0}
+ol {margin-top:-0.1em}
 ol li {margin-left:-0.75em; }
-ol li li {margin-left:-1.5em; line-height:1.2em; margin-right:-2em;}
+ol li li {margin-left:-2.5em; line-height:1.2em; margin-right:-2em;}
 </style>
 #### Les étapes du doute radical
 
@@ -115,10 +115,10 @@ ol li li {margin-left:-1.5em; line-height:1.2em; margin-right:-2em;}
 	1) L'argument des **illusions** des sens
 	2) L'argument du **rêve**.
 	3) Reformulation moderne : l'argument du cerveau dans la cuve, <span data-marpit-fragment="1">l'argument de la simulation</span>
-3) Les connaissances qui proviennent de **notre raison** : <br>les vérités **mathématiques**
-	1) L'argument du **malin génie**
-	2) Reformulation moderne : la distinction entre l'inconcevable et l'impossible
-	3) Des exemples dans l'histoire des mathématiques : <br><span data-marpit-fragment="2">les nombres imaginaires</span><span data-marpit-fragment="3">, les géométries non-euclidiennes</span><span data-marpit-fragment="4">, les nombres infinis à gauche</span>
+3) Les connaissances qui proviennent de **notre raison** : les vérités **mathématiques**
+	1) L'argument du **malin génie** <span data-marpit-fragment="2">: un doute sur la fiabilité de notre raison</span>
+	2) Reformulation moderne : l'inconcevable ≠ l'impossible
+	3) Des exemples dans l'histoire des mathématiques : <br><span data-marpit-fragment="3">les nombres imaginaires</span><span data-marpit-fragment="4">, les géométries non-euclidiennes</span><span data-marpit-fragment="5">, les nombres infinis à gauche</span>
 
 ---
 <!-- _class:  -->
@@ -144,10 +144,31 @@ ol {margin-top:-0.25em}
 
 <span data-marpit-fragment="5">Le cogito est le seul cas où l'acte de penser (<u>je pense</u> que …) prouve le contenu de ma pensée (je pense que <u>je pense</u>).</span>
 
-
 ---
 <!-- _class:  -->
 2. Une contradiction interne
+
+Douter que je pense, c'est penser que peut-être je ne pense pas<span data-marpit-fragment="1">, mais ce serait contradictoire : il n'y a donc pas de sens à douter qu'on pense.</span>
+
+
+---
+<!-- _class: fp -->
+Non seulement j'ai conscience de ma propre **existence** avec certitude<span data-marpit-fragment="1">, mais je peux aussi saisir mon **essence**</span> <span data-marpit-fragment="2">(= ce qui me définit fondamentalement / ce sans quoi je ne peux pas être)</span>.
+
+<span data-marpit-fragment="3">À première vue mon corps fait partie de ce que je suis.</span><span data-marpit-fragment="4"> Mais la connaissance du corps provient des sens.</span><span data-marpit-fragment="5"> Or ce type de connaissance ne résiste pas au doute radical.</span><span data-marpit-fragment="6"> Par conséquent : je peux me représenter que j'existe mais que je n'ai pas de corps.</span>
+
+<span data-marpit-fragment="7">Le corps ne fait donc pas partie de mon essence.</span>
+
+
+---
+<!-- _class: fppppp -->
+En revanche : je ne peux pas penser que j'existe et que je ne pense pas.
+
+<span data-marpit-fragment="1">Donc : penser fait partie de mon essence.</span>
+
+<span data-marpit-fragment="2">La conscience de soi me donne donc accès à la certitude de mon existence et me fait comprendre ce qu'est le moi</span><span data-marpit-fragment="3"> : je suis une chose qui pense (_res cogitans_).</span>
+
+<span data-marpit-fragment="4">On a ici une forme de **dualisme** qui distingue le corps et l'esprit, et privilégie l'esprit.</span>
 
 
 ---
@@ -162,6 +183,18 @@ blockquote blockquote{padding-top:0.3em!important;}
 ><span data-marpit-fragment="3">Mais, aussitôt après, je pris garde que, pendant que je voulais ainsi penser que tout était faux, il fallait nécessairement que moi, qui le pensais, fusse quelque chose. Et remarquant que cette vérité : _je pense, donc je suis_, était si ferme et si assurée [ ] je jugeai que je pouvais la recevoir, sans scrupule, pour le premier principe de la philosophie que je cherchais.</span>
 ><span data-marpit-fragment="4">[…] [J]e connus de là que j'étais une substance dont toute l'essence ou la nature n'est que de penser, et qui, pour être n'a besoin d'aucun lieu, ni ne dépend d'aucune chose matérielle. En sorte que ce moi, c'est-à-dire l'âme par laquelle je suis ce que je suis, est entièrement distincte du corps, et même qu'elle est plus aisée à connaître que lui […]. »</span>
 >>**Descartes**, _Discours de la méthode_, IV
+
+---
+<!-- _class: fpp -->
+<style scoped>
+ol {margin-top:-0.5em}
+</style>
+
+#### Quelques limites
+
+1) Je peux concevoir mon existence sans corps, mais est-ce véritablement possible ? Ce que je suis ne dépend-il pas essentiellement du corps ? <span data-marpit-fragment="1">(_matérialisme_ vs. _dualisme_)</span>
+2) Le cogito cartésien ne représente qu'une connaissance restreinte de soi, limitée à l'appréhension de son existence et de son essence en général : il ne permet pas une saisie profonde du Moi.
+
 
 ---
 <!-- _class: partie -->
