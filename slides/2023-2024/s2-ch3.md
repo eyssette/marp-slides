@@ -60,7 +60,7 @@ span {font-size:0.90em}
 ---
 <!-- _class: fppppppp -->
 <style scoped>
-ol {list-style-type:disc; margin-left:1em; text-align:left}
+ol {list-style-type:disc; margin-left:1em; text-align:left;}
 </style>
 
 ### Points à retenir pour chaque cas
@@ -155,6 +155,6 @@ ol {list-style-type:disc; margin-left:1em; text-align:left}
 
 ### Cas 14 (le clone)
 
-1. Quelles sont les caractéristiques qui me définissent ?
-2. Si une autre personne a exactement les mêmes caractéristiques, s'agit-il d'un autre Moi ?
-3. Puis-je croire être une personne et me tromper ?
+1) Quelles sont les caractéristiques qui me définissent ?
+2) Si une autre personne a exactement les mêmes caractéristiques, s'agit-il d'un autre Moi ?
+3) Puis-je croire être une personne et me tromper ?
