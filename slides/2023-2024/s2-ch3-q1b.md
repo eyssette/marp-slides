@@ -33,8 +33,15 @@ Première partie
 2) Mémoire sensorielle et mémoire perceptive
 3) Mémoire sémantique
 4) Mémoire procédurale
-5) Mémoire épisodique
+5) **Mémoire épisodique**
 
+
+---
+<!-- _class: citationC fmmm-->
+![bg left:18% Portrait de John Locke](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/JohnLocke.png/520px-JohnLocke.png)
+
+>« [L]’identité personnelle […] s’étend aussi loin que peut remonter la conscience dans ses pensées et ses actes passés […]. [P]uisque c’est la même conscience qui fait qu’un homme est lui-même à ses propres yeux, l’identité personnelle dépend de cette conscience seule, qu’elle soit rattachée à une seule substance individuelle, ou qu’elle se préserve à travers la succession de substances diverses. Car, dans la mesure où un être intelligent peut reproduire l’idée de n’importe quelle action passée avec la même conscience qu’il en avait à l’époque et y ajouter la même conscience qu’il a de n’importe quelle action présente, dans cette mesure il est le même soi personnel. […] [Et] s’il était possible que la même personne ait à différents moments des consciences distinctes et incommunicables, le même homme constituerait sans doute différentes personnes à différents moments. […] »
+>>John **Locke**, _Essai sur l'entendement humain_, II, 27
 
 ---
 <!-- _class: fpppp -->
