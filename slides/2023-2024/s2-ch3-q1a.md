@@ -198,37 +198,78 @@ ol {margin-top:-0.5em}
 
 ---
 <!-- _class: partie -->
-# II – Le moi reste <br>insaisissable <!-- fit -->
+# II – Le Moi reste <br>insaisissable <!-- fit -->
 Deuxième partie
 
 
-<!-- 
-Expérience :
-* cherchez un stylo dans votre trousse
-* cherchez votre moi intérieur
+---
+<!-- _class:  -->
+#### Une expérience 
+1) Cherchez un stylo à l'intérieur de votre trousse, tenez-le bien en main et observez-le.
+2) Cherchez votre moi à l'intérieur de vous-même.
 
-Pourquoi est-ce différent ?
-
-
-Il y a une différence entre chercher un stylo dans une trousse et chercher son propre moi intérieur :
-- le moi n'est pas une chose extérieure qu'on peut localiser précisément dans l'espace (le cerveau ≠ le moi)
-- on n'a pas une idée préalable précise de ce qu'est le moi (pas de définition stable)
-- le moi n'a pas des contours précis qui permettraient de le saisir (indétermination du moi, caractère fluctuant du moi)
-
- -->
 
 ---
-<!-- _class: citationC fmmmm -->
+<!-- _class: fppp -->
+
+Il y a une différence entre chercher un stylo dans une trousse et chercher son moi intérieur :
+
+1) Le moi n'est pas une chose extérieure qu'on peut localiser précisément dans l'espace 
+2) On n'a pas une idée préalable précise de ce qu'est le moi
+3) Le moi n'a pas des contours précis qui permettraient de le saisir
+
+---
+<!-- _class: citationC fm -->
 ![bg left:22%](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Painting_of_David_Hume.jpg/520px-Painting_of_David_Hume.jpg)
 
 ><span data-marpit-fragment="1">« Il y a certains philosophes qui imaginent que nous avons à tout moment la conscience intime de ce que nous appelons notre moi ; que nous sentons son existence et sa continuité d'existence ; et que nous sommes certains, plus que l'évidence d'une démonstration, de son identité et de sa simplicité parfaites. (…)</span>
-><span data-marpit-fragment="2">Pour ma part, quand je pénètre au plus intime de ce que j’appelle moi, je tombe toujours sur telle ou telle perception particulière, de chaud ou de froid, de lumière ou d’ombre, d’amour ou de haine, de douleur ou de plaisir. À aucun moment je ne puis me saisir moi sans saisir une perception, ni ne puis observer autre chose que la dite perception.</span><span data-marpit-fragment="3"> […] [J’]ose affirmer du reste des hommes qu’ils ne sont rien d’autre qu’un faisceau ou une collection de différentes perceptions qui se succèdent les unes les autres avec une inconcevable rapidité et qui sont dans un perpétuel flux et mouvement. »</span>
+><span data-marpit-fragment="2">Pour ma part, quand je pénètre au plus intime de ce que j’appelle moi, je tombe toujours sur telle ou telle perception particulière, de chaud ou de froid, de lumière ou d’ombre, d’amour ou de haine, de douleur ou de plaisir. À aucun moment je ne puis me saisir moi sans saisir une perception, ni ne puis observer autre chose que la dite perception.</span>
 >>**Hume**, _Traité de la nature humaine_, I, IV, VI
 
 
-<!-- 
+---
+<!-- _class: fp -->
+Hume montre que le Moi est insaisissable.
 
- -->
+<span data-marpit-fragment="1">Avoir conscience de soi, ce n'est pas saisir une chose qui serait moi.</span><span data-marpit-fragment="2"> La conscience de soi est toujours la conscience d'une perception particulière.</span>
+
+<span data-marpit-fragment="3">Le terme de perception a ici un sens large :</span><span data-marpit-fragment="4"> il inclut les perceptions au sens strict (ce qu'on observe avec nos sens)</span><span data-marpit-fragment="5">, mais aussi les sensations, les émotions, les souvenirs, les idées …</span>
+
+<span data-marpit-fragment="6">Si je pense à moi, je peux ainsi : regarder mon corps</span><span data-marpit-fragment="7">, prendre conscience que j'ai chaud ou froid, que je suis en colère</span><span data-marpit-fragment="8">, me souvenir de mon enfance, penser à mes projets …</span>
+
+
+---
+<!-- _class: definition fppp -->
+<style scoped>
+p {border:none; font-size:1.15em; padding:0.1em}
+h3 {margin-top:-0.25em; margin-bottom:0.15em}
+</style>
+
+Hume montre que le Moi n'est **pas une substance** <span data-marpit-fragment="1">(contrairement à Descartes qui affirme que le moi est une _res cogitans_)</span>
+
+### Définition
+
+- <span data-marpit-fragment="2">Au sens étymologique, une substance désigne “ce qui se tient dessous”
+- <span data-marpit-fragment="3">Une substance est une réalité fondamentale</span><span data-marpit-fragment="4"> qui reste permanente derrière les changements en surface.</span>
+
+
+
+---
+<!-- _class: citationC  -->
+![bg left:22%](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Painting_of_David_Hume.jpg/520px-Painting_of_David_Hume.jpg)
+
+>« [J’]ose affirmer du reste des hommes qu’ils ne sont rien d’autre qu’un faisceau ou une collection de différentes perceptions qui se succèdent les unes les autres avec une inconcevable rapidité et qui sont dans un perpétuel flux et mouvement. »
+>>**Hume**, _Traité de la nature humaine_, I, IV, VI
+
+---
+<!-- _class: fppp -->
+Le moi est simplement une multiplicité de perceptions, en flux perpétuel.
+
+<span data-marpit-fragment="1">Le moi comme chose réelle indépendante n'est qu'une fiction.</span>
+
+#### <span data-marpit-fragment="2">Un parallèle intéressant à faire</span>
+
+<span data-marpit-fragment="3">Dans le bouddhisme, la pratique de la méditation n'est pas une manière de revenir à son moi intérieur</span><span data-marpit-fragment="4">, c'est au contraire une expérience de l'impermanence de toutes choses (du flux perpétuel de l'existence)</span><span data-marpit-fragment="5"> qui doit nous aider à nous délivrer de l'attachement au Moi.</span>
 
 <!-- 
 
