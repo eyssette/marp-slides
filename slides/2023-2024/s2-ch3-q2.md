@@ -45,7 +45,7 @@ blockquote{text-indent:1.5em; font-size:20px;  background-color:white; margin:0p
 <!-- _class: pointmethode -->
 ### Point méthode
 L'explication d'un texte doit se faire à partir du texte lui-même.
-Il n'est pas nécessaire de connaître l'auteur, mais des connaissances sont nécessaires pour éclairer le sens du texte.
+<span data-marpit-fragment="1">Il n'est pas nécessaire de connaître l'auteur, mais des connaissances sont nécessaires pour éclairer le sens du texte.</span>
 
 
 
@@ -78,8 +78,8 @@ ul {padding-top:10px}
 ### Point méthode
 
 Pour expliquer un texte, il faut :
-- **Être un aigle** : faire une lecture globale du texte ; être capable d'avoir une vision claire du sens général du texte ;
-- **Être une petite souris** : faire une lecture fine du texte ; être attentif aux détails et à tout ce qu'il y a d'intéressant dans le texte.
+- **Être un aigle** : <span data-marpit-fragment="1">faire une lecture globale du texte ; être capable d'avoir une vision claire du sens général du texte ;</span>
+- <span data-marpit-fragment="2">**Être une petite souris** :</span> <span data-marpit-fragment="3">faire une lecture fine du texte ; être attentif aux détails et à tout ce qu'il y a d'intéressant dans le texte.</span>
 
 
 ---
@@ -499,8 +499,8 @@ ul {padding-top:0.5em}
 </style>
 ### Point méthode
 La compréhension précise du texte repose aussi sur des connaissances :
-- Exemples concrets
-- Références théoriques (thèses et arguments d'autres auteurs pour comparer, vocabulaire philosophique précis pour mieux définir)
+* Exemples concrets
+* Références théoriques (thèses et arguments d'autres auteurs pour comparer, vocabulaire philosophique précis pour mieux définir)
 
 
 ---
@@ -518,7 +518,7 @@ ul li {}
 ### Définition 
 * L'**essence** : du latin _esse_ (verbe être)
 * Désigne l'être d'une chose, ce qu'est cette chose, ce qui la définit
-* On distingue ainsi : l'essence (les propriétés fondamentales sans lesquelles la chose ne peut pas être ce qu'elle est) et les “accidents” (les propriétés secondaires, non-essentielles, sans lesquelles la chose peut malgré tout être ce qu'elle est)
+* On distingue ainsi : **l'essence** (les propriétés fondamentales sans lesquelles la chose ne peut pas être ce qu'elle est)<span data-marpit-fragment="1"> et **les “accidents”** (les propriétés secondaires, non-essentielles, sans lesquelles la chose peut malgré tout être ce qu'elle est)</span>
  
 <!-- Exemple : L'essence d'un triangle est d'être une figure géométrique avec trois côtés.
 Autrement dit : avoir trois côté fait partie de l'essence d'un triangle.
@@ -526,27 +526,27 @@ Autrement dit : avoir trois côté fait partie de l'essence d'un triangle.
 
 ---
 <!-- _class:  -->
-Ici : on s'intéresse à l'essence d'un être humain en particulier, c'est-à-dire à la question suivante : « Qu'est-ce qui me définit ? »
+Ici : on s'intéresse à l'essence d'un être humain en **particulier**, c'est-à-dire à la question suivante : « Qu'est-ce qui me définit ? »
 
-<span data-marpit-fragment="1">Certains aspects de nous-mêmes semblent secondaires, non-essentielles (p.ex. : avoir de la barbe aujourd'hui…), mais y a-t-il des des propriétés fondamentales qui caractérisent notre identité ?</span>
+<span data-marpit-fragment="1">Certains aspects de nous-mêmes semblent **secondaires, non-essentielles** (p.ex. : avoir de la barbe aujourd'hui…), mais y a-t-il des des **propriétés fondamentales** qui caractérisent notre identité ?</span>
 
 <!-- Sartre s'intéresse ici non pas à l'essence d'un être humain en général (propriétés fondamentales qui permettent de caractériser l'espèce humaine (ou le genre humain)), mais à l'essence d'un être humain en particulier (propr. fondamen. qui permettent de définir qui je suis, c'est-à-dire mon identité personnelle)
 La question est donc la suivante : Y a-t-il des propriétés fondamentales qui permettent de définir qui je suis ? -->
 
 ---
-<!-- _class: citationC fppp -->
+<!-- _class: citationC fpp -->
 
 ![bg left:27%](http://commons.wikimedia.org/wiki/Special:FilePath/Schopenhauer.jpg?width=300)
 
->« Le caractère de l'homme est invariable : il reste le même pendant toute la durée de sa vie. Sous l'enveloppe changeante des années, des circonstances où il se trouve, même de ses connaissances et de ses opinions, demeure, comme l'écrevisse sous son écaille, l'homme identique et individuel, absolument immuable et toujours le même. […] L'homme même ne change jamais : comme il a agi dans un cas, il agira encore, si les mêmes circonstances se présentent […]. »
+>« Le caractère de l'homme est invariable : il reste le même pendant toute la durée de sa vie. Sous l'enveloppe changeante des années, des circonstances où il se trouve, même de ses connaissances et de ses opinions, demeure, comme l'écrevisse sous son écaille, l'homme identique et individuel, absolument immuable et toujours le même. […] L'homme même ne change jamais : comme il a agi dans un cas, il agira encore, si les mêmes circonstances se présentent […]. »
 >>**Schopenhauer**, _Essai sur le libre arbitre_
 
 
 ---
 <!-- _class:  -->
-Schopenhauer défend une conception essentialiste et fixiste de l'identité ([“On ne change pas …”](https://ladigitale.dev/digiview/#/v/63bfeec90b77c)) : nous sommes définis par notre caractère.
+Schopenhauer défend une conception **essentialiste** et **fixiste** de l'identité ([“On ne change pas …”](https://ladigitale.dev/digiview/#/v/63bfeec90b77c)) : nous sommes définis par notre caractère.
 
-<span data-marpit-fragment="1">&rArr; une forme de fatalité : nous ne pouvons pas choisir qui nous sommes, nous héritons d'un caractère.</span>
+<span data-marpit-fragment="1">&rArr; une forme de **fatalité** : nous ne pouvons pas choisir qui nous sommes, nous héritons d'un caractère.</span>
 
 <!-- 
 le caractère : des traits stables qui caractérisent notre personnalité.
@@ -558,7 +558,7 @@ le caractère : des traits stables qui caractérisent notre personnalité.
 <style scoped>
 section {font-size:3.4em}
 </style>
-De manière plus générale, nous avons parfois tendance à essentialiser les autres.
+De manière plus générale, nous avons parfois tendance à **essentialiser** les autres.
 
 - Qu'est-ce que cela veut dire ?
 
@@ -580,7 +580,7 @@ Lien avec l'ethnocentrisme
 	blockquote {margin-top:0.75em}
 blockquote p {text-align:center; margin:0.25em}
 </style>
-Sartre s'oppose à l'essentialisme et à toute essentialisation et défend au contraire une conception existentialiste de l'identité.
+Sartre s'oppose à **l'essentialisme et** à toute essentialisation et défend au contraire une conception **existentialiste** de l'identité.
 
 > « L'existence précède l'essence »
 
@@ -606,11 +606,11 @@ p {margin-top:0.75em; text-align:center;}
 
 ---
 <!-- _class:  -->
-Dans le cas des êtres humains, l'existence précède l'essence.
+Dans le cas des êtres humains, **l'existence précède l'essence**.
 
-<span data-marpit-fragment="1">= nous ne sommes pas produits d'après un modèle qui était préalablement conçu.</span>
+<span data-marpit-fragment="1">= nous ne sommes **pas produits d'après un modèle** qui était préalablement conçu.</span>
 
-<span data-marpit-fragment="2">&rArr; Pas de fatalité, mais au contraire une liberté fondamentale dans la définition de notre identité.</span>
+<span data-marpit-fragment="2">&rArr; **Pas de fatalité**, mais au contraire une **liberté** fondamentale dans la définition de notre identité.</span>
 
 <!-- 
 L'homme n'est d'abord rien : Le "rien" dont parle Sartre est l'absence d'une essence prédéfinie ou d'une nature fixe chez l'homme.
@@ -619,11 +619,11 @@ L'homme n'est d'abord rien : Le "rien" dont parle Sartre est l'absence d'une ess
 ---
 <!-- _class:  -->
 
-Sartre s'oppose non seulement à l'essentialisme, mais aussi au déterminisme.
+Sartre s'oppose non seulement à l'essentialisme, mais aussi au **déterminisme**.
 
-<span data-marpit-fragment="1">Non seulement il n'y a pas d'essence préalable qui me définit, mais je ne suis pas non plus défini par des facteurs extérieurs.</span>
+<span data-marpit-fragment="1">Je ne suis **pas défini par des facteurs extérieurs**.</span> 
 
-<span data-marpit-fragment="2">Chaque être humain se définit, librement, à travers son existence.</span>
+<span data-marpit-fragment="2">Chaque être humain **se définit**, librement, à travers son existence.</span>
 
 
 <!-- ex - istence : être jeté dans le monde 
@@ -639,20 +639,20 @@ Sartre s'oppose non seulement à l'essentialisme, mais aussi au déterminisme.
 <!-- _class: etape -->
 
 
-### 2) L'angoisse et la mauvaise foi
+### 2) L'angoisse <br>et la mauvaise foi
 
 
 ---
 <!-- _class:  -->
-La responsabilité d'avoir à choisir qui je suis est source d'angoisse.
+La **responsabilité d'avoir à choisir qui je suis** est source d'angoisse.
 
-<span data-marpit-fragment="1">L'angoisse se distingue de la peur et de la crainte.</span>
+<span data-marpit-fragment="1">L'**angoisse** se distingue de la **peur** et de la **crainte**.</span>
 
 ---
 <!-- _class:  -->
-La peur : une réaction à une menace précise ou à un danger imminent.
+**La peur** : une réaction à une menace précise ou à un danger imminent.
 
-<span data-marpit-fragment="1">La crainte : une préoccupation face à certains événements qui risquent d'arriver dans le futur.</span>
+<span data-marpit-fragment="1">**La crainte** : une préoccupation face à certains événements qui risquent d'arriver dans le futur.</span>
 
 <!-- Ajouter exemples :
 peur des serpents
@@ -666,9 +666,9 @@ Distinction : sentiment de peur / disposition à ressentir ce sentiment de peur
 ---
 <!-- _class:  -->
 
-L'angoisse : sans objet précis. Ce qui nous angoisse, c'est la conscience de notre propre liberté.
+**L'angoisse** : sans objet précis. Ce qui nous angoisse, c'est la **conscience de notre propre liberté**.
 
-<span data-marpit-fragment="1">Il faut faire un choix, mais il n'y a pas de chemin déjà tracé : nous faisons l'expérience d'un vide de repères intérieurs.</span>
+<span data-marpit-fragment="1">Il faut faire un choix, mais il n'y a **pas de chemin déjà tracé** : nous faisons l'expérience d'un **vide de repères** intérieurs.</span>
 
 <!--
 Exemples : peur du vide, crise d'angoisse, angoisse du passage à l'adolescence ...
@@ -683,25 +683,25 @@ Il faut faire un choix, mais il n'y a pas de chemin déjà tracé.
 ---
 <!-- _class:  -->
 
-Pour ne pas avoir à ressentir cette angoisse, nous avons tendance à être de mauvaise foi.
+Pour ne pas avoir à ressentir cette angoisse, nous avons tendance à être de **mauvaise foi**.
 
 - Qu'est-ce que la mauvaise foi ?
 
 
 ---
 <!-- _class:  -->
-Sens ordinaire : = soutenir qu'on a raison alors qu'on sait pertinemment qu'on a tort.
+**Sens ordinaire** = soutenir qu'on a raison alors qu'on sait pertinemment qu'on a tort.
 
-<span data-marpit-fragment="1">Sens sartrien : refuser sa liberté, alors qu'on sait qu'on est libre</span>
+<span data-marpit-fragment="1">**Sens sartrien** = refuser sa liberté, alors qu'on sait qu'on est libre</span>
 
-<span data-marpit-fragment="2">Exemple du garçon de café.</span>
+<span data-marpit-fragment="2">→ Exemple du **garçon de café**.</span>
 
 
 ---
 <!-- _class:  -->
-Être de mauvaise foi, c'est se donner un être, une consistance
-(refuser le vide de l'angoisse existentielle)
-Le garçon de café incarne son rôle sans distance critique : il est défini par son rôle
+Être de mauvaise foi, c'est **se donner un être, une consistance** (refuser le vide de l'angoisse existentielle)
+
+Le garçon de café incarne son rôle **sans distance critique** : il est défini par son rôle
 
 
 <!--
@@ -733,7 +733,7 @@ Chercher à se masquer à soi-même sa liberté
 <!-- _class: etape -->
 
 
-### 3) L'être humain comme projet
+### 3) L'être humain <br>comme projet
 
 <!-- L'être humain est projet
 et non "a des projets"
@@ -745,9 +745,9 @@ L'être humain est projeté, lancé dans le monde, en mouvement et défini par l
 ---
 <!-- _class:  -->
 
-Ce qui me définit, ce n'est pas ce que j'aimerais être, ce que je crois être. C'est ce que je fais réellement dans le monde.
+Ce qui me définit, ce n'est pas ce que j'aimerais être, ce que je crois être. C'est **ce que je fais réellement** dans le monde.
 
-<span data-marpit-fragment="1">Il peut y avoir un écart entre ce que je crois être et ce que je suis &rArr; illusion possible sur soi.</span>
+<span data-marpit-fragment="1">Il peut y avoir un écart entre ce que je crois être et ce que je suis &rArr; **illusion possible sur soi**.</span>
 
 <!-- actes ≠ paroles, croyances, velléités, rêves
 Ce qui me définit, ce n'est pas ce que j'aimerais être, ce que je crois être
@@ -779,9 +779,11 @@ Se croire artiste
 
 ---
 <!-- _class:  -->
-L'identité n'est pas à chercher en soi, mais dans le monde. <span data-marpit-fragment="1">Sartre critique l'idée qu'on pourrait comprendre qui on est par simple introspection.</span><span data-marpit-fragment="2"> L'être humain se définit “sur la route”.</span>
+**L'identité n'est pas à chercher en soi, mais dans le monde**. <span data-marpit-fragment="1">Sartre critique l'idée qu'on pourrait comprendre qui on est par simple introspection.</span>
 
-<span data-marpit-fragment="3">Exemples : Le bildungsroman</span><span data-marpit-fragment="4">, les road movies</span><span data-marpit-fragment="5"> (p.ex. : [La vie rêvée de Walter Mitty](https://ladigitale.dev/digiview/#/v/63c4fcaec47a3)</span>
+<span data-marpit-fragment="2">**L'être humain se définit “sur la route”**.</span>
+
+<span data-marpit-fragment="3">→ Exemples : Le _Bildungsroman_</span><span data-marpit-fragment="4">, les _road movies_</span><span data-marpit-fragment="5"> (p.ex. : [La vie rêvée de Walter Mitty](https://ladigitale.dev/digiview/#/v/63c4fcaec47a3)</span>
 
 <!-- 
 Angoisse fondamentale : on ne peut pas d'abord chercher à se connaître, puis faire des choix en fonction de qui on est.
@@ -804,13 +806,16 @@ Retour / angoisse : c'est en agissant qu'on va définir ce qu'on est, on ne peut
 <!-- _class: etape -->
 
 
-### 4) Autrui comme condition de soi
+### 4) Autrui comme <br>condition de soi
 
 ---
 
-Autrui est condition de la connaissance de soi : Sartre souligne l'importance du regard d'Autrui.
+Autrui est **condition de la connaissance de soi** : Sartre souligne l'importance du **regard d'Autrui**.
 
-<span data-marpit-fragment="1">Ambivalence : ce regard est à la fois ce qui permet une conscience authentique de soi</span><span data-marpit-fragment="2">, mais aussi ce qui peut conduire à la mauvaise foi et à figer l'individu dans une identité subie.</span>
+<span data-marpit-fragment="1">**Ambivalence** : ce regard est à la fois :</span>
+
+1) ce qui **permet une conscience authentique** de soi …
+2) … mais aussi ce qui peut conduire à la mauvaise foi et à **figer l'individu dans une identité** subie.
 
 
 <!-- 
@@ -829,9 +834,11 @@ https://journals.openedition.org/teth/615
 
 ---
 <!-- _class:  -->
-Autrui est aussi condition de mon existence. Sartre souligne l'importance de la reconnaissance de soi par autrui.
+Autrui est aussi **condition de mon existence**.
 
-<span data-marpit-fragment="1">Idée développée par les théories de la reconnaissance, notamment par Axel Honneth.</span>
+Sartre souligne l'**importance de la reconnaissance de soi** par autrui.
+
+<span data-marpit-fragment="1">→ Idée développée par les **théories de la reconnaissance**, notamment par Axel Honneth.</span>
 
 <!-- 
 Honneth / théories de la reconnaissance / affirmation de son existence
