@@ -57,13 +57,17 @@ span {font-size:0.90em}
 14) La personne que vous aimez (Charlie) décide, sans que vous le sachiez, que l’on fasse une copie parfaite d’elle-même car elle va bientôt mourir. Le clone vient alors vivre à vos côtés, tandis que Charlie décède, et vous ne vous rendez compte de rien. Aimez-vous toujours la même personne ?
 
 
+
 ---
-<!-- _class: fppppppp -->
+<!-- _class: partie -->
+# Points à retenir pour chaque cas
+
+---
+<!-- _class: fppppp -->
 <style scoped>
 ol {list-style-type:disc; margin-left:1em; text-align:left;}
+p img {background:transparent; width:100%; margin-top:-0.5em;}
 </style>
-
-### Points à retenir pour chaque cas
 
 #### Cas 1-3 (foetus / animaux / robots, IA)
 1) Importance de la notion de conscience [:link:](https://mymarkmap.netlify.app/#https://raw.githubusercontent.com/eyssette/mindmap/main/conscience-sens-moral-sens-psychologique.md)
