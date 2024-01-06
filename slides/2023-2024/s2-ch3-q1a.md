@@ -91,13 +91,13 @@ Descartes soutient que la conscience de soi est la forme de connaissance la plus
 <span data-marpit-fragment="3">= tester nos croyances en les soumettant à un doute radical :</span><span data-marpit-fragment="4"> s'il y a la moindre raison de douter, alors il faut douter.</span>
 
 
----
-<!-- _class: fpppppp -->
+<!--
 #### Précisions sur le doute radical
 
-**≠ doute ordinaire** : le doute ordinaire est suscité par une situation, ou un état psychique particulier qui nous fait douter ; tandis que le doute radical est volontaire.
+<span data-marpit-fragment="1">**≠ doute ordinaire** :</span><span data-marpit-fragment="2"> le doute ordinaire est suscité par une situation, ou un état psychique particulier qui nous fait douter ; tandis que le doute radical est volontaire.</span>
 
-**≠ un doute complotiste** : le doute radical ne s'applique pas à des faits particuliers, mais vise à déterminer le type de connaissance à laquelle on peut parvenir en général.
+<span data-marpit-fragment="3">**≠ un doute complotiste** :</span><span data-marpit-fragment="4"> le doute radical ne s'applique pas à des faits particuliers, mais vise à déterminer le type de connaissance à laquelle on peut parvenir en général.</span>
+-->
 
 
 ---
@@ -120,9 +120,34 @@ ol li li {margin-left:-1.5em; line-height:1.2em; margin-right:-2em;}
 	2) Reformulation moderne : la distinction entre l'inconcevable et l'impossible
 	3) Des exemples dans l'histoire des mathématiques : <br><span data-marpit-fragment="2">les nombres imaginaires</span><span data-marpit-fragment="3">, les géométries non-euclidiennes</span><span data-marpit-fragment="4">, les nombres infinis à gauche</span>
 
+---
+<!-- _class:  -->
+Rien ne semble résister au doute radical.
+
+<span data-marpit-fragment="1">Mais : puis-je douter de ma propre existence et du fait que je suis en train de penser ?</span>
+
+<span data-marpit-fragment="2">Descartes montre que l'affirmation : « je pense, j'existe » est une certitude absolue.</span> <span data-marpit-fragment="3">C'est ce qu'on appelle le _cogito_</span>
+
+---
+<!-- _class: fmmm -->
+<style scoped>
+ol {margin-top:-0.25em}
+</style>
+#### Explications possibles du cogito
+
+1. <span data-marpit-fragment="1">Une asymétrie entre le cogito et les autres affirmations</span>
+
+<span data-marpit-fragment="2">Si je pense que je marche, il est possible qu'en fait je rêve que je marche et donc que je ne marche pas véritablement.</span>
+
+<span data-marpit-fragment="3">Mais si je pense que je pense : le fait de rêver que je pense ne peut pas me conduire à l'idée que je ne pense pas véritablement. Le fait même de rêver prouve que je suis en train de penser.</span>
+<span data-marpit-fragment="4">Même si un malin génie essaie de me faire croire que je pense, croire que je pense prouve que je pense.</span>
+
+<span data-marpit-fragment="5">Le cogito est le seul cas où l'acte de penser (<u>je pense</u> que …) prouve le contenu de ma pensée (je pense que <u>je pense</u>).</span>
+
 
 ---
 <!-- _class:  -->
+2. Une contradiction interne
 
 
 ---
