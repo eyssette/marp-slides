@@ -214,9 +214,9 @@ Deuxième partie
 
 Il y a une différence entre chercher un stylo dans une trousse et chercher son moi intérieur :
 
-1) Le moi n'est pas une chose extérieure qu'on peut localiser précisément dans l'espace 
-2) On n'a pas une idée préalable précise de ce qu'est le moi
-3) Le moi n'a pas des contours précis qui permettraient de le saisir
+1) Le moi n'est **pas une chose extérieure** qu'on peut localiser précisément dans l'espace 
+2) On n'a **pas une idée préalable précise** de ce qu'est le moi
+3) Le moi n'a **pas des contours précis** qui permettraient de le saisir
 
 ---
 <!-- _class: citationC fm -->
@@ -228,12 +228,12 @@ Il y a une différence entre chercher un stylo dans une trousse et chercher son 
 
 
 ---
-<!-- _class: fp -->
+<!-- _class: f -->
 Hume montre que le Moi est insaisissable.
 
-<span data-marpit-fragment="1">Avoir conscience de soi, ce n'est pas saisir une chose qui serait moi.</span><span data-marpit-fragment="2"> La conscience de soi est toujours la conscience d'une perception particulière.</span>
+<span data-marpit-fragment="1">Avoir conscience de soi, ce n'est pas saisir une chose qui serait moi.</span><span data-marpit-fragment="2"> La conscience de soi est toujours la **conscience d'une perception** particulière.</span>
 
-<span data-marpit-fragment="3">Le terme de perception a ici un sens large :</span><span data-marpit-fragment="4"> il inclut les perceptions au sens strict (ce qu'on observe avec nos sens)</span><span data-marpit-fragment="5">, mais aussi les sensations, les émotions, les souvenirs, les idées …</span>
+<span data-marpit-fragment="3">Le terme de perception a ici un **sens large** :</span><span data-marpit-fragment="4"> il inclut les perceptions au sens strict (ce qu'on observe avec nos sens)</span><span data-marpit-fragment="5">, mais aussi les sensations, les émotions, les souvenirs, les idées …</span>
 
 <span data-marpit-fragment="6">Si je pense à moi, je peux ainsi : regarder mon corps</span><span data-marpit-fragment="7">, prendre conscience que j'ai chaud ou froid, que je suis en colère</span><span data-marpit-fragment="8">, me souvenir de mon enfance, penser à mes projets …</span>
 
@@ -242,6 +242,7 @@ Hume montre que le Moi est insaisissable.
 <!-- _class: definition fppp -->
 <style scoped>
 p {border:none; font-size:1.15em; padding:0.1em}
+p strong {color:initial; font-weight:bold}
 h3 {margin-top:-0.25em; margin-bottom:0.15em}
 </style>
 
@@ -249,8 +250,8 @@ Hume montre que le Moi n'est **pas une substance** <span data-marpit-fragment="1
 
 ### Définition
 
-- <span data-marpit-fragment="2">Au sens étymologique, une substance désigne “ce qui se tient dessous”
-- <span data-marpit-fragment="3">Une substance est une réalité fondamentale</span><span data-marpit-fragment="4"> qui reste permanente derrière les changements en surface.</span>
+- <span data-marpit-fragment="2">Au sens étymologique, une **substance** désigne “ce qui se tient dessous”
+- <span data-marpit-fragment="3">Une **substance** est une réalité fondamentale</span><span data-marpit-fragment="4"> qui reste permanente derrière les changements en surface.</span>
 
 
 
@@ -263,13 +264,13 @@ Hume montre que le Moi n'est **pas une substance** <span data-marpit-fragment="1
 
 ---
 <!-- _class: fppp -->
-Le moi est simplement une multiplicité de perceptions, en flux perpétuel.
+Le moi est simplement une **multiplicité** de perceptions, en **flux perpétuel**.
 
-<span data-marpit-fragment="1">Le moi comme chose réelle indépendante n'est qu'une fiction.</span>
+<span data-marpit-fragment="1">Le moi comme chose réelle indépendante n'est qu'**une fiction**.</span>
 
 #### <span data-marpit-fragment="2">Un parallèle intéressant à faire</span>
 
-<span data-marpit-fragment="3">Dans le bouddhisme, la pratique de la méditation n'est pas une manière de revenir à son moi intérieur</span><span data-marpit-fragment="4">, c'est au contraire une expérience de l'impermanence de toutes choses (du flux perpétuel de l'existence)</span><span data-marpit-fragment="5"> qui doit nous aider à nous délivrer de l'attachement au Moi.</span>
+<span data-marpit-fragment="3">Dans le **bouddhisme**, la pratique de la **méditation** n'est pas une manière de revenir à son moi intérieur</span><span data-marpit-fragment="4">, c'est au contraire une expérience de **l'impermanence** de toutes choses (du flux perpétuel de l'existence)</span><span data-marpit-fragment="5"> qui doit nous aider à nous délivrer de l'attachement au Moi.</span>
 
 <!-- 
 
