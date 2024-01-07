@@ -180,11 +180,11 @@ blockquote{text-indent:1.5em; font-size:20px;  background-color:white; margin:0p
 
 
 ---
-<!-- _class: fppppppp -->
+<!-- _class: fppppp -->
 #### Question directrice :
 Qu'est-ce qui constitue l'essence d'un être humain ?
 
-<span data-marpit-fragment="1">La question n'est pas de savoir ce qui fait l'essence d'un être humain en général, mais de déterminer ce qui définit un être humain en particulier.</span>
+<span data-marpit-fragment="1">La question n'est pas de savoir ce qui fait l'essence d'un être humain en général, mais de déterminer ce qui définit un être humain en particulier, c'est-à-dire son identité personelle</span>
 
 <span data-marpit-fragment="2">Plus précisément, la question est la suivante : qu'est-ce qui définit ce que je suis ?</span>
 
@@ -368,7 +368,7 @@ On vérifie :
 <!-- _class: fm -->
 **I – <span data-marpit-fragment="1">Sartre définit ce qui fait l'essence d'un être humain :**</span> <span data-marpit-fragment="2">mon essence (ce que je suis) n'est pas définie à l'avance : je suis ce que je fais de moi</span>
 
-<span data-marpit-fragment="3">**II – Sartre dégage une conséquence du fait d'avoir à choisir ce que je suis:**</span> <span data-marpit-fragment="4">la responsabilité d'avoir à définir ce que je suis est source d'angoisse</span>
+<span data-marpit-fragment="3">**II – Sartre dégage une conséquence du fait d'avoir à choisir ce que je suis :**</span> <span data-marpit-fragment="4">la responsabilité d'avoir à définir ce que je suis est source d'angoisse</span>
 
 <span data-marpit-fragment="5">**III – Sartre précise que les choix qui définissent mon identité sont ceux que je réalise véritablement** :</span> <span data-marpit-fragment="6">c'est avant tout par mes actes que je me définis</span>
 
