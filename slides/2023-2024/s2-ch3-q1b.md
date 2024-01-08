@@ -43,18 +43,31 @@ Première partie
 >« [L]’identité personnelle […] s’étend aussi loin que peut remonter la conscience dans ses pensées et ses actes passés […]. [P]uisque c’est la même conscience qui fait qu’un homme est lui-même à ses propres yeux, l’identité personnelle dépend de cette conscience seule, qu’elle soit rattachée à une seule substance individuelle, ou qu’elle se préserve à travers la succession de substances diverses. Car, dans la mesure où un être intelligent peut reproduire l’idée de n’importe quelle action passée avec la même conscience qu’il en avait à l’époque et y ajouter la même conscience qu’il a de n’importe quelle action présente, dans cette mesure il est le même soi personnel. […] [Et] s’il était possible que la même personne ait à différents moments des consciences distinctes et incommunicables, le même homme constituerait sans doute différentes personnes à différents moments. […] »
 >>John **Locke**, _Essai sur l'entendement humain_, II, 27
 
+
 ---
-<!-- _class: fpppp -->
-Une conception qui permet de mieux comprendre certains cas : 
+<!-- _class:  -->
+Locke affirme que l'identité personnelle ne repose pas sur la permanence d'une substance <span data-marpit-fragment="1">(physique, matérielle : le corps</span><span data-marpit-fragment="2"> ou psychique : l'âme).</span>
 
-<span data-marpit-fragment="1">– les changements physiques</span>
-<span data-marpit-fragment="2">– les changements dans la manière d'être, le caractère, les croyances ou les valeurs</span>
-<span data-marpit-fragment="3">– l'amnésie ou la maladie d'Alzheimer</span>
-<span data-marpit-fragment="4">– les cas fictionnels de transfert d'une conscience dans un autre corps</span>
-<span data-marpit-fragment="5">– les fictions avec des personnes multiples dans un même corps</span>
-<span data-marpit-fragment="6">– les troubles dissociatifs de l'identité</span>
+<span data-marpit-fragment="3">Ce qui fait que je suis la même personne, ce n'est pas qu'il y a quelque chose en moi qui reste identique</span>
 
- <!--Locke : l'homme du jour et l'homme de la nuit -->
+---
+<!-- _class: fppp  -->
+<style scoped>
+h4 {margin-top:0}
+</style>
+
+Locke imagine deux scénarios fictifs.
+
+#### <span data-marpit-fragment="1">1/ Le prince et le savetier</span>
+<span data-marpit-fragment="2">= le transfert de la conscience d'un individu (le prince) dans le corps d'un autre (le savetier).</span>
+<span data-marpit-fragment="3">→ la personne qui se réveille, c'est le prince.</span>
+
+#### <span data-marpit-fragment="4">2/ L'homme du jour et l'homme de la nuit</span>
+
+<span data-marpit-fragment="5">= 2 consciences dans un même corps, qui ne communiquent pas entre elles.</span>
+<span data-marpit-fragment="6">→ Même si c'est le même corps, il y a deux personnes</span><span data-marpit-fragment="7"> (autre cas : l'amnésie totale).</span>
+
+<span data-marpit-fragment="8">&rArr; Ce n'est pas la permanence du corps qui fait l'identité, mais la conscience.</span>
 
 
 ---
@@ -102,7 +115,9 @@ Shaun Gallagher
 
 2/ conscience d'être la source de ses pensées et de ses actes
 cf. cours sur le libre arbitre
-Cas : schizophrénie
+Cas : schizophrénie ; hallucinations / trouble de l'agentivité (sentiment d'être agi, d'être comme une marionnette)
+
+le syndrome de la main étrangère
 
 => semble correspondre à ce que dit Locke dans le 1er paragraphe
 
@@ -129,7 +144,7 @@ La mémoire peut produire des faux-souvenirs.
 
 <span data-marpit-fragment="1">Par conséquent, suis-je vraiment la personne que je crois être ?</span>
 
-[Mind Field (Ep 8): Do You Know Yourself?](https://ladigitale.dev/digiview/#/v/6396d7de3decd)
+<span data-marpit-fragment="2">[Mind Field (Ep 8): Do You Know Yourself?](https://ladigitale.dev/digiview/#/v/6396d7de3decd)</span>
 
 
 ---
