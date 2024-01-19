@@ -55,7 +55,10 @@ ul li:before{content:"";}
 * Expliciter les enjeux
 * Accompagner les élèves, guider la prise de notes
 
+
 ---
+<!-- _class: fpppppppp -->
+
 * Donner des conseils d'organisation matérielle
 * Réfléchir à son usage du tableau
 * Donner des indications à l'oral et permettre aux élèves de reconnaître les indices qui signalent ce qui est à noter
