@@ -201,6 +201,14 @@ h3 {margin-bottom:68px}
 3) La thèse doit être précise : elle doit contenir un maximum de notions du texte.
 4) On vérifie que c'est bien l'idée centrale du texte
 
+
+---
+<!-- _class: citationL pp-->
+<style scoped>
+blockquote{text-indent:1.5em; font-size:20px;  background-color:white; margin:0px 129px; padding:0}
+</style>
+><p>« [I]l y a au moins un être chez qui l'existence précède l'essence, un être qui existe avant de pouvoir être défini par aucun concept et […] cet être c'est l'homme […]. Qu'est-ce que signifie ici que l'existence précède l'essence ? Cela signifie que l'homme existe d'abord, se rencontre, surgit dans le monde, et qu'il se définit après. L'homme, tel que le conçoit l'existentialiste, s'il n'est pas définissable, c'est qu'il n'est d'abord rien. Il ne sera qu'ensuite, et il sera tel qu'il se sera fait. […] L'existentialiste déclare volontiers que l'homme est angoisse. Cela signifie ceci : l'homme qui s'engage et qui se rend compte qu'il est […] celui qu'il choisit d'être […] ne saurait échapper au sentiment de sa totale et profonde responsabilité. Certes, beaucoup de gens ne sont pas anxieux ; mais nous prétendons qu'ils se masquent leur angoisse, qu'ils la fuient […]. [O]n n'échappe à cette pensée inquiétante que par une sorte de mauvaise foi. […] La doctrine que je vous présente […] déclare : il n'y a de réalité que dans l'action ; elle va plus loin d'ailleurs, puisqu'elle ajoute : l'homme n'est rien d'autre que son projet, il n'existe que dans la mesure où il se réalise, il n'est donc rien d'autre que l'ensemble de ses actes, rien d'autre que sa vie. […] [I]l n'y a pas d'amour autre que celui qui se construit […] ; il n'y a pas de génie autre que celui qui s'exprime dans des œuvres d'art : le génie de Proust c'est la totalité des œuvres de Proust. […] Un homme s'engage dans sa vie, dessine sa figure, et en dehors de cette figure il n'y a rien. […] Ce que nous voulons dire, c'est qu'un homme n'est rien d'autre qu'une série d'entreprises, qu'il est la somme, l'organisation, l'ensemble des relations qui constituent ces entreprises. […] Mais la subjectivité que nous atteignons là […] n'est pas une subjectivité rigoureusement individuelle […]. Pour obtenir une vérité quelconque sur moi, il faut que je passe par l'autre. L'autre est indispensable à mon existence, aussi bien d'ailleurs qu'à la connaissance que j'ai de moi. […] Ainsi découvrons-nous tout de suite un monde que nous appellerons l'intersubjectivité, et c'est dans ce monde que l'homme décide ce qu'il est et ce que sont les autres. »</p>
+
 ---
 <!-- _class:  -->
 
@@ -222,7 +230,7 @@ h3 {margin-bottom:0.8em}
 ol {padding-top:0}
 </style>
 ### Point méthode
-Pour dégager le plan, on peut s'aider de certains indicateurs :
+On dégage 2 à 4 parties dans le texte. On peut s'aider de certains indicateurs :
 1) les paragraphes, la ponctuation ;
 2) les connecteurs logiques, les mots de liaison, le vocabulaire argumentatif ;
 3) la répartition des notions importantes dans le texte.
@@ -387,18 +395,23 @@ II – Lecture fine
 
 
 ---
-<!-- _class: pointmethode  -->
-<style scoped>
-ol {padding-top:0.5em}
-</style>
-### Point méthode
-On rentre dans les détails en essayant d'abord de dégager des sous-parties dans chaque partie.
-
+<!-- _class: souspartie -->
+## A. Sous-parties
 
 
 ---
-<!-- _class: souspartie -->
-## A. Sous-parties
+<!-- _class: pointmethode fpp -->
+<style scoped>
+h3 {margin-bottom:1em}
+p:not(:nth-of-type(1)) {padding-top:0}
+.comparaison {font-size:0.95em}
+</style>
+### Point méthode
+On dégage 2 à 4 sous-parties dans chaque partie.
+
+<span data-marpit-fragment="1">Pour chaque sous-partie, on repère les éléments importants du texte qu'on devra expliquer en détail</span> <span data-marpit-fragment="2" class="comparaison">(= les endroits où il y a de quoi manger et où la petite souris va s'arrêter pour gratter).</span>
+
+<span data-marpit-fragment="3">On suit au maximum l'ordre du texte, mais on peut s'autoriser (pour les sous-parties seulement) à faire des regroupements.</span>
 
 
 ---
