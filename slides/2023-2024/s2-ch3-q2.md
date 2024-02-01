@@ -548,10 +548,17 @@ Schopenhauer défend une conception **essentialiste** et **fixiste** de l'identi
 
 <span data-marpit-fragment="1">&rArr; une forme de **fatalité** : nous ne pouvons pas choisir qui nous sommes, nous héritons d'un caractère.</span>
 
+<!-- !TODO: Au lieu de l'extrait de Mommy, mettre la bande annonce
+
+[![](https://i.ytimg.com/vi/p9R4xDF-Q6A/maxresdefault.jpg)](https://ladigitale.dev/digiplay/#/v/61a63a401e300)
+
+Un film de Xavier Dolan : _Mommy_ (2014)
+
+-->
+
 <!-- 
 le caractère : des traits stables qui caractérisent notre personnalité.
 -->
-
 
 ---
 <!-- _class:  -->
@@ -561,6 +568,8 @@ section {font-size:3.4em}
 De manière plus générale, nous avons parfois tendance à **essentialiser** les autres.
 
 - Qu'est-ce que cela veut dire ?
+
+<!-- !TODO: Formuler clairement la transition -->
 
 ---
 <!-- _class: definition -->
@@ -783,7 +792,7 @@ Se croire artiste
 
 <span data-marpit-fragment="2">**L'être humain se définit “sur la route”**.</span>
 
-<span data-marpit-fragment="3">→ Exemples : Le _Bildungsroman_</span><span data-marpit-fragment="4">, les _road movies_</span><span data-marpit-fragment="5"> (p.ex. : [La vie rêvée de Walter Mitty](https://ladigitale.dev/digiview/#/v/63c4fcaec47a3)</span>
+<span data-marpit-fragment="3">→ Exemples : Le _Bildungsroman_</span><span data-marpit-fragment="4">, les _road movies_</span><span data-marpit-fragment="5"> (p.ex. : [La vie rêvée de Walter Mitty](https://ladigitale.dev/digiview/#/v/63c4fcaec47a3))</span>
 
 <!-- 
 Angoisse fondamentale : on ne peut pas d'abord chercher à se connaître, puis faire des choix en fonction de qui on est.
@@ -800,7 +809,7 @@ road movies + "recherche de soi"
 
 Retour / angoisse : c'est en agissant qu'on va définir ce qu'on est, on ne peut pas d'abord chercher à savoir qui on est, puis agir
 
- -->
+-->
 
 ---
 <!-- _class: etape -->
@@ -838,9 +847,11 @@ Autrui est aussi **condition de mon existence**.
 
 Sartre souligne l'**importance de la reconnaissance de soi** par autrui.
 
-<span data-marpit-fragment="1">→ Idée développée par les **théories de la reconnaissance**, notamment par Axel Honneth.</span>
+<span data-marpit-fragment="1">→ Idée développée par les **théories de la reconnaissance**, notamment par Axel Honneth [:link:](https://mymarkmap.netlify.app/#https://github.com/eyssette/mindmap/blob/main/importance-reconnaissance-Honneth.md).</span>
 
 <!-- 
+
+
 Honneth / théories de la reconnaissance / affirmation de son existence
 - enfant : famille / reconnaissance affective / 
 - adulte : 
