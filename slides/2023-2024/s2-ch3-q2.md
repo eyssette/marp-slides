@@ -839,6 +839,14 @@ Autrui est **condition de la connaissance de soi** : Sartre souligne l'importanc
 1) ce qui **permet une conscience authentique** de soi …
 2) … mais aussi ce qui peut conduire à la mauvaise foi et à **figer l'individu dans une identité** subie.
 
+<!-- 
+Exemple de la honte
+
+sujet / objet
+
+faire lien avec confabulation
+
+-->
 
 <!-- 
 male gaze
