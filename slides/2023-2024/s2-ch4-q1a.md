@@ -86,8 +86,7 @@ Au **sens faible**, l'action volontaire est un acte qui provient de mon intentio
 
 ---
 <!-- _class: i1t0 -->
-[![](https://www.placegrenet.fr/wp-content/uploads/2018/01/danse-de-saint-guy.jpg)](https://ladigitale.dev/digiplay/#/v/61a63a15aecec)
-
+[![](https://i.ibb.co/JtqpMT8/danse-de-saint-guy.jpg)](https://ladigitale.dev/digiplay/#/v/61a63a15aecec)
 
 
 
