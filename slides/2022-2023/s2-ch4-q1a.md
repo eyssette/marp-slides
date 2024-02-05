@@ -141,7 +141,7 @@ img {height:555px; margin-left:1px!important}
 p:nth-of-type(2) {font-size:16px; margin-top:-80px; opacity:0.8}
 </style>
 
-![](https://live.staticflickr.com/372/32229172326_963405a18c_b.jpg)
+![](https://web.archive.org/web/20211201233724if_/https://live.staticflickr.com/372/32229172326_963405a18c_b.jpg)
 
 Radio Alfa - https://www.flickr.com/photos/radioalfa/32229172326
 
