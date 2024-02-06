@@ -85,6 +85,17 @@ Pour développer un logiciel, on a besoin de :
 5) pouvoir créer de la **documentation** facilement
 6) pouvoir récupérer le **feedback des utilisateurs** et **collaborer** avec d'autres développeurs pour corriger les bugs et ajouter des fonctionnalités
 
+
+---
+<!-- _class: fpppppp -->
+&rArr; Un premier intérêt de la _Forge des Communs Numériques Éducatifs_ :  <span data-marpit-fragment="1">des logiciels éducatifs faits par des enseignants pour les enseignants</span>
+
+#### <span data-marpit-fragment="2">Quelques exemples :</span>
+1) [Emmanuel Zimmert : La Digitale](https://forge.aeif.fr/users/ladigitale/projects)
+2) [Laurent Abbal](https://laurentabbal.forge.apps.education.fr/)
+3) [Arnaud Champollion](https://achampollion.forge.aeif.fr/)
+4) [Mes outils](https://eyssette.forge.aeif.fr/)
+
 ---
 <!-- _class: pp -->
 <style scoped>
