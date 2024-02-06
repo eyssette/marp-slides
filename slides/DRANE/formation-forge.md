@@ -28,9 +28,25 @@ p {font-size:1.3em; text-align:left!important;}
 p:nth-of-type(1){width:400px; margin-left:20px!important; padding:0}
 p:nth-of-type(2){margin-left:10px!important; width:410px}
 </style>
+
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Alexis_Kauffmann_-_Taipei_European_School_-_2017.jpg/800px-Alexis_Kauffmann_-_Taipei_European_School_-_2017.jpg)
 
 Un projet initié en 2022 par **Alexis Kauffmann**, chef de projet logiciels et ressources éducatives libres à la _Direction du Numérique pour l'Éducation_ (DNE)
+
+
+---
+<!-- _class:  -->
+<style scoped>
+section {font-size:4.6em}
+p {margin-top:0.4em; margin-left:50px}
+h4 {margin-bottom:0.5em; text-align:center;margin-left:0; font-size:1.5em; margin-top:-30px!important}
+</style>
+#### Plan
+
+**I -** Qu'est-ce qu'une forge ?
+À quoi ça sert ?
+
+**II -** Comment utiliser la forge ?
 
 ---
 <!-- _class: -->
@@ -44,7 +60,7 @@ h2 {background:rgba(0,0,0,0.9); color:white; padding:60px 130px;}
 
 ---
 <!-- _class:  -->
-Une forge ressemble à première vue à un **espace de  stockage en ligne** de fichiers que l'on peut synchroniser avec son propre ordinateur pour garantir la pérennité des données
+Une forge ressemble à première vue à un **espace de  stockage en ligne** de fichiers que l'on peut synchroniser avec son propre ordinateur pour garantir la pérennité des données.
 
 * Quelle est la différence avec NextCloud ?
 
@@ -75,26 +91,37 @@ exceptions possibles
 Git LFS -->
 
 ---
-<!-- _class: fmm -->
+<!-- _class: fmmm -->
+<style scoped>
+h4 {margin-bottom:0!important}
+ul {margin-top:0;}
+</style>
 
-Pour développer un logiciel, on a besoin de :
+#### Pour développer un logiciel, on a besoin de :
 1) pouvoir organiser et répartir les tâches à faire grâce à des outils de **gestion de projet**
-2) pouvoir **éditer** facilement le code, conserver un **historique des modifications** et pouvoir revenir en arrière en cas de problème
+2) pouvoir **éditer** facilement le code, conserver un **historique des modifications** et **revenir en arrière** en cas de problème
 3) pouvoir lancer automatiquement des **scripts** qui vont tester / vérifier le code ou le compiler
 4) s'il s'agit d'un logiciel en ligne, pouvoir facilement le **déployer sur le web**
 5) pouvoir créer de la **documentation** facilement
 6) pouvoir récupérer le **feedback des utilisateurs** et **collaborer** avec d'autres développeurs pour corriger les bugs et ajouter des fonctionnalités
 
+---
+La _Forge des Communs Numériques Éducatifs_ est une forge fondée sur un logiciel libre : Gitlab, qui propose tous ces outils.
+
+<span data-marpit-fragment="1">La connexion se fait via le portail Apps Education</span><span data-marpit-fragment="2"> (possibilité de comptes externes).</span>
+
+<span data-marpit-fragment="3">Les projets que l'on crée peuvent être publics ou privés.</span>
 
 ---
-<!-- _class: fpppppp -->
-&rArr; Un premier intérêt de la _Forge des Communs Numériques Éducatifs_ :  <span data-marpit-fragment="1">des logiciels éducatifs faits par des enseignants pour les enseignants</span>
+<!-- _class: fppp -->
+Premier intérêt de la _Forge des Communs Numériques Éducatifs_ : on peut trouver sur la Forge des logiciels **libres**<span data-marpit-fragment="1"> faits **par des enseignants pour les enseignants**</span>
 
 #### <span data-marpit-fragment="2">Quelques exemples :</span>
 1) [Emmanuel Zimmert : La Digitale](https://forge.aeif.fr/users/ladigitale/projects)
 2) [Laurent Abbal](https://laurentabbal.forge.apps.education.fr/)
 3) [Arnaud Champollion](https://achampollion.forge.aeif.fr/)
 4) [Mes outils](https://eyssette.forge.aeif.fr/)
+5) [Coopmaths : MathALÉA …](https://forge.aeif.fr/coopmaths/mathalea)
 
 ---
 <!-- _class: pp -->
@@ -109,6 +136,35 @@ h3 {width:95%; background:rgba(0,0,0,0.1); padding-top:50px;  padding-bottom:50p
 ### ![](https://forge.aeif.fr/framaka/visuel-forge/-/raw/main/avatars/avatar_Komit_face_cercle.png?ref_type=heads) B. Un outil qu'on peut <br>détourner et qui peut <br>servir à tout le monde<!-- fit -->
 
 
+---
+<!-- _class:  -->
+<style scoped>
+h4 {position:absolute; top:70px; font-size:1.2em}
+img {margin-top:3em}
+p {font-size:0.6em; text-align:center; color:#333; margin-top:1em}
+</style>
+
+
+#### Trois détournements possibles
+
+[![](https://raw.githubusercontent.com/eyssette/mindmap/main/detournements-possibles-de-la-forge-aper%C3%A7u.svg)](https://mymarkmap.netlify.app/#https://raw.githubusercontent.com/eyssette/mindmap/main/detournements-possibles-de-la-forge.md)
+
+(cliquer sur l'image pour voir le détail)
+
+
+---
+<!-- _class:  -->
+<style scoped>
+h4 {margin-bottom:0; font-size:1.3em}
+ol {text-align:left; font-size:1.12em}
+</style>
+#### Le principe
+
+1) Utiliser le **Markdown** et respecter éventuellement une **syntaxe** particulière
+3) Utiliser un **modèle** ou un **outil** sur la forge pour **transformer automatiquement** son texte en un site web, un diaporama …
+
+<!-- Une entrée possible pour aller vers la forge : CodiMD -->
+<!-- Single Source Publishing -->
 
 ---
 <!-- _class:  -->
@@ -135,6 +191,16 @@ h3 {width:95%; background:rgba(0,0,0,0.1); padding-top:50px;  padding-bottom:50p
 
 
 ---
+<!-- _class:  -->
+
+1) Authentification via le portail Apps Education
+2) Création d'un groupe
+3) Création d'un nouveau projet, éventuellement à partir d'un [modèle](https://forge.apps.education.fr/modeles-projets)
+4) Édition possible sur la forge directement
+5) Configuration du déploiement de ce projet sur le web
+
+
+---
 <!-- _class: pp -->
 <style scoped>
 section {display:flex; flex-direction:column; align-items:center;}
@@ -157,4 +223,4 @@ h3 {width:95%; background:rgba(0,0,0,0.1); padding-top:50px;  padding-bottom:50p
 </style>
 
 
-### ![](https://forge.aeif.fr/framaka/visuel-forge/-/raw/main/avatars/avatar_Komit_face_cercle.png?ref_type=heads) B. Travailler à plusieurs<br> avec les branches <!-- fit -->
+### ![](https://forge.aeif.fr/framaka/visuel-forge/-/raw/main/avatars/avatar_Komit_face_cercle.png?ref_type=heads) B. Travailler à plusieurs :<br> les bonnes pratiques <!-- fit -->
