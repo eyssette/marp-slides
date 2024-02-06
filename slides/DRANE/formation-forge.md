@@ -20,6 +20,18 @@ Cédric Eyssette - chargé de projet
 DRANE site de Lyon
 
 
+
+---
+<!-- _class: i1t1 horizontal  -->
+<style scoped>
+p {font-size:1.3em; text-align:left!important;}
+p:nth-of-type(1){width:400px; margin-left:20px!important; padding:0}
+p:nth-of-type(2){margin-left:10px!important; width:410px}
+</style>
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Alexis_Kauffmann_-_Taipei_European_School_-_2017.jpg/800px-Alexis_Kauffmann_-_Taipei_European_School_-_2017.jpg)
+
+Un projet initié en 2022 par **Alexis Kauffmann**, chef de projet logiciels et ressources éducatives libres à la _Direction du Numérique pour l'Éducation_ (DNE)
+
 ---
 <!-- _class: -->
 <style scoped>
@@ -28,7 +40,6 @@ h2 {background:rgba(0,0,0,0.9); color:white; padding:60px 130px;}
 ## I - Qu'est-ce <br>qu'une forge ?<br> À quoi ça sert ? <!-- fit -->
 
 ![bg](https://forge.aeif.fr/framaka/visuel-forge/-/raw/main/brigit-et-komit/Brigit_et_Komit_avec_fond_forge_sans_logo.png?ref_type=heads)
-
 
 
 ---
@@ -47,14 +58,32 @@ h3 {width:95%; background:rgba(0,0,0,0.1); padding-top:50px;  padding-bottom:50p
 </style>
 
 
-### ![](https://forge.aeif.fr/framaka/visuel-forge/-/raw/main/avatars/avatar_Komit_face_cercle.png?ref_type=heads) A. Un outil conçu <br>initialement pour<br>le développement<!-- fit -->
+### ![](https://forge.aeif.fr/framaka/visuel-forge/-/raw/main/avatars/avatar_Komit_face_cercle.png?ref_type=heads) A. Un outil conçu <br>initialement pour<br>les développeurs<!-- fit -->
 
+<span data-marpit-fragment="1">… mais qu'on va pouvoir détourner pour en faire un outil pour tout le monde !</span>
 
 ---
 <!-- _class:  -->
-Une forge répond à des besoins de développement informatique :
-1. 
+Une forge vise au départ à **héberger du code informatique**.
 
+<span data-marpit-fragment="1">Elle n'est **pas faite pour héberger des fichiers lourds** (vidéo, audio, …)</span><span data-marpit-fragment="2"> : on y trouve surtout des fichiers au format texte.</span>
+
+<span data-marpit-fragment="3">Une forge propose **un ensemble d'outils** pour répondre aux **besoins des développeurs**.</span>
+
+<!-- Pas faite pour héberger des fichiers lourds :
+exceptions possibles
+Git LFS -->
+
+---
+<!-- _class: fmm -->
+
+Pour développer un logiciel, on a besoin de :
+1) pouvoir organiser et répartir les tâches à faire grâce à des outils de **gestion de projet**
+2) pouvoir **éditer** facilement le code, conserver un **historique des modifications** et pouvoir revenir en arrière en cas de problème
+3) pouvoir lancer automatiquement des **scripts** qui vont tester / vérifier le code ou le compiler
+4) s'il s'agit d'un logiciel en ligne, pouvoir facilement le **déployer sur le web**
+5) pouvoir créer de la **documentation** facilement
+6) pouvoir récupérer le **feedback des utilisateurs** et **collaborer** avec d'autres développeurs pour corriger les bugs et ajouter des fonctionnalités
 
 ---
 <!-- _class: pp -->
