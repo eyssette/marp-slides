@@ -18,7 +18,7 @@
 	"marp": {
 		"prefix": "marp",
 		"body": [
-			"---\nmarp: true\ntheme: teaching\npaginate: true\nsize: 4:3\n---\n\n<!-- _class: titre -->\n\n# $1\n\nCédric Eyssette (2022-2023)\nhttps://eyssette.github.io/"
+			"---\nmarp: true\ntheme: teaching\npaginate: true\nsize: 4:3\n---\n\n<!-- _class: titre -->\n\n# $1\n\nCédric Eyssette (2023-2024)\nhttps://eyssette.github.io/"
 		],
 		"description": "Créer une présentation MARP"
 	},
