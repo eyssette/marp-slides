@@ -103,7 +103,7 @@ ul {margin-top:0;}
 3) pouvoir lancer automatiquement des **scripts** qui vont tester / vérifier le code ou le compiler
 4) s'il s'agit d'un logiciel en ligne, pouvoir facilement le **déployer sur le web**
 5) pouvoir créer de la **documentation** facilement
-6) pouvoir récupérer le **feedback des utilisateurs** et **collaborer** avec d'autres développeurs pour corriger les bugs et ajouter des fonctionnalités
+6) pouvoir récupérer le **feedback des utilisateurs** (“_issues_”) et **collaborer** avec d'autres développeurs pour corriger les bugs et ajouter des fonctionnalités
 
 ---
 La _Forge des Communs Numériques Éducatifs_ est une forge fondée sur un logiciel libre : Gitlab, qui propose tous ces outils.
@@ -199,6 +199,7 @@ h3 {width:95%; background:rgba(0,0,0,0.1); padding-top:50px;  padding-bottom:50p
 4) Édition possible sur la forge directement
 5) Configuration du déploiement de ce projet sur le web
 
+<!-- pipeline, runner, job, gitlab-ci.yaml cd/ci-->
 
 ---
 <!-- _class: pp -->
@@ -214,6 +215,44 @@ h3 {width:95%; background:rgba(0,0,0,0.1); padding-top:50px;  padding-bottom:50p
 
 
 ---
+<!-- _class:  -->
+
+Travailler en local, c'est travailler hors ligne, sur une copie de son projet.
+
+#### Intérêt :
+1) Édition plus rapide
+2) Gestion plus facile de l'historique des modifications
+2) Compilation plus rapide
+
+
+---
+<!-- _class:  -->
+<style scoped>
+section{font-size:3.45em}
+ol {text-align:left}
+</style>
+
+On va avoir besoin de :
+1) _Git_ : un logiciel qui permet de gérer l'historique des modifications et la synchronisation avec le projet en ligne
+2) _VS Code_ ou un autre éditeur de code
+3) _Logiciels pour la compilation_ : pandoc, jekyll, mdbook, mkdocs …
+
+<span data-marpit-fragment="1">Tout peut se faire ensuite dans _VS Code_.</span>
+
+---
+<!-- _class: fppp -->
+<style scoped>
+h4 {margin-bottom:0}
+</style>
+#### Un peu de vocabulaire de la forge
+
+1) _stage_ : ajouter des modications pour préparer un commit
+2) _commit_ : validation de modifications
+3) _push_ : pousser les commits sur le projet en ligne (“_remote_”)
+4) _fetch_ et _pull_ : récupérer les commits du projet en ligne et les intégrer à sa copie locale
+5) _merge_ : fusionner les modifications du projet en ligne et de la copie locale
+
+---
 <!-- _class: pp -->
 <style scoped>
 section {display:flex; flex-direction:column; align-items:center;}
@@ -224,3 +263,10 @@ h3 {width:95%; background:rgba(0,0,0,0.1); padding-top:50px;  padding-bottom:50p
 
 
 ### ![](https://forge.aeif.fr/framaka/visuel-forge/-/raw/main/avatars/avatar_Komit_face_cercle.png?ref_type=heads) B. Travailler à plusieurs :<br> les bonnes pratiques <!-- fit -->
+
+
+---
+<!-- _class:  -->
+1) Bien documenter ce que l'on fait
+2) Diviser le travail en branches
+3) Faire des commits
