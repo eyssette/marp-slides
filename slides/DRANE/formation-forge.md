@@ -105,6 +105,8 @@ ul {margin-top:0;}
 5) pouvoir créer de la **documentation** facilement
 6) pouvoir récupérer le **feedback des utilisateurs** (“_issues_”) et **collaborer** avec d'autres développeurs pour corriger les bugs et ajouter des fonctionnalités
 
+<!-- évoquer : méthode agile / DevOps -->
+
 ---
 La _Forge des Communs Numériques Éducatifs_ est une forge fondée sur un logiciel libre : Gitlab, qui propose tous ces outils.
 
@@ -129,7 +131,7 @@ Premier intérêt de la _Forge des Communs Numériques Éducatifs_ : on peut tro
 section {display:flex; flex-direction:column; align-items:center;}
 p {margin:0; }
 img {height:150px; background:transparent!important; float:left; margin-right:30px; margin-left:0px}
-h3 {width:95%; background:rgba(0,0,0,0.1); padding-top:50px;  padding-bottom:50px; padding-right:40px}
+h3 {width:95%; background:rgba(0,0,0,0.1); padding-top:50px;  padding-bottom:50px; padding-right:60px}
 </style>
 
 
@@ -183,7 +185,7 @@ h2 {background:rgba(0,0,0,0.9); color:white; padding:90px 130px;}
 section {display:flex; flex-direction:column; align-items:center;}
 p {margin:0; }
 img {height:150px; background:transparent!important; float:left; margin-right:30px; margin-left:0px}
-h3 {width:95%; background:rgba(0,0,0,0.1); padding-top:50px;  padding-bottom:50px; padding-right:40px}
+h3 {width:95%; background:rgba(0,0,0,0.1); padding-top:50px;  padding-bottom:50px; padding-right:60px}
 </style>
 
 
@@ -199,6 +201,8 @@ h3 {width:95%; background:rgba(0,0,0,0.1); padding-top:50px;  padding-bottom:50p
 4) Édition possible sur la forge directement
 5) Configuration du déploiement de ce projet sur le web
 
+<!-- cloner / forker -->
+
 <!-- pipeline, runner, job, gitlab-ci.yaml cd/ci-->
 
 ---
@@ -211,7 +215,7 @@ h3 {width:95%; background:rgba(0,0,0,0.1); padding-top:50px;  padding-bottom:50p
 </style>
 
 
-### ![](https://forge.aeif.fr/framaka/visuel-forge/-/raw/main/avatars/avatar_Komit_face_cercle.png?ref_type=heads) B. Travailler en local<br> avec _git_ <!-- fit -->
+### ![](https://forge.aeif.fr/framaka/visuel-forge/-/raw/main/avatars/avatar_Komit_face_cercle.png?ref_type=heads) B. Travailler en local <br>sur son ordinateur <!-- fit -->
 
 
 ---
@@ -235,7 +239,7 @@ ol {text-align:left}
 On va avoir besoin de :
 1) _Git_ : un logiciel qui permet de gérer l'historique des modifications et la synchronisation avec le projet en ligne
 2) _VS Code_ ou un autre éditeur de code
-3) _Logiciels pour la compilation_ : pandoc, jekyll, mdbook, mkdocs …
+3) Si possible : _logiciels pour la compilation_ : pandoc, jekyll, mdbook, mkdocs …
 
 <span data-marpit-fragment="1">Tout peut se faire ensuite dans _VS Code_.</span>
 
@@ -246,11 +250,11 @@ h4 {margin-bottom:0}
 </style>
 #### Un peu de vocabulaire de la forge
 
-1) _stage_ : ajouter des modications pour préparer un commit
-2) _commit_ : validation de modifications
-3) _push_ : pousser les commits sur le projet en ligne (“_remote_”)
-4) _fetch_ et _pull_ : récupérer les commits du projet en ligne et les intégrer à sa copie locale
-5) _merge_ : fusionner les modifications du projet en ligne et de la copie locale
+1) _stage_ : ajouter des modications pour préparer un commit.
+2) _commit_ : validation de modifications.
+3) _push_ : pousser les commits sur le projet en ligne (“_remote_”).
+4) _fetch_ et _pull_ : récupérer les commits du projet en ligne et les intégrer à sa copie locale.
+5) _merge_ : fusionner les modifications du projet en ligne et de la copie locale.
 
 ---
 <!-- _class: pp -->
@@ -269,4 +273,6 @@ h3 {width:95%; background:rgba(0,0,0,0.1); padding-top:50px;  padding-bottom:50p
 <!-- _class:  -->
 1) Bien documenter ce que l'on fait
 2) Diviser le travail en branches
-3) Faire des commits
+3) Faire des petits commits avec un message clair
+4) Utiliser les outils de communication et de gestion de projet de la forge en ligne
+5) Plus avancé : tags, git workflow, conventions de nommage
