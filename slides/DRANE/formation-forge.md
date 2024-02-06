@@ -106,7 +106,9 @@ h3 {width:95%; background:rgba(0,0,0,0.1); padding-top:50px;  padding-bottom:50p
 </style>
 
 
-### ![](https://forge.aeif.fr/framaka/visuel-forge/-/raw/main/avatars/avatar_Komit_face_cercle.png?ref_type=heads) B. Un outil plus large :<br>des détournements<br> possibles !<!-- fit -->
+### ![](https://forge.aeif.fr/framaka/visuel-forge/-/raw/main/avatars/avatar_Komit_face_cercle.png?ref_type=heads) B. Un outil qu'on peut <br>détourner et qui peut <br>servir à tout le monde<!-- fit -->
+
+
 
 ---
 <!-- _class:  -->
