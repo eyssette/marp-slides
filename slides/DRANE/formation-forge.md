@@ -37,7 +37,7 @@ Un projet initié en 2022 par **Alexis Kauffmann**, chef de projet logiciels et 
 ---
 <!-- _class:  -->
 <style scoped>
-section {font-size:4.6em}
+section {font-size:3.7em}
 p {margin-top:0.4em; margin-left:50px}
 h4 {margin-bottom:0.5em; text-align:center;margin-left:0; font-size:1.5em; margin-top:-30px!important}
 </style>
@@ -100,7 +100,7 @@ ul {margin-top:0;}
 #### Pour développer un logiciel, on a besoin de :
 1) pouvoir organiser et répartir les tâches à faire grâce à des outils de **gestion de projet**
 2) pouvoir **éditer** facilement le code, conserver un **historique des modifications** et **revenir en arrière** en cas de problème
-3) pouvoir lancer automatiquement des **scripts** qui vont tester / vérifier le code ou le compiler
+3) pouvoir lancer automatiquement des **scripts** qui vont **tester** / vérifier le code ou le **compiler**
 4) s'il s'agit d'un logiciel en ligne, pouvoir facilement le **déployer sur le web**
 5) pouvoir créer de la **documentation** facilement
 6) pouvoir récupérer le **feedback des utilisateurs** (“_issues_”) et **collaborer** avec d'autres développeurs pour corriger les bugs et ajouter des fonctionnalités
@@ -223,7 +223,7 @@ h3 {width:95%; background:rgba(0,0,0,0.1); padding-top:50px;  padding-bottom:50p
 
 Travailler en local, c'est travailler hors ligne, sur une copie de son projet.
 
-#### Intérêt :
+#### <span data-marpit-fragment="1">Intérêt :</span>
 1) Édition plus rapide
 2) Gestion plus facile de l'historique des modifications
 2) Compilation plus rapide
@@ -232,16 +232,16 @@ Travailler en local, c'est travailler hors ligne, sur une copie de son projet.
 ---
 <!-- _class:  -->
 <style scoped>
-section{font-size:3.45em}
+section{font-size:2.75em}
 ol {text-align:left}
 </style>
 
 On va avoir besoin de :
 1) _Git_ : un logiciel qui permet de gérer l'historique des modifications et la synchronisation avec le projet en ligne
 2) _VS Code_ ou un autre éditeur de code
-3) Si possible : _logiciels pour la compilation_ : pandoc, jekyll, mdbook, mkdocs …
+3) Si possible : _logiciels pour la compilation_ <span data-marpit-fragment="1">(pandoc, jekyll, mdbook, mkdocs …)</span>
 
-<span data-marpit-fragment="1">Tout peut se faire ensuite dans _VS Code_.</span>
+<span data-marpit-fragment="2">Tout peut se faire ensuite dans _VS Code_.</span>
 
 ---
 <!-- _class: fppp -->
@@ -275,4 +275,4 @@ h3 {width:95%; background:rgba(0,0,0,0.1); padding-top:50px;  padding-bottom:50p
 2) Diviser le travail en branches
 3) Faire des petits commits avec un message clair
 4) Utiliser les outils de communication et de gestion de projet de la forge en ligne
-5) Plus avancé : tags, git workflow, conventions de nommage
+5) Plus avancé : tags, _git workflow_, conventions de nommage
