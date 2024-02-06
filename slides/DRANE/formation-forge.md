@@ -168,6 +168,31 @@ ol {text-align:left; font-size:1.12em}
 <!-- Une entrée possible pour aller vers la forge : CodiMD -->
 <!-- Single Source Publishing -->
 
+
+
+---
+<!-- _class: pp -->
+<style scoped>
+section {display:flex; flex-direction:column; align-items:center;}
+p {margin:0; }
+img {height:150px; background:transparent!important; float:left; margin-right:30px; margin-left:0px}
+h3 {width:95%; background:rgba(0,0,0,0.1); padding-top:50px;  padding-bottom:50px; padding-right:60px}
+</style>
+
+
+### ![](https://forge.aeif.fr/framaka/visuel-forge/-/raw/main/avatars/avatar_Komit_face_cercle.png?ref_type=heads) C. Des valeurs inhérentes<br>à la Forge des Communs<br>Numériques Éducatifs<!-- fit -->
+
+
+---
+<!-- _class: i1t0 pp -->
+<style scoped>
+p:nth-of-type(2) img {position:absolute!important; top:220px; left:50px; width:300px; height:200px}
+</style>
+
+![](https://svgshare.com/i/12nH.svg)
+
+![](https://svgur.com/i/12mZ.svg)
+
 ---
 <!-- _class:  -->
 <style scoped>
