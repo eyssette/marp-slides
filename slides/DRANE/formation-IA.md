@@ -145,7 +145,7 @@ rapport au corps : cognition incarnée
 
 ---
 <!-- _class: etape -->
-### 1/ De l'IA symbolique à l'IA statistique et connexioniste
+### 1/ De l'IA symbolique et déductive à l'IA statistique, inductive <br>et connexioniste
 
 ---
 <!-- _class: etape -->
@@ -219,13 +219,36 @@ prompt / RAG / fine-tuning
 <!-- _class: souspartie -->
 ## C. Des questions <br>éthiques, sociales,<br>juridiques et politiques <!-- fit -->
 
+
+---
+<!-- _class: i1t1 vertical -->
+Lignes directrices éthiques sur l’utilisation de l’intelligence artificielle [:link:](https://drane.ac-lyon.fr/spip/Lignes-directrices-ethiques-utilisation-IA)
+
+![](https://eyssette.forge.aeif.fr/mindmap/lignes-directrices-IA-considerations-ethiques.svg)
+
+---
+<!-- _class:  -->
+
+Une thèse très contestable : la neutralité de la technique
+
+1) L'autonomie de la technique
+2) Le déterminisme technique
+3) La normativité de la technique : <span data-marpit-fragment="1">l'IA hérite de certaines normes</span> <span data-marpit-fragment="2">, elle ne respecte pas certaines normes</span><span data-marpit-fragment="3">, elle introduit de nouvelles normes</span>
+
+<!-- 
+
+
+
+changements :
+structure du travail
+
+sexisme / racisme
+droit d'auteur / normes écologiques
+
+
+-->
+
 <!--
-
-Conséquences sur :
-- environnement
-- travail
-
-Voir : schéma / document Europe
 
 Adaptée de Anna Jobin, Marcello Ienca et Effy Vatena, « The Global Landscape of AI Ethics Guidelines », Nature Machine Intelligence, vol. 1, 2019, p. 389-399.
 
@@ -250,8 +273,25 @@ Deuxième partie
 
 
 ---
+<!-- _class: i1t1 vertical -->
+Trois gestes professionnels
+
+![](https://raw.githubusercontent.com/eyssette/minisite-markpage/main/img/trois-gestes-professionnels.png)
+
+---
+<!-- _class: i1t1 vertical -->
+Trois usages possibles
+
+![](https://raw.githubusercontent.com/eyssette/minisite-markpage/main/img/trois-usages-IA.png)
+
+---
 <!-- _class: souspartie -->
 ## A. <br>Créer une ressource <!-- fit -->
+
+---
+<!-- _class: i1t1 vertical -->
+![](https://raw.githubusercontent.com/eyssette/minisite-markpage/main/img/creer-ressource-avec-IAG.png)
+
 
 ---
 <!-- _class: souspartie -->
@@ -259,9 +299,17 @@ Deuxième partie
 
 
 ---
+<!-- _class: i1t1 vertical -->
+![](https://raw.githubusercontent.com/eyssette/minisite-markpage/main/img/adapter-changer-format-ressource-avec-IAG.png)
+
+---
 <!-- _class: souspartie -->
 ## C. <br>Évaluer / améliorer<br> une ressource <!-- fit -->
 
+
+---
+<!-- _class: i1t1 vertical -->
+![](https://raw.githubusercontent.com/eyssette/minisite-markpage/main/img/evaluer-ameliorer-ressource-avec-IA.png)
 
 
 ---
@@ -279,6 +327,14 @@ Troisième partie
 - Un outil d'aide pour apprendre et réviser
 - Un tuteur personnel
 - Les _learning analytics_
+
+<!-- 
+PhiloGPT : vidéo
+MIA seconde : Projet gouvernemental (Modules Interactifs Adaptatifs)
+Chatbot
+
+répétition espacée : Anki
+-->
 
 ---
 <!-- _class: souspartie -->
