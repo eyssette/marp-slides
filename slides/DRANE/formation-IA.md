@@ -243,7 +243,7 @@ Une thèse très contestable : la neutralité de la technique
 
 1) L'autonomie de la technique
 2) Le déterminisme technique
-3) La normativité de la technique : <span data-marpit-fragment="1">l'IA hérite de certaines normes</span> <span data-marpit-fragment="2">, elle ne respecte pas certaines normes</span><span data-marpit-fragment="3">, elle introduit de nouvelles normes</span>
+3) La normativité de la technique
 
 <!-- 
 
