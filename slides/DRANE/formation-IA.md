@@ -191,6 +191,16 @@ Cours de [Chloé-Agathe Azencott](https://cazencott.info/dotclear/public/lecture
 <!-- _class: etape -->
 ### 3/ Les IA génératives
 
+
+---
+<!-- _class:  -->
+
+1) Premier principe : les embeddings ou vecteurs de mots
+2) Deuxième principe : la prédiction de tokens
+3) Prompts / RAG / Fine-tuning
+
+
+
 <!-- 
 
 IA générative
