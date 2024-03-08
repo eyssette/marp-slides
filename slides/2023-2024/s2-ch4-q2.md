@@ -308,7 +308,7 @@ Deux articles de l'_Encyclopédie Philosophique_ sur les biais cognitifs : [vers
 <!-- _class: i1t1 contain horizontal pp -->
 <style scoped>
 p:nth-child(1){margin-left:-20px!important; padding-left:0px;}
-p:nth-child(2){margin-right:30px; padding-right:20px!important; font-size:85%;}
+p:nth-child(2){margin-right:30px; padding-right:20px!important; font-size:1em;}
 span{display:block; border:rgb(24, 33, 117) 3px solid; border-radius:40px; text-align:justify; padding:20px; margin-left:-20px!important;}
 span strong{
     color: rgb(14, 23, 107);
@@ -316,7 +316,7 @@ span strong{
 }
 </style>
 
-![](https://ec56229aec51f1baff1d-185c3068e22352c56024573e929788ff.ssl.cf1.rackcdn.com/attachments/large/0/9/1/000552091.jpg)
+![](https://images2.medimops.eu/product/56523a/M02266227998-large.jpg)
 
 **Définition**<br/>
 <span>Un **nudge** désigne une manière d'influencer les comportements qui ne fait appel ni à la **violence** (exercice direct de la force physique) ni à la **contrainte** (interdiction et menace de sanctions) mais repose sur la **connaissance de la psychologie humaine**. </span>
