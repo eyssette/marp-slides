@@ -6,8 +6,10 @@ size: 4:3
 ---
 
 <!-- _class: titre -->
-
-# L'Intelligence artificielle : définitions et défis
+<style scoped>
+span {font-size:0.7em; display:block; margin-top:-10px}
+</style>
+# L'intelligence <br>artificielle :<br> <span>définitions et défis</span> <!-- fit -->
 
 Cédric Eyssette - chargé de projet
 DRANE site de Lyon
@@ -17,17 +19,16 @@ DRANE site de Lyon
 ---
 <!-- _class:  -->
 <style scoped>
-section {font-size:6em;}
-* {text-align:center}
+section {font-size:4em;}
 </style>
 
 ### Plan
 
-I - Quelques repères<br> fondamentaux
+<span data-marpit-fragment="1">I - Quelques repères fondamentaux</span>
 
-<span data-marpit-fragment="1">II - Côté profs</span>
+<span data-marpit-fragment="2">II - Côté profs</span>
 
-<span data-marpit-fragment="2">III - Côté élèves</span>
+<span data-marpit-fragment="3">III - Côté élèves</span>
 
 
 ---
@@ -102,6 +103,12 @@ Construit et dévoilé pour la première fois en 1770 par Johann Wolfgang von Ke
 
 ---
 <!-- _class: i1t1 vertical -->
+La machine de Turing
+
+![](https://openclipart.org/image/800px/339637)
+
+---
+<!-- _class: i1t1 vertical -->
 Le test de Turing
 
 ![](https://upload.wikimedia.org/wikipedia/commons/5/55/Turing_test_diagram.png)
@@ -145,7 +152,20 @@ rapport au corps : cognition incarnée
 
 ---
 <!-- _class: etape -->
-### 1/ De l'IA symbolique et déductive à l'IA statistique, inductive <br>et connexioniste
+### 1/ De l'IA symbolique <br>à l'IA connexioniste
+
+
+---
+<!-- _class:  -->
+<style scoped>
+p:nth-of-type(2) {margin-top:0.5em}
+</style>
+
+Premiers modèles d'IA : IA symbolique et déductive.
+<span data-marpit-fragment="1">&rarr; les systèmes experts (exemple : l'ordinateur Watson conçu pour gagner au jeu Jeopardy)</span>
+
+<span data-marpit-fragment="2">Changement de paradigme : l'IA devient statistique, inductive et connexioniste</span>
+<span data-marpit-fragment="3">&rarr; AlphaGo puis AlphaGo Zero</span>
 
 ---
 <!-- _class: etape -->
@@ -195,9 +215,9 @@ Cours de [Chloé-Agathe Azencott](https://cazencott.info/dotclear/public/lecture
 ---
 <!-- _class:  -->
 
-1) Premier principe : les embeddings ou vecteurs de mots
-2) Deuxième principe : la prédiction de tokens
-3) Prompts / RAG / Fine-tuning
+1) Premier principe : les _embeddings_ ou vecteurs de mots
+2) Deuxième principe : la prédiction de _tokens_
+3) _Prompts_ / _RAG_ / _Fine-tuning_
 
 
 
@@ -234,12 +254,14 @@ prompt / RAG / fine-tuning
 <!-- _class: i1t1 vertical -->
 Lignes directrices éthiques sur l’utilisation de l’intelligence artificielle [:link:](https://drane.ac-lyon.fr/spip/Lignes-directrices-ethiques-utilisation-IA)
 
-![](https://eyssette.forge.aeif.fr/mindmap/lignes-directrices-IA-considerations-ethiques.svg)
+[![](https://i.ibb.co/SvH1Y99/lignes-directrices-IA-considerations-ethiques.png)](https://mymarkmap.netlify.app/#https://raw.githubusercontent.com/eyssette/mindmap/main/lignes-directrices-IA-considerations-ethiques.md)
 
 ---
 <!-- _class:  -->
 
-Une thèse très contestable : la neutralité de la technique
+Une thèse très contestable : la neutralité de la technique.
+
+<span data-marpit-fragment="1">Trois objections possibles :</span>
 
 1) L'autonomie de la technique
 2) Le déterminisme technique
@@ -254,23 +276,6 @@ structure du travail
 
 sexisme / racisme
 droit d'auteur / normes écologiques
-
-
--->
-
-<!--
-
-Adaptée de Anna Jobin, Marcello Ienca et Effy Vatena, « The Global Landscape of AI Ethics Guidelines », Nature Machine Intelligence, vol. 1, 2019, p. 389-399.
-
-La transparence, qui correspond à la première moitié du cinquième principe général dont il vient d’être question : un SAI auquel une personne recourt ou est soumise doit être transparent pour cette personne — elle doit être en état de comprendre ses mécanismes fondamentaux, les motivations, intérêts et engagements des organismes qui l’ont conçu, diffusé, ou déployé, et les raisons de ses décisions particulières et le cas échéant avoir le droit et les moyens concrets de les contester.
-La justice et l’équité : d’une part les bénéfices de l’intelligence artificielle doivent être répartis de manière équitable ; en particulier, l’intelligence artificielle doit éviter les biais et toute forme de discrimination, délibérée ou involontaire ; elle doit être accessible à tous ; d’autre part l’intelligence artificielle doit servir à remédier aux inégalités et injustices existantes ; elle doit contribuer à resserrer la solidarité entre personnes et communautés.
-L’innocuité (non-malfaisance) : l’intelligence artificielle ne doit mettre en péril d’aucune façon les personnes, leurs biens, leurs droits ; elle doit s’entourer de toutes les précautions possibles pour éviter d’infliger des dommages matériels ou moraux aux personnes et aux collectivités (par exemple de favoriser la prolifération de nouvelles et d’informations mensongères ou d’encourager l’hostilité à l’égard de certains groupes ; ou encore d’engager une course aux armements en matière militaire et de cybersécurité, etc.).
-La responsabilité : tout déploiement d’un SAI doit engager la responsabilité pleine et entière des personnes et organismes impliqués dans la conception, la diffusion et le déploiement du système, en particulier en cas de mauvais fonctionnement ou de conséquence adverse imprévue.
-La protection de la vie privée (privacy), tout particulièrement la maîtrise des données personnelles, le droit de savoir qui en détient certaines et ce qui en est fait et celui de les retirer de toute banque de données hormis celles autorisées par la loi.
-Le progrès (bienfaisance) : l’intelligence artificielle ne doit être employée que lorsqu’elle apporte une amélioration aux conditions d’existence des personnes et des collectivités.
-L’autonomie et la dignité : chacun doit être libre de recourir ou non à un SAI, de lui déléguer certaines décisions et de reprendre à tout moment cette délégation ; l’intelligence artificielle doit contribuer à protéger la liberté et les droits des personnes et à étendre leurs capabilités, les moyens d’agir dont ils disposent concrètement ; elle ne doit en aucune façon, directement ou indirectement, porter atteinte à leur dignité ; elle doit respecter leurs valeurs particulières, sachant que certaines ne sont pas universellement partagées — en d’autres termes, elle se doit d’inclure une diversité de cultures et de systèmes normatifs, formalisés ou non.
-Le respect des obligations générales vis-à-vis des populations et de l’environnement : le développement de l’intelligence artificielle (par opposition à son déploiement) ne doit pas avoir de conséquences délétères pour certaines catégories de personnes (employés, prestataires, mais aussi résidents des communes sièges d’entreprises d’IA) ni pour la planète, notamment en matière de consommation énergétique.
-
 -->
 
 ---
@@ -278,9 +283,6 @@ Le respect des obligations générales vis-à-vis des populations et de l’envi
 # II - <br>Côté profs <br>[:link:](https://eyssette.forge.aeif.fr/markpage/#https://github.com/eyssette/minisite-markpage/blob/main/concevoir-ressources-avec-IA.md)
 <!-- fit -->
 Deuxième partie
-
----
-
 
 ---
 <!-- _class: i1t1 vertical -->
@@ -300,7 +302,7 @@ Trois usages possibles
 
 ---
 <!-- _class: i1t1 vertical -->
-![](https://raw.githubusercontent.com/eyssette/minisite-markpage/main/img/creer-ressource-avec-IAG.png)
+[![](https://raw.githubusercontent.com/eyssette/minisite-markpage/main/img/creer-ressource-avec-IAG.png)](https://eyssette.forge.aeif.fr/markpage/?sec=1&subsec=1#https://github.com/eyssette/minisite-markpage/blob/main/concevoir-ressources-avec-IA.md)
 
 
 ---
@@ -310,7 +312,7 @@ Trois usages possibles
 
 ---
 <!-- _class: i1t1 vertical -->
-![](https://raw.githubusercontent.com/eyssette/minisite-markpage/main/img/adapter-changer-format-ressource-avec-IAG.png)
+[![](https://raw.githubusercontent.com/eyssette/minisite-markpage/main/img/adapter-changer-format-ressource-avec-IAG.png)](https://eyssette.forge.aeif.fr/markpage/?sec=2&subsec=1#https://github.com/eyssette/minisite-markpage/blob/main/concevoir-ressources-avec-IA.md)
 
 ---
 <!-- _class: souspartie -->
@@ -319,7 +321,7 @@ Trois usages possibles
 
 ---
 <!-- _class: i1t1 vertical -->
-![](https://raw.githubusercontent.com/eyssette/minisite-markpage/main/img/evaluer-ameliorer-ressource-avec-IA.png)
+[![](https://raw.githubusercontent.com/eyssette/minisite-markpage/main/img/evaluer-ameliorer-ressource-avec-IA.png)](https://eyssette.forge.aeif.fr/markpage/?sec=3&subsec=1#https://github.com/eyssette/minisite-markpage/blob/main/concevoir-ressources-avec-IA.md)
 
 
 ---
@@ -338,11 +340,13 @@ Troisième partie
 - Un tuteur personnel
 - Les _learning analytics_
 
+<span data-marpit-fragment="1">Exemples : [MIA Seconde](https://www.ac-paris.fr/mia-seconde-un-service-numerique-de-remediation-en-francais-et-en-mathematiques-131013)</span><span data-marpit-fragment="2">, PhiloGPT</span>
+
+<span data-marpit-fragment="3">Un outil pour créer son propre chatbot (sans les hallucinations possibles d'une IA générative) : [ChatMD](https://eyssette.github.io/chatMD)</span>
+
 <!-- 
 PhiloGPT : vidéo
 MIA seconde : Projet gouvernemental (Modules Interactifs Adaptatifs)
-Chatbot
-
 répétition espacée : Anki
 -->
 
@@ -355,3 +359,14 @@ répétition espacée : Anki
 <!-- _class:  -->
 1) Approche EMI & EMC
 2) Approche philosophique et littéraire
+
+
+---
+<!-- _class: fppppppp -->
+### Pour approfondir
+
+Un parcours de formation sur Magistère :
+
+["Trajectoires IA" en AURA : accompagner l'intégration des IA en éducation](https://magistere.education.fr/ac-clermont/course/view.php?id=4683&section=1)
+
+N'hésitez pas à me contacter pour toute question ou précision !
