@@ -305,7 +305,7 @@ Une infographie qui cherche à faire une liste de tous les biais cognitifs : htt
 Deux articles de l'_Encyclopédie Philosophique_ sur les biais cognitifs : [version grand public](https://encyclo-philo.fr/s/encyclophilo/item/54) et [version académique](https://encyclo-philo.fr/s/encyclophilo/item/165) -->
 
 ---
-<!-- _class: i1t1 contain horizontal pp -->
+<!-- _class: i1t1 contain horizontal pp fmm -->
 <style scoped>
 p:nth-child(1){margin-left:-20px!important; padding-left:0px;}
 p:nth-child(2){margin-right:30px; padding-right:20px!important; font-size:1em;}
