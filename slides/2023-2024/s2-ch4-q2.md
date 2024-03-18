@@ -305,21 +305,22 @@ Une infographie qui cherche à faire une liste de tous les biais cognitifs : htt
 Deux articles de l'_Encyclopédie Philosophique_ sur les biais cognitifs : [version grand public](https://encyclo-philo.fr/s/encyclophilo/item/54) et [version académique](https://encyclo-philo.fr/s/encyclophilo/item/165) -->
 
 ---
-<!-- _class: i1t1 contain horizontal pp -->
+<!-- _class: i1t1 contain horizontal pp fmm -->
 <style scoped>
 p:nth-child(1){margin-left:-20px!important; padding-left:0px;}
-p:nth-child(2){margin-right:30px; padding-right:20px!important; font-size:85%;}
-span{display:block; border:rgb(24, 33, 117) 3px solid; border-radius:40px; text-align:justify; padding:20px; margin-left:-20px!important;}
+p:nth-child(2){margin-right:30px; padding-right:20px!important; font-size:1em;}
+span span {border:none!important}
+p > span:nth-of-type(1){display:block; border:rgb(24, 33, 117) 3px solid; border-radius:40px; text-align:justify; padding:20px; margin-left:-20px!important;}
 span strong{
     color: rgb(14, 23, 107);
     font-weight:400;
 }
 </style>
 
-![](https://ec56229aec51f1baff1d-185c3068e22352c56024573e929788ff.ssl.cf1.rackcdn.com/attachments/large/0/9/1/000552091.jpg)
+![](https://images2.medimops.eu/product/56523a/M02266227998-large.jpg)
 
 **Définition**<br/>
-<span>Un **nudge** désigne une manière d'influencer les comportements qui ne fait appel ni à la **violence** (exercice direct de la force physique) ni à la **contrainte** (interdiction et menace de sanctions) mais repose sur la **connaissance de la psychologie humaine**. </span>
+<span>Un **nudge** désigne une manière d'influencer les comportements <span data-marpit-fragment="1">qui ne fait appel ni à la **violence** (exercice direct de la force physique)</span> <span data-marpit-fragment="2">ni à la **contrainte** (interdiction et menace de sanctions) </span> <span data-marpit-fragment="3">mais repose sur la **connaissance de la psychologie humaine**.</span> </span>
 
 ---
 <!-- _class: souspartie -->
