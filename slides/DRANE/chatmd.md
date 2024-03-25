@@ -12,6 +12,12 @@ size: 4:3
 Cédric Eyssette (2023-2024)
 https://eyssette.forge.aeif.fr/chatMD
 
+
+---
+<!-- _class: partie -->
+# Présentation générale <br>de l'outil
+I
+
 ---
 <!-- _class: fpppppp -->
 
@@ -58,3 +64,7 @@ La configuration du chatbot se fait à partir d'un simple fichier en Markdown av
 
 <span data-marpit-fragment="1">Il ne faut pas hésiter à faire des demandes ou des remarques pour faire évoluer le logiciel : cedric.eyssette@ac-lyon.fr</span>
 
+---
+<!-- _class: partie -->
+# 
+II
