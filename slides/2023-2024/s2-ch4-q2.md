@@ -338,6 +338,10 @@ p:nth-child(2){font-size:70%; padding:0; margin-top:-13px;}
 
 Antoine Gallien, _Baisemains et mocassins_ (2005)
 
+<!-- ajouter :
+analyse
++ Bourdieu / habitus, corps
+ -->
 
 ---
 <!-- _class: i1t1  horizontal -->
@@ -351,10 +355,20 @@ p:nth-child(2){padding:0}
 
 Dans le film _L'esquive_, d'Abdelattif Kechiche, Un groupe d'adolescents d'une cité HLM répète, pour leur cours de français, un passage de la pièce _Le Jeu de l'amour et du hasard_ de Marivaux.
 
+<!-- 
+gestes de riche
+pas d'amour pur, pas de hasard
+ -->
+
 ---
 <!-- _class: i1t0 pp -->
 
 [![](../images/homogamie-sociale.png)](https://www.inegalites.fr/Couples-qui-se-ressemble-s-assemble)
+
+<!-- 
+notion d'homogamie sociale
+déterminisme statistique
+ -->
 
 
 ---
@@ -370,7 +384,11 @@ Dans le film _L'esquive_, d'Abdelattif Kechiche, Un groupe d'adolescents d'une c
 # II – <br>Les limites de<br> cet argument <!-- fit -->
 Deuxième partie
 
-
+<!-- 
+faire deux sous-parties : 
+A. déterminisme statistique + groupe
+B. déterminisme : pas un fatalisme
+ -->
 
 ---
 <!-- _class: citationC f-->
