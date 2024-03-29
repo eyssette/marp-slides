@@ -37,6 +37,9 @@ Première partie
 
 ---
 <!-- _class: f -->
+<style scoped>
+ol {padding-top:0}
+</style>
 ### Point de départ
 
 1) L'arrivée en masse des IA génératives redonne de l'intérêt aux chatbots
@@ -46,6 +49,9 @@ Première partie
 
 ---
 <!-- _class: fpppppp -->
+<style scoped>
+p:last-of-type a {font-size:0.9em}
+</style>
 
 [ChatMD](https://eyssette.forge.apps.education.fr/chatMD/) est un logiciel libre et gratuit qui permet de créer en ligne un chatbot simplement et sans création de comptes, ni pour le créateur ni pour l'utilisateur.
 
@@ -70,6 +76,36 @@ Le but est d'avoir un meilleur contrôle sur le chatbot et d'éviter les halluci
 La configuration du chatbot se fait à partir d'un simple fichier en Markdown avec une syntaxe particulière, facile à apprendre.
 
 <span data-marpit-fragment="1">On peut utiliser [CodiMD](https://codimd.apps.education.fr/) sur le portail Apps Education, ce qui permet de travailler de manière collaborative sur un chatbot ou même de donner l'accès à des élèves pour qu'ils créent un chatbot.</span>
+
+
+---
+<!-- _class:  -->
+<style scoped>
+pre {margin-left:60px; margin-right:60px; padding-bottom: 1px}
+</style>
+
+### Le principe 
+
+```markdown
+## Titre de ma réponse
+- déclencheur 1
+- déclencheur 2
+
+Contenu de la réponse : on peut
+utiliser toute la syntaxe Markdown,
+intégrer des images, des vidéo,
+des iframes …
+
+1. [Proposition 1](Titre Proposition 1)
+2. [Proposition 2](Titre Proposition 2)
+
+```
+
+---
+<!-- _class:  -->
+ChatMD calcule la réponse la plus appropriée en prenant en compte les déclencheurs, le titre de la réponse et éventuellement le contenu de la réponse.
+
+<span data-marpit-fragment="1">C'est un calcul de similarité qui permet de prendre en compte : les fautes d'orthographe, les termes proches mais pas identiques.</span>
 
 ---
 <!-- _class: partie -->
@@ -107,7 +143,7 @@ https://eyssette.forge.aeif.fr/chatMD/#https://codimd.apps.education.fr/PsdbCN3F
 
 ---
 <!-- _class: souspartie -->
-## B. Pour des collègues, <br>dans le cadre <br>d'une formation <!-- fit -->
+## B. Pour des collègues <br>(formation, accès à <br>des informations …) <!-- fit -->
 
 
 ---
@@ -115,7 +151,7 @@ https://eyssette.forge.aeif.fr/chatMD/#https://codimd.apps.education.fr/PsdbCN3F
 
 Tutoriel pour l'utilisation d'un outil informatique : [utilisation de la Forge](https://eyssette.forge.aeif.fr/chatMD/#https://github.com/eyssette/chatbot/blob/main/utiliser-la-forge.md), [mise en place d'ELEA](https://drane.ac-lyon.fr/spip/ELEA-la-plateforme-Moodle-de-l)
 
-Guide pratique pour pouvoir répondre à un problème, accès plus facile et interactif à des informations : [redirection vers la bonne plateforme d'assistance](https://drane-lyon.forge.aeif.fr/chatMD/#https://codimd.apps.education.fr/KgiRUrr8Ttq9-CxZGmxmmg), [gestion des fiches Google]()
+<span data-marpit-fragment="1">Guide pratique pour pouvoir répondre à un problème, accès plus facile et interactif à des informations : [redirection vers la bonne plateforme d'assistance](https://drane-lyon.forge.aeif.fr/chatMD/#https://codimd.apps.education.fr/KgiRUrr8Ttq9-CxZGmxmmg), [gestion des fiches Google]()</span>
 
 
 
@@ -134,8 +170,61 @@ Des tutoriels : [sur le site de ChatMD](https://eyssette.forge.aeif.fr/chatMD), 
 III
 
 ---
-<!-- _class: fppppp -->
+<!-- _class: fpppppp -->
 
-[ChatMD](https://eyssette.forge.apps.education.fr/chatMD/) est un outil récent et en évolution, avec déjà des options plus avancées comme l’intégration des mathématiques, la détection automatique des insultes, la recherche dans le contenu et pas seulement par mots-clés… 
+### Apparence du chatbot
+
+1) On peut supprimer le clavier si on veut guider l'utilisateur avec des options.
+2) On peut configurer l'apparence de son chatbot : choix de l'avatar, styles personnalisés (CSS).
+
+<span data-marpit-fragment="1">**En préparation** : choix de différents thèmes possibles.</span>
+
+
+
+---
+<!-- _class: fp -->
+
+### Réponses du chatbot
+
+1) On peut intégrer les mathématiques.
+2) Le chatbot peut détecter automatiquement les insultes.
+3) On peut mettre plusieurs réponses possibles et laisser chatMD faire un choix aléatoire parmi ces réponses.
+4) On peut changer les messages par défaut si le chatbot n'a pas trouvé de réponse appropriée.
+
+<span data-marpit-fragment="1">**En préparation** : intégration possible de ChatMD avec une IA générative.</span>
+
+---
+<!-- _class: fppp -->
+
+### Syntaxe du chatbot
+
+1) On peut changer la syntaxe des titres de réponse pour mieux organiser son document.
+2) On peut utiliser des variables pour éviter les répétitions.
+
+<span data-marpit-fragment="1">**En préparation** : exécution de fonctions plus complexes pour calculer la réponse appropriée, par exemple en prenant en compte une réponse précédente.</span>
+
+
+---
+<!-- _class: fpppp -->
+
+### Hébergement du chatbot
+
+1) On peut utiliser la version en ligne sur la Forge.
+2) On peut aussi créer son propre chatMD sur la Forge : on peut alors définir des liens raccourcis
+
+<span data-marpit-fragment="1">**En préparation** : des options de sécurisation</span><span data-marpit-fragment="2">, une version serveur …</span>
+
+<!-- 
+Sécurisation : pour n'accepter que des chatbots précis
+Version serveur : base de données + importantes (rapidité) / avoir un retour des utilisateurs sur les réponses reçues
+-->
+
+---
+<!-- _class:  -->
+<style scoped>
+a {display:block; margin-top:0.4em}
+</style>
+
+ChatMD est un logiciel destiné à s'adapter aux besoins des collègues.
 
 <span data-marpit-fragment="1">Il ne faut pas hésiter à faire des demandes ou des remarques pour faire évoluer le logiciel : cedric.eyssette@ac-lyon.fr</span>
