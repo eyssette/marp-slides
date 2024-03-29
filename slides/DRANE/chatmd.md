@@ -93,7 +93,7 @@ pre {margin-left:60px; margin-right:60px; padding-bottom: 1px}
 
 Contenu de la réponse : on peut
 utiliser toute la syntaxe Markdown,
-intégrer des images, des vidéo,
+intégrer des images, des vidéos,
 des iframes …
 
 1. [Proposition 1](Titre Proposition 1)
@@ -105,7 +105,7 @@ des iframes …
 <!-- _class:  -->
 ChatMD calcule la réponse la plus appropriée en prenant en compte les déclencheurs, le titre de la réponse et éventuellement le contenu de la réponse.
 
-<span data-marpit-fragment="1">C'est un calcul de similarité qui permet de prendre en compte : les fautes d'orthographe, les termes proches mais pas identiques.</span>
+<span data-marpit-fragment="1">C'est un calcul de similarité qui permet de prendre en compte : les fautes d'orthographe, et les termes proches mais pas identiques.</span>
 
 ---
 <!-- _class: partie -->
@@ -114,7 +114,7 @@ Deuxième partie
 
 ---
 <!-- _class: souspartie -->
-## A. Pour les élèves <br>(voire : par les élèves) <!-- fit -->
+## A. Pour les élèves <br>(voire, par les élèves) <!-- fit -->
 
 ---
 <!-- _class: f -->
@@ -124,9 +124,9 @@ Guide méthodologique pour la rédaction d'un devoir : [méthode pour la dissert
 
 <span data-marpit-fragment="1">Guide pratique pour l'utilisation d'une technique expérimentale : un [microscope](https://eyssette.forge.aeif.fr/chatMD/#https://codimd.apps.education.fr/xGNHIJSeTVCk6FHas-_71g), une [perceuse à colonne](https://eyssette.forge.aeif.fr/chatMD/#https://codimd.apps.education.fr/j2c6hkpCRuua0almpXIMdA?both) …</span>
 
-<span data-marpit-fragment="2">Soutien pour la révision d'un cours, ou activité préalable de découverte avant un cours : [révision des définitions en philosophie](https://eyssette.forge.aeif.fr/chatMD/#https://github.com/eyssette/chatbot/blob/main/vocabulaire-philosophie.md), [découverte des sons produits par les chauve-souris](https://eyssette.forge.aeif.fr/chatMD/#https://codimd.apps.education.fr/vzZtsGoxReGEYMAdecZlCg)</span>
+<span data-marpit-fragment="2">Soutien pour la révision d'un cours, ou activité préalable de découverte avant un cours : révision de [définitions en philosophie](https://eyssette.forge.aeif.fr/chatMD/#https://github.com/eyssette/chatbot/blob/main/vocabulaire-philosophie.md), découverte des [sons produits par les chauve-souris](https://eyssette.forge.aeif.fr/chatMD/#https://codimd.apps.education.fr/vzZtsGoxReGEYMAdecZlCg)</span>
 
-<span data-marpit-fragment="3">Réponse à des questions fréquentes d'élèves ou de parents : [sur l'orientation ou les formations disponibles](https://eyssette.forge.aeif.fr/chatMD/#https://codimd.apps.education.fr/FEW7JMjbSXur_C5IxLuFEg), [sur le passage au collège](https://eyssette.forge.aeif.fr/chatMD/#https://codimd.apps.education.fr/MRGzdbetRru3VbpeRePIJQ) …</span>
+<span data-marpit-fragment="3">Réponse à des questions fréquentes d'élèves ou de parents : sur l'[orientation après un bac STL](https://eyssette.forge.aeif.fr/chatMD/#https://codimd.apps.education.fr/FEW7JMjbSXur_C5IxLuFEg), sur le [passage au collège](https://eyssette.forge.aeif.fr/chatMD/#https://codimd.apps.education.fr/MRGzdbetRru3VbpeRePIJQ) (chatbots en cours de construction) …</span>
 
 
 ---
@@ -151,7 +151,7 @@ https://eyssette.forge.aeif.fr/chatMD/#https://codimd.apps.education.fr/PsdbCN3F
 
 Tutoriel pour l'utilisation d'un outil informatique : [utilisation de la Forge](https://eyssette.forge.aeif.fr/chatMD/#https://github.com/eyssette/chatbot/blob/main/utiliser-la-forge.md), [mise en place d'ELEA](https://drane.ac-lyon.fr/spip/ELEA-la-plateforme-Moodle-de-l)
 
-<span data-marpit-fragment="1">Guide pratique pour pouvoir répondre à un problème, accès plus facile et interactif à des informations : [redirection vers la bonne plateforme d'assistance](https://drane-lyon.forge.aeif.fr/chatMD/#https://codimd.apps.education.fr/KgiRUrr8Ttq9-CxZGmxmmg), [gestion des fiches Google]()</span>
+<span data-marpit-fragment="1">Guide pratique pour pouvoir répondre à un problème, accès plus facile et interactif à des informations : [redirection vers la bonne plateforme d'assistance](https://drane-lyon.forge.aeif.fr/chatMD/#https://codimd.apps.education.fr/KgiRUrr8Ttq9-CxZGmxmmg), gestion des fiches Google (lien à venir).</span>
 
 
 
@@ -193,6 +193,10 @@ III
 
 <span data-marpit-fragment="1">**En préparation** : intégration possible de ChatMD avec une IA générative.</span>
 
+<!-- L'IA pourrait calculer la réponse la plus appropriée en calculant la proximité entre l'input de l'utilisateur et les réponses possibles
+L'IA pourrait répondre si on n'a pas trouvé de réponse appropriée (avec une mention qui préciserait que c'est une IA générative qui répond)
+On pourrait détecter la demande et envoyer un prompt spécifique à l'IA en fonction de cette demandes -->
+
 ---
 <!-- _class: fppp -->
 
@@ -216,7 +220,7 @@ III
 
 <!-- 
 Sécurisation : pour n'accepter que des chatbots précis
-Version serveur : base de données + importantes (rapidité) / avoir un retour des utilisateurs sur les réponses reçues
+Version serveur : base de données pour pouvoir monter en échelle si on a un chatbot avec plus de données / pour aussi avoir un retour des utilisateurs sur les réponses reçues (bouton "feedback" en cas de mauvaise réponse p.ex.) afin de pouvoir améliorer le chatbot
 -->
 
 ---
