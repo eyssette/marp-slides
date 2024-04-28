@@ -66,10 +66,10 @@ Mais c'est surtout avec les technologies modernes que les êtres humains vont pa
 
 <div data-marpit-fragment="1">
 
-|Techniques artisanales|Technologie|
+|Techniques artisanales|Technologies modernes|
 |:-:|:-:|
 |<span data-marpit-fragment="1">Savoir-faire empirique</span>|<span data-marpit-fragment="2">Savoir scientifique</span>|
-|<span data-marpit-fragment="3">Compétences acquises par essai/erreur individuel ou transmission sociale</span>|<span data-marpit-fragment="4">Procédés industriels issus de la recherche</span>|
+|<span data-marpit-fragment="3">Compétences acquises <br>par essai/erreur individuel ou transmission sociale</span>|<span data-marpit-fragment="4">Procédés industriels <br>issus de la recherche</span>|
 
 </div>
 
