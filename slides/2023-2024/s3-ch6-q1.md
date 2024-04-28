@@ -76,7 +76,7 @@ Mais c'est surtout avec les technologies modernes que les êtres humains vont pa
 ---
 <!-- _class: citationC fpppp -->
 
-![bg left:30%](https://upload.wikimedia.org/wikipedia/commons/1/16/Max_Weber_1894.jpg)
+![bg left:27%](https://upload.wikimedia.org/wikipedia/commons/1/16/Max_Weber_1894.jpg)
 
 >« Faisons-nous une idée claire, tout d'abord, de ce que signifie pratiquement en fait cette rationalisation par la science et par la technique guidée par la science. […] Cela signifie le désenchantement du monde. Nous n'avons plus […] à recourir à des moyens magiques pour maîtriser les esprits et les solliciter. Bien plutôt, des moyens techniques et le calcul sont disponibles à cet effet. »
 >> Max **Weber**, _Le savant et la politique_
