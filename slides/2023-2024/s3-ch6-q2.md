@@ -428,15 +428,22 @@ Un épisode de la série _Black Mirror_
 img {height:390px; position:absolute; width:300px; margin-top:10px;}
 p:nth-of-type(2) {margin-left:400px; margin-right:50px}
 h3 {margin-top:-100px!important}
+a img {height:1em}
 </style>
 
 ### 1) La technologie peut-elle transformer<br> la biologie des individus ? <!-- fit -->
 
 <span data-marpit-fragment="1">![](https://www.vo.eu/fr/wp-content/uploads/sites/3/2020/12/Genetische-schaar-300x300.jpg)</span>
 
-<span data-marpit-fragment="1">Film : _Bienvenue à Gattaca_</span>
-<span data-marpit-fragment="2">Technologie CRISPR-CAS9 : édition possible du génome humain ?</span>
+<span data-marpit-fragment="1">Film : _Bienvenue à Gattaca_ [:link:](https://ladigitale.dev/digiview/#/v/662e40e976387)</span>
+<span data-marpit-fragment="2">Technologie CRISPR-CAS9 : des ciseaux génétiques pour éditer le génome</span>
 
+<!-- notion de "liberté morphologique"
+un rapport au corps différent
+maîtrise, choix vs. hasard, destinée que l'on subit
+
+Notion d'eugénisme
+-->
 
 ---
 <!-- _class: fpp -->
