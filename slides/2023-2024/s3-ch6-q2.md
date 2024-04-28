@@ -21,40 +21,40 @@ https://eyssette.github.io/
 
 Le transhumanisme
 
-<!-- https://www.youtube.com/watch?v=bTMS9y8OVuY -->
-
-<!-- Trois super
-1. Super longévité
-2. Super intelligence
-3. Super
-
- -->
 
 ---
-<!-- _class:  -->
-### Trois objectifs du transhumanisme <!-- fit -->
+<!-- _class: definition -->
 
-<span data-marpit-fragment="1">**1/ Super longévité**</span>
+### Définition
+Le **transhumanisme** défend l'idée qu'il faut transformer l'être humain grâce à la science et la technologie, <span data-marpit-fragment="1"> et que cette transformation est déjà en train de se réaliser.</span>
 
-<span data-marpit-fragment="2">Refus de tout prétendu destin naturel : on pourrait supprimer la vieillesse et la mort.</span>
-
-<span data-marpit-fragment="3">Max More : _Lettre à Mère Nature_</span>
 
 ---
-<!-- _class:  -->
-**2/ Super intelligence**
+<!-- _class: citationC fp -->
 
-Objectif fondé sur :
+![bg left:30%](https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Max_More%2C_Stanford_2006_%28square_crop%29.jpg/800px-Max_More%2C_Stanford_2006_%28square_crop%29.jpg)
 
-<span data-marpit-fragment="1">– les progrès dans l'I.A. (intelligence artificielle)</span>
+> <span data-marpit-fragment="1">« Chère Mère Nature,
+> Désolé de te déranger, mais nous, les humains – ta progéniture – avons des choses à te dire […]. Nous voudrions te remercier pour toutes les qualités merveilleuses dont tu nous a dotés […].</span>
+> <span data-marpit-fragment="2">Cependant, sauf ton respect, nous devons constater que sur de nombreux aspects tu as fait un travail médiocre pour ce qui est de la constitution humaine. […]</span>
+> <span data-marpit-fragment="3">Nous avons décidé qu'il était temps de modifier la constitution humaine. »</span>
+>> Max **More**, _Lettre à Mère Nature_
 
-<span data-marpit-fragment="2">– la possibilité d'une symbiose avec la technique </span><span data-marpit-fragment="3">(= intégration de la technique dans notre corps, dans notre cerveau ≠ simples outils externes).</span>
+
+<!--
+nous avons longtemps subi les limites biologiques de notre corps
+=> on peut maintenant dépasser ces limites, agir, contrôler, faire des choix, on peut se libérer de ces limites
+-->
 
 ---
-<!-- _class:  -->
-**3/ Super bien-être**
+<!-- _class: f -->
 
-<span data-marpit-fragment="1">Objectif fondé sur la possibilité de transformer les émotions humaines par des interventions biotechnologiques :</span><span data-marpit-fragment="2"> des pilules ou même des modifications génétiques.</span>
+Le but n'est pas simplement de guérir un être humain diminué par une maladie.
+
+<span data-marpit-fragment="1">Contre les **bioconservateurs**, le transhumanisme vise l'avènement d'un être humain augmenté grâce à des modifications biologiques et l'intégration en nous de la technologie.</span>
+
+1) **Le but :** vivre plus longtemps (voire être immortel), être plus fort, étendre notre perception, augmenter notre mémoire, être plus intelligent, mieux contrôler nos émotions … <!-- capacités biologiques/physiques ; capacités cognitives ; capacités émotionnelles -->
+2) **Les moyens envisagés :** prendre une pilule, modifier l'ADN, utiliser des prothèses, des nano-implants, des interfaces entre notre cerveau et l'IA.
 
 ---
 <!-- _class:  -->
