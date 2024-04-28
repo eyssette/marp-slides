@@ -17,13 +17,8 @@ https://eyssette.github.io/
 
 ![](https://live.staticflickr.com/8145/7137287911_5dd1e91b0d_k.jpg)
 
-
----
-<!-- _class:  -->
-#### Définition de la notion de technique
-
-* Un jeune enfant qui appuie au hasard sur les touche d'un piano n'a aucune technique de jeu.
-* À partir de cet exemple, comment peut-on définir la notion de technique ?
+<!-- * Un jeune enfant qui appuie au hasard sur les touche d'un piano n'a aucune technique de jeu.
+* À partir de cet exemple, comment peut-on définir la notion de technique ? -->
 
 
 <!-- Pour pouvoir poser correctement et de manière intéressante un véritable problème philosophique, il faut d'abord faire une première analyse de la notion de technique.
