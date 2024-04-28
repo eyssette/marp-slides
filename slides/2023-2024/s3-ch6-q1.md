@@ -117,7 +117,16 @@ La **maîtrise théorique** des lois de la nature va permettre la **maîtrise pr
 
 <span data-marpit-fragment="1">Il s'agit d'une conception **instrumentale** et **anthropocentrique** de la nature </span>
 
-<!-- film : Avatar -->
+
+---
+<!-- _class: i1t1 vertical pp-->
+<style scoped>
+img {height:600px}
+</style>
+
+James Cameron, _Avatar_ (2009)
+
+![](https://i.ibb.co/sqV3Tx2/avatar-nature.jpg)
 
 ---
 <!-- _class: partie -->
