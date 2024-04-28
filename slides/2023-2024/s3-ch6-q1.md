@@ -93,12 +93,15 @@ La technologie repose sur **l'objectivation** de la nature par la science et un 
 
 
 ---
-<!-- _class: definition fppppp-->
+<!-- _class: definition fppppppp-->
+<style scoped>
+span {display:inline-block; margin-bottom:0.2em}
+</style>
 
 ### Définition
-* Une loi de la nature est une relation constante entre plusieurs paramètres physiques.
-* Cette relation s'exprime sous la forme d'une équation mathématique entre des grandeurs physiques.
-* Exemple : la loi d'Ohm (U = RI)
+<span>Une **loi de la nature** est une relation constante entre plusieurs paramètres physiques.</span>
+<span data-marpit-fragment="1">Cette relation s'exprime sous la forme d'une **équation mathématique** entre des grandeurs physiques.</span>
+<span data-marpit-fragment="2">Exemple : la loi d'Ohm (U = RI)</span>
 
 
 ---
