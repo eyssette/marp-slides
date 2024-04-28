@@ -13,6 +13,12 @@ https://eyssette.github.io/
 
 
 ---
+<!-- _class: i1t0 pp -->
+
+![](https://live.staticflickr.com/8145/7137287911_5dd1e91b0d_k.jpg)
+
+
+---
 <!-- _class:  -->
 #### Définition de la notion de technique
 
