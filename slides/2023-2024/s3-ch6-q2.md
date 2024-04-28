@@ -71,23 +71,34 @@ Première partie
 
 ---
 <!-- _class:  -->
-**Rappel :** <span data-marpit-fragment="1">le mythe de Prométhée souligne le statut essentiel de la technique pour l'être humain</span>
+<style scoped>
+section {font-size:4.3em}
+</style>
+**Rappel**
+
+Le mythe de Prométhée souligne le statut essentiel de la technique pour l'être humain
 
 
 ---
 <!-- _class: fppp -->
 **En effet :**
-1) Par comparaison avec les animaux, la technique semble jouer un rôle fondamental pour l'être humain
-2) L'histoire de l'humanité montre que la technique a toujours joué un rôle essentiel :
+1) **Par comparaison avec les animaux**, la technique semble jouer un rôle fondamental pour l'être humain
+2) **L'histoire de l'humanité** montre que la technique a toujours joué un rôle essentiel :
     1) dès la Préhistoire, les êtres humains ont façonné des outils
     2) la technique est un facteur important de changements historiques
 
 ---
 <!-- _class: citationC fppp-->
+<style scoped>
+span[data-marpit-fragment]{position:absolute; top:10px; left:40px; background:#EEE; width:580px; padding:100px 30px; border:1px solid black; height:480px;}
+</style>
+
 ![bg left:26%](https://upload.wikimedia.org/wikipedia/commons/e/ed/Henri_Bergson_%28Nobel%29.jpg)
 
 >« En ce qui concerne l’intelligence humaine, on n’a pas assez remarqué que l’invention mécanique a d’abord été sa démarche essentielle […] Si nous pouvions nous dépouiller de tout orgueil, si, pour définir notre espèce, nous nous en tenions strictement à ce que l’histoire et la préhistoire nous présentent comme la caractéristique constante de l’homme et de l’intelligence, nous ne dirions peut-être pas _Homo sapiens_, mais _Homo faber_ »
 >> **Bergson**, _L'évolution créatrice_, chapitre II 
+
+<span data-marpit-fragment="1">Bergson affirme en ce sens qu'on devrait nommer notre espèce _homo faber_ plutôt qu'_homo sapiens_ afin de mettre en évidence le caractère central de la technique dans l'évolution humaine.</span>
 
 <!-- 
 
@@ -211,21 +222,23 @@ iframe {margin:auto; border:none!important}
 <!-- _class: fppppppp -->
 **Objectif visé :** <span data-marpit-fragment="1">la productivité (production rapide en masse, avec un coût le plus faible possible)</span>
 
-<span data-marpit-fragment="2">**Mais conséquence sur le travail :**</span><span data-marpit-fragment="3"> le travail lui-même devient mécanique ; l'ouvrier devient une sorte de machine.</span>
+<span data-marpit-fragment="2">**Mais conséquence sur le travail :**</span><span data-marpit-fragment="3"> le travail lui-même devient mécanique ; l'ouvrier devient une sorte de machine.</span>
 
 <!-- L'ouvrier sera d'ailleurs remplacé par des machines dès que ce sera possible
 -->
 
-<span data-marpit-fragment="4">Pour approfondir l'analyse critique de ce type de travail, on peut mobiliser la notion d'**aliénation** que propose Marx (avant la mise en place du taylorisme)</span>
+<span data-marpit-fragment="4">Le taylorisme produit ce qu'on appelle de **l'aliénation**.</span>
 
 
 ---
-<!-- _class:  -->
+<!-- _class: fpppp -->
 <style scoped>
 div {font-size:0.9em}
 </style>
 
-De manière générale, l'aliénation désigne le fait de ne plus avoir quelque chose. <span data-marpit-fragment="1">C'est une perte, une privation, une dépossession.</span>
+La notion d'aliénation provient de l'analyse que fait Marx du travail (avant même la mise en place du taylorisme).
+
+<span data-marpit-fragment="1">De manière générale, l'aliénation désigne le fait de ne plus avoir quelque chose.</span> <span data-marpit-fragment="2">C'est une perte, une privation, une dépossession.</span>
 
 <!-- alius : autre / -nus : appartenance, provenance -->
 
@@ -249,72 +262,35 @@ figure {margin-left:-100px!important}
 
 
 ---
-<!-- _class: fpppp -->
+<!-- _class: fp -->
 Marx distingue deux formes possibles d'aliénation dans le travail.
 
-### a) L'aliénation par rapport au produit du travail <!-- fit --> 
-“L'objet produit n'est pas de moi”
-= je ne me reconnais pas dans l'objet car il n'exprime rien de moi (aucune capacité physique ou intellectuelle)
-&rarr;  je ne m'affirme pas dans mon travail, je suis nié en tant qu'être humain et en tant qu'individu
-&rArr; sentiment d'insignifiance : perte de sens
+### <span data-marpit-fragment="1">a) L'aliénation par rapport au produit du travail</span> <!-- fit -->
 
+<span data-marpit-fragment="2">“L'objet produit n'est pas de moi”</span>
+
+<span data-marpit-fragment="3">= je ne me reconnais pas dans l'objet car il n'exprime rien de moi (aucune capacité physique ou intellectuelle).</span>
+
+<span data-marpit-fragment="4">&rArr; **sentiment d'insignifiance** : perte de sens.</span>
+
+<span data-marpit-fragment="5">C'est ce que produit la **division horizontale** du travail en réduisant le travail à une tâche élémentaire et mécanique.</span>
 
 ---
-<!-- _class:  -->
+<!-- _class: fpppp -->
 ### b) L'aliénation par rapport à l'acte de travail
-“La manière de travailler n'est pas de moi”
-= je ne décide pas de ma manière de travailler, je ne contrôle pas ce que je fais
-&rarr; c'est un travail contraint, soumis
-&rArr; sentiment d'impuissance : perte de contrôle
 
+<span data-marpit-fragment="1">“La manière de travailler n'est pas de moi”</span>
 
----
-<!-- _class:  -->
-Le taylorisme semble produire de l'aliénation :
+<span data-marpit-fragment="2">= je ne décide pas de ma manière de travailler, je ne contrôle pas ce que je fais.</span>
 
-La division horizontale du travail produit de l'insignifiance = 1 aliénation par rapport au produit du travail
+<span data-marpit-fragment="3">&rArr; **sentiment d'impuissance** : perte de contrôle.</span>
 
-La division verticale du travail produit de l'impuissance = 1 aliénation par rapport à l'acte de travail
+<span data-marpit-fragment="4">C'est ce que produit la **division verticale** du travail en codifiant de manière stricte ce que l'ouvrier doit faire.</span>
+
 
 <!-- 
 
-L'aliénation désigne le fait de ne plus avoir quelque chose
-alius : autre
--nus : indique la provenance, l'origine, l'appartenance
-
-=> Aliénation : dépossession, perte, privation
-
-- L'aliénation mentale désigne la folie, la perte de la raison (ne plus avoir la raison)
-- L'aliénation juridique désigne la transmission d'un bien (on ne le possède plus)  (ne plus avoir un bien)
-- Un droit inaliénable est un droit qu'on ne peut pas perdre, qu'on ne peut pas nous enlever (on ne peut pas faire en sorte que je ne l'ai plus)
-
-
-Perte de sens, insignifiance :
-un travail dans lequel l'individu se nie ≠ s'affirme
-(≠ activité libre du corps et de l'esprit)
-pas de réalisation, de reconnaissance de soi dans l'objet produit (qui devient étranger)
-= aliénation par rapport au produit de son travail
-perte de son humanité et de son individualité
-pas d'affirmation de soi en tant qu'être humain / en tant qu'individu
-
-(// division horizontale du travail)
-
-L'objet produit n'est plus à moi / n'est plus de moi / n'est plus la réalisation de moi
-
-Perte de puissance, impuissance :
-= aliénation par rapport au processus de production
-= aliénation par rapport à l'acte de travailler lui-même
-"dans l'acte de la production, à l'intérieur de l'activité productive elle-même"
-pas contrôlé par l'individu, pas choisi, soumis aux autres / soumis à la machine (“discipline de caserne”, “sert la machine”)
-Pas de reconnaissance de soi dans sa propre activité productive
-
-La manière de travailler n'est plus de moi
-
-(// division verticale du travail)
-
-
 = aliénation subjective
-
 + aliénation objective ("habileté… apparaît chétive devant la science prodigieuse, les énormes forces naturelles,… incorporées au système mécanique")
 aliénation du monde même dans lequel je vis
 
@@ -423,20 +399,23 @@ Un épisode de la série _Black Mirror_
 
 
 ---
-<!-- _class:   -->
+<!-- _class:  fm -->
 <style scoped> 
-img {height:390px; position:absolute; width:300px; margin-top:10px;}
-p:nth-of-type(2) {margin-left:400px; margin-right:50px}
+img {height:390px; position:absolute; width:250px; margin-top:10px;}
+p:not(:nth-of-type(1)) {margin-left:320px; margin-right:50px}
 h3 {margin-top:-100px!important}
-a img {height:1em}
+a img {height:1em; position:relative!important; margin-top:0; width:1em}
 </style>
 
 ### 1) La technologie peut-elle transformer<br> la biologie des individus ? <!-- fit -->
 
-<span data-marpit-fragment="1">![](https://www.vo.eu/fr/wp-content/uploads/sites/3/2020/12/Genetische-schaar-300x300.jpg)</span>
+![](https://www.vo.eu/fr/wp-content/uploads/sites/3/2020/12/Genetische-schaar-300x300.jpg)
 
-<span data-marpit-fragment="1">Film : _Bienvenue à Gattaca_ [:link:](https://ladigitale.dev/digiview/#/v/662e40e976387)</span>
-<span data-marpit-fragment="2">Technologie CRISPR-CAS9 : des ciseaux génétiques pour éditer le génome</span>
+<span data-marpit-fragment="1">Une référence : le transhumanisme</span>
+
+<span data-marpit-fragment="2">Un film : _Bienvenue à Gattaca_ [:link:](https://ladigitale.dev/digiview/#/v/662e40e976387)</span>
+
+<span data-marpit-fragment="3">Un exemple : CRISPR-CAS9, des ciseaux génétiques pour éditer le génome</span>
 
 <!-- notion de "liberté morphologique"
 un rapport au corps différent
