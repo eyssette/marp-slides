@@ -57,9 +57,9 @@ Dans le mythe de Prométhée, le vol du feu représente la possibilité pour l'�
 ![](https://mythologica.fr/grec/pic/cossiers_promethee.jpg)
 
 ---
-<!-- _class: fpppppp -->
+<!-- _class: fppppp -->
 <style scoped>
-table {font-size:0.9em; margin:auto; padding-top:20px}
+table {font-size:0.8em; margin:auto; padding-top:20px}
 table td:nth-of-type(1) {width:400px}
 </style>
 Mais c'est surtout avec les technologies modernes que les êtres humains vont parvenir à une véritable maîtrise de la nature
@@ -68,8 +68,8 @@ Mais c'est surtout avec les technologies modernes que les êtres humains vont pa
 
 |Techniques artisanales|Technologie|
 |:-:|:-:|
-|Savoir-faire empirique|Savoir scientifique|
-|Compétences acquises par l'expérience|Procédés industriels issus de la recherche|
+|<span data-marpit-fragment="1">Savoir-faire empirique</span>|<span data-marpit-fragment="2">Savoir scientifique</span>|
+|<span data-marpit-fragment="3">Compétences acquises par essai/erreur individuel ou transmission sociale</span>|<span data-marpit-fragment="4">Procédés industriels issus de la recherche</span>|
 
 </div>
 
@@ -96,9 +96,9 @@ La technologie repose sur **l'objectivation** de la nature par la science et un 
 <!-- _class: definition fppppp-->
 
 ### Définition
-- Une loi de la nature est une relation constante entre plusieurs paramètres physiques.
-- Cette relation s'exprime sous la forme d'une équation mathématique entre des grandeurs physiques.
-- Exemple : la loi d'Ohm (U = RI)
+* Une loi de la nature est une relation constante entre plusieurs paramètres physiques.
+* Cette relation s'exprime sous la forme d'une équation mathématique entre des grandeurs physiques.
+* Exemple : la loi d'Ohm (U = RI)
 
 
 ---
@@ -181,7 +181,7 @@ p:nth-of-type(1) {border:none; margin-bottom:0.5em; font-size:1.1em; padding:0}
 Hans Jonas critique le solutionnisme technologique, qui ne représente pour lui qu'une fuite en avant.
 
 ### Définition
-Le **solutionnisme technologique** désigne l'idée qu'on peut toujours trouver une solution technologique aux problèmes que rencontrent les êtres humains
+<span data-marpit-fragment="1">Le **solutionnisme technologique** désigne l'idée qu'on peut toujours trouver une solution technologique aux problèmes que rencontrent les êtres humains</span>
 
 
 ---
@@ -205,9 +205,9 @@ Le **solutionnisme technologique** désigne l'idée qu'on peut toujours trouver 
 ---
 <!-- _class:  -->
 
-Dans ce cadre de pensée, les devoirs envers la nature sont des devoirs indirects envers les êtres humains.
+Dans ce cadre de pensée, les devoirs envers la nature sont des devoirs **indirects** envers les êtres humains.
 
-Peut-on penser des devoirs directs envers la nature ?
+<span data-marpit-fragment="1">Mais ne peut-on pas penser des devoirs **directs** envers la nature ?</span>
 
 ---
  <!-- _class:  souspartie-->
@@ -215,8 +215,9 @@ Peut-on penser des devoirs directs envers la nature ?
 
 ---
 <!-- _class: fpppppp -->
-1) Une critique de **l'anthropocentrisme** : on parle alors d'écocentrisme ou d'écologie profonde
-2) Une critique de la **valeur simplement instrumentale** de la nature : la nature n'est pas seulement un ensemble de ressources utiles.
+1/ Une critique de **l'anthropocentrisme** : on parle alors d'écocentrisme ou d'écologie profonde
+
+<span data-marpit-fragment="1">2/ Une critique de la **valeur simplement instrumentale** de la nature : la nature n'est pas seulement un ensemble de ressources utiles.</span>
 
 
 ---
