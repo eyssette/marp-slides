@@ -14,8 +14,13 @@ https://eyssette.github.io/
 
 ---
 <!-- _class: i1t0 pp -->
+<style scoped>
+span {font-size:0.5em; position:absolute; bottom:10px; text-align:center; display:block; margin:auto; width:100%}
+</style>
 
 ![](https://live.staticflickr.com/8145/7137287911_5dd1e91b0d_k.jpg)
+
+<span>source : https://www.flickr.com/photos/avlxyz/7137287911</span>
 
 <!-- * Un jeune enfant qui appuie au hasard sur les touche d'un piano n'a aucune technique de jeu.
 * À partir de cet exemple, comment peut-on définir la notion de technique ? -->
