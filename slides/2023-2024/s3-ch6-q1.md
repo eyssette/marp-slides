@@ -53,7 +53,7 @@ Première partie
 <!-- _class: i1t1 horizontal f -->
 
 **Le mythe de Prométhée**<br>
-Le feu représente surtout l'idée que la puissance technique permet de compenser la faiblesse naturelle de l'être humain et de maîtriser ainsi la nature sauvage.
+Le feu représente avant tout l'idée que la puissance technique permet de compenser la faiblesse naturelle de l'être humain et de maîtriser ainsi la nature sauvage.
 
 ![](https://mythologica.fr/grec/pic/cossiers_promethee.jpg)
 
