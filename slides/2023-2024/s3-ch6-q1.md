@@ -52,7 +52,8 @@ Première partie
 ---
 <!-- _class: i1t1 horizontal f -->
 
-Dans le mythe de Prométhée, le vol du feu représente la possibilité pour l'être humain de ne plus vivre dans l'appréhension de la nature sauvage. <span data-marpit-fragment="1">Le feu rend possible un début de maîtrise de ses conditions d'existence </span><span data-marpit-fragment="2">: grâce à la technique, l'être humain n'est plus nu, c'est-à-dire vulnérable face au monde extérieur.</span>
+**Le mythe de Prométhée**<br>
+Le feu représente surtout l'idée que la puissance technique permet de compenser la faiblesse naturelle de l'être humain et de maîtriser ainsi la nature sauvage.
 
 ![](https://mythologica.fr/grec/pic/cossiers_promethee.jpg)
 
@@ -129,7 +130,9 @@ img {height:600px}
 
 James Cameron, _Avatar_ (2009)
 
-![](https://i.ibb.co/sqV3Tx2/avatar-nature.jpg)
+![](https://nuage03.apps.education.fr/index.php/apps/files_sharing/publicpreview/HdFmqMC4jQfFFys?file=/&fileId=206416869&x=5136&y=2530&a=true&etag=6634718810fe2)
+
+<!-- ![](https://i.ibb.co/pnpq3bT/avatar-nature.png) -->
 
 ---
 <!-- _class: partie -->
