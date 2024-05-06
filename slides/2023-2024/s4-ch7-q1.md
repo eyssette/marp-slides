@@ -25,7 +25,7 @@ https://eyssette.github.io/
 <style scoped>
 h1 {padding:30px}
 </style>
-# I – <br>Les institutions politiques ont<br> pour finalité le développement<br> des êtres humains <!-- fit -->
+# I – <br>Le pouvoir politique <br>est idéalement au service<br>du développement <br> des êtres humains <!-- fit -->
 Première partie
 
 
@@ -87,6 +87,9 @@ La politique n'est pas une affaire d'experts. Elle n'est pas réservée à certa
 # II – <br>L'État peut devenir<br>un simple moyen<br>de domination <!-- fit -->
 Deuxième partie 
 
+<!--
+= Une approche du pouvoir qui se veut **réaliste** et non pas idéaliste
+-->
 
 ---
 <!-- _class: souspartie -->
