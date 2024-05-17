@@ -14,6 +14,12 @@ https://eyssette.github.io/
 
 
 ---
+<!-- _class: i1t0 pp-->
+
+![](https://i.ibb.co/30LrFvg/je-Ne-Contracte-Pas-citoyens-Souverains.png)
+
+
+---
 <!-- _class: definition -->
 ### Définition
 Le **contractualisme** est l'idée que le pouvoir de l'État est justifié par une sorte de **contrat** qui accorde à l'État un **droit de gouverner**.
