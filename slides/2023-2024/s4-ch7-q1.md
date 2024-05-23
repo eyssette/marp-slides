@@ -93,7 +93,7 @@ Deuxième partie
 
 ---
 <!-- _class: souspartie -->
-## A. Approche historique : <br>Max Weber
+## A. Approche historique
 
 
 ---
@@ -137,35 +137,35 @@ ul ol {margin-left:0em}
 
 ---
 <!-- _class: souspartie -->
-## B. Approche économique<br>et sociale :<br>le marxisme
+<style scoped>
+h2 {padding-left:150px; padding-right:150px}
+</style>
+## B. Approche <br>économique et sociale <!-- fit -->
 
-
+<span data-marpit-fragment="1">&rarr;   le marxisme</span>
 
 ---
-<!-- _class: etape fppp sanspuces-->
+<!-- _class: etape fpp sanspuces-->
 <style>
 section.sanspuces ul {list-style-type:none; margin-left:-0.5em; background:none; margin-top:0}
 section.sanspuces ul li:before{content:""}
 </style>
 ### 1/ Les fondements du marxisme
 
-#### <span data-marpit-fragment="1">Première idée : le déterminisme économique</span>
+#### <span data-marpit-fragment="1">Première idée : le déterminisme économique</span> <!-- fit -->
 * Les phénomènes humains s'expliquent essentiellement par des facteurs économiques.
-* C'est une forme de matérialisme : pour comprendre les humains, il faut se focaliser sur les conditions matérielles d'existence, les moyens matériels par lesquels les êtres humains existent, agissent, pensent.
+* C'est une forme de matérialisme : pour comprendre les humains, il faut se focaliser sur les conditions matérielles d'existence.
+
+<!-- = les moyens matériels par lesquels les êtres humains existent, agissent, pensent. -->
 
 
 ---
-<!-- _class: sanspuces fppppppppp -->
-#### Deuxième idée : les classes sociales
+<!-- _class: sanspuces fpppp -->
+#### Deuxième idée : la lutte des classes
 
-* Le facteur le plus important réside dans la structuration de la société en classes sociales.
-* Il y a une classe dominante qui possède des moyens économiques, et une classe dominée, qui ne possède que sa force de travail.
+* La société est divisée en classes sociales distinctes : <span data-marpit-fragment="1">une classe dominante qui possède des moyens économiques, et une classe dominée, qui ne possède que sa force de travail.</span>
+* La classe dominante lutte pour conserver et prolonger sa position de domination. <span data-marpit-fragment="1">La classe dominée a intérêt à s'opposer à la domination qu'elle subit.</span>
 
----
-<!-- _class: sanspuces  -->
-#### Troisième idée : la lutte des classes
-* La classe dominante lutte pour conserver et prolonger sa position de domination.
-* La classe dominée a intérêt à s'opposer à la domination qu'elle subit.
 
 ---
 <!-- _class: etape fpppppppp sanspuces-->
@@ -194,10 +194,12 @@ h4 {text-align:justify!important}
 * L'idéologie désigne ici un ensemble d'idées, de représentations qui visent à rendre légitime une pratique ou une situation en masquant la réalité des rapports de domination
 
 ---
-<!-- _class: sanspuces  -->
-#### La critique des apparences démocratiques
-* La démocratie se présente comme au service du peuple, mais l'est-elle vraiment ? (cf. [infographie](https://pbs.twimg.com/media/FJ9c9LbXwAsvVOa?format=jpg&name=4096x4096), [document](https://www.inegalites.fr/L-Assemblee-nationale-ne-compte-quasiment-plus-de-representants-des-milieux))
-* Le vote est-il le reflet des pensées des individus ?
+<!-- _class: fppppp -->
+#### La critique des apparences démocratiques <!-- fit -->
+
+<span data-marpit-fragment="1">La démocratie se présente comme un pouvoir par le peuple pour le peuple, mais l'est-elle vraiment ? [:link:](https://pbs.twimg.com/media/FJ9c9LbXwAsvVOa?format=jpg&name=4096x4096) [:link:](https://www.inegalites.fr/L-Assemblee-nationale-ne-compte-quasiment-plus-de-representants-des-milieux)</span>
+
+<span data-marpit-fragment="1">La démocratie se fonde sur l'idée que chacun peut voter selon ses idées et que chaque voix compte pour un (_one man, one vote_), mais est-ce si simple ?</span>
 
 ---
 <!-- _class: citationC fppppp -->
@@ -218,15 +220,24 @@ h4 {text-align:justify!important}
 ### 3/ Que faut-il faire d'après le marxisme ?
 
 #### <span data-marpit-fragment="1">Première idée : la lutte pour une société sans domination</span>
-* Le but idéal d'un point de vue marxiste serait de parvenir à une société sans domination et par conséquent sans classes sociales. Mais, un tel changement ne peut arriver sans une lutte. La classe dominante fait et fera tout son possible pour empêcher cette révolution.
+* Le marxisme défend une position révolutionnaire et non pas réformiste.
+* Mais la classe dominante a pour intérêt d'empêcher cette révolution.
+
+<!-- on ne pourra pas simplement convaincre les dominants qu'ils doivent arrêter de dominer
+croyance aux pouvoirs de l'argumentation, de la parole : naïveté politique
+-->
+
+---
+<!-- _class: sanspuces fppppp  -->
+#### Deuxième idée : la dictature du prolétariat <!-- fit -->
+* La classe dominée doit s'emparer du pouvoir de l'État.
+* Ce n'est censé être qu'une phase temporaire afin de mettre en place progressivement une société sans domination.
 
 
 ---
-<!-- _class: sanspuces   -->
-#### Deuxième idée : la dictature du prolétariat
-* La classe dominée doit donc d'après le marxisme s'emparer du pouvoir de l'État pour lutter contre la classe dominante (c'est ce qu'on appelle la phase de “dictature du prolétariat”) et mettre en place progressivement une société sans domination.
+<!-- _class: fpppppp -->
 
----
 #### Problèmes
+* Dans quelle mesure la violence politique est-elle légitime ?
 * Si les dominés s'emparent du pouvoir, ne vont-ils pas tout simplement <span data-marpit-fragment="1">devenir de nouveaux dominants ?</span>
 * Les dominés n'ont-ils pas malgré tout intérêt à ce qu'existe un État capable de les protéger ?
