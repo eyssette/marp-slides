@@ -58,28 +58,47 @@ Première partie
 ![bg](https://upload.wikimedia.org/wikipedia/commons/9/9d/Leviathan_livre.jpg)
 
 ---
-<!-- _class: fpppp -->
-Point de départ : une description **pessimiste** de l'être humain.
+<!-- _class: fpp -->
+Point de départ : une description **pessimiste** de l'être humain.  Les êtres humains ne se soucient pas naturellement des autres et ne cherchent pas fondamentalement à agir moralement.
 
-<span data-marpit-fragment="1">Par nature, les êtres humains désirent **la puissance**, sans limites</span>
+<span data-marpit-fragment="1">Mais ils ne sont pas non plus animés par des pulsions violentes. Ce que désirent les êtres humains, c'est avant tout **la puissance**, sans limites</span>
 
-<span data-marpit-fragment="2">Par conséquent, les êtres humains, par nature, sont dans un **état de guerre** : pas d'harmonie naturelle, pas d'auto-régulation.</span>
+<span data-marpit-fragment="2">Le désir de puissance conduit chacun à entrer en **rivalité** avec autrui, pour des biens matériels ou des biens symboliques comme la gloire, le prestige.</span>
 
-<span data-marpit-fragment="3">Mais cet état de guerre est un **état de misère** : </span><span data-marpit-fragment="4">crainte permanente</span><span data-marpit-fragment="5"> → pas de coopération possible</span><span data-marpit-fragment="6"> → pas de progrès possible.</span>
+<!-- Une anthropologie pessimiste -->
 
 ---
-<!-- _class: fpppppppp -->
+<!-- _class: fppppp -->
+
+<span data-marpit-fragment="2">Par conséquent, les êtres humains, par nature, sont dans un **état de guerre** : il n'y a pas de sociabilité naturelle, pas d'harmonie spontanée, pas d'auto-régulation.</span>
+
+<span data-marpit-fragment="3">Mais cet état de guerre est un **état de misère** : </span><span data-marpit-fragment="4">crainte permanente</span><span data-marpit-fragment="5"> → pas de coopération possible</span><span data-marpit-fragment="6"> → pas de progrès possible</span>
+
+---
+<!-- _class: fpp -->
 Il faut absolument trouver un moyen de **sortir de l'état de guerre**.
 
-<span data-marpit-fragment="1">Le seul moyen d'en sortir, c'est d'accepter l'existence d'un pouvoir supérieur qui imposera le respect de règles qui vont **limiter le désir de puissance** de chacun.</span>
+<span data-marpit-fragment="1">Mais on ne peut pas se faire confiance pour que chacun accepte de limiter son désir de puissance : il faudrait **un pouvoir supérieur** qui impose des règles.</span>
 
-<span data-marpit-fragment="2">L'anarchie comme absence d'ordre (sens&nbsp;1) s'explique par l'anarchie comme absence de pouvoir supérieur (sens 2).</span>
+<span data-marpit-fragment="2">Sans pouvoir supérieur, il ne peut y avoir d'ordre social : **l'anarchie**, sur un plan vertical, comme absence de pouvoir supérieur, entraîne **l'anarchie**, sur un plan horizontal, comme absence d'ordre dans les relations entre individus.</span>
+
+<!-- 
+on ne peut pas faire confiance à l’intelligence humaine, au bon sens.   L'individu peut certes saisir rationnellement que la coopération avec les autres est dans l'intérêt bien compris de chacun ; tant que l'individu n'a pas de garantie qu'autrui va coopérer, la stratégie de la défiance semble logique et inévitable.
+-->
 
 ---
 
 Pour imposer le respect des règles et empêcher un retour à l'état de guerre, le pouvoir doit être **absolu**, sans limites, et il doit inspirer la crainte.
 
-<span data-marpit-fragment="1">L'État doit être un Léviathan, un monstre.</span>
+<span data-marpit-fragment="1">L'État doit être un Léviathan, un monstre : la peur du pouvoir de l'État garantit qu'on n'a plus peur d'autrui.</span>
+
+---
+<!-- _class: pp -->
+<style scoped>
+img{width:100%!important; margin-top:600px; display:block;}
+</style>
+
+![](https://upload.wikimedia.org/wikipedia/commons/9/9d/Leviathan_livre.jpg)
 
 ---
 <!-- _class: fppppppp  -->
@@ -93,16 +112,6 @@ ul {margin-top:-0.2em!important}
 
 
 <!--
-Point de départ :
-une anthropologie pessimiste
-Par nature, les êtres humains désirent la puissance, sans limites
-Par conséquent : l'état de nature est un état de guerre
-Mais : c'est un état de misère (pas de coopération, pas de progrès possible, crainte permanente)
-Donc : il faut absolument sortir de cette situation
-
-
-
-
 
 « [La démarche de Hobbes] consiste à déduire la nécessité du souverain de la structure des choses humaines. Hobbes y entreprend de fonder ce qu'il appelle une “science politique” [...] Au fond le projet de Hobbes est d'opérer en politique la même révolution que Galilée vient d'opérer en physique. [...] On ne lit plus dans la nature les desseins divins, mais le logos mathématique ; et l'étendue physique s'appréhende désormais géométriquement ; de même, les êtres humains [...] ne sont pas connaissables en tant que “créatures”, mais comme corps, autrement dit comme quasi-machines, [...] mus par les passions et par le désir. »
 
@@ -110,8 +119,6 @@ Gérard Mairet, Le principe de souveraineté
 
 (ii) Une anthropologie pessimiste qui justifie l’existence d’un pouvoir souverain
 
-Selon Hobbes, les hommes ont par nature un désir de puissance, qui les conduit facilement à entrer en rivalité avec autrui, pour des biens matériels ou des biens symboliques comme la gloire, le prestige, et à se méfier des autres.
-Hobbes s'oppose à l'idée d'une sociabilité naturelle de l’être humain. S'il n'y a pas de pouvoir supérieur pour réguler les rapports entre individus, il ne peut y avoir d'ordre social et les individus vivent alors dans un état de guerre : l'an-archie, sur un plan vertical, comme absence de pouvoir supérieur, entraîne l'an-archie, sur un plan horizontal, comme absence d'ordre dans les relations entre individus.
 
 
 Cet état de guerre est un état de misère, dans la mesure où chaque individu vit dans la crainte perpétuelle et ne peut compter que sur lui-même, ce qui rend impossible toute coopération et du coup tout progrès économique et social.
@@ -153,8 +160,9 @@ Le **libéralisme politique** défend les libertés politiques et les droits con
 Les lois ≠ un obstacle à la liberté
 <span data-marpit-fragment="1">= une condition de la liberté</span>
 
-<span data-marpit-fragment="2">Car : elles font obstacle à ce qui fait obstacle à la liberté.</span>
-<span data-marpit-fragment="3">Elles empêchent que les autres m'empêchent d'être libre.</span>
+<span data-marpit-fragment="2">Car elles font obstacle à ce qui fait obstacle à la liberté. Elles empêchent que les autres m'empêchent d'être libre.</span>
+
+<span data-marpit-fragment="3">Plus précisément : les lois permettent d'éviter la “loi du plus fort” et sont une condition de la non-domination.</span>
 
 ---
 <!-- _class: citationC -->
@@ -166,9 +174,9 @@ Les lois ≠ un obstacle à la liberté
 ---
 <!-- _class:  -->
 
-Or : le pouvoir de l'État pourrait interférer de manière arbitraire dans l'existence des individus.
+Or le pouvoir de l'État pourrait interférer de manière arbitraire dans l'existence des individus.
 
-<span data-marpit-fragment="1">Donc : il faut soumettre l'État à des lois qui encadrent l'exercice du pouvoir et protègent les individus contre l'arbitraire</span>
+<span data-marpit-fragment="1">Donc il faut soumettre l'État à des lois qui encadrent l'exercice du pouvoir et protègent les individus contre l'arbitraire</span>
 
 <span data-marpit-fragment="2">C’est ce qu’on appelle **l’État de droit**. L'État n'a pas tous les droits (≠ pouvoir absolu).</span>
 
@@ -212,18 +220,19 @@ L'histoire des droits humains (Déclaration des droits de l'homme et du citoyen 
 Etat de droit : checklist
 https://www.venice.coe.int/images/SITE%20IMAGES/Publications/Rule_of_Law_Checklist_FRA.pdf
 
- -->
+-->
 
 
- ---
- <!-- _class:  -->
- 
-Les être humains ont-ils besoin d’être gouvernés ?
+---
+<!-- _class: partie -->
+# Mise en pratique
 
-La liberté individuelle est-elle un danger pour l'État ?
+---
+<!-- _class: fppp -->
+Rédiger un paragraphe (modèle ARES) :
 
-Faut-il se méfier du pouvoir de l'État ?
-
-L'État est-il au dessus des lois ?
-
-L'usage de la force par l'État est-il légitime ?
+- Les être humains ont-ils besoin d’être gouvernés ?
+- La liberté individuelle est-elle un danger pour l'État ?
+- Faut-il se méfier du pouvoir de l'État ?
+- L'État est-il au dessus des lois ?
+- L'usage de la force par l'État est-il légitime ?
