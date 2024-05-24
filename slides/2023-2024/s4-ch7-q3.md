@@ -15,7 +15,7 @@ https://eyssette.github.io/
 
 ---
 <!-- _class: partie -->
-# I – Le libéralisme économique
+# I – <br>Le libéralisme <br>économique <!-- fit -->
 Première partie
 
 
@@ -34,10 +34,8 @@ Première partie
 ---
 <!-- _class:  -->
 
-1) Il faut laisser faire les individus afin de préserver leur autonomie et ne pas tomber dans le paternalisme.
-2) Chaque individu a un droit de propriété sur ce qui est le fruit de son travail, de son investissement et de ses talents personnels.
-
-
+1) Il faut **laisser faire** les individus afin de préserver leur autonomie et ne pas tomber dans le paternalisme.
+2) Chaque individu a un **droit de propriété** sur ce qui est le fruit de son travail, de son investissement et de ses talents personnels.
 
 
 ---
@@ -81,18 +79,20 @@ Deuxième partie
 <!-- _class: fppp -->
 <style scoped>
 h3 {margin-bottom:0}
-ol ul {margin-left:-0.75em}
+ol ul {margin-left:-1.5em}
 </style>
 
 ### Problèmes :
-1) L'État n'a-t-il pas le devoir de protéger les individus les plus vulnérables ?
-2) Peut-on vraiment justifier une accumulation des richesses sans limites ?
-	* La réussite économique individuelle est-elle seulement attribuable à l'individu lui-même ?
-	* L'impact social et écologique de l'accumulation des richesses ne justifie-t-il pas une réglementation ?
+1) Faut-il vraiment **laisser faire** ? L'État n'a-t-il pas le devoir de protéger les individus les plus vulnérables ?
+2) Le **droit de propriété** d'un individu est-il absolu ?
+	* Ce que possède un individu est-il seulement le fruit de ses efforts et de son talent ?
+	* Vouloir posséder et accumuler des richesses a un impact social et écologique : ne faut-il pas prendre en compte ces conséquences ?
 
 <!-- 
 1) 
 Laisser faire -> abandonner, délaisser
+
+Cf. aussi : théories féministes de l'autonomie ; le care au fondement de l'autonomie
 
 2) 
 On pourrait aussi interroger la poursuite de l'accumulation des richesses d'un point de vue moral, éthique
@@ -117,4 +117,3 @@ ol ul {margin-left:-0.6em}
 
 1) Une gestion collective est-elle nécessairement inefficace ?
 2) La concurrence libre conduit-elle vraiment à un progrès général qui bénéficie à tout le monde ?
-
