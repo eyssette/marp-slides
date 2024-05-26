@@ -15,6 +15,10 @@ https://eyssette.github.io/
 
 
 ---
+<!-- _class: pp -->
+![bg](https://get.pxhere.com/photo/black-and-white-white-sign-black-monochrome-dream-utopia-monochrome-photography-the-earth-687080.jpg)
+
+---
 <!-- _class: partie -->
 # I – Le réalisme politique
 
