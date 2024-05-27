@@ -7,7 +7,7 @@ size: 4:3
 
 <!-- _class: titre -->
 
-# Q2 – L'État doit-il <br>intervenir dans le<br> champ économique <br>et social ?  <!-- fit -->
+# Q3 – L'État doit-il <br>intervenir dans le<br> champ économique <br>et social ?  <!-- fit -->
 
 Cédric Eyssette (2023-2024)
 https://eyssette.github.io/
