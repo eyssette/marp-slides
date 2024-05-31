@@ -13,6 +13,15 @@ https://eyssette.github.io/
 
 
 ---
+<!-- _class: i1t0 pp -->
+<style scoped>
+img {width:700px!important; margin:auto!important; display:block;}
+</style>
+
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Balance_justice.png/703px-Balance_justice.png)
+
+
+---
 <!-- _class: partie -->
 # I – La justice repose sur l'égalité
 Première partie
