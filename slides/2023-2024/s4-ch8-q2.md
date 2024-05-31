@@ -257,3 +257,12 @@ au-delà donc de la simple considération abstrait de l'égalité des droits
 
 Voir les différentes formes de cette prise en compte
 -->
+
+
+---
+<!-- _class: citationC fppppp-->
+![bg left:30%](https://i.ibb.co/3CdsZRY/fraser.png)
+>« Ce n’est qu’en regardant du côté des approches qui s’emploient à unir redistribution et reconnaissance que les conditions nécessaires à une justice pour tous pourront être remplies. »
+>>Nancy **Fraser**, _Qu'est-ce que la justice sociale ?_, chapitre 2
+
+<!-- Approche bidimensionnelle -->
