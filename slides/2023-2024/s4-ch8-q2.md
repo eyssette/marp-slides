@@ -7,7 +7,7 @@ size: 4:3
 
 <!-- _class: titre -->
 
-# Q2 - La justice <br>signifie-t-elle<br>toujours l'égalité ? <!-- fit -->
+# Q2 - La justice <br>signifie-t-elle<br>l'égalité ? <!-- fit -->
 Cédric Eyssette (2023-2024)
 https://eyssette.github.io/
 
@@ -19,6 +19,9 @@ img {width:700px!important; margin:auto!important; display:block;}
 </style>
 
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Balance_justice.png/703px-Balance_justice.png)
+
+<!-- Justice comme institution, pouvoir judiciaire
+/ justice comme principe, valeur, idéal -->
 
 
 ---
