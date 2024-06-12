@@ -7,7 +7,7 @@ size: 4:3
 
 <!-- _class: titre -->
 
-# La politique <br>doit-elle être guidée par un idéal moral ?
+# Q1 – La politique <br>doit-elle être guidée par un idéal moral ?
 
 Cédric Eyssette (2023-2024)
 https://eyssette.github.io/
@@ -80,9 +80,9 @@ th:nth-of-type(1) {padding-right:40px}
 
 |La société bien ordonnée|L'individu bien ordonné|
 |:-:|:-:|
-|**Les gouvernants** : <br>doivent prendre les <br>bonnes décisions|**La raison** : <br>doit faire preuve <br>de sagesse|
-|**Les gardiens** : <br>doivent préserver <br>l'unité de la cité|**La volonté** : <br>doit faire preuve <br>de courage|
-|**Les producteurs** : <br>doivent assurer les <br>besoins des individus|**Le désir** : <br>doit faire preuve <br>de modération|
+|<span data-marpit-fragment="1">**Les gouvernants** : <br>doivent prendre les <br>bonnes décisions</span>|<span data-marpit-fragment="2">**La raison** : <br>doit faire preuve <br>de sagesse</span>|
+|<span data-marpit-fragment="3">**Les gardiens** : <br>doivent préserver <br>l'unité de la cité</span>|<span data-marpit-fragment="4">**La volonté** : <br>doit faire preuve <br>de courage</span>|
+|<span data-marpit-fragment="5">**Les producteurs** : <br>doivent assurer les <br>besoins des individus</span>|<span data-marpit-fragment="6">**Le désir** : <br>doit faire preuve <br>de modération</span>|
 
 
 ---
