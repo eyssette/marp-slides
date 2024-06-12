@@ -44,8 +44,8 @@ https://ladigitale.dev/digiplay/#/v/623134548bc65
 
  -->
 
- ---
- <!-- _class: citationC f -->
+---
+<!-- _class: citationC f -->
  
  ![bg left:30%](https://upload.wikimedia.org/wikipedia/commons/e/ed/Henri_Bergson_%28Nobel%29.jpg)
 
