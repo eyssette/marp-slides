@@ -103,8 +103,8 @@ Le doute est déraisonnable quand les arguments avancés pour justifier le doute
 <!-- _class:  -->
 ### Exemples :
 
-1) Les “platistes”
-2) Le révisionnisme en histoire
+1) Les “platistes” : ceux qui croient que la Terre est plate
+2) Le révisionnisme en histoire : ceux qui nient l'existence de certains faits historiques
 3) Les théories du complot
 4) Les climato-sceptiques
 

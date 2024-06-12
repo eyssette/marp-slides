@@ -67,7 +67,7 @@ L'expérience ne peut pas prouver la vérité d'une théorie.
 ---
 <!-- _class: citationC  -->
 
-![bg left:35%](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Bertrand_Russell_1957.jpg/220px-Bertrand_Russell_1957.jpg)
+![bg left:35%](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Bertrand_Russell_cropped.jpg/425px-Bertrand_Russell_cropped.jpg)
 
 >« L'homme qui a nourri le poulet tous les jours de sa vie finit par lui tordre le cou, ce qui montre que le poulet aurait mieux fait d'avoir une vision plus subtile de l'uniformité de la nature »
 >> **Russell**, _Problèmes de philosophie_, VI
@@ -77,17 +77,16 @@ L'expérience ne peut pas prouver la vérité d'une théorie.
 <!-- _class:  -->
 - Quel est alors le rôle de l'expérience dans la connaissance scientifique ?
 
-Karl Popper considère que l'expérience n'a pas pour rôle de confirmer une théorie.
-Une expérience peut seulement réfuter une théorie (c'est-à-dire prouver qu'elle est fausse).
+<span data-marpit-fragment="1">Karl Popper considère que l'expérience n'a pas pour rôle de confirmer une théorie.
+Une expérience peut seulement réfuter une théorie (c'est-à-dire prouver qu'elle est fausse).</span>
 
 ---
 <!-- _class:  -->
-Le raisonnement scientifique a donc la forme suivante : 
+En effet, le raisonnement suivant est valide :
 
-1. Si l'hypothèse H est vraie, alors on doit observer O
-2. Or, on n'observe pas O
-
-Donc : l'hypothèse H est fausse, il faut changer d'hypothèse.
+– **Si** l'hypothèse H est vraie, **alors** on doit observer O
+– **Or,** on n'observe pas O
+– **Donc :** l'hypothèse H est fausse, il faut changer d'hypothèse.
 
 
 ---

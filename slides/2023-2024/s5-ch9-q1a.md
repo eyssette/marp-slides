@@ -78,7 +78,7 @@ Deuxième partie
 
 Croire qu'il y a des vérités, ce n'est pas croire qu'on a la vérité : on peut accepter la possibilité d'être dans l'erreur et rester humble.
 
-<span data-marpit-fragment="1">Le relativisme conduit en fait à refuser le dialogue puisque chacun prétend pouvoir rester dans son opinion sans avoir à écouter les critiques des autres.</span>
+<span data-marpit-fragment="1">Le relativisme conduit d'autre part à refuser le dialogue puisque chacun prétend pouvoir rester dans son opinion sans avoir à écouter les critiques des autres.</span>
 
 <!-- 
 <span data-marpit-fragment="2">Enfin, croire qu'il y a des vérités permet de défendre l'existence de savoirs critiques indispensables pour s'opposer aux discours idéologiques des dominants</span> -->
@@ -129,13 +129,15 @@ Le relativisme affirme que la vérité n'existe pas
 <span data-marpit-fragment="4">Le relativisme affirme qu'il n'y a pas de vérité, donc le relativisme n'est pas une thèse vraie.</span>
 
 ---
-<!-- _class:  -->
+<!-- _class: i1t1 horizontal contain -->
 <style scoped>
-p {font-size:1.3em}
-figure{margin:10px!important}
+p {font-size:2em; text-align:left!important}
 </style>
 
 
-Le relativisme de la vérité est auto-réfutant : il se réfute lui-même.
+Le relativisme
+de la vérité est
+auto-réfutant :
+il se réfute lui-même.
 
-![bg left:30% contain image d'un serpent qui se mord la queue](https://i.ibb.co/6Wq0mxh/Ouroboros-simple.jpg)
+![contain image d'un serpent qui se mord la queue](https://i.ibb.co/6Wq0mxh/Ouroboros-simple.jpg)
