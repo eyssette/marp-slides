@@ -11,7 +11,7 @@ h1 {padding:20px!important; font-size:190%;}
 h1 span {font-size:75%; display:block; line-height:130%; margin-top:10px; padding-bottom:15px;}
 </style>
 # Étude d'une œuvre suivie :<br> <span>Rousseau, _Discours sur l'économie politique_, I-II</span>
-Cédric Eyssette
+Cédric Eyssette (2023-2024)
 https://eyssette.github.io/
 
 
@@ -32,6 +32,19 @@ p {text-align:center; font-size:120%;}
 ![bg left:50%](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Jean-Jacques_Rousseau_%28painted_portrait%29.jpg/440px-Jean-Jacques_Rousseau_%28painted_portrait%29.jpg)
 
 Jean-Jacques Rousseau (1712-1778)
+
+
+---
+<!-- _class: fpp -->
+<style scoped>
+td:nth-of-type(2){text-align:left!important}
+</style>
+
+|Les valeurs des Lumières|La position <br>de Rousseau|
+|:-:|:-:|
+|La raison|Oui, mais la sensibilité est essentielle (notamment la sensibilité morale)|
+|La liberté & <br>les droits des individus|Oui, mais il faut aussi former <br>une communauté républicaine|
+|Le progrès|Oui, mais le progrès est parfois artificiel et il peut conduire à <br>des inégalités|
 
 ---
 <!-- _class: pp fpp-->
@@ -96,15 +109,15 @@ I – Lecture globale
 <!-- _class: fmmm pp -->
 <style scoped>
 table {padding-left:20px; padding-right:20px;}
-table td:nth-of-type(1) {width:140px; text-align:center;}
+table td:nth-of-type(1) {width:120px; text-align:center;}
 table td:nth-of-type(2) {padding-right:0;}
 </style>
 
 Texte | Thèse
 ------- | -------
-Texte 1 | La finalité d'une société civile, c'est la défense de la liberté, de la vie et des biens des citoyens, et pour parvenir à cette finalité, il faut que la société civile soit fondée sur des lois qui expriment la volonté des citoyens.
-Texte 2 | Afin que les lois garantissent la justice, au sens de l'égalité des droits entre citoyens, et la liberté, comme non-domination, il faut que personne ne soit au-dessus des lois.
-Texte 3 | Les lois doivent être fondées sur la volonté générale, mais comment peut-on déterminer ce que veut la volonté générale ? Ce n'est pas par la pratique du référendum, mais simplement par une réflexion sur la justice et l'intérêt public
+**T1** | La finalité d'une société civile, c'est la défense de la liberté, de la vie et des biens des citoyens, et pour parvenir à cette finalité, il faut que la société civile soit fondée sur des lois qui expriment la volonté des citoyens.
+**T2** | Afin que les lois garantissent la justice, au sens de l'égalité des droits entre citoyens, et la liberté, comme non-domination, il faut que personne ne soit au-dessus des lois.
+**T3** | Les lois doivent être fondées sur la volonté générale, mais comment peut-on déterminer ce que veut la volonté générale ? Ce n'est pas par la pratique du référendum, mais simplement par une réflexion sur la justice et l'intérêt public
 
 <!-- Optique principale =
 Les lois d'un État, si elles sont l'expression de la volonté générale, ne sont pas un obstacle à la liberté, mais au contraire une garantie de la liberté.
@@ -119,13 +132,14 @@ Les lois d'un État, si elles sont l'expression de la volonté générale, ne so
 <!-- _class: f pp -->
 <style scoped>
 table {padding-left:50px; padding-right:40px;}
-table td:nth-of-type(1) {width:140px; text-align:center;}
-table td:nth-of-type(2) {padding-left:80px;}
+td {padding-top:1em}
+table td:nth-of-type(1) {width:40px; text-align:center;}
+table td:nth-of-type(2) {padding-left:50px;}
 </style>
 
 Texte | Thèse
 ------- | -------
-Texte 4 | Il faut que le gouvernement d'une société civile se soucie des questions économiques : il s'agit d'empêcher que de fortes inégalités de richesse se produisent, sinon les lois ne pourront garantir la justice comme égalité des droits, et la liberté comme non-domination.
+**T4** | Il faut que le gouvernement d'une société civile se soucie des questions économiques : <br>il s'agit d'empêcher que de fortes inégalités de richesse se produisent, sinon les lois ne pourront garantir la justice comme égalité des droits, et la liberté comme non-domination.
 
 <!-- Optique principale :
 La justice sociale est nécessaire et repose sur la réduction des inégalités économiques
@@ -146,8 +160,8 @@ table td:nth-of-type(2) {padding-right:0;}
 
 Texte | Thèse
 ------- | -------
-Texte 5 | Une société civile ne peut exister sans une formation des citoyens à la vertu civique, qui repose sur une réorientation des passions vers la société civile : l'individu doit se sentir citoyen et se considérer ainsi comme constitué par cette appartenance à une totalité qu'il doit apprendre à aimer.
-Texte 6 | Le gouvernement dans une société civile doit se préoccuper d'instituer une éducation publique qui doit former les citoyens à la vertu civique, et permettre d'éviter que les citoyens deviennent indifférents aux affaires publiques et ne se soucient que de leurs intérêts privés
+**T5** | Une société civile ne peut exister sans une formation des citoyens à la vertu civique, qui repose sur une réorientation des passions vers la société civile : l'individu doit se sentir citoyen et se considérer ainsi comme constitué par cette appartenance à une totalité qu'il doit apprendre à aimer.
+**T6** | Le gouvernement dans une société civile doit se préoccuper d'instituer une éducation publique qui doit former les citoyens à la vertu civique, et permettre d'éviter que les citoyens deviennent indifférents aux affaires publiques et ne se soucient que de leurs intérêts privés
 
 <!-- Optique principale : 
 Ce qui fait l'unité d'une société, c'est le fait que chaque citoyen se soucie de l'intérêt général et non pas seulement de son intérêt particulier
@@ -187,94 +201,9 @@ II – Lecture fine
 
 
 ---
-<!-- _class: pp i1t0 -->
-
-[![](https://docs.google.com/drawings/d/e/2PACX-1vTpt7cZtUkwtpnfp277b2LDVL-fEgRU8ZFPGFZc8-UXwJUc5cgKeI9mP3T2PNB6DTyNz3glXF_VqhBA/pub?w=2268&amp;h=1587)](https://docs.google.com/drawings/d/1DDuXTG256JtQXYgIas1Bn49cae18-ka_pscfBKfU6n0/edit?usp=sharing)
-
-<!-- Exemple des documents pour la lecture fine à destination des élèves qui passent l'oral
-En cours : on se focalise sur les idées principales
- -->
-
----
 <!-- _class: souspartie -->
 ## A. Le pilier politique
 = textes 1, 2, 3
-
----
-<!-- _class:  -->
-
-<!-- _class: etape -->
-### 1/ Un contrat au <br>fondement du pouvoir
-
-
----
-<!-- _class: fpppppp -->
-<style scoped>
-ol {list-style-type:none;}
-ol li {margin-left:-50px;}
-ol li:nth-of-type(3) {margin-top:30px; border-top:1px solid grey; padding-top:30px;}
-</style>
-1) :x: Il n'y a pas de fondement naturel du pouvoir
-2) :x: Il n'y a pas de fondement théologique du pouvoir
-3) :white_check_mark: Le pouvoir est fondé sur un consentement
-
-<!-- 
-modèle patriarcal
-monarchies de droits divin
-// consentement explicite ou implicite ?
-// qui consent : les individus éparpillés ? Le peuple ?
-// sous conditions ? Distinguer Hobbes / Locke / Rousseau -->
-
----
-<!-- _class: etape -->
-### 2/ la loi : une condition de la liberté comme non-domination
-
----
-
-<div class="puces">
-
-* Le pouvoir de l'État peut être un moyen de domination, au service des intérêts particuliers d'un groupe d'individus
-* Pour Rousseau, le pouvoir de l'État peut et doit être un moyen de garantir la non-domination
-</div>
-
-<!-- 
-Pas une conception naïve ou idéaliste
-// Distinguer / marxisme, / anarchisme -->
-
----
-<!-- _class:  -->
-
-1) Le pouvoir doit être régulé par des lois
-2) Le pouvoir doit mettre en place des lois qui représentent la volonté générale
-
-<!-- // Contre le pouvoir absolu, limiter l'arbitraire du pouvoir => État de droit
-// Trois exemples : a) interdiction de la détention arbitraire, 2) hiérarchie des textes de loi, 3) séparation des pouvoirs (mais attention au modèle de la souveraineté chez Rousseau)
-volonté générale => semble correspondre à la démocratie (mais…)
- -->
-
----
-<!-- _class: etape -->
-### 3/ La volonté générale comme fondement de la loi
-
-La volonté générale n'est pas le résultat d'une décision collective
-
----
-<!-- _class: fpppppp -->
-<style scoped>
-ol {list-style-type:none;}
-ol li {margin-left:-50px;}
-ol li:nth-of-type(3) {margin-top:30px; border-top:1px solid grey; padding-top:30px;}
-</style>
-1) :x: Une décision collective n'est pas réalisable à l'échelle de la société
-2) :x:Une décision collective ne représente pas nécessairement la volonté générale
-3) :white_check_mark: La volonté générale est le résultat d'une réflexion sur le bien commun
-
-<!--  // a) La volonté générale se distingue de la volonté de la majorité : question de la place des minorités ; possibilité : opprimer une minorité, négliger un point de vue minoritaire ; critère non pas quantitatif 
-// b) Une décision collective peut être le résultat d'influences en faveur d'un point de vue particulier
-// c) Comment peut-on déterminer un choix collectif à partir de décision individuelle ? Quelle est la bonne procédure ? (cf. le jugement à la mention majoritaire) -->
-
-<!-- // Faire abstraction des intérêts particuliers
-// Parallèle : voile d'ignorance (Rawls)  -->
 
 
 ---
@@ -299,16 +228,6 @@ ol li:nth-of-type(3) {margin-top:30px; border-top:1px solid grey; padding-top:30
 
 
 ---
-<!-- _class:  -->
-
-Trois idées intéressantes : 
-
-1) La justice sociale comme condition de la liberté
-2) La justice sociale comme condition de la cohésion sociale
-2) Pour lutter contre les inégalités : les approches _ex ante_ (à la source) privilégiées aux approches _ex post_ (après coup)
-
-
----
 <!-- _class: pp i1t0 -->
 
 [![](https://docs.google.com/drawings/d/e/2PACX-1vRGtX1fTJfZ-ecIawnWrXwRZXW9bcwxM0KBWmVTbyfCrc8EvjBr4k7caX1EZVaoTVmvoe6eOWCBjmCE/pub?w=2268&amp;h=1587)](https://docs.google.com/drawings/d/1SjbTjlGxMeEdD5-kjVYfFNUIKHR1AjosSr_rDYeG2GU/edit?usp=sharing)
@@ -318,14 +237,6 @@ Trois idées intéressantes :
 ## C. Le pilier social
 = textes 5 et 6
 
----
-<!-- _class: fpp -->
-
-#### Trois idées intéressantes
-
-1) La cohésion sociale repose sur de l'affectif : un sentiment d'appartenance à un Tout
-2) Ce sentiment d'appartenance ne repose pas sur le partage d'une culture, d'un mode de vie, mais sur le partage d'un même engagement à penser en tant que citoyen d'une société commune
-3) Il faut faire en sorte que chaque citoyen se soucie de l'intérêt général et non pas simplement de son intérêt particulier
 
 ---
 <!-- _class: pp i1t0 -->
