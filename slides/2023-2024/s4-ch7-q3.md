@@ -14,6 +14,15 @@ https://eyssette.github.io/
 
 
 ---
+<!-- _class: i1t0 pp-->
+<style scoped>
+img {width:800px!important; display:block; margin:auto}
+</style>
+
+![](https://upload.wikimedia.org/wikipedia/commons/2/22/Cycle_%C3%A9conomique.jpg)
+
+
+---
 <!-- _class: partie -->
 # I – <br>Le libéralisme <br>économique <!-- fit -->
 Première partie
