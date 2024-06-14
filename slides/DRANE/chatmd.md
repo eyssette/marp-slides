@@ -10,7 +10,7 @@ size: 4:3
 # ChatMD : <br>un chatbot <br>libre et gratuit <!-- fit -->
 
 Cédric Eyssette (2023-2024)
-https://eyssette.forge.aeif.fr/chatMD
+https://chatmd.forge.apps.education.fr
 
 
 ---
@@ -53,18 +53,18 @@ ol {padding-top:0}
 p:last-of-type a {font-size:0.9em}
 </style>
 
-[ChatMD](https://eyssette.forge.apps.education.fr/chatMD/) est un logiciel libre et gratuit qui permet de créer en ligne un chatbot simplement et sans création de comptes, ni pour le créateur ni pour l'utilisateur.
+[ChatMD](https://chatmd.forge.apps.education.fr/) est un logiciel libre et gratuit qui permet de créer en ligne un chatbot simplement et sans création de comptes, ni pour le créateur ni pour l'utilisateur.
 
 <span data-marpit-fragment="1">ChatMD ne récolte pas de cookies non plus et il est donc totalement compatible RGPD.</span>
 
 <span data-marpit-fragment="2"> Il est disponible sur la Forge des communs numériques éducatifs :
-https://eyssette.forge.apps.education.fr/chatMD/</span>
+https://chatmd.forge.apps.education.fr/</span>
 
 
 ---
 <!-- _class: fppppppp -->
 
-[ChatMD](https://eyssette.forge.apps.education.fr/chatMD/) ne repose pas sur de l'intelligence artificielle générative.
+[ChatMD](https://chatmd.forge.apps.education.fr/) ne repose pas sur de l'intelligence artificielle générative.
 
 Le but est d'avoir un meilleur contrôle sur le chatbot et d'éviter les hallucinations propres aux IA génératives.
 
@@ -119,26 +119,26 @@ Deuxième partie
 ---
 <!-- _class: f -->
 
-Guide méthodologique pour la rédaction d'un devoir : [méthode pour la dissertation en philosophie](https://eyssette.forge.aeif.fr/chatMD/#https://eyssette.forge.aeif.fr/chatbot/dissertation-philosophie.md)  …
+Guide méthodologique pour la rédaction d'un devoir : [méthode pour la dissertation en philosophie](https://chatmd.forge.apps.education.fr/#https://eyssette.forge.apps.education.fr/chatbot/dissertation-philosophie.md)  …
 
 
-<span data-marpit-fragment="1">Guide pratique pour l'utilisation d'une technique expérimentale : un [microscope](https://eyssette.forge.aeif.fr/chatMD/#https://codimd.apps.education.fr/xGNHIJSeTVCk6FHas-_71g), une [perceuse à colonne](https://eyssette.forge.aeif.fr/chatMD/#https://codimd.apps.education.fr/j2c6hkpCRuua0almpXIMdA?both) …</span>
+<span data-marpit-fragment="1">Guide pratique pour l'utilisation d'une technique expérimentale : un [microscope](https://chatmd.forge.apps.education.fr/#https://codimd.apps.education.fr/xGNHIJSeTVCk6FHas-_71g), une [perceuse à colonne](https://chatmd.forge.apps.education.fr/#https://codimd.apps.education.fr/j2c6hkpCRuua0almpXIMdA?both) …</span>
 
-<span data-marpit-fragment="2">Soutien pour la révision d'un cours, ou activité préalable de découverte avant un cours : révision de [définitions en philosophie](https://eyssette.forge.aeif.fr/chatMD/#https://github.com/eyssette/chatbot/blob/main/vocabulaire-philosophie.md), découverte des [sons produits par les chauve-souris](https://eyssette.forge.aeif.fr/chatMD/#https://codimd.apps.education.fr/vzZtsGoxReGEYMAdecZlCg)</span>
+<span data-marpit-fragment="2">Soutien pour la révision d'un cours, ou activité préalable de découverte avant un cours : révision de [définitions en philosophie](https://chatmd.forge.apps.education.fr/#https://github.com/eyssette/chatbot/blob/main/vocabulaire-philosophie.md), découverte des [sons produits par les chauve-souris](https://chatmd.forge.apps.education.fr/#https://codimd.apps.education.fr/vzZtsGoxReGEYMAdecZlCg)</span>
 
-<span data-marpit-fragment="3">Réponse à des questions fréquentes d'élèves ou de parents : sur l'[orientation après un bac STL](https://eyssette.forge.aeif.fr/chatMD/#https://codimd.apps.education.fr/FEW7JMjbSXur_C5IxLuFEg), sur le [passage au collège](https://eyssette.forge.aeif.fr/chatMD/#https://codimd.apps.education.fr/MRGzdbetRru3VbpeRePIJQ) (chatbots en cours de construction) …</span>
+<span data-marpit-fragment="3">Réponse à des questions fréquentes d'élèves ou de parents : sur l'[orientation après un bac STL](https://chatmd.forge.apps.education.fr/#https://codimd.apps.education.fr/FEW7JMjbSXur_C5IxLuFEg), sur le [passage au collège](https://chatmd.forge.apps.education.fr/#https://codimd.apps.education.fr/MRGzdbetRru3VbpeRePIJQ) (chatbots en cours de construction) …</span>
 
 
 ---
 <!-- _class:  -->
 
-Discussion avec un personnage historique : [la reine Marie-Antoinette](https://eyssette.forge.aeif.fr/chatMD/#https://codimd.apps.education.fr/s/YyWmE5XYd), [Lucie Aubrac](https://eyssette.forge.aeif.fr/chatMD/#https://codimd.apps.education.fr/s/TGg7nwolB), [Bartholomew Roberts](https://eyssette.forge.aeif.fr/chatMD/#https://codimd.apps.education.fr/Rw3tzAaoQSis7vo3pthirQ)
+Discussion avec un personnage historique : [la reine Marie-Antoinette](https://chatmd.forge.apps.education.fr/#https://codimd.apps.education.fr/s/YyWmE5XYd), [Lucie Aubrac](https://chatmd.forge.apps.education.fr/#https://codimd.apps.education.fr/s/TGg7nwolB), [Bartholomew Roberts](https://chatmd.forge.apps.education.fr/#https://codimd.apps.education.fr/Rw3tzAaoQSis7vo3pthirQ)
 
-<span data-marpit-fragment="1">Histoire dont vous êtes le héros : [en DNL Anglais/Philosophie](https://eyssette.github.io/chatMD/#https://codimd.apps.education.fr/wWukuOEaT8CjOqpYP3p1tA)  …</span>
+<span data-marpit-fragment="1">Histoire dont vous êtes le héros : [en DNL Anglais/Philosophie](https://chatmd.forge.apps.education.fr/#https://codimd.apps.education.fr/wWukuOEaT8CjOqpYP3p1tA)  …</span>
 
 
 <!-- 
-https://eyssette.forge.aeif.fr/chatMD/#https://codimd.apps.education.fr/PsdbCN3FQtWY0QX-g6b2_A
+https://chatmd.forge.apps.education.fr/#https://codimd.apps.education.fr/PsdbCN3FQtWY0QX-g6b2_A
  -->
 
 ---
@@ -149,9 +149,9 @@ https://eyssette.forge.aeif.fr/chatMD/#https://codimd.apps.education.fr/PsdbCN3F
 ---
 <!-- _class:  -->
 
-Tutoriel pour l'utilisation d'un outil informatique : [utilisation de la Forge](https://eyssette.forge.aeif.fr/chatMD/#https://github.com/eyssette/chatbot/blob/main/utiliser-la-forge.md), [mise en place d'ELEA](https://drane.ac-lyon.fr/spip/ELEA-la-plateforme-Moodle-de-l)
+Tutoriel pour l'utilisation d'un outil informatique : [mise en place d'ELEA](https://drane.ac-lyon.fr/spip/ELEA-la-plateforme-Moodle-de-l), [utilisation de la Forge](https://chatmd.forge.apps.education.fr/#https://github.com/eyssette/chatbot/blob/main/utiliser-la-forge.md) 
 
-<span data-marpit-fragment="1">Guide pratique pour pouvoir répondre à un problème, accès plus facile et interactif à des informations : [redirection vers la bonne plateforme d'assistance](https://drane-lyon.forge.aeif.fr/chatMD/#https://codimd.apps.education.fr/KgiRUrr8Ttq9-CxZGmxmmg), gestion des fiches Google (lien à venir).</span>
+<span data-marpit-fragment="1">Guide pratique pour pouvoir répondre à un problème, accès plus facile et interactif à des informations : [redirection vers la bonne plateforme d'assistance](https://drane-lyon.forge.aeif.fr/chatMD/#https://codimd.apps.education.fr/KgiRUrr8Ttq9-CxZGmxmmg), [gestion des fiches Google](https://drane.ac-lyon.fr/spip/gestion-avis-google-map), [FAQ sur le GAR](https://drane.ac-lyon.fr/spip/GAR-Besoin-d-aide-utiliser-le)</span>
 
 
 
@@ -162,7 +162,7 @@ Tutoriel pour l'utilisation d'un outil informatique : [utilisation de la Forge](
 
 [Un modèle](https://codimd.apps.education.fr/mBGbHStJSVOSrlGfGb981A?both)
 
-Des tutoriels : [sur le site de ChatMD](https://eyssette.forge.aeif.fr/chatMD), [sur le site de l'académie d'Aix-Marseilles](https://www.pedagogie.ac-aix-marseille.fr/jcms/c_11196334/fr/decouvrir-chatmd), [sur des sites de collègues](https://itsenglishoclock.com/2024/03/19/creer-et-utiliser-des-chatbots-en-classe-de-langue/#ChatMD_Creer_son_propre_robot_libre_open_source)
+Des tutoriels : [sur le site de ChatMD](https://chatmd.forge.apps.education.fr), [sur le site de l'académie d'Aix-Marseilles](https://www.pedagogie.ac-aix-marseille.fr/jcms/c_11196334/fr/decouvrir-chatmd), [sur des sites de collègues](https://itsenglishoclock.com/2024/03/19/creer-et-utiliser-des-chatbots-en-classe-de-langue/#ChatMD_Creer_son_propre_robot_libre_open_source)
 
 ---
 <!-- _class: partie -->
