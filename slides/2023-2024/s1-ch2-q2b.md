@@ -6,7 +6,6 @@ size: 4:3
 ---
 
 <!-- _class: titre -->
-
 # Q2b – Comment la réflexion peut-elle nous guider moralement ?
 
 Cédric Eyssette (2022-2023)
@@ -23,7 +22,7 @@ https://eyssette.github.io/
 <!-- 
 https://photos.google.com/share/AF1QipPPfbUkTBXiHp4v_f2w1s7rO70wTBpButb8zOzUDxWelwUJr5emIEucfTlt3yc7lA?key=djQzRTFJa05jNnR6Mk9FV09YcWdwVWhPbGNFWW53
 
-https://docs.google.com/document/d/14JTNcMAKF95SZn66McfHrrX9kOgKRwjBJqPQQe_3tpA/edit?userstoinvite=vincentvejdovsky%40gmail.com&actionButton=1
+https://docs.google.com/document/d/14JTNcMAKF95SZn66McfHrrX9kOgKRwjBJqPQQe_3tpA
 
 https://ladigitale.dev/digiplay/#/v/637735a7702aa
  -->
