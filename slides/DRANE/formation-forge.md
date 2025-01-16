@@ -120,11 +120,11 @@ La _Forge des Communs Numériques Éducatifs_ est une forge fondée sur un logic
 Premier intérêt de la _Forge des Communs Numériques Éducatifs_ : on peut trouver sur la Forge des logiciels **libres**<span data-marpit-fragment="1"> faits **par des enseignants pour les enseignants**</span>
 
 #### <span data-marpit-fragment="2">Quelques exemples :</span>
-1) [Emmanuel Zimmert : La Digitale](https://forge.aeif.fr/users/ladigitale/projects)
+1) [Emmanuel Zimmert : La Digitale](https://ladigitale.dev/)
 2) [Laurent Abbal](https://laurentabbal.forge.apps.education.fr/)
-3) [Arnaud Champollion](https://achampollion.forge.aeif.fr/)
-4) [Mes outils](https://eyssette.forge.aeif.fr/)
-5) [Coopmaths : MathALÉA …](https://forge.aeif.fr/coopmaths/mathalea)
+3) [Arnaud Champollion](https://achampollion.forge.apps.education.fr/)
+4) [Mes outils](https://eyssette.forge.apps.education.fr/)
+5) [Coopmaths : MathALÉA …](https://forge.apps.education.fr/coopmaths/mathalea)
 
 ---
 <!-- _class: pp -->

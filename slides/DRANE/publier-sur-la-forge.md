@@ -4,14 +4,15 @@ theme: uncover
 paginate: false
 header: "![](https://minio.apps.education.fr/codimd-prod/uploads/upload_2605e960a11e80bfff813ebf6db8910a.png)"
 footer: Image CC BY - Iza Marfisi, Bertrand Marne et Alexandra Freitas-Alves
+size: 16:9
 ---
 
 <style scoped>
-h2 {position:absolute; top:0px; left:400px; font-size:1.4em}
-h3 {position:absolute; font-size:36px; left:35%; z-index:1}
-ul {columns:2; margin-top:70px; margin-left:-70px}
+h2 {position:absolute; top:0px; left:450px; font-size:1.4em}
+h3 {position:absolute; font-size:36px; left:35%; z-index:1; top:270px}
+ul {columns:2; margin-top:70px; margin-left:-30px}
 ul li {width:650px; height:180px; background-color:white; list-style-type:none;}
-li img {max-height:180px; width:500px}
+li img {max-height:180px; width:550px}
 </style>
 
 ## Publier sur la forge
@@ -24,16 +25,16 @@ li img {max-height:180px; width:500px}
 - ![](https://minio.apps.education.fr/codimd-prod/uploads/upload_0486f1e1f30f9eab07fe752189acde82.png)
 - ![](https://minio.apps.education.fr/codimd-prod/uploads/upload_798bf54d6a8fc470539324f7912fcbb9.png)
 
-![komit potterie](https://forge.aeif.fr/lium/masquotte-castor-forge/-/raw/main/potterie_komit.svg)
+![komit potterie](https://forge.apps.education.fr/lium/mascotte-castor-forge/-/raw/main/potterie_komit.svg)
 
 ---
 <style scoped>
 section {background-image: linear-gradient(to right, #000 5%, #fff 80%)}
-div:nth-of-type(1){position:absolute; color:#EEE; left:60px}
+div:nth-of-type(1){position:absolute; color:#EEE; left:60px; top:150px}
 ul li {margin-bottom:0.1em; list-style-type:none; margin-left:-1em; height:300px}
 li img {width:410px; height:270px}
 div:nth-of-type(2) li img { height:330px}
-div:nth-of-type(2) {position:absolute; color:#EEE; right:30px; color:black; top:30px; font-weight:600!important; width:426px}
+div:nth-of-type(2) {position:absolute; color:#EEE; right:30px; color:black; top:10px; font-weight:600!important; width:426px}
 h2 {width:410px; text-align:left}
 header img {padding:0px 5px; background:white; margin-left:-5px}
 header img {opacity:0.4}
@@ -50,7 +51,7 @@ p{left:31%!important}
 
 </div>
 
-![komit de base](https://forge.aeif.fr/lium/masquotte-castor-forge/-/raw/main/komit_de_base.svg)
+![komit de base](https://forge.apps.education.fr/lium/mascotte-castor-forge/-/raw/main/komit_de_base.svg)
 
 <div>
 
@@ -82,9 +83,9 @@ img[alt*="komit"]:nth-of-type(2) {margin-left:50px!important}
 
 </div>
 
-![komit fête](https://forge.aeif.fr/lium/masquotte-castor-forge/-/raw/main/komit_fete.svg)
-![komit fête](https://forge.aeif.fr/lium/masquotte-castor-forge/-/raw/main/komit_fete.svg)
-![komit fête](https://forge.aeif.fr/lium/masquotte-castor-forge/-/raw/main/komit_fete.svg)
+![komit fête](https://forge.apps.education.fr/lium/mascotte-castor-forge/-/raw/main/komit_fete.svg)
+![komit fête](https://forge.apps.education.fr/lium/mascotte-castor-forge/-/raw/main/komit_fete.svg)
+![komit fête](https://forge.apps.education.fr/lium/mascotte-castor-forge/-/raw/main/komit_fete.svg)
 
 <div>
 

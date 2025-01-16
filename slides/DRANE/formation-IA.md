@@ -280,7 +280,7 @@ droit d'auteur / normes écologiques
 
 ---
 <!-- _class: partie -->
-# II - <br>Côté profs <br>[:link:](https://eyssette.forge.aeif.fr/markpage/#https://github.com/eyssette/minisite-markpage/blob/main/concevoir-ressources-avec-IA.md)
+# II - <br>Côté profs <br>[:link:](https://eyssette.forge.apps.education.fr/markpage/#https://github.com/eyssette/minisite-markpage/blob/main/concevoir-ressources-avec-IA.md)
 <!-- fit -->
 Deuxième partie
 
@@ -302,7 +302,7 @@ Trois usages possibles
 
 ---
 <!-- _class: i1t1 vertical -->
-[![](https://raw.githubusercontent.com/eyssette/minisite-markpage/main/img/creer-ressource-avec-IAG.png)](https://eyssette.forge.aeif.fr/markpage/?sec=1&subsec=1#https://github.com/eyssette/minisite-markpage/blob/main/concevoir-ressources-avec-IA.md)
+[![](https://raw.githubusercontent.com/eyssette/minisite-markpage/main/img/creer-ressource-avec-IAG.png)](https://eyssette.forge.apps.education.fr/markpage/?sec=1&subsec=1#https://github.com/eyssette/minisite-markpage/blob/main/concevoir-ressources-avec-IA.md)
 
 
 ---
@@ -312,7 +312,7 @@ Trois usages possibles
 
 ---
 <!-- _class: i1t1 vertical -->
-[![](https://raw.githubusercontent.com/eyssette/minisite-markpage/main/img/adapter-changer-format-ressource-avec-IAG.png)](https://eyssette.forge.aeif.fr/markpage/?sec=2&subsec=1#https://github.com/eyssette/minisite-markpage/blob/main/concevoir-ressources-avec-IA.md)
+[![](https://raw.githubusercontent.com/eyssette/minisite-markpage/main/img/adapter-changer-format-ressource-avec-IAG.png)](https://eyssette.forge.apps.education.fr/markpage/?sec=2&subsec=1#https://github.com/eyssette/minisite-markpage/blob/main/concevoir-ressources-avec-IA.md)
 
 ---
 <!-- _class: souspartie -->
@@ -321,7 +321,7 @@ Trois usages possibles
 
 ---
 <!-- _class: i1t1 vertical -->
-[![](https://raw.githubusercontent.com/eyssette/minisite-markpage/main/img/evaluer-ameliorer-ressource-avec-IA.png)](https://eyssette.forge.aeif.fr/markpage/?sec=3&subsec=1#https://github.com/eyssette/minisite-markpage/blob/main/concevoir-ressources-avec-IA.md)
+[![](https://raw.githubusercontent.com/eyssette/minisite-markpage/main/img/evaluer-ameliorer-ressource-avec-IA.png)](https://eyssette.forge.apps.education.fr/markpage/?sec=3&subsec=1#https://github.com/eyssette/minisite-markpage/blob/main/concevoir-ressources-avec-IA.md)
 
 
 ---

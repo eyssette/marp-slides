@@ -151,7 +151,7 @@ https://chatmd.forge.apps.education.fr/#https://codimd.apps.education.fr/PsdbCN3
 
 Tutoriel pour l'utilisation d'un outil informatique : [mise en place d'ELEA](https://drane.ac-lyon.fr/spip/ELEA-la-plateforme-Moodle-de-l), [utilisation de la Forge](https://chatmd.forge.apps.education.fr/#https://github.com/eyssette/chatbot/blob/main/utiliser-la-forge.md) 
 
-<span data-marpit-fragment="1">Guide pratique pour pouvoir répondre à un problème, accès plus facile et interactif à des informations : [redirection vers la bonne plateforme d'assistance](https://drane-lyon.forge.aeif.fr/chatMD/#https://codimd.apps.education.fr/KgiRUrr8Ttq9-CxZGmxmmg), [gestion des fiches Google](https://drane.ac-lyon.fr/spip/gestion-avis-google-map), [FAQ sur le GAR](https://drane.ac-lyon.fr/spip/GAR-Besoin-d-aide-utiliser-le)</span>
+<span data-marpit-fragment="1">Guide pratique pour pouvoir répondre à un problème, accès plus facile et interactif à des informations : [redirection vers la bonne plateforme d'assistance](https://drane-lyon.forge.apps.education.fr/chatMD/#https://codimd.apps.education.fr/KgiRUrr8Ttq9-CxZGmxmmg), [gestion des fiches Google](https://drane.ac-lyon.fr/spip/gestion-avis-google-map), [FAQ sur le GAR](https://drane.ac-lyon.fr/spip/GAR-Besoin-d-aide-utiliser-le)</span>
 
 
 

@@ -246,7 +246,7 @@ http://programminghistorian.org/en/lessons/sustainable-authorship-in-plain-text-
 
 * Idée : créer des modèles dédiés à un usage pédagogique précis
 * Des modèles utilisables soit par les collègues soit par les élèves dans le cadre d'une activité qu'on leur fait faire
-* Des modèles utilisables sur [CodiMD](https://codimd.apps.education.fr/) et sur [la forge](https://forge.aeif.fr/)
+* Des modèles utilisables sur [CodiMD](https://codimd.apps.education.fr/) et sur [la forge](https://forge.apps.education.fr/)
 
 
 ---
