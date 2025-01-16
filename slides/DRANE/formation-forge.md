@@ -14,7 +14,7 @@ h1 {margin-left:270px; padding-right:30px!important; line-height:1.15; text-alig
 
 # La Forge des <br>communs <br>numériques<br> éducatifs<!-- fit -->
 
-![](https://forge.aeif.fr/framaka/visuel-forge/-/raw/main/brigit-et-komit/Brigit_et_Komit_transparent.png?ref_type=heads)
+![](https://forge.apps.education.fr/docs/communication/visuels/-/raw/main/brigit-et-komit/Brigit_et_Komit_transparent.png?ref_type=heads&inline=false)
 
 Cédric Eyssette - chargé de projet
 DRANE site de Lyon
@@ -55,7 +55,8 @@ h2 {background:rgba(0,0,0,0.9); color:white; padding:60px 130px;}
 </style>
 ## I - Qu'est-ce <br>qu'une forge ?<br> À quoi ça sert ? <!-- fit -->
 
-![bg](https://forge.aeif.fr/framaka/visuel-forge/-/raw/main/brigit-et-komit/Brigit_et_Komit_avec_fond_forge_sans_logo.png?ref_type=heads)
+![bg](https://forge.apps.education.fr/docs/communication/visuels/-/raw/main/brigit-et-komit/Brigit_et_Komit_avec_fond_forge_sans_logo.png?ref_type=heads)
+
 
 
 ---
@@ -74,7 +75,7 @@ h3 {width:95%; background:rgba(0,0,0,0.1); padding-top:50px;  padding-bottom:50p
 </style>
 
 
-### ![](https://forge.aeif.fr/framaka/visuel-forge/-/raw/main/avatars/avatar_Komit_face_cercle.png?ref_type=heads) A. Un outil conçu <br>initialement pour<br>les développeurs<!-- fit -->
+### ![](https://forge.apps.education.fr/docs/communication/visuels/-/raw/main/avatars/avatar_Komit_face_cercle.png?ref_type=heads) A. Un outil conçu <br>initialement pour<br>les développeurs<!-- fit -->
 
 <span data-marpit-fragment="1">… mais qu'on va pouvoir détourner pour en faire un outil pour tout le monde !</span>
 
@@ -135,7 +136,7 @@ h3 {width:95%; background:rgba(0,0,0,0.1); padding-top:50px;  padding-bottom:50p
 </style>
 
 
-### ![](https://forge.aeif.fr/framaka/visuel-forge/-/raw/main/avatars/avatar_Komit_face_cercle.png?ref_type=heads) B. Un outil qu'on peut <br>détourner et qui peut <br>servir à tout le monde<!-- fit -->
+### ![](https://forge.apps.education.fr/docs/communication/visuels/-/raw/main/avatars/avatar_Komit_face_cercle.png?ref_type=heads) B. Un outil qu'on peut <br>détourner et qui peut <br>servir à tout le monde<!-- fit -->
 
 
 ---
@@ -180,7 +181,7 @@ h3 {width:95%; background:rgba(0,0,0,0.1); padding-top:50px;  padding-bottom:50p
 </style>
 
 
-### ![](https://forge.aeif.fr/framaka/visuel-forge/-/raw/main/avatars/avatar_Komit_face_cercle.png?ref_type=heads) C. Des valeurs inhérentes<br>à la Forge des Communs<br>Numériques Éducatifs<!-- fit -->
+### ![](https://forge.apps.education.fr/docs/communication/visuels/-/raw/main/avatars/avatar_Komit_face_cercle.png?ref_type=heads) C. Des valeurs inhérentes<br>à la Forge des Communs<br>Numériques Éducatifs<!-- fit -->
 
 
 ---
@@ -193,6 +194,7 @@ p:nth-of-type(2) img {position:absolute!important; top:220px; left:50px; width:3
 
 ![](https://svgur.com/i/12mZ.svg)
 
+
 ---
 <!-- _class:  -->
 <style scoped>
@@ -200,7 +202,7 @@ h2 {background:rgba(0,0,0,0.9); color:white; padding:90px 130px;}
 </style>
 ## II - Comment <br>utiliser la forge ? <!-- fit -->
 
-![bg](https://forge.aeif.fr/framaka/visuel-forge/-/raw/main/brigit-et-komit/Brigit_et_Komit_avec_fond_forge_sans_logo.png?ref_type=heads)
+![bg](https://forge.apps.education.fr/docs/communication/visuels/-/raw/main/brigit-et-komit/Brigit_et_Komit_avec_fond_forge_sans_logo.png?ref_type=heads)
 
 
 
@@ -214,7 +216,7 @@ h3 {width:95%; background:rgba(0,0,0,0.1); padding-top:50px;  padding-bottom:50p
 </style>
 
 
-### ![](https://forge.aeif.fr/framaka/visuel-forge/-/raw/main/avatars/avatar_Komit_face_cercle.png?ref_type=heads) A. Travailler en ligne<br>sur la forge <!-- fit -->
+### ![](https://forge.apps.education.fr/docs/communication/visuels/-/raw/main/avatars/avatar_Komit_face_cercle.png?ref_type=heads) A. Travailler en ligne<br>sur la forge <!-- fit -->
 
 
 ---
@@ -240,7 +242,7 @@ h3 {width:95%; background:rgba(0,0,0,0.1); padding-top:50px;  padding-bottom:50p
 </style>
 
 
-### ![](https://forge.aeif.fr/framaka/visuel-forge/-/raw/main/avatars/avatar_Komit_face_cercle.png?ref_type=heads) B. Travailler en local <br>sur son ordinateur <!-- fit -->
+### ![](https://forge.apps.education.fr/docs/communication/visuels/-/raw/main/avatars/avatar_Komit_face_cercle.png?ref_type=heads) B. Travailler en local <br>sur son ordinateur <!-- fit -->
 
 
 ---
@@ -291,7 +293,7 @@ h3 {width:95%; background:rgba(0,0,0,0.1); padding-top:50px;  padding-bottom:50p
 </style>
 
 
-### ![](https://forge.aeif.fr/framaka/visuel-forge/-/raw/main/avatars/avatar_Komit_face_cercle.png?ref_type=heads) B. Travailler à plusieurs :<br> les bonnes pratiques <!-- fit -->
+### ![](https://forge.apps.education.fr/docs/communication/visuels/-/raw/main/avatars/avatar_Komit_face_cercle.png?ref_type=heads) B. Travailler à plusieurs :<br> les bonnes pratiques <!-- fit -->
 
 
 ---
