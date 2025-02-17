@@ -48,7 +48,7 @@ blockquote blockquote {margin-top:-10px}
 figure {margin-right:-40px!important}
 </style>
 
-![bg left:26%](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Kant_gemaelde_3.jpg/459px-Kant_gemaelde_3.jpg?20180929063043)
+![bg left:26%](https://upload.wikimedia.org/wikipedia/commons/7/79/Immanuel_Kant_-_Gemaelde_1.jpg)
 
 >« Le talent de l’invention s’appelle génie. […] on ne le donne pas […] à un artiste qui ne fait qu’imiter, mais seulement à celui qui a des dispositions à produire originellement son monde, et enfin à celui-là seul encore dont le produit est digne de servir de modèle. […] Le champ propre au génie est celui de l’imagination. Parce que cette faculté est créatrice, et que, moins soumise à la discipline des règles, elle est par là même d’autant plus capable d’originalité. — Le mécanisme de l’instruction, qui astreint constamment l’élève à l’imitation, est toujours contraire à l’éclosion du génie, en ce qui regarde l’originalité. Mais chaque art a pourtant besoin de certaines règles mécaniques fondamentales »
 >>**Kant**, _Anthropologie du point de vue pragmatique_, I, §57
